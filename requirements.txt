@@ -1,0 +1,15 @@
+# Core pipeline
+pymupdf>=1.24
+pandas>=2.0
+matplotlib>=3.8
+
+# OCR fallback (also needs the `tesseract` system binary; see SETUP.md)
+pytesseract>=0.3.10
+pillow>=10.0
+
+# Topic modelling stage (install when you reach it)
+# bertopic>=0.16
+# sentence-transformers>=2.6
+# umap-learn>=0.5
+# hdbscan>=0.8
+# scikit-learn>=1.4

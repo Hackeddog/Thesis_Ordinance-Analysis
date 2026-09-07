@@ -1,0 +1,84 @@
+# =====================================================================
+# Data: ignore contents, keep the folder structure
+# =====================================================================
+data/raw/**
+!data/raw/**/
+!data/raw/**/.gitkeep
+
+data/processed/**
+!data/processed/**/
+!data/processed/**/.gitkeep
+
+data/versions/**
+!data/versions/**/
+!data/versions/**/.gitkeep
+
+# Regenerable caches and curation side-effects
+data/interim/
+data/quarantine/
+
+# EDA tables are regenerated every run; the audit trail is not
+data/EDA/*
+!data/EDA/.gitkeep
+!data/EDA/quarantine_manifest.csv
+
+# Hand-authored adjudications: ALWAYS tracked
+!data/manual_year_overrides.csv
+!data/manual_year_overrides_[0-9][0-9][0-9][0-9].csv
+
+# Regenerated adjudication templates: never tracked
+data/manual_year_overrides_TEMPLATE_*.csv
+
+# Frozen run snapshots
+_baseline_*/
+_frozen_*/
+
+# =====================================================================
+# Outputs: keep the reports, drop the figures
+# =====================================================================
+outputs/figures/**
+!outputs/figures/**/
+!outputs/figures/**/.gitkeep
+outputs/reports/header_debug_*.txt
+
+# =====================================================================
+# Obsidian
+# =====================================================================
+# Generated notes are a projection of the pipeline output
+Thesis_Obsidian/Ordinances/**
+!Thesis_Obsidian/Ordinances/.gitkeep
+
+# Per-machine UI state (shared settings and plugins stay tracked)
+Thesis_Obsidian/.obsidian/workspace.json
+Thesis_Obsidian/.obsidian/workspace-mobile.json
+Thesis_Obsidian/.obsidian/cache
+
+# =====================================================================
+# Python
+# =====================================================================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+
+# =====================================================================
+# Jupyter
+# =====================================================================
+.ipynb_checkpoints/
+
+# =====================================================================
+# OS / editor
+# =====================================================================
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+.idea/
+
+# =====================================================================
+# Secrets / logs
+# =====================================================================
+.env
+*.log
