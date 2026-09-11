@@ -33,9 +33,12 @@ import hashlib
 import io
 import json
 import logging
+import platform
 import re
 import shutil
+import subprocess
 import sys
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -86,6 +89,8 @@ DATE_WINDOW = 400                  # chars scanned after a date anchor
 OCR_PAGE_MIN_CHARS = 100           # per page, below this the page is rasterized
 SPARSE_DOC_CHARS = 300             # whole-doc completeness flag
 NO_TEXT_CHARS = 120                # below this there is effectively no text layer
+CACHE_FORMAT_VERSION = 2           # invalidate caches when extraction semantics change
+PIPELINE_SCHEMA_VERSION = "1.1"    # version of the generated record/data contract
 
 # Evidence weights. confidence_score is the summed weight of AGREEING signals
 # minus half the weight of DISAGREEING ones, so one lone signal caps out at its
@@ -243,6 +248,7 @@ def extract_pdf_content(pdf_path: Path, cache_dir: Optional[Path] = None,
     if PDF_BACKEND is None:
         raise RuntimeError("Install pymupdf, pypdf or pdfplumber.")
 
+    source_hash = compute_file_hash(pdf_path)
     cache_file = None
     if cache_dir is not None:
         cache_dir.mkdir(parents=True, exist_ok=True)
@@ -250,9 +256,17 @@ def extract_pdf_content(pdf_path: Path, cache_dir: Optional[Path] = None,
         if cache_file.exists():
             try:
                 blob = json.loads(cache_file.read_text(encoding="utf-8"))
-                return blob["text"], blob["method"], blob["pages"], blob["ocr_pages"]
+                cache_matches = (
+                    blob.get("cache_version") == CACHE_FORMAT_VERSION
+                    and blob.get("source_hash") == source_hash
+                    and blob.get("use_ocr") == bool(use_ocr)
+                    and blob.get("backend") == PDF_BACKEND
+                )
+                if cache_matches:
+                    return blob["text"], blob["method"], blob["pages"], blob["ocr_pages"]
+                logger.info("Ignoring stale extraction cache: %s", cache_file)
             except Exception:
-                pass
+                logger.warning("Ignoring unreadable extraction cache: %s", cache_file)
 
     pages: List[str] = []
     try:
@@ -267,6 +281,12 @@ def extract_pdf_content(pdf_path: Path, cache_dir: Optional[Path] = None,
         logger.error("Digital extraction failed on %s: %s", pdf_path.name, exc)
 
     ocr_pages = 0
+    ocr_needed = bool(pages) and any(
+        len(page_text.strip()) < OCR_PAGE_MIN_CHARS for page_text in pages)
+    if use_ocr and ocr_needed and (not OCR_AVAILABLE or PDF_BACKEND != "pymupdf"):
+        logger.warning(
+            "OCR fallback unavailable for %s (OCR packages/backend unavailable); "
+            "low-text pages will remain incomplete.", pdf_path.name)
     if use_ocr:
         for i, page_text in enumerate(pages):
             if len(page_text.strip()) < OCR_PAGE_MIN_CHARS:
@@ -274,8 +294,6 @@ def extract_pdf_content(pdf_path: Path, cache_dir: Optional[Path] = None,
                 if len(recovered.strip()) > len(page_text.strip()):
                     pages[i] = recovered
                     ocr_pages += 1
-        if ocr_pages and not OCR_AVAILABLE:
-            logger.warning("OCR unavailable (pytesseract/Pillow missing): %s", pdf_path.name)
 
     text = "\n".join(pages)
     if ocr_pages == 0:
@@ -286,9 +304,16 @@ def extract_pdf_content(pdf_path: Path, cache_dir: Optional[Path] = None,
         method = "Hybrid"
 
     if cache_file is not None:
-        cache_file.write_text(json.dumps(
-            {"text": text, "method": method, "pages": len(pages), "ocr_pages": ocr_pages}),
-            encoding="utf-8")
+        cache_file.write_text(json.dumps({
+            "cache_version": CACHE_FORMAT_VERSION,
+            "source_hash": source_hash,
+            "use_ocr": bool(use_ocr),
+            "backend": PDF_BACKEND,
+            "text": text,
+            "method": method,
+            "pages": len(pages),
+            "ocr_pages": ocr_pages,
+        }, ensure_ascii=False, sort_keys=True), encoding="utf-8")
     return text, method, len(pages), ocr_pages
 
 
@@ -813,6 +838,7 @@ def process_year_folder(folder_year: int, base_raw_dir: Path,
 
         words = len(text.split())
         record = {
+            "schema_version": PIPELINE_SCHEMA_VERSION,
             "filename": pdf_path.name,
             "file_path": str(pdf_path),
             "file_hash": compute_file_hash(pdf_path),
@@ -952,6 +978,25 @@ STATUS_LABELS = {
 STATUS_ORDER = ["valid", "misfiled", "out_of_scope", "review", "unresolved"]
 STATUS_COLORS = {"valid": "#2a9d8f", "misfiled": "#e76f51", "out_of_scope": "#e9c46a",
                  "review": "#8ab6d6", "unresolved": "#adb5bd"}
+
+
+def validate_pipeline_frame(df: pd.DataFrame, context: str = "pipeline output") -> None:
+    """Validate the minimum data contract before writing thesis artifacts."""
+    required = {
+        "filename", "folder_year", "temporal_status", "resolved_year",
+        "confidence_score", "is_sparse", "file_hash", "ordinance_number",
+    }
+    missing = sorted(required - set(df.columns))
+    if missing:
+        raise ValueError(f"{context} is missing required column(s): {', '.join(missing)}")
+    unknown_statuses = sorted(set(df["temporal_status"].dropna()) - set(STATUS_ORDER))
+    if unknown_statuses:
+        raise ValueError(f"{context} contains unknown temporal status(es): {unknown_statuses}")
+    if df[["folder_year", "filename"]].duplicated().any():
+        raise ValueError(f"{context} contains duplicate folder-year/filename records")
+    confidence = pd.to_numeric(df["confidence_score"], errors="coerce")
+    if confidence.isna().any() or ((confidence < 0) | (confidence > 1)).any():
+        raise ValueError(f"{context} contains confidence scores outside [0, 1]")
 
 
 def _pct(part: int, whole: int) -> str:
@@ -1129,6 +1174,7 @@ def generate_eda_markdown_report(df: pd.DataFrame, folder_year: int, report_path
 def generate_eda_outputs(df: pd.DataFrame, folder_year: int, eda_csv_dir: Path,
                          report_dir: Path, figures_dir: Path,
                          study_window: Tuple[int, int]) -> None:
+    validate_pipeline_frame(df, f"EDA output for folder {folder_year}")
     for directory in (eda_csv_dir, report_dir, figures_dir):
         directory.mkdir(parents=True, exist_ok=True)
 
@@ -1388,7 +1434,9 @@ def emit_override_template(df: pd.DataFrame, path: Path) -> Path:
 
 REMOVAL_CATEGORIES = ("out_of_scope", "misfiled", "review", "unresolved",
                       "duplicate", "sparse")
-DEFAULT_REMOVAL = ("out_of_scope", "duplicate", "sparse")
+# Files needing adjudication are excluded from the modelling manifest by default.
+# Misfiled but confidently resolved files remain eligible and are re-dated.
+DEFAULT_REMOVAL = ("out_of_scope", "review", "unresolved", "duplicate", "sparse")
 
 
 def flag_removal_reasons(df: pd.DataFrame, categories: Tuple[str, ...]) -> pd.DataFrame:
@@ -1410,6 +1458,18 @@ def flag_removal_reasons(df: pd.DataFrame, categories: Tuple[str, ...]) -> pd.Da
         target = mask & (df["removal_reason"] == "") & ~protected
         df.loc[target, "removal_reason"] = reason
 
+    # Reason precedence: temporal decisions are more informative than duplicate
+    # or sparsity labels. Sparseness is checked last so a genuinely out-of-scope
+    # ordinance is not filed under "sparse" merely because its text is thin.
+    if "out_of_scope" in categories:
+        mark(df["temporal_status"] == "out_of_scope", "out_of_scope")
+    if "misfiled" in categories:
+        mark(df["temporal_status"] == "misfiled", "misfiled")
+    if "review" in categories:
+        mark(df["temporal_status"] == "review", "low_confidence_review")
+    if "unresolved" in categories:
+        mark(df["temporal_status"] == "unresolved", "unresolved")
+
     if "duplicate" in categories:
         dup_losers = []
         for _, grp in df[df["file_hash"].notnull()].groupby("file_hash"):
@@ -1426,17 +1486,6 @@ def flag_removal_reasons(df: pd.DataFrame, categories: Tuple[str, ...]) -> pd.Da
                 dup_losers += list(ranked.index[1:])
         mark(df.index.isin(set(dup_losers)), "duplicate")
 
-    # Reason precedence: the most informative label wins. Sparseness is checked
-    # last so a genuinely out-of-scope ordinance is not filed under "sparse"
-    # merely because its text layer is thin.
-    if "out_of_scope" in categories:
-        mark(df["temporal_status"] == "out_of_scope", "out_of_scope")
-    if "misfiled" in categories:
-        mark(df["temporal_status"] == "misfiled", "misfiled")
-    if "review" in categories:
-        mark(df["temporal_status"] == "review", "low_confidence_review")
-    if "unresolved" in categories:
-        mark(df["temporal_status"] == "unresolved", "unresolved")
     if "sparse" in categories:
         mark(df["is_sparse"], "sparse_or_unreadable")
 
@@ -1552,6 +1601,9 @@ def restore_from_quarantine(project_root: Path, assume_yes: bool = False) -> Non
         src, dest = Path(row["quarantine_path"]), Path(row["original_path"])
         if not src.exists():
             continue
+        if dest.exists():
+            logger.warning("Restore destination exists, skipped: %s", dest)
+            continue
         dest.parent.mkdir(parents=True, exist_ok=True)
         shutil.move(str(src), str(dest))
         restored += 1
@@ -1560,30 +1612,96 @@ def restore_from_quarantine(project_root: Path, assume_yes: bool = False) -> Non
 
 
 def build_corpus_index(df: pd.DataFrame, project_root: Path) -> Path:
-    """Write the modelling manifest: which files enter the model, under which year.
+    """Write the modelling manifest with explicit eligibility rules.
 
-    `corpus_year` is the time bucket a dynamic topic model should use. For a
-    trusted misfiled document that is the RESOLVED year, not the folder year, so
-    the ordinance is re-dated rather than discarded.
+    `corpus_year` is the time bucket a dynamic topic model should use. A
+    confidently resolved misfiled document is re-dated to its resolved year;
+    unresolved and review records never silently enter the modelling corpus.
     """
     out = df.copy()
-    trusted = (out["confidence_score"] >= MISFILE_MIN_CONFIDENCE) & out["resolved_year"].notnull()
+    validate_pipeline_frame(out, "corpus index")
+    status = out["temporal_status"].astype(str)
+    trusted = status.isin({"valid", "misfiled"}) \
+        & out["confidence_score"].ge(MISFILE_MIN_CONFIDENCE) \
+        & out["resolved_year"].notnull()
     out["corpus_year"] = out["folder_year"].where(~trusted, out["resolved_year"])
     out["corpus_year"] = out["corpus_year"].astype("Int64")
-    out["included_in_corpus"] = (out.get("removal_reason", "") == "") & ~out["is_sparse"]
+    removal_reason = (out["removal_reason"].fillna("")
+                      if "removal_reason" in out.columns
+                      else pd.Series("", index=out.index))
+    out["included_in_corpus"] = (
+        status.isin({"valid", "misfiled"})
+        & (removal_reason == "")
+        & ~out["is_sparse"].fillna(True)
+    )
 
     path = project_root / "data" / "processed" / "corpus_index.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
-    columns = ["filename", "file_path", "ordinance_number", "title", "folder_year",
-               "resolved_year", "corpus_year", "enactment_date", "approval_date",
-               "temporal_status", "confidence_score", "removal_reason",
-               "included_in_corpus", "clean_word_count", "word_count", "page_count",
-               "section_count", "subject_keywords", "clean_text_path"]
+    columns = ["schema_version", "filename", "file_path", "file_hash",
+               "ordinance_number", "title", "folder_year", "resolved_year",
+               "corpus_year", "enactment_date", "approval_date", "temporal_status",
+               "confidence_score", "removal_reason", "included_in_corpus",
+               "clean_word_count", "word_count", "page_count", "section_count",
+               "subject_keywords", "clean_text_path"]
     out[[c for c in columns if c in out.columns]].to_csv(path, index=False)
     kept = int(out["included_in_corpus"].sum())
     redated = int((trusted & (out["resolved_year"] != out["folder_year"])).sum())
     logger.info("Corpus index: %s | %d of %d documents included | %d re-dated to their "
                 "resolved year", path, kept, len(out), redated)
+    return path
+
+
+def _git_revision(project_root: Path) -> str:
+    """Return the current commit for provenance, or 'unknown' outside git."""
+    try:
+        result = subprocess.run(
+            ["git", "-C", str(project_root), "rev-parse", "HEAD"],
+            capture_output=True, text=True, check=True)
+        return result.stdout.strip()
+    except (OSError, subprocess.CalledProcessError):
+        return "unknown"
+
+
+def write_run_manifest(df: pd.DataFrame, project_root: Path,
+                       study_window: Tuple[int, int], options: Dict[str, Any]) -> Path:
+    """Persist run configuration and source hashes beside the generated reports."""
+    def json_value(value: Any) -> Any:
+        if isinstance(value, Path):
+            return str(value)
+        if isinstance(value, (str, int, float, bool)) or value is None:
+            return value
+        if isinstance(value, (list, tuple)):
+            return [json_value(item) for item in value]
+        return str(value)
+
+    documents = []
+    for _, row in df.iterrows():
+        documents.append({
+            "filename": row.get("filename"),
+            "folder_year": row.get("folder_year"),
+            "file_hash": row.get("file_hash"),
+            "temporal_status": row.get("temporal_status"),
+            "resolved_year": row.get("resolved_year"),
+            "included_in_corpus": bool(row.get("included_in_corpus", False)),
+        })
+    manifest = {
+        "manifest_version": 1,
+        "pipeline_schema_version": PIPELINE_SCHEMA_VERSION,
+        "generated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "git_revision": _git_revision(project_root),
+        "python_version": platform.python_version(),
+        "pdf_backend": PDF_BACKEND,
+        "ocr_packages_available": OCR_AVAILABLE,
+        "study_window": list(study_window),
+        "options": {key: json_value(value) for key, value in options.items()},
+        "document_count": len(documents),
+        "documents": documents,
+    }
+    path = project_root / "outputs" / "reports" / "run_manifest.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False, default=str),
+                    encoding="utf-8")
+    logger.info("Saved reproducibility manifest: %s", path)
     return path
 
 
@@ -1924,6 +2042,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         return 0
 
     full_df = pd.DataFrame(all_records)
+    validate_pipeline_frame(full_df, "corpus rollup")
 
     if args.emit_override_template:
         emit_override_templates(full_df, project_root)
@@ -1947,13 +2066,21 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     index_path = build_corpus_index(full_df, project_root)
     full_df.to_csv(eda_csv_dir / "ordinances_eda_summary_ALL.csv", index=False)
+    # Keep the exact run configuration and source hashes beside the reports.
+    # This is the provenance record to preserve with any thesis result.
+    index_df = pd.read_csv(index_path)
+    manifest_df = full_df.merge(
+        index_df[["filename", "folder_year", "corpus_year", "included_in_corpus"]],
+        on=["filename", "folder_year"], how="left")
+    write_run_manifest(manifest_df, project_root, study_window, vars(args))
 
     if args.export_obsidian:
         export_df = full_df.copy()
-        # corpus_year lives in the index; merge it back so notes are filed by it.
-        index_df = pd.read_csv(index_path, usecols=["filename", "corpus_year",
-                                                    "included_in_corpus"])
-        export_df = export_df.merge(index_df, on="filename", how="left")
+        # corpus_year lives in the index; use folder_year too because filenames
+        # are not guaranteed to be unique across year folders.
+        index_df = pd.read_csv(index_path, usecols=["filename", "folder_year",
+                                                    "corpus_year", "included_in_corpus"])
+        export_df = export_df.merge(index_df, on=["filename", "folder_year"], how="left")
         if args.obsidian_corpus_only:
             export_df = export_df[export_df["included_in_corpus"].fillna(True)]
         write_obsidian_vault(export_df, vault_root,

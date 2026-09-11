@@ -3,13 +3,16 @@ PY ?= python
 SRC = src/ordinance_eda_pipeline.py
 WINDOW = --window-min 2016 --window-max 2024
 
-.PHONY: help install fixtures test debug audit-2016 audit dry-run curate adjudicate vault freeze clean-cache
+.PHONY: help install app fixtures test debug audit-2016 audit dry-run curate adjudicate vault freeze clean-cache
 
 help:
 	@grep -E '^[a-z-]+:.*?##' $(MAKEFILE_LIST) | sed 's/:.*##/\t/' | column -t -s "$$(printf '\t')"
 
 install:  ## Install Python dependencies
 	$(PY) -m pip install -r requirements.txt
+
+app:  ## Launch the local Ordinance Lab dashboard
+	$(PY) -m streamlit run app/main.py
 
 fixtures:  ## Generate synthetic test PDFs into tests/fixtures/
 	$(PY) tests/make_fixtures.py

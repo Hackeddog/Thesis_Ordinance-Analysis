@@ -7,6 +7,9 @@ matplotlib>=3.8
 pytesseract>=0.3.10
 pillow>=10.0
 
+# Local dashboard
+streamlit>=1.40
+
 # Topic modelling stage (install when you reach it)
 # bertopic>=0.16
 # sentence-transformers>=2.6

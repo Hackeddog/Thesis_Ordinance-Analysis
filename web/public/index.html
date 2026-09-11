@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ordinance Lab</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">◈</span><span>Ordinance Lab</span></div>
+      <p class="sidebar-copy">A calm control room for auditing and preparing the Davao City ordinance corpus.</p>
+      <div class="safe-badge">SAFE AUDIT MODE</div>
+
+      <section class="controls">
+        <div class="eyebrow">Run controls</div>
+        <label for="scope">Audit scope</label>
+        <select id="scope">
+          <option value="all">All available years</option>
+          <option value="single">Single year</option>
+        </select>
+        <label for="year">Year</label>
+        <select id="year" disabled></select>
+        <div class="field-row">
+          <div><label for="windowMin">Start</label><input id="windowMin" type="number" min="1900" max="2035" value="2016"></div>
+          <div><label for="windowMax">End</label><input id="windowMax" type="number" min="1900" max="2035" value="2024"></div>
+        </div>
+        <label class="check"><input id="useOcr" type="checkbox" checked> Use OCR fallback</label>
+        <label class="check"><input id="useCache" type="checkbox" checked> Use extraction cache</label>
+        <label class="check"><input id="syncObsidian" type="checkbox" checked> Refresh Obsidian notes</label>
+        <button id="runAudit" class="primary full">Run audit</button>
+        <div id="runState" class="run-state" role="status"></div>
+      </section>
+
+      <section class="upload-box">
+        <div class="eyebrow">Update corpus</div>
+        <h2>Upload ordinance PDF</h2>
+        <p>Add a PDF to the selected raw year folder. The existing file is never overwritten unless you explicitly enable replace.</p>
+        <form id="uploadForm">
+          <label for="uploadYear">Ordinance year</label>
+          <input id="uploadYear" type="number" min="1900" max="2035" value="2016" required>
+          <label for="pdfFile">PDF file</label>
+          <input id="pdfFile" type="file" accept="application/pdf,.pdf" required>
+          <label class="check"><input id="replaceExisting" type="checkbox"> Replace same filename</label>
+          <button class="secondary full" type="submit">Add to ordinance database</button>
+        </form>
+        <div id="uploadState" class="run-state" role="status"></div>
+      </section>
+
+      <div class="sidebar-foot">
+        <div><span id="rawCount">0</span> raw PDFs detected</div>
+        <div class="muted">No files are moved or deleted by this version.</div>
+      </div>
+    </aside>
+
+    <main class="content">
+      <header class="hero">
+        <div class="eyebrow">Davao City ordinance corpus</div>
+        <h1>Organize the corpus.<br><em>Trust the signal.</em></h1>
+        <p>Run safe audits, inspect document health, and keep the thesis workflow visible from one browser window.</p>
+      </header>
+
+      <nav class="tabs" aria-label="Main navigation">
+        <button class="tab active" data-tab="overview">Overview</button>
+        <button class="tab" data-tab="documents">Documents</button>
+        <button class="tab" data-tab="reports">Reports</button>
+        <button class="tab" data-tab="checklist">Thesis checklist</button>
+      </nav>
+
+      <section id="overview" class="panel active">
+        <div id="emptyState" class="notice hidden"><strong>No audit output yet.</strong> Put PDFs in <code>data/raw/&lt;year&gt;</code>, then run an audit.</div>
+        <div class="metrics">
+          <div class="metric"><span>Documents</span><strong id="metricDocuments">0</strong></div>
+          <div class="metric"><span>Valid placement</span><strong id="metricValid">0</strong><small id="metricValidRate">—</small></div>
+          <div class="metric"><span>Needs review</span><strong id="metricReview">0</strong></div>
+          <div class="metric accent"><span>Eligible for modelling</span><strong id="metricIncluded">0</strong></div>
+        </div>
+        <div class="grid-two">
+          <article class="card"><div class="section-head"><h2>Temporal integrity</h2><span class="mono">status</span></div><div id="statusChart" class="bars"></div></article>
+          <article class="card"><div class="section-head"><h2>Extraction health</h2><span class="mono">method</span></div><div id="methodChart" class="bars teal"></div><div id="coverage" class="coverage"></div></article>
+        </div>
+        <div id="manifestNote" class="footnote"></div>
+      </section>
+
+      <section id="documents" class="panel">
+        <div class="section-head"><div><div class="eyebrow">Corpus register</div><h2>Documents</h2></div><span id="documentCount" class="mono"></span></div>
+        <div class="filters">
+          <label>Status<select id="statusFilter"><option value="All">All</option></select></label>
+          <label>Folder year<select id="yearFilter"><option value="All">All</option></select></label>
+          <label class="search">Search<input id="searchFilter" type="search" placeholder="filename or title"></label>
+        </div>
+        <div class="table-wrap"><table><thead><tr><th>Filename</th><th>Folder</th><th>Corpus year</th><th>Status</th><th>Confidence</th><th>Included</th><th>Extraction</th></tr></thead><tbody id="documentRows"></tbody></table></div>
+      </section>
+
+      <section id="reports" class="panel">
+        <div class="section-head"><div><div class="eyebrow">Generated evidence</div><h2>Reports</h2></div><label class="inline-select">Report<select id="reportSelect"><option value="all">Corpus</option></select></label></div>
+        <pre id="reportContent" class="report">No report is available yet.</pre>
+      </section>
+
+      <section id="checklist" class="panel">
+        <div class="section-head"><div><div class="eyebrow">Research quality</div><h2>Thesis checklist</h2></div></div>
+        <pre id="checklistContent" class="report">Loading checklist…</pre>
+      </section>
+
+      <footer>Ordinance Lab <span>·</span> local research workspace <span>·</span> safe by default</footer>
+    </main>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

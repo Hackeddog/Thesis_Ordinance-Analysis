@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Ordinance Lab website",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/web/server.js",
+      "runtimeExecutable": "bun",
+      "console": "internalConsole",
+      "env": {
+        "PORT": "3000"
+      }
+    }
+  ]
+}

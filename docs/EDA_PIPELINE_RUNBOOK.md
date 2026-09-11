@@ -235,8 +235,8 @@ Undo the whole operation with:
 python src/ordinance_eda_pipeline.py --restore
 ```
 
-Default removal categories are `out_of_scope`, `duplicate` and `sparse`.
-Override with `--remove-categories`.
+Default removal categories are `out_of_scope`, `review`, `unresolved`,
+`duplicate` and `sparse`. Override with `--remove-categories`.
 
 | Category | Removes | Default |
 |---|---|---|
@@ -244,8 +244,8 @@ Override with `--remove-categories`.
 | `duplicate` | Byte-identical files and repeated ordinance numbers, keeping one representative per group | yes |
 | `sparse` | Under 300 extracted characters: failed OCR or a broken PDF | yes |
 | `misfiled` | In-window but in the wrong folder | no, re-dated instead |
-| `review` | Mismatch below the confidence bar | no |
-| `unresolved` | No year signal recovered | no |
+| `review` | Mismatch below the confidence bar | yes |
+| `unresolved` | No year signal recovered | yes |
 
 **Why `misfiled` is not removed by default.** A misfiled but in-window
 ordinance is good data in the wrong drawer. Deleting a 2017 ordinance because it
@@ -254,7 +254,8 @@ downward, which is a direct hit to what a dynamic topic model measures. Those
 documents are re-dated via `corpus_year` instead.
 
 Curation is a whole-corpus operation. Run it once, after every year has been
-adjudicated, not per person.
+adjudicated, not per person. Until review and unresolved records are adjudicated,
+they remain outside the modelling manifest even if their PDFs stay in `data/raw/`.
 
 `--purge` deletes instead of quarantining and requires typing `DELETE` in
 capitals. Avoid it. A manifest turns "N documents excluded" into a claim your
@@ -356,13 +357,14 @@ trail: which automated verdicts a human overruled, and what left the corpus.
 | `data/EDA/ordinances_eda_summary_ALL.csv` | Every row from every year folder |
 | `outputs/reports/eda_report_CORPUS.md` | Folder-year by status crosstab, cross-year duplicates |
 | `outputs/figures/temporal_distribution_CORPUS.png` | Stacked bar, status by folder year |
-| `data/processed/corpus_index.csv` | The modelling manifest |
+| `data/processed/corpus_index.csv` | The modelling manifest; only valid and confidently resolved records are eligible |
+| `outputs/reports/run_manifest.json` | Commit, configuration, source hashes, software context, and inclusion decisions |
 
 ### Conditional
 
 | Path | Written when |
 |---|---|
-| `data/interim/text/{year}/{stem}.json` | Always, unless `--no-cache`. Regenerable cache |
+| `data/interim/text/{year}/{stem}.json` | Content-aware extraction cache, unless `--no-cache` |
 | `data/manual_year_overrides_TEMPLATE_{year}.csv` | `--emit-override-template`. One per year |
 | `data/raw/{resolved_year}/*.pdf` | `--fix-misfiled` |
 | `data/quarantine/<reason>/<year>/*.pdf` | `--remove-misfiled` |
@@ -427,7 +429,7 @@ about the code.
 |---|---|
 | `Raw directory does not exist` | Year folder missing, or a fresh clone with no corpus. Appendix F |
 | Enactment coverage stuck near zero | Regex does not match the real layout. Step 1, then Step 2 |
-| A regex change appears to do nothing | Stale text cache. Delete `data/interim/` or pass `--no-cache` |
+| A parser change appears to do nothing | The cache stores extracted text, not parser decisions. Pass `--no-cache` when debugging extraction; source changes, backend changes, OCR mode, and cache-format changes invalidate it automatically |
 | Everything lands in `unresolved` | `tesseract` binary missing, or the PDFs have no text layer |
 | Correctly filed ordinance flagged as misfiled | A cited ordinance is winning a signal. Extend `CITATION_CUE_RE`, then override if the scan is genuinely unparseable |
 | My overrides were ignored | Wrong filename in the CSV, or the file is not named `manual_year_overrides_{year}.csv`. Check the run log for `Loaded N manual year override(s)` |

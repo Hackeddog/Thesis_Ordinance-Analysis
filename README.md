@@ -12,6 +12,10 @@ topic model.
 | Run the pipeline day to day | [`docs/EDA_PIPELINE_RUNBOOK.md`](docs/EDA_PIPELINE_RUNBOOK.md) |
 | Understand the classification logic | Appendix C of the runbook |
 | Work alongside teammates | Appendix F of the runbook |
+| Prepare the thesis methods and validation | [`docs/THESIS_READINESS_CHECKLIST.md`](docs/THESIS_READINESS_CHECKLIST.md) |
+| Use the local Python dashboard | [`app/README.md`](app/README.md) |
+| Run the browser website | [`web/README.md`](web/README.md) |
+| Integrate Obsidian and modelling | [`docs/OBSIDIAN_AND_MODEL.md`](docs/OBSIDIAN_AND_MODEL.md) |
 
 ## Quick start
 
@@ -21,7 +25,25 @@ python -m pip install -r requirements.txt
 python tests/test_pipeline.py                                    # verify the install
 python src/ordinance_eda_pipeline.py --year 2016 --debug-headers 10   # inspect first
 python src/ordinance_eda_pipeline.py --all-years --export-obsidian    # then audit
+python -m streamlit run app/main.py                              # open the dashboard
 ```
+
+## Ordinance Lab dashboard
+
+The repository includes a small local Streamlit dashboard for running safe
+(non-destructive) audits, browsing the document register, reading reports, and
+tracking thesis-readiness checks. It is intentionally separate from the parser
+so future interface features do not duplicate pipeline logic.
+
+```bash
+make app
+```
+
+The first version does not move, quarantine, purge, or restore files.
+
+For a browser-based Node.js-compatible website, press `F5` in VS Code and
+choose **Ordinance Lab website**, or run `bun run start`. It opens at
+`http://localhost:3000`.
 
 ## What the pipeline does
 
@@ -34,8 +56,8 @@ python src/ordinance_eda_pipeline.py --all-years --export-obsidian    # then aud
 5. Cleans the text and extracts bibliographic metadata
 6. Routes flagged documents to per-year human adjudication sheets
 7. Curates the corpus, quarantining rather than deleting
-8. Emits summary CSVs, Markdown reports, figures, a modelling manifest, and an
-   Obsidian vault of one note per ordinance
+8. Emits summary CSVs, Markdown reports, figures, a modelling manifest, a
+   reproducibility manifest, and an Obsidian vault of one note per ordinance
 
 ## Corpus provenance
 
@@ -67,13 +89,18 @@ it happened to sit in reintroduces every misfiling the pipeline just detected.
 
 - Outputs are overwritten on every run. Snapshot to `data/versions/` before any
   change you might want to compare against
-- `data/interim/` is a cache. Delete it after editing a regex, or the pipeline
-  reads stale text and your fix appears to do nothing
+- `outputs/reports/run_manifest.json` records the commit, configuration, source
+  hashes, extraction backend, and corpus decisions for the latest run
+- `data/interim/` is a content-aware extraction cache. It is invalidated when a
+  source PDF, backend, OCR setting, or cache format changes
 - `Thesis_Obsidian/Ordinances/` is generated. Keep your own notes in
   `Thesis_Obsidian/Analysis/`
 - Adjudication files (`data/manual_year_overrides_*.csv`) and the quarantine
   manifest are tracked in git. They are the audit trail and no re-run can
   reproduce them
+- `valid` and confidently `misfiled` records are eligible for modelling;
+  `review`, `unresolved`, out-of-scope, duplicate, and sparse records are
+  excluded unless an explicit override is supplied
 
 ## Citation
 
