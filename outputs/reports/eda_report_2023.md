@@ -1,7 +1,7 @@
 # Legal NLP EDA & Temporal Audit Report: 2023
 *Generated automatically by `src/ordinance_eda_pipeline.py`*
 
-Study window: 2016-2025 | confidence bar for misfiling: 0.45 | for relocation: 0.60
+Study window: 2016-2024 | confidence bar for misfiling: 0.45 | for relocation: 0.60
 
 ## 1. Executive summary and file inventory
 

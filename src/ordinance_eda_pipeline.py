@@ -78,7 +78,7 @@ logging.getLogger("PIL").setLevel(logging.WARNING)
 # Configuration
 # --------------------------------------------------------------------------- #
 
-DEFAULT_WINDOW = (2016, 2024)      # nine-year study period; override on the CLI
+DEFAULT_WINDOW = (2016, 2025)      # nine-year study period; override on the CLI
 MIN_YEAR, MAX_YEAR = 1900, 2035
 
 HEADER_CHARS = 1800                # header region scanned for the self number
