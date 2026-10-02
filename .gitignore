@@ -8,6 +8,8 @@ data/raw/**
 data/processed/**
 !data/processed/**/
 !data/processed/**/.gitkeep
+!data/processed/clean_text/
+!data/processed/clean_text/**
 
 data/versions/**
 !data/versions/**/
