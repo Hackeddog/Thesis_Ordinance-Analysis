@@ -1,0 +1,177 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC FROM AURORA ST. CORNER SUA,ZO EXTENSION TO PONCE AURORA ST. Oil AUGUST 23-25, 2O22t FOR THE CELEBRATION OF THE LINGGO NG KABATAAN IN BARANGAY 25-C, POBLACTON DTSTRICT, THIS CrrY"
+date_enacted: "2022-08-16"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000008-22.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 0.75
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: null
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/temporary, topic/closure, topic/road, topic/vehicular, topic/traffic, topic/aurora]
+---
+
+# Ordinance No. 000008-22
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC FROM AURORA ST. CORNER SUA,ZO EXTENSION TO PONCE AURORA ST. Oil AUGUST 23-25, 2O22t FOR THE CELEBRATION OF THE LINGGO NG KABATAAN IN BARANGAY 25-C, POBLACTON DTSTRICT, THIS CrrY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | - |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+7h Regular Session
+SERIES of 2022
+Republic.of thb Philippines
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Courrcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Presiding Officer
+ORDINANCE NO. 008.22
+SERIES of 2O22
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO
+VEHICULAR TRAFFIC FROM AURORA ST. CORNER SUA,ZO
+EXTENSION TO PONCE AURORA ST. Oil AUGUST 23-25, 2O22t FOR
+THE CELEBRATION OF THE LINGGO NG KABATAAN IN BARANGAY
+25-C, POBLACTON DTSTRICT, THIS CrrY
+
+061 ))
+Ord. No.008-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. ELE - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEIIIPORARY CLOST'RE OF ROAD TO VEHICULAR TRAFFIC FRO]'I AURORA
+sT. coRilER SUAZO EXTENSION TO PONCE AURORA ST. ON AUGUST 23-25,
+2022, FOR THE CELEBRATION OF THE LINGGO NG KABATAAN IN BARANGAY
+25-q POBLACION DTSTRTCT, THIS Cril".
+SECTION 2.
+- SECTION 21 (c) of Republic Act
+7160, otherwise known as the Local Government Code of 1991, provides that any
+national or local road, alley, park, or square may be temporarily closed during an actual
+emergency, or fiesta celebration, public rallies, and agricultural or industrial fairs.
+SECTION 3. rc
+- The Barangay Council of Barangay
+2FC requested for the temporary road closure to vehicular traffic from Aurora $.
+corner Suazo Extension to Ponce Aurora St. on August 23-25,2022, for the celebration
+of their Linggo ng Kabataan.
+SECTION 4. SEPARABILITY CTAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 16th day of August 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ a+w;). A^
+CTIARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(CiU Government Depaftment H"ud |I\
+ATTESTED:
+J. MELCHffi. QUITAIN JR.
+Yice Mayor
+Pr6siding Officer
+cns/ray
+
+i
+t.
+j
+)
+Ord. N,o.008-22
+APPROVED:
+AUG 2 4 2n2
+2022
+Z. DUTERTE
+City Mayor Y
+v
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICUI.AR TRAFFIC FROM
+AURORA ST. CORNER SUAZO DffENSION TO PONCE AURORA ST. ON AUGUST 23-25,2022,
+FOR THE CELEBRATION OF THE LINGGO NG KABATAAN IN BARANGAY 25.C, POBUCTON
+DISTRICT, THIS CITY

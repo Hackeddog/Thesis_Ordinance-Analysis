@@ -1,0 +1,313 @@
+---
+ordinance_number: "0498-16"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD IDENTIFIED AS SAN PEDRO STREET, IN BETWEEN BOLTON STREET AND CM RECTO AVENUE (FRONTING THE CATHEDRAL ONLY), DAVAO CITY, FROM MARCH 23, 20L6, 5:00 A.M TO MARCH 27, 20t6 9:00 P,M., FOR THE INSTALLATION OF STEEL STRUOT.IRES (SUGATAN) AND THE BLESSING OF NEW FIRE ON HOLY SATURDAY EVENING AND THE RE.ENACTMENT OF THE SUGAT/ENCUENTRO"
+date_enacted: null
+approval_date: "2016-03-07"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0498-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.33
+detected_enactment_year: 1991.0
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/road, topic/identified]
+---
+
+# Ordinance No. 0498-16
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD IDENTIFIED AS SAN PEDRO STREET, IN BETWEEN BOLTON STREET AND CM RECTO AVENUE (FRONTING THE CATHEDRAL ONLY), DAVAO CITY, FROM MARCH 23, 20L6, 5:00 A.M TO MARCH 27, 20t6 9:00 P,M., FOR THE INSTALLATION OF STEEL STRUOT.IRES (SUGATAN) AND THE BLESSING OF NEW FIRE ON HOLY SATURDAY EVENING AND THE RE.ENACTMENT OF THE SUGAT/ENCUENTRO
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 1991 |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+I?ECEIVES
+ay: FW
+oerr:; ?lilllv
+IIME:
+ffi* ;, F r cx"B?ff ffi rJiviinoo o
+3rd Endorsement
+22 March 2016
+Respectfutty forlyarffi to lrls. CH*RITO lt. SAf+TOq,
+the
+SANGGUNIANG Panlungsod, this City the herein documents relative to City Ordinance No.
+0498-16, SERIES of 2016 entitled 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE ROAD IDENTIFIED AS SAN PEDRO STREET, IN BETWEEN
+BOLTON STREET AND CM RECTO AVENUE (FRONTING THE CATHEDRAL ONLY), DAVAO
+CITY, FROM MARCH 23, 20L6, 5:00 A.M TO MARCH 27, 20t6 9:00 P,M., FOR THE
+INSTALLATION OF STEEL STRUOT.IRES (SUGATAN) AND THE BLESSING OF NEW FIRE
+ON HOLY SATURDAY EVENING AND THE RE.ENACTMENT OF THE SUGAT/ENCUENTRO
+AT THE EARLY DAWN OF EASTER SUNDAY. with the information that this has been
+lapsed into law.
+For your information and appropriate action.
+Thank you.
+RODRIGO R. DUTERTE
+City Mayor
+By
+D. DALUMPINES
+Chief-of-Staff
+/lcsp
+RE[-EASHE
+lo; 7o ar,,
+aN-)-tv
+r
+Second Floot City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224-587 8 . d ava oc itym ayo r@g m a i Lco m
+*-(p\
+I
+vt|-
+r.I
+t
+EME;CEE
+
++nq4
+-7-7zl p (0
+,Fi ?ct 0F THr .t r ,/ er(. :i,qt Fr,-rI'
+Rfll. 22t CllY liAr-, .,,r iir,ilr\tC
+DAVAO ClIi,
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao tai.l
+1"t INDORSEMENT
+MARCH 7,2016
+qlti:lV[0
+l0
+o: sr ar"l
+NAlE
+,lF rti4
+Ref. No. 1131-1€D
+rcb
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0498-16
+SERIES OF 2016, entitled "AN ORDINANCE FOR THE TEMPORARY
+CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD IDENTIFTED AS SAN
+PEDRO STREET, IN BETWEEN BOLTON STREET AND CM RECTO AVENUE
+(FRONT|NG THE CATHEDRAL ONLY), DAVAO Ctry, FROM MARCH 23,
+2016,5:00 A,M TO MARCH 27,2016 9:00 P.M., FOR THE INSTALLATION OF
+STEEL STRUCTURES (SUGATAN) AND THE BLESSING OF NEW FIRE ON
+HOLY SATURDAY EVENING AND THE RE-ENACTMENT OF THE
+SUGAT/ENCUENTRO AT THE EARLY DAWN OF EARTER SUNDAY" informing
+your end that the same is free from legal infirmity citing RA 7160, othenrvise
+known as the Local Government Code of 1991, to quote:
+SECTION 21. Closure and Opening of Roads. (a) A [oca[
+government unit may, pursuant to an ORDINANCE, permanentty or
+temporarity c[ose or open any [oca[ road, attey, park, or square fatting
+withi.n its jurisdictlon: Provi.ded, however, That in case of permanent
+ctosure, such ORDINANCE must be approved by at least two-thirds (2/3) ot
+att the members of the sanggunian, and when necessary, an adequate
+substltute for the pubtic facitity that is subject to closure ls provlded.
+xxx
+(c) Any natlonal or [oca[ road, altey, park, or square may be
+temporarll.y ctosed durtng an actual emergency, or fiesta cetebratlons,
+pubtic ra[[tes, agrlcultural or industrlal falrs, or an undertaki.ng of pubtic
+works and highways, tetecommunlcations, and waterworks projects, the
+duration of which shatl be specified by the [oca[ chtef executive concerned
+in a wrttten order: Provided, however, That no national or [oca[ road, atley,
+park, or square shatl be temporarlty ctosed for athtetic, cutturaL or civic
+actlvitles not officiatty sponsored, recognlzed, or approved by the [oca[
+government unit concerned".
+ATTY
+A. GALLO,.RSW
+Attorney 1V
+Approved
+OSIVIUN
+Acting C
+VILLANUEVA, JR
+Legal Officer
+RECE!VEM
+CMO. CRD
+I
+Date approved: March 7,2016
+iff-/t,F-LV
+
+Republika ng Pilipinas
+TANGGAPAN NG SAIYGGUIYIANG PANLUNGSOD
+LUNGSOD NG DABAW S," I
+March 3,2016
+RODRIGO R. DUTERTE
+City Mayor
+Sir:
+h- NEt P- 4b
+\,UryarO*
+NrLDA c. ruAbrvo
+MAR O
+(u
+f
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title
+Five, Chapter 3, Book III and SECTION 54 of Book I Rcpublic Act No. 7160,
+otherwise known as the Local GovernmentCode of 1991, we are furnishingyou
+a copy of Resolution No. O273t-16 and Ordinance No. 0498-16, both SERIES of
+2016 of the SANGGUNIANG Panlungsod, for your information, guidancc and
+appropriate action.
+For and in the absence of the Secretary:
+Acting Sccretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG panlungsod) ;
+RHCffi!WED
+cMo.
+crts/ ln.ta
+lrtt- g1- W
+A
+O
+*
+m
+*
+
+CiU of Deveo
+t7.r, City Council
+7tE Rrgular Sessioa
+Ssies sf il0 16
+FRE,TE$T:
+flouacilor
+Vice Ellayor
+Csuflcilor
+Courrcilor
+Couatilor
+Counrilor
+C.ouacilar
+Cauacilsr
+Councilsr
+Couatilor
+Councilsr
+Councilor
+C.ouacilor
+Courr*il(rr
+Councilor
+Counr{lsr
+Clauacil*r
+Couacilor
+Councilsr
+Councilor
+flouacilor
+Coua*ilor
+Couacilor
+Clouacilor
+aa-a{
+t\.aflo r!. Ijello
+Faola Z. Duterte
+Ifilo M. Abells.r, Jr.
+M.rria Eelerr 3. Acosta
+.Victorio U. Advirlcula Jr.
+Beraard E. Al-ag
+AI s.3*-.arr 3. Alejandre
+Joanne lVt. Eonguvan-Quilos
+L.ouie John J. Eoag3rr,'an
+Darrilo C. Daya*g.hirang
+Apd Ma.rie C. Da.1,'ap
+Jiamy G. Duresa
+J.rrruary N. Dutete
+Edgar R. Ibut'asr Sr.
+Leah A. Librado-Yap
+Rerre Elias C. Lapee
+Joha-Ctuistopher T. Matrasud
+Iiiosdado Angelo A. Matripus ,3r.
+Eonifacio E. ndfiIitar
+Tomas J. IVloaterrerde IV
+Arrtoifi€tte G. Ilriacrp*Casfr o des
+Halila Y. Sudag.tr
+M.rry Joselle D. Yill.cfir€f,te
+Eachel P. Zozabr.td.o
+Tempor.ery Presidiag Oftc er
+{} }I f} FFIfr Lq,L EIJ *II{E,1 IJ
+Courecilsr M3rrnaG. L.'ilalado-Ortiz
+PCL Focused Group Discussion
+AESEI{T:
+Coua.cilor }llarissa F. S.dr,rador-Abe11a
+Srr Sick Leave
+8RI}II{ASCE I{O. O49E-16
+Serie* of 2O15
+AI{ fftrDII{AI{CE FOtr THE TEMFOEAEY CLOBIIRE TO VEIIICIILAE
+TE.{FFIC CIF THE EOAE IEESTIFIED AS SAH PEDRO STE.EET, II{
+EET1IEE1{ EOLTOI{ STREET AlrD CH EECTA AIrEHUE {rROnTIr{G TIIE
+CATHEDEAI. OI{LY}, f,rA}-AO CITY, FROM ltilAECH 23, 2016, 5:OO A.M.
+Tff ITIIIECH 27. ?016, 9:I}O F.H., FOE THE II{BTALLATIOI{ OF BTEEL
+STEUCTURES {SUGATAil} Anr} THE ELESST$G Op lrEW FrEE On IIOLY
+-qATUEID,tY EI.IEI{IBG AI{D THE EIE-EI{ACTMEITT OF THE
+SIIGAT,EIIICI}EIIITEO AT TIIE. E.AELY DAUTfi fiF E.ASTEf,T SI}I[D.&Y
+I
+
+Page
+0rd.
+? of 3
+$o. O498- 16
+Be it ordained by ttre Sang;quniang Panlungsod of Danm.o Crt]'rn sesiofl.
+.r.ssem.hled ttr.at:
+BECTIOI![ 1. TITLE - This Ordirraflce shall be knsrnrn' as *,{IVffi.D]IVAIVCE
+.F'AE ff{E IEMFI]E.4ET CJO,5T.trTE TTf I.EI{ICIiL{E TfrAT'f'IC OT" TIIE .ROAtr
+IIENTIFIEE A.5 ,t1+1J' -PEIrEr-; '5IEEEr. .trr,'-EEI[..I,EEIV -BOLTI:r\r '5IR.EEr ..il\tr, frf
+.R.ECT]O AT.EI\TLE {FJtf:fiIiryfG TFIE C:TITIEI-]ft,TI- GNI T,, .[].4T.'AO f;ITY, .F]RCIVT
+]lf,{RC}I 25, 2tlIA 5:rl0 ,{.M. ?U lt{{.RC-'II X7, -?016, 9:OO P-M., .Fr-fr ffiE
+-il'trsI{.LL{IJC&r OF STEEI, ,sTEL'C1ZffiE^5 /'sL,'G3I{]vJ ,4I\ID TIIE -EI-E.sStr\TG OF
+j\iBt{,. -FjEE f:NV fliftrts ,sArtfitEjlr-Et,Ei\,g\rG ,4NE ftiE .RE-EIVACT]I4EI\T Of' ffIE
+,5LTGJT ry.&\ICLE\ru:RO ,, T TEIE E.,1FT-1'T,3I.T{\I OJT EJ}'$?ER ,s[f,\}]33 }* '
+SErC'TIOI$ 2. DETCL,IRATIOI{ OF FOLICY - SECTION ? 1 {c} of Repuhlic Act
+No. 716O, oti.erwise know.rl.tg ttte Lccal Gov€f,nmmt Code of 1991 povides
+that arr-y* natioaal sr local rsad. ull*y. park, or square rnay be tem.porarily
+closed during arr actual efir€(gency, o( fi.esta celebrations, public rallies,
+ag.ricultural or iadustrisl fairs,
+SECTIOI{ 3. TEIilPOtrt,*RY CLOBIIR'E - Ia celebratisa of t}re Holy We€ilr,
+the road iderrtitred as Safl Pedro Btreet, in behvetrr Bolton Street and CM Recto
+Averrue {frorrtirrg t}re f:athedral snl}"i, Danrao City" shall be tennporarily clssed ts
+vehicular trafflc frrm I[.rrch 33. 3016,5:OO a.m. to March 37, !O16,9:OO p.m.,
+for the installatioa of steel structures i5ug.rt.err| aad the blessing of rrett' fire on.
+Holy *aturday evffiio'g arrd the re-sractmerrt of the Sugat/Eo.cuerrf:o at the
+early d.anrn of Easts Sund.ay,
+SECTIOil 4. 3EPAEAEILITY CLAUSE - It for afly reason, &ny stctioa or
+prordsiaa of tfris (}rdinaace is decl.qred uacatsdtutisnfll or irrlralid, other
+sections or provisisns h€resf rrst a-ffected bl.' such declaratiefl shall coatinue to
+be in full force and eft-ect.
+SECTIOH 5. EFFECTTVITY
+immediatel3' upoa appraval;
+ftis {rrdinsnce shafl take effect
+EHACTED. Febmary 16, 3016, by * m.ajority uote of al1 the Ulw.bers of
+ttre Eang*elrnian preerrt, fhere beiag Er. quorllfi..
+.1 E RTIFIE tr f1 fi EREII T :
+"Fsr and in the absetrrce of the Secretarl.:"
+Xlpr,^A4N
+HILDA C. EfAGTO
+Acting Secretary to the Sangguniaa.g Paalua.g.sod
+{Assist.arrt-lec.ret.crytothes.rngguai,rngP.mlu*gpodly
+ATTEsTEil
+B. EELLO
+President Pro Tempore
+Temporarjr Presiding Off c er
+at:mi mr:bm
+
+'I
+t'
+I
+Crrd. I{o. 0498-16
+RODRIGO R. DUTER'TE
+cttyuayfr
+A.TTESTED
+aTlY. .TESUS HELCHOR V. QUrTAril
+CitS'Ado'iaistrator
+APPRQYEP AFTEIT TTIE LAPSE OF
+LAr"ltrj
+DEEMET)
+,'to16

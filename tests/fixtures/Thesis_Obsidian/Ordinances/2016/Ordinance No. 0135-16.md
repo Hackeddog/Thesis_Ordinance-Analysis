@@ -1,31 +1,29 @@
 ---
-title: "AN ORDINANCE AMENDING SECTION 4 OF ORDINANCE NO. 0087-95, SERIES OF 1995"
 ordinance_number: "0135-16"
-aliases: ["Ordinance No. 0135-16", "0135-16"]
-corpus_year: 2016
+title: "AN ORDINANCE AMENDING SECTION 4 OF ORDINANCE NO. 0087-95, SERIES OF 1995"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0135-16.pdf"
+section_count: 0
+verification_status: "unverified"
 folder_year: 2016
 resolved_year: 2016
-enactment_date: null
-approval_date: null
-series_year: null
-council_term: null
-session: ""
-sponsor: ""
-approving_mayor: ""
-presiding_officer: ""
+corpus_year: 2016
 temporal_status: "valid"
 confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2016
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
 resolution_source: "consensus"
-manually_verified: false
-included_in_corpus: false
-extraction_method: "Digital"
-page_count: 1
-word_count: 24
-section_count: 0
-whereas_count: 1
-source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\tests\\fixtures\\data\\raw\\2016\\Ordinance No. 0135-16.pdf"
-sha256: "f1b473d9cae2a862"
-indexed: "2026-09-08"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
 tags: [ordinance, davao, year/2016, status/valid, type/amendatory, topic/section]
 ---
 

@@ -1,0 +1,164 @@
+---
+ordinance_number: "0614-24"
+title: "Ordinance No. 0614-24"
+date_enacted: "2024-08-06"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0614-24 QRF Province of Cavite (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0614-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+29h Regular Session
+SERIES of 2024
+PRESENT:
+ABSENT:
+Vice Mayor l. Melchor B. Quitain Jr.
+- Presiding Officer
+Councilor Nilo M. Abellera Jr.
+Councilor Luna Maria Dominique S. Acosta
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Bernard E. Al-ag
+Councilor Wilbefto E. Al-ag
+Councilor Al Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Louie John J. Bonguyan
+Councilor Pilar C. Braga
+Councilor Augusto Javier G. Campos III
+Councilor Jonard C. Dayap
+Councilor January N. Dutefte
+Councilor Edgar P. Ibuyan Jr.
+Councibr Richlyn N. Justol-Baguilod
+Councilor Diosdado Angelo Junior R. Mahipus
+Councilor Rodolfo M. Mande
+Councilor Kristine May John Abdul Mercado
+Councilor Bonz Andre A. Militar
+Councilor Temujin B. Ocampo
+Councilor Myrna G. L'Dalodo-Ottiz
+Councilor Albefto T. Ungab
+Councilor Lorenzo Benjamin D. Villafuerte
+Councilor Trisha Ann J. Villafuefte
+Councilor Jesus Joseph P. Zozobrado III
+Councilor Marissa S. Abella
+Councilor lessica M. Bonguyan
+- On Sick Leave
+- On Maternity Leave
+ORDINANCE ilO. O6L4.24
+SERIES of 2O24
+A1{ ORDIilANCE GRANTII{G TEGIS1ATTVE AUTHORITY TO THE
+CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT
+(30o/o) QUICK RESPONSE FUIID (QRF) oUT OF THE FIVE PERCENT
+(5olo) DISASTER RISK REDUCTION AilD I|AI{AGEMENT FUilD
+(cALAMrrY FUND) OF THE CrrY GOVERNMEI{T OF DAVAO FOR
+CALENDAR YEAR 2O24Iil THE AMOUNT OF ONE MILLION PESOS
+(P1,0OO,OO0.OO) AS FTNANCTAI ASSTSTANCE TO THE PROVTNCE
+oF cAvrTE, DECLARED UNDER A STATE OF CAIAMTTY DUE TO
+TYPHOOI{ CARINA
+
+Ord. No. 0614-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTITIZE A
+FORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FIVE PERCEilT (5olo) DISASTER RISK REDUCTIOII AND MAilAGEMENT
+FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR
+YEAR 2024 rN THE AMOUilT OF OilE MrttrON PESOS (P1,000,0O0.00) As
+FTilANCIAL ASSTSTANCE TO THE PROVII{CE OF CAVITE, DEC1ARED UNDER A
+STATE OF CALAMITY DUE TO TVPHOON CARIJ{A."
+SECTION 2.
+- It is the policy of the City Government
+of Davao to adopt measures and adhere to the national principles and standards of
+humanitarian assistance in response to risk reduction and declares as iE policy to judiciously
+utilize its resources and put the same to proper use.
+sEcTIoN3.rc-TheProvinceofCavite,wasdeclaredunderaState
+of Calamity, is hereby declared as a beneficiary of the financial assistance in the amount of
+One Million Pesos (P1,000,000.00).
+SECTION 4. LEGAL BASIS - SECTION 2l of Republic Act No. 10121 states that not
+Iess than five percent (5olo) of the estimated revenue from regular soures shall be set aside
+as the LDRRMF to support disaster risk management activities such as, but not limited to,
+pre-disaster preparedness programs including training, purfiasing life*aving r6cue
+equipment, supplies and medicines, for post-disaster activities, and fur the payment of
+premiums on calamity insurance.
+The same law likewise provides that, of the amount appropriated for Local Disaster
+Risk Reduction and Management Fund (LDRRMF), thirty percent (30o/o) shall be allocated
+as Quick Response Fund (QRF) or stand-by fund for relief and recovery programs so that
+situation and living conditions of people in communities or areas stricken by disasters,
+catamities, epidemics, or complex emergencies, may be normalized as quickly as possible.
+Further, upon the recommendation of the LDRRMO and approval of the sanggunian
+concerned, the LDRRMC may transfer the said fund to support disaster risk reduction work
+of other LDRRMCs which are declared under the state of calamity.
+sEcTIoN5.-Theamounthereinappropriatedshallbe
+used specifically for such item and expenditure approved by the SANGGUNIANG Panlungsod.
+All disbursements and utilization of funds shall be subjectto existing government budgeting,
+accounting, and auditing rules and regulations of the Depaftment of Budget and
+Management (DBM), the Commission on Audit (COA), the Procurement Law (RA 9184), as
+well as other applicable laws, Ordinances and Presidential directives.
+SECTIOII 5. EFFECTfYTW-The prorisions of this Ordinance shall take effect upon
+approval.
+
+Ord. No. 06t4-24
+ENACTED, August 06, 2024, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+,r^#fr,itkt
+City Government Depaitment Head II
+(Secretary to the S.:flrg$:.ns Panlunsro?*
+ATTESTED:
+J. MEL# B. eurrArn rR.
+/ Vice Mayor
+Presiding dfficer
+APPROVED:
+sEP r 6 202{
+2024
+z.
+Mayor f
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDINANCE GRANTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO UTIUZE A PORTION OF THE
+THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FwE PERCENT (5olo) DISASTER RISK
+REDUCTION AND MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 2024 IN THE AMOUNT OF ONE MTLLTON PESOS (P1,000,000.00) AS FINANCTAL ASSTSTANCE
+TO THE PROVINCE OF CAWTE, DECI.ARED UNDER A STATE OF CAI.AMITY DUE TO WPHOON CARINA
+{
+City

@@ -1,0 +1,292 @@
+---
+ordinance_number: "0521-18"
+title: "AN ORDINANCE GRANTING THE REQUEST OF DAVAO CITY CHAMBER OF COMMERCE AND INDUSTRY, rNC. (DCCCIT) FOR EXEMPTTON FROM THE PAYMENT OF SIGNAGE FEE UNDER SECNONS 37, 4T & 42 OF ORDINANCE NO. 092- 00, SERIES OF 2000 (SIGNAGE ORDTNANCE OF DAVAO Crrn IN CONNECTTON WITH THE 27rH MINDANAo BUSINESS CoNFERENCE (MrNBIzcoN) oN SEeTEMBER 13-15, 2018, AT BIG B coRPoRATE HorEL, TAGUM CW', for your information and a"
+date_enacted: null
+approval_date: "2018-08-28"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0521-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/request, topic/chamber, topic/commerce, topic/industry, topic/dcccit]
+---
+
+# Ordinance No. 0521-18
+
+> AN ORDINANCE GRANTING THE REQUEST OF DAVAO CITY CHAMBER OF COMMERCE AND INDUSTRY, rNC. (DCCCIT) FOR EXEMPTTON FROM THE PAYMENT OF SIGNAGE FEE UNDER SECNONS 37, 4T & 42 OF ORDINANCE NO. 092- 00, SERIES OF 2000 (SIGNAGE ORDTNANCE OF DAVAO Crrn IN CONNECTTON WITH THE 27rH MINDANAo BUSINESS CoNFERENCE (MrNBIzcoN) oN SEeTEMBER 13-15, 2018, AT BIG B coRPoRATE HorEL, TAGUM CW', for your information and a
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Cites or amends
+
+- [[Ordinance No. 092-00]]
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OF THE CITY MAYOR
+Ref. No. CAdG201&06154
+2"'I INDORSEMEHT
+September 14,2018
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0521-18,
+SERIES of 2018 entitled "AN ORDINANCE GRANTING THE REQUEST OF DAVAO CITY
+CHAMBER OF COMMERCE AND INDUSTRY, rNC. (DCCCIT) FOR EXEMPTTON FROM THE
+PAYMENT OF SIGNAGE FEE UNDER SECNONS 37, 4T & 42 OF ORDINANCE NO. 09200, SERIES OF 2000 (SIGNAGE ORDTNANCE OF DAVAO Crrn IN CONNECTTON WITH
+THE 27rH MINDANAo BUSINESS CoNFERENCE (MrNBIzcoN) oN SEeTEMBER 13-15,
+2018, AT BIG B coRPoRATE HorEL, TAGUM CW', for your information and
+appropriate action.
+For the City Mayor:
+ATTY.
+. DOMITIIGO
+ryO1LS
+RELEASED
+D
+cMo.
+SE
+i,?;llXlffi-"'l ffilruH li;,fi 'ilI113' I";l;*il;,il;33lXi 3"1i P3ry.; .g
+o
+,
+q,J
+y'lt-z-t
+
+I
+Date approved: August 29, 2018
+ortO1 2 I - fi _e4empt-signage_c liamber_l 8-0 1 6 I _8 - 29- 1 I
+@[ee
+C5F:8E OF THE GIW AU.MII{ISTRATOR
+- CIW HALL OFF1CE
+RECEIVED BY:
+DAVAO CIW
+DATE:
+TIME:
+.
+City of Davac)
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o00
+Dg
+-, Llb
+Ref. No. 1131-18-0161
+LEGAL OPINION NO
+SERIES OF 2018
+RE: ORDINANCE NO. 0521-18, SERIES of 2018 entitled *AN
+ORDINANCE GRANTING THE REQUEST OF DAVAO CTTY CHAMBER
+oF CoMMERCE AND INDUSTRY, INC. (DCCCII) FOR EXEMPTION
+FROM THE PAYMENT OF SIGNAGE FEE UNDER SECI]ONS 37, 41 &
+42 OF ORDINANCE NO. 092-00, SERIES OF 2000 (SIGNAGE
+oRDINANCE OF DAVAO CrrD IN CONNECilON WITH -rHE 27rH
+MTNDANAO BUSTNESS CONFERENCE (MTNBIZCON) ON
+SEPTEMBER 13.15, 2018, AT BIG 8 CORPORATE HOTEL, TAGUM
+crrY"
+,S INDoRSEMENT
+August 29,20L8
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption is well within the powers of the SANGGUNIANG Panlungsod. Hence, it
+is recommended that the ordinance be approved.
+4[r,
+dA/tJ-.
+ATTY. MARUSA A. GALLO, RSW
+OIC- Actingxsst. City Legal Officer
+..IUE OF IHb qTY AOMNNTRAfOF
+CITY HAtt gFFtCb
+t
+rta/rv
+'fuls
+DAVAO CII \
+1rk-t4)D
+
+nen ub 1 i c of,$
+tt"\)['d
+i n e s
+SARA Z. DUTERTE
+City Mayor
+August 28, 2018
+t&)ttt -t'ltr
+IMO - CRD
+RECEIVED
+AUb T U /UIOI
+.$ ,tvl- rn
+Madam:
+*
+ftts- nlbl f.lVg
+Pursuant to Sub-SECTION 3, Parag rap
+C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 02386-18 and Ordinance No. 0521-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, City of Davao, for your information, guidance, and
+appropriate action.
+Very truly yours,
+X\onwx
+NILDA C.'{qeCnO
+Assistant Secretary to the SANGGUNIANG Panlungsod
+(City Government Asst. Depaftment Head II)
+ncm/nta
+m
+\
+C)
+\,, t
+
+'
+R"porUic of ttn Philippirres
+Gty of Darrao
+OfiEc af fte SANGGUNIANG Panlungsod
+18n'City Council
+3Or Rqular Sessbn
+Serim of 2018
+oEEttri.r-r.
+|- |-qLLJI-lt
+I .
+ABSET{T:
+Vice Mayor
+Councihr
+Gouncihr
+Councihr
+eouncihr
+Councihr
+Csuncihr
+Councihr
+Councilor
+founcrlor
+rluncihr
+Councilor
+ftuncilor
+fruncihr
+fiouncilor
+Counohr
+&uncihr
+fauncihr
+&uncibr
+eouncilor
+Councilar
+e+unc-ilsr
+Councihr
+founcilsr
+Councilor
+eouncilor
+Counctlor
+Councilor
+Bernard E. tr-ag
+Nih Ft. Abelkra Jr.
+Irtaria Belefi S. Asosta
+Yictorb U. AdYincula Jr.
+Al Rran 5. Akjandre
+Dante L Apo*tol 5r.
+Conrado C. Baiuran
+Joanne fo{. Bonguyan{uilos
+Ma. Clreny Ann M. tsonguyan
+Pihr e" Braga
+Carmeh J. Clarion
+Danilo C, Dayanghimng
+Jimmy G. Dureza
+Etlgar P. Ibuyan JrEdgar R. Ibuyan 5r.
+Lpah A, Ubrado-Yap
+Rene Elias C. Loper
+D'toedads Angeto A, t4ahipus 5r.
+Jaffar U, Marchomsalic
+Avegayle Daldo Ortiz
+Antainette G. Principe{astrodes
+l. l.lek*or E, Quitain lr,
+Marissa P. Saivador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus loceph P, Zozohrado III
+April [t'larie C. Dayap
+Bonifacio E. I{ilitar
+Preiding Cff-icer
+- OF Attendd the NIIIYL Hational l"leting
+- On Sick Leave
+ORDIilATCE HO, 0521.18
+SERIES OF 2O1E
+AH OEBr?|AHCE GRAHTIilG Tr-tE REQUEST cF DAIfAO CrTy
+CHAI{BER Of CS}|HERCE AilS IHtrUSTRy. It{C. {StrtrI}
+FI}R EXEFIPTIT}H FROI{ TI{E PAY}IEHT EF SIGilAGE FEE
+UNDER SECTIOI{S 37, 41 & 42 OF ORDIITANCE ilO. 092-OO.
+SERIES Of 20OO (SIGI|AGE ORDIilA?|CE OF DAySO CITY)
+IN ffi]{ilECTION WITH THE 27TH UINDAT{AO BUSIHESi
+Co]{FEREHCE (HI[{BTZCO!|} 01{ SEPTEMBER 13-1+ 2018,
+AT BIG I SIRFORATE HOTET-f TAGUit CITY
+
+Ord. No. 0521-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+*fEOt{ !.. TITLE - This Ordinanee shal! be known aE *At ORDIf{Af{CE
+GRAHTI]*G THE REqUEST SF IIAVAS CITY CllAllBER sF LEHITIERCE AHB
+IHtrUtrRY, Iile. tAffiIIl FOR EXE!,IPTIaH FEOH THE PAYHEf{T AF
+SIGII'AGE FEE UIIDER SECTIEHS 37T 4L &. 42 trF ORDIHAHCE HO. OS2-OOf
+SERIES SF 2000 ($IGH*GE SBDrf{AHCE *F DAVAO Crrr} il! CO}IilECrIOH
+wrTlt THE 37rH HrHtlAt{AO BUSI]dESS CSHFEREHCE {FITHBIZCOI{} OH
+SEFTEHBEn 13-15, Z0i8f AT 816 E ESRF€EATE HOTEL T*GU;|I f,ITY",
+SECTIOil 2. COVERAGE - The exemption shall cover all 300 banners "3 feet x
+7 feeY' in size which will be installed below the secondary electric posts of the Davao
+Light and Power Company.
+SECTIOII S, EEBIgg - The said banners shall be installed between August 20,
+2018, until September 20, 2018, by the Chamber.
+SECTIOH 4. LI}ITTATISilS,JCOHSITI*HS _
+1. The Chamber is strictly mandatd to install only one banner per elstric post;
+2. In no case shall said banners obstruct the view of the motarists;
+3. In case the ehanrber faik to remoya all 300 banners by Septenrber 30, 2018.
+the exemption grantd by this Ordinance is nullified;
+4. That in no case shall the organizers be exempt from comphing with the other
+pr+visions of the'Eignage Ordinance *f Davao CiY'and *ther pefiinent laws
+and regulalbns;
+5. Cke coordination with the Department of Public Works and Highways
+{DPliJH), Sre Davao Ught and Power fompany (DLPC) and the City Enginert
+0ffice {CEO} dr*utd be done;
+SECTIUI 5. EFfECIIyffY - This Ordinance shall take effst immediately upon
+approval.
+EHACIED, August 14. 2019, hy a unanimous vote of all the Members of the
+Sanggunian, there being a qilsflirn.
+CERTIFIED CORRECT:
+Fs,r and in the akence of the Ssretary:
+Twrrw*,
+ltrLDA c. il/nCno
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG PanlungsodY
+
+r\
+t\
+Ord. No. 0521-18
+ATTESTED:
+ATTESTED:
+E. AL=AG
+Vice Mayor
+Fresiding fficer
+cns/clad
+City Administrator'
+t f;iY Hayor
+orn.*4rk.rrrfl
+I
+I
+APPROVED , 3 &ft zafi ,2018

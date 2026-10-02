@@ -1,0 +1,233 @@
+---
+ordinance_number: "0132-16"
+title: "Ordinance No. 0132-16"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0132-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid]
+---
+
+# Ordinance No. 0132-16
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+!
+Office of the Sanggunlang Panlungsod
+Bemard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante 1. Apctol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pllar C. Braga
+Danilo C. Dayanghirang
+April Marie C, Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr,
+Leah A. Lihrdo-Yap
+Rene Elias C. Lopez
+Diwddo Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+J, Melchor B. Quitain Jr,
+Marissa P. Salvador-Ahlla
+Halila Y. Sudagar
+Mary hselle D. Villafuefte
+Jeus hseph P. Zozobrado III
+Temporary Presiding Officer
+- On Domestic Emergency Leave
+- On Maternity Leave
+- On Sick Leave
+- 0n Domstic Emergency Leave
+- On Vmation Leave
+18d'City Council
+ld Regular Sesrion
+SerEs of il17
+PRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSElIT:
+Vice f,layor
+Councilor
+Councilor
+Councilor
+Councilor
+Pmlo Z. Duterte
+"banne M. Bonguyan{uilos
+January N. Duterte
+Avegayle Dalodo Ortiz
+Antoinette G. kincipe{mtrds
+oRDI?tAilCE ilO.0132-17
+SERIES of ZOL7
+ln)rs-t+
+l.tl ORDIHAilCE TUTHORIIIIIG THE CITY ],IAYOR Ttl
+UTIUZE PORTIOI{ OF THE THIRTY PERCEI{T (30o/o} QUICK
+RESF(IHSE H|IID (QRF) ouT OF THE FIYE PERcEilT (5o/o)
+DISASTER RXSK EEDUCTIOII A]ID }IA1{AGEI{EHT H'}ID
+(CALAHTTY Hrl{D) OF THE CrTY @VERll}lElrT OF DAVAO
+FOR CY 2OL7,IIl THE TOTAT AIrlOUllT OF THREE !,|II^LIOfl
+PESOS (P3,OOO,OO0.0O), TO EXTEilD ADDTTIOIIAI
+FI]IA]ICIAI ASSISTA]ICE TO THE YICTITTIS OF TYPHOOI{
+ilrHA TI|AT Hrr THE FROVTI|CES OF QUETOIT AllD
+BATAII€AS A]ID THE TYIU]IICIPALITIES OF GISA]I, BOAC,
+HffiFOG AltD TORRTXIE, ALL OF tdARrI{trUqUE PROYTHCE
+
+Page 2 ofB
+Orcl. No. 0132 l?
+Be it ordained btr the SANGGUNIANG Panlungsod of Davx' City, in smion
+mnbled, Srat:
+SECTIOII 1. TITLE. - This Ordinance shall be known m "AI{ ORDIilAIICE
+AUTHORITIHG THE CITY }IAYOR TO UTIUZE PIORTIO]I OF TTIE THIRTY
+PERCEffT (308/o) QUICK RESprOllsE Ft tD (QRR OUT oF THE FIIrE pERcEtlT
+(so/o) DISASTER RXSK REDUCTIOII AllD IilAI|AGEI{EIIT FtrtD (CALAiIITY
+FUI{D} OF THE CITY @tERiltrtEilT OF DAYAO FOR CY 2017, Iil THE TOTAL
+AITIOUIIT OF THREE ttlILLIOtl PESOS (P 3,OOO,OO0.O0), TO EXTET{D
+ADBITIOHTT FITTTCIAT TSSISTTfiCE TO THE YICTII{g OF T?PH@H I{IH*
+THiT HrT Tltt pRoviltcE$ oF QUEZOfi tt{D B*TAHGAS iflS THE
+FTUTIfIPALITIES OF GAStIl, BOAC, IrlffiFffi illtr TOERIHIS, *LL OF
+IIITRIil DUQUE PROTIilCE,;
+SECTIOT 2" PESISBAINILAEffUffL - In keepins with its rnandate and
+in r*ponse t+ Sr€ nds cf the peoph, the Gty C*vemnent of Bavm declares as itr
+poiicy t* judiciously utilire its resources and put the same tr proper use;
+SECTIOII 3. BEIIEFICIARIES. - The affectel are6 in Luzon are hereby
+deeiEnatetl m beneficiaries of the msistance, viz:
+Municipality of Gasan, Marinduque Province
+tttunicipality of Boac, Marinduque frrovince
+Municipality +f Mogpog, Marinduque kovince
+Muniripality of Tonijrx, Marinduque Province
+Quezon hovince
+Batangas Pnrvince
+TOTAL
+- P 250,000.00
+-
+250,000.00
+-
+?50,000.0CI
+-
+250,000.00
+- 1,000,000.00
+- 1.000.000,00
+P 3,000,000.00
+t
+SECTIOH ll. SUIIHARY OF BUDGETARY AIIOC8IIOil. - The total
+amount of Three I'lillion Peeoo (P 3,OOO,OO0.ffi), out of the thirty percent (30olo)
+Quick Rmponse Fund (QRF) which is a podon of the Hve Ercent (5o/o) Ctismter Risk
+Reductron and Management fund (Calamity fund) of the City Government of Davao
+for CY 20L7, shall be given as additional financial assistance to the victims of Typhoon
+l{ina;
+SEtTISII 5, DISEUESEHEilI_OEEUilE, - The disburs+nnnt of the said
+xsistailee shall be mde in mcordance wi$r the exi*ing budgeting, auditing rules and
+r*g*lations *f the Commissbn on Audit (COA), the Departnent of Budget and
+f'lan'ryemenl {DBm} and Republic ffi 91S4, othenr,,im known as the "Goyernment
+Frr;curement Refurrr fut", H wdl as other applicable laws.. ortJinances and
+R'sidentiat diratives;
+SECTIOH 6. I-EGAL BASIS. - Fursuant b Republic Act No. 8185, otherwise
+known 6 "Ail Act Amending SECTION 324 (d) of R.A 7160, othenrrrise known as the
+Local Govemment Code of 1991, which states that Five Percent (5olo) of the estimated
+reyenue ftnm regular sources shall be sd mide as annual lump sum appropriation for
+telref, rehabilitation, reconstruction and other wo*s or services in connedisn uritlr
+calamities ruhieh rnay oecur during the budget year. Provid#, howeyer, thst such
+fund shall be ussJ snly in the area, or a portion thereof, of the loeal governnent unit
+r:r oilrer areas affucted by a dismter or calamity, re det*rmlned rnd deelrred
+rndrr r etrtt rf crhmi$ bf th* locrl mnggrnirn conerrnrdi
+
+Y
+Page,3 of S
+Ord, No. 0132-17
+Further, pursuant to SECTION 5 of the Rulm and Regulations implenenting
+RA 8185, it stats:
+SECTION 5, Allocation and Utilization of Five Percent
+(5Yo) Lumpsum Appropriations for Calamitv Fund
+a.) Allocation
+Xxx
+APPROVED:
+HXX
+"LGU may also allmate/use a portion of the five
+percent (5olo) Calamity Fund to odrer affected
+areas on condition that the said areas are
+declared as under a StaE of Calamity by the
+Sanggunian concerned";
+b,) Utilization
+b (2) "A prtion of the calamity fund may also
+be authoriz# to be usd by the LGU concerned
+to provi# financial msisBnce to *ther LGUs
+whose area or portion thereof had kn dmlared
+under a stah of calamity hy its sanggunian";
+SECTIOII 7. EFFECTIUITfY. - The provisions of ttris Ordinance shall take
+effect upon approval;
+EIIACTED, January 10, 2017, hy a unanimous vote of all Flembers of *re
+Sanggunian prsent, there bdng a qourom.
+CTE.TIFIED CTREECT:
+^ Ohrr,n^ \, ,1,,^6
+CH*RITO HARITp SAHTOS
+Secretary to the Sanggunidng Panglungsod
+(City Govemment Depatment Head II)
+ATTESTED:
+Acting Vice
+Temporary Presiding Officer
+cns/richard
+ATTY. ZULEIKA T.
+JAN 2 6 2017'
+DUTERTE
+20L7
+*
+ATTESTED:
+City Administrator e
+z
+City Mavor7

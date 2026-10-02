@@ -1,0 +1,211 @@
+---
+ordinance_number: "0677-24"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (3oo/o) QUICK RESPONSE FUND (QRF) OUT OF THE FM PERCENT (5o/o) DISASTER RISK REDUCTION AND MAI{AGEMENT FUND (CALAMTTY FUND) OF THE CrTy GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2024 Iil THE TOTAL AMOUT{T OF THREE HUNDRED THOUSAT{D PESOS (P3OO,OOO.OO) AS FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF "
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0677-24 QRF Mulanay, Quezon (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/utilize, topic/portion]
+---
+
+# Ordinance No. 0677-24
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (3oo/o) QUICK RESPONSE FUND (QRF) OUT OF THE FM PERCENT (5o/o) DISASTER RISK REDUCTION AND MAI{AGEMENT FUND (CALAMTTY FUND) OF THE CrTy GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2024 Iil THE TOTAL AMOUT{T OF THREE HUNDRED THOUSAT{D PESOS (P3OO,OOO.OO) AS FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Repdblic of the philippines
+Office bf the SANGGUNIANG'panlungsod
+Crty of Davao
+20d'City Council
+42d Regular Session
+SERIES of 2024
+PRESET{T:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counicilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann l. Villafuerte
+Jesus Joseph P, Zozobrado III
+Bai Hundra Cassandra Dominique N. Advincula
+Jessica M. Bonguyan
+Augusto Javier G. Campos III
+Rodolfo M. Mande
+- Presiding Officer
+- On Maternity Leave
+- OB- Attended the Ocular
+Visit and Dialogue- Institute
+of Primary Healthcare of
+DMSF in Sitio Malikongkong,
+Marilog District, this City
+- OB- Attended the USAID
+Oppoftunity 2.0 Youth and
+Paftner Summit in Quezon
+City
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor Kristine May John Abdul Mercado
+ORDINANCE NO. 0677-24
+SERIES of 2024
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO
+UTILIZE A PORTION OF THE THIRTY PERCENT (3oo/o) QUICK RESPONSE FUND
+(QRF) OUT OF THE FM PERCENT (5o/o) DISASTER RISK REDUCTION AND
+MAI{AGEMENT FUND (CALAMTTY FUND) OF THE CrTy GOVERNMENT OF DAVAO
+FOR CALENDAR YEAR 2024 Iil THE TOTAL AMOUT{T OF THREE HUNDRED
+THOUSAT{D PESOS (P3OO,OOO.OO) AS FINANCIAL ASSISTANCE TO THE
+MUNICIPALITY OF MULANAY, QUEZON, WHICH WAS DECLARED UilDER A STATE
+OF CALAMITY DUE TO TYPHOON KRISTINE
+
+Ord. No.0677-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled
+that:
+SECTION 1. TITLE - This Ordinance shal! be known as "AN ORDINANCE
+GRANTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A
+PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT
+FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 2024 IN THE TOTAL AMOUNT OF THREE HUNDRED
+THOUSAND PESOS (p300,0O0.00) As FrNAr{crAt AssrsrANcE To THE
+MUNICIPALITY OF MULANAY, QUEZON, WHICH WAS DECLARED UNDER A
+STATE OF CATAMITY DUE TO TYPHOON KRISTIJ{E."
+SECTION 2. DECTARATION OF POLICY - It is the policy of the City
+Government of Davao to adopt measures and adhere to the national principles and
+standards of humanitarian assistance in response to risk reduction and to declare as its
+policy to judiciously utilize its resources and put the same to proper use.
+SECTION 3. ENEEI$IABY - The Munlcipality of Mulanay, Quezon, declared
+under a State of Calamity, is hereby declared as a beneficiary of the financial assistance
+in the amount of Three Hundred Thousand Pesos (P300,000.00).
+SECTION 4. EIEALEASIS - SECTION 324 (d) of Republic Act No. 7160 or the
+Locat Government Code of 1991, as amended by Republic Act No. 8185, states that five
+percent (5olo) of the estimated revenue ftom regular sources shall be set aside as annual
+lump sum appropriations for relief, rehabilitation, reconstruction, and other works or
+seruices in connection with calamities which may occur during the budget year. Provided,
+however, that such fund shall be used only in the area, or a portion thereof, of the local
+government unit or other areas affected by a disaster or calamity, as determined and
+declared by the local sanggunian concerned.
+SECTION 2L of Republic Act No. 10121 likewise provides that of the amount
+appropriated for Local Disaster Risk Reduction and Management Fund (LDRRMF), thifly
+percent (30o/o) shall be allocated as Quick Response Fund (QRF) or standby fund for relief
+and recovery programs in order that situation and living conditions of people in
+communities or areas stricken by disasters, calamities, epidemics, or complex
+emergencies, may be normalized as quickly as possible. Fufther, upon the
+recommendation of LDRRMO and approva! of the sanggunian concerned, the LDRRMC
+may transfer the said fund to support disaster risk reduction work of other LDRRMCS
+which are declared under the state of calamity.
+SECTION 5. UTILIZATION OF FUNDS - The amount herein appropriated shall
+be used specifically for such item and expenditure approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of funds shall be subject to existing
+government budgeting, accounting, and auditing rules and regulations of the Depaftment
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement
+Law (RA 9184), as well as other applicable laws, Ordinances and Presidential directives.
+SECTIOI{ 6. EEEEI$!.IVIT[ - The provisions of this Ordinance shall take effect
+immediately upon approval.
+
+Ord. No. A677-24
+EI{ACTED, November 12, 2024, by a unanimous vote of all Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+ul. rueMl. REyEs
+Acting City Government Deparlrnent Head II
+(City Government Assistant Department Head
+mtar/emz
+Dfr
+ATTESTED:
+J.M
+ilEtctloR B. QUITAIN JR.
+/lice Mayor
+Presiding Officer
+DEC 2 0 2024
+APPROVED
+2024
+t
+ATTESTED:
+ATTY.
+CIS MARK H. IAYOG
+Administrator
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CIW MAYOR TO UTILIZE A PORTION OF
+THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DTSASTER
+RISK REDUCNON MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OT OAVIO TON
+CALENDAR YEAR 2024 IN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00)
+AS FINANCIAL ASSISTANCE TO THE MUNTCIPAUTv OF MULANAv, QUEZON, WHICH WnS OeCUenr6
+UNDER A STATE OF CAI.AMITY DUE TO TYPHOON KRISTINE
+DUTERTE
+yavp

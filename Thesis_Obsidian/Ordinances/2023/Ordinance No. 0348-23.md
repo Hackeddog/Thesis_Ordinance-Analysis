@@ -1,0 +1,209 @@
+---
+ordinance_number: "0348-23"
+title: "Ordinance No. 0348-23"
+date_enacted: null
+approval_date: "2023-12-18"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0348-23 (2).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid]
+---
+
+# Ordinance No. 0348-23
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+2orr'City Council
+44h Regutar Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Cify of Davao
+- Presiding Officer
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera lr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Augusto Javier G. Campos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ottiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann l. Villafuerte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Wilberto E. Al-ag
+- On Domestic Emergency Leave
+- OB - Attended the launching
+ceremony of the Davao Public
+Transpoft Modernization Project
+- On Domestic Emergency Leave
+(Mourning Leave)
+Councilor Pilar C. Braga
+ORDINANCE NO. 0348.23
+SERIES of 2023
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICUI.AR TRAFFIC OF T}IE
+FOLLOUYING STREETS: 1. SAN PEDRO SQUAR.E FROM 1O:OO PM TO 12:OO MN, ON DECEMBER
+tq 2023 UNTIL DECEMBER 22,2O23i 2. MARCO POLO GROUND - 2 PARALLEL STREETS OF
+ROXAS AVENUE IN BETWEEN MARCO POLO AND CITY TRIANGLE FROM 1O:OO PM TO 12:fiI
+MN, ON DECEMBER 20, 2023 UNTIL DECEMBER 22, 2023; 3. ROXAS STREET AND ALL
+TilTERSECTTNG STREETS (p. ZAMORA, P. GOMEZ, ARTTAGA, P. FAURA & AURORA QUEZON)
+FROM 1:OO AM TO 12 MN ON DECEMBER 22,2O23i 4. MARCO POLO GROUND TO CM RECTO
+STREET RIGHT TO SAN PEDRO STREET LEFT TO PELAYO STREET LEFT TO MAGALLANES
+STREET TO BONIFACIO ROTUNDA TO FELCRIS CENTRALE QUIMPO BOULEVARD FROM 1:OO
+PM TO 9:00 PM, ON DECEMBER 22, 2O23i 5. 2 PARALLEL STREETS BETWEEN MARCO POLO
+AND CITY TRIANGLE AND HALF IANE CLOSURE OF CM RECTO FROM 1O:OO PM TO 12:fiI
+NOON, ON DECEMBER 28,2023 UNTILJANUARY l,2O24i MARCO POLO GROUND/CM RECTO
+STREET AND 2 PARALLEL STREETS OF ROXAS AVENUE IN BETWEEN MARCO POLO AND CITY
+TRIANGLE/ROXAS AVENUE UNTrL PADRE ZAMORA STREET AND PADRE GOMEZ STREET, ON
+DECEMBER 31,2023 UNTTANUARY 1, 2O24i BOLTON STREET BETWEEN RIZAL PARKAND SP
+BUILDIilG FROM 12:OO MN TO 7:00 AM, ON DECMBER 16, 2023 UNTIL DECEMBER 2+ 20231
+IN CONNECTION WITH THE ANNUAL CELEBRATION OF PASKO FIESTA
+
+Ord. No. 0348-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as oAN ORDINANCE FOR THE
+TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC OF TTIE FOLLOWING
+STREETS: 1. SAN PEDRO SQUARE FROM 10:00 PM To 12:fi1 MN, ON DECEMBER 1&
+2023 UNTrL DECEMBER22;2u23; 2. MARCO PoLo GROUND - 2 PAR,ALLEL STREETS
+oF RoxAs AvENuE rN BEiwEEni MARco PoLo AND crTY TRTANGLE FROM lo:fi!
+pM TO 12:00 MN, ON DECEMBER 20, 2023 UNTIL DECEMBER 22t 2O23i 3. ROXAS
+STREET AND ALL INTERSECTING STREETS (P. ZAMORA, P. GOMEZ, ARTIAGA, P.
+FAURA & AURORA QUEZON) FROM 1:00 AM TO 12 MN ON DECEMBER 22, 2O23i 4MARco pOLo GRoUND To CM REcTo STREET RrGHT To sAN PEDRO STREET LEFT
+TO PELAYO STREET IEFT TO MAGALLANES STREET TO BONIFACIO ROTUNDA TO
+FELCRIS CENTRALE QUIMFO BOULEVARD FROM 1:OO PM TO 9:OO PM, ON
+DECEMBER 22, 2O23i i. 2 plnnLLEL STREETS BETWEEN MARCO POLO AND CITY
+TRTANGLE AND HALF IANE cLosuRE oF cM REcro FROM 10:00 PM To 12:fi)
+NOON, ON DECEMBER 28, 2023 UNTIL IANUARY L, 2O24i MARC()- l-OlO
+GROUiIID/CM RECTO STREET AND 2 PARALLEL STREETS OF ROXAS AVENUE IN
+BETWEEN MARCO POLO AND CITY TRHNGLE/ROXAS AVENUE UNTIL PADRE
+ZAMORA STREET AND PADRE GOMEZ STREET, ON DECEMBER 3T, 2023 UNT
+HUUIpV 1., 2O24; BOLTON STREET BETWEEN RIZAL PARK AND SP BUILDING FROM
+12:00 MN TO z:tiO AM, ON DECMBER L6, 2023 UNTIL DECEMBER 24, 2023, IN
+CONNECTION WITH THE ANNUAL CELEBRATION OF PASKO FIESTA'.
+sEcTroN 2. DECLARATTON OF pOLICy - SECTION 21 (c) of Republic Act No. 71.60,
+otherwise known as the Local Governnrent coOe of 1991, provides that any national ro.a!, al]eV,
+park, or square may be temporarily closed during an actual emergency, or fiesta celebration,
+public rallies and agricultural or industrial fairs:
+sEcTroN 3. TEMPORARY cLosuRE the aforementioned streets shall be
+temporarilyclosedtovffianddatehereinspecifiedinconnectionwith
+the annual celebration of Pasko Fiesta.
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or provision of
+thisordinanceisoecffinva[id,othersectionsorprovisionshereofnot
+affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTryITY- This ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 28h day of November 2023, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cmAkdtrk",
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+ATTESTED:
+ELclrK. QUrrArN rR.
+/ vice Mayor
+Presiding Officer
+cns/josh
+,.M
+
+Ord. No. 0348-23
+APPROVED
+IIEC 2 2 20R
+20,23
+DUTERTE
+f
+cit'.t Mayy
+ATTESTEDI
+ATTY.
+H. ]AYOG
+Acting
+inistrator
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICUI.AR TRAFFIC OF THE
+FOLLOWING STREETS: 1. SAN PEDRO SQUARE FROM 10:00 PM TO 12:00 MN, ON DECEMBER 18,
+2023 UN1L DECEMBER 22,2023;2. MARCO POLO GROUND - 2 PARALLEL STREETS OF ROXAS
+AVENUE IN BETWEEN MARCO POLO AND CITY TRIANGLE FROM 1O:OO PM TO 12:OO MN, ON
+DECEMBER ZO, 2023 UNTIL DECEMBER 22, 2023i 3. ROXAS STREET AND ALL INTERSECTING
+STREETS (p. ZAMORA, p. GOMEZ, ARTTAGA, P. FAURA &AURORA QUEZON) FROM 1:00 AM TO 12 MN
+ON DECEMBER 22, 2023; 4. MARCO POLO GROUND TO CM RECTO STREET RIGHT TO SAN PEDRO
+STREET LEFT TO PEI.AYO STREET LEFT TO MAGALI.ANES STREET TO BONIFACIO ROTUNDA TO
+FELCRIS CENTRALE QUIMPO BOULEVARD FROM 1:00 PM TO 9:00 PM, ON DECEMBER22,2023;5.2
+PARALLEL STREEIS AETWEEN MARCO POLO AND CITY TRTANGLE AND HALF LANE CLOSURE OF CM
+RECTO FROM 10:00 PM TO 12:00 NOON, ON DECEMBER 28, 2023 UNIL IANUARY t,2024i MARCO
+poLo GRoUND/cu REcTo STREET AND 2 PARALLEL STREETS OF ROXAS AVENUE IN BETWEEN
+MARCO POLO AND CITY TRIANGLE/ROXAS AVENUE UNTIL PADRE ZAMORA STREET AND PADRE
+GOMEZ S1REET, ON DECEMBER 31, 2023 UNT JANUARY 7,2024; BOTTON STREET BETWEEN RIZAL
+pARK AND SP BUILDING FROM 12:00 MN TO 7:00 AM, ON DECMBER L6,2023 UNTIL DECEMBER 24,
+2023, IN CONNECTION WITH THE ANNUAL CELEBRATION OF PASKO FIESTA
+FII

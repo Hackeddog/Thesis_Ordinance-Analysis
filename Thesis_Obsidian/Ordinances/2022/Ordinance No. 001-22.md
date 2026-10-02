@@ -1,0 +1,203 @@
+---
+ordinance_number: "001-22"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATTON (DOD) BY AND BETWEEN THE CITY OF DAVAO AND LA DIVA IT{N RELATIVE TO THE DONATTON OF NrNE (9) UNITS ArR CONDTTTONER INSTALLED AT LA DIVA INN LOCATED IJ{ J. RODRIGUEZ AVE., MAA CROSSIilG, DAVAO CITY ABSENT: Councilor Councilor I t"
+date_enacted: "2022-07-19"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 001-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/deed]
+---
+
+# Ordinance No. 001-22
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATTON (DOD) BY AND BETWEEN THE CITY OF DAVAO AND LA DIVA IT{N RELATIVE TO THE DONATTON OF NrNE (9) UNITS ArR CONDTTTONER INSTALLED AT LA DIVA INN LOCATED IJ{ J. RODRIGUEZ AVE., MAA CROSSIilG, DAVAO CITY ABSENT: Councilor Councilor I t
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+./t
+Repub.lic of 'the' PhiliPPines
+CiW of Davao
+2oth city Council
+3d Regular Session
+SERIES of 2022
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+- On Vacation Leave
+ORDINANCE NO. OO1-22
+SERIES of 2O22
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE DEED OF DONATTON (DOD) BY AND BETWEEN
+THE CITY OF DAVAO AND LA DIVA IT{N RELATIVE TO THE
+DONATTON OF NrNE (9) UNITS ArR CONDTTTONER
+INSTALLED AT LA DIVA INN LOCATED IJ{ J. RODRIGUEZ AVE.,
+MAA CROSSIilG, DAVAO CITY
+ABSENT:
+Councilor
+Councilor
+I
+t
+
+Ord. No. 001-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. TITLE This Ordinance shall be known as *AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHATF OF THE CITY OF DAVAO, THE DEED OF DONATION (DOD) By AND
+BETWEEN THE CITY OF DAVAO AND LA DIVA INN RELATIVE TO THE
+DONATTON OF ilIl{E (9) UNrTS ArR CONDmONER INSTATLED AT LA DrVA
+INN LOCATED IN J. RODRIGUEZ AVE., MAA CROSSING, DAVAO Crry".
+SECTIOT{ 2.
+- Sections 22 (a) (5) and (c) and
+455 (b) (1) (vi) of the Local Government Code of 1991 or RA 7L60 provides that:
+*SECTION 22. Corporate Powerc. -
+(a) Every loca! government unit, as a corporation, shall have the
+following powers:)oor
+(5) To enter into contrads; and smc
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall."
+'SECTION 455. Chief Exrcutive; Powerc, Duties and Compensation.tm
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 15 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government and in this
+connection, shall:
+)oo(
+rcfr
+rco(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUIHSE - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City of Davao, the Deed of
+Donation (DOD) by and between the City of Davao and La Diva Inn, relative to the
+donation of nine (9) units air conditioner to La Diva Inn.
+
+Ord. No. 00L-22
+SECTION 4. rc
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, on the 19th day of July 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+.#^M-l ,M
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)p
+ATTESTED:
+I
+MELCMB. QUITAIN JR.
+/vice Mayor
+/residing Officer
+cns/ray
+Aob,u
+APPROVED:
+2 4 2022
+2022
+Z. DUTERTE
+citv Mavy, v
+ATTESTED:
+ATTY.
+H, LAYOG
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF
+oF THE CITY OF DAVAO, THE DEED OF DONATION (DOD) BY AND BETWEEN THE CITY OF DAVAO
+AND t-A DIVA INN REI-ATIVE TO THE DONATION OF NINE (9) UNITS AIR CONDmONER
+INSTALLED AT I.A DIVA INN LOCATED IN J. RODRIGUEZ AVE., MAA CROS$NG, DAVAO CITY

@@ -1,0 +1,393 @@
+---
+ordinance_number: "083-19"
+title: "AN ORDINANCE GRANTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO EXECUTE AND SIGN THE CONTRACT OF USUFRUCT, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, INVOLVING A PARCEL OF I.AND COVERED BY TRANSFER CERTIFICATE OF TITTE ilO. T.29731, IN FAVOR OF THE BOY SCOUTS OF THE PHILIPPINES DAVAO CITY LOCAL COUNCIT"
+date_enacted: "2019-10-22"
+approval_date: "2020-02-17"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 083-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/legistative, topic/authority, topic/mayor, topic/execute, topic/sign]
+---
+
+# Ordinance No. 083-19
+
+> AN ORDINANCE GRANTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO EXECUTE AND SIGN THE CONTRACT OF USUFRUCT, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, INVOLVING A PARCEL OF I.AND COVERED BY TRANSFER CERTIFICATE OF TITTE ilO. T.29731, IN FAVOR OF THE BOY SCOUTS OF THE PHILIPPINES DAVAO CITY LOCAL COUNCIT
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 16,459 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2019\Ordinance No. 083-19 (1).txt`*
+
+RE: ORDINANCE NO. 083-19, SERIES of 2019 entitled "AN
+ORDINANCE GRANTING LEGISLATIVE AUTHORIry TO THE CITY
+MAYOR TO EXECUTE AND SIGN THE CONTRACT OF USUFRUCT,
+FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+INVOLVING A PARCEL OF LAND COVERED BY TRANSFER
+CERTIFICATE OF TITLE NO. T-29731, IN FAVOR OF THE BOY
+SCOUTS OF THE PHILIPPINES DAVAO CITY LOCAL COUNCIL"
+VETO MESSAGE
+February 11,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance, informing your
+end that the same is being VETOED for being prejudicial to public interest.
+Pursuant to its corporate power, the City of Davao has the power to
+acquire and convey real or personal property (SECTION 22 of RA 7160).
+In the engagement at hand, the request for Usufruct by the Boy Scout of
+the Philippines was deliberated and recommended for approval by the Task
+Force on Inventories of Real Properties (REPTAF), to fortify the City's title over
+the propefi having in mind that the Boy Scout of the Philippines has been in
+possession of the 3t,429 square meter lot for the last two (2) decades.
+However, the city is now in a pressing need for additional land/lots not
+only to situate its local projects but to accommodate projects of national
+agencies which are deemed beneficial to constituents. If we are to convey the
+entirety of the 31,429 square meter lot to the Boy Scout of the Philippines, r4re
+would be depriving the people of Davao the benefits of other infrastructure
+projects within the area.
+HENCE, THIS VETO.
+Finally, let copies of this vETo MESSAGE be furnished all members of the
+August Body for information and guidance
+RA
+. DUTERTE
+Citv Mavpc
+t\
+d/- Zo2o
+RELEASED
+t '^'
+CMO. CRD
+IEB t t 2o2o
+Too €t,8,)
+LIFE I8 HERE
+second Floor, city Hall Building, city Hall Drive, San pedro st., Davao city
+(082) 224-3004 o (082) 241-1000 toc. 265 o davaocitymayor@gmail.com
+B6W @
+I
+,
+pubiic of the Philippines
+OF THE CITY I\{AYOR
+$e
+CE
+OFFI
+
+Repiubiic of the Philippines
+OFFICE OF THE CITY IVIAYOR
+it0ib
+rt\
+,O NC
+RE: ORDINANCE NO. 083-19, SERIES of 2079 entitled 'AN
+ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY
+MAYOR TO EXECUTE AND SIGN THE CONTRACT OF USUFRUCT,
+FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+INVOLVING A PARCEL OF LAND COVERED BY TRANSFER
+CERTIFICATE OF TITLE NO. T-29731, IN FAVOR OF THE BOY
+SCOUTS OF THE PHILIPPINES DAVAO CITY LOCAL COUNCIL"
+VETO MESSAGE
+February n,2O2O
+Respectfully forwarded to the Offlce of the City Mayor, through the Office
+of the City Administrator, both thls City, the subject Ordinance, informing your
+end that the same is being VETOED for being prejudicial to public interest.
+Pursuant to its corporate power, the City of Davao has the power to
+acquire and convey real or personal propefi (SECTION 22 of RA 7160).
+In the engagement at hand, the request for Usufruct by the Boy Scout of
+the Philippines was deliberated and recommended for approval by the Task
+Force on Inventories of Real Properties (REPTAF), to fortify the City's title over
+the propefi having in mind that the Boy Scout of the Philippines has been in
+possession of the the 37,429 square meter lot for the last two (2) decades.
+However, the city is now in a pressing need for additional land/lots not
+only to situate its local projects but to accommodate projects of national
+agencies which are deemed beneficial to constituents. If we are to convey the
+entirety of the 3t,429 square meter lot to the Boy Scout of the Philippines, we
+would be depriving the people of Davao the benefits of other infrastructure
+projects within the area.
+HENCE, THIS VETO.
+Finally, let copies of this VETO MESSAGE be furnished all members of the
+August Body for information and guidance
+Z. DUTERTE
+Citv Mavp>
+Mffifl.EASED
+CMO. CRD
+1l
+'.o0 EtEr\)
+LITE I8 HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmait.com
+Bffi,',@
+
+2D
+Republic rif the Philippines
+OFFICE OF THE CITY LEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Lcr,2671225/230
+Dlvlsr0tr
+CMO CONIACI t: 241.IOOO roc.
+ED
+w
+'i:JiSTrBSil
+IV
+Ref. No. CLO-2020-00277
+:''-a
+I
+RE: ORDINANCE NO. 083-19, SERIES of 2019 entitled "AN
+ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY
+MAYOR TO EXECUTE AND SIGN THE CONTRACT OF USUFRUCT,
+FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+INVOLVING A PARCEL OF LAND COVERED BY TRANSFER
+CERTIFICATE OF TITLE NO. T-29731, IN FAVOR OF THE BOY
+SCOUTS OF THE PHILIPPINES DAVAO CITY LOCAL COUNCIL,"
+1* INDoRSEMENT
+February 14,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance, with the
+following findings, comments and information:
+Pursuant to its corporate power, the City of Davao has the power to
+acquire and convey real or personal propety (SECTION 22 of RA 7160).
+In the engagement at hand, the request for Usufruct by the Boy Scout of
+the Philippines was deliberated and recommended for approval by the Task
+Force on Inventories of Real Properties (REPTAF), to fortify the City's title over
+the property having in mind that the Boy Scout of the Philippines has been in
+possession of the the 31,429 square meter lot for the last two (2) decades,
+However, the city is now in a pressing need for additional land/lots not
+only to situate its local projects but to accommodate projects of national
+agencies which are deemed beneficial to constituents. If we are to convey the
+entirety of the 3t,429 square meter lot to the Boy Scout of the Philippines, we
+would be depriving the people of Davao the benefits of other infrastructure
+projects within the area.
+View from the foregoing, this office recommends the VETO of the subject
+ordinance for being prejudicial to public interest.
+JR.
+Legal Opinion t'lo. [97 ,
+SERIES of 2020
+- . t'rli U; i,:,5 t . -
+trt'i' ilr;,i
+0A,r.ill
+,'IECFiUED gtr
+efi4
+L
+FEB 2
+to s-fi
+Approved, a
+^HP'!v'vu
+\€S
+ATTY. OSMUNPO P. VILANUEVA, JR
+OIC-Acting City Legal Officer
+Date approved: February 17,2020
+l'11
+1T
+nn
+ARSEN
+ttorney
+ea2D - Of,rcll
+bt lc.8-10
+DKE-
+,ir -ir&r'tfi.,{'
+l,t
+
+Repu bt& ,! thg Philippines
+U
+February 1I,2020
+2ltQto - lJo
+SARA Z. DUTERTE
+City Mayor
+ffi .rfl"E-'iEi'v"d'''tFEB t1 2020
+tl: .)D
+cMo
+t: 2.1-1@0 Loc.
+09956299702
+Madam:
+pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No'
+0282-19 and ordinance No. 9!!I!:1!1, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly Yours,
+, M \-/"^{
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+o.
+IV
+
+.r
+Republic of ttie Philippines
+19tt'City Council
+16h Regular Session
+SERIES of 2019
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSEI{T:
+Alberto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Vice Mayor Sebastian Z. Dutefte
+-OB- Acting City Mayor
+ORDINANCE NO. 083.19
+SERIES of 2019
+AN ORDINANCE GRANTING LEGISTATIVE AUTHORITY TO
+THE CITY MAYOR TO EXECUTE AND SIGN THE CONTRACT OF
+USUFRUCT, FOR AND IN BEHALF OF THE CITY GOVERNMENT
+OF DAVAO, INVOLVING A PARCEL OF I.AND COVERED BY
+TRANSFER CERTIFICATE OF TITTE
+ilO. T.29731, IN
+FAVOR OF THE BOY SCOUTS OF THE PHILIPPINES DAVAO
+CITY LOCAL COUNCIT
+
+Ord. No. 083-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as *AN ORDINAilCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO EXECUTE AND
+srGN THE CONTRACT OF USUFRUCT, FOR AND IN BEHALF OF THE CrTy
+GOVERNMENT OF DAVAO, TNVOLWNG A PARCEL OF IAND COVERED BY
+TRAilSFER CERTTFTCATE OF TITLE NO. T-2973L rN FAVOR OF THE BOY
+SCOUTS OF THE PHILIPPINES DAVAO CITY LOCAT COUNCIL".
+SECTION 2. aUTHORITY - The Honorable City Mayor of Davao is hereby
+authorized to execute and sign the Contract of Usufruct for and in behalf of the City
+Government of Davao, in favor of the Boy Scouts of the Philippines, Davao City Local
+Council, involving a parcel of land registered in the name of the City of Davao located in
+Barangay Malagos, Davao City covered by Transfer Certificate of TiUe with No. f-29731,
+as shown in the records of the Registry of Deeds of Davao City, described as follows:
+TRANSFER CERTIFICATE OF TITLE NO. T.29731
+"A parcel of land (Lot No. 499 of the cadastral survey of Guianga), with the
+improvements thereon, situated in the Municipal District of Guianga. Bounded
+on the NE., by the Malagos River; on the SE., by Lot 316 and a road; and on
+the SW., by Lots Nos. 313; Beginning at a point marked 1 on plan, being S.
+61 deg. 23tt1/., 708.22 m. from B.L.L.M. No. 2; thence N.,7 deg. 57tt\/.,
+237.50m. to point 2; thence S. 13 deg. 59W., 138.65 m. to point 4; thence
+S. 63 deg. 46W., L52.44m. to the point of beginning; containing an area of
+Thirty -one Thousand Four Hundred and Twenty- Nine square meters
+(3L,429), more or less."
+SECTION 3. PURPOSE. The purpose of the Contract of Usufruct is for the
+development of the land solely and exclusively for CAMP and TRAINING SITE purposes
+of the Boy Scouts of the Philippines Davao City Local Council.
+sEcTIoN4.W.If,foranyreason|any.paftorprovisionof
+this Ordinance is declared invalid or unconstitutional, any part or provision not affected
+thereby shall remain in full force and effect.
+SECTION 5. EEEggffi . This Ordinance shall take effect immediately upon
+approval.
+ENACTED, October 22, 2019, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ 0[vu,r.i, n ,W
+C]{ARITO N."SAI{TOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+
+a
+ATTY. ZUTEIKA T. LOPEZ
+City Administrator u
+Ord. No.083-19
+!
+ATTESTED:
+ATTESTED:
+*M^uo,
+'A.ting vice Mayor
+Temporary Presiding Officer
+cns/ray
+APPROVED:_, 2019
+SARA Z. DUTERTE
+*city Mayy
+
+CONTRACT OF USUFRUCT
+Know All Men By This Presents:
+This Contract of Usufruct made and executed and entered into in Davao
+City this
+day of
+by and between:
+THE CITY OF DAVAO, a municipal corporation duly organized and
+existing under the laws of the Republic of the Philippines with principal office
+at the City Hall of Davao, in its capacity as owner of the properties of Boy
+Scouts of the Philippines, Camp Malagos Davao City, represented in this act
+by its City mayor, SARA Z. DUTERTE, of legal age, Filipino Citizen, manied,
+and resident of Davao City, hereinafter refened to as the OWNER.
+AND
+THE BOY SCOUTS OF THE PHILIPPINES (BSP) Davao City tocal
+Council, created pursuant to Commonwealth Act 111, as amended by
+Republic Act.7278, represented in this act by Chairman of the Board, ATTY.
+FILEMON S. CIMAFRANCA JR., of legal age, Filipino, married and resident of
+Davao City, Philippines, hereinafter referred to as the USUFRUCTUARY;
+WITNESSETH:
+WHEREAS, the CITY OF DAVAO is the registered owner of the
+propefties located in Barangay Malagos, Davao City covered by Transfer
+Ceftificate of Title Nos.: T-2973L as shown in the records of the Register of
+Deeds of Davao City, described as follows:
+T

@@ -1,7 +1,7 @@
 ---
 title: "Davao City ordinance corpus"
 document_count: 9
-generated: 2026-09-08T06:45:11
+generated: 2026-10-01T22:44:09
 tags: [moc, ordinance, davao]
 ---
 

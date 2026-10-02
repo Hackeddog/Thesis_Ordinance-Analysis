@@ -1,0 +1,296 @@
+---
+ordinance_number: "0117-19"
+title: "AN ORDINANCE GRANTING THE REQUEST OF ROSEVIC DEL ROSARIO-CEMBRANO, PRESIDENT, MINDANAO TRADE EXPO FOUNDATION, INC. (MTEFI), FOR E(EMPTION FROM THE PAYMENT OF SPECI,AL MAYOR'S PERMIT FEE OF THE PARTICIPATING MICRO, SMALL AND MEDIUM ENTERPRISES (MSMES) DURING THE \"MINDANAO TRADE EXPO CHRISTMAS EVENT 24L9',, ON DECEMBER 12-15,2019 AT THE ACflVITY CENTE& ABREEZA MALL, l.p. LAUREL AVENUE, BAIADA, THIS "
+date_enacted: "2019-11-26"
+approval_date: "2019-11-26"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0117-19 (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/request, topic/rosevic, topic/rosario, topic/cembrano, topic/president]
+---
+
+# Ordinance No. 0117-19
+
+> AN ORDINANCE GRANTING THE REQUEST OF ROSEVIC DEL ROSARIO-CEMBRANO, PRESIDENT, MINDANAO TRADE EXPO FOUNDATION, INC. (MTEFI), FOR E(EMPTION FROM THE PAYMENT OF SPECI,AL MAYOR'S PERMIT FEE OF THE PARTICIPATING MICRO, SMALL AND MEDIUM ENTERPRISES (MSMES) DURING THE "MINDANAO TRADE EXPO CHRISTMAS EVENT 24L9',, ON DECEMBER 12-15,2019 AT THE ACflVITY CENTE& ABREEZA MALL, l.p. LAUREL AVENUE, BAIADA, THIS 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+,o{lr2419;;
+iw
+'
+OFFICE OF THE CITY MAYOR
+I
+Ref. No. CAdG2019-04749
+2nA INDORSEMENT
+December 16, 2019
+Respectfully returned to Ms. Charib N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 744, SERIES of 2019 dated
+December 3, 2019 of the City Legal Office, relative to the attached duly signed and
+approved Ordinance No. 0117-19, SERIES of 2019 entitled, *AN ORDINANCE GRANTING
+THE REQUEST OF ROSEVIC DEL ROSARIO-CEMBRANO, PRESIDENT, MINDANAO
+TRADE EXPO FOUNDATION, INC. (MTEFI), FOR E(EMPTION FROM THE PAYMENT OF
+SPECI,AL MAYOR'S PERMIT FEE OF THE PARTICIPATING MICRO, SMALL AND MEDIUM
+ENTERPRISES (MSMES) DURING THE "MINDANAO TRADE EXPO CHRISTMAS EVENT
+24L9',, ON DECEMBER 12-15,2019 AT THE ACflVITY CENTE& ABREEZA MALL, l.p.
+LAUREL AVENUE, BAIADA, THIS Cfry", for your information and appropriate action.
+For the City Mayor:
+ATTY.
+Assistant
+(Administration)
+*
+CTVIO.CRD
+RELEASED
+lllt.\-\h'h
+RECf;I\dHD
+6Y
+ilfitE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.com
+B)lW. 6l
+LIFE IS HERE
+
+!'G
+Scis
+l20Ll1_
+OFFICE OF TTIE CITY LEGAT
+Tel. No. 298-6970
+Line No. 241-1000 Loc 26712251230
+xsffirED rr
+tTIT
+Ref. No. CLO-2019-0004t1ifi8:
+2019
+RE: ORDINANCE NO. 0117-19, SERIES OF 2019 entitled "AN ORDINANCE
+GRANTING THE REQUEST OF ROSEVIC DEL ROSARIO-CEMBRANO,
+PRESIDENT, MINDANAO TRADE EXPO FOUNDATION, INC. (MTEFI), FOR
+EXEMPTION FROM THE PAYMENT OF SPECIAL MAYOR'S PERMIT FEE OF
+THE PARTICIPATING MICRO, SMALL AND MEDIUM ENTERPRISES
+(MSMES) DURING THE "MINDANAO TRADE EXPO CHRISTMAS EVENT
+20L9", ON DECEMBER 12-15, 2OL9 AT THE ACflVITY CENTER, ABREEZA
+MALL, J.P. LAUREL AVENUE, BA]ADA, THIS CTry"
+1't INDoRSEMENT
+December 3,20t9
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance No. 01L7-L9
+SERIES of 2019, with the information that this office finds no legal infirmity in the
+passage of the subject ordinance, it appearing that the same is well within the
+power of the SANGGUNIANG Panlungsod.
+In view thereof, this office recommends the approval of the subject
+ordinance.
+v-
+ruo. {s,
+A. GALLO, RSW
+Legal Officer
+GAL
+ATTY.
+Acting
+Approved by:
+ATTY. OSMUN
+P. VTLLANUEVA, JR
+OIC-Acting City Legal Officer
+Date of Approval: December 4,20L9
+ordl 1 1 z - 1 s_ta4-e 4empt_sp cia[-na1 or's prmit_mtef_2 0 1 9 -NO4 4 4 Z _ 1 2 - 3 - I g
+@f,ee
+:
+a)
+o
+Drvrsr0N
+#J9!1i
+ii(Er)::
+D
+R
+A
+IV
+MA
+^DMIN
+CMO CONTACI r: 24
+o
+it
+eeu-1-\lo
+
+SARA Z. DUTERTE
+City Mayor
+Madam:
+November 29,20t9
+un-wn -eq++q?
+469,
+ru)alq-o$
+n24t
+Article One, Title Five,
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0391-19 and Ordinance No.ElZlll , both SERIES of 20t9 of the SANGGUNIANG
+Panlungsod, , for your information, guidance and appropriate action.
+Very truly yours,
+bgktfui.W,o,
+Secretary to the Sangguriiang Panlungsod
+(City Government Department Head II)
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVED
+DEC 02 2019
+ueny nruM,o. ALVARADo .L . ,
+eourrurs/farrvE AIDE rv /0 "
+CMo CONTACI {: 241.1m0 tOC. 265-266, 09956299702
+ffi
+l'I
+
+19th City Council
+20th Regular Session
+SERIES of 2019
+PRESENT:
+Republic.of tht Philippines
+Sebastian Z. Duterte
+Ralph O. Abella
+Nilo D. Abellera
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Jesus Joseph P. Zozobrado III
+- Presiding Officer
+- On Sick Leave
+- On Vacation Leave
+- Domestic Emergency Leave
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Pamela A. Librado-Morata
+laffar U. Marohomsalic
+Mary Joselle D. Villafuerte
+ORDINANCE ilO. 0117.19
+SERIES of 2019
+AN ORDINANCE GRANTING THE REQUEST OF ROSEVIC DEL
+ROSARIO-CEMBRANO, PRESIDENT, MIilDANAO TRADE
+EXPO FOUNDATION, rNC. (MTEFI), FOR EXEMPTION FROM
+THE PAYMENT OF SPECIAL MAYOR'S PERMIT FEE OF THE
+PARTICIPATING MICRO, SMALL AND MEDIUM ENTERPRISES
+(MSMES) DURING THE *MINDANAO TRADE EXPO
+CHRISTMAS EVENT 2OL9" Ot{ DECEMBER 12-15, 2019 AT
+THE ACTIVITY CENTE& ABREEZA MALL, J.P. LAUREL
+AVENUE, BA'ADA, THIS CITY
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+/ ra n^"-Ol
+
+Page2 of 2
+Ord. No.0117-19
+SECTION 1. TITTE - This Ordinance shall be known as "AN ORDINANCE
+GRANTTNG THE REQUEST OF ROSEVIC DEL ROSARTO-CEMBRANO,
+PRESIDENT, MINDANAO TRADE EXPO FOUNDATTON, rNC. (MTEFT), FOR
+EXEMPTION FROM THE PAYMENT OF SPECIAL MAYOR'S PERMIT FEE OF THE
+PARTICIPATING MICRO, SMALL AND MEDIUM ENTERPRISES (MSMES)
+DURING THE 'MINDANAO TRADE EXPO CHRISTMAS EVENT zol;g',, ON
+DECEMBER 12-15, 2OL9 AT THE ACTMTY CENTE& ABREEZA MALL,
+'.p.
+LAUREL AVENUE, BA'ADA" THIS CITY
+SECTION 2. QQUEBAGE -The exemption solely refers to the payment of Special
+Mayor's Permit Fee of the pafticipating MSMEs during the Mindanao Trade Fxpo Chrisfinas
+Event 2019.
+SECTION 3. PERIOD - The exemption shall cover the period December l2-L5,
+2019.
+SECTION 4.
+. - The request of
+Rosevic Del Rosario-Cembrano, President, Mindanao Trade Expo Foundation, Inc.
+(MTEFI), for exemption from the payment of Special Mayor's Permit Fee of the
+pafticipating Micro, Small and Medium Enterprises (MSMES) during the "Mindanao Trade
+Expo Christmas Event20L9", on December 12-15, 2019 at the Activity Center, Abreeza
+Mall, J.P. Laurel Avenue, Bajada, this City, is hereby approved.
+sEcrror{ s.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, on November 26,2019, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+SEBASTIAN Z. DUTERTE
+Vice Mayor - Presiding Officer
+cns/ray
+ZULEIKA
+n0,1u,,,6 l. G
+CHARITO r{; flANTOS
+Secretary to the SANGGUNIANG Panlungsod
+( City Government Depaftment Head IIJ,t
+APPROVED
+tc
+2019
+Z. DUTERTE
+?
+ATTESTED:
+City Ad
+" city Muyy
+,
+ATTESTED:
+f^

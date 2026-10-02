@@ -1,0 +1,205 @@
+---
+ordinance_number: "0364-23"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF AGRICULTURE (DA) AND THE CITY OF DAVAO RELATIVE TO THE PHILIPPINE RURAL DEVELOPMENT PROJECT (pRDp) SCArE-UP REFLECTTNG THE NEW FRAMEWORK OF THE PRDP SCALE UP"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0364-23 (2).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 0364-23
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF AGRICULTURE (DA) AND THE CITY OF DAVAO RELATIVE TO THE PHILIPPINE RURAL DEVELOPMENT PROJECT (pRDp) SCArE-UP REFLECTTNG THE NEW FRAMEWORK OF THE PRDP SCALE UP
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+>
+ONG
+Republic of thb Philippines
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Edgar P. Ibuyan Jr.
+Richlyn N. lustol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Luna Maria Dominique S. Acosta
+lonard C. Dayap
+20th City Council
+47s Regular Session
+SERIES of 2023
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+- Presiding Officer
+- On Force Leave
+ORDINANCE NO. 0364.23
+SERIES oJ 2023
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT
+(MOA) TO BE ENTERED INTO BY AND BETWEEN THE
+DEPARTMENT OF AGRICULTURE (DA) AND THE CITY OF
+DAVAO RELATIVE TO THE PHILIPPINE RURAL
+DEVELOPMENT PROJECT (pRDp) SCArE-UP REFLECTTNG
+THE NEW FRAMEWORK OF THE PRDP SCALE UP
+
+that
+Ord. No. 0364-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA)
+TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF AGRICULTURE
+(DA) AND THE CITY OF DAVAO RELATIVE TO THE PHILIPPINE RURAL
+DEVELOPMENT PROJECT (PRDP) SCALE.UP REFLECTING THE NEW
+FRAMEWORK OF THE PRDP SCALE UP.'
+SECTION 2. DECLARATION OF POLICY - Sections 22 (a) (5) (c) and 455 (b)
+(1) (vi) of Republic Act No. 7160 or the Local Government Code of 1991 provide:
+SECTION 22, Corporate Powers;
+(a) Every local government unit, as a corporation, shall have the
+following powers: )oo(
+5) To enter into contracts: and ,uor
+(c) Unless othenruise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal
+or barangay hall.
+SECTION 455. Chief
+Compensation. xxx
+Executive; Powers, Duties and
+(b) For efficient, effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the City Mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, and activities of the city government, and in this
+connection, shall:
+)oo(
+x)0(
+)oc(
+(vi) Represent the city in all its business transactions and sign in
+its behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance.
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City of Davao, the Memorandum
+of Agreement (MOA) by and between the Department of Agriculture (DA) and the City of
+Davao relative to the Philippine Rura! Development Project (PRDP) scale-up reflecting the
+new framework of the PRDP scale up.
+
+Ord. No. 0364-23
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMW - This Ordinance shall take effect upon approval.
+ENACTED, on December LL, 2023, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+Secretary to the
+ng Panlungsod
+. Ara -t
+CHARITO N
+City Government Depaftme nt Head tIJ
+(
+ATTESTED:
+ATTESTED:
+ATTY.
+Presiding Officer
+cns/mjb
+J. MELCU6R B. QUTTATN JR.
+lice Mayor
+JAN II MS
+APPROVED:
+2023
+"C,
+SEBAS'TAN Z. DUTERTE
+ciV Mavp u
+H. LAYOG
+Acting
+inistrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE',erUreneo rNTo By AND
+BETWEEN THE DEPARTMEIIT OF AGRICULTURE (DA) AND THE CITY OF DAVAO RELATIVE TO THE
+PHIUPPINE RURAL DEVELOPMET{T PROJECT (PRDP) SCnr-r-up REFLECnNG THE NEW FRAMEWORK OF
+THE PRDP SCALE UP

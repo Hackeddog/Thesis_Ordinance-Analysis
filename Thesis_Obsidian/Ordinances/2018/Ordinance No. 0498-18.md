@@ -1,0 +1,294 @@
+---
+ordinance_number: "0498-18"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UFILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5%) DISASTER RISK REDUCTION AND MANAGEMENT FUND (cAl-AMITy FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2018, IN THE TOTAL AMOUNT OF ONE MILLION PESOS (P1,000,000.00), To EXTEND FINANCIAL ASSISTANCE TO THE VICNMS OF THE FIRE THAT DISPLACED THOUSAN"
+date_enacted: "2018-07-31"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0498-18.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/authorizing, topic/mayor, topic/ufilize, topic/portion, topic/thirty, topic/percent]
+---
+
+# Ordinance No. 0498-18
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UFILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5%) DISASTER RISK REDUCTION AND MANAGEMENT FUND (cAl-AMITy FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2018, IN THE TOTAL AMOUNT OF ONE MILLION PESOS (P1,000,000.00), To EXTEND FINANCIAL ASSISTANCE TO THE VICNMS OF THE FIRE THAT DISPLACED THOUSAN
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+ffi
+,t.-Q
+Republic of the Philippines I
+OFFICE OF THE CITY IVIAYOR
+o.rcislc'
+r
+Ref. No. CAdG2018-05929
+IDPDJehit
+b,'t
+?1^
+2N'I INDORSEMENT
+September 5, 2018
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0498-18,
+SERIES of 2018 entitled "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UFILIZE
+A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF
+THE FIVE PERCENT (5%) DISASTER RISK REDUCTION AND MANAGEMENT FUND
+(cAl-AMITy FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2018,
+IN THE TOTAL AMOUNT OF ONE MILLION PESOS (P1,000,000.00), To EXTEND
+FINANCIAL ASSISTANCE TO THE VICNMS OF THE FIRE THAT DISPLACED
+THOUSANDS IN TItE MUNICIPALIY OF IOLO, SULU", for your information and
+appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+)
+cMO
+CRD
+R E L E A s E D
+P
+E
+2018 0
+'11[
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+BV@
+s)
+LrFl t! lrERl
+
+t\
+OFFICE OF THE CITY LEGAT OFFICER
+Tel. N0.298-6910
+Trunk Llne No. 241-1000 Loc,261,
+o0o
+Ref. No. 1131-18-0139
+LEGAL OPINION NO. 4,0
+SERIES OF 2018
+l't INDORSEMENT
+August 13, 2018
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0498-18
+SERIES OF 2018, entitled "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+UTIUZE A PORION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND
+(QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCflON AND
+MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO
+FOR CALENDAY YEAR 2018, IN THE TOTAL AMOUNT OF ONE MILLION PESOS
+(P1,000,000.00) To EXTEND FINANCIAL ASSISTANCE TO THE VICTTMS OF THE
+FIRE THAT DISPLACED THOUSANDS IN THE CITY OF JOLO, SULU", informing
+your end that the same is free from legal infirmity citing RA 8185, otherwise
+known as An Act Amending Sec. 324 (d) of RA 7t60, the Local Government Code
+of 1991.
+Hence, it is strongly recommended that the said ordinance be approved.
+aI
+ArrY. MARShALto, Rsw
+OIC-Acting Assistant City Legal Officer
+Date approved: August t4,20LB
+o td04 9 8 - 1 8 _c a htit2;fi e_jo to- s utu_ 1 I 4 I 3 9 _8 - 1 3 - 1 I
+@lee
+DATE:
+TIME:
+A
+tTl
+g
+,jlcts oF T HE tl IY ADtyliltrri r t{A, qrl
+CITY HAII
+tk$ht
+r;rit.
+{flL,
+RECE
+CMC)
+t/!E BY
+oAVA0 Ct]\
+te?-kA -13
+;.ri';FiCS.0F
+REGEIVED
+iiate
+( lI
+
+saci3r(
+.
+August B, 2018
+SARA Z. DUTERTE
+City Mayor
+cns/nta
+/5D
+A
+om
+O
+*
+*
+Madam:
+rf $-0w Pa4
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, othenruise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02295-18 and Ordinance No. 0498-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, City of Davao, for your information, guidance, and
+appropriate action.
+Very truly yours/
+n \l^,ua ]. k
+CHARTTO Nj SINTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+t
+f,MG
+CRD
+a
+ffi L
+ffi
+S*
+#
+gk
+V tr D
+
+18th City Council
+28th Regular Session
+SERIES of 2018
+PRESENT:
+ABSENT:
+Vice Mayor Bernard E. Al-ag
+Councilor Nilo M. Abellera Jr.
+Councilor Maria Belen S. Acosta
+Councilor Victorio U. Advincula lr.
+Councilor Al Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Joanne M. Bonguyan - Quilos
+Councilor Ma. Cherry Ann M. Bonguyan
+Councilor Pilar C. Braga
+Councilor Carmelo J. Clarion
+Councilor Danilo C. Dayanghirang
+Councilor April Marie C. Dayap
+Councilor Jimmy G. Dureza
+Councilor Edgar P. Ibuyan Jr.
+Councilor Leah A. Librado-Yap
+Councilor Rene Elias C. Lopez
+Councilor Diosdado Angelo A. Mahipus Sr.
+Councilor Jaffar U. Marohomsalic
+Councilor Bonifacio E. Militar
+Councilor Avegayle Dalodo Oftiz
+Councilor Antoinette G. Principe-Castrodes
+Councilor J. Melchor B. Quitain Jr,
+Councilor Marissa P. Salvador-Abella
+Councilor Mary Joselle D. Villafuefte
+Councilor Jesus Joseph P. Zozobrado III
+- Presiding Officer
+Councilor January N. Dutefte
+- On Sick Leave
+ORDII{ANCE NO. 0498.18
+SERIES of 2018
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+UTILIZE A PORTION OF THE THIRW PERCENT (30o/o)
+QUrCK RESPONSE FUND (QRF) OUT OF THE FIVE
+PERCENT (5olo) DISASTER RISK REDUCTION AND
+MANAGEMENT FUND (CALAMITY FUND) OF THE CITY
+GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2018, IN
+THE TOTAL AMOUNT OF ONE MILLION PESOS
+(P1,000,000.00), TO EXTEND FTNANCIAL ASSTSTANCE
+TO THE VICTIMS OF THE FIRE THAT DISPLACED
+THOUSANDS IN THE MUNICTPALTW OF JOLO, SULU
+
+Ordinance No. 0498-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in
+session assembled, that:
+SECTIOil 1. TITLE - This Ordinance shall be known as 'AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO UTITIZE A PORTIOil OF THE THIRTY
+PERCENT (30o/o) QUICK RESPONSE FUND (QRF) oUT oF THE FIVE
+PERCENT (5olo) DISASTER RISK REDUCTION AND MAIIAGEMENT FUND
+(CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR
+YEAR 2OLq IN THE TOTAT AMOUNT OF ONE MILTION PESOS
+(P1,OOO,OOO.OO), TO EXTEND FINANCIAL ASSISTAI{CE TO THE VICTIMS OF
+THE FIRE THAT DISPLACED THOUSANDS IN THE CITY OF JOLO, SULU";
+SECTION 2. DECTARATION OF POIICY. In keeping with its mandate
+and in response to the needs of the people, the City Government of Davao declares
+as its policy to judiciously utilize resources and put the same to proper use.
+SECTION 3. BENEFICIARY. The town of Jolo, Sulu will be the beneficiary
+of the financial assistance in the total amount of One Million Pesos (P1,000,000.00).
+SECTION 4. LEGAT BASIS. Pursuant to the provisions of SECTION 324 (d)
+of Republic Act No. 7L60, otherwise known as the Locat Government Code of 1991,
+as amended by Republic Act 8185, "Five Percent (5o/o) of the estimated revenue from
+regular sources shall be set aside as annual lump sum appropriations for retief,
+rehabilitation, reconstruction and other worl<s or seruices in connection with
+calamities which may occur during the budget year. Provided, however, that such
+fund shall be used only in the are4 or a portion thercof, of the local government
+unit or ather areas affected by a disaster or calamity, as determined and declared by
+the local sanggunian concerned".
+Fufther, SECTION 5 of the Implementing Rules and Regulations of Republic Act
+8185, states that:
+SECTION 5. Allocation and tJtilization of Five Percent (S%o.t Lumpsum
+Appropriation for Calamitu Fund
+a) Allocation
+)(n(
+w
+w
+"LGUs may also allocate/use a portion of the ftve percent (so/") Calamity
+Fund to other affected areas on condition that the said areas are declared
+as under a State of Calamity by the Sanggunian concerned";
+b) Utilization
+(2) A portion of the calamity fund may also be authorized to be used by
+the LGU concerned to provide financial assistance to other LGus whose
+area or portion thereof had been declared under a State of Calamity by ib
+Sanggunian".
+
+t
+1,
+sEcrIoN 5' UqE pF FUNDS - The amount herein appropriated shall be
+used specifically for suchlteilnd expenaiturei .ppror.d by the SANGGUNIANG
+Panlungsod' All disbursements and utilization or nrnds shalt be subject to existing
+government budgeting, accounting and_ auditing rules unJ -r.griition, of the
+Department of Bu-dg,:r.;ro'ylnrge;.nt (DBM), th6 commission on-Audit (coA), the
+Procurement Law (RA 9184), is well ir ofrlui ipplicable laws, ordinances and
+Presidential directives ;
+Ordinance No. 049g-1g
+sEcTroN 6'. EFFEcTrvrw - The provisions of this ordinance shall take
+effect upon approval;
+ENACTED, July 31, 2018, by a unanimous vote of all the Members of the
+Sangunian.
+CERTIFIED CORRECT:
+-4 Clvw6\- '1"'*
+CHARTTO N.-SSNTOS
+Secretary to the Sanggdniang panlungsod
+(City Government Department Head W
+ATTESTED:
+*Y
+E. AL-AG
+Vice Mayor
+Presiding Officer
+ATTY. ZULEI
+- City rvraVorl6tllAPPROVED. AU, l620t9,
+2018
+z;
+ATTESTED:
+City Admi
+qi'

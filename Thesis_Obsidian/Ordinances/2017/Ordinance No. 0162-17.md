@@ -1,0 +1,316 @@
+---
+ordinance_number: "0162-17"
+title: "Ordinance No. 0162-17"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0162-17.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2017.0
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid]
+---
+
+# Ordinance No. 0162-17
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | 2017 |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+oo*oiffd$
+t
+"
+,r!
+OFFICE OF THE CTTYMAYOR
+2nd Indonsement
+April T, 20L7
+Respectfirlly returned to Ms. Charito il. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this city, the herein Ordinance No. OL62-17,
+SeTies oT 2Ot,7, AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC ALONG A PORTION OF ROXAS ST., C.M. RECTO ST.,
+BONIFACIO ST., PELAYO ST., LEGASPI ST., AND SAN PEDRO ST., ALL OF
+DAVAO CITY, ON MARCH 16, 20L7, FROM 2:00 A.M. TO 12:00 NN, FORTHE
+EVENT "PARADA DABAWENYO" IN UNE WITH THE TWO-WEEK-LONG
+CELEBRATION OF THE 80rhr ARAW NG DABAW, duly reviewed by the ffice of
+the City Legal Officer, this city, with the information that the same is free from
+legal infirmity. Fufther, no executive action is necessary on the matter since
+the same has already lapsed into law, for your information and appropriate
+action.
+By Authority of the City Mayor
+per Executive Order No. 06
+dated August 1, 2016:
+:
+ATTY. LAwilEi& D. BANTIDING
+Asst. City Administrator(Operations)
+RELEASED
+CMO. CRD
+I
+t}+ Pn.-M
+?a -a -n
+Second Floor, City Hall Building, San Pedro St., Davao Citf Ltf - t c - 7/
+(082) 227-2577 . (082) 224-5878. davaocitymayor@gmail.com
+Ut,O l,?
+n
+
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao s)o,
+,i-MO CRD
+Rfi,f;ffiflVffiM
+MAt( I J lull/ V,n ft^-ft\
+Ref. No. ll3L-t7
+LEGAT OPIilIOil NO. I;.{
+SERIES OF 2017
+l't INDORSEMENT
+March 9,2017
+Respectfully furwarded to the Offtce of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0162-17,
+SERIES ot 2Ot.7 entitled 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC ALONG A PORNON OF ROXAS ST., C.M. RECTO ST.,
+BONIFACIO S., PEI.AYO ST., LEGASPI ST., AND SAN PEDRO ST., ALL OF
+DAVAO Cffi, ON MARCH \6, 20t7, FROM 2:00 A.M. TO 12:00 NN, FOR THE
+EVENT *PARADA DABAWENYO" IN LINE WITH THE TWO.WEEK.LONG
+CELEBRATION OF THE SOTH ARAW NG DABAW'i informing your end that the
+same is free from legal infirmity citing RA 7160, otherwise known as the Local
+Government Code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A local
+government unit may, pursuant to an ordinance, petmanently or
+temporarily close or open any local roa4 alley, parh or square falling
+within ib jurisdiction: ProvideQ however, That in case of permanent
+closure, such ordinance must be approved by at least two-thirds (2/3) of
+all the memberc of the anggunian, and when necessary, an adequate
+substitute for the public facility that is subject to closure is provided.
+)&x
+(c) Any national or local road, alley, park, or square may be
+temporarily clored during an actual emergency, or fiesta celebrations,
+public rallies, agricultural or industrial fairy or an undertaking of public
+work and highways, telecommunications, and waterworl<s projeffi, the
+duration of which shall be spuified by the local chief executive concerned
+in a written order: Provided, however, That no national or local road,
+alley, parh or square shall be temporarily closed for athletiq cultural, or
+civic activities not officially sponsord, recognized, or approved by the
+local government unit concerned'i
+ATTY. OSMUN
+. VTLIANUEVAy JR.
+OIC, Asst.
+Legal Officer
+Date of approval: March t0,20L7
+,r-f-i(jF oF THF (;tT, AOmNtSIRAfOF
+lcr
+DA"JTO
+tEC.LiVED lt
+:A-F..
+uavao
+rltt
+CII Y t.l-ii1r
+d.nir'I
+ilEHV If\'tn
+.tlI_p
+MAYOR'5 OTFICE
+,GAT
+Ii].
+Ll- Ll-n
+q:,t
+O
+o
+URE
+CITY
+rt\rl
+o
+tP>-b?b'v/
+str
+ds
+I
+a.J)
+RE
+ttn
+lLnU
+VT
+
+Republlc of'the Philippines
+City of Davao |p1
+March 7,2017
+SARA Z. DUTERTE
+City Mayor
+cns/nta
+\
+nIVS. CRD
+RHC E$VHM
+fr^'
+Madam:
+rtF_ ofr /. lo,l
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Afticle One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0686-17 and Ordinance No. OL62-L7, both SERIES of 2017 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+t
+tr
+e\yw,[,ko,
+Secretary to the Sangguliang Panlungsod
+(City Government Depaftment Head II)
+tlL - t -77
+
+Republic of"the Phili0pines
+'-- -Cltf of Davao
+Ofllcc of thc Sanggunlrng Frnlunglod
+18m C,fy founcil
+8fr Reguhr Sssbn
+Serim of 2017
+PRESE}IT:
+ABSE}IT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counrilor
+Counrilor
+Councilor
+Councilor
+Councilor
+Councilor
+Vire Mayor
+Coundlor
+Councilor
+O}I OFFICIAT BUSIIIES$:
+Councilor Nilo M. Atellera lr.
+hlo Z. Duterte
+January N. Duterte
+Antoinette G. Prinripetmtrods
+krnard E.A*q
+Maria Belen S. Acosh
+Victorio Lf, Advincula lr.
+Al Ryan 5. Alejandre
+Dante L. Apmtol Sr,
+Conrdo C, Baluran
+hanne M. Eonguyan{uilm
+Ma. Cherry Ann m. Bonguyan
+Pilar C. Br*;a
+Danilo C, Dayanghirang
+April Marie C, Dayap
+limmy G. Dureza
+Hgar P, Ihulran -Ir.
+Leah A. Lihralo-yap
+Rene Elim C. Lopez
+Diosdado Angelo A. Mahipus Sr
+Bonifxio E. Milihr
+Av*layle Dalojo Ortiz
+l. F4elchor B. Quitain Jr.
+Marissa P. Salvdor-Ahella
+Halila Y, Sudruar
+Mary hselle D. Villafuerte
+lesus hseph p. Zozobrado Itr
+Temtrorury Preidinq Officer
+On Vxation Leave
+On Sick Leave
+On Vacation Leave
+oRDIltAltcE Ho- 0162-17
+Serles of 20lf
+fi'I{ ORDIHfrIICE FCIR THE TEHFORARY CL(EURE TO
+YEHrcuIraE TRAFFTC ALoItc A mRTroH oF RoxAs
+ST.. C.H. RECTO ST.. BOHIFACIO ST., PELAYO ST..
+LEGASPI ST., AHD SAII PEDRO ST., dU OT DAYAO
+Cf,TY, OH HARCH 16, ZOLT,FROH 2:OO fH. TO 12:OO
+}IH. FOR THE F$EHT'PARADA DABAIuEHYO- I3I LI]IE
+W-MH THE TH}-WEET(-LOHG CELEBRATIOH OF THE
+BBIH ARAW HG DAEAW
+
+a
+Fage ? of3
+*rd. No. O 16?- 17
+Ee it ordained by *re SANGGUNIANG knlungsod of Davas City, in ssion
+me.mhled.. that:
+EECIIT!$I 1. II-Tt-t. - This Ordinarrte shall ke knorrurr as *Ail ORDIT{AI{f,E
+FOR IHE TI}*ItrORAftY f,TffiURT TO UIHICUITR TfrAFFTf ILT}Htr i
+trOftTTOH $F RT}XiS ST., C.tr*I. RECTO ST." BO}TIFACIO ST., PELAYC $T."
+LEGTSFI ST,, A}tr$ SA}I FESRO ST", ALI.- T}F DASAO CITY, $}I
+plARf,H L6, ISII, FROH ?:{}t] t"H" TS 12:O$ HH, FOE THE EUE$T *pARfig]t
+DAEfilHEH'fff" T1{ LIT{E HTTTT TTIE TIiTT}-WEEK-LCIHG CELEBR,ATI*BI BF T}gi
+EOTH IRAW ITG DABAH";
+SECTIOiI 2. DECIARiTIOII tlF F{}LICY. - Sectiorr 21 {r-} of Repuhlir Art
+Ho. tr160, otherwise krrswn x the Local Govemment Code of 1991, provides that any
+*ational ar local road, alley, Fart, sr square may be temprafily cksed during an
+arlual emergen.y, or fiesta celelrrations, puhlic ralliw, agrirultual cr indushial hits...;
+SECfION 3. IE$FORiFY CLffiURE. - The streets identified m: Roxx 5t.,
+{.F1. Rerto 5t.. Bonira--io 5t., Felayo St., Legaspi 5t. and San Fedro St., all of Daym
+fity, shall be temfnnrily closed to vehicular tmffic on March 16, 2017, from 2:00 A.M.
+t* 11:00 l{lrl for the event, "Parda Dabawenyo" in line with t}e two-werek{ong
+c*lebration of the 80m Araur ng Dabaw;
+SEf,fIOH 4. $EPIRAEILITV CIIUSE. * If for any rexon, any sertion or
+pr+visian of this Ordinanr-e is dectaterl unconstitutional or invalid, otier secUons or
+pr*visions her*c.f not aflected hy such declaratian shall continue to he in full fune
+and eflhrt;
+SECTI$U 5. EFFEtTnftITf. - The provisions of this Ordinance shail tah+
+*ffect immdiately urCIn afrFroval;
+fHfifTED, February 28, 2017, hy a unanimous yote of all $4e.mters fif the
+Sanrlr3unian pruent.
+IERTIFIED CI]RRECT:
+For and in dre abrence of the Serretary:
+narr,a.*
+[rru]A c. #asxo
+Arting Secre[arT ta the SANGGUNIANG Hnglungs*,1
+{A+;ishnt Ser-re,tary to the SanggunianU PanluXE}rJ}
+E- fiL-AG
+Acting Yice Mayor
+emF.crafY Prsiding Officer
+ATTESTED;
+nrm/rirhard
+
+'rr
+I
+AFPF.OVED:
+},SEi? -i frt t
+Crrd. Ha. O1E2-1?
+zfit7
+STRT.I. DlITEfiTE
+- {ity *^ff
+^-t--Frfl-!-r!--, "
+fI , JtrJ}'fL;,
+ATTY. TUI-.EII(fr T. I.-$PEI
+City Admirristrator a
+J
+LAr*D
+OEEMEBAPPROVEDAFTERTHE LAPSE OF

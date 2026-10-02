@@ -1,0 +1,326 @@
+---
+ordinance_number: "007-16"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD IDENTIFIED AS CITY HALL DRIVE (BESIDE RIZAL PARK), PORTION oF BOLTON ST. (FROM CORNER RIZAL ST. TO PICHON/MAGALLANES ST.) AND PORION OF SAN PEDRO ST., (FROM CORNER C.M. RECTO AVENUE TO CORNER CROOKED ROAD) ON AUGUST 18, 2016 FROM 1:00 P.M. ONWARDS, FOR THE PHYSICAL SETUP OF INDAK-INDAK SA KADALANAN IN LINE WITH THE CELEBRATION"
+date_enacted: null
+approval_date: "2016-08-12"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 007-16.pdf"
+section_count: 2
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/road, topic/identified]
+---
+
+# Ordinance No. 007-16
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD IDENTIFIED AS CITY HALL DRIVE (BESIDE RIZAL PARK), PORTION oF BOLTON ST. (FROM CORNER RIZAL ST. TO PICHON/MAGALLANES ST.) AND PORION OF SAN PEDRO ST., (FROM CORNER C.M. RECTO AVENUE TO CORNER CROOKED ROAD) ON AUGUST 18, 2016 FROM 1:00 P.M. ONWARDS, FOR THE PHYSICAL SETUP OF INDAK-INDAK SA KADALANAN IN LINE WITH THE CELEBRATION
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.,o*o
+iIWT
+'s'{615;r('--'
+' Republic of the Philippines
+OFFTCE OF THE CITYMAYOR
+Y;/
+ATTY.
+9i
+3'd Indorsement
+August t7,20t6
+Respectfully returned to the Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein Ordinance No. 007-16 SERIES of
+2016, AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC
+OF THE ROAD IDENTIFIED AS CITY HALL DRIVE (BESIDE RIZAL PARK), PORTION
+oF BOLTON ST. (FROM CORNER RIZAL ST. TO PICHON/MAGALLANES ST.) AND
+PORION OF SAN PEDRO ST., (FROM CORNER C.M. RECTO AVENUE TO CORNER
+CROOKED ROAD) ON AUGUST 18, 2016 FROM 1:00 P.M. ONWARDS, FOR THE
+PHYSICAL SETUP OF INDAK-INDAK SA KADALANAN IN LINE WITH THE
+CELEBRATION OF THE 2016 KADAYAWAN FESTIVAL, duly approved by the City
+Mayor, for your information and appropriate action.
+For the City Mayor:
+Assistant City Administrator
+(Administration)
+. DOMINGO
+b6-1-tb
+REEEiVEil
+g
+BY:
+TIiiE
+DAl
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224-587 8 . d ava oc itym ayo r@ g m a i l.co m
+8-otb
+n
+
+ao*'oi@9i
+,,"''{cIs1$--'
+OFFTCE OF THE CTTY MAYOR
+2nd Indorsement
+August 15, 2016
+Respectfully forwarded to the office of the city Mayor, this city, the
+herein ordinance No. 007-16 SERIES of 2016, "AN ORDINANCE FoR THE
+TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC OF THE ROAD IDENTIFIED AS
+CITY HALL DRIVE (BESIDE RIZAL PARK), PORTION OF BOLTON ST. (FROM
+coRNER RIZAL ST. TO PICHON/MAGALLANES Sr.) AND PORTION OF SAN PEDRO
+ST., (FROM CORNER C.M. RECTO AVENUE TO CORNER CROOKED ROAD) ON
+AUGUST 18, 2016 FROM 1:OO P.M. ONWARDS, FOR THE PHYSICAL SETUP oF
+INDAK-INDAK SA KADALANAN IN LINE WITH THE CELEBRATION OF THE 2016
+KADAYAWAN FESTIVAL", duly reviewed by the office of the City Legal officer,
+this City, with the information that the same is free from any legal infirmity and
+has favorably recommended the approval of the said Ordinance.
+Thus, the same is now ripe for the City Mayor's consideration.
+ATTY. TRISTAN
+INGO
+Assistant City Admi nistrator
+(Administration)
+OFFEE OF
+RECEIVED
+DATE:
+TIME:
+RETEASED
+crvro - cRD
+J; vo
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 - (082) 224- 587 8 . d ava ocitym ayo r@g m a i l.co m
+/f
+F
+!t
+
+.--r\
+- |
+/
+Jl"l-lvr u'
+' 1; :{r[,t;rloIRAt'ttR
+, it'r:
+IATE,
+-lllE
+Repubtic of the Phitippines
+OFFICE OF THE CIW LEGAL OFFICER
+City of Davao grz.t
+Ref. No. 1 131-1 6
+LEGAL OPIN|ON No. lg7
+SER|ES OF 2016
+1't INDORSEMENT
+August 12,2016
+DATE:
+Respectfully fonruarded to the Office of the City Mayor, throug
+of the City Administrator, both this Clty, the attached ORDINANCE No. 007-16,
+SET1ES Of 2015 CNtitICd "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+vEHlcuLAR TRAFFTC OF THE ROAD tDENT|FtED AS CrTy HALL DRTVE (BES|DE
+RIZAL PARK), PORTTON OF BOLTON ST. (FROM CORNER RTZAL ST. TO
+P|CHoN/MAGALLANES ST.) AND PORTION OF SAN PEDRO ST.. (FROM CORNER
+C.M. RECTO AVE. TO CORNER CROOKED ROAD) ON AUGUST 18, 2016 FROM 1:00
+P.M ONWARDS, FOR THE PHYSICAL SETUP OF INDAK-INDAK SA KADALANAN IN
+LINE WITH THE CELEBRATION OF THE 2016 KADAYAWAN FESTIVAL", lnforming
+your end that the same is free from [ega[ infirmity citing RA 7160, otherwise
+known as the Local Government Code of 1991, to quote:
+SECTION 21. Ctosure and Opening of Roads. (a) A local
+government unit may, pursuant to an ordinance, permanentty or
+temporarily close or open any [oca[ road, a[[ey, park, or square fatti.ng
+within its jurisdlctlon: Provided, however, That in case of permanent
+ctosure, such ORDINANCE must be approved by at least two-thtrds (2/3) af
+atl. the members of the sanggunlan, and when necessary, an adequate
+substitute for the pubtic facitity that [s subject to closure ls provlded.
+xxx
+(c) Any national or tocal road, a[[ey, park, or square may be
+temporarily ctosed durlng an actual emergency, or fiesta celebrations,
+pubtic raltles, agricultural or lndustrlaI fairs, or an undertaking of pubtic
+works and highways, telecommuntcations, and waterworks projects, the
+duration of which shatt be specified by the [oca[ chief executtve concerned
+in a wrltten order: Provlded, however, That no natlonal or l'ocal road, altey,
+park, or square shatl be temporarlty closed for athtetic, culturat, or ctvlc
+activlties not offlctatty sponsored, recognized, or approved by the local
+government u ntt concerned".
+Approved by:
+r#iY,,,fuN*V^JR
+Date approved: August 12,2016
+RECE!VED
+CMO. CRD
+AU0 'l 5 Trrrx
+ll ;tn, zw .l
+?0 r- /) z -6a
+tlECtt!rr-f:' ; 1
+Arw. mnMnLLo, Rsw
+Ah-orney 1V
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW T2I4
+August lO,2016
+SARA Z. DUTERTE
+City Mayor
+Madam:
+v
+*
+Time
+tl,. O lll /.t$
+ct\
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One,
+Title Five, Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160,
+otherwise known as the Local Government Code of 199L, we are furnishing you
+a copy of Resolution No. 0,7o,-16 and Ordinance No. (X)7-16, both SERIES of
+2016 of the SANGGUNIANG Panlungsod, for your information, guidance and
+appropriate action.
+Very truly yours,
+614gr}.&"
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+RECEIVED
+CMO. CRD
+AUG ll20l[ tp: 'b n*l
+ms/lnta
+)-f0 - L7-- G,
+(
+n
+
+rl
+18th City Council
+5d, Regular Sesslon
+SERIES of 2016
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+- Temporary Presiding Officer
+ON OFFICIAL BUSIIIIESS:
+Councilor Danilo C. Dayanghirang
+ORDIITANCE ITO. 0,07.16
+SERIES of 2O16
+AIT ORI}IITAITCE FOR THE TIMPORARY CLOSURE TO VEHICULAR
+TRAFFIC OF THE ROAD IDEITTIFIED AS CIIY HALL DRM (BESIDE
+RrzAL PARK), PORHO$ OF BOLTOTY ST. (FROM CORnER RIZAL ST. TO
+PICHOII/MAGALLANES ST.l ArrD pORTrOn OF SAn PEDRO ST. (FROM
+coRIrER C.M. RECTO AVE. TO CORIIER CROOI{ED ROAI,} Olt AUGUST
+18, 2016 FROM 1:OO P.M. OIIWARDS, FOR THE PIIYSICAL SETUP oF
+IITDN(.IIIDAI( SA KADALAITAN IIT LINE WITH THE CELIBRATIOIT OF
+THE 2016 KADAYAWAIT FESTTTIAL
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTIOIT 1. TITLE.- This Ordinace shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD IDENTIPIED
+AS CITY HALL DRTVE (BESTDE R[ZF,J- PARK), PORTION OF BOLTON ST. (FROM
+coRNER RIZAJ- ST. TO PICHON/MAGALLANES ST.) AND PORTTON OF SAN PEDRO
+sT. (FROM CORNER C.M. RECTO AVE. TO CORNER CROOKED ROAD) ON AUGUST
+18, 2016 FROM 1:OO P.M. ONWARDS, FOR THE PFTYSICAL SETUP OF INDAK-INDAK
+SA KADALANAN IN LINE WITH THE CBLEBRATION OF THE 20T6 KADAYAWAN
+FESTIVAL"
+Al Ryan S. Alejandre
+Paolo Z. Duterte
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. AdvincuLra Jr.
+Bernard E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+April Marie C. Dayap
+Jimmy G. Dureza
+January N. Duterte
+Edgar P. Ibuyan Jr.
+L,eah A. Librado-Yap
+Rene Elias C.I-opez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Ortjz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abe1la
+Ha-lila Y. Sudagar
+Mary Joselle D. Villafllsrtg
+Jesus Joseph P. Zozobrado III
+
+Ord. No. 007-16
+SECTIOIT 2. DECLIIRATIOIT OF POLICY.- SECTION 21 (c) of Republic Act No.
+7160, otherwise known as the local Government Code of 1991, provides that any
+national or local road, alley, park, or square may be temporarily closed during an
+actual emergency, or fiesta celebration, public rallies and agricultural or industrial
+fairs;
+SECTION 3. TEMPORARY CLOSURE.- The following streets in Barangay
+Poblacion, Davao City, shall be temporarily closed to vehicular traflic:
+City Hall Drive (beside Rizal Park), portion of Bolton St. (from corner
+Rizal St. to Pichon/Magallenes St.); and
+Porlion of San Pedro St. (from corner C.M. Recto Ave. to corner
+Crooked Road) on August 18, 2016 from 1:00 P.M. onwards
+for the physical setup of Indak-Indak sa Kadalanan in line with the celebration of the 2016
+Kadayawan Festival;
+SECTIOil 4. SEPARABILIIY CLAUSE.- If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect;
+SECTIOII 5. EFFEC"IIVIIY. This Ordinance shall take effect immediately upon
+approval;
+EITACIED, on the 2'a day of August, 2016, by a majority vote of all the
+Members of the Sanggunian present.
+CERTIFIED CORRECT:
+c"3{d#6 h
+ATTESTED:
+AL
+Presiding Officer
+cns/kjtq
+ATTY. ZVLEIKAT.
+Secretary to the
+Panlungsod
+(City Government Department Head II),
+APPRovED:AU6 l62016
+ATTESTED:
+City Admitti"la161 6
+/b^/^/r
+sAda z. DUTERTE
+' city Mayor,
+,a

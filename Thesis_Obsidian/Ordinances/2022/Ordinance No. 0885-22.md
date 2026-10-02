@@ -1,0 +1,213 @@
+---
+ordinance_number: "0885-22"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGil, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE REI{EWAL OF THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND AMONG THE DEPARTMENT oF PUBLTC WORKS AND HTGHWAYS-XI (DPWH-XI), UNMRSTTY OF THE PHILIPPINES, AilD THE CITY OF DAVAO PERTAINII{G TO THE USE OF THE DC.UP SPORTS COMPLEX TRAINING GYM, FACULW Al{D STAFF HOUSING O"
+date_enacted: "2022-02-15"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000885-22.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sigil, topic/behalf, topic/government]
+---
+
+# Ordinance No. 0885-22
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGil, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE REI{EWAL OF THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND AMONG THE DEPARTMENT oF PUBLTC WORKS AND HTGHWAYS-XI (DPWH-XI), UNMRSTTY OF THE PHILIPPINES, AilD THE CITY OF DAVAO PERTAINII{G TO THE USE OF THE DC.UP SPORTS COMPLEX TRAINING GYM, FACULW Al{D STAFF HOUSING O
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Cityof Davao
+19th city Council
+7th Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+Councilor PamelaA.Librado-Morata
+Councilor Bonifacio E. Militar
+Albefto T. Ungab
+- Temporary Presiding fficer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justo!-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. LDalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- OB - Acting City Mayor
+- On Domestic Emergency Leave
+ORDINANCE NO. 0885-22
+SERIES of 2022
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO
+AND SIGil, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE REI{EWAL OF THE MEMORANDUM OF AGREEMENT
+(MOA) TO BE ENTERED INTO BY AND AMONG THE DEPARTMENT
+oF PUBLTC WORKS AND HTGHWAYS-XI (DPWH-XI), UNMRSTTY
+OF THE PHILIPPINES, AilD THE CITY OF DAVAO PERTAINII{G TO
+THE USE OF THE DC.UP SPORTS COMPLEX TRAINING GYM,
+FACULW Al{D STAFF HOUSING OF DC.UP SPORTS COMPLEX IN
+UP-MTNDANAO CAMPUS, MINTAL, TUGBOK DISTRTCT, THrS
+crw, As QUARANTTilE AREA FOR COVID-lg PATIENTS FOR A
+PERTOD OF THREE (3) MOilTHS COMMENCTNG ON JANUARY 20,
+2022
+
+!
+Ord. No. 0885-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. EtE - This Ordinance shall be known as *AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+AMONG THE DEPARTMENT OF PUBLTC WORKS AND HIGHWAYS-XI (DPWHXI), UNIVERSITY OF THE PHILIPPINES, AND THE CITY OF DAVAO
+PERTAINING TO THE USE OF THE DC-UP SPORTS COMPTEX TRAINING GYM,
+FACULW AND STAFF HOUSING OF DC.UP SPORTS COMPLEX IN
+UP-MINDANAO CAMPUS, MTNTAL TUGBOK DTSTRICT, THrS CITY, AS
+QUARANTTNE AREA FOR COVrD-rg PATTENTS FOR A PERTOD OF THREE (3)
+MONTHS COMMENCING ON TANUARY 20, 2022',.
+SECTION 2.
+- SECTION 22 (a) (5) and (c) and
+SECTION 455 (b) (1) (vi) of Republic Act 7L60, otherwise known as the Local
+Government Code of 1991, provide that:
+SECTION 22. Corporate Powerc -
+(a) Every local government unit, as a corporation, shall have the following
+powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be entered into by
+the local chief executive in behalf of the local government unit without prior
+authorization by the sanggunian concerned. A legible copy of such contract
+shall be posted at a conspicuous place in the provincial capitol or the city,
+municipal or barangay hall.
+SECTION 455. Chief Executive; Powery Duties and Compensation -
+(b) For efficient, effective and economical governance the purpose of which is
+the general welfare of the city and its inhabitants pursuant to SECTION 16 of
+this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs, projects,
+seruices, and activities of the city government. and in this connection, shall:
+(vi) Represent the city in all its business transactions and sign in its behalf all
+bonds, contracts, and obligations, and such other documents upon authority of
+the SANGGUNIANG panlungsod or pursuant to law or ordinance."
+SECTIOil 3. AUIH.W - The City Mayor is hereby granted legislative
+authority to enter into and sign, the renewal of the Memorandum of Agreement (MOA)
+to be entered into by and among the Department of Public Works and Highways-)C
+(DPWH-[), University of the Philippines, and the City of Davao peftaining to the use of
+the DC-UP Spofts Complex Training Gym, Faculty and Staff Housing of DC-UP Sports
+Complex in UP-Mindanao Campus, Mintal, Tugbok District, this City, as Quarantine Area
+for Covid-l9 patients for a period of three (3) months commencing on January 20,
+2022.
+
+I
+)
+,
+Ord. No. 0885.22
+SECTION 4.
+- If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEE$T - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 15th day of February 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+n htn*,; I Lr,--
+cHARrro N.'qANTOS
+Secretary to the Sangguhiang Panlungsod
+ATTESTED:
+ATTESTED:
+47/hnk'
+ry6efudL uNGAB
+Acting Vice Mayor
+Temporary Presiding Officer
+cns/johanna
+(City Government Department Head II)*,
+APPROVED
+h* tc 'vl
+l,tAR 2 I 20n
+SARA Z. DUTERTE
+=City Mayor,tt
+z. DUTERIE
+ilsyor I
+. LOPEZ
+Clty
+Admi
+e
+AN ORDINANCE AUTHORIZING THE CMY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT
+OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND AMONG THE
+DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS-XI (DPWH-XI), UNIVERSITY OF THE PHIUPPINES, AND THE CITY OF DAVAO
+PERTAINING TO THE USE OF THE DC-UP SPORTS COMPLE( TRAINING GYI.4, FACULTY AND STAFF HOUSING OF DC-UP SPORTS
+COMPLD( IN UP-MINDANAO CAMPUS, MINTAL TUGBOK DISTRICT, THIS CITY, AS QUARANNNE AREA FOR COVID-19 PATIENTS
+FOR A PERIOD OF THREE (3) MONTHS COMMENCING ON JANUARY 20,2022
+2422

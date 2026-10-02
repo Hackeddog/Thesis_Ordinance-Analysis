@@ -1,31 +1,29 @@
 ---
-title: "Ordinance No. 0230-10"
 ordinance_number: "0230-10"
-aliases: ["Ordinance No. 0230-10", "0230-10"]
-corpus_year: 2010
+title: "Ordinance No. 0230-10"
+date_enacted: "2010-06-01"
+approval_date: "2010-06-10"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0230-10.pdf"
+section_count: 0
+verification_status: "unverified"
 folder_year: 2016
 resolved_year: 2010
-enactment_date: "2010-06-01"
-approval_date: "2010-06-10"
-series_year: 2010
-council_term: 16
-session: ""
-sponsor: ""
-approving_mayor: ""
-presiding_officer: ""
+corpus_year: 2010
 temporal_status: "out_of_scope"
 confidence_score: 1.0
+detected_enactment_year: 2010.0
+detected_ordinance_number_year: 2010
+detected_series_year: 2010.0
+detected_approval_year: 2010.0
+verified_by: null
 resolution_source: "consensus"
-manually_verified: false
-included_in_corpus: false
-extraction_method: "Digital"
-page_count: 1
-word_count: 28
-section_count: 0
-whereas_count: 0
-source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\tests\\fixtures\\data\\raw\\2016\\Ordinance No. 0230-10.pdf"
-sha256: "54ec38ff6e880310"
-indexed: "2026-09-08"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
 tags: [ordinance, davao, year/2010, status/out_of_scope]
 ---
 

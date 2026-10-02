@@ -1,0 +1,332 @@
+---
+ordinance_number: "0784-19"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE FOLLOWING SPECIFIED STREETS AND DATES IN CONNECNON WTM THE THANKSGIVING PARTY OF HUGPONG NG PAGBABAGO ENTffiED *DAGHANG SALAMAT, DAVAO CH', for your information and appropriate action. For the City Mayor: ATTY. TRISTAN Assistant ( JUN 10 2019 .o,rrluo*o :lo AIDE IV LIFE IS HERE Second Floor, City Hall Building, City Hall Drive, San"
+date_enacted: null
+approval_date: "2019-05-30"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0784-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/following, topic/specified]
+---
+
+# Ordinance No. 0784-19
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE FOLLOWING SPECIFIED STREETS AND DATES IN CONNECNON WTM THE THANKSGIVING PARTY OF HUGPONG NG PAGBABAGO ENTffiED *DAGHANG SALAMAT, DAVAO CH', for your information and appropriate action. For the City Mayor: ATTY. TRISTAN Assistant ( JUN 10 2019 .o,rrluo*o :lo AIDE IV LIFE IS HERE Second Floor, City Hall Building, City Hall Drive, San
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+f,Iry'.$)T
+OFFICE OF THE CITY IVIAYOR
+,X,,
+F.ef. Na- CAG2019-01S2
+2Nd INDORSEMENT
+June 7,2419
+Respectfully returned to lls. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duty signed and approved Ordinance No. 0784-19,
+SERIES of 20L9, entitled'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE FOLLOWING SPECIFIED STREETS AND DATES IN
+CONNECNON WTM THE THANKSGIVING PARTY OF HUGPONG NG PAGBABAGO
+ENTffiED *DAGHANG SALAMAT, DAVAO CH', for your information and appropriate
+action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+(
+JUN 10 2019
+.o,rrluo*o
+:lo
+AIDE IV
+LIFE IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.com i
+BAW @
+DIV
+RE
+
+aq
+".k
+OFFICE OF THE CITY LEGAT
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc
+o0o
+R
+ER
+M
+A
+CMO CONTAO I:
+LEGAL OPINION NO.
+SERIES OF 2019
+.ii.'ilIli
+'\-f,f,4:'
+MARY
+ATTY.
+Ref. No. CLO-2019-0001482
+oFFtcE 0F IUE C+W A$!#Nt$rRAtr6R
+CITY HALL OFFICE
+1't INDORSEMENT
+May 29,2019
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0784-19,
+SERIES of 2019 entitled 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC OF THE FOLLOWING SPECIFIED STREETS AND DATES IN
+CONNECTION WTTH THE TRANKSGIVING PARTY OF HUGPONG NG PAGBARAGO
+ENTfFLED *DAGHANG SAI-AMAT, DAVAO CITY", informing your end that the
+same is free from legal infirmity citing RA 7160, otherwise known as the Local
+Government Code of 1991, to quote:
+"SECfiON 21.
+Closure and Opening of Roads. - (a) A
+local government unit may, purcuant to an ordinancq permanently
+or temporarily close or open any local roa[ alley, parl, or square
+falling within iB jurisdiction: Prouided, however, That in case of
+permanent closure, such ordinance must be approved by at least
+two-thirds (2/3) of all the members of the sanggunian, and when
+necessary, an adequate substitute for the public facility that is
+subject to closure is provided.
+WX
+(c) Any national or local roaQ alley, parlt or square may be
+temporarily closed during an actual emergenry, or fiesta
+celebrations, public rallies, agricultural or industrial fairs, or an
+undeftaking of public works and highways, telecommunications, and
+waterworks projecb, the duration of which shall be specified by the
+local chief executive concerned in a written order: ProvideQ
+however, That na national or local roa4 alley, park, or square shall
+be temporarily closed for athletiq cultural, or civic activities not
+officially sponnrcd, recognized, or approved by the local government
+unit concerned".
+IN VIEW THEREOF, it is recommended that the Ordinance be approved.
+Approved by: --
+.a@)
+ATTY. OSMUN0O P. VTLIANUEyA, JR.
+OIC-Acting City Legal Officer
+Date Approved: May 30, 2019
+otdO 7 S q - I g
+-c hwn _ fi n p - p asasa[amat_ t 0 1 9 -0OO I 4 6 : _ 5 - 2 9- 1 9
+A. GALLO, RSW
+Acting
+City Legal Officer
+MAY
+I
+I
+rt
+@[te
+d
+,i
+,
+09956299702
+0"
+a)
+a
+7etJ
+t++-g-f(
+RECEIVED
+DATE:
+TIME:
+.-3
+
+Y'
+i6
+i>
+'(,z
+,bN
+Rep r blic o! 4q Philippines
+May 24,20t9
+WtqtqSARA Z. DUTERTE
+City Mayor
+Madam:
+o
+ITI
+*
+O
+-n
+o
+U0 .ttff.htl ttlsA p.A4
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+03256-19 and Ordinance No. O784-L9, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, this City, for your information, guidance and appropriate action.
+Very truly yours,
+p .t<,C/krD
+y.
+PEYttli
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+coRRtspoNDENCE & RECoRDS DIV|S|ON
+RECEIVED
+MAY 24 20lg
+MARY ANN O. ALVARADO
+ffi,
+TRATIVF
+ADMINIS
+IV
+AIOE
+coNtAcl
+cMo
+t: 241-lOrJil Loc.
+09s55299702
+
+18th City Council
+19th Regular Session
+SERIES of 2019
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Office of the SANGGUNIANG pantungsod
+Bernard E. Al-ag
+Victorio U. Advincula Jr.
+Dante L. Apostol Sr.
+Joann M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Tozobrado III
+Presiding Officer
+- On Special Privilege Leave
+- OB-Attended the International
+Road Show in Korea
+- On Sick Leave
+- On Domestic Emergency Leave
+- OB-Attended the International
+Road Show in Korea
+- OB-Attended the International
+Road Show in Korea
+- OB-Attended the International
+Road Show in Korea
+- On Vacation Leave
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Nilo M. Abellera Jr.
+Ma. Belen S. Acosta
+Al Ryan S. Alejandre
+Conrado C. Baluran
+Pilar C. Braga
+Danilo C. Dayanghirang
+Councilor April Marie C. Dayap
+Councilor Jimmy G. Dureza
+Councilor Marissa P. Salvador-Abella
+ORDINANCE NO, 0784.19
+SERIES of 2019
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE FOLLOWING SPECIFIED
+STREETS AND DATES tN CONNECTION WITH THE
+THANKSGIVING PARTY OF HUGPONG NG PAGBABAGO
+ENTITLED *DAGHANG SALAMAT, DAVAO CITY"
+Lcfi,n" )
+
+Ord. No.0784-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled
+that
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CTOSURE TO VEHICUTAR TRAFFIC OF THE FOLTOWING
+SPECIFIED STREETS AND DATES IN CONNECTION WITH THE THANIGGIVING
+PARTY OF HUGPONG NG PAGBABAGO ENTITLED *DAGHANG SAIAMAT,
+DAVAO CITY".
+SECTION 2. DECLARATION OF POLICY - SECTION 21 (c) of Republic Act No.
+7L60, otherwise known as the Local Government Code of 1991, provides that any
+national or local road, alley, park, or square may be temporarily closed during an actual
+emergency, or fiesta celebrations, public rallies, agricultural or industrial fairs....
+SECTION 3. TEMPORARY CTOSURE - The Hugpong ng Pagbabago will hold
+its thanksgiving activity on Friday, May 31, 20t9, at the Rizal Park entitled "Daghang
+Salamat, Davao City". In relation to such, they requested for the temporary closure of
+road in the vicinity of Rizal Park from 12:01 A.M. on Friday, May 31, 2019 until 6:00 A.M.
+on Saturday, June L,20tg on the following specified streets, to wit:
+1. A portion of Bolton Street, in between Rizal Park and SANGGUNIANG
+Panlungsod, from corner San Pedro Street to corner Magallanes Street;
+2. City Hall Drive right side, between Quezon and Rizal Park, between the City
+Engineer's Office and the City Planning and Development Office;
+3. Road fronting City Hall.
+SECTION 4. SEPARABILITY C1AUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY -This Ordinance shall take effect immediately upon
+approval.
+ENACTED, May 23, 20L9, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+tu#ffirb}, t'ro.
+Secretary to the Sangguiliang Panglungsod
+-AG
+Vice Mayor
+Presiding Officer
+cns/richard
+ATTESTED:
+(City Government Depaftment Head II)
+
+'iral
+Ord. No. 0784-19
+AppROVED: 3 0 tlAY 2019, zoLs
+a/+
+DUTERTE
+t city *"rp
+ATTESTED:
+ZULEIKA
+LOPEZ
+t:

@@ -1,0 +1,464 @@
+---
+ordinance_number: "0575-21"
+title: "AN ORDINANCE GRAT'TTING THE APPUCATION OF FRANCISCO M. SORIANO & CO., INC., FOR RECI.ASSIFICANON OF A PROPOSED SUBDIVI$ON SITE COVERED BYTCT NO. 146-T-262745 FROM MEDIUM DENSITY RESIDENTTAL SUB-ZONE (R-2), PRIME AGRTCULTURAL LAND SUB-ZONE (APR), SOCTALIZED HOUSING ZONE AND WATER RESOURCE ZONE TO HIGH DENSITY RESIDENTIAL ZONE (R.3) WITH AN AREA oF 91,309 SQUARE METERS, MORE OR LESS, STruATED IN SmO"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0575-21.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/grat, topic/tting, topic/appucation, topic/francisco, topic/soriano, topic/reci]
+---
+
+# Ordinance No. 0575-21
+
+> AN ORDINANCE GRAT'TTING THE APPUCATION OF FRANCISCO M. SORIANO & CO., INC., FOR RECI.ASSIFICANON OF A PROPOSED SUBDIVI$ON SITE COVERED BYTCT NO. 146-T-262745 FROM MEDIUM DENSITY RESIDENTTAL SUB-ZONE (R-2), PRIME AGRTCULTURAL LAND SUB-ZONE (APR), SOCTALIZED HOUSING ZONE AND WATER RESOURCE ZONE TO HIGH DENSITY RESIDENTIAL ZONE (R.3) WITH AN AREA oF 91,309 SQUARE METERS, MORE OR LESS, STruATED IN SmO
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 13,549 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2021\Ordinance No. 0575-21.txt`*
+
+1. wemes fev - 2091
+
+Posh | "fv
+ape) nem"
+
+Me
+Tho
+
+."X.a
+i( i
+)
+OFFICE OFTHE CITYMAYOR
+!,1 (,1s l('
+Ref, No. CIdG2021-01918
+z ?i!rr"r,,,,
+" lr-.ll._ .,
+Respeffirlly returned to lrls Charito I{. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 687, SERIES of 2021 dated July L,202L
+from the City tegal ffice, relative to the duly signed Ordinance No. 0575-21, SERIES of
+2021, entitled, "AN ORDINANCE GRAT'TTING THE APPUCATION OF FRANCISCO M.
+SORIANO & CO., INC., FOR RECI.ASSIFICANON OF A PROPOSED SUBDIVI$ON SITE
+COVERED BYTCT NO. 146-T-262745 FROM MEDIUM DENSITY RESIDENTTAL SUB-ZONE
+(R-2), PRIME AGRTCULTURAL LAND SUB-ZONE (APR), SOCTALIZED HOUSING ZONE AND
+WATER RESOURCE ZONE TO HIGH DENSITY RESIDENTIAL ZONE (R.3) WITH AN AREA
+oF 91,309 SQUARE METERS, MORE OR LESS, STruATED IN SmO SAN PEDRO,
+BARANGAY CATALUNAN GRANDE, THIS CITY", for your infonnation and appropriate
+action.
+For the City Mayor:
+2Nd INDORSEMENT
+July 16, 2021
+ATTY. TRISTA
+Assistant
+\&JAI{9-''-
+ilD
+tn
+(Administration)
+,k152 | -r.l
+MINGO
+r
+q4uul
+cMo-ctrD ,fi-.],
+RELEAS ED
+JUL
+I
+a
+2:lr
+0Su'ol-lozl
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082)224-3004 o (082) 241-1000 loc. 265 o davaocityrnayor@gmail.com
+B..YA@
+LIFE IS HERE
+
+Gty of Davao
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No.2986970
+%NA
+Trunk Line No. 241-1000 Lx.267*225*230
+davaocitvlmal@omail.com
+CORRESPO
+.l::i
+D,\,
+EAE{}
+YEO
+Ref. No. CLO-2021-002200
+LEGAL OPI
+SERI
+llt I1{DORSEMENT
+July L,2021
+Respectfirlly forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the herein attached Ordinance No. 057521, SERIES of 202L, entitled "AN ORDINAI{CE GRANTING T}lE
+AppLrcATIOil OF FRANCISCO H. SORTANO & CO., FOR
+RECTASSIFICATION OF A PROPOSED SUBDIVISION SITE COVERED BY
+TCT ilO. 146.T.262745 FROM MEDIUM DEI{SITY RESIDEI{TIAL SUB.
+zoNE (R-2), PRrME AGRTCULTURAL LAND SUB-ZOi{E (ApR),
+SOCIALIZED HOUSIilG ZONE AND WATER RESOURCE ZONE TO HIGH
+DEITSITY RESTDENTTAL ZONE (R-3) WITH AN AREA OF 91,309 SQUARE
+METERS, MORE OR LESS, SITUATED IN SITIO SAil PEDRO, BARAI{GAY
+CATATUNAN GRANDE, THIS C[TY', informing your end $at this office finds
+the same free from legal infirmity pursuant to SECTION 458 (2) (viii) of Republic
+Act 7160, otherwise known as the Local Government Code of 1991, which states
+that:
+SECTION 458, tuwery Drrtbs, Functions and
+Contpnation. - (a) The sanggunr'ang panlungnd, as the
+legislative body of the city, shall enad ordinances, approve
+resolutions and appropiate funds for the general welfare of the city
+and iB inhabibnts pursuant to fuction 16 of this Code and in the
+proryr exercise of the arporate powes of the city as provided for
+under SECTION 22 of this Code, and shall:
+)fr(
+g
+b
+)fr(
+(2) Genente and maximDe the use of resources and revenues
+for the development plans, pmgram objectiva and priorities of the
+city as provided for under SECTION 18 of this Code, with pafticular
+attention to agro-industrial development and city-wide growth and
+progres, and relative theretq shall:
+)o(x
+)dx
+)ffi(
+(uiD Reclassify land within the jurisdiction of the city, subject to
+the peftinent provisions of this Code;
+)u(
+IN VIEW THEREOF, this ffice recommends the approval of the same
+RESPECTFULLY SUBMITTED
+ATTY. OSMUT{
+P. VILTANUEVA, JR.
+Asst. Crty Legalfficer
+fficer-In-Charge
+)fr(
+ffi6nEErrlilffirmm
+gllafl.l omr
+EOUE TTIY
+RGg1ED6 S^,aA
+I1t,1.,$'
+Date
+q
+REI,EA
+i)
+u
+0 I
+20il
+o
+O
+o
+GAL
+C\
+r)
+(1"r
+Date of approval: July L,202I
+ao2FOlq
+3"?}r,"
+\Lz-q- 7r
+
+iFor
+From
+Subject
+Due Date
+CITY MAYOR'S OF
+CE
+(s *t (.o.t
+Date
+lZnv Lc,galOffiie
+Corresponden ie & Records Div
+SP Res. No Dl(\R-ttord No otU:l1
+.L
+t
+v!F{rMARIGRACE P. NABON
+Officer-ln-Charge
+q."F
+
+CTTY OF DAVAO
+June 25, 2
+P.L
+rcE
+I)fiuoil
+f^F,,$r.,,$t{ilA}lD
+RECEI\,ED
+JUt{ 2 s ?021
+E':'IHALEA!.ACI.
+It Arul-bl
+CITV MAYO
+s
+F
+SARA Z. DUTERTE
+Clty Mayor
+,--o
+.F
+\
+I
+.t
+Madam:
+Pursmnt to Sutrsection 3, Paragraph C, SECTION 469, Article Ong Title Five, Chapter 3,
+Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known as the Local
+Government Code of 1991, we are furnishing you a copy of Resolution No. 02279-21 and
+Ordinance No. 0575-21, both SERIES of 2021of the SANGGUNIANG Panlungsod, granting the
+applkation of Francisco M. Soriano & Co.,Inc., br reclassification of a proposed SuMivision
+site covered by TCT No. 1,+6-T-262745 from Medium Density Resklential Sub-Zone (R-2),
+Prime Agricultural Land SutrZone (APR), Soclalized Housing Zone and Water Resource Zone to
+High Densfi Residential Zone (R-3) with an area of 91,309 square rn€ters, more or less,
+situated in Sitio San Pedro, Barangay Catalunan Grande, this City, for lour inbrmation,
+guidance and appropriate action.
+Very truly yours,
+,aM)t^k
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+
+'2lNuu2019
+}nn,(
+C'+
+hn,
+ffi
+(
+-,"t)
+ft
+lq
+
+Republic of L .g F:ilippines
+19u,Clty Council
+17th Regular Session
+SERIES 6f 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Alberto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto lavier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+L Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+- On Official Business
+ORDINANCENO. O575.2L
+SERIES olZOZL
+AN ORDINANCE GRANTING THE APPLICATION OF FRANCISCO
+M. SORTANO & CO., rNC., FOR RECLASSIFTCATTON OF A
+PROPOSED SUBDIVISION SITE COVERED BYTCTNO. 146.
+T.262745 FROM MEDIUM DENSITY RESIDENTIAL SUB.ZONE
+(R-2), PRrME AGRTCULTURAL LAND SUB-ZONE (APR),
+SOCIALIZED HOUSING ZONE AND WATER RESOURCE ZONE TO
+HIGH DENSIW RESTDENTIAL ZOttE (R-3) WITH AN AREA OF
+91,309 SQUARE METERS, MORE OR LESS, STTUATED rN SrTrO
+SAN PEDRO, BARANGAY CATALUNAN GRANDE, THIS CITY
+
+Ord. No. 0575-21,
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTTNG THE APPLTCATTON OF FRANCTSCO M. SORIANO & CO., INC., FOR
+RECI.ASSIFICATION OFA PROPOSED SUBDIVISION SITE COVERED BYTCT NO.
+146-T-262745 FROM MEDTUM DENSTTY RESTDENTTAL SUB-ZONE (R-2),
+PRIME AGRTCULTURAL LAND SUB-ZONE (ApR), SOCIALTZED HOUSING ZONE
+AND WATER RESOURCE ZONE TO HIGH DENSITY RESIDENTTAL ZONE (R-3)
+wrTH AN AREA OF 91,309 SQUARE METERS, MORE OR LESS, STTUATED IN
+SITIO SAN PEDRO, BARANGAY CATALUNAN GRANDE, THIS CITY".
+SECTION 2. COMMON REGULATIO NS FOR GENERAL ZONES - Article V of
+the Comprehensive Zoning Ordinance of Davao City for 20L3-2023 provides Common
+Regulations for General Zones, as follows:
+SECTION 7. REUIEW OF GENERAL ZONES. Generalzones are subjed
+to review by the Zoning Review Committee every five (5) years from the
+enactment of this Ordinance. Any amendment thereof as recommended by
+the committee shall be in accordance with the provision of Article XIV,
+Sedion 14.
+SECTION 2. RECLASSIFIATION AND CHANGE OF ZONE
+REQUIREMENT. Any reclassification of agricultural land to non-agricultural
+use must be in consulbtion with Department of Agriculture (DA) and the
+Depaftment of Agrarian Reform (DAR) and the DAR requirement for
+conversion of agricultural land to other zones, and SECTION 20 of RA 7160,
+otherwise known as the Local Government Code of 1991, limiting
+reclassification to a maximum of the percentage of the totalagricultural land
+of a city to fifteen percent (15o/o) for highly urbanized cities and must strictly
+comply with the provisions of the loint Memorandum Circular No. 54 of the
+Housing and Land Use Regulatory Board (HLURB), Department of
+Agriculture (DA) and Department of the Interior and Local Government
+(DILG). Reclassification from agricultural zone to nonagricultural use and
+any change from one general zone to another general zone must be
+approved by three-fourths (3/4) vote of all the members of the SANGGUNIANG
+Panlungsod through a resolution and an ordinance. Any change ofgeneral
+zone to another zone shall be considered as amendment of the Zoning
+Ordinance and must comply with the provision of Article XIV SECTION 14
+hereof.
+SECTION 3. COVERAGE - This Ordinance shall cover the grant of the application
+of Francisco M. Soriano & Co., Inc., for reclassification of a proposed Subdivision Site
+covered by TCT No. 146-T-262745 from Medium Density Residential Sub-Zone (R-2),
+Prime Agricultural Land Sub-Zone (APR), Socialized Housing Zone and Water Resource
+Zone to High Density Residential Zone (R-3) situated at Sitio San Pedro, Barangay
+Catalunan Grande with an area of 91,309 square meters, more or less.
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof which are not affected thereby, shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect upon approval.
+
+Ord. No. 0575-21
+ENACTED, May 04, 202L, by 3/+ votO of all the Members of the Sanggunian
+present, there being a quorum.
+CERTIFIED CORRECT:
+a,Mr(*nlslk*
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II?
+ATTESTED:
+A
+ERTO
+UNGAB
+City Councilor
+Temporary Presidi ng Officer
+cns/ray
+APPRovED: JIJL 12 7021
+202t
+Z. DUTERTE
+t.
+City Mayor g
+ATTESTED:
+ATTY.
+ULEIKA
+PEZ
+City Administr tor'
+AN ORDINANCE GRANTING THE APPUCATION OF FRANCISCO M. SORIANO & CO., INC., FOR
+RECI.ASSIFICATION OF A PROPOSED SUBDIVISION SITE COVERED BY TCT NO. 146-T.262745 FROM
+MEDIUM DENSITY RESIDENTIAL SUB-ZONE (R-2), PRIME AGRICULTURAL I-AND SUB-ZONE (APR),
+SOCIAUZED HOUSING ZONE AND WATER RESOURCE ZONE TO HIGH DENSI]'Y RESIDENTIAL ZONE (R-3)
+WITI-I AN AREA OF 91,309 SQUARE METERS, MORE OR LESS, SITUATED IN SrTIO SAN PEDRO, BARANGAY
+CATALUNAN GRANDE, THIS CITY
+
+OFFICE OF THE SANGGUNIANG PANLUI{GSOD
+Office of Councilor fesus foseph P. Zozobrado III
+SP Bldg., San Pedro Street, Davao City
+Tel. No. 222-0855 to 63 (local 226)
+1st Indorsement
+December 5, 2019
+MS. CHARITO N. SANTOS
+kcretary
+Maam,
+Respectfully indorsing to your office relative to THE APPUCATION OF FRANCISCO M.
+SORIANO & CO., INC., FOR RECI.ASSIFICATION OF A PROPOSED SUBDIVISION SITE
+FROM PRIME AGRICULTURAL r-AND SUB-ZONE (APR) TO HrGH DENSrry RESIDENTIAL
+zoNE (R-3).
+The undersigned requests for the inclusion of the said items in the agenda for First
+Reading of the next regular session of the 19th City Council.
+Thank you.
+Respectfully yours,
+Hon. Jesus
+City Councllor
+h
+rado I I
+Cha irperson, Comm
+I and Urban Development (Low-End Prsjec6)
+
+;€ir.
+OFFICE OFTHE CITYMAYOR
+.r-,
+\r \(,
+-4'
+F
+v
+RES
+YEil
+f
+_10
+r(o
+EY: *.
+Eef. I\b. CA&Z{I19+S56S
+t*
+TlltlE
+OF
+2nA IilDoRSEMENT
+November 20, 2019
+Respectrully forwarded to Ms. Charito 11. Santo+ Secretary to the
+SANGGUNIANG Panlungsod. this City. tre preceding Indorsement dated November 15,
+2019 of Engr. Ivan C. Cortez, EnP, Officer-in-Charge, City Planning and Development
+ffice, relaUve to the attached Local Zoning Review Committee (lzRC) Resolution No.
+17, SERIES of 2019, entiiled'A RESOLUTION ENDORSING FOR APPROPRIATE ACION
+THE APPUCATION OF FRANCISCO M. SORI,ANO & CO., INC. FOR RECT.ASSIRCATION
+OF A PROPOSED STTBDIVISIOT{ SITE FRO}T PRIME-AGRICULTURAL LAND SU&ZONE
+(APR) TO HIGH DENSITY RESIDET{TIAL ZONE (R-3)", for your information and
+approprlate actlon.
+For the City Mayor:
+ATTY. TRISTAI{
+DOMINGO
+tor
+Assistant
+(Administration
+@
+CI?Y MAYOiS OFFICE
+CORRESPONDENCE AND RECOROS OIV
+REL

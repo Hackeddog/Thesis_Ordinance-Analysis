@@ -1,0 +1,418 @@
+---
+ordinance_number: "0494-18"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AND SIGN, FOR AND IN BEHALF OF THE CMY GOVERNMENT OF DAVAO, THE DEED OF DONANON TO BE EXECUTED BY GINANSIA, INC., REPRESENTED BY MR. JELIO VAL C. LAURENTE AND THE CITY GOVERNMENT OF DAVAO, REPRESENTED BY MAYOR SARA Z. DUTERTE, RELATIVE TO THE DONATION OF TWO (2) UNITS OF AMBULANCE, duly signed by Mayor Sara Z. Duterte, for signature of the other pa"
+date_enacted: null
+approval_date: "2018-08-23"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0494-18.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/authorizing, topic/mayor, topic/accept, topic/sign, topic/behalf, topic/government]
+---
+
+# Ordinance No. 0494-18
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AND SIGN, FOR AND IN BEHALF OF THE CMY GOVERNMENT OF DAVAO, THE DEED OF DONANON TO BE EXECUTED BY GINANSIA, INC., REPRESENTED BY MR. JELIO VAL C. LAURENTE AND THE CITY GOVERNMENT OF DAVAO, REPRESENTED BY MAYOR SARA Z. DUTERTE, RELATIVE TO THE DONATION OF TWO (2) UNITS OF AMBULANCE, duly signed by Mayor Sara Z. Duterte, for signature of the other pa
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,567 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2018\Ordinance No. 0494-18.txt`*
+
+R.epublic of the Philippines
+\r./
+cns/nta
+3'd Indorsement
+September 20,2018
+Respectfully forwarded to MR. IELIO VAL C. LAURENTE, Marketing
+Consultant, GINANSIA, Inc., Door 2, 3, and 4, Debin Building, San pedro Extension,
+Davao City, the herein documents relative to City Ordinance No. O4g4-Lg, SERIES of
+2018, CNtitICd "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AND
+SIGN, FOR AND IN BEHALF OF THE CMY GOVERNMENT OF DAVAO, THE DEED OF
+DONANON TO BE EXECUTED BY GINANSIA, INC., REPRESENTED BY MR. JELIO VAL C.
+LAURENTE AND THE CITY GOVERNMENT OF DAVAO, REPRESENTED BY MAYOR SARA
+Z. DUTERTE, RELATIVE TO THE DONATION OF TWO (2) UNITS OF AMBULANCE, duly
+signed by Mayor Sara Z. Duterte, for signature of the other parties and
+acknowledgment on the Deed of Donation, and to return the same to the undersigned
+after everything has been complied with,
+Thank you.
+^C),urtufJ&+-*
+CHARITO
+Secretary to the SANGGUNIANG panlungsod
+(City Government Depaftment Head II)
+Pl
+
+Repgblic of the Philippines
+OFFICE OF THE CITYIVIAYOR
+, City of Davao
+'?.-4
+Ref. No- CIdG201&06076
+fA?OJchlt1
+a
+'h
+2"d INDORSEMENT
+September 14,20LB
+Respectfully forwarded to Ms. Charito N, Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein approved Ordinance No. 0494-18, SERIES
+of 2018, entitled, "AN ORDINANCE AUTHORIZING THE CTTY MAYOR TO ACCEPT AND
+SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF
+DONATION TO BE E(ECUTED BY GINANSIA INC., REPRESENTED BY MR. ]EUO VAL C.
+IAURENTE AND THE CITY GOVERNMENT OF DAVAO, REPRESENTED BY MAYOR SARA
+Z. DUTERTE, REI-ATIVE TO THE DONATION OF TWO (2) UNffS OF AMBULANCE", with
+the attached Deed of Donation duly signed by the City Mayor with lacking signature of
+the representative of Ginansia Inc., for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+ministrator
+(Administration)
+DOMINGO
+RELEASED
+CMO. CRD
+LIFE IS HERE
+a
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City.
+(082) 224-3004 o (082) 241-1000 loc. 265 . davaocitymayor@gmail.com'
+'llz- l-fu
+Brw @
+[t z spp )mR
+0,rl (/it
+I
+
+OFFICE OF THE CITY LEGAL
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o00
+Ref. No. 1131-18-0155
+LEGAL OPINION NO. Y4 ,
+SERIES OF 2O1B
+RE: ORDINANCE NO. 0494-L8, SERIES of 2018 entitled *AN
+ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AND
+SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE DEED OF DONANON TO BE EXECUTED BY GINANSIA
+INC., REPRESENTED BY MR. JEUO VAL C. LAURENTE AND THE
+CITY GOVERNMENT OF DAVAO, REPRESENTED BY MAYOR SARA
+z. DUTERTE, RELATIVE TO THE DONATION OF TWO (2) UNITS OF
+AMBUI.ANCE"
+ls INDoRSEMENT
+August 23, 2018
+Respectfi.rlly forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, with the information that the
+grant of authority is well within the power of the SANGGUNIANG Panlungsod citing RA
+7L60, otherwise known as the Local Government Code of 1991.
+Hence, it is recommended that the subject ordinance be approved and the Deed
+of Donation be executed.
+ArrY. r.ranffiA|-. cALLo, Rsw
+Acting Asst. City Legal Officer
+Approved by: ,Ct
+Arry. osMUN JfrrLrANUEvA, rR
+OIC-Acting City Legal Officer
+OFFICE
+RECEI
+DATE:
+TIMEr
+OF THE CITY A9II#M$TRATOR
+CIry HA.LL OFFICE
+VED BY:
+-/a,4 r".,
+2'7
+Date approved: August 23,2018
+ord0494- 18 [oflation am0utarce 18-0155 8-22-18
+@tee
+.-luE oF Itt qr? AoifliltsTRAr(t
+CIIY HALI
+oAvAo clt
+IE
+'tt ,-
+BY:
+W;dorrtb
+\tl4_sA+=
+
+August 15, 2018
+SARA Z. DUTERTE
+City Mayor
+Madam:
+-elsP.aru
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Tile Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenryise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 02288-18 and Ordinance No. 0494-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, with Six (6) sets of copies of the Deed of Donation to be
+executed by Ginansia Inc., represented by Mr. Jelio Val C. Laurente and the City
+Government of Davao, represented by Mayor Sara Z. Duterte, relative to the Donation
+of Two (2) Units of Ambulance, for your information, guidance, and appropriate action.
+Very truly yours,
+(
+I
+ifia lft
+?,10\
+r#M
+&M^),#,6,
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head IIp
+-ns/nta
+MA.
+&
+R E c E
+l:o2
+AUG 16 20ts
+
+lEn'Citr te.?Til
+2d Special Sssion
+5eries sf 2018
+PRESEHT
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Counrilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counr-ilor
+Councilor
+Councilor
+Conncilor
+Councilor
+Councilor
+Councilor
+f-ouncilor
+Councilor
+Counrilor
+Councilor
+Councilor
+Councilor
+TESE}IT:
+C.ounrilor
+€ouncilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+RepuHic of the Philippirres
+Gty of Darrao
+Offic of fte SANGGUNIANG Panlungsod
+Bemard E.Al.af
+Victotio U. Muinr-ula .Ir.
+Al Ryan S. Aleiandre
+Dante L. Apostol 5r.
+Conr*Jo C. Baluran
+Joanne M. hnguFn{uilos
+Ma, Chen} Ann M, hnguyan
+Pilar C. Brda
+Carmelo l. Clarion
+Danilo C. Dayanghirang
+April Marie C. DayaEr
+Jimmy G. Dureza
+Ed,lar P. Ibuyan Jr.
+Le;h A. Librulo-Yap
+Rene Elis C., LoFez
+Diosdado Angelo A. Mahipus Sr.
+Auqayle Dalodo Ortiz
+Antoinette G. kinrire{xkod*
+l. Melchor B. Quitain lr,
+Mafisa P. Salvdor-Abella
+MarT -loselle D. Villaftiette
+-ksus -bseph P. Zozobrdo Itr
+Presiding Officer
+Nilo M. Akllera lr.
+Maria Belen S. Atob*ta
+January N. Dutefie
+laffar U. Marohomsalic
+Eonifuio E. Militar
+Antoi ne.tte G. Princi pe{xfrorJes
+- On Vacation LeaYe
+- oB-zgi' N!ETES(:
+- On Vxation Leave
+- 0n Domstic Emergency Leave
+ORDTHAHCE HO. O+94-18
+Serie,r of 2O1S
+AH ORDI}IAHCE AUTHORITIHG THE CITY HAYOR TO
+tccEPT AltD srGll, FoR tllD Ill BEHALF OF THE CrTV
+GT}YERHTUIE}TT OF DAYAO, THE DEED OF DDHATIO}I TO BE
+EXECUTED BY GISIAHSIfr IHC., REPRESE}ITED BY
+3{R. ]EIIO YAt C. I.AURESITE A}ID THE CTTY GOYERH}IE}IT
+T}F DAYAO, REPRESE}ITED EY FTAYT}R SiRA T. DUTERTE
+REIATTUE TO THE DOIIATTOH OF TSIO t2) UHrrE OF
+ff'{But AHCE
+
+tr+e2of3
+Crd, No.04++-18
+Be it ordained hy the SANGGUNIANG Farrlungsod rf Darm City, in smion
+-"-.---=Ll-l
+&L-!.,
+EESHJ,,I-,,i3, U,dI-,
+SEtTIftH 1. TITLI - This f,trdi*anc* *lrall Lre ktrrw* s *lH {IRBIffiAHCE
+&#:}'ARTTI$8G T*IE CITY S{A'fGR T$ AffiEFT &!It} SIG}I. FGg ATES IfT
+SETTTLF OF TIIE CITY ffiUEftHHET{T *F SAYTA. T'{T SEIB OF ST}IIITTI$TI
+Tfi trE EXECLTTTT EY GE$i*HSI& EilC", EEPEESE}ITEtr EY HE= ]EI_IO Yfrt f,"
+IE{.IRE$STE *'{* THI CITY G{}YERIIHE}IT $F S*YT$, ftEtrEESESEE* BY
+E4*YSR SAR* r= DIITERTE" EEt &TIltE Tt! THE D{}F|&TIOB| tlF TltEt {?} U}EITE
+{}F &HEt!1Allf,E""
+SECTIOH L IIECTARATIOH OF POLIf,Y - ktion 2.2 {ai {7i arrd {r},Sectian
+35, and Sectio* 455 {b} {1} {yi} sf the Loral (kvernnre.nt Cde of 19S1 or R.A. No.
+7lS* Fr*vidm that:
+Sertirn ?JL torponte fuwers.-
+{a} Every kxal g*vernnrent unit a a r*r1rcration, slrall have.
+the fallowing powers:
+t5) Tr e.nt*r intr contr*cts; ard
+{r} Urrles *tirerwis* provided in this Code, no crnh'at may
+he etitered inb Lry tfue local chief exeutiue in khalf of the twa{
+ilfivernffie.rlt unit without Frior *uthorization L'f Sre sanggunian
+r*:ncern*J. a ler3itrle {o[ry of surh cantrxt sfuall he posted at a
+cc,rspicuous place in tlre Frovinrial rapital or the rity, rrurriripal ar'
+barangay hall.
+Smti&n 35. Linkqes with kde's arrd Narrntouerfirrt*rrtai
+Otganizatiurrs. lffal government units may enbr into ioint
+venhrres and such ather cocterative a$angements with f:*plek
+and nongoysrnfirental organizations t* engg* in *re deliuery *f
+certain hsir servires, caf,aLilitf*uilding and liuelihocrJ trrr*jer'es.
+and tc devel*p lacal erterpris# deigned ta irnpi*ved prductivity
+an,-1 !nc*n:e, diveruity 4riculture, spur runl ifidustrializati**,
+Erromote *olqical balanre, and enhance the ercnamir and soria!
+wetl&ing of the pple,
+SECTION 455. thief Exxutive.; fu*vers, $#8k e*d
+tomp**satfon.
+{LriF+r efficient, effective and scnamical governarce the
+purtrEse af **hich is the general welfare of th* city and
+its inhabitants pur.suant to Serti*n 16 of this {ode, th*
+rity may'rrshall:
+{LiEx*ni*e general supervisiorr ancJ c*ntral over all
+progranls, projects, ser:trir*, ard xtiyitis sf tfte city
+qovernment, And in this ronnection, shall:
+{vi} Repr-c+sent t}re ci$ in all its businem kansactions and
+sign in its i:ehaif aii ircnds, conbats, and obligations, and such
+other documents utnn autharity of the sangsuniang tranlungso{i or
+p*rsuan[ tc law ar ardinance,
+
+Pde 3 of :l
+ord. trlo. a+94-18
+' SECTIOH 3. frUTHORITY - The City Mayor is hereby grantd legislative
+authority to r-r-ept and sign, for and in behalf of the Ctty ftIgrnrnent of Davao, the_
+De€d of Oonatiod to ne eiecuted by Ginansia Inc. in favor of the City Government of
+Dayao re.latiye to the donation of two (2) units of ambulance.
+sffiTl0il 4. SEFAR^frBIUTy CIJIUSE - If, fur any re;$on, any SECTION or
+pr*vision of thls ordinance is declared unconstihrtional or invalid, other sections or
+prcvisions not afferted hy such dslaration shall continus ta be in hlll hrce and eftrt'
+sEf,TIOt{ 5. EFFECTIYITV CLAUSE -This fttilinanre shall take eft*t
+immediately u[crr at'Ptovai.
+EHfif,TED, July Zfi, 20L8, by a unanirfious vote oi all tire MeffiL€tE tf tli*
+5a*gilunian, thete being a rf,ucrunr'
+CERTIFTEG CORRECT:
+^ ol,,rvd1 f"^a'
+CHA*ITA }8. SA}TT{IS
+Serrehr} t* the Sanqg[niang Panglungsod
+(City thvetnntent Depattment Hedfl) -
+ATTESTEi;:
+f- tL-iE
+Yice Flayor
+ft'm,iding Officer
+#$/firhaftl
+ATTY. ZULEIil(i,
+APFR.*YED:
+AD
+28ru
+2018
+{-UID
+cit? Flav*r7
+ATTESTEII;
+Ciir nir*inishator'
+
+It
+DEED OF DONATION
+KNOW ALL MEN BY THESE PRESENTS:
+This Deed of Donation, made and executed in the City of Davao, Philippines,
+by GINANSIA, Inc., a corporation duly organized and existing under the laws of
+the Republic of the Philippines, with office address at Door 2, 3 and 4, Debin
+Building, San Pedro Extension, Davao City, represented in this transaction by its
+Marketing Consultant, Mr. Jelio Val C. Laurente, herein referred to as the
+*DONOR",
+IN FAVOR OF
+THE CITY GOVERNMENT OF DAVAO, a municipal corporation existing under
+the laws of the Republic of the Philippines, represented herein by its City Mayor,
+Sara Z. Dutefte, (hereinafter referred to as the "DONEE").
+WTTNESSETH
+WHEREAS, the DONOR intends to donate to the Donee two (2) units of
+ambulance (hereinafter referred to as the "ambulancesJ, listed and described in
+Annexes "A-1 to A-4", attached hereto and made an integral paft hereof;
+WHEREAS, the DONOR recognizes and supporG the noble task of the
+DONEE in promoting the welfare of the people living and sojourning in the City as
+well as its health programs;
+WHEREAS, the DONOR desires to assist the DONEE and give further
+petus to its numerous health care programs;
+NOW, THEREFORE, for and in consideration of the foregoing premises
+and due to the magnanimity of the DONO& the latter hereby transfers and
+conveys unto the DONEE, by way of DONATION, the two (2) ambulances, listed
+in Annex "A" hereof subject to the conditions that the DONEE shall, at its own
+expense/ maintain the ambulances in a serviceable and safe condition, and make
+all the necessary maintenance and repair at all times to ensure that the
+ambulances remain serviceable and safe for use. The first ambulance shall be
+turned over in 2018 and the second in 2019.
+The DONEE hereby accepts the donation of the equipment as listed in Annex
+"A", together with the conditions herein imposed, and hereby expresses its
+gratitude and appreciation for the support, kindness and liberality of the DONOR.r4,,
+0\
+
+.tli
+L
+IN WITNESS wHtfti|rl [:
+have hereunto set our hands, this
+Witness
+at
+IN WITNESS WHEREOF, the DONOR and the DONEE have signed this
+deed on _ day of
+,20at Davao City, Philippines.
+C. LAURENTE
+'Donee
+SIGNED IN THE PRESENCE OF:
+fi
+Witnesse
+
+ACKNOWLEDGMENT
+Republic of the Philippines)
+) S.S.
+te 4 s,EP 201 8
+BEFORE ME, a Notary Public, for and in the City of Davao, this
+day
+of
+20_
+personally appeared :
+J{ame
+Government-issued ID
+Issued On/At
+Jelio Val C. Laurente BIR TIN: 470-999-424-000 Feb. 2, 2015, BIR
+Sara Z. Duterte
+Passport: P422L444A Aug. 31, 20L7, DFA Davao
+all known to

@@ -1,0 +1,242 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE GRANTIilG BURIAL ASSISTANCE TO WORLD WAR II VETERANS IN THE AMOUNT oF TEN THOUSAilD PESOS (P10,000)\" TO *DAVAO CITY VETERANS WELFARE AND VETERANS PROGRAM\" AND GRANTING AN INCREASE IN THE BURIAL ASSISTANCE, AND TO REDUCE REQUTREMENTS FOR CTATMTNG SUCH ASSISTANCE I"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000818-21.pdf"
+section_count: 11
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.6
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: null
+detected_series_year: 2021.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/grantiilg, topic/burial, topic/assistance, topic/world, topic/veterans, topic/amount]
+---
+
+# Ordinance No. 000818-21
+
+> AN ORDINANCE GRANTIilG BURIAL ASSISTANCE TO WORLD WAR II VETERANS IN THE AMOUNT oF TEN THOUSAilD PESOS (P10,000)" TO *DAVAO CITY VETERANS WELFARE AND VETERANS PROGRAM" AND GRANTING AN INCREASE IN THE BURIAL ASSISTANCE, AND TO REDUCE REQUTREMENTS FOR CTATMTNG SUCH ASSISTANCE I
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | - |
+| Series header | 2021 |
+| Approval date | 2022 |
+| **Resolved** | **2021** |
+
+## Cites or amends
+
+- [[Ordinance No. 018-01]]
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic of the.Phifippines'
+lgth City Council
+47h Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Albefto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Tozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Sebastian Z. Dutefte
+Maria Belen S. Acosta
+Richlyn N. Justol-Baguilod
+- OB-Acting City Mayor
+- On Sick Leave
+- On Maternity Leave
+ORDINANCE NO, 0818.21
+SERIES of 2021
+AN ORDTNAilCE AMENDING ORDINANCE I{O. 018-01, ALSO
+KNOWN AS 'AN ORDINANCE GRANTIilG BURIAL
+ASSISTANCE TO WORLD WAR II VETERANS IN THE AMOUNT
+oF TEN THOUSAilD PESOS (P10,000)" TO *DAVAO CITY
+VETERANS WELFARE AND VETERANS PROGRAM" AND
+GRANTING AN INCREASE IN THE BURIAL ASSISTANCE, AND
+TO REDUCE REQUTREMENTS FOR CTATMTNG SUCH
+ASSISTANCE
+I
+
+Ord. No. 0818-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION l. EtE - This ordinance shall be known as the "DAVAO CITY
+VETERANS WELFARE AND BEilEFITS PROGRAM'.
+SECTION 2.
+- It is hereby declared as poliry of the
+City of Davao that the valiant contributions given by war veterans in times of war must
+be given due recognition. While their bodies have aged, they are exemplars of patriotism
+and self-sacrifice. Therefore, when their heroic voices are ultimately silenced by death,
+the City of Davao take upon itself the duty of providing financial assistance to their
+families for a dignified burial.
+SECTION 3. DEFINffiON OF TERMS- The following terms are hereby defined
+for the purpose of this Ordinance , to wit,
+(a) Veterans - shal! include any person or persons who served in the regularly
+constituted air, !and, or naval services or arms, or in such non-regularly
+organized military units in the Philippines during World War II, Korean War and
+Veteran's of Military Campaign and whose seruices with such units are duly
+recognized by the Republic of the Philippines or by the Government of the
+United States: Provided, that for purposes of this Ordinance, the term \eteran
+or veterans" also include the widow, oryhan or a compulsory heir of a deceased
+veteran, as determined by existing laws;
+(b) Children - shall refer to the sons and/or daughters of the deceased veterans
+by blood, legitimate or illegitimate, and to his children by fiction of law, such
+as by adoption
+(c) Spouse - shall mean the wife of the veteran under a valid marriage;
+(d) Relative- shall mean a member of the family of the veteran within the 5th civil
+degree of consanguinity
+(e) Entitled Heir - shall mean the heir ultimately entitled to the financial burial
+assistance, determined after applying the rules for entitlement as hereinafter
+provided
+SECTION 4. FINANCIAL BURIAL ASSISTANCE - Upon the death, the heir of
+a veteran shall be entitled to a financial burial assistance of Twenty Thousand Pesos
+(P20,000) upon compliance of the requirements hereinafter provided in this Ordinance.
+SECTION 5. @
+- The deceased veteran's surviving spouse,
+children and nearest suliving relatives by consanguinity shall be entitled to the financial
+burial assistance which shall be claimed once.
+SECTION 6. RUTES FOR EilTITLEMEilT TO CIAIM - The following rules shall
+be obserued in determining the entitled heir, to wit,
+a. The heirs shall be entitled to the financial burial assistance in the order they
+appear in SECTION 5 thereof;
+b. The deceased veteran's children or relative cannot receive the burial assistance
+if the surviving spouse comes forward to claim the same. Hence, a claim by the
+deceased veteran's suriving spouse shall exclude claims by his children and
+relatives. The suryiving spouse shall be deemed an entitled heir only upon due
+presentation of their marriage certificate;
+
+Ord. No. 0818-21
+c. If the veteran's spouse had predeceased him, a claim by his children shall
+exclude claims by his relatives. Among the children, priority shall be given to
+the child with whom the veteran last resided or to the eldest child. To be
+deemed an entitled heir, the filiation or relationship of the child or relative to
+the veterans may be proven by the presentation of birth certificates.
+SECTION 7. DOCUMENTS REOUIRED FOR THE CLAIM - The entitled heir
+may collect the financial burial assistance only upon presentation of the following
+requiremenB, to wif,,
+a. Death Certificate, to prove the fact of the veteran's death;
+b. A certification furm the Philippine Veterans Affairs Office (PVAO) of Davao City,
+that such deceased percon is a veteran;
+c. CVAO ceftification or Barangay Clearance, to prove that the deceased veteran
+was a resident of Davao City for at least five (5) years, counted from the time
+of his death.
+SECTION 8. PERIOD WITHIN WHICH TO FIIE THE CIAIM - A written claim
+for the financial assistance must be submitted to the City Accountant's Office within two
+(2) years from the death of the veteran.
+The City Accountant shall see to it that within thirty (30) days, the full amount of
+the financial burial assistance is released to the entitled heir.
+SECTION 10. SEPARABILIW CLAUSE - In the event that any provision of this
+Ordinance is declared invalid or unconstitutional, the remaining provisions shall not be
+affected thereby, and shall continue to be in full force and effect.
+SECTION 11. REPEALIN_G CLAUSE - Ordinance No. 018-01, SERIES of 2001,
+otherwise known as "The Veterans Buria! Assistance Ordinance of Davao Cill', is hereby
+expressly repealed and superceded.
+SECTION 12. EFFECTMW -This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the gth dav of December 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+*^W$,*flft",
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II),.
+SECTION 9. APPROPRIATION The amount of Two Million Pesos
+(P2,000,000.00) shall be included in $e Annual Budget to fund the burial assistance for
+war veterans who are residents of Davao City.
+
+APPROVED:
+Ord. No. 0818-21
+202L
+tf tt f
+aa
+e City Muyy
+ATTESTED:
+NGAB
+ng Vice Mayor
+Temporary Presiding Officer
+cns/kjtq
+JAN 1 I 2022
+SARA Z. DUTERTE
+ATTESTED:
+z,
+AcHno CItu
+ATTY.
+City
+AN ORDINANCE AMENDING ORDINANCE NO. 018-01, ALSO KNOWN AS *AN ORDINANCE GRANTING
+BURTAL ASSISTANCE TO WORLD WAR II VETERANS IN THE AMOUNT OF TEN THOUSAND PESOS
+(P10,000)" To 'DAVAO CITY VETERANS WELFARE AND VETERANS PROGRAM" AND GRANTING AN
+INCREASE IN THE BURIAL ASSETANCE, AND TO REDUCE REQUIREMENTS FOR CLAIMING SUCH
+ASSISTANCE
+DI,TERTE
+Marcr 9
+T

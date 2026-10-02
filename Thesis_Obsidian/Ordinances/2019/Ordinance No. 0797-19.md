@@ -1,0 +1,299 @@
+---
+ordinance_number: "0797-19"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD FROM SAN PEDRO CATHEDRAL PASSING THROUGH C.M. RECTb AVENUE. ROXAS EXTENSTON (ALONG MARCO NOiOI.EONCIANO STREET.PALMA GIL STREET.LEGASPI STREET. MAGALLANES STREET.BONIFACIO MONUMENT ROTUNDA THEN BACK To oRrGrN oN JUNE zB,2org FROM 3:00 p.M. uP To 5:00 P.M. rN coNNEcTIoN wrrH THE CELEBRATTON OF THE 171St PAROCHIAT FIESTA OF SAN "
+date_enacted: null
+approval_date: "2019-07-05"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0797-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/road, topic/pedro]
+---
+
+# Ordinance No. 0797-19
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD FROM SAN PEDRO CATHEDRAL PASSING THROUGH C.M. RECTb AVENUE. ROXAS EXTENSTON (ALONG MARCO NOiOI.EONCIANO STREET.PALMA GIL STREET.LEGASPI STREET. MAGALLANES STREET.BONIFACIO MONUMENT ROTUNDA THEN BACK To oRrGrN oN JUNE zB,2org FROM 3:00 p.M. uP To 5:00 P.M. rN coNNEcTIoN wrrH THE CELEBRATTON OF THE 171St PAROCHIAT FIESTA OF SAN 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+-oX..,
+i
+, Repudic of the Philippines
+OFFICE OFTHE CITYMAYOR
+?
+Ref. t'lo. CAdG2019-02684
+2"d INDORSEMEI{T
+luly IQ 2019
+Respectfully retumed to ils. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this Gty, the within documents relative to Ordinance No. A797-L9, SERIES
+of 2019 entitled, "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI-AR
+TRAFFIC OF THE ROAD FROM SAN PEDRO CATHEDRAL PASSING THROUGH C.M.
+RECTO AVENUE-ROXAS EffENSION (ALONG MARCO POLO)-PONCLANO STREETPALMA GIL STREET-LEGASPI STREET-MAGALLANES STREET.BONIFACIO MONUMENT
+ROTUNDA THEN BACK TO ORIGIN ON ]UNE 28,2AL9 FROM 3:OO P.M. UP TO 5:OO P.M.
+IN CONNECNON WITH THE CELEBRANON OF THE LTLST PAROCHIAL FIESTA OF SAN
+PEDRO CATHEDRAL PARISH (PROCESSION)", with the information that no e><ecutive
+action is needed on the matter since the activity has already lapsed, thereby rendering
+the ordinance moot for your appropriate action.
+For the City Mayor:
+oh
+ATTY, I.AWdENCE D. BA]ITIDING
+Assistant City Administrator
+(Operations)
+orY MAVOi'5OFflCr
+coRRESPOr.loErCE AttD RECOTDS D{V
+RELEASED
+JUL l(j 2l.l1g \
+,rtr#^r*
+ADMltrllSIliAtlYt
+v8
+TIiIE:
+..=_-4
+1/
+Second Floor, City Halt Building, City Hall Drive, San Pedro St., Davao
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail
+City
+n
+.com
+Dt" -o
+B#w,=,,@
+LIFE IS HERE
+
+Republic of the phitippines
+OFFICE OF THE CITY TEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+Ref. No. CLO-2019-0002010
+LEGAL oPrNroN No. h\t
+SERIES OF 2019
+1't INDoRSEMENT
+July 4,2019
+Respecffully forwarded to the Office of the Gty lvtayor, through the Office
+of the City Administrator, both this City, the attached Ordinance ff6. OZgZ-fg,
+SET|ES Of 2019 CNtitIEd ,AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE ROAD FROM SAN PEDRO CATHEDRAL PASSING
+THROUGH C.M. RECTO AVENUE- ROXAS EXTENSION (ALONG MARCO POLO)-
+PONCIANO STREET-PALMA GIL STREET-LEGASPI SIREET-MAGALI.AI{ES
+STREET-BONIFACIO MONUMENT ROTUNDA THEN BACK TO ORIGIN ON JUNE
+28, 20L9 FROM 3:00 P.M. up ro 5:00 p.M. IN coNNECnoN WITH THE
+CELEBRATION oF THE 171sr PARoCHIAL FIESTA oF sAN pEDRo CATHEDRAL
+PARISH (PROCESSION)", informing your end that no executive action is needed
+on the matter, it appearing that the activity had been done, thereby rendering
+the measure moot.
+^dll't^-
+ATTY. MARAISA A. GALLO, RSW
+Acting AssY City Legal Officer
+Approved by:
+1}
+ATTY. OSMUN
+P. VILLANUEVA, JR.
+OIC-Acting City
+I Officer
+Date Approved: July 5, 2019
+ord0 797 - I 9_c bsan ;fi2 sta_snpetm_noo t_20 1 g_{nO 20 t 0_ Z 4 _ I g
+U
+\ff,
+0 I -'ill5-^-'-'
+&\q'oir,,24
+\
+Ctrlo COIiTACI l:
+MAiY ANN
+R
+J
+llt;M
+7)+-7-l(
+t'l
+GA
+
+OFFICE OF THE SANGGIINIANG PANLUNGSOD
+)une 27,2019
+SARA Z. DUTERTE
+City Mayor
+Madam
+Otot
+O
+'\l
+rTl
+*
+rl'O
+aL|.un-0t01010 Pt+o+
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+03311-19 and Ordinance No. 0797-L9, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, this City, for your information, guidance and appropriate action.
+Very truly yours,
+^0)AAn; \ -k
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+coiiESPoNDEilqt'& !EcoiDS 0lVlSlON
+RECEIVED
+JUL C 1 2OIg
+OFFICE
+:ffi
+ANN
+MARY
+coNrAcr
+2.1-1000
+t:
+cMo
+
+r0
+,O NC
+24s Regular Session
+SERIES of 2019
+PRESENT:
+lBth
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Presiding Officer
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-euilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Councilor Maria Belen S. Acosta
+- OB- Attended the Seafarer,s
+Celebration and the Opening of
+the "Go Negosyo, Buhay Asenso,,
+- On Domestic Emergency Leave
+Councilor
+Councilor
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+ORDINANCE NO. O797-Lg
+SERIES of 2019
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE ROAD FROM SAN PEDRO
+CATHEDRAL PASSING THROUGH C.M. RECTb AVENUE.
+ROXAS EXTENSTON (ALONG MARCO NOiOI.EONCIANO
+STREET.PALMA GIL
+STREET.LEGASPI STREET.
+MAGALLANES STREET.BONIFACIO MONUMENT ROTUNDA
+THEN BACK To oRrGrN oN JUNE zB,2org FROM 3:00 p.M.
+uP To 5:00 P.M. rN coNNEcTIoN wrrH THE CELEBRATTON
+OF THE 171St PAROCHIAT FIESTA OF SAN PEDRO
+CATH EDRAL PARISH (PROCESSION)
+
+Ord. No. 0797-19
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE FOR THE
+TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD FROM SAN PEDRO
+CATHEDRAL PASSING THROUGH C.M. RECTO AVENUE- ROXAS EXTENSION
+(ALONG MARCO POLO)- PONCTAN O STRE ET- PALMA GI L STRE ET- LEGASPI STRE ETMAGALLANES STREET.BONIFACIO MONUMENT ROTUNDA THEN BACK TO ORIGIN
+ON JUNE 28, 2OL9 FROM 3:00 P.M. UP TO 5:00 P.M. IN CONNECTION WITH THE
+CELEBRATION OF THE 171St PAROCHIAL FIESTA OF SAN PEDRO CATHEDRAL
+PARTSH (PROCESSION).
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Republic Act No. 7160,
+otherwise known as the Local Government Code of 1991, provides:
+"Any national or local road, alley, park or square may be
+temporarily closed during an actual emergencY, or fiesta
+celebrations, public rallies, agricultural or industrial fairs...";
+SECTION 3. TEMPORARY CLOSURE - The road along San Pedro Cathedral passing
+through C.M. Recto Avenue-Roxas Extension (along Marco Polo)-Ponciano Street-Palma Gil
+Street-Legaspi Street-Magallanes Street-Bonifacio Monument Rotunda then back to origin will
+be temporarily closed on lune 28,20L9 from 3:00 P.M. up to 5:00 P.M. in connection with
+the celebration of the 171st Parochial Fiesta of San Pedro Cathedral Parish (Procession).
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 25th day of lune 20L9, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum,
+CERTIFIED CORRECT:
+ATTESTED:
+n blA,,AAX )1 , k
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head I[),-
+RNARD E. AL-AG
+Vice Mayor
+Presiding Officer
+cns/kjtq
+
+APPROVED
+Ord. No. 0797-19
+2019
+SARA Z. DUTERTE
+City Mayor
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator

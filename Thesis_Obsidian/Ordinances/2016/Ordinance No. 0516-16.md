@@ -1,0 +1,312 @@
+---
+ordinance_number: "0516-16"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF THE ROAD ALONG CORNER ARTIAGA-MABINI STREET AND MABINI-AURORA STREET, BARANGAY 33-D, POBI-ACION DISTRICT, THIS CITY, ON APRIL 23, 2016 FROM 7:00 A.M UNTIL 12:00 MIDNIGHT, TO SERVE AS VENUE FOR THE BARANGAY ASSEMBLY AND CELEBRATION OF ITS 29TH ARAW NG BARANGAY\" with the information that this has been lapsed into law. For your informatio"
+date_enacted: null
+approval_date: "2016-04-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0516-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/temporary, topic/closure, topic/vehicutar, topic/traffic, topic/road, topic/along]
+---
+
+# Ordinance No. 0516-16
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF THE ROAD ALONG CORNER ARTIAGA-MABINI STREET AND MABINI-AURORA STREET, BARANGAY 33-D, POBI-ACION DISTRICT, THIS CITY, ON APRIL 23, 2016 FROM 7:00 A.M UNTIL 12:00 MIDNIGHT, TO SERVE AS VENUE FOR THE BARANGAY ASSEMBLY AND CELEBRATION OF ITS 29TH ARAW NG BARANGAY" with the information that this has been lapsed into law. For your informatio
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+_,tbb lo$
+d,,,,,
+atyj
+RepuHlic of the Philippines
+OFFTCE OF THE CTTYMAYOR
+{a
+sairsrG
+?
+{
+,
+f[
+(l'
+F"EetiV:[:t]
+2nd Endorsement
+26 April 2016
+t-r*
+Respectfully forwarded to Ms. cHARrro N. sANTos, secretary to the
+SANGGUNIANG Panlungsod, this City the herein documents relative to City Ordinance No.
+0516-16, SCT|CS of 2016 entitled ,AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUTAR TRAFFIC OF THE ROAD ALONG CORNER ARTIAGA-MABINI STREET AND
+MABINI-AURORA STREET, BARANGAY 33-D, POBI-ACION DISTRICT, THIS CITY, ON
+APRIL 23, 2016 FROM 7:00 A.M UNTIL 12:00 MIDNIGHT, TO SERVE AS VENUE FOR
+THE BARANGAY ASSEMBLY AND CELEBRATION OF ITS 29TH ARAW NG BARANGAY"
+with the information that this has been lapsed into law.
+For your information and appropriate action.
+Thank you.
+RODRIGO R. DUTERTE
+City Mayor
+By:
+D. DALUMPINES
+Chief-of-Staff
+/lcsp
+RELEASED
+ctvto " cFp
+APR 26
+3: .d
+tr - fY0-6
+- t-/4
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224- 587 8 . d avaocitym ayo r@g m a i l.co m
+I
+t
+,
+
+?
++stta
+4-278
+'F. ;(.t u!- t''.!k Ut I y Adrrr.irrs r n.l: Ct\
+r.jn!. It2, CITY ilArL EutLo'NC
+DA\/Ao Clly
+OFFICE OF THE CITY LEGAL O
+City of Ddvso sr,. r
+FFICER 1r.i;i,'{'Ir]
+',tt
+t,r
+OSMU
+Acting
+Approved by:
+1"t INDORSEMENT
+April 15, 2016
+1,ry
+7rp
+Respectfully fonrarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0516-'16
+SERIES OF 2016, entitled "AN ORDINANCE FOR THE TEMPORARY
+CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD ALONG CORNER
+ARTIAGA-,MABINI STREET AND MABINI-AURORA STREET, BARANGAY 33D, POBLACION DISTRICT, THIS CITY, ON APRIL 23, 2A16, FROM 7:00 A.M.
+UNTIL 12:OO MIDNIGHT, TO SERVE AS VENUE FOR THE BARANGAY
+ASSEMBLY AND CELEBRATION OF ITS 29TH ARAW NG BARANGAY "
+informing your end that the same is free from legal infirmity citing RA 7160,
+otherwise known as the Local Government Code of 1991, to quote:
+SECTION 21. Ctosure and Opening of Roads. (a) A [oca[
+government unit may, pursuant to an ORDINANCE, permanentty or
+temporarlty ctose or open any [oca[ road, atl.ey, park, or square fatting
+wtthin its jurisdiction: Provided, however, That in case of permanent
+ctosure, such ordtnance must be approved by at least two-thtrds (2/3) of
+att the members of the sanggunian, and when necessary, an adequate
+substltute for the pubtic factl.ity that is subject to ctosure is provided.
+xxx
+(c) Any national or [oca[ road, altey, park, or square may be
+temporarity ctosed during an actual emergency, or fiesta cetebratlons,
+pubtic ratlies, agrlcuttural or industrlal fairq or an undertaking of pubtic
+works and highways, telecommunicattons, and waterworks projects, the
+duration of which shatt be specifred by the locat chief executive concerned
+in a written order: Provided, however, That no natlonal or [oca[ road, attey,
+park, or square shatt be temporarity ctosed for athtetlc, cu[tural, or civlc
+activtties not officiatly sponsored, recognized, or approved by the [oca[
+government unit concerned".
+'fiI,ll^
+ATTY. MARqISA A. GALLO, RSW
+Att5mey 1V
+UEVA, JR
+Legal Officer
+N
+APR
+RECE!VED
+MO
+D
+Date approved: APRIL 15, 2016
+I8- TqE-of,
+Ref. No. 1131-16_
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIAI\G PANLUNGSOD
+LUNGSOD NG DABAW 3p 1
+April 14,2016
+RODRIGO R. DUTERTE
+City Mayor
+Sir:
+O
+*
+vno
+tAL
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title
+Five, Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160,
+otherwise known as the Local GovernmentCode of 1991, we are furnishingyou
+a copy of Resolution No. 02815'16 and Ordinance No. 0516-16, both SERIES of
+2016 of the SANGGUNIANG Panlungsod, for your information, guidance and
+appropriate action.
+For and in the absence of the Secretary:
+NILDA C.
+NO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)6
+RECH!VET}
+CMO. CRD
+20lE a:
+I
+cns/lnta
+tD- -7t-0v
+
+Republic of thd PhiliPPines
+Offlce of the Sanggunlang Panlungsod
+17th City Council
+14o Regular Seeelon
+SERIES of 2O16
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Cor.rncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Clouncilor
+Councilor
+Councilor
+Coutcilor
+Victorio U. Advincula Jr.
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Benard E. Al-ag
+A1 Ryun S. Alejandre
+Lorelpr T. Avila
+Karlo $. Bello
+Joanne M. Bongrryan-Quilor
+Louie John .I. Bongiuyen
+Darrilo C. Dayanglrilang
+Jimmy G. Durua
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+John-Christopher T. Mahamud
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Mititsl
+Myr:na Cl. t lDalodo-ftiz
+Aartoinette G. Principe-Llaetlodes
+Halila Y. Sudagar
+trilary Joselle D. Villefrrerte
+Rachel P. Z,wobrado
+Temrpora4r Presiding Offic er
+- Srd Afllual Anrriversary of
+Paquibato District Tfibal Council
+- t}rr Sick Leave
+- On Domestic Emergerrcy Leave
+ON OFF'ICIAL BUSII{ESS:
+Vice Mayor
+Councilor
+AB-$ENT:
+Councilor
+Councilor
+Councilor
+Paolo Z. Dtuterte
+April Marie C. Dayap
+Jarruary I{, Duterte
+Toman J, Mentsverde tV
+Marissa P. Sahrador-Abella
+ORDII|AIYCE ITO. OET 6-1 6
+Scrlrt of 2O16
+AT OEI'ITI.ICE FOR TM TEIPORTET CIJOEIIEI TO
+VEEICIILTR TRTtrTIC OT TET ROTD TLOI]C CffiTER
+TRTI"..GA.T.f,EITT ETREET A.rD UTBIrI-AI'RORA
+gTREEf,, BARATeAY 33-D, POBLACIOT DISTRICT, TEIB
+CIT'Y, Of APRIL 23, 2016, FROil 7:(X) rf,.t. UITIL 12:OO
+uIDmcET, TO StRVt A8 vEmrt FOR, TEt BARAtreAy
+ABSEffiBLY AIrD CEI,EBRAfIOII OF ITB 29III ARAW TE
+BARA.rSAY
+t
+
+Ord. No. 0516- 16
+Be it ordainql by the Sanggrrniang Parrlungsod sf Dffmo City in smsion
+asselrbletl that:
+SECTIOI 1. TITLT
+Ttris Ordinance shall be knoqrn as "Atr
+ORDITATCE FOR, TET TETPORARY CLOEI'RT TO VEEICIILAR TRATTIC
+OF TET n,OAD .II,OIIC CORTTR TRTLf,GA.UTEIrI ETEEET A.rD UTBIf,IaIIRORA ETRtEf, BARATCAY 33.D, POBLACIOtr DISTRICT, TmB CIffi,
+Of APRIT 23,?;016, FROil 7:OO rl.il. UITIL 12;OO ilIDIYICET, TO BERITE
+AS vErI'E FOR TET BARAtrCAY A88T![BLY Af,D CELEBR'ATIOtr Otr IT8
+Z9TN .[RAW TO BARATGAY';
+SECTIOil 2, DECLARATIOT OF POLICY - 'tection 21 {c} of Republic Act
+I{o, 7160 othsrnrise }mornn aa the Local Gormrnmsrt Code of l99l provider
+tJrat arry national or local road., d*y, ptrk, or rquare ,r.ay be temporarily
+closed during an actual emergency, or fi.esta celebration, public rallies and
+agricultrral or industrial fairs;
+EtCTIOtr 3. TffiPORlIff CLOBIIRE - In celebratioa of its ?9tr Araw ng
+Barangay of Barangay 33-D, Potrlaciou Distict, this City, the road along corfle,r
+Artiaga-Mabini Street and Mabini-Aurora Strwt, Barangay :]3-D, Dnvao City,
+shall be temporarily closal on April 21, 2A16 from 7;00 a,m, until 12:00
+midrriehE
+SECTIOf, +, SEPARiiEILItr CLAUHE - If for nrry reanon, any SECTION or
+provi*ion of thia L)rdinance i* declaled unconstitrrtional or imralid, other
+eections or provirions hereof not aftbcted by such declatation eh6ll corrtireue to
+be in full force and effect;
+EE'fECTfUIff - This Ordinance shall take efrect immediately upon
+approrml;
+EilACIED, April 12, 2016, hy a majority 'note of all the Melrrt sra of the
+Senggtrnian prenmrt, ttme being 11 qnorrm,
+CERTIFIED CORRECT:
+F'or and in the abse,rrce of the Secretary:
+n\,axiock
+mLDA c. UHaro
+Acting Secretary to the SANGGUNIANG Panluagsod
+(A**i*tarrt '-qecretary to the $anggrrniang PanfurrTp
+
+I
+l1
+Pege 3 of :]
+0rd, No, 0516- 16
+^ppBglr:Fi3
+.4,l:'rf:-rill'::. . jrPSE OF
+RODRIGO R. DUTERTE
+City
+ATTESTED:
+ATTESTED:
+Te,mporary
+crrs/
+JR.
+City
+Offi.cer
+aTtr. JtErrB uELCrroR v. QrrrTAIn
+City Administrator

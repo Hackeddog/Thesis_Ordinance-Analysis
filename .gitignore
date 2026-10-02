@@ -44,9 +44,6 @@ outputs/reports/header_debug_*.txt
 # =====================================================================
 # Obsidian
 # =====================================================================
-# Generated notes are a projection of the pipeline output
-Thesis_Obsidian/Ordinances/**
-!Thesis_Obsidian/Ordinances/.gitkeep
 
 # Per-machine UI state (shared settings and plugins stay tracked)
 Thesis_Obsidian/.obsidian/workspace.json

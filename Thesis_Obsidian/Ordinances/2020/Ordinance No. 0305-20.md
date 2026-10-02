@@ -1,0 +1,304 @@
+---
+ordinance_number: "0305-20"
+title: "AN ORDINANCE GRANTING A SIXTY PERCENT (60%) REDUCTION ON RENTAL FEES OF STALLS/BOOTHS OPEN DURING THE PERIOD FROM APRIL 1 TO JUNE 30, 2020 IN ALL CrTY GOVERNMENT-OWNED/OPERATED PUBLIC MARKETS\", duly signed and approved. For the City Mayor: ATTY. TRISTAN Assistant Ci NGO (Administration) tv .t zle'Q ClrYllmer3OFFlCt coRBESPOitOEtCE Af{o RECOnOS DtV RELEASED. AUG 1 12020 .orrr$'uo*o Atmg $ttfi ADMIN"
+date_enacted: "2020-07-07"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0305-20.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/granting, topic/sixty, topic/percent, topic/reduction, topic/rental, topic/fees]
+---
+
+# Ordinance No. 0305-20
+
+> AN ORDINANCE GRANTING A SIXTY PERCENT (60%) REDUCTION ON RENTAL FEES OF STALLS/BOOTHS OPEN DURING THE PERIOD FROM APRIL 1 TO JUNE 30, 2020 IN ALL CrTY GOVERNMENT-OWNED/OPERATED PUBLIC MARKETS", duly signed and approved. For the City Mayor: ATTY. TRISTAN Assistant Ci NGO (Administration) tv .t zle'Q ClrYllmer3OFFlCt coRBESPOitOEtCE Af{o RECOnOS DtV RELEASED. AUG 1 12020 .orrr$'uo*o Atmg $ttfi ADMIN
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+q
+OFFICE OF THE CITYI\{AYOR
+bNc
+I
+..l
+a
+Ref. No. CAdO-2020-002128
+2Nd INDORSEMENT
+August t0,2020
+rAr{trnet
+Respectfully forwarded to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the within Legal Opinion No. 504, SERIES of 2020,
+dated July 28, 2020 of the City Legal Office, relative to the City Ordinance No. 0305-20,
+SERIES of 2020 entitled "AN ORDINANCE GRANTING A SIXTY PERCENT (60%)
+REDUCTION ON RENTAL FEES OF STALLS/BOOTHS OPEN DURING THE PERIOD FROM
+APRIL 1 TO JUNE 30, 2020 IN ALL CrTY GOVERNMENT-OWNED/OPERATED PUBLIC
+MARKETS", duly signed and approved.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant Ci
+NGO
+(Administration)
+tv
+.t
+zle'Q
+ClrYllmer3OFFlCt
+coRBESPOitOEtCE Af{o RECOnOS DtV
+RELEASED.
+AUG 1 12020
+.orrr$'uo*o
+Atmg
+$ttfi
+ADMINISTRATTVE AIDE IV
+aaF
+r25
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com 1
+/a
+Oa-?o2t)
+,,w,,'o',.@
+LIFE IS HERE
+
+Office of the SANGGUNIANG Panl
+July 22,2020
+4,+L0\
+2t?$
+\
+o
+T
+SARA Z. DUTERTE
+City Mayor
+tro-uq-dttgl'lU
+Madam
+pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+01296-20 and Ordinance No. 0305-20, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+t
+^M).,. {-
+cHARrro N. SAilTOS
+Secretary to the Sanggunian'g Panlungsod
+(City Government Department Head II)
+RE
+JUL
+ffi,
+cMo
+
+OFFICE OF THE CITY TEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc
+Ref. No. CLO-2020-002i28
+Opinion No 5Et,
+SERIES of 2020
+,rflcE 0F IHE CIIY
+'
+clil[lll
+orur0
+It
+RE: ORDINANCE NO. O3O5-20, SERIES OF 2O2O CNti
+JU
+ORDINANCE GRANTING A SIXTY PERCENT (60%) RE
+ON RENTAL FEES OF STALLS/BOOTHS OPEN DURING THE
+PERIOD FROM APRIL 1 TO ]UNE 30, 2O2O IN ALL CiTY
+GOVERNMENT-OWNED/OPERATED
+PUBLIC MARKETS"
+I" INDORSEMENT
+)uly 28,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance, finding the same
+free from legal infirmity citing SECTION 192 of RA 7160 otherwise known as the
+Local Government Code of 1991, to quote:
+"SECTION 192. Authority to Grant Tax Exemption Privileges. -
+Local government unlts may, through ordinances duly approved, grant tax
+exemptions, lncentlves or reliefs under such terms and conditions as they
+may deem necessary."
+Hence, it is recommended that the same be approved.
+ffi
+ADOTII\IISTRATOfi
+OFRGE
+2020
+-0t8Tt4
+'xhilATTY. MARLIgA A. GALLO, RSW
+Actlng Asst. City Legal Officer
+Approved
+ATTY. OSMU
+O P. VILANUEVA, JR.
+OIC-Acting City Legal Officer
+Date approved: )uly 29,2020
+,' r,lit ;tt.; -'1 1_rr,,, _n {u( I tin tot tf :tt:t). tltt :/_',y ; _],\ _,()
+!ttir:r'
+\e
+fl
+L 30 2,
+J
+q
+JU
+4^,g
+ue996299702
+roq.
+cMo coNTAO r: lil
+ATrVt AroE lv
+AN
+log" \.?1
+,1
+RECEIVED tlY:_
+DATE:--.-----.-,
+)
+
+V
+19th City Council
+23rd Regular Session
+SERIES of 2020
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+,
+Republic'of the Philippines
+Augusto Javier G. Campos III
+Sebastian Z. Dutefte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+-Temporary Presiding Offi cer
+ABSENT:
+Councilor Jaffar U. Marohomsalic
+- On Sick Leave
+ORDINANCE NO. O3O5.2O
+SERIES of 2O2O
+AN ORDINANCE GRANTING A SIXTY PERCENT (600/o)
+REDUCTTON ON RENTAL FEES OF STALLS/BOOTHS OPEN
+DURTNG THE PERTOD FROM APRIL I TO JUNE 30, 2020 IN
+ALL CITY GOVERNMENT-OWNED/OPERATED pUBLIC
+MARKETS
+
+Page 2. of 3
+Ord. No. 0305-20
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known and cited as *AN
+ORDINANCE GRANTING A SIXTY PERCENT (600/o) REDUCTION ON RENTAL
+FEES OF STALTS/BOOTHS OPEN DURING THE PERIOD FROM APRIL 1 TO JUNE
+3A, 2O2O IN ALL CITY GOVERNMENT.OWNED/OPERATED PUBLIC MARKETS'
+SECTION 2. AUTHORITY- SECTION 22 (d), Republic Act 7160, othenruise known
+as the Local Government Code of 1991, provides "Local Government Units shall enjoy
+full autonomy in the exercise of their proprietary functions subject to the limitations
+provided in this Code and other applicable laws".
+SECTION 3. COVERAGE- The provisions of the Ordinance shall apply to all City
+Government-owned/operated pu bl ic market.
+SECTION 4. REDUC-IION OF RENTAL FEES - The market rental fees of
+stalls/booths open during April 1 to June 30, 2020 shall be reduced by sixty percent
+(60o/o).
+If said rental fees have already been paid, the reduction shall be applied to
+the succeeding monthly rental.
+SECTION 5. INTERESTS. SURCHARGES, AND PENALTIES- All interests,
+surcharges, and penalties for non-payment shall be computed based on the reduced
+monthly rental.
+SECTION 6. SEPARABILITY CLAUSE- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 7. REPEALING CLAUSE- The provisions of this Ordinance shall be
+read in accord with Ordinances No. 0243-20 and 0278-20, both SERIES of 2020.
+SECTION 8. EFFECTIVITY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 7th day of July, 2020, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cAwSnI,&flro,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head IIl
+
+I
+Ord. No. 0305-20
+ATTESTED:
+ATTESTED:
+Mayqr.tl
+POS III
+Counci
+Temporary Presiding Officer
+cns/kate
+Jur'1 30
+APPRovEo: 3 0 JUL 2020 .2o2o
+DUTERTE
+y' ciry
+^ffir,opEz
+Cit,r Administfhnr C
+Granting a Sixty Percent (5oolo) Reduction on the Rental Fees of Stails/Booths

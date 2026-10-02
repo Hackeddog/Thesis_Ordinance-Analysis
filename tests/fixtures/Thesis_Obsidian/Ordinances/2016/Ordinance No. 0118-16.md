@@ -1,31 +1,29 @@
 ---
-title: "AN ORDINANCE AMENDING ORDINANCE NO. 0234-15, SERIES OF 2015, OTHERWISE KNOWN AS THE DAVAO CITY TRAFFIC CODE, AND FOR OTHER PURPOSES"
 ordinance_number: "0118-16"
-aliases: ["Ordinance No. 0118-16", "0118-16"]
-corpus_year: 2016
+title: "AN ORDINANCE AMENDING ORDINANCE NO. 0234-15, SERIES OF 2015, OTHERWISE KNOWN AS THE DAVAO CITY TRAFFIC CODE, AND FOR OTHER PURPOSES"
+date_enacted: "2016-04-05"
+approval_date: "2016-04-12"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0118-16.pdf"
+section_count: 1
+verification_status: "unverified"
 folder_year: 2016
 resolved_year: 2016
-enactment_date: "2016-04-05"
-approval_date: "2016-04-12"
-series_year: 2016
-council_term: 18
-session: ""
-sponsor: ""
-approving_mayor: ""
-presiding_officer: ""
+corpus_year: 2016
 temporal_status: "valid"
 confidence_score: 1.0
+detected_enactment_year: 2016.0
+detected_ordinance_number_year: 2016
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
 resolution_source: "consensus"
-manually_verified: false
-included_in_corpus: true
-extraction_method: "Digital"
-page_count: 1
-word_count: 65
-section_count: 1
-whereas_count: 2
-source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\tests\\fixtures\\data\\raw\\2016\\Ordinance No. 0118-16.pdf"
-sha256: "7b99275c4d46c54c"
-indexed: "2026-09-08"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
 tags: [ordinance, davao, year/2016, status/valid, type/amendatory, topic/traffic, topic/code]
 ---
 

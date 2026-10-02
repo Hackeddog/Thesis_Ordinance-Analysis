@@ -1,0 +1,500 @@
+---
+ordinance_number: "0758-25"
+title: "AN ORDINANCE AMENDING CITY ORDINANCE NO. 0334.L2, SERIES OF 2012, OTHERWISE KNOWN AS THE \"COMPREHENSIVE TRANSPORT AND TRAFFIC CODE OF DAVAO CITY'; fOT YOUT information and appropriate action. For the City Mayor: Digitally signod bY Lryog t ^ FEnciB Mark Hgnar€B i7, @'ffii::;;::il:'; thb doilment. ATTY. FRANCIS MARK H. LAYOG Gty Administrator 0)r.8ls - g4 ,t*:ffi\"* SED 2i25 dtu lt1 RELE I,IAY 1 a,a"
+date_enacted: null
+approval_date: "2025-04-02"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0758-25.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2025
+resolved_year: 2025
+corpus_year: 2025
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2025.0
+detected_series_year: 2025.0
+detected_approval_year: 2025.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2025, status/valid, type/amendatory, topic/comprehensive, topic/transport, topic/traffic, topic/code, topic/yout, topic/information]
+---
+
+# Ordinance No. 0758-25
+
+> AN ORDINANCE AMENDING CITY ORDINANCE NO. 0334.L2, SERIES OF 2012, OTHERWISE KNOWN AS THE "COMPREHENSIVE TRANSPORT AND TRAFFIC CODE OF DAVAO CITY'; fOT YOUT information and appropriate action. For the City Mayor: Digitally signod bY Lryog t ^ FEnciB Mark Hgnar€B i7, @'ffii::;;::il:'; thb doilment. ATTY. FRANCIS MARK H. LAYOG Gty Administrator 0)r.8ls - g4 ,t*:ffi"* SED 2i25 dtu lt1 RELE I,IAY 1 a,a
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2025 |
+| Series header | 2025 |
+| Approval date | 2025 |
+| **Resolved** | **2025** |
+
+## Cites or amends
+
+- [[Ordinance No. 0334-12]]
+
+## Context
+
+- Year index: [[_Index 2025]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 14,410 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2025\Ordinance No. 0758-25.txt`*
+
+rtm PHTLTPPTNES
+OFFICE OF THEcruyMaYoR
+CITY OFDAVAO
+REPUBLIC Oq
+,4
+Ref. No, CAdO-032825-54
+2NA INDORSEMENT
+May 15,2025
+(fa
+I
+Ii
++
++
+i5
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+panlungsod, this City, the within Legal Opinion No. 250, SERIES of 2025 dat,ed April 2,
+ZOZ5, From the City Legal Office, relative to the attached duly signed and approved
+Ordinance No. 0758-25, SERIES of 2025 entitled, "AN ORDINANCE AMENDING CITY
+ORDINANCE NO. 0334.L2, SERIES OF 2012, OTHERWISE KNOWN AS THE
+"COMPREHENSIVE TRANSPORT AND TRAFFIC CODE OF DAVAO CITY'; fOT YOUT
+information and appropriate action.
+For the City Mayor:
+Digitally signod bY Lryog
+t
+^
+FEnciB Mark Hgnar€B
+i7, @'ffii::;;::il:';
+thb doilment.
+ATTY. FRANCIS MARK H. LAYOG
+Gty Administrator
+0)r.8ls - g4
+,t*:ffi"*
+SED
+2i25
+dtu
+lt1
+RELE
+I,IAY 1
+a,a^ft
+,
+f
+r-r{J(-l?t
+ATBINA
+ADmtiltgTRAnVEA|OE lll r 0'l
+TIMEr
+cnNrAnr No. t0821241-1000 Lac.m
+4ls'
+-]/lq
+Brw @
+2nd Floor, City Hall Building, San Pedro St., Davao City
+A 241-1000 W cmo@davaocity.gov.ph
+LIFE
+XEtE
+socoTEc
+
+t
+March 27, 2025
+o?t99
+SEBASTIAJ{ Z. DUTERTE
+City Mayor
+CITY OF Dn
+CITY LEGAL
+REC
+,,M\^+^^.acHAR,rro NARrro- SANTOS
+City Government Department Head II
+(Secretary to the SANGGUNIANG Panlungsod)
+E
+?
+I
+Sir:
+DATE:
+TIME.
+NAME:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I of Republic Act No. 7t60, otherwise
+known as the Local Government Code of 1991, we are furnishing you a copy of
+Resdutiur I'lo'. &+t&t-25 ard Ordfirarce l{o. O75&2li botlT SERIES ofi 2025 of the
+SANGGUNIANG Panlungsod, entitled 'AN ORDINANCE AMENDING CITY
+oRDTNANCE NO. O334-L2, SERTES OF 2012, OTHERWISE KNOWN AS THE
+'COMPREHENSM TRANSPORT AilD TRAFFIC CODE OF DAVAO CITY" for your
+infurmation, guidance and appropriate action.
+Very truly yours,
+n L"h
+ffi!
+t
+rQ
+fu\)
+l,i,'
+VE
+z;r5
+tsAY O
+3F, SANGGUNIANG Panlungsod, San Pedro St., Davao City 8000
+8 ZZz-OaSs l[
+sp@davaocity.govgh
+o
+SOIfC
+LIFE
+IS HEtE
+t
+I
+
+- Office of the City Legd Offi&er
+-
+Ref. No. CLO-2025-1151
+LEGAL oPrNroN y1g. xc
+SERIES OF 2025
+"RE: ORDINANCE NO. 0758-25 SERIES OF 2025 ENTITLED
+*AN ORDINANCE AMENDING ORDINANCE NO. 0334. L2,
+SERTES OF 2412, OTHERWTSE
+*COMPREHENSIVE TRANSPORT AND
+DAVAO CITY"
+l't INDORSEMENT
+April 2, 2A25
+Respectfully forwarded to the Office of the City Mayot, through the Office
+of the City Administrator, both this City, the herein Ordinance No. 0758-25,
+SERIES of 2025, informing your end that the enacEnent of the same is well within
+the powers of the SANGGUNIANG Panlungsod.
+The SANGGUNIANG Panlungsod has the inherent power to enact, modiff,
+amend or repeal an ordinance. Thus, in the case of Yakazi Torres
+Manufacturing, Inc. v. Court of Appeals, the Supreme Court held that:
+The legislative power has been desribed generally as the power to
+makq alter, and repeal laws. The authoritv to amend change or
+modify a law is thus part of such leaislative power.
+IN VIEW OF THE FOREGOING PREMISES, it is recommended that the
+Ordinance be approved.
+Respectfu I ly su bmitted.
+I
+l
+a
+ATTY.
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA, JR.
+Acting City Legal Officer
+Date of approval: April 2, 2025
+C,TY OF DaVHO
+CITY LEGAL OFFICE
+*ffi
+rltulE
+.fQ -C - t?,F
+0 lc25
+lr2: trO
+.1000
+@
+#
+SAY O
+Room 24, City Hall Bdlg., San Pedro St., Davao City
+3 ZcA-6ezo /241-looo Loc. 267,225,230 E clo@davaocity.gov.ph
+io
+3@taa
+J /ll\iF:
+
+?
+Office of the City Legal Offi8er
+'
+Ref. No. CLO-2025-1151
+LEGAL OPINION NO. 2TO
+SERIES OF 2025
+"RE: ORDINANCE NO. 0758-25 SERIES OF 2025 ENTITLED
+*AN ORDINANCE AMENDING ORDINANCE NO. 0334.,.2,
+SERIES OF 2OL2, OTHERWISE KNOWN AS THE
+*COMPREHENSIVE TRANSPORT AND TRAFFIC CODE OF
+DAVAO CITY"
+1St INDORSEMENT
+April 2, 2025
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the herein Ordinance No. 0758-25,
+SERIES of 2025, informing your end that the enactment of the same is well within
+the powers of the SANGGUNIANG Panlungsod.
+The SANGGUNIANG Panlungsod has the inherent power to enact, modiff,
+amend or repeal an ordinance. Thus, in the case of Yakazi Torres
+Manufacturing, fnc. v. Court of Appeals, the Supreme Court held that:
+The legislative power has been dercribed generally as the power to
+make, alter, and repeal laws. The authoriU to amend chanoe or
+modifu a law is thus part of such leoislative power.
+IN VIEW OF THE FOREGOING PREMISES, it is recommended that the
+Ordinance be approved.
+Respectfu lly su bmitted.
+r
+Approved by:
+ATTY. OSMUN
+P. VILIAilUEVA, JR.
+Acting City Legal Officer
+Date of approval: April 2, 2025
+CITY OF DTTVPO
+I"TY LEGAL OFtrICE
+REtffiASF.D
+)A'IE: APR tl J Jiil'3
+Room 24, City Hall Bdlg.. San Pedro St., Davao City
+i
+zca-6970 / 24t-l0oo Loc. 267,225,230 E clo@davaocity.sov.ph
+i(I
+a@ta€
+E'A\T O
+T''E
+IS
+HtBE
+
+-
+20th City Councit
+7fr Regular Session
+SERIES of 2025
+Republlc of fhe Philippines
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul tvtercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+- Presiding Officer
+- OB- Attended a Consultative
+Meeting at the Congressional
+Office of Hon. Paolo Z. Duterte
+PRESENT:
+ABSENT:
+Councilor
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Courrci[or
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor Wilberto E. Al-ag
+- On Special Privilege Leave
+Councilor January N. Duterte
+- OB- Attended the Barangay
+Council for Women Monthly
+I,leeting
+ORDITIANCE NO. 0758-25
+SERIES of 2O25
+AT{ ORDIT{ANCE ATIENDIT{G CITY ORDIT{ANCE I{O. O334.L2, SERIES
+OF 2012' OTHERWISE XIIOWil AS THE *COI,IPREHEIISM TRAIISPORT
+AT{D TRAFFIC CODE OF DAVAO CITY"
+I
+
+Ord. No. 0758-25
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AMENDING CITY ORDINANCE NO. A334-L2, SERIES OF zOtZ,
+OT}IERWISE KIUOWI{ AS THE *COMPREHENSIYE TRATISPORT AT{D
+TRAFFIC CODE OF DAVAO CfilO.
+SECTION 2. OBJECTIVES -
+l. To revisit the provisions of the Traff,rc Code Ordinance considering
+that it was promulgated thirteen (13) years ago (2012) in which the
+traffic conditions and transportation challenges and landscape of the
+City are already far from the present situation due to the increased
+influx of population and vehicles plying the streets, booming
+infrastructure, such as condominiums and subdivisions, and other
+econornic growth indicators that makes Davao City a prime hub for
+local and international destination;
+2. In order to adapt and be more apt to the recent needs of the
+transpoftation demands of the city, which includes the intention to
+make the lives of those involved in the transport sector more
+sustainable.
+SECTIOil 3, AMENDMENTS -
+The following amendments shall be introduced, to wit:
+*SECTION 90. MOTORIZED TRICYCTE FOR HIRE REGISTRATION AND
+LICENSING. An owner/operator/driver shall register and secure a license from the
+City Transpoft and Traffic Management Office in order to operate an authorized
+motorcyde-for-hire:
+)oo(
+)oo(
+)oc(
+(2.) Registration and Licensing - Applicants shall submit a duly accomplished
+registration form at the City Transport and Traffic Management Office,
+with the following requirements:
+(a)
+Owner of New Unit
+(i)
+Official ReceipflCertificate of Registration indicating with
+sidecar/cab;
+Official ReceipVAbsolute Deed of Sale of the sidecar/cab
+attached to the unit;
+Motorcycle Registration Papers from LTO;
+Drive/s License ftom LTO;
+Completed registration form;
+Barangay clearance where the operation would take
+place;
+(iD
+(iii)
+(iv)
+(v)
+(vi)
+
+I
+I1
+Page
+Ord.
+s ois
+No. 0758-25
+(vii)
+(viii)
+(ix)
+(x)
+(b) For the driver
+(i)
+(iD
+(iii)
+(iv)
+(v)
+(vi)
+(xi)
+Health Certificate from the Gty Health Office;
+Police Clearance;
+Residence Certificate;
+Common carrier insurance for passengers and third
+party;
+BARAT{GAY CERTIFICATION OF AVAITABILITY OF
+PRTVATE PARKING AREA FOR THE UNIT
+Residence Certificate;
+Barangay Clearance;
+Health Ceftificate from the City Health Office;
+Police Clearance;
+LTO-issued d river's license;
+Ceftification from the owner/operator who hires the
+Driver's services;
+IT{ CASES WHERE THE OWNER IS NOT THE
+DRIVER, A BARAilGAY CERTIFICATION OF
+AVAILABILITY OF PRIVATE PARKING AREA
+OF THE UNIT;
+(vii)
+with reference to sub-paragraph (aXvi) and sub-paragraph (bxiii), health
+examination shall be conducted on driving fitness of the owner and/or driver of the
+MTH which shall include, but not limited to, vision examination, physical
+examination, sense of hearing, among others, provided however, that the
+examining physician shall have the authority to recommend or deny the applicant's
+fitness to drive.
+Motorized Tricycle Operatorc Permit (MTOP) shall be issued to
+ownerc/operatorc for every unit of Motorized Tricycle-for-hire upon
+oavment of the followinq regulatory fees in the CiW Treasure/s Officel
+Regulatory Fees
+Amount
+o Franchise/provisional authority Php 1,000
+. Registration Fee
+. Filing fee for MTOP per unit
+. Fare adjustment fee for fare increase
+. Filing fte fur Amendment of MTOP
+(to be collected upon application)
+. Supervision fee
+(pevnaLe on oR arrom sepreMaen go rvenv z vEARs)
+. Business Permit Fee payable to Business Bureau 200
+(PAYABLE ON OR BEFORE JANUARY 20 EVERY 2 YEARS)
+. CTTIvIO issued drive/s ID
+. Penalty for late renewal of MTOP
+25o/o of the amount
+. Penalty for late renewal of business permit 25o/o of the amount
+. Penalty for lost CTTl"lo-issued license plate
+
+t
+SECNON 91. DISPOSITION OF MONIES COTLECTED
+Source of Revenue
+City Government
+Barangay
+. 2 YEARS FRANCHISE FEE 100o/o TMTF
+. Filing fee of MTOP
+50o/o TMTF
+50o/o
+o
+Fare adjustrnent fee
+50o/o TMTF
+. Superyision fee
+. Business permit fee
+50o/o TMTF
+100o/o (General Fund)
+Ord. No. 0758-25
+50o/o
+(OiviOeO equatly to
+Barangays traversed
+by MTH operation
+per MTOP)
+50o/o
+SECTION 92. OPERATITG COilDITIOIIS OF MOTORIZED
+TR.ICYCLE FOR HIRE.
+(a) only approved prototype sidecar/center car designed and
+recommended by the crrl\4o shall be allowed for transport of
+passengers and qualified for the issuance of franchise; provided
+however, that an MTH moving on any road used for transporting
+passengers, or waiting, parking or standing conspicuously soliciting
+passengerc with sidecar/center car not in conformity with the
+approved prototype shall be apprehended and shall be impounded in
+the City impounded area;
+(b) A driver shall not conduct and/or operate a MTH at any time on
+national roads and highways;
+(c) MTH terminal and routes assigned and approved by the City
+Transport and rraffic Management office (crTT'to) shall be strictly
+followed;
+(d) only approved fare by the city Motorized Tricycle-for-Hire,
+Franchising and Regulatory committee shall be collected for every
+passenger;
+(e) An applicant mav be oranted a maximum of Five (5) unib
+for a sinole MTOP Franchise Reoistrationi
+(O The validity of MTOP/MTH Franchise Reoistration shall be
+valld for ftvo (21 vearc;
+(g) A driver shall conspicuously display the coded crrMo-issued MTH
+license plate in front and inside the cab facing the passenger; this is
+mide from the license plate issued by the [-and rransportation ffice
+which shall be conspicuously displayed;
+(h) A driver shall only conduct passengers and goods/cargos that
+meet the capacity of the MTH so as not to endanger the Iives of the
+passen9ers;
+
+Ord. No. 0758-25
+(i) The driver of MTH shalt carry at ail times the photocopy of ffrop,
+LTo-

@@ -1,0 +1,201 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND BUREAU OF FIRE PROTECTION-REGION xI, RELATM TO THE LATTER',S USE OF A CITY- owNED PROPERTY AS FrRE STATTON SrrE, LOCATED rN TALOMO DTSTRTCT, THIS CITY"
+date_enacted: "2021-09-14"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000723-21.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.75
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: null
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/deed]
+---
+
+# Ordinance No. 000723-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND BUREAU OF FIRE PROTECTION-REGION xI, RELATM TO THE LATTER',S USE OF A CITY- owNED PROPERTY AS FrRE STATTON SrrE, LOCATED rN TALOMO DTSTRTCT, THIS CITY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | - |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+City of Dayao
+Office of the Sangguni:lng Panlungsod
+19th City Council
+34th Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+Councilor Richlyn N. Justol-Baguilod
+Edgar P. Ibuyan Jr.
+- Temporary presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- On Official Business
+- On Domestic Emergency Leave
+ORDINANCE NO. O723.2L
+SERIES of 2O2l
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+CITY OF DAVAO, THE DEED OF USUFRUCT TO BE
+ENTERED INTO BY AND BETWEEN THE CITY OF
+DAVAO AND BUREAU OF FIRE PROTECTION-REGION
+xI, RELATM TO THE LATTER',S USE OF A CITYowNED PROPERTY AS FrRE STATTON SrrE, LOCATED
+rN TALOMO DTSTRTCT, THIS CITY
+
+i)
+Ord. No. 0723-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTIOil 1. TfTLE. This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED INTO BY AND
+BETWEEN THE CITY OF DAVAO AND BUREAU OF FIRE PROTECTION-REGION XI,
+REIATIVE TO THE I.ATTER'S USE OF A CITY.OWNED PROPERTY AS FIRE STANON
+SITE, LOCATED IN TALOMO DISTRICT, THIS C[TY'.
+SECTION 2. DECIARATION OF POLICY - SECTION 16 and SECTION 455 (b) (1)
+(vi) of the Local Government Code of 1991 or RA 7160 provides that:
+SECTION 16. General Welfare. Every local government unit shall exercise the
+powers expressly granted, those necessarily implied therefrom, as well as
+powers necessary, appropriate, or incidental for its efficient and effective
+governance, and those which are essential to the promotion of the general
+welfare. Within their respective territorial jurisdictions, local government units
+shall ensure and suppoft, among other things the preservation and
+enrichment of culture, promote health and safety, enhance the right of the
+people to a balanced ecology, encourage and suppoft the development of
+appropriate and self-reliant scientific and technological capabilities, improve
+public morals, enhance economic prosperity and social justice, promote full
+employment among their residents, maintain peace and order, and presewe
+the comfort and convenience of their inhabitants.
+SECTION 455. Chief Executive: Powerc, Duties and Compensation.
+)oo(
+(b) For efficient, effective and economical governance the purpose of which is
+the general welfare of the city and its inhabitants pursuant to SECTION 16 of
+this Code, the city mayor shall:
+(1) Exercise general superuision and control over al! programs, proiects,
+seruices, and activities of the city government and in this connection, shall:
+(vi) Represent the city in all its business transactions and sign in its behalf all
+bonds, contracts, and obligations, and such other documents upon authority
+of the SANGGUNIANG Panlungsod or pursuant to law or ordinance."
+SECTIOil 3. AIIIHQBIIf - The City Mayor is hereby granted Iegislative
+authority to enter into and sign, the Deed of Usufruct to be entered into by and
+between the City of Davao and the Bureau of Fire Protection - Region )G, relative to the
+latter's use of a City-Owned Property located in Talomo District, this City, as Fire Station
+Site.
+no(
+)oc(
+.t
+
+Ord. No. 0723-2L
+tb g
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY- The provisions of this Ordinance shall take effect
+immediately upon approval.
+ENACTED, on the 14th day of September 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cnM,J.,#io,
+Secretary to the Sangguhiang Panlungsod
+(City Government Department Head II)
+ATTESTED:
+ATTESTED:
+EDGAR P.
+JR.
+President Pro Tempore
+Temporary Presiding Officer
+cns/johanna
+APPROVED:
+OcT aB lltJlll: ,zoz.',
+SARA Z. DUTERTE
+- city Mayor
+I
+z.
+Actlng Clty
+DUTERTE
+nryo, {
+ATTY.
+T
+City Administrator a
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND IN BEHALF OF
+THE CTTY OF DAVAO, THE DEED OF USUFRUCTTO BE ENTERED INTO BY AND BETWEEN THE CITY OF
+DAVAO AND BUREAU OF FIRE PROTECTION-REGION )C, REI-ATIVE TO THE LATTER',S USE OF A CITYOWNED PROPERTY AS FTRE STANON SITE, LOCATED IN TALOMO DISTRICT, THIS CITY

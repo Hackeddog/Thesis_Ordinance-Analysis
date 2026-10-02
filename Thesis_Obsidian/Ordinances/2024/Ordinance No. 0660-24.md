@@ -1,0 +1,214 @@
+---
+ordinance_number: "0660-24"
+title: "AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORIW TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) BETWEEN THE CITY OF DAVAO AND THE UNIVERSITY OF SOUTHEASTERN PHILIPPINES (USEP), FOR PARTNERSHIP IN PROMOTING AND REALIZING ITS MANDATES IN PURSUIT OF SUSTAINABLE DEVELOPMENT BY EMPOWERING QUALIW EDUCATION IN DAVAO CITY"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0660-24 MOU USeP (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/granting, topic/legisi, topic/ative, topic/authoriw, topic/mayor, topic/enter]
+---
+
+# Ordinance No. 0660-24
+
+> AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORIW TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) BETWEEN THE CITY OF DAVAO AND THE UNIVERSITY OF SOUTHEASTERN PHILIPPINES (USEP), FOR PARTNERSHIP IN PROMOTING AND REALIZING ITS MANDATES IN PURSUIT OF SUSTAINABLE DEVELOPMENT BY EMPOWERING QUALIW EDUCATION IN DAVAO CITY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+41st Regular Session
+SERIES of 2O24
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+Edgar P, Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+J. Melchor B, Quitain Jr.
+Bernard E. Al-ag
+Jessica M. Bonguyan
+Augusto Javier G. Campos III
+January N. Duterte
+Kristine May John Abdul Mercado
+Myrna G. L'Dalodo-Ortiz
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Alberto T. Ungab
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+-Temporary Presiding Officer
+- OB-Acting City Mayor
+- On Maternity Leave
+- On Vacation Leave
+- On Official Business
+- On Sick Leave
+ORDINANCE NO. 0660.24
+SERIES of 2024
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORIW TO THE
+CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING
+(MOU) BETWEEN THE CITY OF DAVAO AND THE UNIVERSITY OF
+SOUTHEASTERN PHILIPPINES (USEP), FOR PARTNERSHIP IN
+PROMOTING AND REALIZING ITS MANDATES IN PURSUIT OF
+SUSTAINABLE DEVELOPMENT BY EMPOWERING QUALIW
+EDUCATION IN DAVAO CITY
+
+Ord. No. 0660-24
+Be it ordained by the Sangguqiang Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE
+MEMORANDUM OF UNDERSTANDING (MOU) BETWEEN THE CITY OF
+DAVAO AND THE UNIVERSIil OF SOUTHEASTERN PHILIPPINES (USeP),
+FOR PARTNERSHIP IN PROMOTING AND REALIZING ITS MANDATES IN
+PURSUIT OF SUSTAINABLE DEVELOPMENT BY EMPOWERING QUALITY
+EDUCATION IN DAVAO CIW".
+SECTION 2. DECLARATION OF POUCY - SECTION 16 and SECTION 455, (a)
+(b) (1) (vi) of Republic Act No. 7L60 or the Local Government Code of 1991
+provides, to wit:
+"SECTfiON 76. General Welfare. - Every local government unit shall
+exercise the power expressly granted, those necessarily implied
+therefrom, as well as powers necessary, appropriatq or incidental for its
+efftcient and effective governance, and those which are essential to the
+promotion of the general welfare. Within their respective teritorial
+jurisdictions, local government units shall ensure and support, among
+other things, the preseruation and enrichment of culture, promote health
+and safety, enhance the right of the people to a balanced ecology,
+encourage and support the development of appropriate and self-reliant
+scientific and technological capabilities, improve public morals, enhance
+economic prosperity and social justice, promote full employment among
+their residents, maintain peace and order, and preserue the comfort and
+convenience of their inhabitants. "
+"SECTION 455. Chief Executivel Powers, Duties and Compensation.-
+(a) The city mayor, as chief executive of the city government, shall
+exercise such powers and perform such duties and functions as provided
+by this Code and other laws.
+(b) For efficient, effective and economical governance, the purpose of
+which is the general welfare of the city and its inhabitants pursuant to
+SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices and activities of the city government, and in this
+connection shall:
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+
+i
+I
+Ord. No. 0660-24
+SECTION 3. AUTHORIW - The City Mayor is hereby granted legislative
+authority to sign, for and in behalf of the City of Davao, the Memorandum of
+Understanding (MOU) between the City of Davao and the University of
+Southeastern Philippines (USeP), for partnership in promoting and realizing its
+mandates in pursuit of sustainable development by empowering quality education
+in Davao City.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in ful! force
+and effect.
+SECTION 5. EFFECTMW - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on the sth day of November 2024, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ A'v"6 \'/*'
+CHARITO N. SANTOS
+City Government Depaftment Head II
+(Secretary to the SANGGUNIANG Panlungsod)y'
+ATTESTED:
+UNGAB
+Acting Vice Mayor
+Temporary Presiding Officer
+cns/ray
+APPROVED:
+DEC I 3 2024
+2024
+DUTERTE
+r
+ATTESTED:
+ATTY.
+RK H. LAYOG
+strator
+AN ORDINANCE GRANTI
+LEGISI-ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING
+(MOU) BETWEEN THE CITY OF DAVAO AND THE UNIVERSTry OF SOUTHEASTERN PHIUPPINES
+(USeP), FOR PARTNERSHIP IN PROMOTING AND REALIZING ITS MANDATES IN PURSUIT oF
+SUSIAINABLE DEVELOPMENT BY EMPOWERING QUALITY EDUCATION IN DAVAO CITY
+SE
+Ci

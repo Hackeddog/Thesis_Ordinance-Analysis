@@ -1,0 +1,350 @@
+---
+ordinance_number: "0519-16"
+title: "AN ORDINANCE GRANING FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD ALONG AURORA-MABINI STREETS AND MABINI-ARTIAGA STREETS, BARANGAY 33-D, POBLACION DISTRICT, DAVAO Cffi, ON MAY 3,20L6, FROM 7:00 A.M UNTIL 12:00 MIDNIGHI IN CELEBRATION OF THE ANNUAL FIESTA OF GKK STA. CRUZ ZONE 9, PUROK 3 MNBIf.JI , OF THE SAME BARANGAY\" with the information that this has been lapsed into law. For your"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0519-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/graning, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/road]
+---
+
+# Ordinance No. 0519-16
+
+> AN ORDINANCE GRANING FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD ALONG AURORA-MABINI STREETS AND MABINI-ARTIAGA STREETS, BARANGAY 33-D, POBLACION DISTRICT, DAVAO Cffi, ON MAY 3,20L6, FROM 7:00 A.M UNTIL 12:00 MIDNIGHI IN CELEBRATION OF THE ANNUAL FIESTA OF GKK STA. CRUZ ZONE 9, PUROK 3 MNBIf.JI , OF THE SAME BARANGAY" with the information that this has been lapsed into law. For your
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | - |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.oo*o
+flffiis
+OFFICE OF THE CITYMAYOR
+2nd Endorsement
+06 May 2016
+Respectfully forwarded to Ms. CHARITO N. SANTOS,
+SANGGUNIANG Panlungsod, this City the herein documents relative to City
+0519-16, SERIES of 2016 entitled 'AN ORDINANCE GRANING FOR THE TEMPORARY
+CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD ALONG AURORA-MABINI STREETS
+AND MABINI-ARTIAGA STREETS, BARANGAY 33-D, POBLACION DISTRICT, DAVAO
+Cffi, ON MAY 3,20L6, FROM 7:00 A.M UNTIL 12:00 MIDNIGHI IN CELEBRATION OF
+THE ANNUAL FIESTA OF GKK STA. CRUZ ZONE 9, PUROK 3 MNBIf.JI , OF THE SAME
+BARANGAY" with the information that this has been lapsed into law.
+For your information and appropriate action.
+Thank you.
+RODRIGO R. DUTERTE
+City Mayor
+By:
+D. DALUMPINES
+Chief-of-Staff
+cMo. cRp
+RETEASED
+/lcsp
+sY:-0oer*Q/eJ e1lir[:
+I
+- f-/7'ar
+Lo- t- \h
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224-587 8 . d ava ocitym ayo r@g ma i l.co m
+D
+& I
+*
+
+t
+4-+zz
+,tsr;LL- UF I Fitr Utt yAtlirr.f(luinr.,ur
+RM.22, CITY I|ALL BUILO|NC
+d.Wla
+CAVAO CI
+'Y
+rt ^-..1^!i^
+^5 IL^
+nLili^Ai6^^
+r\EPL.lUTtL lytt LltE rltIllPPlllEJ
+OFFICE OF THE CITY LEGAL OFFI
+City of Davao 925.1
+tli;i:rYtD
+L
+G
+C
+I
+No.
+3 srie* of
+A. GALLO.- RSW
+ey 1V
+..AIE
+rrE
+Ref. No. 1131-16
+- ct --.
+I- INI",L'T(DEIIIEnl I
+April 22, 2A76
+I
+Respectfully forwarded to the Office of the City Mayor, through
+the Office of the City Administrator, both this City, the attached
+Orciinance No. 0519-i6 SEFdES OF 20ro, entitieci ''nN ORDINAi\ICE
+FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE
+ROAD AI-ONG CORNER AURORA-MABINI STREETS AND MABINI.
+ARTIAGA STREETS, BARANGAY 33-D, POBLACION DISTRICT, DAVAO
+CITY, ON MAY 3,2076, FROM 7:00 A.M. UNTIL 12:00 MIDNIGHT, IN
+CELEBRATION OF THE ANNUAL FIESTA OF GKK STA. CRUZ, ZONE 9,
+PUROK 3,
+MABINI, OF THE SAME BARANGAY
+" informing your end that the same is free from legal infirmity citing
+RA 7160, otherwise known as the Local Government Code of 1991, to
+quote:
+SECTION 21. Closure and Opening of Roads. (a) A local
+government unit may, pursuant to an orclinance, permanentiy or
+temporarily close or open any local road, alley, park, or square falling
+within its jurisdiction: Provided, however, That in case of permanent
+closure- such ordinance must be approved by at least two-thirds (213)
+of all the members of the sanggunian, and when necessary, an
+adequate substitute for the public facility that is subject to closure is
+providecl.
+xxx
+A^., h-+i^^^l
+^- l^^^l
+-^^/-l
+^ll^.,
+^--1,
+l^^
+\9/ nlry
+rrqllvrrqr
+vr tvlsr
+Ivqu,
+qllEI,
+lrqlN,
+vt gYuqls
+Il
+,9s
+temporarily closed during an actual emergency, or fiesta celebrations,
+public rallies, agricultural or industrial fairs, or an undertaking of public
+works and highways, telecommunications, and waterworks projects.
+the duration of which shall be specified by the local chief executive
+concerned in a written order: Provided, however, That no national or
+l^^^l
+F^^..1
+^ll^.,
+n^-1,
+-L^ll
+L^
++^H^^-^-i1.,
+^l^-^A
+6^-
+rvvqr
+ivau,
+qrrs)r,
+Hqrn,
+vl
+oYuqrs
+9rrqrl
+ug
+LglllPvlsllly
+glvJgu
+lvl
+athletic, cultural, or civic activities not officially sponsored, recognized,
+or approved by the local government unit concerned".
+IN VIEW THEREOF this office recommends the approval of the
+same
+RES PECTFU LLY S UBMITTE D.
+ATTY. MAR
+A
+Aooroved bv:
+_ -f-f-_
+-
+-
+-
+ATTY.OSMUN
+. VTLLANUEVA, JR
+Artinn
+I enal f)ffirer
+--9-'
+a
+ECH!VEM
+o.
+7i)o
+Datp annrnrrerl' APRTI 2? ?, 16.
+V6 ^17- Ld
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW ,!r.r
+April 2I,2016
+RODRIGO R. DUTERTE
+City Mayor
+ff
+Sir
+Wu -oo?e P.P&
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title
+Five, Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160,
+otherwise known as the Local Government Code of 1991, we are furnishing
+you a copy of Resolution No.02818-16 and Ordinance No.0519-16, both
+SERIES of 20 16 of the SANGGUNIANG Panlungsod, for your information, guidance
+and appropriate action.
+Very truly yours,
+arftkrrornt
+Secretary to the
+Panlungsod
+(City Government Department Head II)
+RECEIVET}
+61"
+I
+cns/psm
+46'\ros
+
+Republic of the Phi liPPines
+CttY of Davao
+17tJ? City Courcil
+14o Rctglrr Sordoo
+Serir",s of 2O16
+PRESEfff:
+Oil OT'FICIAL BUSII|TSS:
+Vice ltilayor Paolo Z. Duterte
+Couneilor April Marie C. Dayap
+ASEEXTT:
+Victorio U. Advine..lrla Jr.
+Nilo M. Abellerrr Jr.
+Maria Beje.n S- Aeosta
+Ele.rnarct E. Al-ag
+Al Rlan S. Alejandre
+Lore.lyn T. Avila
+Karlo S. Bello
+Joanne hI. Bonguyan-Quilos
+Louie John J, Brrnguyan
+Danilo C. Dayanghimng
+Jimm5r ti. Dureca
+Edgar R. Ibr4"an Sr,
+Lfflh A, Litrraelo-Yap
+Rene Elias C. Lopee
+John-Christophe.r T. Maharnud
+Diosclado AngeJo A. Mahipus Sr,
+Bonifacio E. Militar
+Myrna G. L'Dalo<to-Ortiz
+Antoinette G. kincipe-Castrode*
+Halila Y. Sutlagar
+Mart Joselle D, Villaftre.rte
+RecheJ P. Zctzobrado
+January N. Dute.rte
+Tomas J. Montrrverde IY
+Msrissa P, Salvador-AbeJla
+- Temporary Prc.siding Oflic.er
+- 3td Annual Annive.rsary of
+Paquibato District Tribal
+{]anneil
+- t)n Sick Leave
+- On Domertic Eme.rgenry Leave
+Councilor
+Councikrr
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counciltrr
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Cotrncilor
+Councilor
+Councilor
+Councilor
+oRDrrrffcE ilo- (}s19-16
+Errler of il16
+.ilr t}EBItmItcE Elt}t TtIt TESF(}E*RT CL(IAI'BE 1'rO
+ITEIIISTIL*F' TR.*FFIC OT" THE Ef}AI} TLOIti AOBTffi,
+fi'RT'RT.ITBIII STRETTS tID ITBTITTTTI GT Sf,NEgIEI
+EABAreA'r ffilD, FOELACIOTT DISTRICT. DAVAO Crrrr Otr
+fAY A, m16, FBOI ?:OO A.f,. fnf:UL l2:OO IIDf,IGIIT] III
+CE,LEBRATIOIT OF THE TTI:UTL TIESTA OT GB. St. CEtr'b
+?,ilf,D 9, PIrR(rIf 3, IADIIII, OF TIIE gtIIB BARrreA"
+
+). /t:
+\
+Page 2 of3
+Ord. No. 0519-16
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that:
+SHTIOil l. TITtt - This (Jrdinanc.e shall b€ kncm'n aa "Al5
+OBDINIISCT FIOB TTTE TffiP'ON*l T CI€GIIEE 3O VHTICULITN TEAFFIC
+OF THE ROAD ALOTG CORIIER M
+STREETS AIID I.IETII.
+AEII^IGA 8[REEIE, EARAil*AY eA-D, POBLACLOII DI$TRICTT DAVAO
+CITY, of IAE 3, pfO, FBro[ 7:0 A-L UfrIL 12:m IIDIIIGIIT, If,
+CELEERATTOT{ OF THt AIItt AL FIEEEA ()F GE 3rA e*V7+ ZO'G 9,
+PIrROr[ 3, LABITI, OF TIIE ilrt nenrreeY;
+SmTIOtrI 2. DIDtrUf*.f,TIOf PTOLICT.- SECTION 2l t".] of RA. 7160.
+othe.r'wise knsrvn as the Local Gorre,rnme.nt Code of 1991, pmvide.s that arry
+national or local laad, allery, park or squarre may be te.mporarily closed during
+an actual e.me.rgencJr, tlr liesta c.eJebrations., public rallie.s and agricultural or
+industrial fairs;
+SffiTIOf 3, TffiPTSFAFI CLOffitBt - In e.e.lebration of the Annual
+Fiesta of GKK Sta. Cruz Zfiiw 9, hrrok 3, Mabini, Barangry 33-D, Poblacion
+District" Davao City, shall be temporaril5r closed on May O3, 2016 from 7:OO
+A.ll-1. until 12:OO tnidnight;
+SEETIO!, *. gPrtSfBILIff CI"AIIEE - If for any neason, ary SECTION
+or provision of this Ordinanc.e is cleclarctl unconstitutional or invalid, other
+sections or provisions he.reof not. affected by such declanation shall cpntinue to
+be in full force and effect:
+gBTIOf 3. EFFEEftIiltf.- This Ordinane,e shall take e.ffect
+immediatr.ly upon approval;
+EttlRIEI), on the 1'3h day of April, '2016, by a mqisrity vote of all ttre
+Members of the Sanggunian., the"re being a quorum,
+CERTIFIED I]ORRECT:
+a*lH#Ji.W**
+AfTESTED:
+Secretary to the Sarrgguniarrg Panlurrgsod
+{City Goverrrment Department Head IIf>
+JE.
+{}ity
+Te,mporary
+Qfficer
+
+RODRITIO *. DUTEBTE
+Page 3 of3
+Ord. No. 0519-16
+60F
+ATTESTED:
+ATrr. JE8B8 ilBLCITOR V. QrnTflr
+City Administratcr
+,la
+*"""1 r

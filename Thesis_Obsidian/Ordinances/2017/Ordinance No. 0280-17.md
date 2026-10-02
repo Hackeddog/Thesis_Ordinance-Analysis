@@ -1,0 +1,316 @@
+---
+ordinance_number: "0280-17"
+title: "AN oRDINANCE GRANTING THE REQUEST OF MS' CONCHITA P. SUAREZ, PRESIDENT, INDIGENT CHILDREN EDUCATIONAL ASSISTANCE, INC. (ICEA), FOR EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF ITS UPCOMING CONCERT ENTITLED' \"A NIGHT ON BROADWAY\" ON SEPTEMBER 30,2017, AT THE CAP AUDITORIUM' THIS Cffi\", for your appropriate action' For the City MaYor: ATTY. TRISTAN INGO Assistant Administrator (Adm"
+date_enacted: "2017-09-26"
+approval_date: "2017-09-30"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0280-17.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2017.0
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/granting, topic/request, topic/conchita, topic/suarez, topic/president, topic/indigent]
+---
+
+# Ordinance No. 0280-17
+
+> AN oRDINANCE GRANTING THE REQUEST OF MS' CONCHITA P. SUAREZ, PRESIDENT, INDIGENT CHILDREN EDUCATIONAL ASSISTANCE, INC. (ICEA), FOR EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF ITS UPCOMING CONCERT ENTITLED' "A NIGHT ON BROADWAY" ON SEPTEMBER 30,2017, AT THE CAP AUDITORIUM' THIS Cffi", for your appropriate action' For the City MaYor: ATTY. TRISTAN INGO Assistant Administrator (Adm
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OFTHE CTTYMAYOR
+sacii19
+I
+pNc
+2Nd INDORSEMENT
+October 25,20L7
+Respectfully forwarded to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this city, the attached approved ordinance No. 028017, SERIES of 2oL7 entitled "AN oRDINANCE GRANTING THE REQUEST OF MS'
+CONCHITA P. SUAREZ, PRESIDENT, INDIGENT CHILDREN EDUCATIONAL
+ASSISTANCE, INC. (ICEA), FOR EXEMPTION FROM THE PAYMENT OF
+AMUSEMENT TAX ON THE PROCEEDS OF ITS UPCOMING CONCERT ENTITLED' "A
+NIGHT ON BROADWAY" ON SEPTEMBER 30,2017, AT THE CAP AUDITORIUM'
+THIS Cffi", for your appropriate action'
+For the City MaYor:
+ATTY. TRISTAN
+INGO
+Assistant
+Administrator
+(Administration)
+AdninAfDD/sEPh
+RELEASED
+CMO. CRD
+a
+I
+'7'17
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmai!.conp
+BAW @
+LIFE
+IS HERE
+4( -9r14v
+\$0
+t
+
+\
+OFFICE OF THE CITY LEGAL
+Tel. No. 227-5793 *
+Trunk Line No. 241-1000 Loc
+o0o
+Ref. No. LL3L-L7
+LEGAL OPINION NO. hqD,
+SERIES OF 2OL7
+RE: ORDINANCE NO. A280-L7, SERIES of Z0L7 entitled *AN
+oRDTNANCE GRANTING THE REQUEST OF MS. CONCHTTA p.
+SUAREZ, PRESIDENT, INDIGENT CHILDREN EDUCATIONAL
+ASSISTANCE, INC. (ICEA), FOR EXEMPTION FROM THE PAYMENT
+OF AMUSEMENT TAX ON THE PROCEEDS OF ITS UPCOMING
+CONCERT ENTTTLED, "A NIGHT ON BROADWAY'ON SEPTEMBER
+3A, 20L7, AT THE CAP AUDITORIUM, THIS CTTY'
+ls INDoRSEMENT
+September 29,20L7
+Respectfi.tlly furwarded to the Office of the City Mayor, through the ffice of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption (amusement fee) is well within the powers of the SANGGUNIANG
+Panlungsod. Hence, it is recommended that the subject ordinance be approved.
+ATTY.
+A. GALLO, RSW
+1V
+Officer In-Charge
+a
+CITYMAYOR,.S
+D.r.t/rrii..ii
+OFFICF
+IY
+-.:lct OF THE i:tTy arrJyllsf5TRAi'Of
+CITY q{-L
+DAtAi,.l
+tt\
+A
+(
+E
+/.\L
+IML
+YED I]
+/P>- hf - 77/'
+a
+tqffi
+;0(
+oFFrcE ot #F $1fl##ursTRAroR
+DAVAOCtTy /qolN
+RECEI\EDBYz--
+QAllt
+rt-
+llttz:
+/&: ee
+CIT!
+RECE
+":,VIE
+
+:4c;;r.cl
+Zr
+b lvc
+City of Davaoffl'il
+Madam:
+cns/nta
+September 27,2017
+SARA Z. DUTERTE
+City Mayor
+(i/'tL
+m
+O
+t
+rfi Ft8
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, othenarise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01234-17 and Ordinance No. 0280-17, both SERIES of 20t7 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+&tr#Tt-h fu,",
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+R8flffi.{V+-D
+O"CBD
+ft'
+7/a* - )cr
+
+h
+o2'
+I>f.
+it x6
+Republic of tfre Ptrilip6ine
+Gty of Davao
+Offic of the SANGGUNIANG Panlungsod
+I
+ABSENT:
+18th ciry Council
+35th Regular Session
+SERIES of 2017
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Leah A. Librado-Yap
+Paolo Z. Duterte
+Maria Belen S. Acosta
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr,
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr
+Bonifacio E. Militar
+Avegayle Dalodo Oftiz
+L Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+Attended a meeting with the Council
+for the Welfare of Children (CWC)
+- On Sick Leave
+- On Sick Leave
+- On Sick Leave
+- On Domestic Emergency Leave
+- On Sick Leave
+- On Domestic Emergenry Leave
+- On Domestic Emergency Leave
+ON OFFICIAL BUSINESS:
+Councilor January N. Duterte
+Nilo M. Abellera lr.
+Victorio U. Advincula Jr.
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Antoinette G. Principe-Castrodes
+Halila Y. Sudagar
+Mary Joselle P, Zozobrado
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. O28O -17
+SERIES of 2OL7
+AN ORDTNANCE GRANTTNG THE REQUEST OF MS. CONCHTTA P.
+SUAREZ, PRESIDENT, INDIGENT CHILDREN EDUCATIONAL
+ASSTSTANCE, rNC. (rCEA), FOR EXEMPTTON FROM THE PAYMENT
+OF AMUSEMENT TAX ON THE PROCEEDS OF ITS UPCOMING
+coNcERT ENTTTLED, *A NrGHT ON BROADWAY', ON SEPTEMBER
+3Ot 2OL7, AT THE CAP AUDTTORTUM, THIS CrTY
+lCatrt&'d
+
+Ord. No. 0280 -17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST OF MS. CONCHITA P. SUAREZ, PRESIDENT,
+INDIGENT CHILDREN EDUCATIONAL ASSISTANCE, INC. (ICEA), FOR
+EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF
+ITS UPCOMING CONCERT ENTITLED, "A NIGHT ON BROADWAY' ON
+SEPTEMBER 30, 201.7, AT THE CAp AUDITORTUM, THIS ClTy"l
+SECTION 2. DECLARATION OF POLICY - SECTION 3 (l) of Republic Act 7160,
+otherwise known as the Local Government Code of 1991, provides that "the participation of
+the private sector in local governance, particularly in the delivery of basic seruices. shall be
+encouraged to ensure the viability of the local autonomy as an alternative strategy for
+sustainable development".
+SECTION 3. EXEMPTION - SECTION 59, paragraphs (a) and (b) of the 2005
+Revenue Code of Davao City provides: "SECTION 59. Exemptions - The tax herein imposed
+does not apply in the following cases, provided, that exemption should first be obtained for
+this purpose from the SANGGUNIANG Panlungsod:
+(a) Where the admission fees are collected for and in behalf of the
+charitable, educational or religious institutions or associations who
+are declared by law or presidential proclamation as exempted from
+the payment of amusement tax on paid admission; provided
+fufther, that such exhibition, show, peformance, and the like, shall
+be limited to only three (3) days in a calendar year.
+(b) where the admission fees are collected in connection with the
+holding of operas, concerts, dramas, recitals, paintings, and aft
+exhibitions, flower shows, musical programs, literary and oratorical
+presentations except pop rock, or similar concerts not intended
+primarily for profit and furthermore, not including film exhibitions".
+SECTION 4. SEPARABILITY CLAUSE - If for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect;
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on September 26, 2017, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+a,Wnlurfo,
+Secretary to the SANGGUNIANG Panlungsod
+W
+Government DePartment Head IIf
+CERTIFIED CORRECT:
+
+I
+I
+t
+,1
+Ord. No. 0280 -17
+ATTESTED:
+ATTESTED:
+LEAH A.
+YAP
+Presiding Officer
+ocl 0 6 20lrl
+APPROVED
+20t7
+M
+I - city.hrt
+DUTERTE
+Mayor
+SrA_
+ATTY. ZULEIKA
+City Administrator*

@@ -1,0 +1,197 @@
+---
+ordinance_number: "0649-21"
+title: "Ordinance No. 0649-21"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0649-21.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid]
+---
+
+# Ordinance No. 0649-21
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+) " Republlc of the Philippines . " :
+!
+19th City Council
+26th Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+- On Official Business
+ORDINANCE NO. O649-2L
+SERIES of 2O2L
+AN ORDINANCE AUTHORIZI]TG THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE RENEWAT OF THE TERMS AND CONDITIONS
+(TAC) FOR THE USE OF DepEd SCHOOL, PARTICUTARTY
+MAGALTANES ELEMEI{TARY SCHOOL, By THE LOCAT
+GOVERNMENT UNIT AS A TEMPORARY QUARANTINE OR
+ISOLATION FACILIW OF LAST RESORT
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo lunior R. Mahipus
+_
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+
+Ord. No. 0649-2L
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. E!! - This Ordinance shall be known as "AN ORDINANCE
+AUTHORTZTNG THE CrTY MAYOR TO ENTER INTO AND Srcil, FOR Al{D IN
+BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE TERMS AND
+CONDITIONS (TAC) FOR THE USE OF DepEd SCHOOL PARTICULARTY
+MAGALLANES ELEMENTARY SCHOOL BY THE LOCAL GOVERNMENT UNIT AS
+A TEMPORARY QUARANTTNE OR TSOIATTON FACTLITY OF LAST RESORT".
+SECTION 2.
+- SECTION 22 (a) (5) and (c) and
+SECTION 455 (b) (1) (vi) of Republic Act No. 7L60, otherwise known as the "Local
+Government Code of 1991", provide that:
+"SECTION 22. Corporate Powerc.-
+(a) Every local government unit, as a corporation,
+shall have the following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no
+contract may be entered into by the local chief executive in
+behalf of the local government unit without prior
+authorization by the sanggunian concerned. A legible copy of
+such contract shall be posted at a conspicuous place in the
+provincial capitol or the city, municipal or barangay ha!!.
+SECTION 455. Chief Executive: Powery Duties and
+Compensation.
+(b) For efficient, effective and economical governance
+the purpose of which is the general welfare of the city and
+its inhabitants pursuant to SECTION 16 of this Code, the city
+mayor shall:
+(1) Exercise general supervision and control over all
+programs, projects, seruices, and activities of the city
+government and in this connection, shall:
+(vi) Represent the city in all its business transactions
+and sign in its behalf all bonds, contracts, and obligations,
+and such other documents upon authority of the
+SANGGUNIANG Panlungsod or pursuant to law or ordinance."
+SECTION 3. AU!ts(lW - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City Government of Davao, the
+Renewal of the Terms and Conditions for the use of DepEd School, pafticularly
+Magallanes Elementary School, by the Local Government Unit as a temporary
+quarantine or isolation facility of last resort.
+SECTION 4. SEPARABILIW CLAUSE - If , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+,
+
+Ord. No. 0649-2L
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 13h day of July 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ AhrurT, \.ln*
+cHARrro il. sfNTos
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+ATTESTED:
+EDGAR P.
+President Pro
+Temporary Presiding Officer
+cns/kjtq
+APPROVED
+AUG 2 4 2021
+202L
+ATTESTED:
+City Mayort
+ZULEIKA
+LOPEZ
+City Administratora
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE TERMS AND CONDITIONS OAC) FOR
+THE USE OF DepEd SCHOOL, PARTICULARLY MAGALLANES ELEMENTARY SCHOOL, BY THE
+LOCAL GOVERNMENT UNIT AS A TEMPORARY QUARANTINE OR ISOLATION FACILTry OF LAST
+RESORT
+ra

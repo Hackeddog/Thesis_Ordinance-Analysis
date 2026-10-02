@@ -1,0 +1,416 @@
+---
+ordinance_number: "0119-16"
+title: "Ordinance No. 0119-16"
+date_enacted: null
+approval_date: "2015-01-28"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0119-16.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.4
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2015.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid]
+---
+
+# Ordinance No. 0119-16
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2015 |
+| **Resolved** | **2016** |
+
+## Cites or amends
+
+- [[Ordinance No. 0441-15]]
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+l8m Ciry Council
+22ld Reguhr $mion
+SERIES of 2016
+PRESENT
+Councilor
+Councilor
+Counrilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counrilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counrilor
+Councilor
+Councilor
+ON OFFICIAL BLEINESS:
+Counrilor
+Councilor
+AE.SENT:
+Yice Mayor
+Councilor
+Counrilor
+Councilor
+Counrilor
+Bemard E.Al+g
+Maria Belen S. Arosh
+Victorio {J, Advincula lr.
+A Ryan S. Alejandre
+Dante t. Apoetol 5r.
+Conralo C, Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Br4a
+Danilo C. Dayanghirang
+limnrf G. Dureza
+Edgar P. Ibuyan Jr,
+Diosdado Angelo A, Mahipus Sr.
+Bonifario E. Milihr
+Avegayle Dalodo Ortiz
+Antoinette G. Ptincipe{afiods
+l. Melchor B. QuiEin lr.
+Marisa P, Salvajor-Ahella
+Halila Y. Sudagar
+Mary Joeelle D. Villafuefte
+lesus loseph P. Zozohrado III
+Temprary ksiding Officer
+Nilo M. Abellera lr,
+Apnl Marie C. Dal,aft
+Paolo Z. Duterte
+Joanne M. Bonguyan-rQuilos
+January N. Duterte
+Leah A, Librado-Yap
+Rene Elia C. Lopez
+-
+On Vmation Leave
+-
+On Matemity Leave
+-
+On Vxation Leave
+-
+On Vration LeaYe
+-
+On VacaUon Leaue
+{}RDIHAI|CE tf(}, O1l9 -16
+SERIES of 2O16
+AII ORDIHTTICE AUTI{ORIZITIG THE CITV HAYOR TO
+SIGTI FOft ATID ITI EEHAI."F OF THE CITY GIITTRIIHEIIT OF
+DAVAO, THE t(}All AGREEITIEIIT TO EE EilTERED IHTO BY
+A}ID BETWEE}I THE CTTY GO*ER}IHEHT OF DAYAO ATID
+ST}1A HU LTIPU RF!ffi E ffX}PERArfIE
+
+Ord. No. O119-16
+BE it ordaind by the SANGGUNIANG Panlungsod of Davao City in *mion
+assembled that:
+$ECTIOII t. TITI-E - This Ordinance shall be known E 'All ORDIHAIICE
+AUNloRITIilG fHE CITY HAYI}R TO SIGTI FOR AIID IH BEHA1F OF THE CTTY
+GOYERHHEHT OF DAYAO, THE t{}Tfi AGREETTIEHT TO BE EHTERED IIITO EY
+AIID BETHEE}I THE CITY tr(}TIR}IHE}IT OF DAYIO AHD S[}l]f,
+H U TTIPU RPIffi E CIXIPERITIt'E- ;
+SECTIOII 3. AUfHORIIY - The City Mayor is hereby auhorized to enter into
+and sign, for and in bhalf of the City Govemment of Dayao, the Loan Agreement to be
+enterd into hy and hetween the City Govemment of Davm and SOLA Multipurtose
+Cooperutive;
+$ECTTO}I 5.
+approval;
+- This Ordinance shall take eflect immdiately upon
+EHACTED, Decemkr 12, 2016, by a unanimous vote of all the Members of the
+Sanggunian present, there king a quorum.
+CERTIFTED CORRECT:
+^\fiurot \. /,r^f
+CHARTTo H. SATITOS
+krehrT to the Sanggun{ang hnlungsorj
+{City Govemment Department Head II}
+ATTESTEI}:
+E.
+Acting Vire Mayor
+Temporary Presiding Officer
+rns/rlil
+ArrpRovED: tEB 03 iolT 2016
+f
+cttv Mayor
+ATTY.
+ATTESTETI:
+Citf Adminiss;rator*
+
+t'
+\
+$
+LOAN AGREEMENT
+KNOW ALL MEN BY THESE PRESENT:
+This agreement made and entered into by and between
+The CITY GOVERNMENT OF DAVAO, a Local Government Unit existing by
+virtue of the laws of the Republic of the Philippines with principal office at City Hall
+Drive, San Pedro Street, Davao City, herein represented by the City Mayor, Hon.
+SARA Z. DUTERTE-CARPIO, hereinafter referred to as the CITY;
+and
+The SOLA MULTI-PURPOSE COOPERATIVE, a duly registered cooperative
+with the Cooperative Development Authority, with principa! office at Blk. E-4, Lot 17,
+Paseo C. Plantacion, Solariega, Davao City herein represented by JOYCELYN D.
+GONZALES, General Manager, authorized representative, hereinafter referred to as
+BENEFICIARY.
+WITNESSETH THAT:
+WHEREAS, it is the policy of the CITY to promote self-reliance and harness
+people empowerment towards the attainment of economic development and social
+justice;
+WHEREAS, in consonance to the said policy, the CITY, through its Enhanced
+Livelihood and Enterprise Assistance Program (ELEAP) extends technical and financial
+assistance and other services to enable cooperatives to develop into viable and
+responsive enterprises through the approval of appropriation for financing of the
+Cooperative Support Services Program (CSSP) per Ordinance No. 0441-15 under the
+Cooperative Financial Assistance Program (CFAP);
+WHEREAS, Executive Order (EO) No. 1 was issued dated January 28,2015, to
+prescribe the guidelines, rules and procedures for the effective and efficient
+implementation of this Enhanced Livelihood and Enterprise Assistance Program
+(ELEAP) of the City;
+WHEREAS, based on the guidelines provided in the said Executive Order (EO),
+the application of the BENEFICIARY for livelihood project has been found to be socially
+responsive, economically viable and sustainable;
+NOW, THEREFORE, for and in consideration of the foregoing premises, the
+parties hereto bind themselves to the terms and conditions of this agreement, as
+follows:
+1. The CITY
+a) Shall release the amount of Two Hundred Thousand Pesos (P 200,000.00)
+as appropriation under Cooperative Support Services Program (CSSP) -
+Cooperative Financial Assistance Program to finance Micro-Lending
+Project;
+b) Shall ensure that the loan shall be payable within the maximum period of three
+(3) years with zero interest in accoidance with the repayment schedfidas
+stipulated in the Promissory Note. Repayment of the loan shall commence
+after three (3) months from the date of final release of the loan;
+
+c) Shall ensure that the fund shall be utilized only in the implementation of the
+project and in no case shall it be used for payment of salaries, bonuses, cash
+gifts and equipment not directly related to the project;
+d) Through the concerned line agencies, shall strengthen the capabilities and
+enhance entrepreneurial skills of the cooperative through the conduct of
+training/seminars, as follows:
+o Pre-Loan Release Orientation Seminar
+o Business Management Seminar
+o Development Planning Process
+. Simplified Record Keeping
+. Leadership Training
+. Membership Education Seminar
+e) Shall conduct periodic monitoring of operations as a tool to sustain project
+viability;
+f) Shall require the beneficiaries to submit annual report and audited financial
+statements;
+g) Shall exercise relative supervision over the project to ensure that over-all
+implementation is in accordance with the existing guidelines, rules and
+regulations;
+2. The BENEFICIARY
+a) Shall utilize the loan as additional capital for their project and pay the loan
+amount granted by the City Government at zero interest;
+b) Shall submit a report to the Local Chief Executive (LCE) through the City
+Cooperative Development Office of how the fund was used within ninety (90)
+days after the release of the loan
+d) Shatl provide 25% equity of the total project cost, in cash or equivalent labor
+cost or inputs, covered by a Board Resolution and a bank certificate, while the
+City Government will provide 75o/o thereof;
+e) Shall allow the presence of the City representative, as in this case, the
+authorized personnel from the City Cooperative Development Office (CCDO),
+d u rin g Boa rd/Operations meeti n gs as tech n ical observer/adviser;
+f) Shall issue Post Dated Checks (PDC's) to cover payment(s) for the quarterly
+amortization of the loan amounting to Two Hundred Thousand Pesos
+(Php 200.000.00) only, in favor of the City Government through the City
+Treasurer's Office;
+g) Shall issue Letter of Authorization to collect, as a requirement for payment of
+the loan;
+h) Shall submit to the prescribed implementing guidelines, rules and procedures
+stipulated in Executive Order No. 1, approved by the City tvlayor on January
+28,2015.
+$
+I
+a
+c) Shall keep and maintain appropriate financial and bookkeeping records for the
+fund and shall make available these records for inspection and verification
+whenever concerned and competent authorities desire;
+
+This LOAN AGREEMENT shall take effect upon release hereof and shall remain
+in force until expressly revoked in writing by the parties thereto.
+lN WITNESS WHEREOF, the parties have hereunto affixed their signatures on
+this
+day of
+2016 at Davao City.
+CITY GOVERNMENT OF DAVAO
+SOLA MULT!-PURPOSE
+COOPERATIVE
+I
+JoYcdt
+DUTERTE.CARPIO
+City M
+D. GONZALES
+Authorized Representative
+^ril*
+CTC No
+Place lssued
+Date lssued
+CTC No.
+Place !ssued
+Date lssued
+IGNED IN THE PRESENCE OF :
+I
+(
+ot-
+'My?^i
+0tt
+ACKNOWLEDGEMENT
+REPUBLIC OF THE PHILIPPINES)
+crTY oF DAVAO
+) S.S
+x---
+-------x
+1 O FEB 2OII
+BEFORE ME, this _day of
+2016, personally came
+and appeared the above persons with their Community Tax Certificates, known to me to
+be the same persons who executed/signed the foregoing instrument, acknowledging to
+me that the same are their true, free acts and deeds and that of the organization
+represented.
+This Loan Agreement consists of three (3) pages, including this page in which
+the acknowledgement is written.
+WITNESS MY HAND AND SEAL
+Atty. ENR
+J.A. BONOCAN
+io
+Doc. No. P
+Book t'lo.-lMPaoe No.-lW
+seiiesof W
+N')1!.R.i PUSl.tC
+fii)1.! ll0.
+in t.
+s
+Notary Public lor Davao City
+Nobdal Commlselon t'to. 2017.011&20i8
+6l
+
+PROMISSORY NOTE
+Name of Cooperative: SOLA MULTI-PURPOSE COOPE RATIVE
+Address :Blk. E4. Lot 17. Paseo C. Plantacion.
+larieqa, Davao City
+Amount Granted: _P 200.000.00 Date Granted:
+1. For value received, the SOLA MULTI-PURPOSE GOOPERATIVE hereby promise to
+pay to the order of City Treasurer's Office - Davao Gity, without demand or notice, the
+sum of Two Hundred Thousand Pesos (Php 200,000.00) in quarterly equal installments,
+as per repayment schedule below starting on
+;
+REPAYMENT SCHEDULE
+Amount of Loan : P
+2. ln the event that any misrepresentation, misinformation or fraudulent information shall be
+discovered for the purpose of obtaining the Enhanced Livelihood and Enterprise Assistance
+Program, the City Government, through the City Mayor, may without prior notice or demand,
+declare the entire principal sum, or the entire indebtedness plus the penalties thereon
+immediately due and demandable and the same shall be paid by the COOPERATIVE;
+3. ln the event that the said loan will incur delinquent amortization, a one percent (1%)
+surcharge per month of the total amount due shall be imposed;
+4. Failure to pay the principal amount, fees and surcharges by the borrowing party shall be
+dealt in accordance with the existing applicable laws;
+5. ln case of litigation, in connection with this note, the cooperative hereby submits to the
+jurisdiction of the courts of Davao City, without prejudice to other competent courts.
+lN WITNESS WHEREOF, we hereunto affixed our signature on this
+day of
+2016 at Davao City, Philippines.
+SOLA MULTI.PURPOSE COOPERATIVE
+Name of Cooperative
+J
+GONZALES
+Authorized Representative
+NO. OF INSTALLMENTS
+AMOUNT OF
+INSTALLMENT
+DUE DATE
+Quarter
+P 18,182.00
+P 18,182.00
+P 18,182.00
+P 18,182.00
+P 18,182.00
+P 18,182.00
+I
+P 18,182.00
+P 18,182.00
+I
+P 18,182.00
+P 18,182.00
+P 18,180.00
+Mr,&^
+Wrv tJ. J,f-r.,t
+S]GNED IN THE PRESENCE O
+VL IO
+a_r
+
+\j
+ACKNOWLEDGEMENT
+REPUBLIC OF THE PHtLIPPtNES)
+crTY oF DAVAO
+) S.S
+x---
+-------x
+BEFoRE ME, thiE 0 FEB 2UIv ot
+2016, personally came and
+appeared
+with his Community Tax
+Certificates No
+issued on
+issued
+at_,
+known to me to be the same persons who executed/signed the
+foregoing instrument, acknowledging to me that the same are their true, free acts and
+deeds and that of the organization represented.
+This Promissory Note consists of two (2) pages, including this page in which the
+acknowledgement is written.
+WITNESS MY HAND AND SEAL.
+J.A. BONOCAN
+Atty.
+A.
+Notaty Public for Davao Ci$
+Notarlal Commlselon I'lo. 2017411+20'18
+To expirc on Decsmber 18,2018
+PTR i2017) No. 817ilil32 (121e,16) (0.c.)
+rBP (2014 ilo. 103s$4r (1?06110) (0.0.)
+Roll ofAttorncy's No. 48E25 (03 Mav 2004)
+MGhE Fi.mDlhn Nn: \r46tll, ll9 Maroh tr016;
+o
+o
+Doc. No.
+Book No.
+Page No
+NO1ARY P!.ISLIC
+fiorL NO.
+4e825
+SERIES of 201
+I
+I
+.J
+s-
+&

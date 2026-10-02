@@ -1,0 +1,199 @@
+---
+ordinance_number: "0323-23"
+title: "AN ORDINANCE GRANTING FULL EXEMPTION TO PHrLrpprNE RED CROSS (pRC) - DAVAO CITY CHAPTER FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE BLOCK SCREENING OF *AQUAMAN AND THE LOST KINGDOM\" TO BE HELD ON DECEMBER 20, 2023, AT THE AyAl-A ABREEZA MALL CINEMA, BAIADA, THIS CITY"
+date_enacted: "2023-11-07"
+approval_date: "2023-12-20"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0323-23 (2).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/full, topic/exemption, topic/phrlrpprne, topic/cross, topic/chapter]
+---
+
+# Ordinance No. 0323-23
+
+> AN ORDINANCE GRANTING FULL EXEMPTION TO PHrLrpprNE RED CROSS (pRC) - DAVAO CITY CHAPTER FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE BLOCK SCREENING OF *AQUAMAN AND THE LOST KINGDOM" TO BE HELD ON DECEMBER 20, 2023, AT THE AyAl-A ABREEZA MALL CINEMA, BAIADA, THIS CITY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+41st Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P.Zozobrado III
+Louie John J. Bonguyan
+Edgar R. Ibuyan Sr.
+- Presiding Officer
+- On Domestic Emergenry Leave
+ABSENT:
+Councilor
+Councilor
+ORDINANCE NO. 0323.23
+SERIES ot 2023
+AN ORDINANCE GRANTING FULL EXEMPTION TO
+PHrLrpprNE RED CROSS (pRC) - DAVAO CITY CHAPTER
+FROM THE PAYMENT OF AMUSEMENT TAX ON THE
+PROCEEDS OF THE BLOCK SCREENING OF *AQUAMAN
+AND THE LOST KINGDOM" TO BE HELD ON DECEMBER 20,
+2023, AT THE AyAl-A ABREEZA MALL CINEMA, BAIADA,
+THIS CITY
+
+that
+Ord. No. 0323-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING FULL EXEMPTION TO PHTLTPPTNE RED CROSS (pRC) - DAVAO CrTy
+CHAPTER FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF
+THE BLOCK SCREENING OF *AQUAMAN AND THE LOST KINGDOM. TO BE HELD
+ON DECEMBER 20, 2023, AT THE AYALA ABREEZA MALL CINEMA, BA'ADA,
+THIS CITY"
+SECTION 2' DECLARATION OF POLICY - Sections 192 and 458 (a) (2) (xii)
+of Republic Act No. 7160, othenruise known as Local Government Code of 1991, provides
+that Local Government Units, may, through an Ordinance duly approved, grant tax
+exemptions, incentives or reliefs under such terms and conditions as they may deem
+necessary.
+SECTION 3. COVERAGE - The aforementioned exemption shall be based on
+the system of computation adopted by the Business Tax and Licensing Division of the
+City Treasurer's Office and their projected income statement, herein enumerated:
+MOVIE
+TITLE
+NO. OF
+NCKETS
+cosrrncKET
+TOTAL
+10olo TAX
+AQUAMAN
+AND THE
+LOST
+KINGDOM
+20t
+P400.00
+P80,400.00
+P8,040.00
+TOTAL TA)(
+P8,040.00
+SECTION 4. TRANSMITTAL - The Secretary to the Sanggunian is hereby
+directed to transmit a copy of the Ordinance to the Executive Department immediately
+upon its approval.
+SECTION 5. SEPARABILITY - If, for any reason, any SECTION or provision of
+this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 6. EFFECTMTY-This Ordinance shalltake effect immediately upon
+approval.
+ENACTED, on November 7,2023, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+,o. rr=#d. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG PanlunSsod\
+
+I
+ta
+ll?
+e
+,::,:rqlqrEg!ry.:F=-
+a.
+e
+Ord. No. 0323-23
+ATTESTED:
+I. Irl ELCHNB. QUfTAIil JR
+/vtce Mayor
+Fresiding Officer
+mbr/mJb
+APPROVED:
+8nR. 2023t
+Nov ?
+Z. DUTERTE
+City M"Yy g
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE GRAr{TING FULL DGMmON TO PHIUPPTNE RED CROSS (pRC) - DAVAO CIW CHAPTER
+FROM THE PAYMENT OF AMUSEMENTTM ON THE PROCEEDS OFTHE BLOCK SCREENING OF'AQUAMAN
+ANDTT{E LOST KINGDOM"TO BE HELD ON DECEMBER 20, 2023, ATTHE AYA|S ABREEZA MAU- CINEMA,
+BATADA, THTS CITY

@@ -1,0 +1,64 @@
+---
+title: "Ordinance index 2025"
+corpus_year: 2025
+document_count: 31
+tags: [index, ordinance, davao, year/2025]
+---
+
+# Ordinance index 2025
+
+31 document(s) indexed under corpus year 2025.
+
+| Status | Count |
+| --- | --- |
+| valid | 30 |
+| misfiled | 0 |
+| out_of_scope | 0 |
+| review | 1 |
+| unresolved | 0 |
+
+## Documents
+
+| Ordinance | Title | Status | Conf. | Enacted |
+| --- | --- | --- | --- | --- |
+| [[Ordinance No. 018-25]] | AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO FY 2025 SUPPTEMENTAT BUDGET NO.  | valid | 0.55 | nan |
+| [[Ordinance No. 0192-23]] |  | review | 0.17 | nan |
+| [[Ordinance No. 0735-25]] |  | valid | 0.70 | nan |
+| [[Ordinance No. 0736-25]] | AN ORDINANCE FOR THE PARTIAL TEMPORARY CTOSURE TO vEHrcuLAR TRAFFTC (I|ALF-LANE  | valid | 0.60 | 2025-01-07 |
+| [[Ordinance No. 0739-25]] | AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHAL | valid | 0.33 | nan |
+| [[Ordinance No. 0741-25]] | AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHAL | valid | 0.55 | nan |
+| [[Ordinance No. 0742-25]] | AN ORDINANCE DECURING THE PANIGAN.TAMUGAN WATERSHED AND ITS TERRITORIAL BOUNDARY | valid | 1.00 | 2025-01-28 |
+| [[Ordinance No. 0754-25]] | AN ORDINANCE AUTHORTZING THE CITY MAYOR TO ENTER rNTO AND SrGN, FOR AND IN BEHAL | valid | 0.33 | nan |
+| [[Ordinance No. 0756-25]] |  | valid | 0.55 | nan |
+| [[Ordinance No. 0758-25]] | AN ORDINANCE AMENDING CITY ORDINANCE NO. 0334.L2, SERIES OF 2012, OTHERWISE KNOW | valid | 0.55 | nan |
+| [[Ordinance No. 0760-25]] | AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND I | valid | 0.33 | nan |
+| [[Ordinance No. 0765-25]] | AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHAL | valid | 0.33 | 2025-02-25 |
+| [[Ordinance No. 0766-25]] | AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER rNTO AND SrGN, FOR AND rN BEHAT | valid | 0.33 | nan |
+| [[Ordinance No. 0767-25]] | AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHAL | valid | 0.33 | 2025-03-25 |
+| [[Ordinance No. 0772-25]] | AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO ENTER INTO AND S | valid | 0.33 | nan |
+| [[Ordinance No. 0773-25]] | AN ORDINANCE AMENDING oRDINANCE NO. 0592-24, SERIES OF 2024, PARTICUT-ARLY THE L | valid | 0.85 | nan |
+| [[Ordinance No. 0774-25]] | AN ORDINANCE GRANTING LEGISLATM AUTHORIW TO THE CITY MAYOR TO UTIUZE A PORTION O | valid | 0.55 | nan |
+| [[Ordinance No. 0776-25]] | AN ORDINANCE FOR THE TEMPORARY PARTIAL CLOSURE TO VEHICULAR TRAFFIC ALONG AURORA | valid | 1.00 | nan |
+| [[Ordinance No. 0778-25]] | AN ORDINANCE GRANTING THE REQUEST OF ARRIEL & REVELYN NENGASCA, REPRESENTING BUI | valid | 1.00 | nan |
+| [[Ordinance No. 0779-25]] | AN ORDINANCE APPROVING THE REQUEST OF OLIVER ]OHN R. TIU, PRESIDENT OF ATENEO DE | valid | 0.55 | nan |
+| [[Ordinance No. 0782-25]] | AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC ALONG THE ST | valid | 1.00 | 2025-03-25 |
+| [[Ordinance No. 0783-25]] | AN ORDINANCE FOR THE TEMPORARY PARTIAL CLOSURE TO VEHICUI.AR TRAFFIC THE STREET  | valid | 1.00 | 2025-03-25 |
+| [[Ordinance No. 0784-25]] | AN ORDINANCE FOR THE TEMPORARY PARTIAL CLOSURE TO VEHICUIAR TRAFFIC ALONG THE ST | valid | 1.00 | 2025-03-25 |
+| [[Ordinance No. 0785-25]] | AN ORDINANCE RESTRUCTURING THE OFFICE OF THE SANGGUNIANG PANLUNGSOD AND AMENDING | valid | 0.33 | nan |
+| [[Ordinance No. 0787-25]] | AN ORDINANCE FOR THE TEMPORARY PARTIAL CLOSURE TO VEHICUI.AR TRAFFIC THE STREET  | valid | 0.55 | nan |
+| [[Ordinance No. 0789-25]] | AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SrGN, FOR AilD IN BEHA | valid | 1.00 | 2025-03-25 |
+| [[Ordinance No. 0791-25]] | AN ORDINANCE FOR THE TEMPORARY ROAD CLOSURE TO VEHICULAR TRAFFIC OF CERTAIN STRE | valid | 1.00 | nan |
+| [[Ordinance No. 0792-25]] | AN ORDINANCE FOR THE TEMPORARY ROAD CLOSURE TO VEHICULAR TRAFFIC OF THE STREET A | valid | 0.55 | nan |
+| [[Ordinance No. 0795-25]] | AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUIAR TRAFFIC OF THE PORTION OF MA | valid | 0.55 | nan |
+| [[Ordinance No. 0828-25]] |  | valid | 0.35 | nan |
+| [[Ordinance No. 0835-25]] | AN ORDINANCE FOR THE TEMPORARY ROAD CTOSURE TO VEHICUTAR TRAFFIC OF BOTH PORTIOi | valid | 0.55 | nan |
+
+## Live query
+
+```dataview
+TABLE ordinance_number, temporal_status, confidence_score, enactment_date
+FROM #ordinance AND "Ordinances/2025"
+SORT ordinance_number ASC
+```
+
+Back to [[_Corpus MOC]]

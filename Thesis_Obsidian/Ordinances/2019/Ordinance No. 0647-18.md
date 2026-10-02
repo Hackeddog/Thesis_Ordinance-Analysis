@@ -1,0 +1,288 @@
+---
+ordinance_number: "0647-18"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF GERARD PERKIN T, GOTOHIO OF CEM.ROCK MDGRS INC., FOR ADDMONAL ALLOWABLE USE FOR THE OPERANON OF A STONE CRUSHING PI.ANT AT SITIO ASANG, BARANGAY TALANDANG, TUGBOK DISTRICT, THIS CIT/\", for your information and appropriate action. For the City Mayor: ATTY. TRISTAT{ Assistant (Administration) RELEASED CtuiU-;BtO 'S I LIFE IS HERE Second Floor, City Hall Build"
+date_enacted: "2019-02-04"
+approval_date: "2019-02-04"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0647-18.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.62
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/application, topic/gerard, topic/perkin, topic/gotohio, topic/rock]
+---
+
+# Ordinance No. 0647-18
+
+> AN ORDINANCE GRANTING THE APPLICATION OF GERARD PERKIN T, GOTOHIO OF CEM.ROCK MDGRS INC., FOR ADDMONAL ALLOWABLE USE FOR THE OPERANON OF A STONE CRUSHING PI.ANT AT SITIO ASANG, BARANGAY TALANDANG, TUGBOK DISTRICT, THIS CIT/", for your information and appropriate action. For the City Mayor: ATTY. TRISTAT{ Assistant (Administration) RELEASED CtuiU-;BtO 'S I LIFE IS HERE Second Floor, City Hall Build
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2018 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+!
+GISN
+t
+l>q
+Ref. No. CA.dCrzQt $Ce455
+2Nd INDORSEMENT
+February t4,20lg
+Respectfully returned to lt{s. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0647-18,
+SeriCS of 2018, entitled *AN ORDINANCE GRANTING THE APPLICATION OF GERARD
+PERKIN T, GOTOHIO OF CEM.ROCK MDGRS INC., FOR ADDMONAL ALLOWABLE USE
+FOR THE OPERANON OF A STONE CRUSHING PI.ANT AT SITIO ASANG, BARANGAY
+TALANDANG, TUGBOK DISTRICT, THIS CIT/", for your information and appropriate
+action.
+For the City Mayor:
+ATTY. TRISTAT{
+Assistant
+(Administration)
+RELEASED
+CtuiU-;BtO
+'S
+I
+LIFE
+IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+tu -z'/1
+BAW @
+t
+I
+?
+Republic of the Philippints
+d:
+OFFTCE OFTHE CTTYMAYOR
+
+OFFICE OF THE CITY LEGAL O
+Tel. No.298-6970
+Trunk Line No. 241-1000 Lcrc,26712251230
+o0o
+Ref. No. 1131-19-030
+LEGAL OPINION No.
+SERIES OF 2019 L
+ORDINANCE NO. O647-tq SERIES of 2018 entitled ,AN
+ORDINANCE GRANTING THE APPLICATION OF GERARD
+PERKIN T. GOTOHIO OF CEM-ROCK MXERS INC., FOR
+ADDMONAL ALLOWABLE USE FOR THE OPERANON OF A
+STONE CRUSHING PI.ANT AT SITIO ASANG, BARANGAY
+TAISNDANG, TUGBOK DISTRICT, THIS CITY'
+1ST INDoRSEMENT
+February 1, 2019
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance, informing your
+end that this office finds the enactment of the ordinance free from lega! infirmity.
+Hence, it is recommended that the Ordinance be approved.
+l{\ilLATTY. l.lmiltbn A. GALLo, Rsw
+Acting Asst. City Legal Officer
+Approved by:
+ATTY. OSMU
+VILIANUEVA, JR
+OIC-Acting
+Legal Officer
+Date approved: February 4,2019
+orf,\ 64 7 - 1 6_allma 5 lc _p e rfin_ 1 94 j0 _ 2 - 1 - I 9
+omt0f
+@dec
+DATE:
+TIME
+FEB
+MARYANN
+R
+D
+ATVARADO 0;s)
+F TfSGD
+A{{4-lbA -}t}
+(ll
+l:t() (
+eAq-
+-- lot
+
+SARA T. DUTERTE
+City Mayor
+City *f D*m
+F4*,lanr
+lanuary 28, Z0tg
+0\q1q- lt
+*
+L
+*
+b#M-010 ?.n0
+HJrsuffit t* SuLrsstion -1, krqraph C, Sstiori 469, futide One, Tifle Fire,
+Chapter 3, Book iII ard ffiion 54 of Book I Replhlic Act No, 7160, ottetwise known
+as ttre Lccal Governmsrt Corle of 1991, rare are furnishing ltu a rogry of Resdution l\tro.
+0l$26-1fi and Ordinance frlo. O6+7-1S, hoft kriffi of 2018 of *re Sargguniarq
+Panlungsol, br your infomuUut, guidarr-e amC aprotriate mtion.
+Very hnly yours,
+A
+f/tvt6 h^ {",{
+,f,I{ARITO H. SA}ITffi
+Serretary to tte Sangrguniang ktlurqsod
+{City tuuernnent Detratment FtsaJ tr}
+coRRESpoNDENcE & REcoRDs otvtstoN
+RECEIVED
+JAN 2 e 2019
+Mlnv iiti,l n.
+1:q
+I
+clr/
+t
+
+,
+tSth City Councit
+47th Regular Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr,
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera Jr.
+Pilar C. Braga
+Danilo C. Dayanghirang
+- On Official Business
+- On Domestic Emergency Leave
+- On Official Business
+ORDINANCE NO. 0647.T8
+SERIES of 2018
+AN ORDINANCE GRANTING THE APPLICATION OF
+GERARD PERKIN T. GOTOHIO OF CEM.ROCK MIXERS
+INC., FOR ADDITTONAL ALLOWABLE USE FOR THE
+OPERATION OF A STONE CRUSHING PLANT AT SITIO
+ASANG, BARANGAY TALANDANG, TUGBOK DISTRICT,
+THIS CITY
+
+Ord. No. 0647-LB
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE APPLICATION OF GERARD PERKIN T. GOTOHIO OF CEM-ROCI(
+MIXERS INC., FOR ADDITIONAL ALLOWABLE USE FOR THE OPERATION OF A
+STONE CRUSHING PLANT AT SITIO ASANG, BARANGAY TALANDANG, TUGBOK
+DISTRICT, THIS CrTY".
+SECTION 2. INNOVATIVE MODES OF DEVELOPMENT - ArtiCIC XII Of thc
+ComprehensiveZoningordinanceoroavaafticularlySection1
+thereof, "Request for Additional Allowable Use;' provides thit gre uses enumerated in the
+preceding afticles on general zone and all sub-zones are not exhaustive nor all-inclusive.
+fh. SANGGUNIANG Panlungsod, upon application of the project pioponent and upon
+favorable recommendation by the Local Zoning Board of Adjustment and Appeals (LZBAA);
+may allow other uses not enumerated thereunder as it may deem fit and proper including,
+but not limited to, the following projects which are of socio-economic and environmental
+significance and/or national interest by a 3/q majority vote of all members of the
+SANGGUNIANG Panlungsod through resolutions and ordinance.
+sEcrIoN 3. APPROVAL OF:REOUEST FOR ADDITIONAL ALLOWABLE USEThe request of Mr. Gerard perkin T. Gotohio of C
+f
+a stone crushing plant at Sitio Asang, Barangay Talandang, Tugbok District, this City, is
+hereby approved;
+SECTION 4. SEPARABITITY CLAUSE- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, ol the 12th day of December, 201g, by three-fourths (t/+ ) majority vote
+of all the Members of the sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+" C,lruurt1,. l, -
+cHARrrO ru. $ntfros
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head II),
+ATTESTED:
+NARD E.
+Vice
+Presidi
+Officer
+cns/kjtq
+
+Ord. No. 0647-18
+
+approveo 06 FEB 20 ao18
+
+ARA Z. DUTERTE
+
+City Mayor
+A
+
+ATTESTED:
+
+ATTY. ZULEIKA T,/LOPEZ
+City Administrator ~

@@ -1,0 +1,277 @@
+---
+ordinance_number: "0138-16"
+title: "Ordinance No. 0138-16"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0138-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid]
+---
+
+# Ordinance No. 0138-16
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Office of the Sanggunlang Panlungsod
+18d'city Council
+1* Regular Session
+SerEs sf 817
+FRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+eouncilerr
+Councilor
+Council*r
+e+uncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Csuncilor
+Ccuncilor
+Csunilor
+ABSET{T:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Sr,
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Bernard E. Al.,ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrdo C. Baluran
+Ma. Gherry Ann M. Bonguyan
+Pilar C. Brqa
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Leah A. Librado-Yap
+Rene Elias C. Lorez
+Diosdado Angelo A. Mahipus Sr
+Bonifmio E. Militar
+J. Melchor B. Quitain Jr.
+Marissa P. Salvdor-Abella
+Halila Y, Sudagar
+Mary helle D. Villafuefte
+Jesus loseph P. Zozobrdo III
+l%olo Z. Duterte
+.banne M. Bonguyan{uilos
+January N. Duterte
+Avegayle Dalodo Ortiz
+Anbinette G. ftincipe{askodes
+Temprary ftesiding Officer
+- On Domestic Emergency Leave
+- On Maternity Leave
+- On Sick Leave
+- On Domestic Emergency Leave
+- On Vmation Leave
+oRDrHAflcE ilo. 0138- n I oWl- 11
+Serier of 2017
+ATT ORDI]IAT{CE AME]IDI?{G CITY ORDII{AHCE ]IO. 0195-04,
+SERIES OF 2OO4 OTHERWISE KilOWil AS THE *AMEI|DED
+REROUTI]IG SCHET{E OF DAVAO CrTY", FOR THE ROUTE
+IBIUSTITIEHT GF R{IUTE 1 TURHIH€ FBIHTS tLOt{G
+CIRCUFIFERET{TIAI ROAD AI{D LOPEZ ]AEI{A STREET
+I
+l
+
+Patr1r 2 til'4
+()rd. No. 013'8 l7
+Be it ordained by the SANGGUNIANG Fanlungsod of Davao City in session
+assembled that:
+SECTIOH 1, .* IT.T.LE_, This Ordinance shall b+: known as "'Aff ORDIflAffCE
+A&frEttDrt{G crTY oRBlil*llcE HO. OL95-O+ SERIES GF 3Ot}4. OTHERYSTSE
+T{H,$WT,{ AE T!{T "ATIIEII&ES REROUTIHG SEHE}IE SF EAYTS CTTY,, FOE
+THE R6UTE ATJUSTHEIIT OF EOUTE T TURHIFIG FSIilTs ALSI{fE
+CffiCUHFEREF{TIAT RSAD AHE LOPCT SAEHA STREET';
+SECTI8II t - Ptr.ffiItrQ$*8f_Pgllff"- City Ordinance N$. 0334-U,
+3*r'ies of 2C12, "An Ordinanee for $e C-omprehensive Transport and Traffic Code r:f
+I-)av*l+ r*;F;", $ei.:r,l*n 1"5?, re*ond par,:graBh pro'ridm, to wit:
+.il
+t'{iti'r*ut" necessurift n"rdiivittg their bask authiit'ized ruutes, the Ci&
+T;:ancport and Trafflc tttlanagement Offlce may adJuet the turning polntr
+anrj fen'ninaf of puhii: utility buses and ieepnrys. preserihe their bading ano
+i,inhading poinb, andior r{uirc them to utilize passetqerc interchange terminab, if
+so required W an approved Fafffc imprcvement echeme.
+SECTIOII 3, - tUEfiAlIEil"f* * S€ction 2 of Ordinanee Ne,. 0195-fi4, Seriw
+trf I00*, which provide m follows:
+ROUTE 1
+(Cwning frorn Erbting Frendrlses of Route l-a and Route I
+Origin
+Tum Left
+Tum right
+Turn left
+Tum riEht
+Turn left
+Turn left
+Turn right
+Tum left
+Tum left
+Tum right
+Turn right
+Turn left
+Tum left
+Tum left
+Turn right
+Tum left
+Turn right
+Tum right
+Tum left
+Turn right
+Turn left
+Turn left
+Turn right
+t,ltrk b Origin
+Circumferential Road
+Lopez laena St.
+Mt. Apo 5t,
+General Luna St.
+Pelayo St. (l-qaspii
+Pichon St. (Magallanes)
+C,M. Recto St, (Claveria)
+Jacinto St.
+Quezon Boulevard Piapi
+Magsaysay Ave. (Uyanguren )
+Chavez St,
+Lapu-lapu St.
+Sobrecarey St.
+Vinzon St.
+R. Guzman through Guenero St.
+R. Magsaysay Ave. (tlyanguren)
+Ponciano St. thrcugh Ctooked Road
+San Fedro St.
+Ilustre St.
+Duter& St.
+Quirino Avenue
+nonko St.
+Tone 5t,
+Mabini St.
+
+Page .3 of 4
+Olt!. No.,0l;1&- I7
+is liereby arnended to read as folbws:
+ROTTTE 1
+(Coming frorn Erbting Francftbes of Route l-e end Route I
+Origin -
+Circumferential Road (previously Sarenas St,)
+Tum left -
+Fr. Selga St. (A. Pichon)
+Tum left -
+F, Tones St.
+Turn right -
+Lsp€z Jrena St.
+Turn right -
+Gen. Luna St.
+Turn right -
+Felayo 5t. (Legmpi)
+Turn left -
+Pichon St. {Magallanm}
+Turn left -
+e.M. Rec:ts 5t.
+Turn right -
+Jtinto 5t.
+Turn left -
+Quezon B*ulevard {Piapl}
+THRU Piapi
+Turn left -
+R. l4agsaysay Avenue
+Turn right -
+Chavez St.
+Tum right -
+Lapu-lapu $t,
+Turn left -
+$obrecarey St.
+Turn left -
+Vinzon St.
+Tum left -
+R. Guzman &rough Guenero St.
+Turn right -
+R. l{agsaysay Ave. (Uyanguren)
+Tum left -
+C. Bangoy St. (Ponciano)
+THRU CRffiKED ROAD,
+Turn right -
+San Mro St.
+Tum right -
+Ilustre St.
+Tum left -
+ButerE 5t,
+Turn right -
+Quirino Ave.
+Turn left -
+Tiongko St.
+Turn left -
+F. Tons St.
+Turn right -
+t4abini 5t.
+Strh to 0rigin" Circumferential Rd
+SECTIOH /L - SEPARABIUITY CIAUSE. - If for any reason, any sectbn or
+prnvisian of thls ordinance is deslared unconstihrtional or invalid, other sectrrns cr
+provixnns hereof not affected by such declaratbn shall continue tu be in full force and
+etl'ex-i;
+SECTION 5. *
+* This anrerdatory Odinanr:e shall take effect
+immediate Iy upon approval;
+EHACTffi, January 10, 2017 by a unaninrus vote of all the Members of the
+Sanggunian present, there king a quorum.
+CERTIEIED CORRECT.
+lvawtcnv
+U
+i:nsitiz:hard
+
+Clrcl.. Nt:, Ol3S. l?
+APPROVEDi
+, ZALI
+gAftA Z. DI.'?ERTE
+'.-1t1, l'l;,ii *r
+*TTY. rUTEItffi T. LOPEZ
+{ity Administrat+r
+DEEUEDAPPROVEO AFTER T}IE I.APSE OF
+5EO

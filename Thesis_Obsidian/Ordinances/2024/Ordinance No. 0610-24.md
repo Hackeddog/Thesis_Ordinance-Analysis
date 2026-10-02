@@ -1,0 +1,201 @@
+---
+ordinance_number: "0610-24"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2024 IN THE TOTAL AMOUNT OF ONE MTLLTON PESOS (P1,000,000.00) AS FTNANCTAL ASSTSTANCE TO THE PROVINCE OF BATAAN, DECLARED UNDE"
+date_enacted: "2024-08-06"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0610-24 QRF Province of Bataan (1).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/utilize, topic/portion]
+---
+
+# Ordinance No. 0610-24
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2024 IN THE TOTAL AMOUNT OF ONE MTLLTON PESOS (P1,000,000.00) AS FTNANCTAL ASSTSTANCE TO THE PROVINCE OF BATAAN, DECLARED UNDE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+t
+' Republic of the Philippines
+20th City Council
+29H Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counicilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor.
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+A! Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Councilor
+Councilor
+Marissa S. Abella
+Jessica M. Bonguyan
+- On Sick Leave
+- On Maternity Leave
+ORDINANCE NO. 06T0.24
+SERIES of 2024
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR
+TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE
+FUND (QRF) OUT OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION
+MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF
+DAVAO FOR CALENDAR YEAR 2024 IN THE TOTAL AMOUNT OF ONE
+MTLLTON PESOS (P1,000,000.00) AS FTNANCTAL ASSTSTANCE TO THE
+PROVINCE OF BATAAN, DECLARED UNDER A STATE OF CALAMIW DUE TO
+TYPHOON CARINA
+
+(
+Ord. No. 06L0-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled:
+SECTION 1. TITLE - This Ordinance shall be known as, "AN ORDINANCE
+GRANTING LEGISIATIVE AUTHORIW TO THE CITY MAYOR TO UTILIZE A
+PORTION OF THE THIRW PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION MANAGEMENT
+FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 2024 IN THE TOTAL AMOUNT OF ONE MILLION PESOS
+(p1,000,000.00) As FINANCIAL ASSISTANCE TO THE PROVINCE OF BATAAN,
+DECLARED UNDER A STATE OF CAIAMITY DUE TO TYPHOON CARINA."
+SECTION 2. DECLARATION OF POUCY - It is the policy of the City
+Government of Davao to adopt measures and adhere to the national principles and
+standards of humanitarian assistance in response to risk reduction and declares as its
+policy to judiciously utilize its resources and put the same to proper use.
+SECTION 3. ENEEIQIABI - The Province of Bataan, which was declared under
+a State of Calamity, is hereby declared as a beneficiary of the financial assistance in the
+amount of One Million Pesos (P1,000,000.00).
+sEcTIoN4.E!sffi-Section324(d)ofRepublicActNo.7160orthe
+Local Government Code of 1991, as amended by Republic Act No. 8185, states that five
+percent (5olo) of the estimated revenue from regular sources shall be set aside as annual
+lump sum appropriations for relief, rehabilitation, reconstruction, and other works or
+seruices in connection with calamities which may occur during the budget year. Provided,
+however, that such fund shall be used only in the area, or a portion thereof, of the local
+government unit or other areas affected by a disaster or calamity, as determined and
+declared by the local sanggunian concerned.
+SECTION 2l of Republic Act No. 10121 likewise provides that of the amount
+appropriated for LDRRMF, thin:y percent (300/o) shall be allocated as Quick Response
+Fund (QRF) or standby fund for relief and recovery programs in order that situation and
+living conditions of people in communities or areas stricken by disasters, calamities,
+epidemics, or complex emergencies, may be normalized as quickly as possible. Fufther,
+upon the recommendation of the LDRRMO and approval of the sanggunian concerned,
+the LDRRMC may transfer the said fund to support disaster risk reduction work of other
+LDRRMCs which are declared under a state of calamity.
+SECTION 5. UTILIZATION OF FUNDS -The amounts herein appropriated shall
+be used specifically for such item and expenditure approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of funds shall be subject to the existing
+government budgeting, accounting, and auditing rules and regulations of the Depaftment
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement
+Law (RA 9184), as well as other applicable laws, Ordinances and Presidential directives.
+SECTION 6. EEEEI$!.IVIT\I - The provisions of this Ordinance shall take effect
+immediately upon approval.
+ENACTED, August 6, 2024, by a unanimous vote of all Members of the
+Sanggunian, there being a quorum.
+
+ta
+ATTESTED:
+Ord. No. 0610-24
+CERTIFIED CORRECT:
+CH\M.UOK
+City Government Depaftment Head II
+(Secretary to the SANGGUNIANG Pa
+(cns/emz)
+sEP 0 5 202{
+nlunoso)
+J. MELc/b( B. eurrArN JR.
+/ Yice Mayor
+Presiding Officer
+APPROVED:
+2024
+Z. DUTERTE
+Mayort/ (
+ATTESTED:
+ATTY.
+H. ]AYOG
+r
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITYTO THE CITY MAYORTO UTIUZE A PORTION OFTHE
+THIRTY PERCENT (300/o) QUICK RESPONSE FUND (QRF) OUr OF THE FIVE PERCENT (50/o) DISASTER RISK
+REDUCTION MANAGEMETIT FUND (CAI.AMITY FUND) OFTHE CITY GOVERNMENT OF DAVAO FOR CALENDAR
+YEAR 2024IN THE TOTAL AMOUNT OF ONE MTLUON PESOS (p1,000,000.00) AS FTNANCIAL ASSTSTANCE
+TO THE PROVINCE OF BATAAN, DECI-ARED UNDER A STATE OF CA|-AMITY DUE TO TYPHOON CARINA
+City
+a

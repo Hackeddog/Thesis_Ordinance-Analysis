@@ -1,0 +1,308 @@
+---
+ordinance_number: "078-19"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 20L9,IN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00) AS ASSISTANCE TO THE MUNICIPALITY OF KALIBO, AKI.AN, DUE TO THE FIRE I"
+date_enacted: null
+approval_date: "2019-10-22"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 078-19 (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/authorizing, topic/mayor, topic/utilize, topic/portion, topic/thirty, topic/percent]
+---
+
+# Ordinance No. 078-19
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 20L9,IN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00) AS ASSISTANCE TO THE MUNICIPALITY OF KALIBO, AKI.AN, DUE TO THE FIRE I
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+#zJii:
+effi
+Repfiblib of the Philippines
+.OFFICE OF THE CITY MAYOR
+Ref. lb. CAdG2019-04114
+2NA TNDORSEMENT
+November 5,2019
+Respectfully returned to Ms. Charito N. Santoo, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 078-19,
+SeriCS of 20T9, entitled "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE
+A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF
+THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND
+(CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR
+20L9,IN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00)
+AS ASSISTANCE TO THE MUNICIPALITY OF KALIBO, AKI.AN, DUE TO THE FIRE
+INCIDENT THAT GREATLY DAMAGED THEIR PUBUC MARKET, SUBJECT TO EfifiNG
+GOVERNMENT BUDGFNNG, ACCOUNTING AND AUDMNG RULES AND
+REGUIATIONS", for your information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+(Administration)
+\
+GATAO
+AIDE IV
+REL
+Nov 0 6 20tg
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.conl
+</J
+-/1
+@
+L.IFE IS HERE
+,
+J.
+Drv
+EASED
+
+/
+tgt o)r
+OFFICE OF THE CITY LEGAL
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+Ref. No. CLO-2019-0003739
+LEGAL oPINIoN No. 6T[q
+SERIES OF 2019
+1't INDORSEMENT
+October 22,20L9
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 078-19
+SERIES OF 2019, entitled "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND
+(QRF) OUT OF THE FIVE PERCENT (50/o) DISASTER RISK REDUCTION AND
+MANAGEMENT FUND (CAIAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO
+FOR CALENDAR YEAR 2019, IN THE TOTAL AMOUNT OF THREE HUNDRED
+THOUSAND PESOS (P300,000.00) AS ASSTSTANCE TO THE MUNTCIPALTTY OF
+KALIBO, AKIAN, DUE TO THE FIRE INCIDENT THAT GREATLY DAMAGED THEIR
+PUBLIC MARKET, SUBJECT TO EXISTING GOVERNMENT BUDGENNG,
+ACCOUNTING AND AUDffiNG RULES AND REGULATIONS", informing your end
+that the same is free from legal infirmity citing RA 8185, otherwise known as An
+Act Amending Sec. 324 (d) of RA 7L60, the Local Government Code of 1991.
+Hence, it is strongly recommended that the said ordinance be approved
+ATTY.
+A. GALLO, RSW
+Acting
+City Legal Officer
+Approved by:
+ATTY. OSM
+P. VILI-ANUEVA, JR.
+OIC-Acting City Legal Officer
+Date Approved: October 22,2019
+or[OZ 8 - I 9 _c afaniry_a {a n -p u 5 frt -na{1g t_20 1 9 -0(n 3 7 9 7_1 0- 2 2 - 1 9
+@dce
+&T THE G''iT
+C $Y &qTI
+MARY
+,fi$
+'r:\#'
+0rytstoN
+ED
+1"
+RADO
+UU
+rtDt IV
+o4tt4
+I qa.lO-)fu
+re
+/
+
+Republic ofthe Philippines
+October 18, 2019
+tgln -
+SARA Z. DUTERTE
+City Mayor
+Madam
+o
+c/to-Un-ffU1q? 0.0t
+pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0293-19 and Ordinance No. 078-19, both SERIES of 20t9, of the SANGGUNIANG
+Panlungsod, this City, for your information, guidance and appropriate action'
+Very truly yours,
+orn
+lC)
+*
+I
+,EfrkKYrbJ.dffi;'
+Secretary to the SANGGUNIANG Panlu: gsod
+(City Government Department tlt:ad II)
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVED
+ii[r 1B 20lg
+ffi,
+Qlao
+cMo
+MARYANN
+ALVARADO
+
+19th City Council
+15th Regular Session
+SERIES of 2019
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+PRESENT:
+Councilor Edgar p. Ibuyan Jr.
+Vice Mayor Sebastian Z. Duterte
+Councilor Ralph O. Abella
+Councilor Nilo D. Abellera
+Councilor Maria Belen S. Acosta
+- Temporary presiding Officer
+- OB- attended the Congress of
+the Liga ng mga Barangay
+of Batangas province at Apo
+View Hotel
+- OB- Attended the activities of
+of the SANGGUNIANG Kabataan
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Richlyn N. Justol- Baguilod
+Pamela A. Librado- Morata
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. L'Dalodo- Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor Edgar R. Ibuyan Sr
+Councilor Jaffar U. Marohomsalic
+ORDINANCE NO. 078-19
+SERIES of 2019
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF
+THE THTRTY PERcENT{30olo) eurcK REspoNsE FUND (eRF) our oF THE FrvE
+flIE-ry-r (5olo) DrsAsrER nrsr REDUcrroN AND MANAGEMENT FUND
+(CAIAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR
+2OL9, IN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS
+(P 300,000.00) As AssrsrANcE To rHE MUNrcrpALrry oF KALrio, AKLAN,
+DUE TO THE FIRE INCIDENT THAT GREATTY DAMAGED THEIR PUBLic MARKET,
+suBJEcr ro ExrsrrNc GOVERNMENT BUDGETTNG, AccouNTrNG AND
+AUDITING RULES AND REGULATIONS
+
+Ord. No. 078-19
+SCSSiON
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in
+assembled that:
+SECTION 1. TITLE. This Ordinance shall be known as "AN oRDTNANcE
+AUTHORIZING THE CITV MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT
+(30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DTSASTER
+RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY
+GOVERNMENT OF DAVAO FOR CALENDAR YEAR zOLg, rN THE TOTAL AMOUNT OF
+THREE HUNDRED THOUSAND PESOS (p 3OO,O0O.OO) AS ASSTSTANCE TO THE
+MUNICIPALITY OF KALIBO, AKLAN, DUE TO THE FIRE INCIDENT THAT GREATLY
+DAMAGED THEIR PUBLIC MARKET, SUBJECT TO EXISTING GOVERNMENT BUDGETING,
+ACCOUNTING AND AUDITING RULES AND REGULATIONS
+SECTION 2. DECLARATION OF POUCY. In keeping with its mandate and
+in response to the needs of the people, the City Government of Davao declares as its
+policy to judiciously utilize its resources and put the same to proper use.
+SECTION 3. BENEFICIARIES. The Municipality of Kalibo, Province of Aklan is
+hereby designated as beneficiary of this financial assistance.
+SECTION 4. LEGAL BASIS. SECTION 324 (d) of Republic Act No. 7tOO,
+othenvise known as the Local Government Code of 1991, as amended by Republic Act
+8185, which states that " Five Percent (5o/o) of the estimated revenue from the regular
+sources shall be set aside as annual lump sum appropriations for relief, rehabilitition,
+reconstruction and other works or seruices in connection with calamities which may occur
+during the budget year. ProvideQ however, that such fund shall be used onty in the area,
+or a portion thereoli, of the local government unit or other areas affected by a disaster or
+calamity, as determined and declared by the local sanggunian concerned,i
+Fufther, SECTION 5 of the Implementing Rules and Regulations of Republic Act
+No. 8185, states that:
+Appropriations for Calamity Fund
+a) Allocation
+LGUs may also allocate/use a portion of the five percent (5%) Calamity Fund to
+other affected areas on condition that the said areas are declared as under a
+State of Calamity by the Sanggunian concerned;
+b) Utilization
+(2) A portion of the calamity fund may also be authorized to be used by the
+LGU concerned to provide financial assistance to other LGL|s whose area or
+portion thereof had been declared under a state of calamity by its Sanggunian.
+SECTION 5. USE OF FUNDS - The amount herein appropriated shall be used
+specifically for such item and expenditure approved by the SANGGUNIANG panlungsod. All
+disbursements and utilization of funds shall be subject to the exiiting government
+budgeting, accounting and auditing rules and regulationi of the Depaftmentbf -Audget
+and
+Management (DBM), the Commission on Audit (COA), the Procurement Law (RA 9t-B+;, as
+well as other applicable laws, ordinances and presidential directives.
+
+Ord. No. 078-19
+SECTION 6. EFFECTIVIW- The provision of this Ordinance shall take effect
+upon approval.
+ENACTED, October L5, 2019, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+,r UAnwd \ /-,.
+cHARrro N. S4NTOS
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head II)"
+ATTESTED:
+City
+Temporary |Presiding
+E
+AppRovED: 25OCT 2019
+2019
+Z. DUTERTE
+"City Mayor
+,a
+ATTESTED:
+ATTY. ZULEIKA T
+LOPEZ
+City Administratorcilor

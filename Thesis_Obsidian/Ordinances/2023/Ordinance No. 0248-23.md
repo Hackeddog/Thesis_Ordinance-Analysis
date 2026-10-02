@@ -1,0 +1,197 @@
+---
+ordinance_number: "0248-23"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE crw MAYoR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMEilT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE DEPARTTIET{T OF HEALTH DAVAO CETITER FOR HEATTH DEVETOPMEilT REIATIVE TO THE IMPLEMENTATION OF THE HEALTH PROMOTION PLAYBOOK PROGRAM"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0248-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legislative, topic/authoriw, topic/mayor, topic/srgn, topic/behalf]
+---
+
+# Ordinance No. 0248-23
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE crw MAYoR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMEilT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE DEPARTTIET{T OF HEALTH DAVAO CETITER FOR HEATTH DEVETOPMEilT REIATIVE TO THE IMPLEMENTATION OF THE HEALTH PROMOTION PLAYBOOK PROGRAM
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+zOE'City Council
+25h Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Courrcilo'r
+Councilor
+Councilor
+Councilor
+Councilor
+C.oundlor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Courrcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Ni{o M. AbeHera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+lessica lvl. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+)onard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Dosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+laffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P.Zozobrado III
+Bernard E. AI-ag
+Wilberto E. Al-ag
+- Presiding Officer
+- On Vacation Leave
+ABSENT:
+Councilor
+Councilor
+ORDINANCE NO. 0248.23
+SERIES of 2023
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE
+crw MAYoR TO SrGN, FOR AND rN BEHALF OF THE CITY OF
+DAVAO, THE MEMORANDUM OF AGREEMEilT (MOA) TO BE
+ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE
+DEPARTTIET{T OF HEALTH DAVAO CETITER FOR HEATTH
+DEVETOPMEilT REIATIVE TO THE IMPLEMENTATION OF THE
+HEALTH PROMOTION PLAYBOOK PROGRAM
+
+Ord. No. 0248-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT
+(MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE
+DEPARTMENT OF HEALTH DAVAO CENTER FOR HEALTH DEVELOPMENT
+RELATIVE TO THE IMPLEMENTATION OF THE HEALTH PROMOTION PLAYBOOK
+PROGRAM'.
+SECTION 2. DECLARATION OF POUCY_
+(1) SECTION 455 (b) (1) (vi) of Republic Act No. 7t60 or the Local Government
+Code of 1991 states that:
+"SECTION 455. Chief Executive; Powers, Duties and Compensation
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant to
+SECTION 16 of this code, the city mayor shall:
+(1) Exercise general superuision and control over all programs, projects,
+seruices, and activities of the city government and in this connection,
+shall:
+nc(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other documents
+upon authority of the SANGGUNIANG panlungsod or pursuant to law or
+ordinance."
+(2) SECTION 22 (a) (5) of Republic Act 7t60 provides that every local
+government unit, as a corporation, shall have the power to enter into
+contracts.
+SECTION 3. AUTHORIW- The City Mayor is hereby granted legislative authority
+to sign, for and in behalf of the City of Davao, the Memorandum of Agreement (MOA) to
+be entered into by and between the City of Davao and the Depaftment of Health - Davao
+Center for Health Development relative to the implementation of the Health Promotion
+Playbook Program.
+XXX
+t
+
+Ord. No. 0248-23
+SECTION 4.
+If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions
+hereof not affected by such declaration shal! continue to be in full force and effect.
+SECTIOTI 5.
+approval.
+This Ordinance shall take effect immediately upon
+EilACTED, on the 4h day of July 2023, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+T.M
+I
+ATTESTED:
+ciVrttavV{
+ELCI1OR B. QUrrArN JR.
+/vice Mayor
+Prc$ding Officer
+cns/josh
+For and in the absence of the Secretary:
+MA. THEREKK
+"EYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsrld)/
+fruL 2q
+APPROVED:
+AU6 29
+2023
+DUTERTE
+SE
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHAr.f OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED rNTO BY
+AN_D 8ETl^'EEN THE E-IT.Y OF DAVAO AND TH_E _D-EPART}!_E.I[T OF HEA_LTH - _DAVAO C-ENT_ER FOR HEA_LTH
+DilELOPMENT REI.ATIVE TO THE IMPLEMENTATION OF THE HEALTH PROMOEON PI.AYBOOK PROGRAM

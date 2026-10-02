@@ -1,0 +1,315 @@
+---
+ordinance_number: "0611-18"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF JOSUE TESTADO, SR./SAN IOSUE REALTY CORPORATION, FOR THE RECLASSIFICATION OF AN AREA CONSISTING OF TWENTY THOUSAND ONE HUNDRED FORTY.EIGHT (20,148) SQUARE METERS, MORE OR LESS, EMBRACED BY TRANSFER CERIFICATES OF TITLE (TCTs) NO. T-455301 AND T-431817, FROM MEDIUM DENSITY RESIDENTIAL ZONE TO PARKS AND RECREATION ZONE REGISTERED UNDER THE NAME OF JOSUE TESTA"
+date_enacted: null
+approval_date: "2019-01-18"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0611-18.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/application, topic/josue, topic/testado, topic/iosue, topic/realty]
+---
+
+# Ordinance No. 0611-18
+
+> AN ORDINANCE GRANTING THE APPLICATION OF JOSUE TESTADO, SR./SAN IOSUE REALTY CORPORATION, FOR THE RECLASSIFICATION OF AN AREA CONSISTING OF TWENTY THOUSAND ONE HUNDRED FORTY.EIGHT (20,148) SQUARE METERS, MORE OR LESS, EMBRACED BY TRANSFER CERIFICATES OF TITLE (TCTs) NO. T-455301 AND T-431817, FROM MEDIUM DENSITY RESIDENTIAL ZONE TO PARKS AND RECREATION ZONE REGISTERED UNDER THE NAME OF JOSUE TESTA
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Repu blic of ,the Ph ilippines
+OFFTCE OF THE CTTYAAAYOR
+sadis
+2:pi
+'6 NG
+Ref, No. CA@-2019-0031 5
+R HLEASED
+2Nd INDORSEMENT
+February 4,20L9
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0611-18,
+SERIES of 2018, entitled "AN ORDINANCE GRANTING THE APPLICATION OF JOSUE
+TESTADO, SR./SAN IOSUE REALTY CORPORATION, FOR THE RECLASSIFICATION OF
+AN AREA CONSISTING OF TWENTY THOUSAND ONE HUNDRED FORTY.EIGHT
+(20,148) SQUARE METERS, MORE OR LESS, EMBRACED BY TRANSFER CERIFICATES
+OF TITLE (TCTs) NO. T-455301 AND T-431817, FROM MEDIUM DENSITY
+RESIDENTIAL ZONE TO PARKS AND RECREATION ZONE REGISTERED UNDER THE
+NAME OF JOSUE TESTADO AND ALVIN TESIADO, LOCATED IN BARANGAY
+ANGLIONGTO, THIS CffY", for your information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+GO
+CMO. CRD
+)
+(
+,bl -l-n
+20r9
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao CiU
+(082) 224-3004 o (082) 241-1000 Ioc. 265 o davaocitymayor@gmai!.com
+pAw @
+LIFE
+IS HERE
+
+brlQlq-31
+OFFICE OF THE OTY LEGAL OFRCER
+Ref. No. 1131----
+r-egat opinion zuolls*ries of a0r81r
+0RDITANCE NCI. 06i1-18, SERIES oF u01B entitled" AN ORDINANCE
+GR,ANTI$IG TFIE APPUCATION OF JSSUE TESADO, SR/SNru ]OSUE
+REALTY CORPORATION. FOR THE RECI-ASSIFICATION OF AN AREA
+CONSISNNG OF TWENTY THOUSAND ONE HUNDRED FORW.EIGHT
+(2fi,148) SQUART METERS, MORE OR LEsS, EMBRACED BY TRANSFER
+CERTIFICATES oF ffILES (Tft"s) No. T-45s301 AND T431817, FR0M
+MEDIUT"I DENSMY ft.ESIDENTTAL ZONE TO PARKS AND RECREATJON
+ZONE REGISTERED UNDER THE NAME OF ]OSUE TESADO AND ALVIN
+TESADO, LOCATED IN BARANGAY AhIGLIONGTO, THIS CITY'.
+l't INDORSEMTNT
+January 17, 201.9
+Respectfully forwarded ts the Office of the City Mayar, through the Office of
+the Administrator, this CiS, the subject Ordinance No. 0611-18, SERIES of 2018,
+lnforming your end that thc measure is free from legal infinnity.
+Hence, it is recommended that the same be approved.
+ATTY.
+A. GALLO, RSW
+1.V
+Approved
+OSMU
+VILLANUEVA, ]R
+Acting City Legal Officer
+Date Apprcved: January 18,2019
+OFFIGE OF THF, GIW AT q4F{}STRATOR
+CITY HF'LL CTFtCE
+RECEiVED EY
+DAVAO CIW
+t'r4//rrJ
+DAl'Er
+TIME:
+ZOt\- Oor3tF
+I
+OFFSTSF
+BCCSUED IT
+CORRESPONDENCE & RECORDS DIVISI']N
+RECEIVLu
+JAN 2 3 20lg
+MARY ANN O.
+It:t0
+IV
+ifltE
+-t?A-}q
+4 ,, =zz
+I
+
+Repu5lic of the Philippines
+lanrraw -15 7fi1i-j
+SiRA T. SUTERTE
+Citv Mayor
+City of fiavao
+om
+*
+di
+t
+14adam
+E+q-0[ f.eQe
+Rrrsuant to Suhsertion 3, Paragraph C, SECTION 468, .Article One, Title Five,
+Chapter 3, Book III and ffiion 54 of Book I Republir Art t{o. 7160, dherwis known
+E the Loral Governnrent C*ls of 1991, we are fumishinEl y+ri a ropy of
+Rsolution No. 025113-18 and Ordinanre No. 0611-18, boit Serles of 2018 of tl're
+SANGGUNIANG Panlungs*I, City of flauao, for ycur informaUon, guidanre an'-J approtrriate
+xtion.
+F*r and in the akenre of the Secretarv
+I,IELBfi C.
+ffting Secretary to tire Sanggurriang Panlungsad
+iAssistant krretary to the SANGGUNIANG PanlunqErd)
+COIRESPONDENCE & RECORDS DIVISION
+RECEIVED
+JAN i 6 2019
+MARY
+O. ALVARADO /0.
+.-171o|
+i
+,
+i
+
+.saci6ro
+(,zi
+6b
+N6
+Republic bf the Philippines
+t8th City Council
+45th Regular Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo l. Clarion
+Danilo C. Dayanghirang
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Oftiz
+J. Melchor B. Quitain Jr.
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+April Marie C. Dayap
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Antoi nette G. Pri nci pe-Castrodes
+Marissa P. Salvador-Abella
+- Presiding Officer
+- On Official Business
+- On Sick Leave
+- On Vacation Leave
+- On Vacation Leave
+- On Vacation Leave
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0611.18
+SERIES of 2018
+AN ORDINANCE GRANTING THE APPLICATION OF JOSUE
+TESADO, SR./SAN JOSUE REALW CORPORATION, FOR
+THE RECLASSIFICATION OF AN AREA CONSISTING OF
+TWENTY THOUSAND ONE HUNDRED FORTY.EIGHT
+(20,148) SQUARE METERS/ MORE OR LESS, EMBRACED
+BY TRANSFER CERTIFICATES OF TITLE (TCTs) NO. T455301 AND T-43L8L7, FROM MEDIUM DENSIW
+RESIDENTIAL ZONE TO PARKS AND RECREATION ZONE
+REGISTERED UNDER THE NAME OF JOSUE TESADO AND
+ALVIN TESADO, LOCATED IN BARANGAY ANGLIONGTO,
+THIS CITY
+
+Ord. No. 0611-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE APPLICATION OF JOSUE TESADO, SR./SAN JOSUE REALW
+CORPORATION, FOR THE RECLASSIFICATION OF AN AREA CONSISTING OF
+TWENTY THOUSAND ONE HUNDRED FORTY-EIGHT (20,148) SQUARE METERS,
+MORE OR LESS, EMBRACED BY TRANSFER CERTIFICATES OF TITLE (TCTs) NO.
+T-455301 AND T-43L8L7, FROM MEDIUM DENSIW RESTDENTIAL ZONE TO
+PARKS AND RECREATION ZONE REGISTERED UNDER THE NAME OF JOSUE
+TESADO AND ALVIN TESADO, LOCATED IN BARANGAY ANGLIONGTO, THIS
+CIil".
+SECTION 2. COMMON REGULATIONS FOR GENERAL ZONES - Article V of the
+Comprehensive Zoning Ordinance of Davao City provides Common Regulations for Genera!
+Zone, which states:
+SECTION 1. REVIEW OF GENERAL ZONES. General Zones are
+subject to review by the Zoning Review Committee every five (5)
+years from the enactment of this ordinance. Any amendment
+thereof as recommended by the committee shall be in
+accordance with the provision of Article XIV SECTION 14;
+SCCtion 2. RECLASSIFICATION AND CHANGE OF ZONE
+REQUIREMENT. Reclassiflcation from agricultural zone to nonagricultural use any change from one general zone to another
+zone must be approved by three-fourth (314) vote of all the
+members of the SANGGUNIANG Panlungsod through a resolution
+and an ordinance. Any change of general zone to another shall
+be considered as amendment of the zoning ordinance and must
+comply with the provision of Article XIV, SECTION L4, hereof.
+SECTION 3. COVERAGE- This Ordinance shall cover the approval of the
+application of Josue Tesado, Sr. /San Josue Realty Corporation, for reclassification over an
+-
+area of Twenty Thousand One Hundred Fofi-Eight (20,148) square meters, covering
+Transfer Ceftificates of Title No T-455301 and T-4318L7, registered under the name of
+Josue Tesado and Alvin Tesado, from Medium Density Residential Zone to Parks and
+Recreation Zone.
+SECTION 4. SEPARABILITY CLAUSE- lf , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 4.
+approval.
+This Ordinance shall take effect immediately upon
+ENACTED, on the 3'd day of December, 2018, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+lt
+
+.t
+Ord. No. 0611-18
+CERTIFIED CORRECT:
+n A!,w,.f, \. /^"'{
+CHARTTO N. S4NTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftme nt Head It)X
+APPROVED
+JAN 2 6 ?0lgt
+E. AL-AG
+Vice Mayor
+Presiding Officer
+cns/kjtq
+ATTY,
+City Admin
+-
+, 2018
+ATTESTED:
+ATTESTED:
+z City rutll
+z.

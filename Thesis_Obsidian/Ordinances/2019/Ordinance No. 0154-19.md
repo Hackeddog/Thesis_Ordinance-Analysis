@@ -1,0 +1,323 @@
+---
+ordinance_number: "0154-19"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE PORTION OF THE ROAD FROM CORNER ARTIAGA. MABINI STREET TO THE BARANGAY HALL OF BARANGAY 33.D, MABINI STREET TO CORNER AURORA STREET ON DECEMBER 21, 2019 FROM 8:OO A.M. UP TO 11:OO P.M. IN CONNECNON WITH THE CELEBRATION OF * BARANGAY 33-D PASKO FIESTA 20t9', with the information that no executive action is needed on the matter since"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0154-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/portion, topic/road]
+---
+
+# Ordinance No. 0154-19
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE PORTION OF THE ROAD FROM CORNER ARTIAGA. MABINI STREET TO THE BARANGAY HALL OF BARANGAY 33.D, MABINI STREET TO CORNER AURORA STREET ON DECEMBER 21, 2019 FROM 8:OO A.M. UP TO 11:OO P.M. IN CONNECNON WITH THE CELEBRATION OF * BARANGAY 33-D PASKO FIESTA 20t9', with the information that no executive action is needed on the matter since
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.,..,:is:'*
+i )s
+I
+OFFICE OF THE CITYMAYOR
+Ref. No. C,dG2O2{HXX)O1
+2NA INDORSEMENT
+January 3,2A20
+Respectfully returned to Ms. Charito I{. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 796, SERIES of 2019 dated December
+23,20L9 of the City Legal Office, relative to the attached Ordinance No. 0152tr-19, SERIES
+of 20L9, entitled "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFIC OF THE PORTION OF THE ROAD FROM CORNER ARTIAGA. MABINI STREET TO
+THE BARANGAY HALL OF BARANGAY 33.D, MABINI STREET TO CORNER AURORA
+STREET ON DECEMBER 21, 2019 FROM 8:OO A.M. UP TO 11:OO P.M. IN CONNECNON
+WITH THE CELEBRATION OF * BARANGAY 33-D PASKO FIESTA 20t9', with the
+information that no executive action is needed on the matter since the activity has already
+lapsed, thereby rendering the ordinance moot, for your appropriate action.
+For the
+Mayor
+ATTY.
+H. ESPARCIA
+Acting
+rD.6f,}
+JAN 03 2020
+a
+REL
+AIDE IV
+LIFE IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 r (082) 241-1000 loc. 265 . davaocitymayor@gmail.comn
+tsAW @
+.l
+Drv
+c?e -
+?
+
+''d..
+r.'. rl
+.
+,,i
+R
+coFtt
+i4Ql
+ni 2a
+-lo
+Drv
+TL:J,
+)
+-
+"
+OFFICE OF THE CITY LEGAL
+Tel. No. 298-6970
+Trunk Line No. 241-1000 L&,26712251230
+GAL
+o
+LEGAL OPINION NO. 14I"
+SERIES OF 2019-__
+ArrY. ue{fficAlLo, Rsw
+Acting AssYCity Legal Officer
+0t95
+retoz
+Ref. No. CLO-2019-0004752
+1St INDORSEMENT
+December 23,20L9
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0154-19,
+SETiCS Of 2019 CNtitIEd 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI-AR TRAFFIC OF THE PORTION OF THE ROAD FROM CORNER ARTIAGAMABINI STREET TO THE BARANGAY HALL OF BARANGAY 33-D, MABINI STREET
+To coRNER AURORA STREET oN DECEMBER 21, 2019 FROM 8:00 A.M. up ro
+11:00 P.M. IN coNNEcrIoN WITH THE CELEBRATION oF "BARANGAY 33-D
+PASKO FIESTA 20L9", informing your end that the same is free from legal
+infirmity citing RA 7160, otherwise known as the Local Government Code of
+1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A
+local government unit may, pursuant to an ordinance, permanentty
+or temporarily close or open any local roa4 alley, park, or square
+falling within its jurisdrttion: ProvideQ however, That in ase of
+permanent closurq such ordinance must be approved by at least
+two-thirds (2/3) of all the members of the sanggunian, and when
+necessary, an adequate substitute for the public facility that is
+subject to closure is provided.
+nx
+(c) Any national or local roa4 alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial fairs, or an
+undertaking of public works and highways, telecommunications, and
+waterworks prolecb, the duration of which shall be specified by the
+loal chief executive concerned in a written order: providd,
+however, That no national or local road, alley, par& or square shatt
+be temporarily closed for athletic, cultural, or civic activities not
+officially sponsored, recognized, or approvd by the local government
+unit concerned'i
+IN VIEW THEREOF, it is recommended that the ordinance be approved.
+Approved by:
+ATTY. OSMUN
+P. VTLIANUEV& JR.
+OIC-Acting City Legal Officer
+Date Approved: December 23, ZlLg
+ordq 1 5 4 - 1 9_c fos u re _6193 J l_2 0 1 9 .{{n4 7 5 2 _1 2 -2 J - 1 g
+flflfi$ 0r
+c
+I
+e
+)
+I
++
+or{GIS!.G
+b .ruc
+ilI
+sri
+:
+nEcmm
+zclp
+2bo -i -.rb
+.t
+
+': Repub_lic o{StPhiliplines
+crTY of D.AVAO
+December t7,2019
+lLtTlorto
+SEBASTIAN Z. DUTERTE
+Acting City Mayor
+(J
+t
+*
+Sir:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0595-19. SERIES of 2019 and Ordinance No. 0154-19, SERIES of 2019 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+hu.wll - On'(Fe f.qr,/
+, Afticle One, Title Five,
+c,flffi6\k o,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+CORRISPONDENCE & RECORDS OIVISION
+RECEIVED
+DEC 1? 2019
+,ffi,
+cMo
+MARY ANN
+,
+roc.
+
+'
+19th City Council
+23d Regular Session
+SERIES of 2019
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Augusto Javier G. Campos III
+- Temporary Presiding Officer
+Sebastian Z. Duterte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Tozobrado III
+Councilor Edgar R. Ibuyan Sr
+- OB-Attended the 6th National Executive
+Board Meeting of the Liga ng mga
+Barangay in Mandaluyong City
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+ORDINANCE NO. 0154.19
+SERIES of 2019
+AN OR.DINANCE FOR THE TEMPOR.ARY CLOSURE TO VEHICULAR
+TRAFFIC OF THE PORTION OF THE ROAD FROM CORITER
+ARTIAGA-MABINI STREET TO THE BARANGAY HALL OF
+BARANGAY 33-D, MABIilI STREET TO CORilER AURORA STREET
+ON DECEMBER 2L, 2OLg FROITI 8:0O A.M. Up TO 11:00 p.M. III
+COT{NECTION WITH THE CELEBRATION OF 'BARANGAY 33.D
+PASKO FIESTA 2019"
+
+Ord. No. 0154-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as *AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF THE PIORTION OF THE
+ROAD FROM CORNER ARTIAGA.MABINI STREET TO THE BARAI{GAY HAtt OF
+BARANGAY 33-D, MABTNT STBEET T9 CORNER AURORA STREET ON DECEMBER
+2L, 2OLg FROM 8:00 A.M. UP TO 11:00 P.M. IN COilNECTION WITH THE
+CETEBRATION OF *BARANGAY 33.D PASKO FIESTA 2OL9".
+SECTION 2. DECLARATIOI{ OF POLICY- Pursuantto SECTION 21 (c) of Republic
+Act No. 7L60, otherwise known as the Local Government Code of 1991, it provides the
+following, to wit:
+"Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial fairs, or an
+undertaking of public works and highways, telecommunications,
+and waterworks projects, the duration of which shall be specified
+by the local chief executive concerned in a written order: Provided,
+however, that no national or local road, alley, park, or square shall
+be temporarily closed for athletic, cultural or civic activities not
+officially sponsored, recognized or approved by the local
+government unit concerned".
+SECTION 3. TEMPORARY ROAD CLOSURE - The road along corner ArtiagaMabini Street to the Barangay Hall of Barangay 33-D, Mabini Street corner Aurora Street
+shall be temporarily closed to vehicular traffic on December 2L,2019 from 8:00 A.M. up
+to 11:00 P.M., as requested by the Barangay Council of 33-D, in celebration of Barangay
+33-D Pasko Fiesta 2019.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEElgru - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, December 10, 20L9, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+af*rr;r-ffnro,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+
+APPROVED
+Ord. No. 0154-19
+20L9
+ATTESTED:
+ATTESTED:
+POS III
+Councilor
+Temporary Presiding Officer
+cns/bern
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+SARA Z. DUTERTE
+City Mayo;
+,y

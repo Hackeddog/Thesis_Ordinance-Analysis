@@ -1,0 +1,359 @@
+---
+ordinance_number: "0776-25"
+title: "AN ORDINANCE FOR THE TEMPORARY PARTIAL CLOSURE TO VEHICULAR TRAFFIC ALONG AURORA STREET NEAR ]ACINTO STREET FRONTING MERCY ISLAMIC BUILDING MASJID FROM MARCH L2, 2025 UP TO MARCH 30, 2025 FROM 5:30 PM TO 9:00 PM, IN CONNECTION WITH THE OBSERVANCE OF THE HOLY MONTH OF RAMADAN\", for your information and appropriate action. For the City Mayor: Digitally signed by Layog sl dh EX3$#3tJ,T?Eio,ou l\" lE' "
+date_enacted: null
+approval_date: "2025-03-18"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0776-25.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2025
+resolved_year: 2025
+corpus_year: 2025
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2025.0
+detected_ordinance_number_year: 2025.0
+detected_series_year: 2025.0
+detected_approval_year: 2025.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2025, status/valid, topic/temporary, topic/partial, topic/closure, topic/vehicular, topic/traffic, topic/along]
+---
+
+# Ordinance No. 0776-25
+
+> AN ORDINANCE FOR THE TEMPORARY PARTIAL CLOSURE TO VEHICULAR TRAFFIC ALONG AURORA STREET NEAR ]ACINTO STREET FRONTING MERCY ISLAMIC BUILDING MASJID FROM MARCH L2, 2025 UP TO MARCH 30, 2025 FROM 5:30 PM TO 9:00 PM, IN CONNECTION WITH THE OBSERVANCE OF THE HOLY MONTH OF RAMADAN", for your information and appropriate action. For the City Mayor: Digitally signed by Layog sl dh EX3$#3tJ,T?Eio,ou l" lE' 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2025 |
+| Ordinance number suffix | 2025 |
+| Series header | 2025 |
+| Approval date | 2025 |
+| **Resolved** | **2025** |
+
+## Context
+
+- Year index: [[_Index 2025]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OFTHE CITY MAYOR
+CIryOFDAVAO
+z,?
+Ref. No. CAdO-O31825-138
+2Nd INDORSEMENT
+May 15,2425
+Respectfully returned to Ms. Charito N. Santoq, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion ttto. 22S,'SERIES of 2025 dated March 19,
+2025, from the City Legal Office, relative to the attached duly signed and approved
+Ordinance No. 0776-25, SERIES of 2025 entitled, 'AN ORDINANCE FOR THE
+TEMPORARY PARTIAL CLOSURE TO VEHICULAR TRAFFIC ALONG AURORA STREET
+NEAR ]ACINTO STREET FRONTING MERCY ISLAMIC BUILDING MASJID FROM MARCH
+L2, 2025 UP TO MARCH 30, 2025 FROM 5:30 PM TO 9:00 PM, IN CONNECTION WITH
+THE OBSERVANCE OF THE HOLY MONTH OF RAMADAN", for your information and
+appropriate action.
+For the City Mayor:
+Digitally signed by Layog
+sl dh EX3$#3tJ,T?Eio,ou
+l" lE' iggo" ramrheaurhoror
+this document.
+ATIY. FRANCIS MARK H. LAYOG
+City Administrator
+,gs;
+oatg
+-riE
+E
+A
+E
+\
+LIrE ta r.EiE
+::: l4AY 1 6 zi?s r
+b,,*u,mffi*r'ffi,i:j
+coiltiEi@
+rg-t)
+--.--.- DAffiP'.@
+2nd Floor, City Hall Building, San Pedro St., Davao City
+L
+socoTEc
+)Atq
+
+Ref. No. CLO-2025-001020
+Approved by:
+ATTY. OSMUN
+P. VTLLANUEVA, JR.
+Acting City Legal Officer
+Date of approval: March 19,2025
+Office of the Ciry Legil
+LEGAL OPIN
+ATTY.
+V
+SERIES
+l't INDORSEMENT
+March 19,2025
+Respectfi.rlly forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0776-25,
+SERIES of 2025 entitled "AN ORDINANCE FOR THE TEMPORARY PARTIAL
+CLOSURE TO VEHICUTAR TRAFFIC ALONG AURORA STREET NEAR
+,ACINTO STREET FRONTING MERCY ISLAMIC BUILDTNG MAS'ID FROM
+MARCH 12, 2025 UP TO MARCH 30, 2025 FROM 5:30 PM TO 9:00 PM,
+Iil COI{NECTION WITH THE OBSERVANCE ON THE HOLY MONTH OF
+RAMADAI{i informing your end that the subject measure is in accord with
+SECTION 2l of Republic act 7160, otherwise known as the Local Government code
+of 1991 to quote:
+'SECTION 27,
+Closure and Opning of Rnds. - (a) A
+local government unit may, purcuant to an ordinance, permanently or
+temporarily close or open any local roaQ alley, park, or square falling
+within its juisdiction: Provided, however, That in case of permanent
+closure, sucfi ordinance must be approved by at least two-thirds (2/3) of
+alt the memberc of the sanggunian, and when necessaryr an adequate
+substitute for the public facility that is subject to closure is provided.
+Xd
+(c) Any national or local roa4 alley, parlg or square may be
+temporarily closed during an actual emergenq, or fiesta celebrations,
+public rallia, agricultural or industrial fairs, or an undertaking of public
+works and highways, telecommunications, and waterwork proiects, the
+duration of which shall be specified by the local chief executive concerned
+in a witten order: ProvideL however, That no national or local roaQ
+atleh parl<, or square shall be temporarily closed for athletig cultural, or
+civic activities not officially sponsored recognizeQ or approved by the
+local government unit concerned'i
+In view thereof, this office recommends the apprcnral of the subject
+ordinance.
+!
+RESPECTFU LLY SU BMITTED.
+m l'-U
+E
+Afforney
+1,5rnn-/ TTozEr\4E. L|ou
+^rrff
+Room 24, City Hall Bdlg., San Pedro St., Davao CiW
+8 zca-6glo / 241-l0oo Loc. 267,225,230 E clo@davaocity.gov.ph
+io
+..t\
+BAY O
+ao@tac
+1 ic25
+C.TY '3F DHVHO
+iv r rGa.L oFFlcE
+rrtsE
+ts
+xt{e
+
+Office of the City Legal Officer
+Ref. No. CLO-2025-001020
+LEGAL OpIilION NO. 1)t
+SERIES OF 2025
+l"t INDORSEMENT
+March 19,2025
+Respectfully furwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0776-25,
+SERIES of 2025 entitled *AN ORDINANCE FOR THE TEMPORARY PARTIAL
+CTOSURE TO VEHICULAR TRAFFIC ALOilG AURORA STREET NEAR
+JACINTO STREET FRONTIilG MERCY ISIAMIC BUILDING MASJID FROM
+MARCH L2, 2025 UP TO MARCH 30, 2025 FROM 5:30 PM TO 9:00 PM,
+IN CONNECTION WITH THE OBSERVANCE ON THE HOLY MONTH OF
+RAMADAN", informing your end that the subject measure is in accord with
+SECTION 2l of Republic act 7160, otherwise known as the Local Government code
+of 1991 to quote:
+'SECTION 27,
+Closurc and Opning of Rads, - (a) A
+local government unit may, pursuant to an ordinancq permanently or
+temporarily close or open any local road, alley, parlg or square falling
+within its jurisdidion: ProvideQ however, That in case of permanent
+closure, such ordinance must be approved by at least two-thirds (2/3) of
+alt the members of the sanggunian, and when necessaryl an adequate
+substitute for the public facility that is subiect to closure is provided.
+Xn(
+(c) Any national or local road, alley, park, or square may be
+temporarily closed during an adual emergenq, or fiesta celebrations,
+pubtic ratlies, agricultural or industrial fairs, or an undertaking of public
+work and highways, telecommunications, and waterwork projecb, the
+duration of which shatt be specified by the local chief executive concerned
+in a written order: Provided, however, That no national or local road,
+atley, parl<, or square shall be temporarily closed for athletic, cultural, or
+civic activities not officially sponsored, recognized, or approved by the
+local government unit concerned'l
+In view thereof, this office recommends the approval of the subject
+ordinance
+RESPECTFULLY SUBMITTED
+ATTY.
+HIE G.
+Attorney IV
+Approved by:
+ATTY. OSMUNDO P. VTLLANUEVA,, JR.
+Acting City Legal Offtcer
+Date of approva!: March t9,2025
+rn srai fFr{
+Dbw
+BAY O
+Room 24, City Hall Bdlg., San Fedro St., Davao City
+? zga-oszo / 241-looo Loc.267,225,230 [
+clo@davaocity.gov.ph
+t
+lF DHVHC
+GAL OFtrICE
+r 11 Ft=ft
+rr!t
+ri
+Ht{t
+
+Republic of the Philippin'es
+March 18,2025
+SEBASTIAN Z. DUTERTE
+City Mayor
+C*y€f Dalviio
+CI!YOFDnVHo
+k)x - t3
+ffi
+ED
+R
+EI
+>P
+CITY LEGAL
+ICL
+RE
+lr.n { Q -,n?}f
+l .r rar I u I.UI.J
+DATE:
+TIME.
+u 9:6r
+Sir:
+'\rAI\^F: R0W-Ellir
+PAT
+CONTACT NO.
+LOC.222
+Pursuant to Sub*ection 3, Paragraph C, Seetion 4697 Article One, Title Five, Chapter 3i
+Book III and SECTION 54 of Book I of Republic Act No. 7160, otherwise known as the Local
+Government Code of 1991, we are furnishing you a copy of Resolution No. 04169-25 and
+Ordinance No. 0776-25, both SERIES of 2025 of the SANGGUNIANG Panlungsod, entitled o AN
+ORDIST'IilCE FOR THE TE+IFORARY PARTIAL CTOSURE TO VEI+IEUIAR TR4651g
+ALONG AURORA STREET NEAR JACINTO STREET FRONTING MERCY ISLAMIC
+BUTIDTNG MAsrrD FROM MARCH 12, 2o2s uP To MARCH 30, 2o2s FROM 5:30 pM
+TO 9:00 Pi4-IN COililECTION WITH THE OBSERVAI{CE OF THE HOLY MOilTH OF
+RAHAD*!+", for your informatisn, guidanee and appropriate action.
+For and in the absence of ttre of the City Gorrrernment
+Department Head II:
+*\r/
+TfA. TffiRESA A. REYES
+Acting City Government Department Head II
+(City Government Assistant Department Head II)
+$
+tsAV @
+3E SANGGUNIANG Panlungsod, San Pedro St., Davao City 8000
+8 ZZZ-O8SS ltr sp@davaocity.govph
+ia,;
+LIFE
+IS HERE
+IOCOTIC
+I
+I
+
+2oth CiW Council
+10th Regular Session
+SERIES of 2025
+PRESENT:
+Vice Mayor Edgar P. Ibuyan Jr.
+Councilor J. Melchor B. Quitain Jr.
+Councilor Marissa S. Abella
+Councilor Nilo M. Abellera Jr.
+Councilor Al Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Jessica M. Bonguyan
+Councilor Louie John J. Bonguyan
+Councilor Pilar C. Braga
+Councilor Augusto Javier G. Campos III
+Councilor Jonard C. Dayap
+Councilor January N. Duterte
+Councilor Richlyn N. Justol-Baguilod
+Councilor Diosdado Angelo Junior R. Mahipus
+Councilor Rodolfo M. Mande
+Councilor Bonz Andre A. Militar
+Councilor Temujin B. Ocampo
+Councilor Myrna G. L'Dalodo-Ortiz
+Councilor Alberto T. Ungab
+Councilor Trisha Ann J. Villafuerte
+Councilor Jesus Joseph P. Zozobrado III
+ABSENT:
+- Temporary Presiding Officer
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula - On Special Privilege Leave
+Bernard E. Al-ag
+- On Special privilege Leave
+Wilberto E. Al-ag
+- On Vacation Leave
+Kristine May John Abdul Mercado
+- on special privilege Leave
+Lorenzo Benjamin D. Villafuerte
+- on Domestic Emergency Leave
+ORDINANCE NO. 0776-25
+SERIES of 2025
+AN ORDINANCE FOR THE TEMPORARY PARTIAL CLOSURE TO
+VEHICUTAR TRAFFIC ALONG AURORA STREET NEAR JACINTO
+STREET FRONTING MERCY ISTAMIC BUITDING MAS'ID FROM
+MARCH 1,2,2025 UP TO MARCH 30, 2025 FROM 5:30 pM TO 9:00
+PM, rN coNNEcTroN wrTH THE oBSERvANcE oF THE HOLY
+MONTH OF RAMADAN
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+
+Ord. No. 0776-25
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE FOR THE
+TEMPORARY PARTIAL CLOSURE TO VEHICULAR TRAFFIC ATONG AURORA STREET
+NEAR JACINTO STREET FRONTING MERCY ISLAMIC BUILDING MAS'ID FROM
+MARCH L2, 2025 UP TO MARCH 30, 2025 FROM 5:30 PM TO 9:00 PM, IN
+CONNECTION WITH THE OBSERVANCE OF THE HOLY MONTH OF RAMADAN.'
+SECTION 2. DECLARATION OF POTICY - SECTION 21 (c) of Republic Act 7160,
+otherwise known as the Local Government Code of 1991 provides that "any national or local
+road, alley, park, or square may be temporarily closed during an actual emergency, or fiesta
+celebration, public rallies and agricultural or industrial fair".
+SECTION 3. TEMPORARY CLOSURE - In connection with observance of the Holy
+month of Ramadan, Punong Barangay Rolando P. Bantayan of Barangay 32-D, Poblacion
+District, this City, requested for the temporary partial road closure along the specified street and
+dates specified herein.
+SECTION 4. SEPARABITITY CLAUSE - If, for any reason, any SECTION or provision of
+this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof not
+affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, March tt, 2025, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the City Government
+Depaftment Head II:'w
+MA. THERESA A. REYES
+Acting City Government Department Head II
+(City Government Asst. Department Head II)
+ATTESTED:
+President
+Temporary Presidi ng
+mtar/ser
+t,lAR 2 1 2l,?5
+APPROVED
+202s
+ATTESTED:
+ATTY.
+MARK H. LAYOG
+ministrator
+AN ORDINANCE FOR THE
+PARTIAL CLOSURE TO VEHICUIXR TRAFFIC ALONG AURORA STREET NEAR
+JACINTO STREET FRONTING MERCY ISLAMIC BUILDING MASJID FROM MARCH t2,2025 UP TO MARCH 3A,2025
+FROM 5:30 PM TO 9:OO PM, IN CONNECION WITH THE OBSERVANCE OF THE HOLY MONTH OF RAMADAN

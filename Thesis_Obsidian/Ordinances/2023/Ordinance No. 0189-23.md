@@ -1,0 +1,211 @@
+---
+ordinance_number: "0189-23"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF PUBLTC WORI(S AND HTGHWAYS (DPWH) AND THE CrTY oF DAVAO, RE|-ATTVE TO THE MATNTENANCE, SUPERVTSTON, AS WELL AS SHoULDERING OF THE NECESSARY EXPENSES (WATER AND rIGlrT) OF THE CoNSTRUCTED STRUCTURES AND FACTLmES"
+date_enacted: "2023-04-04"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0189-23 (2).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 0189-23
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF PUBLTC WORI(S AND HTGHWAYS (DPWH) AND THE CrTY oF DAVAO, RE|-ATTVE TO THE MATNTENANCE, SUPERVTSTON, AS WELL AS SHoULDERING OF THE NECESSARY EXPENSES (WATER AND rIGlrT) OF THE CoNSTRUCTED STRUCTURES AND FACTLmES
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic of the PhiiiPPines
+Office of the Sangg;uniang Panlungsod
+13th
+2oth
+Council
+Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C,ouncilor
+Councilor
+Councilor
+C.ouncilor
+C,ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding fficer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfu M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Conrado C. Baluran
+Richlyn N. Justol-Baguilod
+- On Domestic Emergency Leave
+- OB- Attended a meeting of the
+Davao City Public Hospital
+ORDINAilCE NO. 0189-23
+SERIES of 2O23
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN,
+FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE
+DEPARTMENT OF PUBLTC WORI(S AND HTGHWAYS (DPWH) AND THE CrTY
+oF DAVAO, RE|-ATTVE TO THE MATNTENANCE, SUPERVTSTON, AS WELL AS
+SHoULDERING OF THE NECESSARY EXPENSES (WATER AND rIGlrT) OF THE
+CoNSTRUCTED STRUCTURES AND FACTLmES, TOCATED WTTHTN BAGO
+ApLAyA AND GULF VIEW ESPLANADES, THrS CrrY
+
+Ord. No. 0189-23
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. IEE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING T}IE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHA1F OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO
+BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF PUBLIC WORI(S AND
+I|IGHWAYS (DPWH) AND THE CITY OF DAVAO, RELATryE TO THE
+MATNTENANCE, SUPERVISTON, AS WELL AS SHOUTDERING OF THE NECESSARY
+EXPENSES (WATER AND LIGHT) OF TlrE CONSTRUCTED STRUCTURES AND
+FACILmES, LOCATED WITHIN BAGO APLAYA AND GULF VIEW ESPLANADES,
+THIS CIW."
+SECTION 2.
+- Sections 22 (a) (5) and (c) and
+455 (b) (1) (vi) of Republic Act 7L60, otherwise known as the Loca! Government Code
+of 1991, provides that:
+'SECTION 22. Corporate Powerc, -
+(a) Every local government unit, as a corporation, shall have the following
+powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be entered into
+by the local chief executive in behalf of the local government unit without
+prior authorization by the sanggunian concerned. A legible copy of such
+contract shall be posted at a conspicuous place in the provincial capitol or
+the city, municipal or barangay hall.
+SECTION 455. Chief Executive; Powerc, Duties and Compensation.
+(b) For efficient, effective and economical governance the purpose of which
+is the general welfare of the city and its inhabitants pursuant to SECTION 16 of
+this Code, the city mayor shall:
+(1) Exercise general supervision and control over all programs, projects,
+seruices, and activities of the city government and in this connection, shall:
+(vi) Represent the city in all its business transactions and sign in its behalf
+all bonds, contracts, and obligations, and such other documents upon
+authority of the SANGGUNIANG panlungsod or pursuant to law or ordinance."
+SECTION 3. AUIHORII - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City of Davao, the
+Memorandum of Agreement (MOA) to be entered into by and between the Department
+of Public Work and Highways (DPWH) and the City of Davao, relative to the
+maintenance, supervision, as well as shouldering of the necessary expenses (water and
+light) of the constructed structures and facilities, located within Bago Aplaya and Gulf
+View Esplanades, this City.
+SECTION 4.
+- If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+f
+
+Ord. No. 0189-23
+SECTION 5. EEEEQru - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 4th day of April 2023, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+chk,Lhl-;
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head lW
+ATTESTED:
+t^/
+J. MELCH/R B. QUITATN JR.
+/vice Mayor
+Presiding Officer
+cns/ray
+APPROVED
+APR ? s 208
+2023
+Z. DUTERTE
+SE
+v
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+inistrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN fiE DEPARTMENT OF PUBLIC WORIG AND HIGHWAYS (DPWH) AND THE CITY OF DAVAO,
+REI.ATIVE TO THE MAINTENANCE, SUPERVISION, AS WELL AS SHOULDERING OF THE NECESSARY
+EXPENSES (WATER AND UGHT) OF THE CONSTRUCTED STRUCTURES AND FACILITIES, LOCATED
+WITHIN BAGO API.AYA AND GULF VIEW ESPLANADES, THIS CITY
+cirv rttaup2

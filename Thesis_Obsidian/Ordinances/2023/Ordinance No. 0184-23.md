@@ -1,0 +1,190 @@
+---
+ordinance_number: "0184-23"
+title: "AN ORDINANCE AMENDING APPENDTX 4 (PUBLTC PAY-PARKTNG ZONES) oF CITY ORDTNANCE NO. O334-L2, OTHERWISE KNOWN AS THE COMPREHENSIVE TRAFFIC AND TRANSFORT CODE OF DAVAO CITY IN oRDER TO CONVERT THE PORTTON OF GENERAL LUNA ST. (FRONTTNG DAVAO DENCIAS R.ESTAURANT) T(' BE A PAY-PARKTNG A,NE"
+date_enacted: "2023-03-28"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0184-23 Traffic Code (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, type/amendatory, topic/appendtx, topic/publtc, topic/parktng, topic/zones, topic/ordtnance, topic/comprehensive]
+---
+
+# Ordinance No. 0184-23
+
+> AN ORDINANCE AMENDING APPENDTX 4 (PUBLTC PAY-PARKTNG ZONES) oF CITY ORDTNANCE NO. O334-L2, OTHERWISE KNOWN AS THE COMPREHENSIVE TRAFFIC AND TRANSFORT CODE OF DAVAO CITY IN oRDER TO CONVERT THE PORTTON OF GENERAL LUNA ST. (FRONTTNG DAVAO DENCIAS R.ESTAURANT) T(' BE A PAY-PARKTNG A,NE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+2oth CiW Council
+12h Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+C.ouncilor
+C.ouncilor
+C,ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Aposto! Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+AIbefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Presiding fficer
+Bai Hundra Cassandra Dominique N. Advincula - OB- Attended the City and
+Provincial TESD Committee
+1't Quarter Meeting
+Richlyn N. Justol-Baguilod
+- On Vacation Leave
+ABSENT:
+Councilor
+Councilor
+ORDINANCE NO. 0184.23
+SERIES of 2023
+AN ORDINANCE AMENDING APPENDTX 4 (PUBLTC PAY-PARKTNG ZONES)
+oF CITY ORDTNANCE NO. O334-L2, OTHERWISE KNOWN AS THE
+COMPREHENSIVE TRAFFIC AND TRANSFORT CODE OF DAVAO CITY IN
+oRDER TO CONVERT THE PORTTON OF GENERAL LUNA ST. (FRONTTNG
+DAVAO DENCIAS R.ESTAURANT) T(' BE A PAY-PARKTNG A,NE
+
+Ord. No. 0184-23
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. IIIE - This Ordinance shall be known as "AN ORDINANCE
+AMENDIilG APPENDIX 4 (PUBLIC PAY-PARKING ZONES) OF CrTy
+oRDTNANCE NO. O334-L2, OTHERWTSE KNOWN AS THE COMPREHENSM
+TRAFFIC AND TRANSPORT CODE OF DAVAO CITY IN ORDER TO CONVERT
+THE PORTTOil OF GENERAL LUNA ST. (FRONTING DAVAO DENCIA'S
+RESTAURANT) TO BE A PAY-PARKTNG ZONE".
+SECTION 2. DECIARATION OF POLICY - In accordance with the Local
+Government Code of 1991, it is the policy of the City Government of Davao to promote
+transpoftation and shall endeavor to be proactively involved in the planning and
+management of an efficient, safe, environment-friendly, affordable and people centered
+sustainable City traffic and transpolt system.
+SECTION 3. AUEIDUENI - The amendment shall read as follows: (Ihose
+highlighted words are the insefted amendments.)
+.APPENDIX 4
+PUBLIC PAY PARKING ZOilES
+1. Streets Designated as Public Pay Parking Zones
+o. General Luna St. (Frontino Davao Dencia's Restaurant)"
+sEcTIoN4.rc-Anyordinance,localissuanceorrule
+inconsistent with the provisions of this Ordinance are hereby repealed or modified,
+accordingly.
+SECTION 5. rc
+- If, for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, the other sections or provisions hereof
+which are not affected thereby, shall continue to be in full force and effect.
+SECTIOII 6. EEEEGISf,III * This Ordinance shall take effi fifteen (15) days
+after approval, posting and publication in a newspaper of local circulation.
+ENACTED, on the 28th day of March 2023, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+)oo(
+)oo(
+)oo(
+f\,whJ.ff*
+Secretary to the SANGGUNIANG Panlungsod
+(CiU Government Depaftment Head II)p
+
+,
+rl
+Ord. No.0184-23
+2023
+i
+'
+rr
+'
+i
+ATTESTED:
+ATTESTED:
+J.M etcffis. eurrArn rR.
+/ vice Mayor
+/ Presiding Officer
+cns/ray
++l,nlrt
+APPROVED:
+APR ? fi ?n?1
+Z. DUTERTE
+City Mayor 4
+/
+H, LAYOG
+AN ORDTNANCE AMENDTNG APPENDTX 4 (PUBUC PAY-PARKTNG ZONES) OF CrTY ORDTNANCE NO.
+033+TZ, OTHERWISE KNOWN AS THE COMPREHENSIVE TRAFFIC AND TRANSPORT CODE OF
+DAVAO CrTY rN ORDER TO CONVERT THE PORTTON OF GENERAL LUNA ST. (FRONING DAVAO
+DENCIAS RESTAURANT) TO BE A PAY-PARKING ZONE
+ATTY.
+-

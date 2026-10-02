@@ -1,0 +1,187 @@
+---
+ordinance_number: "0697-24"
+title: "Ordinance No. 0697-24"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0697-24 Car Free Sunday (1).pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2024.0
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0697-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2024 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+'
+20th City Council
+42d Regular Sesion
+SERIES of 2fr24
+PR,ESENT:
+Vice Mayor
+Councilor
+Courrcilor
+Councilor
+Councilor
+Councilor
+Councllor
+Councilor
+C-ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Cotrrcilor
+Councilor
+C-ouncilor
+Councilor
+Councilor
+J. i'lelchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera lr.
+Luna Maria Dominique S. Acosta
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. AteJandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol€aguilod
+Diosdado Angelo Junior R. Mahipus
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann l. Villafuerte
+lesus Joseph P. Zozobrado III
+Bai Hundra Cassandra Dominique S. Advincula
+lessica M. Bonguyan
+Augusto Javier G. Campos III
+Rodolfo M. Mande
+Presiding Officer
+- On Maternity Leave
+OB- Attended the ocular visit
+and dialogue-Institute of
+Primary Healthcare of DMSF in
+Sitlo Malikongkong Martlog
+District, this CIty
+OB- Attended the USAID
+Oppoftunity 2.O Youth and
+Paftner Summit in Quezon City
+ABSEilT:
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor Kristine May John Abdul Mercado
+oRDILANCE NO. A697-24
+SERIES ot 2A24
+EilACTING Ail ORDINANCE FOR THE TEMPORARY CTOSURE TO
+UEHICUI.AR, TR.AFFIC, PARTICUI.AR,LY AT THE DAVAO CITY COASTAL
+ROAD, FROM CROSSING BAGO APLAYA TO CROSSING TUTIP DRM
+EVERY SUNDAY FR.OITI 4:OO AM TO 8:fiI AM, STARTII{G oI{ N0VEMBER
+30, 2O2+ IH OOilNECTION wrrH THE LETTER-REQUEST OF ItlR.
+MIGIiAEL EEifTtrfl P. AFOf,fAEERI' OFFIeEf;-Ifi-eHARCE, EAVAO ef+Y
+SPORTS DEVELOPMENT DMSION, PERTAINIIIG TO THE PROPOSED
+PHYSICAL EIINESS PROGRAM DUBBED AS'CAR FREE SUNDAY'
+
+Ord No. 0697-24
+Be it ordained ny the SANGGUNIANG Pankrngsod of Darao Cty, in session
+assembfed; that;
+SECTIOil 1. TfTLE - This Ordinance shall be known as "Ail ORDIilAilCE
+FOR THE TETIIPIORARY CLOsURE TO VEHICUI.AR TRAFFIIC, PARTICT'TARLY
+AT THE DAVAO CITY COASTAT ROAD, FROM CROSSING BAGO API.AYA TO
+CROSSIHG TUTIP DRIVE EVERY SUI{DAY FROIti 4ilXl AIrt TO 8l0O AMr
+$TABTING oN ilOvEl,lBER 39r AA?, ,I IN GONIIEGTI9N WfH THE TETTER:
+REQUEST OF MR. MICHAEL DENTOIT P. APORTADERA, OFFTCER-ril-CHARGE,
+DAVAO CITY SPORTS DEVELOPMENT DIVISION, PERTAINITTG TO THE
+PROPiOSED PHYSICAL FITNESS PROGRAM DUBBED AS *CAR FREE SI'ilDAY".
+SEGTION ?! BEGTARATION OF POTIGY - SECTION 21 (c) of Repubtic Aet No,
+7L60, othenrvise known as the Local Government Code of 1991, provides that: "any
+national or local road, alley, park, or square may be temporarily closed during an actual
+emergency, or fiesta celgbration, public rallies and agricultural or industrial fair."
+SECTIOII 3. TEiIPIORARY CLO9URE = In connection with the proposed
+futess program of the Davao City SporB Development Division, Mr. Michael Denton p.
+Apoftadera requested for the temporary road closure of the Davao City Coastal Road
+from Gossing Bago Aplaya to Crossing Tulip Drive every Sunday from 4:00 am to 8:00
+am, starting on November 30,2024, furthe said purpose.
+SECTIOI| 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by zuch declaration shall continue to be in full force and
+efrct.
+SECTION 5.
+upon approval.
+EFFEcrrwrY - This ordinance shall take effect immediatery
+EilACTED, on Ute 12h day of November NZ4, by a unmimous vote of alt the
+Members o-f the Sanggunian; there being o Quorurn;
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+MA. THER=ffREYEs
+Afing City Govemment Department Head II .
+(City Government Assitant Department Head lt)f-l
+ATTESTED:
+t. HELr;##^a. eurrArlt JR.
+/ Vice Mayor
+Presiding Officer
+cns/mark
+
+Ord F|o. A697-24
+APPROYIED.
+Nov 2 I 2024
+Z. DUTERTE
+I
+20.24
+N,Y
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDIMNCE FOR THE TEMPORARY CLOST RE TO VEHICU!-AR TRAFFIq PARTICUISRLY
+AT TTE DAVAO ATY @ASTAL rcAD, FRO+{ CROSSITG EAGO APL4YA TO CROESII€ TI,'IIP
+DRIVE EVERY SI.JNDAY FROM 4:OO AM TO 8:OO trv|, STARTING ON NOVEMBER s, 2024, IN
+CoNNECTION WITH THE LETTER-REQUEST OF MR. MICHAEL DENTON p. ApORTAOen+
+ofFICER-IH{HARGE, DAVAO CITY SPORTS DWELOP}IENT DIVISIOI{, PERTAINI|{G TO THE
+PROPOSED PHYSICAL FITNESS PROGRAM DUBBED AS "CAR FREE SUNDAT
+City

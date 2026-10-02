@@ -1,0 +1,187 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE ADOPTING THE GUIDELINES ON HOSPITALIZATION ASSISTANCE BENEFIT AND MORTUARY FUND BENEFIT TO EMPLOYEES OF THE CITY GOVERNMENT OF DAVAO"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000850-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 0.1
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/adopting, topic/guidelines, topic/hospitalization, topic/assistance, topic/benefit, topic/mortuary]
+---
+
+# Ordinance No. 000850-21
+
+> AN ORDINANCE ADOPTING THE GUIDELINES ON HOSPITALIZATION ASSISTANCE BENEFIT AND MORTUARY FUND BENEFIT TO EMPLOYEES OF THE CITY GOVERNMENT OF DAVAO
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+i
+Republic cif the Philippines
+City of Davdo
+Office of the Sangguniadg Panlungsod
+19th City Council
+48s Regular Session
+SERIES of 202L
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Augusto Javier G. Campos III
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Sebastian Z. Dutefte
+Maria Belen S. Acosta
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+- OB- Acting City Mayor
+- On Sick Leave
+- On Maternity Leave
+- On Sick Leave
+ORDINANCE NO. 0850.21
+SERIES ol 2O2l
+AN ORDINANCE ADOPTING THE GUIDELINES ON
+HOSPITALIZATION ASSISTANCE BENEFIT AND MORTUARY
+FUND BENEFIT TO EMPLOYEES OF THE CITY GOVERNMENT
+OF DAVAO
+
+Page 2 of 3'
+Ord. No. 0850-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+ADOPTING THE GUIDELINES ON HOSPITALIZATION ASSISTANCE BENEFIT
+AND MORTUARY FUND BENEFIT TO EMPLOYEES OF THE CITY GOVERNMENT
+OF DAVAO".
+SECTION 3. APPROPRIATIONS - The City Government of Davao through the
+Local Finance Committee shall provide for the annual funding of the benefits under this
+Ordinance. All disbursements under this Ordinance shall be subject to existing
+government budgeting, accounting, and auditing rules and regulations of the Department
+of Budget and Management (DBM), the Commission of Audit (COA), and the Procurement
+Law (Republic Act No. 9184).
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. REPEALING CLAUSE - All Ordinances, Resolutions, Executive
+Orders, Memoranda and Administrative Regulations or part thereof in conflict or
+inconsistent with the provisions of this Ordinance are thereby repealed, amended or
+modified accordingly.
+SECTION 5. EFFECTMW - This Ordinance shall take effect after fifteen (15)
+days following its publication in a local newspaper of general circulation in the City Of
+Davao.
+ENACTED, on the 14th day of December 202L, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ M^^^^)- /"--
+Cnnnrro N. q/ANTos
+ATTESTED:
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)^1
+POS III
+Council
+Presid
+AU
+cns/bern
+ing Officer
+SECTION 2.
+- The City of Davao shall adopt the
+guidelines on the Hospitalization Assistance Benefit and Moftuary Fund Benefit to
+Employees of the City Government of Davao issued on July 6,2020 by the Committee
+on In-House Healthcare Package for the City Government Employees (Health Care
+Committee).
+
+ATTESTED:
+l
+Ord. No. 0850-21
+APPROVED:
+JAN I I N2?"
+202L
+SARA Z. DUTERTE
+- city
+LETKA
+LOPEZ
+Z. DIJTERTE
+Acttnrr ffiV ehyor t
+-
+AN ORDINANCE ADOPTING THE GUIDELINES ON HOSPITAUZANON ASSISTANCE BENEFIT AND
+MORTUARY FUND BENEFIT TO EMPLOYEES OF THE CITY GOVERNMENT OF DAVAO
+Admi

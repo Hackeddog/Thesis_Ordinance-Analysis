@@ -1,0 +1,262 @@
+---
+ordinance_number: "0176-19"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF BARRESA HOMEOWNERS ASSOCIATION INC. FOR REZONING OF A PROPOSED RELOATION SITE SffUATED IN BAMNGAY MATINA PANGI, TALOMO DISTRICT, THIS CITY, COVERED BY TCT NO. 166258 WITH A TOTAL AREA OF 23, 6S3 SQUARE METERS FROM MEDIUM DENSITy RESIDENTIAL SUB-ZONE (R-2) TO HIGH DENSITY RESIDENTIAL ZONE (R-3)\", for your inr\"or-matircn and appropriaie acticrn For the Ciff i"
+date_enacted: "2019-12-18"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0176-19 (1).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.85
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/application, topic/barresa, topic/homeowners, topic/association, topic/rezoning]
+---
+
+# Ordinance No. 0176-19
+
+> AN ORDINANCE GRANTING THE APPLICATION OF BARRESA HOMEOWNERS ASSOCIATION INC. FOR REZONING OF A PROPOSED RELOATION SITE SffUATED IN BAMNGAY MATINA PANGI, TALOMO DISTRICT, THIS CITY, COVERED BY TCT NO. 166258 WITH A TOTAL AREA OF 23, 6S3 SQUARE METERS FROM MEDIUM DENSITy RESIDENTIAL SUB-ZONE (R-2) TO HIGH DENSITY RESIDENTIAL ZONE (R-3)", for your inr"or-matircn and appropriaie acticrn For the Ciff i
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2020 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Ref. No-CA#.202{F00462
+2ND INDORSEMENT
+February t8,7gZg
+Respectfully retumed to Dls. Charito N, Santos, Secretary to the SANGGUNIANG
+Panlungsoci, this Crty, the within Legal Opinion No. 0105, SERIES of 202A dated January
+30,2020 from the City Legal Office, relative to the Ordinance No. 0176-19, SERIES of 2019
+CNUIICd, "AN ORDINANCE GRANTING THE APPLICATION OF BARRESA HOMEOWNERS
+ASSOCIATION INC. FOR REZONING OF A PROPOSED RELOATION SITE SffUATED IN
+BAMNGAY MATINA PANGI, TALOMO DISTRICT, THIS CITY, COVERED BY TCT NO.
+166258 WITH A TOTAL AREA OF 23, 6S3 SQUARE METERS FROM MEDIUM DENSITy
+RESIDENTIAL SUB-ZONE (R-2) TO HIGH DENSITY RESIDENTIAL ZONE (R-3)", for your
+inr"or-matircn and appropriaie acticrn
+For the Ciff i4ayor:
+r{
+ArrY. rnrsmfffiffi!. DoMrNGo
+nssisra nr (iiy;,dffiator
+(Administratloni
+.*r rr'8il#il8f l351tto *o, o,u
+RELEASED -
+FEB I e 2020
+eomr&euo
+aoMrr'l$nairve lrbe v f ,' 30
+second Floor, city Hall Buirding, city Hall Drive, san pedro st., Davao city
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.com.,
+Y *\*--n'
+tt'
+\&lIY.^.F lir/,' .9,.-
+
+?t
+Republic of the FhiliPPines
+OFFICH CIF THE CITY LEGAL OFFICE
+City of Davan
+.CITY
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVED
+FF"B 03 2020
+M|SY ll!_g: {fv-nRADo }r
+ADMINISTRATI\It AITJT IV
+CMO COt{TAgr r: 241.1000 rOC. 265.266,09956299702
+)O2O - @11.2
+Ref 1'ro. AD-Wffi+SA
+Legal Opinion f{o C15 SERIES of 2020
+RF": ORNINANCI NCI 0176""19. SERIIS OF 2019 ENTITLED -AN
+fiRNIi{ANCE GR,A.NI"ING -I-I"II APPT"ICATION OF BARREZA
+idOT\1IIOWNHR'$ AS$OCIAI'ION, II.JC, FOR REZONING OF A
+PRCIPOSHD RHL.CICATION $ITF SI"TUATHD IN BARANGAY MATINA
+PANGI, ]-P,LOMCI DI$]-RICT, I-HIS CI]'Y, CCIVERFD BY TCTNO,
+166?58 WITH A TOTAL AREA CIF 23,683 SQUARE MITFRS FROM
+MEDIUM DEI\ISITY RH$IDENTIAL SUB-ZONH (R-2) 1"C) Hlclt DENSITY
+R HSrnH I\T|AL Z.C]N r. (R-3),',
+t" tNDCIRSEMHNT
+January 30, 2020
+Flespectfully forwardecj to the O{fice of the City Mayor, through the Office
+of the City Adrninistrator, both ihis City, the subject {)rdinance No. 032-19 $eries
+of 2019, with the infornration that this office finds no legai infirmity tn the passage
+of the subject ordinance, it appearing that the sarne is well within the power of
+the $angguniang Panlutrgsod.
+ln viev,r thereof, this office recommends the approval of the subject
+ordinance,
+tfl*-
+A"|TY MARtlsA A GALLO, RSW
+Acting Rsst-City Legal Officer
+Apprcved rw
+osfi/luNDCrP VILLANIUEVA, JR
+Acting City Legal CIfficer
+Date of Approval. "f anuary 30, 2020
+0FFt6b, *t
+$$.f ,Hfl,rlr11urttltrq,ruf'HH
+R5CEIVED FY:
+D;r.i'E:* --
+*-2
+?1\-?-a\t
+
+D ^-,,Lr : ^ .1.,+ -tri ptritippines
+r\guuur|.v \rr Ll
+SEBASTIAN Z. DUTERTE
+Acting City Mayor
+January 24,2020
+011.V74 "4{15
+,,:llili, co* *rs'ill'niilT;,::'J3! 0,u,,,0,,,
+"-*2.n1 RECEIVED
+JAI'I 24 2020
+MARY ANN O. ALVARADO }.
+norvrrutstnah(vE AIDE rv
+v '
+CMO CoNTACI s: 24r.100{ttoc. 265-266, 09956299702
+Sir:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One' Title Five'
+chapter 3, Book III and SECTION 54 of Book I of Republic Act No' 7160, otherwise
+known as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. o608-19 and ordinance No. ol76-tg, both SERIES of 20t9 0f the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action'
+Very trulY Yours'
+For and in the absence of the Secretary:
+MARIA THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Local Legislative Staff Officer IV)
+
+'CitY 0f Davao
+19th City Council
+2nd Special Session
+SERIES of 2019
+PRESENT:
+Councilor Albefto T. Ungab
+Councilor RalPh O. Abella
+Councilor Nilo D. Abellera
+Councilor Maria Belen S. Acosta
+Councilor Wilbefto E. AI-ag
+Councilor Dante L. APostol Sr.
+Councilor Conrado C. Baluran
+Councilor lessica M. BonguYan
+Councilor Louie John J. BonguYan
+Councilor Pilar C. Braga
+Councilor Augusto Javier G. Campos III
+Councilor Danilo C. DaYanghirang
+Councilor Jonard C. DaYaP
+Councilor Edgar P. IbuYan Jr.
+Councilor Edgar R. IbuYan Sr.
+Councilor RichlynN.Justol-Baguilod
+Councilor Diosdado Angelo Junior R. Mahipus
+Councilor Jaffar U. Marohomsalic
+Councilor Bonifacio E. Militar
+Councilor Myrna G. LDalodo-Ottiz
+Councilor Antoinette G. Principe-Castrodes
+Councilor J. Melchor B. Quitain Jr.
+Councilor Mary Joselle D. Villafuefte
+Councilor Jesus Joseph P. Tozobrado III
+Temporary Presiding Officer
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+- OB- Acting City Mayor
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Pamela A. Librado-Morata
+- OB- Attended a Program at
+Malayan College of Mindanao
+ORDINANCE NO. 0T76.19
+SERIES of 2019
+AN ORDINAI{CE GRANTING THE APPLICATION OF BARRESA
+HOMEOWNERS ASSOCIATION INC. FOR REZONING OF A
+PROPOSED RELOCATION SITE SITUATED IN BARANGAY
+MATINA PANGI, TALOMO DISTRICT, THIS CITY, COVERED BY
+TCT NO. 166258 WITH A TOTAL AREA OF 23,683 SQUARE
+METERS FROM MEDIUM DENSITY RESIDENTIAL SUB.ZONE
+(R-2) TO HIGH DENSTTY RESTDENTTAL ZONE (R-3)
+
+,
+Ord. No.0176-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. E'LE, - This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE APPTICATION OF BARRESA HOMEOWNERS ASSOCIATION INC.
+FOR REZONING OF A PROPOSED RELOCATION SITE SITUATED IN BARANGAY
+MATINA PANGI, TALOMO DISTRICT, THIS CITY, COVERED BY TCT NO. 166258
+WITH A TOTAL AREA OF 23'683 SQUARE METERS FROM MEDIUM DENSITY
+RESIDENTIAL SUB-ZONE (R-2) TO HIGH DENSTTY RESTDENTTAL ZONE (R-3)".
+SECTION 2. COMMON REGULATIONS FOR GENERAL ZOilES - AItiCIC V Of thc
+Comprehensive Zoning Ordinance of Davao City provides for the Common Regulations for
+General Zones, to wit:
+SECTION t. REVIEW OF GEI{ERAL ZONES: General zones are subject
+to review by the Zoning Review Committee every five (5) years from the
+enactment of this ordinance. Any amendment thereof as recommended by
+the committee shalt be in accordance with the provision of Article XIV
+SECTION 14.
+SECTION 2. RECTASSIFICATION AND CHANGE OF ZONE
+REOUIREMENT. Any reclassification of agricultural land to nonagriculturil use must be in consuttation with the Department of Agriculture
+tOnl and the Department of Agrarian Reform (DAR) and the DAR
+requirement for conversion of agricultural land to other zones, and SECTION
+20 of Republic Act No. 7160, otherwise known as the Local Government
+Code of 1991, limiting reclassification to a maximum of the percentage of
+the total agricultural land of a city to fifteen percent (150/o) for highly
+urbanized iities and must strictly comply with the provisions of Joint
+Memorandum Circular No. 54 of the Housing Land Use Regulatory Board
+(HLURB), Department of Agriculture (DA) and DeparUnent of the Interior
+and Local Government (DILG). Reclassification from agricultural zone to
+non-agricultural use and any change from one general zone to another
+generil zone must be approved by three-fourths (3/4) vote of all the
+Members of the SANGGUNIANG Panlungsod through a resolution and an
+ordinance. Any change of general zone to another zone shall be considered
+as amendment of the zoning ordinance and must comply with the
+provisions of Article )fiV, SECTION L4 thereof'.
+SECTION 3. gEBAGE - This Ordinance shall cover the grant of the application
+of Barresa Homeowners Association Inc. for rezoning of a proposed relocation site from
+Medium Density Residential Sub-Zone to High Density Residential Zone situated in
+Barangay Matina Pangi, Talomo District, this City, covering a parcel of land with a total
+area of 23,683 square meters, more or less, covered by TCT NO. 166258.
+SECTION 4.
+- If, for any reason' any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEEISUyITY - This Ordinance shall take effect immediately upon
+approval.
+
+Ord. No.0176-19
+ENACTED, December 18, 2019, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+MA. THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Local Legislative Staff fficer IV)
+ATTESTED:
+Temporary Presiding Officer
+cns/bern
+APPROVED: {J FEB 2020 .zoLs
+ATTESTED:
+ATTY. ZULEIKA TlLOPEZ
+City Adminiltratir e
+ALBGRTGI. UNGAB
+Ading Vice Mayor
+Z. DUTERTE
+n city Maygt

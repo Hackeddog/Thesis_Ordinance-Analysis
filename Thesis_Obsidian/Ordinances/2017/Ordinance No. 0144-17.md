@@ -1,0 +1,238 @@
+---
+ordinance_number: "0144-17"
+title: "Ordinance No. 0144-17"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0144-17.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid]
+---
+
+# Ordinance No. 0144-17
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+18s'city Council
+3d Regular Session
+SERIES of frL7
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C-ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+C-ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counilor
+OH OFFICIAL BUSIilESS:
+Councilor Nilo M, Akllera Jr,
+Faolo Z. Dutefe
+Antoinete G. Princi pe{astrodes
+Marissa P. Salvador-Abella
+l,lary .klle D. Villafuerte
+Maria Belen S. Acosta
+Yictorio U. Advincula Jr.
+Bernad E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr,
+f"onrado C, Baluran
+Joanne Fl. Bonguyan{uilm
+I'la, Cherry Ann [*1, Bonguyan
+Pllar C. Brrya
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+January N. Dutete
+Hgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Eli* C. Lopez
+Diosddo Angelo A. Mahipus Sr
+Bonifacio E. Militar
+Avegayle Daldo Ortiz
+J. f*telchor B. Quihin Jr.
+Halila Y. Sudqar
+Jsus Joeeph P. Zozobrdo III
+Temporary Presiding Offi cer
+ABSETIT:
+Vice Mayor
+Councilor
+Councilor
+- On Sick Leave
+- On Vacation Leave
+- On Sick Leave
+oRDiltAftcE ilo. 014+17
+$criac of 2017
+AlI ORDIIIA]ICE AUTHORIZI]IG THE CITY MAYOR TO
+UTILIZE A FORTIOI| OF THE THIRTY PERCEIIT (3oolo) QUICI(
+RESFOIISE RrllD (QRF) oUT OF THE FM PERCEIIT (5olo)
+DISASTER RXSK REDUCTIO]I Al{D },IAT{AGETTIE]IT FU]ID
+(cALrr'rrTY FUflD) OF THE CITr @YEEIU{EI|T OF DAYAO
+FOR CY 2Ot7, r]t THE TOTAL ff{OUltT OF TWO titrLLIOH
+Tylfo HUITDRED FIFTY THOUSAHD PESO$ (P2,250.000.00),
+TO EXTEHD FIilAHCIAL ASSISTT]ICE TO THE YICTI}IS OF
+FL(X}D THAT HIT SEI'ERAL PROYIIICES I1I I{IHDAHAO
+
+I
+Pale'i of 4
+Ord. No. AL44-17
+Be it ordained by the San guniang Panlungsod of Davao City in session
+asembl€d that:
+SECTIf,ll 1, - T,mE This Ordinanc* shall be known m "A!l ORDIilAiICE
+TI,'TH(}RIIIIIG THE CITY }i*TOR TS UTITIZE A FORTIOT SF THE TTTIRTY
+FCECEilT {306/o} QUIcr REsFOll$E Ft tlD {QBF} OUT OF TllE FIYE FERCEHT
+{5elo} DIS#ITER REIK REDUCTIOII AIID l,ltIlAGE}lEIlT HIIID (C LAl,tITf
+FUflB) OF THE CITY GOYERIII'|E}|T OF DAYAO FBR CY 2$1f, Ill THE TOTAL
+A}JIOU]IT SF TWO T{ILLIOil TWO HUTIDRED FIFTY THOUSAI|D PEiOg
+(lI?*250,O0$,00), To ExTEltD FIHAffCIAL AS8ISTAfiCE TO TI{E VICTIIdS OF
+FL{X}D THIT HIT SEYERAL PROYITICES III }IITIDI]IIO";
+SECTIOII 2" - DECLARATIOTI OF FOLICY. - In keeping with ib rnndates
+and ln response h the needs of tfie peopk, the Ci$ C*vemnrent of Dayao dechres as lE
+polr"y tt judkiousty utilize ib resources and prt the sann to pmper use;
+SECTIOII 3.
+BEIIEEICIABIES. The frrllowing areas are hereby
+deignated m heneficiaris r:f the assistance;
+1. Cryayan de Onr City
+P 250,000.00
+lguaan del ltorte
+Z. l4unicipality of Jabonga
+25s,000.00
+Aguern dcl Sur
+3. f,l
++.M
+5.M
+6.M
+unicipality of Talacogon
+unicipalig of Loreto
+Misamis Orientel
+unicipality of l-4onglong
+unicipality of Lugait
+25S,000.00
+250,000.00
+250,000.00
+250,000.00
+250,000.00
+250,000.00
+Deveo Orientel
+7. Municipality of Boston
+B. Municipality of Cateel
+Devro Oecidertal
+9 f'lunicipality of Malita
+P2,250,000.00
+SECTIOII 4. - SUIIIIIARY OF BUDGETARY AlJOCrTIOll. - The btal
+amount of Two Million Two Hundred Fifty Thousand Pem (P 2"250,0(X!.OO), a
+potion of the Thirty Percent (30Yo) Quick Response tund (QRF) sourced out of the
+five Percent {5oro) Dismher Risk Reduction and Management Fund (Calamity Fund) of
+the Citv Crc,vernrnent of Davao for CY 2A17, will be given as financial resistance to the
+IlootJ victinis in the abovxiEd localitim;
+TOTAL.
+
+gtt*tpufsut
+le3SO 6urprse.r6 &ercdue1
+JOlrf,u
+'o
+:*ttseLLY
+4n rry4 panryeda6 Jueuua oE,{r13)
+psBunl6ue6 6uerun$6ueg a{il al fueprr4
+sortfrs'il oIIuYt{3
+Yf'\wnv
+:l3]UUOf, O3IJI1UE3
+'un:onb e 6ufq +Jaq ?ua=.rd uelun$$$p5
+su ,o crtsquaH a$ t|c Jo rloA sn{ilulusun e ,{q ttilE 'p7 fuenueg 'g:ltSvHa
+1:sga els] llpt{s o3ueurprg sllpJo uorsrnord aql -
+ileno.rdde uodn
+'{ HOLUIEIS
+iarnparord pue selru Buulpne pue 6uguno3le luauuraaob e€ tgFA tua5suor aq
+Hnoqs pue'suoBe;nEa: pue sqru 'srvrelluouroJnloJd atp rfltrv\ sluepJffiJe u! aq Hnoqs
+puru slrfl Jo lusulas.rnqslp eql -
+'g toLu}IS
+louetun6$ues s?! rfq l1l-uep]Jo slsts E Japun
+FEJqEp uffitr peq rffiJa.p uc,Hod Js esJE soqtyl
+sfiST Js€a fiq arue[srss* FriuEU$ appad o3
+p#H:aluoc n$l aE iq fn atr $f FzilorfinE aq
+mp ,terx pury tr1uep,] atg;rr uoe.rod y, {f} q
+uogrz;gpg'1 {'q
+l,,p6uJaluor uerun6Eueg
+eql ,tq &!uele3 Jo eqeE e Japun se parcpep
+aJE SffiJ€ plBS eql $H uOBrpUO3 UO sffiie
+F1>B#p rstp oI puni lt1tueF: {olog} 1ua:;ad
+€AS eql;o uorttod e asnlqerolp osls f,eu J1g1*
+;,AE
+XXX
+uone:o;p {'r
+'S uonms
+:mtrels'SgIg yg fiuouaua;durr suone;n6ag pue salng srp;o S uop:es'rer.prrq
+{paurecuoo ur;nn00urs lmol e$ [g prJqreF Fru frrlurreqep
+sr 'ilrure;er io .rqsssrp e dq pqsqge srs.rp Jarflc' Jo 1rufi lueuu:erro$ Floi
+a$ Jo loa.raq uo*rod e ;o 'ea:E srfi ul lluo pasn aq lleqs pury qlns lerp ':a,tamoq
+'pep;r.o:6 ';saA p$pnq atp 6uunp Jn33o rteu qrrqr* sa$uleles \Brrd uotlleuua3
+ur ssf,r/ues Jo Elorr,\ Jaqlo pup uo&rnqsuomJ 'uoqelt;qeqar lat;ar JoJ uonpudorddr
+ufis dun; lenuue s 1as q lpqs sei.tnm qn6et uo{ enuBAeJ pqeuJqsa
+atgJo {q6E) }ualrqd a^U letp sals}s }l '166T Jo aF} lueuue^ry F)ol atff se uA4o$t
+a6u1ilarflo 'Aglt- 'V'U Jo (p) tZg uollf,as Eurpuanry Jo lad uV,. s urvlo$f asrr{uarf}o
+'SSIB 'oN 1ad u;qnda6 cq luen$nd - mff]ffin
+* 'S llOLUr:IS
+4I-'tI0'$N',F,r{}
+ggo g aEug
+
+Pale 4 of 4
+Orcl. No. Ol4,+-l?
+APPROVED
+2017
+LAPS
+DEEMEDAPPROVEDAFTERTHE TAPSE OF
+R
+5C
+R.A.7
+SARA I. DUTERTE
+* City *rrfi, 1rATTESTED:
+ATTY. TULEIKA T. LOPEZ
+Crfy Admini*rator P

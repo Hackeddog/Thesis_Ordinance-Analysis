@@ -1,0 +1,184 @@
+---
+ordinance_number: "0947-22"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD FROM CHOWKING RASAY STREET UP TO CORNER GENARO tAO STREET IN FRONT OF THE TORIT POLICE STATTON, BARANGAY TORrL POBI-ACrON, DAVAO CrTY ON APRrL 29t 2022 FROM 7:00 A.M. TO 5:00 P.M. fN ORDER FOR THE SAID AREA TO BE UTITIZED AS TEMPORARY PARKING AREA IN LINE WITH THE DUTERTE LEGACY CARAVAN"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000947-22.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/road, topic/chowking]
+---
+
+# Ordinance No. 0947-22
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD FROM CHOWKING RASAY STREET UP TO CORNER GENARO tAO STREET IN FRONT OF THE TORIT POLICE STATTON, BARANGAY TORrL POBI-ACrON, DAVAO CrTY ON APRrL 29t 2022 FROM 7:00 A.M. TO 5:00 P.M. fN ORDER FOR THE SAID AREA TO BE UTITIZED AS TEMPORARY PARKING AREA IN LINE WITH THE DUTERTE LEGACY CARAVAN
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | - |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19t,'City Council
+16th Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Sebastian Z. Dutefte
+Louie John J. Bonguyan
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+- OB- Acting City Mayor
+- On Sick Leave
+Augusto Javier G. Campos III
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. LDalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ORDINANCE NO. 0947-22
+SERIES of 2O22
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFIC OF THE ROAD FROM CHOWKING RASAY STREET UP TO
+CORNER GENARO tAO STREET IN FRONT OF THE TORIT POLICE
+STATTON, BARANGAY TORrL POBI-ACrON, DAVAO CrTY ON APRrL
+29t 2022 FROM 7:00 A.M. TO 5:00 P.M. fN ORDER FOR THE SAID
+AREA TO BE UTITIZED AS TEMPORARY PARKING AREA IN LINE
+WITH THE DUTERTE LEGACY CARAVAN
+
+Ord. No. A947-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF THE ROAD FROM
+cHowKrNG RASAY STREET Up r9 CORNER GENARO tAO STREET rN FRONT
+oF THE TORrL POLTCE STATTON, BARANGAY TORrL POBLACION, DAVAO CITY
+ON APRIL 29, 2022 FROM 7:00 A.M. TO 5100 P.M. IN ORDER FOR THE SAID
+AREA TO BE UTILIZED AS TEMPORARY PARKING AREA IN LINE WITH THE
+DUTERTE LEGACY CARAVAN".
+SECTION 2.
+- SECTION 21 (c) of Republic Act 7t60,
+otherwise known as the Local Government Code of 1991 provides that any national or
+local road, alley, park or square may be temporarily closed during an actua! emergency,
+or fiesta celebration, public rallies and agricultural or industrial fairs or an undeftaking of
+public works and highways, telecommunications and water works projects.
+SECTION 3.
+Police Major Carol U. Jabagat, Station
+Commander of Police Station 8, requested for the temporary closure of road to vehicular
+traffic specifically the following abovementioned streets on the date and time mentioned
+in order to be utilized as temporary parking area in line with the Dutefte Legacy Caravan.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEEI[[!V][T![ - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 25s day of April2022, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ AunB,\'lr,"r.--
+CIIARITO il.'6ANTOS
+ATTESTED:
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Departrnent Head II)
+III
+Cou
+ry Presiding Officer
+AUG
+cns/kjtq
+
+Ord. No. 0947-22
+lnt Y l3
+APPRovEo: MAY I 3 202 . 2022
+SARA Z. DUTERTE
+z City
+ATTESTED:
+Mavor ,
+ATTY.
+TEIKA T
+PEZ
+Z. DUTERTE
+City AdministratorT
+City Hayor r
+AN ORDINANCE FOR THE TEMPORAR CLOSURE TO VEHICUI.AR TRAFFIC FROM CHOWKING RASAY
+STREET UP TO CORNER GENARO LAO STREET IN FRONT IN FRONT OF TORIL POUCE STATION,
+BARANGAY TORIL POBLACION, DAVAO CITY ON APRIL 29,2022 FROM 7:00 A.M. TO 5:00 P.M. IN ORDER
+FOR THE SAID AREA TO BE UTILZED AS TEMPORARY AREA IN UNE WITH THE DUTERTE LEGACY
+CARAVAN

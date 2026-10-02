@@ -1,0 +1,260 @@
+---
+ordinance_number: "0284-23"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMIW FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023, IN THE TOTAL AMOUNT OF SIXTEEN MILLION NINE HUNDRED THOUSAND PESOS (P16,900,000.00) As FTNANCIAL ASSISTANCE TO THE LOCAL GOVERNMENT UNITS "
+date_enacted: "2023-08-29"
+approval_date: "2021-09-21"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0284-23 (2).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.85
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/authorizing, topic/mayor, topic/utilize, topic/portion, topic/thirw, topic/percent]
+---
+
+# Ordinance No. 0284-23
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMIW FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023, IN THE TOTAL AMOUNT OF SIXTEEN MILLION NINE HUNDRED THOUSAND PESOS (P16,900,000.00) As FTNANCIAL ASSISTANCE TO THE LOCAL GOVERNMENT UNITS 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2021 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City
+32nd Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor J. Melchor B. Quitain Jr.
+- Presiding Officer
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Bernard E. Al-ag
+Councilor Wilberto E. Al-ag
+Counicilor Al Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Jessica M. Bonguyan
+Councilor Louie John J. Bonguyan
+Councilor Pilar C. Braga
+Councilor Augusto Javier G. Campos III
+Councilor Jonard C. Dayap
+Councilor Edgar P. Ibuyan Jr.
+Councilor Edgar R. Ibuyan Sr.
+Councilor Richlyn N. Justol-Baguilod
+Councilor Diosdado Angelo Junior R. Mahipus
+Councilor Rodolfo M. Mande
+Councilor Jaffar U. Marohomsalic
+Councilor Bonz Andre A. Militar
+Councilor Temujin B. Ocampo
+Councilor Myrna G. L'Dalodo-Ortiz
+Councilor Albefto T. Ungab
+Councilor Lorenzo Benjamin D. Villafuerte
+Councilor Trisha Ann J. Villafuefte
+Councilor Jesus Joseph P. Zozobrado III
+ABSENT:
+Councilor
+Councilor
+Councilor
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+- On Domestic Emergency Leave
+- On Sick Leave
+ORDINANCE NO. 0284.23
+SERIES of 2023
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A
+PORTION OF THE THIRW PERCENT (30o/o) QUICK RESPONSE FUND
+(QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION
+AND MANAGEMENT FUND (CALAMIW FUND) OF THE CITY
+GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023, IN THE TOTAL
+AMOUNT OF SIXTEEN MILLION NINE HUNDRED THOUSAND PESOS
+(P16,900,000.00) As FTNANCIAL ASSISTANCE TO THE LOCAL
+GOVERNMENT UNITS (LGUs), WHICH WERE DECLARED UNDER A
+STATE OF CALAMIW DUE TO VARIOUS DISASTER OCCURRENCES,
+SUBJECT TO EXISTING GOVERNMENT BUDGETTNG, ACCOUNTING, AND
+AUDITING RULES AND REGULATIONS
+
+Ord. No. 0284-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE. - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY
+PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT
+(5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY
+FUND) OF THE CrTY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023,
+IN THE TOTAL AMOUNT OF SIXTEEN MILUON NINE HUNDRED THOUSAND
+pEsos (p16,900,000.00) As FINANCIAL AssIsrANcE To rHE LOCAL
+GOVERNMENT UNITS (LGUs), WHICH WERE DECLARED UNDER A STATE OF
+CALAMITY DUE TO VARIOUS DISASTER OCCURRENCES, SUBJECT TO
+EXISTING GOVERNMENT BUDGETING, ACCOUNTING, AND AUDITING
+RULES AND REGULATIONS".
+SECTION 2. DECLARATION OF POUCY - It is the policy of the City
+Government of Davao to adopt measures and adhere to the national principles and
+standards of humanitarian assistance in response to risk reduction and declares as its
+policy to judiciously utilize its resources and put the same to proper use.
+SECTION 3. BENEFICIARIES - The following Local Government Units (LGUs),
+which were declared under a State of Calamity, are hereby declared as beneficiaries of
+the financial assistance and their respective amount to be received stated as follows:
+LOCAL GOVERNMENT UNIT
+AMOUNT
+CORDILLERA AUTONOMOUS REGION
+Mountain Province
+P 1,000,000.00
+Province of Abra
+P 1,000,000.00
+Province of Apayao
+P 1,000,000.00
+Province of Benguet
+P 1,000,000.00
+Province of Ifuqao
+P 1,000,000.00
+REGION I
+Province of Ilocos Sur
+P 1,000,000.00
+Province of Ilocos Norte
+P 1,000,000.00
+Municipality of Banqar, La Union
+P 300,000.00
+MunicipaliW of Luna, La Union
+P 300,000.00
+REGION II
+Province of Cagayan
+P 1,000,000.00
+MunicipaliW of Abuluq, Caqayan
+P 300,000.00
+Municipality Calayan, Caqayan
+P 300,000.00
+Municipality of Sanchez Mira, Caqayan
+P 300,000.00
+MunlcipaliW of Santa Praxedes, Cagayan
+P 300,000.00
+REGION III
+MunicipaliW of Calumpit, Bulacan
+P 300,000.00
+MunicipaliU of Pulilan, Bulacan
+P 300,000.00
+MunicipaliW of Marilao, Bulacan
+P 300,000.00
+MunicipaliW of Haqonov, Bulacan
+P 300,000.00
+MunicipaliW of San Ildefonso, Bulacan
+P 300,000.00
+Province of Pampanga
+P 1,000,000.00
+Municipality of Sto.Tomas, Pampanqa
+P 300,000.00
+
+Municipality of San Luis, Pampanqa
+P 300,000.00
+MunicipaliW of Minalin, Pampanga
+P 300,000.00
+MunicipaliU of Macabebe, Pampanga
+P 300,000.00
+MunicipaliW of Masantol, Pampanga
+P 300,000.00
+MunicipaliU of San Simon, Pampanqa
+P 300,000.00
+MunicipaliW of Paniqui, Tarlac
+P 300,000.00
+MunicipaliW of Camiling, Tarlac
+P 300,000.00
+MunicipaliW of Zaragoza, Nueva Ecija
+P 300,000.00
+Province of Bataan
+P 1,000,000.00
+MunicipaliW of San Marcelino, Zambales
+P 300,000.00
+REGION IV. B MIMAROPA
+Municipality of Santa Cruz, Occidental
+Mindoro
+P 300,000.00
+Municipality of Sablayan, Occidental
+Mindoro
+P 300,000.00
+TOTAL
+P 16,900,000.00
+Ord. No. 0284-23
+SECTION 4. LEGAL BASIS - SECTION 2l of Republic Act No. 10121 states that
+not less than five percent (5olo) of the estimated revenue from regular sources shall be
+set aside as Local Disaster Risk Reduction and Management Fund (DLDRRMF) to suppoft
+disaster risk management activities such as, but not limited to, pre-disaster preparedness
+programs including training, purchasing life-saving rescue equipment, supplies and
+medicines, for post-disaster activities, and for the payment of premiums on calamity
+insurance.
+The same law likewise provides that, of the amount appropriated for LDRRMF,
+thity percent (30o/o) shall be allocated as Quick Response Fund (QRF) or stand-by fund
+for relief and recovery programs so that situation and living conditions of people in
+communities or areas stricken by disasters, calamities, epidemics, or complex
+emergencies, may be normalized as quickly as possible. Further, upon the
+recommendation of the Local Disaster Risk Reduction and Management Office (LDRRMO)
+and approval of the sanggunian concerned, the Local Disaster Risk Reduction and
+Management Council (LDRRMC) may transfer the said fund to support disaster risk
+reduction work of other LDRRMCs which are declared under the state of calamity.
+SECTION 5. UTILIZATION OF FUNDS - The amount herein appropriated shall
+be used specifically for such items and expenditures approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of funds shall be subject to existing
+government budgeting, accounting, and auditing rules and regulations of the Depaftment
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement
+Law (RA 9184), as well as other applicable laws, Ordinances and Presidential directives.
+SECTION 6. EFFECTIVITY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, August 29, 2023, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorom.
+
+Ord. No. 0284-23
+CERTIFIED CORRECT:
+^ }lr^ni\ 1,,'-
+CHARITO N.TSANTOS
+Secretary to the Sanggrlniang panlungsod
+(city Goverr r.1,.r?iJ;{'"ent Head rr)
+ATTESTED:
+ATTESTED:
+J. MEL4#RB. eurrArN Jn.
+/
+Vice Mayor
+Presiding Officer
+(Er L(,
+APPROVED:
+SEP 262021 ,zozl
+SE
+Z. DUTERTE
+V
+H. IAYOG
+MrYy
+ATTY.
+Acting
+strator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT
+(30%) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCilON
+AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR
+YEAR 2023, IN THE TOTAL AMOUNT OF SIXTEEN MILLION NINE HUNDRED THOUSAND PESOS
+(P16,900,000,00) AS FINANCIAL ASSISTANCE TO THE LOCAL GOVERNMENT UNITS (LGUs), WHICH
+WERE DECLARED UNDER A STATE OF CALAMITY DUE TO VARIOUS DISASTER OCCURRENCES, SUBJECT
+TO EXISTING GOVERNMENT BUDGETING, ACCOUNNNG, AND AUDMNG RULES AND REGULANONS

@@ -1,0 +1,296 @@
+---
+ordinance_number: "073-19"
+title: "AN ORDINANCE REPEALING CITY ORDINANCE NO. 0419-83, SERIES OF 1983\", for your information and appropriate action.. For the City Mayor: ATTY. TRISTAN Assistant ) (Admi RELEASED cl\\40-iRD :;C 2019 t:tg^ tr,-^ SgeOnd FloOr, City Hall Building, City Hall Drive, San Pedro St., Davao citv (082) 224-3004 o (082) 241-1000 loc. 265 ' davaocitymayor@gmail.com'r LIFE IS HERE .a -'. '' \\. \"i D\\v-\\ylq pffi=e:=-"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 073-19 (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/your, topic/information, topic/appropriate, topic/action, topic/mayor, topic/atty]
+---
+
+# Ordinance No. 073-19
+
+> AN ORDINANCE REPEALING CITY ORDINANCE NO. 0419-83, SERIES OF 1983", for your information and appropriate action.. For the City Mayor: ATTY. TRISTAN Assistant ) (Admi RELEASED cl\40-iRD :;C 2019 t:tg^ tr,-^ SgeOnd FloOr, City Hall Building, City Hall Drive, San Pedro St., Davao citv (082) 224-3004 o (082) 241-1000 loc. 265 ' davaocitymayor@gmail.com'r LIFE IS HERE .a -'. '' \. "i D\v-\ylq pffi=e:=-
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Cites or amends
+
+- [[Ordinance No. 0419-83]]
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+lr
+.-')Llllo o '
+iffiIt:
+' '
+Republic of the fi,ippines
+OFFICE OF THB CITY IVIAYOR
+$,'t t; rs n'
+Ref- rUlc. CAdO-2019-04983
+.llYot^^!
+2Nd TNDORSEMENT
+December 2:6, ZAL9
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 757, SERIES of 2019 dated December
+6, 20L9 of the City Legal Office, relative to the attached duly signed and approved
+Ordinance No. 073-19, SERIES of 2019 entitled, * AN ORDINANCE REPEALING CITY
+ORDINANCE NO. 0419-83, SERIES OF 1983", for your information and appropriate
+action..
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+)
+(Admi
+RELEASED
+cl\40-iRD
+:;C 2019 t:tg^ tr,-^
+SgeOnd FloOr, City Hall Building, City Hall Drive, San Pedro St., Davao citv
+(082) 224-3004 o (082) 241-1000 loc. 265 ' davaocitymayor@gmail.com'r
+LIFE IS HERE
+.a
+"i
+D\v-\ylq
+pffi=e:=-'@l
+
+?a
+-2
+. City of Davao
+OFFICE OF THE CITY TEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+Legal Opinion No.
+SERIES of 2019
+Ref. No. CLO-2019-0004462
+Date of Approval: December 10, 2019
+or[07 3 - 1 9-repeat-fre+4t rigts_20 1 9-000a46 2_ 1 2-6- 1 9
+@dee
++n
+RE: ORDINANCE NO. 073-L9, SERIES of 20L9 entitled *AN
+ORDINANCE REPEALING CITY ORDINANCE NO. 0419.83, SERIES
+oF 1983"
+1o INDoRSEMENT
+December 6,2019
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance, with the
+information that this office finds plfal infirmity therein.
+Hence, it is recommended that the Ordinance be approved.
+ATTY. M
+A. GALLO, RSW
+Acting
+City Legal Officer
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA, JR
+OIC-Acting City Legal Officer
+Llrizoie
+0FFI6EEFLT$i;
+"r'f:t&ir#'
+r; ;ri ;,:. . ,nil,,+.r-,j.,rrrr'i.'.
+.,'. '. .i
+'tlr
+i
+'r
+:ffli;c$hn
+"- a4_**"
+utlix
+IECORDS DIVISION
+tf,\t
+'i\4':'
+R
+R
+MA
+44,
+t:
+0t955t9t702
+ED
+tv
+a
+rta{
+Llts- 3-\
+l
+q\
+RECEI
+DATE:
+nME:
+? iStz-
+
+, Xepublic of the PhilippinesOFFICE OF THE SANGGUNIANG PANLUNGSOD
+SARA Z. DUTERTE
+City Mayor
+Madam:
+December 2,2019 &ba14 -Lh6
+ffi
+FIcE
+CORRESPONOENCE & RECORDS OIVISION
+RECEIVED
+nEC 02 2019
+'
+(
+MARY ANN q{nrvanroo q:6g
+louursrRAfrv€ AtD€ tv
+CMO COilIACI r: 241'1000 LOC.
+09956299702
+lTl
+\
+*
+w- at
+Pursuant to Sub-SECTION 3, Paragraph C,
+44t,
+Article One, Title Five,
+tr-httq40a p.
+SECTION 469,
+chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No'
+o264-Lg, SERIES of 2olg and ordinance No' Wfr''
+SERIES of 20t9 of the
+SANGGUNIANG Panlungsod, , for your information, guidance and appropriate action'
+Very truly Yours,
+nM),tk___
+CfiAnno rtTsaruros
+Secretary to the Sanggtlniang Panlungsod
+(City Government Department Head II)
+Iime
+
+Republic of thb Philippines
+CiV of Davao
+Office of the Salgguniang Panlungsod
+19th City Council
+15th Regular Session
+SERIES of 2019
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor Jaffar U. Marohomsalic
+Sebastian Z. Dutefte
+- Presiding Offtcer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor Edgar R. Ibuyan Sr.
+-OB-Guest Speaker in the
+Congress of Liga ng mga Barangay
+of Batangas Province at
+Apo View Hotel
+-OB-Attended an activity of the
+SANGGUNIANG Kabataan
+ORDINANCE NO. 073-19
+SERIES of 2019
+AN ORDINANCE REPEALING CITY ORDINANCE NO. 041983, SERIES OF 1983
+t
+Ir\
+
+Ord. No.073-t9
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+REPEALING CITY ORDINANCE NO. 0419-83, SERIES OF 1983";
+SECTION 2. REPEALING CAUSE- City Ordinance No. 0419-83, SERIES of 1983,
+KNOwN as ..AN ORDINANCE REQUIRING BUSINESS ESTABLISHMENTS To PRoVIDE
+REFLECTORIZED FIRE EXIT SIGNS TO BE PI.ACED IN CONSPICUOUS PLACES OF SAID
+BUILDINGS," is hereby repealed as the same has been oveftaken by the national law.
+SECTION 3. EFFECTMTY. This Ordinance shall take effect immediately after
+posting in two (2) conspicuous public places and publication for three (3) consecutive
+days in a local newspaper of general circulation in Davao City.
+ENACTED, October L5, 20L9, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+n 0,rllrr^r \,1"d
+CHARTTO N: qANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head {["
+ATTESTED:
+SEBASTIAN Z. DUTERTE
+Vice Mayor
+Presiding Officer
+cns/ray
+ATTY.
+AppRovED!
+.ru,.u
+20lg
+2019
+RTE
+citv Mayra
+z.
+ATTESTED:
+City Admi
+T.
+d
+C'u

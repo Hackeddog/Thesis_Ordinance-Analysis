@@ -1,0 +1,204 @@
+---
+ordinance_number: "0616-24"
+title: "an ORDINANCE NO. 0616.24 Series ol2O24 AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SrGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT FIELD OFFICE XI (DSWD FO XI) AND THE CITY OF DAVAO RELATIVE TO THE IMPLEMENTATION OF THE SUPPLEMENTARY FEEDING PROGRAM CYCLE 14"
+date_enacted: "2024-09-24"
+approval_date: "2024-09-24"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0616-24 MOA DSWD SFP Cycle 14 (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/srgn, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 0616-24
+
+> an ORDINANCE NO. 0616.24 Series ol2O24 AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SrGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT FIELD OFFICE XI (DSWD FO XI) AND THE CITY OF DAVAO RELATIVE TO THE IMPLEMENTATION OF THE SUPPLEMENTARY FEEDING PROGRAM CYCLE 14
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Rqpublic of the Philippines
+Offrce of the SANGGUNIANG Panlungsod
+2oth city Council
+29th Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+l. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. MahiPus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Presiding Officer
+- On Sick Leave
+- On Maternity Leave
+ABSENT:
+Councilor
+Councilor
+Marissa S. Abella
+lessica M. Bonguyan
+ORDINANCE NO. 0616.24
+SERIES ol2O24
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SrGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY
+AND BETWEEN THE DEPARTMENT OF SOCIAL WELFARE AND
+DEVELOPMENT FIELD OFFICE XI (DSWD FO XI) AND THE CITY
+OF DAVAO RELATIVE TO THE IMPLEMENTATION OF THE
+SUPPLEMENTARY FEEDING PROGRAM CYCLE 14
+
+Ord. No. 0616-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shalt be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AdREEMENT TO
+BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF SOCIAL
+WELFARE AND DEVELOPMENT FIELD OFFICE XI (DSWD FO XI) AND THE
+CITY OF DAVAO RELATIVE TO THE IMPLiMENTATION OF THE
+SUPPLEMENTARY FEEDING PROGRAM CYCLE 14'.
+sEcrroN 2. DECLARATTON oF poLrcy - sections 22 (a) (5) and (c);
+and 455 (b) (1) (vi) of Republic Act 7t60, otherwise known as tne tocJl
+Government Code of 1991 or RA 71G0, provide:
+"SECTION 22. Corporate powersa) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless othennrise provided in this code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or city, municipal or
+barangay hall.
+SECTION 455. chief Executive; Powers, Duties and compensation-
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 16 of this Code, the city mayor shall:
+(2) Exercise general supervision and control over ail programs,
+projects, seruices, and activities of the city government, and in this
+connection, shall:
+XXX
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+}oc(
+xxx
+)Ofi
+
+Ord. No. 0616-24
+'
+SEGTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the-City of Davlo, the
+Memorandum of Agreement by ind between the Depaftment of Social Welfare and
+Development Field Office XI (DSWD FO XI) and the City of Davao relative to the
+implementation of the supplementary Feeding program cycle 14.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force
+and effect.
+SECTION 5.
+upon approval.
+EFFECTIVTil - This ordinance shall take effect immediately
+ENACTED, on the 6th day of August 2024, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ (fuwvud\ fl^*-
+CHARITO N.'SANTOS
+City Government Department Head II
+(Secretary to the SANGGUNIANG panlunSsodl
+ATTESTED:
+ATTESTED:
+J. MEtrHOR B. QUITAIN
+/ice Mayor
+Presiding Officer
+cns/ray
+AppRoVED: SEP 122024
+2024
+City
+SE
+ATTY. FRANCIS MARK H. LAYOG
+City Administrator
+Arw. rAkors H. EspARcrA
+Actind'OtY Administrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF
+OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND
+BETWEEN THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT FIELD OFFICE XI (DSWD FO
+XI) AND THE CITY OF DAVAO RELATIVE TO THE IMPLEMENTATION OF THE SUPPLEMENTARY
+FEEDING PROGRAM CYCLE 14

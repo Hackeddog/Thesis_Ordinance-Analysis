@@ -1,0 +1,225 @@
+---
+ordinance_number: "0895-22"
+title: "AN ORDINANCE PRESCRIBING THE FEES AND ESTABLISHING POLICIES, GUIDELINES, RULES AND REGUT-ATIONS FOR THE OPERATION OF THE TWO.STOREY CONCESSIONAIRES' BUILDING LOCATED IN THE SANGGUNIANG PANLUNGSOD coMPouND, THIS CrTY"
+date_enacted: "2022-02-22"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000895-22.pdf"
+section_count: 12
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/prescribing, topic/fees, topic/policies, topic/guidelines, topic/rules, topic/regut]
+---
+
+# Ordinance No. 0895-22
+
+> AN ORDINANCE PRESCRIBING THE FEES AND ESTABLISHING POLICIES, GUIDELINES, RULES AND REGUT-ATIONS FOR THE OPERATION OF THE TWO.STOREY CONCESSIONAIRES' BUILDING LOCATED IN THE SANGGUNIANG PANLUNGSOD coMPouND, THIS CrTY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+6)f
+'C,
+z?
+ceiiir.o
+Republika sa Pilipinas
+SYUDAD SA DABAW
+Buhatan sa SANGGUNIANG Panlungsod
+19th City Council
+8th Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Ralph o. Abella
+- Temporary presiding officer
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonifacio E, Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+- OB-Acting City Mayor
+ORDINANCE NO. 0895-22
+SERIES of 2022
+AN ORDINANCE PRESCRIBING THE FEES AND ESTABLISHING
+POLICIES, GUIDELINES, RULES AND REGUT-ATIONS FOR THE
+OPERATION OF THE TWO.STOREY CONCESSIONAIRES'
+BUILDING LOCATED IN THE SANGGUNIANG PANLUNGSOD
+coMPouND, THIS CrTY
+
+a
+,
+Ord. No. 0895-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+PRESCRIBING THE FEES AND ESTABLISHING POLICIES, GUIDELINES, RULES
+AND REGULATIONS FOR THE OPERATION OF THE TWO.STOREY
+CONCESSTONAIRES' BUILDING LOCATED IN THE SANGGUNIANG PANLUNGSOD
+coMPouND, THrS CrW."
+SECTION 2. COVERAGE - This Ordinance shall apply to the Two-Storey
+Concessionaires' Building located in the SANGGUNIANG Panlungsod Compound, this City,
+which shall be considered as one of the Special Projects under the City Economic Enterprise
+Office.
+SECTION 3. MANAGEMENT AND SUPERVISION OF THE TWO.STOREY
+CONCESSIONAIRES' BUILDING - The management and superuision of the two-storey
+concessionaires' building shall be under the Special Projects Management Board, as
+constituted by the City Mayor.
+SECTION 4. RENTAL RATE There shall be collected a rental fee of
+P22.00/sq.m.iday for the stalls/booths or spaces occupied per square meter by the
+concessionaires of the said building, payable to the City Treasurer's Office, on or before the
+10th day of the following month.
+The rental fee, does not include the cost of utilities, such as, water and electric bills,
+the actual cost of which shall be for the account of the individual concessionaires.
+Failure to pay the rental fee within the period required herein shall subject the
+concessionaire to a surcharge of twenty-five percent (25olo) of the amount of the rental fee
+plus interest of two percent (2o/o) per month but not exceeding thirty-six (36) months.
+SECTION 5. AUTOMATIC RENTAL RATE INCREASE - There shall be an
+automatic ten percent (10o/o) increase in rental fee every two (2) years from the time of the
+approval of this Ordinance to cover the incremental operating cost of maintaining the areas
+covered under this Ordinance.
+SECTION 6. WHO MAY QUALIFY AS TENANT - Private individuals currently
+occupying the area at the SANGGUNIANG Panlungsod Compound, residing in Davao City and
+currently has not incurred any arrearages due to the City Government of Davao shall be the
+first priority, and private individuals or entities interested in leasing the vacant stalls/booths
+or spaces for commercial purposes who are engaged in the food business, flower shop
+business, souvenir/accessory items and any other viable business ventures, including
+professional seruices, may apply as tenant in the Two-Storey Concessionaires' Building
+under the Special Projects Division, through raffling.
+SECTION 7. EVALUATION AND APPROVAL OF APPLICATION - The City
+Economic Enterprise shall evaluate the qualifications and products of all interested
+concessionaires based on the criteria, as prescribed under the Implementing Rules and
+Regulations to be adopted by the Board, and submit the list of qualified applicants and their
+business/products, for approval of the Board.
+Provided that, if the initial total number of applicants-tenants exceed the
+available number of stalls/booths, the Board shall allocate and award the same to qualified
+applicants, through a raffle and certify the results thereof to be submitted to the City
+Mayor, for approval.
+
+Ord. No. 0895-22
+SECTION 8. AUTHORIW TO SIGN LEASE CONTRACTS - The City Mayor,
+through the City Economic Enterprise Manager, is hereby authorized to sign all Lease
+Contracts for the use of the stalls/booths or spaces in the areas covered by the Ordinance.
+SECTION 9. PROHIBITION AGAINST SUBTEASING AGREEMENT - The
+Contract of Lease shall contain an express provision that the lessee must not sublease the
+stalls/booths or spaces leased in the building, in whole or in paft, othenruise, it shall be a
+sufficient cause for the revocation of the Contract of Lease, and/or for the ejectment of the
+stallholder from his/her stal/booth or space, by the City Administrator or his/her duly
+authorized representative, through a Special Projects Management Board Resolution and in
+accordance with the law on due process.
+SECTION 10. SEPARABILIW CLAUSE. - If for any reason, any SECTION of
+provision of this Ordinance shall be declared unconstitutional or invalid by a competent
+authority, such judgment or action shall not affect or impair the other sections or provisions
+hereof.
+SECTION 11. REPEALING CLAUSE - All other City Ordinances, Executive Orders
+and Rules and Regulatlons, which are inconsistent with this Ordinance are hereby deemed
+amended, repealed or modified accordingly.
+SECTION 12. EFFECTMW - This Ordinance shall take effect upon approval
+hereof
+ENACTED, February 22, 2022, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+c,//gf,JbftcSecretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment nead IQ"^,
+ATTESTED:
+ATTESTED:
+RALPH
+City
+LLA
+ncilor
+Temporary
+ng Officer
+cns/ser
+h*c ,-;-
+APPROVED: trlAR 2 5 2022. 2022
+SARA Z. DUTERTE
+"
+City Mayor,lt
+Clty
+DUTERTE
+xryor Y
+ATTY
+LEIKA
+LOPEZ
+Admin
+,
+AN ORDINANCE PRESCRIBING THE FEES AND ESTABLISHING POLICIES, GUIDELINES, RULES AND REGULATIONS
+FOR THE OPERATION OF 'IHE TWO-STOREY CONCESSIONAIRES' BUILDING LOCATED IN THE SANGGUNIANG
+PANLUNGSOD COMPOUND, THIS CITY
+I

@@ -1,0 +1,299 @@
+---
+ordinance_number: "0642-18"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF ALLAN ESCATANTE FOR ADDITIONAL ALLQWABLE USE FOR THE OPERATION OF EARTHFIII CONCESSION LOCATED IN BARANGAY I-A6ON, CALINAN DISTRICT, THIS CITY\", fOT your information and approfiate action. For the City Mayor: ATTY. TRISTAil Assistant CMO, CRD RELEASED ) Jdt,- 1-/1 - ffi:liii:330i'Y ffi iilii'jl,;o3\"ilJ1l,\"i'?.?i:J*\",';f\"l''.'rn:fi 9:f BlWr\",e t"
+date_enacted: "2019-02-08"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0642-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.48
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2019.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/application, topic/allan, topic/escatante, topic/additional, topic/allqwable]
+---
+
+# Ordinance No. 0642-18
+
+> AN ORDINANCE GRANTING THE APPLICATION OF ALLAN ESCATANTE FOR ADDITIONAL ALLQWABLE USE FOR THE OPERATION OF EARTHFIII CONCESSION LOCATED IN BARANGAY I-A6ON, CALINAN DISTRICT, THIS CITY", fOT your information and approfiate action. For the City Mayor: ATTY. TRISTAil Assistant CMO, CRD RELEASED ) Jdt,- 1-/1 - ffi:liii:330i'Y ffi iilii'jl,;o3"ilJ1l,"i'?.?i:J*",';f"l''.'rn:fi 9:f BlWr",e t
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2018 |
+| Series header | 2019 |
+| Approval date | 2018 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republ,ic of the Philippines
+FTHE CTTYMAYOR
+s
+C'?i
+Pl)
+ciiHo
+QFFTCE
+Ref. No. CAdO-201$@520
+2Nd INDORSEMENT
+February 28, Z0L9
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0642-18,
+SCTICS Of 2018, entitled "AN ORDINANCE GRANTING THE APPLICATION OF ALLAN
+ESCATANTE FOR ADDITIONAL ALLQWABLE USE FOR THE OPERATION OF EARTHFIII
+CONCESSION LOCATED IN BARANGAY I-A6ON, CALINAN DISTRICT, THIS CITY", fOT
+your information and approfiate action.
+For the City Mayor:
+ATTY. TRISTAil
+Assistant
+CMO, CRD
+RELEASED
+)
+Jdt,- 1-/1
+- ffi:liii:330i'Y ffi iilii'jl,;o3"ilJ1l,"i'?.?i:J*",';f"l''.'rn:fi 9:f BlWr",e
+t
+
++
+3crsl'9
+o
+I
+PNG
+P{
+a
+;a.J
+E_
+HT
+City of.Davao
+OFFICE OF THE CITY LEGAL
+Tel. No.298-6970
+DI
+q4+
+Trunk Line No. 241-1000 Loc
+o0o
+Ref. No. 1131-19-045
+LEGAL OPINION ruo. W)
+SERIES OF 2019
+1tr INDoRSEMENT
+February 7, 20L9
+Respectfully foruarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the herein attached Ordinance No.
+0642-18, ser-ies of 2018 entitted "AN ORDINANCE GRANTING THE
+APPLICATION OF ALI.AN ESCALANTE FOR ADDMONAL ALLOWABLE USE FOR
+THE OPERATION OF EARTHFILL CONCESSION LOCATED IN BARANGAY IACSON,
+CALINAN DISTRICT, THIS CrrY", informing your end that this office finds the
+enactment of the ordinance free from legal infirmity. Hence, it is recommended
+that the Ordinance be approved.
+ATTY.
+A. GALIO, RSW
+Acting Asst.
+Lega! Officer
+Approved by:
+ATTY. OSMU
+P. VILLANUEVA, JR
+OIC-Acting City Legal Officer
+Ir
+Date approved: February 8, 201!)
+or[064 2- 1 6_ at[owa6 b ue_escahnte_l 9-04 i _2-B- 19
+@tee
+OFFTCE OF THE GI+Y APT{IhIISTRA.TOR,
+CIW HALI OFFICE
+RECEIVED BY:
+DAVAO CIW
+DATE:
+TIME:
+0FfrcE oF
+MGWEBT
+I
+',lt'A(;-(l
+t't tt/'*
+I}AIE: FE
+DlW@ostT-
+{uo- a8A3q
+I
+MARY
+
+Republic of lhe Philippines
+S^TR^[ T. DUTERTE
+lity Mays
+City of Dmm
+FI#*:lr
+lnnrrarv in- ?ft1q
+*
+o
+W n -d4r
+O
+*
+Pursusrt to Suh+ertion 3, kr4ratrh C, Hion
+ftre, Tlde Fiue,
+Chapter 3, mk III ard turtion 54 of mk I Reprhlic Act No, 7160, o*renruise known
+x ttp Local Gouemmmt fde of 1*l1, rn,e are furnishing ylu a co6y of Resdution ltlo.
+{}2821-18 an'-1 Ordinanre itlc. O6+2-1S, Lcilr krie of 2018 of the SangguniarE
+Panlun,lsod, for your informatim, guidance md 4't'r4'riaE action,
+Vsf buly yollrs,
+"For and in Sre ahserre of the Sarctat1:*
+f.rol
+4EE, Artide
+nvno,at
+]IILDA C. HdfrHT}
+Acting kretary to ilre SANGGUNIANG FanlurEsod
+{fitr mernment Assi#lt DeFarbnent Head tr}
+L
+Time
+€ORRESPONDENCE &
+RECE
+MARYANN O.
+lb,.cb
+RECORDS DIVISIOil
+IVED
+JAN 31 20t9
+t
+\\(, l'l
+
+tBth City Council
+47th Regular Session
+SERIES of 2018
+. City of Davao
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. BonguYan
+Carmelo l. Clarion
+April Marie C. DayaP
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-YaP
+Rene Elias C. Lopez
+Diosdado Angelo A. MahiPus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ottiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Nilo M. Abellera lr.
+Pilar C. Braga
+Danilo C. Dayanghirang
+- On Official Business
+- On Domestic Emergency Leave
+- On Official Business
+ORDINANCE NO. 0642.18
+SERIES of 2018
+AN ORDINANCE GRANTING THE APPLICATION OF ALLAN
+ESCALANTE FOR ADDITIONAL ALLOWABLE USE FOR THE
+OPERATION OF EARTHFILL CONCESSION LOCATED IN
+BARANGAY LACSON, CALTNAN DTSTRTCT, THrS CrTY
+gti P1;1
+
+Ord. No. 0642-LB
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE APPLICATION OF ALLAN ESCALANTE FOR ADDITIONAL
+ALLOWABLE USE FOR THE OPERATION OF EARTHFILL CONCESSION LOCATED
+IN BARANGAY LACSON, CALINAN DISTRICT, THIS CrTy".
+SECTION 2. INNOVATM MODES OF DEVELOPMENT - Article XII of the
+Comprehensive Zoning Ordinance of Davao City (2013 -ZOnl nore particularly SECTION 1
+thereof, "Request for Additional Allowable Use;'provides tnit the uses enumerated in the
+preceding afticles on general zone and all sub-zones are not exhaustive nor all-inclusive.
+fh. SANGGUNIANG Panlungsod, upon application of the project proponent and upon
+favorable recommendation by the Local Zoning Board of Adjustment and Appeals (ZAAAI;
+may allow other uses not enumerated thereunder as it may deem fit and proper including,
+but not limited to, the following projects which are of socio-economic and environmental
+significance and/or national interest by a 3/+ majority vote of all members of the
+SANGGUNIANG Panlungsod through resolutions and ordinance.
+SECTION 3.
+The request of Mr. Allan Escalante for additional allowable use for tfte operation of eartfrRl
+concession located in Barangay Lacson, Calinan District, this City, is hereby approved;
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the_ 12h day of December, 2018, by three-foufths (3/+) majority
+vote of all the Members of the sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+chkr$J=fu*
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head W
+ATTESTED:
+RNARD E.
+AG
+Vice
+r
+Presidi
+Officer
+cns/kjtq
+
+I
+!
+ATTY.
+City
+Ord. No. 0642-18
+AppRovEo 08 FEB 2019 .2018
+Z. DUTERTE
+a
+cirv rtauy,
+ATTESTED:
+rulrl
+zuLErKA ftl. LOPEZ
+Administratbr -

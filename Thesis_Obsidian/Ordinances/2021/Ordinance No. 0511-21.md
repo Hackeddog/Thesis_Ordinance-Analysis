@@ -1,0 +1,368 @@
+---
+ordinance_number: "0511-21"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE PHILIPPINE NATIONAL POLICE - REGIoN xI, RELATIVE To THE UsE oF A 6oo-sQUARE METER PORTION OF A PARCEL OF LAND IDENTIFIED AS tOt t, CSD-II- OL9O72, CONTAINING AN AREA OF TWO THOUSANd NINETY FouR (2P94) SQUARE METERS,"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0511-21.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2021.0
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/deed]
+---
+
+# Ordinance No. 0511-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE PHILIPPINE NATIONAL POLICE - REGIoN xI, RELATIVE To THE UsE oF A 6oo-sQUARE METER PORTION OF A PARCEL OF LAND IDENTIFIED AS tOt t, CSD-II- OL9O72, CONTAINING AN AREA OF TWO THOUSANd NINETY FouR (2P94) SQUARE METERS,
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2021 |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+' Republic of the Philippinds
+City of Davao ;
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+lonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+AIbefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+- On Official Business
+i1
+19th City Council
+10h Regular Session
+SERIES of 202L
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+Councilor Wilberto E. Al-ag
+ORDINANCE NO. 0511.21
+SERIES ot 2O2L
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE
+DEED OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE
+CITY OF DAVAO AND THE PHILIPPINE NATIONAL POLICE -
+REGIoN xI, RELATIVE To THE UsE oF A 6oo-sQUARE METER
+PORTION OF A PARCEL OF LAND IDENTIFIED AS tOt t, CSD-IIOL9O72, CONTAINING AN AREA OF TWO THOUSANd NINETY
+FouR (2P94) SQUARE METERS, MORE oR LEss, LOCATED IN
+BARANGAY MALABOG, PAQUIBATO DISTRICT, THIS CITY
+
+r-,a
+Page 2of3 ,'
+'
+. Ord. No. 0511-21
+r
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that:
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CrTY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED
+INTO BY AND BETWEEN THE CITY OF DAVAO AND THE PHILIPPINE
+NATIONAL POLICE - REGION XI, RE1ATIVE TO THE USE OF A 6OO-SQUARE
+METER PORTION OF A PARCEL OF LAND IDENTIFIED AS LOT 1, CSD.l1OI9O72, CONTAINING AN AREA OF TWO THOUSAND NINETY FOUR (2,094)
+SQUARE METERS, MORE OR LESS, LOCATED IN BARANGAY MAI.ABOG,
+PAQUIBATO DISTRICT, THIS CITY"
+SECTION 2. DECLARATION OF POUCY - SECTION 25 (b) of Republic Act No.
+7160 or the Local Government Code of 1991 provides:
+"National Agencies and offices with prolect implementation
+functions shall coordinate with one another and with the local
+government unib concerned in the discharge of these functions.
+They shall ensure the participation of local government uniB both
+in the planning and implemenbtion of said national proJecb."
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign the Deed of Usufruct between the City of Davao and the
+Philippine National Police - Region XI, relative to the use of a 600-square meter portion
+of a parcel of land identified as Lot 1, Csd-11-0L9072, located in Barangay Malabog,
+Paquibato District, Davao City, containing an area of Two Thousand Ninety-Four (2,094)
+square meters, more or less.
+SECTION 4. SEPARABILITY CLAUSE - If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+EFFECTMTY - This Ordinance shall take effect immediately upon
+ENACTED, on the 9th day of March 202L by a unanimous vote of all the
+members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^OlatvG l. fr"^t
+CHARITO N.'S^NTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+
+?
+i
+Ord. No. 0511-21
+ATTESTED:
+EDGAR
+R.
+President
+Temporary Presiding Officer
+cns/johanna
+APPROVED:
+I'|AR 25 2021.
+202L
+Z. DUTERTE
+City Mayop
+ATTESTED:
+ATTY.
+LEIKA T.
+PEZ
+City Admin
+rs
+AN ORDINANCE AUTHORIZNG THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE DEED OF USUFRUCT TO BE ENTERED INTO BY nNO AEnirEN THE CITY OF DAVAO AND THE
+PHIUPPINE NATIONAL lgqcE - REGION XI, REI-ATIVE TO THE USE OF A 6CO- SQUARE METER PORTTON OF A
+PARCEL OF I.AND IDENTIFIED AS LOT 1, CSD-I1.019072 CONTAINING AN AREA OF NNTO TNOUSAND NINETY FOUR
+(2,094) SQUARE METERS, MORE OR LESS LOCATED IN BARANGAY MA|-ABOG, PAQUIBATO DISTRICT, THIS CITy
+'a
+
+DEED OF USUFRUCT
+KNOW ALL MEN BY THESE PRESENTS:
+This DEED OF USUFRUCT is made and entered into by and between:
+CITY GOVERNMENT OF DAVAO, a government entity
+duly organized and existing under the laws of the Republic of the
+Philippines, represented in this act by its City Mayor, SARA Z.
+DUTERTE, likewise of legal age, Filipino, and a resident of Davao
+City, Philippines, hereinafter referred to as the OWNER
+and
+PHITIPPINE NATIONAL POLICE REGION XI,
+represented herein by its Regional Director PBGEN FILMORE B.
+ESCOBAL, PRO 11, of legal age, Filipino, and a resident of Davao
+City, Philippines, hereinafter referred to as the USUFRUCTUARY
+WITNESSETH:
+WHEREAS, under SECTION 16 and L7 of Republic Act No. 7160, the
+Owner, an LGU, is empowered to exercise the powers expressly granted, those
+necessarily implied therefrom, as well as powers necessary, appropriate, or
+incidental for its efficient and effective governance, and those which are essential
+to the promotion of the general welfare, and to provide basic seruices and
+facilities to its inhabitants.
+"
+WHEREAS, the OWNER is the lawful possessor and actual occupant of a
+public land identified as Lot 1, Csd-11-019A72 bcated at Malabog, Paquibato
+District, Davao City, containing an area of TWO THOUSAND NINETY FOUR
+(2,094) SQUARE METERS, more or !ess;
+WHEREAS, the USUFRUCTUARY desires to use Stx HUNDRED (600)
+SQUARE METER poftion of the above-mentioned parcel of land for the
+establishment of POLICE STATION 7 of the USUFRUCTUARY;
+WHEREAS, the presence of the USUFRUCTUARY in the aforesaid
+property is found to be beneficial to the OWNE& and its constituents and the
+Filipino people in general;
+NOW THEREFORE, for and in consideration of the foregoing, and for the
+general welfare and convenience of the OWNER's constituents, the OWNER
+hereby agrees, cedes, conveys, by way of Usufruct unto the usuFRUcruARy,
+SIX HUNDRED (600) SQUARE METER portion of the above-mentioned parcel of
+land, subject to the following terms and conditions:
+LAND AREA: The USUFRUCTUARY shall be allowed the exclusive and
+uninterrupted use of the SIx HUNDRED (600) SeUARE METER poftion of the
+above-described parcel of land, which is more pafticutarty described as follows:
+ADVANCED TECHNICAL DESCRIMON
+Csd-11-New2
+Sqrvey Plans No.
+tu k
+
+Lot No.
+Poftion of Lot
+Location
+1-A
+1, Csd-11-0L9072
+Barangay Malabog, Davao City
+BOUNDARIES
+Tie Point
+BLLM. No. 1, Gssm-tt-016
+Lot Descriptions
+LINE
+BEARING
+DISTANCE
+Tie Point:
+s.47" 1l',E.,
+1332.31 m.
+t-2
+2-3
+3-4
+4-5
+s-6
+6-7
+7-t
+s. 020 43'w.,
+N. 750 20',W.,
+N. 120 20',E.,
+N. 020 23',W.,
+N. 110 23',E.,
+N. 050 2t'w.,
+s. 850 46',E.,
+40.42 m.
+18.49 m.
+23.52 m.
+3.67 m.
+5.93 m.
+4.31 m.
+L4.20 m.
+Area : SIX HUNDRED (600) SQUARE METERS, MORE OR LESS.
+PURPOSE: The propefi shall be used solely and exclusively as POLICE
+STATION 7;_
+TERM: This Deed of Usufruct shall be effective for a period of TWENTY
+FIVE (25) years from the time of the signing of this document renewable upon
+the consent of both pafties. However, in the event that the USUFRUCTUARY
+ceases to use or operate for which it is intended, this Usufruct is automatically
+terminated and al! the improvements thereon shall be forfeited in favor of the
+OWNER.
+MAINTENANCE: The USUFRUCTUARY shall maintain the land in
+accordance with the existing rules and regulation and preberve the same in
+habitable condition during the existence of Usufruct.
+The USUFRUCTUARY is authorized to construct new buildings, make
+repairs, including renovations, provided that the same shall conform to the
+standard prescribed by law.
+LIABILIW: The USUFRUCTUARY shall be solely liable for damages or
+criminal liability arising from its negligence while in possession of the lot stated
+LINE
+DIRECTION
+ADJOTNTNG LOTS/ FEATURES
+7-l
+t-2
+2-3
+3-4-5-6-7
+NE
+SE
+SW
+NW
+Lot 1, Csd-l1-New
+Lot 1, Csd-ll-New
+Road (30.00 m. wide)
+Lot 54, Csd-11-019072
+a
+of this u
+
+MISCELIANEOUS PROVISIONS
+1. During the existence of usufruct, the usuFRUcruARY is absolutely
+prohibited from alienating its rights on the usufruct, nor leases the
+same to any third person.
+All repairs, maintenance, construction and/or improvements made on
+the said propefi shall require the prior written consent and approval
+of the OWNER.
+3. All taxes for the said propefi during the duration of this USUFRUCT
+shall be borne by the USUFRUCTUARY.
+That any violation of the terms and conditions of this Usufruct is a
+valid ground for the termination of this contract without any court
+Order.
+IN wrrNEsS WHEREOF, the parties have hereunto set their hands this
+-111--_n':
+-
+at Davao CitY, PhiliPPines.
+CITY GOVERNMENT OF DAVAO PHILIPPINE NATIONAL POLICE
+Represented by:
+by:
+DUTE
+PBGEN
+B. ESCOBAL
+_ City Mayor 1e
+Reg
+PRO 11
+IEIKA T.
+Signed in the presence of:
+Admin
+&
+ACKNOWLEDGMENT
+Republic of the Philippines )
+)s.s.
+BEFORE ME, a NOTARY PUBUC for and in the City of Davao, personatly
+appeared SARA Z. DUTERTE with her Tax Identification No. 932-7OL-501 and
+PBGEN FILMORE B. ESCOBAL with his
+This document, consisting of three (3) useful pages including this
+acknowledgment is written, is signed by the parties and their instrumental
+witnesses in each and every page thereof.
+known to me to be the same persons
+Usufruct and acknowledged to me that th
+WITNESS MY HAND AND SEAL this
+City, f\ilippines.
+who executed the .foregoing Deed of
+e same is their free act and deed.
+at
+oub:k
+,t
+I
+41. ..
+e u Lr-.r
+It'.r, FIe)
+,
+L t^
+I r.,...
+Untll ilecember 3t; 2022
+PTf, (20:1) No479269t1 1fl5t202t
+r8p(20e1iNo. 13ff/.y1a$n0
+Roll of Attomqfu iio.67330
+:2I:

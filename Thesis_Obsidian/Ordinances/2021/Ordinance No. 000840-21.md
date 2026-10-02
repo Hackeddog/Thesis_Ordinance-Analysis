@@ -1,0 +1,239 @@
+---
+ordinance_number: null
+title: "Ordinance No. 000840-21"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000840-21.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.2
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: 2021.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid]
+---
+
+# Ordinance No. 000840-21
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | 2021 |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+48th Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Sebastian Z. Dutefte
+Maria Belen S. Acosta
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+- On Official Business
+- On Sick Leave
+- On Maternity Leave
+- On Sick Leave
+RePuUlic of the PhiliPpines
+Albefto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ORDINANCE NO. O84O-21
+SERIES of 2021
+AN ORDIilANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE
+CoNTRACT OF TEASE BETWEEN MRS. DELrA YEE PORTO, LESSO& AND THE
+CITY GOVERNMENT OF DAVAO, AS LESSEE, RELATTVE TO THE ONE (1) YEAR
+RENTAL OF A PROPERTY LOCATED AT KM. 8, ULAS, DAVAO CITY, TO BE
+USED AS A WAREHOUSE STORAGE OF PASKO FIESTA DECORATIVE
+SUPPLIES AND MATERIALS, SUBJECT TO GOVERNMENT BUDGETING,
+ACCOUNTING, AND AUDITING RULES AND REGULATIONS OF THE
+DEPARTMENT OF BUDGET AND MANAGEMENT (DBM), THE COMMISSION
+oN AUDIT (COA), THE PROCUREMENT rrW, AS WELI AS OTHER
+APPITCABIE IAWS, ORDINANCES AND PRESTDENTTAT DIRECTTVES
+
+Page2 of 4
+Ord. No. 0840-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. EIIE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CrTY OF DAVAO, THE RENEWAL OF THE CONTRACT OF LEASE
+BETWEEN MRS. DELIA YEE PORIO, LESSO& AND THE CITY GOVERNMENT OF
+DAVAO, AS LESSEE, REIATrVE TO THE ONE (1) YEAR RENTAL OF A PROPERTY
+LOCATED AT KM. 8, ULAS, DAVAO CITY, TO BE USED AS A WAREHOUSE STORAGE
+oF PASKO FTESTA DECORATTVE SUPPUES AND MATERIALS, SUBJECT TO
+GOVERNMENT BUDGETING, ACCOUNTING, AND AUDITING RULES AND
+REGULATIONS OF THE DEPARTMENT OF BUDGET AND MANAGEMENT (DBM),
+THE COMMTSSTON ON AUDrr (COA), THE PROCUREMENT LAW, AS WELL AS
+oTHER, APPLTCABLE LAWS, ORDTNANCES AND PRESIDENTTAT DTRECTTVES',.
+SECTION 2.
+- SECTION 22 (a) (5) and (c) and
+SECTION 455 (b) (1) (vi) of the Local Government Code of 1991 or RA 7160 provides
+that:
+SECTION 22. Corporate Powes. -
+(a) Every local government unit, as a corporation, shal! have
+the following powers:
+)ofr
+(5) To enter into contracts; and
+)oo(
+(c) Unless otherwise provided in this Code, no contract may
+be entered into by the Iocal chief executive in behalf of the
+local government unit without prior authorization by the
+sanggunian concerned. A legible copy of such contract shall
+be posted at a conspicuous place in the provincial capitol or
+the city, municipal or barangay hall.
+SECTION 455. Chief Executive; Poweq Duties and
+Compenation.
+w(
+(b) For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city
+mayor shall:
+(1) Exercise general superuision and control over all
+programs, projects, seruices, and activities of the city
+government, and in this connection, shall:
+)oo(
+)oo(
+)oo(
+)oo(
+w(
+)ox
+
+Ord. No. 0840-21
+rco(
+rco(
+)oo(
+(vi) Represent the city in all its business transactions and
+sign in its behalf all bonds, contracts, and obligations, and
+such other documents upon authority of the SANGGUNIANG
+panlungsod or pursuant to law or ordinance.
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign the Renewal of the Contract of Lease between Mrs.
+Delia Yee Porio, lessor, and the City Government of Davao, as lessee, relative to the
+one (1) year rental of a property Iocated at Km. 8, Ulas, Davao City, to be used as a
+Warehouse Storage of Pasko Fiesta Decorative Supplies and Materials subject to
+Government Budgeting, Accounting, Auditing Rules and Regulations of the Department
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement
+Law, as well as other applicable laws, Ordinances and Presidentia! directives.
+SECTION 4.
+- If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, on the 14th day of December 202!, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ affi5'l'--
+CHARTTO NIflANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II),
+ATTESTED:
+Zfua"f
+y(s;ewd*. uNGAB
+' Acting Vice Mayor
+Temporary Presiding Officer
+cns/kjtq
+,r
+
+i,
+a!
+Ord. No. 0840-21
+APPROVED:
+FrB 2, l_:r'r
+FEBn2 2oz .zo2l.
+SARA Z. DUTERTE
+e City Mayor.v
+L
+AcilOCnY
+DI'TERTE
+Hrlpr l
+ATTESTED:
+T
+City Adm
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE RENEWAL OF THE CONTRACT OF LEASE BETWEEN MRS. DELIA YEE PORTO,
+LESSOR, AND THE CITY GOVERNMENT OF DAVAO, AS LESSEE, REI.ATIVE TO THE ONE (1) YEAR
+RENTAL OF A PROPERTY LOCATED AT KM. 8, UI.AS, DAVAO CITY, TO BE USED AS A WAREHOUSE
+STORAGE OF PASKO FIESTA DECORATIVE SUPPUES AND MATERTAIS, SUBJECT TO GOVERNMENT
+BUDGETING, ACCOUNTING, AND AUDMNG RULES AND REGUI.ATIONS OF THE DEPARTMENT OF
+BUDGET AND MANAGEMENT (DBM), THE COMMISSION ON AUDIT (COA), THE PROCUREMENT LAW, AS
+WELL AS OTHER APPLICABLE I-AWS, ORDINANCES AND PRESIDENTIAL DIRECTIVES
+ATTY.
+)

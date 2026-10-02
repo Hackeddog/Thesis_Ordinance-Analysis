@@ -1,0 +1,165 @@
+---
+ordinance_number: "0712-24"
+title: "Ordinance No. 0712-24"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0712-24 MOA DepEd Dcplinado Program (1).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0712-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+208'City Council
+45s Regular Session
+SERIES of 2024
+PRESENT:
+f>
+a
+J. Melchor B. Quitain lr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann l. Villafuerte
+Jesus Joseph P. Tszobrado III
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Richlyn N. Justol-Baguilod
+Kristine May John Abdul Mercado
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+- Presiding fficer
+- On Vacation Leave
+- On Official Business
+- On Sick Leave
+- On Sick Leave
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE T{O. O7L2-24
+SERIES of 2024
+AN ORDII{ANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY
+AND BETWEEN THE CITY OF DAVAO AND THE DEPARTMENT
+OF EDUCATION FOR THE DABAWENYO DCPLINADO
+PROGRAM INTEGRATION TO THE EXISTING DEPED
+CURRICULUM
+
+-i
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as oAN ORDIIIANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND I]I
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE
+ET{TERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE DEPARTMEilT
+OF EDUCATION FOR THE DABAWENYO DCPLINADO PROGRAM IilTEGRATION
+TO THE EXISTING DEPED CURRICULUMO.
+SECTION 2. AUTHORITY - The City Mayor is hereby authorized to enter into and
+sign, for and in behalf of the City of Davao, the Memorandum of Agreement to be entered
+into by and between the City of Davao and the Department of Education relative to the
+integration of the "Dabawenyo DCplinado Program" to the existing DepEd Curriculum.
+SECTION 3. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, December L0, 2024, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+Ord. No. 07L2-24
+cnmJ#,,
+City Government Department Head II
+(Secretary to the SANGGUNIANG Panlungsod)
+ATTESTED:
+J. MELcld6. eurrArN JR.
+/vice Mayor
+Fresiding Officer
+cns/raine
+APPROVED:
+? { ?025'
+2024
+Z. DUTERTE
+Mavp u
+SE
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE DEPARTMENT OF
+EDUCATION FOR THE DABAWENYO DCPUNADO PROGRAM INTEGRATION TO THE DOfiNG DEPED CURRICULUM

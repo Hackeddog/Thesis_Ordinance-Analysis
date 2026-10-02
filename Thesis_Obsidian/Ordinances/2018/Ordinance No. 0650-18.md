@@ -1,0 +1,302 @@
+---
+ordinance_number: "0650-18"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF EMMANUEL C. ROLDAN FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF COMMERCIAL SAND AND GRAVEL QUARRY LOCATED IN BARANGAYS PANGYAN AND PAMPIANAO, CALINAN DISTRICT, THIS CfTY\", for your information and appropriate action. For the City Mayor: ATTY. TRISTAil NGO Assistant City ( CMO. CRD RELEASED ? r unn zdF ll:m e,fifl ) r)c- 1^/q A/ ffi i i if 33oi' Y ffi i i"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0650-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/application, topic/emmanuel, topic/roldan, topic/addmonal, topic/allowable]
+---
+
+# Ordinance No. 0650-18
+
+> AN ORDINANCE GRANTING THE APPLICATION OF EMMANUEL C. ROLDAN FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF COMMERCIAL SAND AND GRAVEL QUARRY LOCATED IN BARANGAYS PANGYAN AND PAMPIANAO, CALINAN DISTRICT, THIS CfTY", for your information and appropriate action. For the City Mayor: ATTY. TRISTAil NGO Assistant City ( CMO. CRD RELEASED ? r unn zdF ll:m e,fifl ) r)c- 1^/q A/ ffi i i if 33oi' Y ffi i i
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+,li6!{fi{p:,=
+iW
+A
+Ref. No. CA@.2019{0521
+2Nd TNDORSEMENT
+February 28,20L9
+Respectfully returned to Ms. Charib N. Santos, Secretary to the SANGGUNIANG
+Paniungsod, this City. the attached duly signed and approved Ordinance No. 0650-18,
+SeTieS of 2018, entitled "AN ORDINANCE GRANTING THE APPLICATION OF EMMANUEL
+C. ROLDAN FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF
+COMMERCIAL SAND AND GRAVEL QUARRY LOCATED IN BARANGAYS PANGYAN AND
+PAMPIANAO, CALINAN DISTRICT, THIS CfTY", for your information and appropriate
+action.
+For the City Mayor:
+ATTY. TRISTAil
+NGO
+Assistant City
+(
+CMO. CRD
+RELEASED
+? r unn zdF ll:m e,fifl
+)
+r)c- 1^/q A/
+ffi i i if 33oi' Y ffi i ilii'.i'dr8 "il J 11," :'H:: J,.,';:,i,i;'.,?Hli glh P,WP'@
+);1
+OFFTCE OF THE CITYMAYOR
++
+
+6la
+1 -73
+OFFICE OF THE CITY LEGAL
+Tel. No.298-5970
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+Ref. No. 1131-19-046
+LEGAL OPINION No.
+SERIES OF 2019
+ORDTNANCE No. o6s0-18, serles of 20rg eniltied -AN
+ORDINANCE GRANTING THE APPLICATION OF EMMANUEL
+C. ROLDAN FOR ADDMONAL ALLOWABLE USE FOR THE
+OPERATION OF COMMERCIAL SAND AND GRAVEL QUARRY
+LOCATED IN BARANGAYS PANGYAN AND I.AMPIANAO,
+CAUNAN D-ImIffi; Tr{S emr,,
+1ST INDoRSEMENT
+February 7, 20tg
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance, iniorming your
+end that this office finds the enactment of tne ordinance free from legd infrmity.
+Hence, it is recommended that the ordinance be approved.
+u)+
+ATTY. unnffi. cAtro, Rsw
+Acting AssfCity Legal Officer
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA, JR
+OIC-Acting City Lega! Officer
+Date approved: February B,20tg
+.,rd0 6 i c I s_dllow 5 b _qwtr1_m ffan- t g-oi e_ z -i_ t s
+x-1L,.>
+OFFICE 0F THE SIEV {L'#l}llSTRf+ToR'
+clTY i'lAi i, L'r ltrlCE
+NAVA$ i:I:
+RECEIVED BYI0tr10t 0t IHE Gil i ,ir.{$iij$IBlU0R
+*ffiE
+r..!rE
+DI\TI
+TIME
+'l:ft
+AIDE IV
+D
+MARY ANN
+COR
+RR
+ADM
+' hrtz/o..t
+a(?-ocrzt
+,ltro- ??A->q
+Eit\
+I
+
+$a6i6rG.
+)
+i't0i>
+:(,2?
+,9 NC
+lanrraru 3fi- ?nlq
+btn
+SART T. SUTERTE
+fity Mayor
+City of Dmm
+It*la*r:
+G
+{
+O
+*
+*
+r._l
+Hrn -04{" P-4ot
+Fursuxrt to 5ub+ediofi -1, Faragraph C,'Sertiorr 469, Attide frte, Tifle five,
+fhatter I, Book III ard SECTION .54 of Book I Refuhlit Art ltlo. 7160, o*tenrise known
+x ile Lmal rlvemment fue of 18it1, we trE furnishing you a co[ry of Resdution H*.
+{!28?9-18 md ft'dinance l'!*. 06gF18, bdh Seri* of ?,018 nf lhe S*gluniarE
+p;nlung5pfl, for yc'ur infotntatisr, quidanre and ilprq,riate adion,
+Vert *uly ynUE,
+"FCIr anrl in fre ahserre of the kcrehry:"
+-llruni,4
+3IILDA C. U#MO
+Arting krr&ry to Sre SANGGUNIANG knlurqsod
+{fity Gouernment A#i#}t Det'arfnent He*J II}
+€ORRESPONDENCE & RECORDS DIVISIOT
+RECEIVED
+JAN 31 2019
+l0'.t0
+MARY ANN
+AIYARADO
+
+Ub
+GISN
+18tr'City Council
+476 Regular Session
+SERIES of 2018
+PRESENT:
+Repubtic of the Philippines
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+AI Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo l. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Presiding Officer
+- On Official Business
+- On Domestic Emergency Leave
+- On Official Business
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+\Y
+ABSENT:
+Councilor
+Councilor
+Councilor
+Nilo M. Abellera Jr.
+Pilar C. Braga
+Danilo C. Dayanghirang
+ORDINANCE NO. 0650.18
+SERIES of 2018
+AN ORDINANCE GRANTING THE APPTICATION OF
+EMMANUEL C. ROLDAN FOR ADDITIONAL ATLOWABLE USE
+FOR THE OPERATION OF COMMERCIAL SAND AND GRAVEL
+QUARRY LOCATED IN BARANGAYS PANGYAN AND
+LAMPIANAO, CALINAN DISTRICT, THIS CITY
+I
+
+Ord. No. 0650-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as *AN ORDINANCE
+GRANTING THE APPLICATION OF EMMANUEL C. ROLDAN FOR ADDIONAL
+AIIOWABLE USE FOR THE OPERATION OF COMMERCIAL SAND AND GRAVEL
+QUARRY LOCATED IN BARANGAYS PANGYAN AND LAMPIANAO, CALINAN
+DISTRICT, THIS CITY".
+SECTION 2.
+- Article )GI of the
+Comprehensive Zoning Ordinance of Davao City (2013-2022) more pafticularly SECTION
+1 thereof, "Request for Additiona! Allowable Use" provides that the uses enumerated in
+the preceding afticles on general zone and all sub-zones are not exhaustive nor allinclusive. The SANGGUNIANG Panlungsod, upon application of the project proponent and
+upon favorable recommendation by the Local Zoning Board of Adjustment and Appeals
+(LZBAA), may allow other uses not enumerated thereunder as it may deem fit and proper
+including, but not limited to, the following projects which are of socio-economic and
+environmental significance and/or national interest by r/o a majority vote of all members
+of the SANGGUNIANG Panlungsod through resolutions and Ordinance;
+SECTION 3.
+USE - The request of Emmanuel C. Roldan for additional allowable use for the operation
+of commercial sand and gravel quarry located in Barangays Pangyan and Lampianao,
+Calinan District, this City, is hereby approved.
+SECTION 4. rc
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+-This Ordinance sha!! take effect immediately upon
+ENACTED, December L2,2018, by three-fourths (314) majority vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cH:^WNIff'
+Secretary to the SANGGUNIANG Panglungsod
+(City Government Departme nt Head II)
+Vice
+Presiding
+cer
+ATTESTED:
+cns/richard
+
+h
+t
+I
+APPROVED
+0 I FEB 2019,,
+Ord. No.0650-18
+2018
+z.
+City Mayor,-
+/
+ATTESTED:
+I
+TOPEZ
+!
+City
+a

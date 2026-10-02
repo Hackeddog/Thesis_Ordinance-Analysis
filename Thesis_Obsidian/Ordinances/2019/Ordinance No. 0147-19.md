@@ -1,0 +1,388 @@
+---
+ordinance_number: "0147-19"
+title: "AN ORDINANCE AMENDING ORDINANCE NO. 029L-L7, OTHERWISE KNOWN AS THE 2017 REVENUE CODE OF DAVAO Cffi, SPECIFICALLY SUB- PARAGRAPHS 2 AND 3 OF PARAGRAPH (e) SECTION 76, TO CONFORM WITH THE PROVISIONS OF DOF-LOCAL FINANCE TO CIRCULAR NO. 3-95, SECflON 3 (a) AND SECflON 143 ( e) , OF REPUBLIC ACT NO. 7L60, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AND ITS IMPLEMENTING RULES AND REGULATIONS"
+date_enacted: "2019-12-10"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0147-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, type/amendatory, topic/revenue, topic/code, topic/cffi, topic/specifically, topic/paragraphs, topic/paragraph]
+---
+
+# Ordinance No. 0147-19
+
+> AN ORDINANCE AMENDING ORDINANCE NO. 029L-L7, OTHERWISE KNOWN AS THE 2017 REVENUE CODE OF DAVAO Cffi, SPECIFICALLY SUB- PARAGRAPHS 2 AND 3 OF PARAGRAPH (e) SECTION 76, TO CONFORM WITH THE PROVISIONS OF DOF-LOCAL FINANCE TO CIRCULAR NO. 3-95, SECflON 3 (a) AND SECflON 143 ( e) , OF REPUBLIC ACT NO. 7L60, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AND ITS IMPLEMENTING RULES AND REGULATIONS
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.s!ir'
+iU.rr
+Republic of the Phil,lp,o",
+OFFICE OF THE CITY MAYOR
+t
+.t
+Ref. No. CAdG202&00O46
+2"d INDORSEMENT
+January L3,2020
+Respectfully returned to Ms. Charito N. Santm, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0t47-19,
+SERIES of 2019, entitled 'AN ORDINANCE AMENDING ORDINANCE NO. 029L-L7,
+OTHERWISE KNOWN AS THE 2017 REVENUE CODE OF DAVAO Cffi, SPECIFICALLY SUBPARAGRAPHS 2 AND 3 OF PARAGRAPH (e) SECTION 76, TO CONFORM WITH THE
+PROVISIONS OF DOF-LOCAL FINANCE TO CIRCULAR NO. 3-95, SECflON 3 (a) AND
+SECflON 143 ( e) , OF REPUBLIC ACT NO. 7L60, OTHERWISE KNOWN AS THE LOCAL
+GOVERNMENT CODE OF 1991, AND ITS IMPLEMENTING RULES AND REGULATIONS ",
+for your information and appropriate action.
+For the City Mayor:
+ATTY.
+DOMINGO
+CIW MAYOR'S OFFICE
+CORRESPONDENCE AND RECORDS DIV
+R,ELEASED.
+JAN 14 2020
+AIDE IV
+ADMIN
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com,
+ol
+BAW
+IlIFE IS HERE
+I
+
+\
+Repq[[9 ol{flhiliplrines 4
+\
+December 27,2019
+0lte),o - ,,t
+SARA Z. DUTERTE
+City Mayor
+Madam
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0553-19 and Ordinance No. Ot47-L9, both SERIES of 2079 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+hil4
+c1HARITO N SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+,'flT't-'ffi"ti"d''ffJAN 02 2020
+':.j-i;.
+tr).
+cMO
+MARY
+a.,b
+ALVARADO
+IV
+
+OFFICE OF THE CTTY LEGAL OFFICER
+Ref. No. c4bL-h\O -ml
+Legal Opinion ruo. b B , SERIES of 2020
+RE: ORDINANCE NO. 0147-t9, SERIES OF 2019 entitled "AN
+ORDINANCE AMENDING ORDINANCE NO. O29L-L7, OTHERWISE
+KNOWN AS THE 2OL7 REVENUE CODE OF DAVAO CTTY,
+SPECIFICALLY SUB-PARAGRAPHS ( e) SECfiON 78, TO CONFORM
+WTTH THE PROVISIONS OF DOF-LOCAL FINANCE CIRCUI-AR NO.
+3-95, SECTION 3 (A) AND SECTION 143 €, OF REPUBLTC ACT NO.
+7L60, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE
+OF 1991, AND ITS IMPLEMENNNG RULES AND REGUI.ATIONS."
+l't INDoRSEMENT
+January 6,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance, with the
+information that this office finds no legal infirmity therein. As aptly noted, the
+amendment of 2AL7 Revenue Code is necessary to conform to DOF-Local
+Finance Circular No. 3-95. Hence, it is recommended that the subject Ordinance
+be approved.
+ATTY.
+A. GALLO, RSW
+Acting
+City Legal Office
+GAL
+'sr*
+0 7
+fn
+o
+.o
+"ff"H-[r'r[v"d''ffJAN il7 !A?t
+,!s
+It\:
+-#i
+COTTAO r: Z.l.tlJ00
+MTRY ANN
+}RfiTAA$AD
+2o1b-o?o4Q
+,.,04
+t"q-L+u
+J.
+It
+
+I
+Republic of rhe Philippines
+v
+19th city Council
+23'd Regular Session
+SERIES of 2019
+PRESENT:
+ABSENT:
+Councilor
+Councilor
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Sebastian Z. Duterte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor Edgar R. Ibuyan Sr.
+- Temporary Presiding Officer
+- OB-Attended the 6th National
+Executive Board Meeting of
+the Liga ng mga Barangay in
+Mandaluyong City
+- On Domestic Emergency Leave
+- On Vacation Leave
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+ORDINANCE NO. OL47-I9
+SERIES of 2019
+AN ORDINANCE AMENDING ORDINANCE NO. O29L.I7,
+OTHERWISE KNOWN AS THE 2017 REVENUE CODE OF DAVAO
+clw, spEcIFIcALLy SUB-PARAGRAPHS 2 AND 3 OF
+PARAGRAPH (e) SECTION 76, TO CONFORM WITH THE
+PROVISIONS OF DOF.LOCAL FINANCE CIRCULAR NO. 3.95,
+SECTION 3 (a) AND SECTION 143 (e), OF REPUBLIC ACT NO.
+7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE
+oF 1991, AND ITS IMPTEMENTING RULES AND REGUTATIONS
+
+Ord. No. 0L47-L9
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTIOT{ 1. TITIE- This Ordinance shall be known as "AN ORDINAI{CE
+AMENDING ORDINANCE ilO. 029L.I7, OTHERWISE KNOWN AS THE 2017
+REVEilUE CODE OF DAVAO CrTY, SPECIFTCALLY SUB-PARAGRAPHS 2 AND 3
+OF PARAGRAPH (e) SECTIOil 76, TO COilFORM WITH THE pROVISIONS OF
+DOF-LOCAL FIIIANCE CIRCULAR t{O. 3-95, SECTIOil 3 (a) AND SECTIOIT 143
+(e), OF REPUBIIC AcT No. 7L6o, OTHERWTSE KNowN As THE LOCAL
+GOVERNMENT CODE OF 1991, AND ITS IMPLEMENTING RULES AND
+REGULATIONS."
+SECTIOII 2. AMEIIDMENT. Sub-paragraphs 2 and 3 of paragraph (e) SECTION
+76, Article X, of Ordinance no. 029I-L7, is hereby amended to conform with the
+provisions of DOF-Local Finance Circular No. 3-95, SECTION 3 (a) and SECTION 143 (e), of
+Republic Act No. 7L60, otherwise known as The Local Government Code of 1991, anO its
+Implementing Rules and Regulations, viz:
+Afticle Ten. - Graduated Tax on Business
+FROM:
+SECTION 76.
+Imposition of rax. - There is hereby imposed on the
+following persons who establish, operate, conduct or maintain their respective
+business within the City a graduated business tax in the amounts hereafter
+prescribed:
+(e) On @ntractots and other Independent @ntactorc in accordane wiilt the
+following sltedule:
+Gross Sales/Receipts for the Preceding
+C-alendar Year
+Amount of Tax Per
+Annum
+Less than 50,000.00
+998.2s
+50,000.00 or more but less than 75,000.00
+L,597.20
+f5400.00 or more but less than 100,000.00
+2,395.90
+100,000.00 or more but less than 150,000.00
+3,593.70
+158,000.00 or more but less than 200,000.00
+4,79L.60
+200,000.00 or more but less than 250,000.00
+6,588.45
+250,000.00 or more but less than 300,000.00
+8,385.30
+300,008.00 or more but less than 400,000.00
+11,190.40
+.100,000.09 or more but less than 500,000.00
+L4,973.75
+500,000.00 or more but less than 750,000.00
+L6,788.75
+750,000.00 or rnclre but less than
+1,000,000.00
+18,603.75
+1,000,000.00 or more but less than
+2.qq0,0oo.oo
+20,993.50
+In excess of 2,000,000.00
+At a rate of sixty
+percent (600/o) of
+one percent (1olo)
+
+page 3 of4
+Ord. No. 0L47-tg
+For putpo*s of this *ction, the bx on general engin*ring,
+general building, and specialty ontractorc shafi initialty bi bad on
+tfre total contract prie, payable in qual annaal instaitmenb within
+tlre prujut tem, should a ontractor (applicable only tu general
+enginering and general building contramfl undenake to-furnish
+the materials in the onstuction woilg onty the cost of such
+materials shall be dducted from his gtos rueipa for the purwse
+of determining the tax due,
+Upon completion of the project, the taxes shall be recomputed on the basis
+of the gross receipb for the preceding calendar years and the deficiency tax, if
+there be any, shall be collected as provided in this Code or the excess trx
+payment shall be refunded.
+Lessors and Dealers of Real Estate shall be taxed at the same rate
+provided in paragraph (e) of this SECTION.
+TO:
+SECTION 76. Imposition of Tax - There is hereby imposed on the foiiowing
+persons who establish, operate, conduct, or maintain their respective businesl
+within the City a graduated business tax in the amount hereinaftei prescribed:
+(e) On contractors and other Independent Contractors in accordance with
+the following schedule:
+Gross Sales/ Receipts for the Preceding Calendar
+Year
+Amount of Tax Per
+Annum
+Less than 50
+998.25
+.00 or more but less than
+L,597.20
+000.00 or more but less than 100
+2,395.80
+000.00 or more but less than 1
+3,593.70
+150 000.00 or more but less than
+.00
+4,79t.60
+00 or more but less than
+6,588.45
+.00 or more but less than
+8,385.30
+or more but less than
+11,180.40
+.00 or more but Iess than 500
+t4,973.75
+.00 or more but less than 750
+.00
+16,788.75
+750 000.00 or more but less than 1
+000.00
+18,603.75
+.00 or more but less than
+20, 993.50
+In excess of 2,000,000.00
+At a rate of sixty
+percent (600/o) of one
+percent(1olo)
+The taxable gros rueipB shall be the amounb received by the
+principal contrador as the total contrad price less the amount paid to a
+sub-@ntrador under a subcontract arrangemenl if thete is any, The
+said sub-contractor, however, shall atso be subject to the busiiess tax
+impored herein,
+Lessors and Dealers of Real Estate shall be taxed at the same rate
+provided in paragraph (e) of this SECTION.
+)oo(
+)oo(
+)oo(
+)oo(
+\
+t
+
+Ord. No. 0L47-L9
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEE$[W- This ORDINANCE shall take effect immediately after
+fifteen (15) days following the completion of its full publication in a local newspaper of
+general circulation within the City of Davao.
+ENACTED, on the 10th day of December, 2019, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+AfiESTED:
+Temporary
+cns/kjtq
+ATTY
+LEIKA T
+City Admin
+/
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftnent Head II)
+irkkf,il.r*fl,
+AppRovEr. 0 7 JAN 2020 .2019
+Z. DUTERTE
+- city Mayor t

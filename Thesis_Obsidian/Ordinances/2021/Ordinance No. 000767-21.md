@@ -1,0 +1,208 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE FOR THE ESTABLISHMEilT AND CONSTRUCTION OF A CITY.OWNED AND OPERATED OXYGEN COilCENTRATION PLANT WITTI A CYLINDER REFITLING SYSTEM IN DAVAO CITY t,t t i; '?"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000767-21.pdf"
+section_count: 9
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.2
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: 2021.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/establishmeilt, topic/construction, topic/owned, topic/operated, topic/oxygen, topic/coilcentration]
+---
+
+# Ordinance No. 000767-21
+
+> AN ORDINANCE FOR THE ESTABLISHMEilT AND CONSTRUCTION OF A CITY.OWNED AND OPERATED OXYGEN COilCENTRATION PLANT WITTI A CYLINDER REFITLING SYSTEM IN DAVAO CITY t,t t i; '?
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | 2021 |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+42nd Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+,
+Republic 0f the Philippines
+Sebastian Z. Dutefte
+Maria Belen S. Acosta
+Richlyn N. Justol-Baguilod
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- On Official Leave
+- On Domestic Emergency Leave
+- On Maternity Leave
+ORDINANCE NO. 4767-2I
+SERIES of 2O21
+AN ORDINANCE FOR THE ESTABLISHMEilT AND
+CONSTRUCTION OF A CITY.OWNED AND OPERATED
+OXYGEN COilCENTRATION PLANT WITTI A CYLINDER
+REFITLING SYSTEM IN DAVAO CITY
+t,t
+t
+i;
+
+Pa.ge 2 of 3
+Ord. No. 0767-2L
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. H!! - This Ordinance shall be known as "THE DAVAO CITY OXYGEN
+PTANT ORDINANCE".
+SECTION 2.
+- It is the policy of the State to adopt an
+integrated and comprehensive approach to health development which shall endeavor to make
+essentia! goods, health and other social seruices available to all people at affordable cost.
+Towards this end, the City shall establish and construct a City-owned and operated oxygen
+concentration plant with a cylinder refilling system f'Oxygen Plant') in the City, which shall
+supply o)rygen for medical and industrial purposes.
+SECTION 3.
+- For the purpose of this Ordinance, the
+following shall refer to:
+a. Oxygen Concentration Plant - a facility that concentrates the oxygen from a gas
+supply (typically ambient air) by selectively removing nitrogen to supply an oxygenenriched product gas stream
+b. Cyclinder refilling - the process of refilling/replenishing empty gas cylinders by
+connecting such cylinders to an oxygen concentrator
+SECTION 4. @IEQIIVE - The Objectives of this Ordinance are as follows:
+a. To establish a city-owned and operated olygen concentration plant which will
+increase the overal! production capacity in the City.
+b. To establish an o)rygen supply line for medical applications that can be expanded
+to commercial and industrial applications after the current pandemic has abated.
+c. To own and operate an o)rygen concentrating plant capable of refilling oxygen
+cylinders usable by the hospitals, temporary treatment and monitoring facilities,
+commercial establishments and industries of Davao City; and
+d. To create potential revenue-generating unit after utilization as a COVID-19
+pandemic mitigation measure.
+SECTION 5,
+- The City Government of
+Davao shall establish, construct, and operate an Oxygen Concentration Plant with a Cylinder
+Refilling System on a sustainable area within the City. The location of the Oxygen Plant shall
+be subject to applicable zoning and land use laws.
+As medical oxygen is considered a drug and is under the jurisdiction of the Food and
+Drug Administration (FDA), the Oxygen Plant shall be subject to licensing and registration
+requirements of FDA, as well as all other requirements of the Depaftment of Health (DOH).
+SECTION 6. RESPONSIBLE OFFICE/AGENCY - In order to ensure its continued
+operation and sustainability, the Oxygen Plant shall be underthe auspices of the City Economic
+Enterprise (CEE). Under the CEE, the oxygen plant shall be commercially operated as a
+revenue-generating unit, subject to audit processes as required by law.
+SECTION 7. APPROPRIATIONS - A budget of ELEVEN MILLION PESOS
+(Php 11,000,000.00) shall be appropriated for the construction of the Oxygen Plant, which
+shall be taken from the amended CY 202L Local Disaster Risk Reduction Management Fund
+Investrnent Plan. All disbursements shall be subject to the existing government budgeting,
+accounting, and auditing rules and regulations of the Depaftment of Budget and Management
+(DBM), the commission on Audit (coA), and the Procurement Law (RA 9184).
+,i
+
+Ord. No.0767-21
+SECTION 8. SEPARABILITY CLAUSE - If for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+sEcTIoil9.rc-Allordinances,ResoIutions,Executiveorders,
+Memoranda and Administrative Regulations or paft thereof in conflict or inconsistent with the
+provisions of this Ordinance are hereby repealed, amended or modified accordingly.
+SECTION 10.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, on the gthth day of November 202L, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cvqkffi,]r=fur,
+Secretary to the Sang(uniang Panlungsod
+(City Government Depaftment Head II)
+ATTESTED:
+ATTESTED:
+. UNGAB
+City Councilor
+Temporary Presiding Officer
+cns/kjtq
+APPROVEO: BEC O 2 ZN' ,2O2L
+SARA Z. DUTERTE
+City Mayoy.?
+Actlng OtY
+ATTY.
+EIKA
+City Admini*rator 2
+AN ORDINANCE FOR THE ESTABLISHMENT AND CONSTRUCTION OF A CITY-OWNED AND OPERATED
+OXYGEN CONCENTRATION PI.ANT WITH A CYUNDER REFILUNG SYSTEM IN DAVAO CITY
+DUTERTE
+Mayot I

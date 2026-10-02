@@ -1,0 +1,293 @@
+---
+ordinance_number: "0248-17"
+title: "AN ORDINANCE GRANTING THE REeUEST oF MARICRIS BRAGANZA, OWNER OF BRAGANZA EVENT MANAGEMENT AND MANPOWER SERVICES, FOR EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE CONCERT FOR A CAUSE DUBBED \"DARE TO DREAM: SONGS OF HOPE AND SOLIDARIry FOR THE CHILDREN\" ON SEPTEMBER L6, 2OI7 AT THE FAITH INTERNATIONAL ACADEMY, MARFORI HEIGHTS, THIS CITY\", for your information and appropriate a"
+date_enacted: null
+approval_date: "2017-09-26"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0248-17.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/granting, topic/reeuest, topic/maricris, topic/braganza, topic/owner, topic/event]
+---
+
+# Ordinance No. 0248-17
+
+> AN ORDINANCE GRANTING THE REeUEST oF MARICRIS BRAGANZA, OWNER OF BRAGANZA EVENT MANAGEMENT AND MANPOWER SERVICES, FOR EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE CONCERT FOR A CAUSE DUBBED "DARE TO DREAM: SONGS OF HOPE AND SOLIDARIry FOR THE CHILDREN" ON SEPTEMBER L6, 2OI7 AT THE FAITH INTERNATIONAL ACADEMY, MARFORI HEIGHTS, THIS CITY", for your information and appropriate a
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Cites or amends
+
+- [[Ordinance No. 4248-17]]
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Repubiic of the Philippines
+OFFTCE OFTHE CTTYMAYOR
+S
+o
+evn
+6Y
+rlAl
+2Nd INDORSEMENT
+October 25,2077
+Respectfully returned to Ms. charito N. santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the attached approved Ordinance No. O24B17, SERIES of 20t7 entitled "AN ORDINANCE GRANTING THE REeUEST oF
+MARICRIS BRAGANZA, OWNER OF BRAGANZA EVENT MANAGEMENT AND
+MANPOWER SERVICES, FOR EXEMPTION FROM THE PAYMENT OF AMUSEMENT
+TAX ON THE PROCEEDS OF THE CONCERT FOR A CAUSE DUBBED "DARE TO
+DREAM: SONGS OF HOPE AND SOLIDARIry FOR THE CHILDREN" ON SEPTEMBER
+L6, 2OI7 AT THE FAITH INTERNATIONAL ACADEMY, MARFORI HEIGHTS, THIS
+CITY", for your information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+INGO
+Assistant City Administrator
+(Administration)
+EMO. CRD
+RELEASEffi
+',0n hn/An
+Ltf,ffu-zu'
+AdminATDD/,teph
+LIFE
+IS HERE
+'t- q
+Second Floor, City Hal! Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+prw'@
+I
+q
+
+\
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. ZZ7-5793 * 225-0183 ,lI0.ct
+Trunk Line No. 241-1000 Lcr.267
+o0o
+LEGAL OPINION NO. O/ ,
+SERIES OF 2OT7
+RE: ORDINANCE NO. 4248-17, SERIES of 20L7 entitled *AN
+ORDINANCE GRANTING THE REQUEST OF MARICRIS BRAGANZA,
+OWNER OF BRAGANZA EVENT MANAGEMENT AND MANPOWER
+SERVICES, FOR EXEMPTION FROM THE PAYMENT OF AMUSEMENT
+TAX ON THE PROCEEDS OF THE CONCERT FOR A CAUSE DUBBED
+*DARE TO DREAM: SONGS OF HOPE AND SOUDARITY FOR THE
+CHILDREN" ON SEPTEMBER L6, 24L7, AT THE FAITH
+INTERNATIONAL ACADEMY, MARFORI HEIGHTS, THIS CITY"
+1ST INDORSEMENT
+September 20,20L7
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption (amusement fee) is well within the powers of the SANGGUNIANG
+Panlungsod. Hence, it is recommended that the subject ordinance be approved.
+ArrY. MARLT$IAhALLo, Rsw
+Attorney 1V
+Officer In-Charge
+Date approved: September 26,2017
+oFFlcE Or
+RECETVED
+DATE:
+tlMEl
+;T
+'Jt
+tt
+/3y- a+4 - T>
+Ref. No. Lt3L-t7v
+Ll r)
+ffiffic
+
+City of Davao q2o.ql
+September t3,2017
+SARA Z. DUTERTE
+City Mayor
+Madam:
+cns/nta
+. 0/rwa \. l"'{
+CHARTTO N. SANTOS
+Secretary to the SANGGUNIANG panlungsod
+(City Government Depaftment Head II)
+o
+m
+O
+*
+i'
+Ftrl)-o t+t /. bs
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, TiUe Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenruise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 01091-17 and Ordinance No. 0248-17, both SERIES of Z0l7 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+RECE.},V-f;D
+gMCI " cflB
+q'.0Q
+A
+q/r)-vb -
+I
++
+
+Republic of the Philip6rines
+Gty of Dayao
+(rffi@ of the SANGGUNIANG Panlungsod
+l8th City Council
+30th Regutar Session
+SERIES of 2077
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Edgar P. Ibuyan Jr.
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+l. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+- Temporary Presiding Officer
+- On Vacation Leave
+- On Domestic Emergency Leave
+- On Sick Leave
+- On Vacation Leave
+- On Domestic Emergency Leave
+- On Domestic Emergency Leave
+- On Sick Leave
+Vice Mayor Paolo Z. Dutefte
+Councilor Nilo M. Abellera lr.
+Councilor Joanne M. Bonguyan-Quilos
+Councilor Jimmy G. Dureza
+Councilor January N. Dutefte
+Councilor Leah A. Librado-Yap
+Councilor Antoinette G. Principe-Castrodes
+ORDINANCE NO. O248.I7
+SERIES oJ 2OL7
+AN ORDINANCE GRANTING THE REQUEST OF MARICRIS
+BRAGANZ& OWNER OF BRAGANZA EVENT MANAGEMENT
+AND MANPOWER SERVTCES, FOR EXEMPTION FROM THE
+PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE
+CONCERT FOR A CAUSE DUBBED *DARE TO DREAM: SONGS
+OF HOPE AND SOLIDARITY FOR THE CHILDREN" ON
+SEPTEMBER L6, 2OI7, AT THE FAITH INTERNATIONAL
+ACADEMY, MARFORI HEIGHTS, THIS CITY
+
+Ord. No. 0248-17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTTNG THE REQUEST OF MARICRIS BRAGANZA, OWNER OF BRAGANZA
+EVENT MANAGEMENT AND MANPOWER SERVICES, FOR EXEMPTION FROM
+THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE CONCERT FOR
+A CAUSE DUBBED *DARE TO DREAM: SONGS OF HOPE AND SOLIDARITY FOR
+THE CHILDREN' ON SEPTEMBER 16, 2OL7, AT THE FAITH INTERNATIONAL
+ACADEMY, MARFORI HEIGHTS, THIS CITY";
+SECTION 2. DECLARATION OF POLICY - SECTION 3 (1) of Republic Act No.
+7160, otherwise known as the Local Government Code of 1991, provides that
+"The participation of the private sector in local governance, particularly in the delivery of
+basic services, shall be encouraged to ensure the viability of local autonomy as an
+alternative strategy for sustainable development";
+SECTION 3. EXEMPTION- SECTION 59 of the 2005 Revenue Code of Davao City
+on Exemptions states that the tax herein imposed does not apply in the following cases,
+provided, that exemption should first be obtained for this purpose from the SANGGUNIANG
+Panlungsod:
+a.
+Where the admission fees are collected for and
+in behalf of the charltable educational or religious institutions
+or associations who are declared by law or presidential
+proclamation as exempted from the payment of amusement
+tax on paid admission; provided, further, that such exhibition,
+show, performance, and the like, shall be limited to only three
+(3) days in a calendar year;
+b.
+Where the admission fees are collected in
+connection with the holding of operas, concefts, dramas,
+recitals, paintings and art exhibitions, flower shows, musical
+programs, literary and oratorical presentations except pop
+rock, or similar concerts not intended primarily for profit and
+furthermore, not including film exhibition";
+SECTION 4. SEPARABILITY CLAUSE- lf , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect;
+CERTIFIED CORRECT:
+n drlnn,n l. 'l*
+CI,jIARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head lI),
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on the Bth day of August, 20L7, by a unanimous vote of all the
+Members of the Sanggunian present, there being a quorum.
+
+'t
+ATTESTED:
+ATTESTED:
+RNARD E.
+Acting Vice Mayor
+Presiding Officer
+cns/kjtq
+APPROVED
+sEP 2 2 A\ll
+Ord. No. 0248-t7
+20L7
+n city Mayor tr
+ATTY.
+City Admin

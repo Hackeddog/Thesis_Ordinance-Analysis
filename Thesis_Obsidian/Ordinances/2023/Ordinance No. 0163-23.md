@@ -1,0 +1,204 @@
+---
+ordinance_number: "0163-23"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AilD IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF T}AVAO AND THE DEPARTMENT OF HEATTH RETATIVE TO THE SUB-ALLOTMENT OF FrvE MrLtroN PESOS (P5,000,0O0.00) TNTENDED FOR THE PR(TUREMEI{T OF SUPPLTES AND EQUIPMENT FOR T}rE LOS AMIGOS DAVAO TABORATORY Iil DAVAO C"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0163-23 -MOA, DOH 5M Sub-Allotment (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/sign, topic/aild]
+---
+
+# Ordinance No. 0163-23
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AilD IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF T}AVAO AND THE DEPARTMENT OF HEATTH RETATIVE TO THE SUB-ALLOTMENT OF FrvE MrLtroN PESOS (P5,000,0O0.00) TNTENDED FOR THE PR(TUREMEI{T OF SUPPLTES AND EQUIPMENT FOR T}rE LOS AMIGOS DAVAO TABORATORY Iil DAVAO C
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Office of the Sanggunian$ Panlungsod
+20u' City Council
+6s Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C,ouncilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding fficer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfu M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Wilberto E. Al-ag
+Richlyn N. Justol-Baguilod
+- On Vacation Leave
+- On Sick Leave
+ORDINANCE NO. 0163.23
+SERIES of 2023
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE
+CITY MAYOR TO SIGN, FOR AilD IN BEHALF OF THE CITY OF
+DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE
+ENTERED INTO BY AND BETWEEN THE CITY OF T}AVAO AND THE
+DEPARTMENT OF HEATTH RETATIVE TO THE SUB-ALLOTMENT OF
+FrvE MrLtroN PESOS (P5,000,0O0.00) TNTENDED FOR THE
+PR(TUREMEI{T OF SUPPLTES AND EQUIPMENT FOR T}rE LOS
+AMIGOS DAVAO TABORATORY Iil DAVAO CITY
+
+Page 2of3 '
+Ord. No. 0163-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. IIIIE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGIS1ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CrTY OF DAVAO, frE MEMORANDUM OF AGREEMENT (MOA)
+TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE
+DEPARTPIENT OF HEALTH REI.ATIVE TO THE SUB.ALLOTMENT OF FIVE MILLION
+PESOS (P5,000,000.00) INTENDED FOR THE PROCUREMENT OF SUPPLTES AND
+EQUIPMENT FOR THE LOS AMIGOS DAVAO LABORATORY IN DAVAO ClTy".
+SECTION 2. DECLARATIOil OF POLICY -
+*(1) Sectjon 455 (b) (1) (vi) of Republic Act No. 7160 or the Local
+Government Code of 1991 states that:
+'SECTION 455. Chief Executive; Powerc, Duties and Compensation-
+(b) For efficient, effective and economical governance the puryox of
+which is the general welfare of the city and iE inhabitants purcuant to
+SECTION 16 of this Code the Cfi Mayor shall:
+(1) Exercise general superuision and ontrol over all programs, prolecB,
+seruices, and activities of the City Government and in this connection,
+shall:
+(vi) RepreenB the city in all iB business tansactions and sign in iB
+behalf all bonds, contracB, and obligation, and such other documenB
+upon authority of the SANGGUNIANG Panlungsod or purcuant to law or
+ordinance.
+(2) SECTION 34 of RA I{o. TLGI otherwise known as the Local
+Government Code recognizes the non-government organizations as
+partners in the pursuit of local autonomy; and
+(3) SECTION 35 of RA No. 7160 authorizes the local government units
+to enter into joint ventures and such other cooperative arrangement with
+people and nonaovernment organizations to engage in the delivery of
+ceftain basic seMces, capacity building and livelihood projects, and to
+develop local enterprises designed to improve productivity and income,
+diversifo agriculture, spur rural industrialization, promote ecological
+balance and enhance the economic and social well-being of the people.
+SECTIOil 3. f,!|lflW - The City Mayor is hereby granted legislative
+authority to sign, for and in behalf of the City of Davao, the Memorandum of
+Agreement (MOA) to be entered into by and between the City of Davao and the
+Deparlrnent of Health relative to the sub-allotment of Five Million Pesos
+(P5,000,000.00) intended for the procurement of supplies and equipment for the
+Los Amigos Davao Laboratory in Davao City.
+SECTION 4. rc
+- If, for any reason, any SECTION
+or provision of this Ordinance is declared unconstitutional or invalid, other sections
+or provisions thereof not affected by such declaration shall continue to be in full
+force and effect.
+
+j
+Ord. No. 0153-23
+SECTION 5. EFFECTfVTIY-This Ordinance shalltake effect immediately
+upon approval.
+EIIACTED, on the 14th day of February 2023, by a unanimous vote of all
+the Members of Ute Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ \l,old,^;r\ k
+CIIARITO N. SANTOS
+Secretary to the Sangguhiang Panlungsod
+ATTESTED:
+J.M
+(City Gorernment Department Head ID
+luatz..H q
+/
+ELCH/R B. QUTTAIN JR"
+/vice Mayor
+Presiding Officer
+cns/mark
+APPROVED:
+lulAR092023. 2023
+City
+ATTESTED:
+ATTY. FRAN
+H. LAYOG
+Acting
+AN ORDINANCE GRAI,ITING LEGISLATIVE AUTHORITYTOTHE CITY MAYORTO SIGN, FORAND IN BEHALF
+oF THE CITY OF DAVAO, Tl{E MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND Tr-tE
+BETWEEN THE CITY OF DAVAO AND THE DEPARTMENT OF HEALTH REI.ATIVE TO THE SUB-ALLOTMENT
+oF FIVE MTLUON PESOS (P5,000,000.00) INTENDED FOR THE PROCUREMENT OF SUPPUES AND
+EQUIPMENT FOR THE LOS AMIGOS DAVAO LABORATORY IN DAVAO CITY'

@@ -1,0 +1,327 @@
+---
+ordinance_number: "0629-18"
+title: "AN ORDINANCE REQUIRIilG AtL PRIMARY AND SECONDARY SCHOOTS IN DAVAO CITY TO INCLUDE TRAFFIC REGULATIO]IS AND PUBLIC SAFETY IN THEIR CURRICUTUM"
+date_enacted: "2018-12-12"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0629-18.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.85
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/requiriilg, topic/primary, topic/secondary, topic/schoots, topic/include, topic/traffic]
+---
+
+# Ordinance No. 0629-18
+
+> AN ORDINANCE REQUIRIilG AtL PRIMARY AND SECONDARY SCHOOTS IN DAVAO CITY TO INCLUDE TRAFFIC REGULATIO]IS AND PUBLIC SAFETY IN THEIR CURRICUTUM
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2019 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+;.'ft"
+i€,q9.q
+RepubliCof the Philippines
+OFFICE OF THE CITY IVIAYOR
+a
+,l
+Ref. No. CAdG2019-008906
+2nd Indorcement
+April 5, 2019
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlugsod, this City, the attached duly signed and approved Ordinance No. 0629-18,
+SERIES of 2018 entitled "TRAFFIC REGUI-ATIONS AND PUBLIC SAFETY MODULE
+ORDINANCE OF DAVAO CITY", for your information and appropriate action.
+For the City Mayor:
+DOMINGO
+{
+ATTY.
+Assistant
+(Ad
+)
+C:lrY MAYON's OfFICE
+CORRESPC'NDENCE AND RECOROS DIV
+RELEASEtr
+APR 0 u 20i9
+.o,rrfrGAuo
+ADMlNrsrRATrvE AIDE w 4:n
+LIFE IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+),/$ r-/7
+BAW-',,@
+I
+
+For C].1 ls Approva l/Sig natu re
+FqnTPD's Initia'
+L
+s-i_-J
+s
+I lE>tAttr"ilr
+T
+
+L2
+Repuflic of the Pttlippinds
+OFFICE OF THE CITY TEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc267/2251230
+I,lARY
+Ref. No. CLO-2019-000414
+Legal O
+SERIES of 2019
+ORDINANCE NO. 0629-18, SERIES OF 2018 CNtitICd ,TRAFFIC
+REGUI.ATIONS AND PUBLIC SAFETY MODULE ORDINANCE OF DAVAO
+crrY."
+l't INDoRSEMENT
+March 4,2019
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+Administrator, this City, the herein Ordinance No. 0629-18, SERIES of 2018, informing
+your end that the passage of the subject ordinance is in accord with its sworn obligation
+to enact measures that will enhance the public safety and convenience, maintain peace
+and order, and preserve/promote the comfoft and convenience of
+its constituents as stated under SECTION 16 of RA 7160 known as the Local Government
+Code of 1991.
+Viewed therefrom, this office recommends the approval of the ordinance.
+R
+Arry. unnr$kcALlo, Rsw
+Acting Asst. City Legal Officer
+Approved by:
+ATTY. OSMUN
+P. VILIANUEVA, JR.
+OIC-Acting City Legal Officer
+Date Approved: March 6,20t9
+od0629- 1 8_tn1:fic-nof,ute_2 0 1 9-0t)M l 4 -34
+- 1 9
+@tze
+s
+a
+OfFl0E S-l)ir,l
+MUAO
+iEsErEo gt
+ilfffi l,lAR 07
+Wq - qyloo
+PANO
+,- hliiL
+tlcI
+U
+q'06
+sD-tt-1,
+t{l
+tt:
+MAR
+DATE:
+TIME:
+
+Y'
+i6ib
+v.{
+,
+CITY OF'DAVAO
+Februry ?7,2019
+b}
+STRA T. DUIERTE
+City Mayor
+City of Daum
+{
+*
+Mdan:
+w-lo'n-0to414 P.8t,
+Rfisuilt to $ub+ection 3, kragraph c, SECTION r+69, Artide one, Tifle Fiue,
+Chapter e Emk Itr ard Sstion 54 of Book I ReHhlic Act No. 7160, o$rerwise knurn
+x ttp Lmal fbvemmsrt code of 1gg1, r^'e ;re furnishing lau a copy of Resdution No.
+0206{t-18. and ordinance rh. ffi2!}18. ssis of 20tB of the SANGGUNIANG
+Panlungd, this fi$, for your informatiofi, guid4ce and 4propria@ action'
+Yery huh Yours,
+A
+G
+o
+A
+O
+\
+^\tr'^x ), k --
+cHtxrTo 11. $illilIs
+Secr&rT to *re SmgguniarU PanlurUsod
+(City tuvsnnent EPa'tnent Head tr)
+CORRESPONDENCE &
+RECE
+MARY A
+q'.nl
+D
+0.
+FEts 28 20lg
+IV
+
+sacisrc.
+N
+18tr City Council
+47ffi Regular Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+CiU of Davao
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Aposto! Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera
+Pilar C. Braga
+Danilo C. Dayanghirang
+Presiding Officer
+On Official Business
+On Domestic Emergency Leave
+On Official Business
+oRDrl{AI{CE NO. 0629-18
+SERIES of 2018
+AN ORDINANCE REQUIRIilG AtL PRIMARY AND
+SECONDARY SCHOOTS IN DAVAO CITY TO INCLUDE
+TRAFFIC REGULATIO]IS AND PUBLIC SAFETY IN THEIR
+CURRICUTUM
+
+Ord. No. 0629-18
+SECTION 1. SHORT TITLE. This Ordinance shall be known as the "Traffic
+Regulations and Public Safeff Module Ordinance of Davao City".
+SECTION 2. DECTARATION OF POLICY. The City Government of Davao
+conforms with SECTION 16, Chapter 2, litle One, Book I of the Local Government Code or
+the General Welfare Clause which states that "Every local government unit shall exercise
+the powers expressty granted, those necessarily implied therefrom, as well as powers
+necessary, appropriate, or incidental for its efficient and effective governance, and those
+which are essential to the promotion of the general welfare. Within their respective
+territorial jurisdictions, local government units shall ensure and support, among other
+things, the preseruation and enrichment of culture, promote health and safety, enhance
+the right of the people to a balanced ecology, encourage and support the development
+of appropriate and self-reliant scientific and technological capabilities, improve public
+morals, enhance economic prosperity and social justice, promote ful! employment
+among their residents, maintain peace and order, and preserve the comfort and
+convenience of their inhabitants".
+SECTION 3. PURFOSE. The Ordinance seels to educate the students in all
+primary and secondary schools in Davao City on trafiftc regulations and public safety,
+primarily for the following reasons:
+a. To reach all levels of learners in the K to 12 Basic Education Program in
+underutanding Trafftc Regulations and Publlc Saftty while addressing
+the K to 12 learning competencies;
+b. To cater to the learneds multiple intelligence and learning styles
+accordingly; and
+c. To strengthen and raise the awareness of students regarding traffic
+regulations and public safety measures which wlll serue as their
+foundation in dealing with future circumstances.
+SECTION 4. SC!9,P,E" This Ordinance shall cover all Public and Private Primary
+and Secondary Schools within the territorialjurisdiction of Davao City.
+SECTION 5. IUPLEMENTATIOII. The crcation of the modules shall be
+spearheaded by the Department of Education-Davao City Division, in coordination with
+the City Government of Davao, the Land Transpoftation Office, the Davao City Police
+Office, Public Safety and Security Command Center, Disaster Risk Reduction and
+Management Council, Central 911, and the Bureau of Fire Protection.
+The Schools shall be guided according to the modules made by the Depaflrnent
+of Education-Davao City Division, without prejudice to any supplemental modules
+thereafter.
+SECTION 6. REPEALIilG CIAUSE. Any Ordinance, local issuances or rules
+inconsistent with the prcvisions of this Ordinance are hereby repealed or modified
+accordingly.
+SECTION 7. SEPARABILIW CLAUSE. If, for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+which are not affected thereby, shall confinue to be in full furce and effect.
+SECTION 8. EFFECTMTY CLAUSE. This Ordinance shall take effect
+immediately upon approval.
+
+Ord. No.0629-18
+ENACTED, on the 12th day of December, 2018, by a unanimous vote of all the
+Memberc of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ lrhrrns -h.'lr,td
+C]IARITO il. SANTOS
+Secretary to the Sanggur{iang Panlungsod
+(City Government Department Head II)
+ATTESTED:
+ATTESTED:
+E. AL-AG
+Vice Mayor
+Presiding Officer
+cns/ror
+-l
+APPROVED
+0I lufl 2019
+2019
+z.
+- City *urfl
+ATTY.
+T.
+City Administrator'
+:yz

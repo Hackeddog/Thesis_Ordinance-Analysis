@@ -1,0 +1,406 @@
+---
+ordinance_number: "0206-20"
+title: "An ordinance authorizing the City Mayor to accept and sign, for and in behalf of the City Government of Davao, the terms and conditions of the waze- connected citizen's ro ram data u d tool An ordinance granting tax amnesty or relief from delin uent real e tax 0t27-79 0420-19 An ordinance granting the application of Huawei Technologies Inc,, for additional allowable use for the installation of a 3"
+date_enacted: "2020-02-04"
+approval_date: "2020-03-17"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0206-20.pdf"
+section_count: 9
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: null
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/authorizing, topic/mayor, topic/accept, topic/sign, topic/behalf, topic/government]
+---
+
+# Ordinance No. 0206-20
+
+> An ordinance authorizing the City Mayor to accept and sign, for and in behalf of the City Government of Davao, the terms and conditions of the waze- connected citizen's ro ram data u d tool An ordinance granting tax amnesty or relief from delin uent real e tax 0t27-79 0420-19 An ordinance granting the application of Huawei Technologies Inc,, for additional allowable use for the installation of a 3
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | - |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,213 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2020\Ordinance No. 0206-20.txt`*
+
+REPUBLFC i," --; =;-r'" i!#Qffi
+OFFICE OF 1i:E Cr, , 'i&AYOR
+DAV'AP QITY
+"q$$-
+r\iF
+CORRESPONDENCEANDRECORDSDIVISION 1:;ii1''-,...*
+2nd Indorsement
+April22,2020
+Respectfully forwarded to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, Office of the SANGGUNIANG Panlungsod, this city, the herein
+duly signed ordinances for appropriate action, to wit:
+o I e?-t
+al2a2
+o/?t3
+- Dle-x(a
+t r-il 0q 17
+o1t)l
+MARIM#,,
+Officer-In-ChYrge
+NG
+RES. NO.
+TITLE
+02t4-20
+0984-20
+An ordinance approving the application of
+Malagamot Compound Corp. for the reclassification
+of 85,962 square meters, more or less, parcel of
+land from high density residential sub-zone (R-3)
+and water resource zone (WRZ) to major
+commercial sub-zone (C-2) and water resource zone
+(WRZ) located in Brgy . Indangan, Buhangin District
+0206-20
+0963-20
+An ordinance authorizing the abolition of Tibungco
+Public Market Office, Bunawan Public Market Office
+and Lasang Public Market Office of the City
+Administrator's Office - City Economic Enterprise
+and to reorganize other affected public market
+offices.
+0t77-20
+0939-20
+0218-20
+01005-20
+An ordinance authorizing the City Mayor to accept
+and sign, for and in behalf of the City Government
+of Davao, the terms and conditions of the wazeconnected citizen's
+ro ram data u
+d tool
+An ordinance granting tax amnesty or relief from
+delin uent real
+e
+tax
+0t27-79
+0420-19
+An ordinance granting the application of Huawei
+Technologies Inc,, for additional allowable use for
+the installation of a 3-legged self-suppott tower at
+Dona Asuncion, Brgy. Pampanga, Buhangin Dist.,
+this ci
+0160-19
+0556-19
+An ordinance authorizing the transfer of the Internal
+Control Division from the City Administrator's Office
+to the City Mayor's Office and reorganizing the same
+as Internal Audit Service Division
+civlo-; RD
+REI-HASED
+? 2 APR 20ilr J; r/O .A,r
+I
+tL22-4
+ORD. NO.
+
+4GIS;q
+t>
+1{
++i
+Republic of the Fhilippines
+OFFICE OF THE CITY LE/
+Tel. No.298-6970 / &o
+q-'
+8)
+Trunk Line No. 241-1000 Lx 26> 25lBA
+E SF -!:q nl'
+Ref. No. CLO-2020-0012,0G
+L egal Opinion No. eblt,
+of 2020
+,.,",-"- |ff"" p'lt
+U2A -elq72
+l) BY: ' __
+r'a!{yrf
+n
+,:,,.1*-
+RE: ORDINANCE NO. 0206-20, SERIES OF 2O2O entitled "AN ORDINANCE
+AUTHORIZING THE ABOLITION OF TIBUNGCO PUBLIC MARKET OFFICE,
+BUNAWAN PUBLIC MARKET OFFICE AND LASANG PUBLIC MARKET
+OFFICE OF THE CITY ADMINISTRATOR'S OFFICE-CITY ECONOMIC
+ENTERPRISE AND TO REORGANIZE OTHER AFFECTED PUBLIC MARKET
+OFFICES".
+1't INDoRSEMENT
+March L6,2020
+Respectfully forwarded to the Office of the City Mayor, through the Offlce
+of the City Administrator, both this City, the subject Ordinance No. 0206-20
+SERIES of 2020, witn the information that this office finds no legal infirmity in the
+passage of the subject ordinance, it app.earing that the abolition and/or
+reorganization of the affected market office shall comply with the Civil Service
+Commission 2017 Omnibus Rules on Appointment and Other lJuman Resources
+Actions.
+In view thereof, this office recommends the approval of the subject
+ordinance.
+e
+ATI'Y. M
+Acting
+flh,/tt:"
+n{\sn A. GALLo, Rsw
+nlSf. City Legal Officer
+Approved by
+ATTY. OSMU
+DO P. VILLANUEVA, JR.
+OIC- Asst. City Legal Officer
+Date approred: March 17, 2020
+.,7 /rr-'rtrr--)t) ,r{itrftttr, rnrljlt ,!Jt,t .'r)-'r) t)r,/-)i,r, i ,'- 'ir
+"r', /,',
+c0Rf€sPoNDiNct &
+0rvtsr0N
+,ffi
+D.
+MARY
+RE
+AL C
+$
+l
+(J
+I
++lo'
+
+SARA Z. DUTERTE
+City Mayor
+Madam:
+March 4,2020
+2nfiYl.4 - ba
+CORRESPONOENCE & RECOiDS DIVISIOiI
+RECEIVED
+MAR 05 2020
+MARY ANN
+J'.t11
+trot tv
+l: 2al.letll uX09e55Zrero2
+uh-Me.o6 ?.tsD
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Afticle One, Title Five,
+chapter 3, Book III and SECTION 54, Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution
+No. 0963-20 and Ordinance No. 0206-20, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action'
+Very truly yours,
+For and in the absence of the Secretary:
+F
+*
+t
+MARIA THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Local Legislative Staff Officer IV)
+t
+\\(' r't
+,.to
+
+,
+19th City Council
+5th Regular Session
+SERIES of 2020
+PRESENT:
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. AI-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+AIbefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Vice Mayor Sebastian Z. Duterte
+- On Special Privilege Leave
+ORDINANCE NO. 0206-20
+SERIES of 2020
+AN ORDINANCE AUTHORIZING THE ABOLITION OF
+TIBUNGCO PUBLIC MARKET OFFICE, BUNAWAN PUBLIC
+MARKET OFFICE AND LASANG PUBLIC MARKET OFFICE OF
+THE CITY ADMINISTRATOR'S OFFICE- CITY ECONOMIC
+ENTERPRISE AilD TO REORGANIZE OTHER AFFECTED
+PUBI.IC MARKET OFFICES
+v.
+ABSENT:
+l1
+
+I
+Ord. No. 0206-20
+that:
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. TITLE - This Ordihance shall be known as "AN ORDINANCE
+AUTHORIZING THE ABOLITION OF TIBUNGCO PUBLIC MARKET OFFTCE,
+BUNAWAN PUBTIC MARKET OFFICE AND IASANG PUBLIC MARKET OFFICE OF
+THE CITY ADMINISTRATOR'S OFFICE-CITY ECONOMIC ENTERPRISE AND TO
+REORGANIZE OTHER AFFECTED PUBLIC MARKET OFFICES",
+SECTION 2. DECLARATION OF PRINCIPLES AND POLICIES. - Pursuant to
+Sections 16 and 76of RepublicAct No. 7t60, Sections 11 and t2of the 2017 Omnibus
+Rules on Appointment and Other Human Resource Actions, Revised Juty 2018 and Audit
+Obseruation Memorandum (AOM) 2019-16 of the Commission on Audit dated February
+18, 2019 $tate, viz.:
+1. SECTION 15 of Republic Act 7150 provides that "every local government
+unit shall exercise the powers expressly granted, those necessarily
+implied therefrom, as well as powers necessary, appropriate, or
+incidental for its efficient and effective governance, and those which are
+essentialto the promotion of the general welfare. Within their respective
+territorialjurisdictions, local government units shall ensure and suppoft,
+among other things, the preseruation and enrichment of culture,
+promote health and safety, enhance the right of the people to a
+balanced ecology, encourage and support the development of
+appropriate and self-reliant scientific and technological capabilities,
+improve public morals, enhance economic prosperity and socialjustice,
+promote full employment among their residenE, maintain peace and
+order, and preserue the comfoft and convenience of their inhabitants";
+2. SECTION 76 of Republic Act 7160 empowers Iocal government units to
+design and implement its organizational structure and staffing pattern
+taking into consideration its seruice requirements and financial
+capability, subject to the minimum standards and guidelines prescribed
+by the Civil Seruice Commission (CSC);
+3. Rule II, SECTION 11 of the 2017 Omnibus Rules on Appointments and
+Other Human Resource Actions, Revised July 2018, provides the Nature
+of Appointment of different posiUons;
+4. Rule II, SECTION L2 of the 2017 Omnibus Rules on Appointments and
+other Human Resource Actions, Revised July 2018, states "Adjustments
+or movements of human resource without need of issuance of an
+appointment. Adjustments or movements of human resource which do
+not involve changes in position title, rank or status shall not require the
+issuance of an appointment. A notice of such change or movement shall
+be issued to the employee. A copy thereof shall be kept in the
+employee's 201 File and another copy shall be submitted to the CSC
+FO concerned for record purposes";
+5. Commission on Audit AOM (Audit Obseruation Memorandum) 2019-16
+dated February 18, 2019 states "SECTION 6.6.3 of the Manual on the
+Conduct of Semi-Annual Financial Self-Sufficiency Review (SAFSSR) of
+each LEE (Local Economic Enterprise) and preparation of SAFSSR
+Repoft fufther presented that:
+
+Ord. No.0206-20
+The SAFSSR is in compliance with SECTION 316(h) of the LGC which
+requires LFC to conduct semi-annual review and general examination
+of cost and accomplishments against peformance standards.
+For existing/old LEE's, the first SAFSSR shall be conducted six months
+after instituting necessary changes to comply with legal provisions and
+other requirements as discussed in SECTION 5.1.
+In the case of a newly created LEE, the Rrst SAFSSR shall be conducted
+six months after the staft of its operation.
+The objective of the SAFSSR is to determine whether the LEE is
+proceeding towards financial self-sufficiency (or 100o/o cost recovery)
+and according to the BP. The operations of a financially self-sufficient
+LEE shall be funded out of its sources rather than from the GF.
+An LEE is considered self-sufficient if all the cost of operating the LEE
+are recovered 100o/o. The costs of operating the LEE include
+personnel seruices (PS), MOOE, and finance charges (interest
+expense)".
+SECTION 3. DEFINITION OF TERMS..
+Abolition
+- The complete ending of an activity or custom by law or
+official action (Cambridge English Dictionary);
+Transfer
+- The movement of employee from one position to
+another which is of equivalent rank, level or salary
+without gap in the seruice involving the issuance of an
+appointment. (Civil Seruice Commission 20L7 Omnibus
+Rules on Appointments and Other Human Resource
+Action Revised 2018);
+Reorganization - A way in which offices, divisions or sections are
+organized in order to improve, including transfers,
+restructuring, renaming, reducing or expanding the
+workforce. (Civil Seruice Commission 2017 Omnibus
+Rules on Appointments and Other Human Resource
+Action Revised 2018);
+SECTION 4.
+OFFICE. LASANG PUBLIC MARKET OFFICE AilD TIBUI{GCO PUBLIC
+MARKET OFFICE - Legislative authority is hereby granted to the City Mayor of
+Davao City to abolish Bunawan Public Market Office, Lasang Public Market Office
+and Tibungco Public Market Office and to transfer affected employees to other
+existing public market offtces.
+SECTION 5. AUTHORIW TO REORGANIZE OTHER PUBLIC MARKET
+OFFICES - The City Mayor is hereby granted legislative authority to reorganize
+Agdao Public Market Office, Bankerohan Public Market Office and Toril Public Market
+Office for the purpose of the transfer of affected positions and respective personnel
+from the abolished public market offices. Transfer of personnel shall follow the rules
+set by the Civil Seruice Commission20LT Omnibus Rules on Appointments and Other
+Human Resource Actions (Revised 2018).
+,
+
+Page 4 of 4'
+Ord. No. 0206-20
+SECTION 6. MANAGEMENT OF BUNAWAN PUBLIC MARKET, IASANG
+PUBLIC MARKET AND TIBUilGCO PUBLIC MARKET - Agdao Public Market shall
+manage Bunawan Public Market, Lasang Public Market and Trbungco Public Market.
+SECTION 7. REPEALING CLAUSE - All Ordinances, resolutions, executive
+orders, memoranda and other issuances in conflict with the provisions of this Ordinance
+are hereby repealed or modified accordingly.
+SECTION 8. SEPARABILITY CLAUSE - Any provision of this Ordinance nullified
+by any court of law shall not affect the validity of the remaining provisions hereof not
+affected by the said judicia! declaration.
+SECTION 9. EFFECTMTY - This Ordinance shall take effect after the
+SANGGUNIANG Panlungsod approves the pertinent resolution and ordinance and the City
+Mayor signs for final approval.
+ENACTED, February 4, 2020, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERNFIED CORRECT:
+For and in the absence of the Sec

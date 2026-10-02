@@ -1,0 +1,320 @@
+---
+ordinance_number: "0625-18"
+title: "AN ORDINANCE GRANTING THE REQUEST OF ROSALIE G. BELEN, PRESIDENT, GRADE 10 ATENEO DE DAVAO PARENTS-TEACHERS CoMMUNITY, INC. (ADPTCI), REQUESTING FOR TAX EXEMPTION ON THEIR NON- STOCK, NON-PROFTT FUND RAAISING CAMPAIGN WITH THE INTENTION TO CONDUCT A MOVIE BLOCK SCREENING OF \"AQUAMAN' ON DECEMBER 15, 2018, SATURDAY, AT 3:00 P.M AT sM ECO|-AND CINEMA 4, To SUPPORT AN OUTREACH PROGRAM FOR PADRE PIO'S"
+date_enacted: null
+approval_date: "2018-12-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0625-18.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/request, topic/rosalie, topic/belen, topic/president, topic/grade]
+---
+
+# Ordinance No. 0625-18
+
+> AN ORDINANCE GRANTING THE REQUEST OF ROSALIE G. BELEN, PRESIDENT, GRADE 10 ATENEO DE DAVAO PARENTS-TEACHERS CoMMUNITY, INC. (ADPTCI), REQUESTING FOR TAX EXEMPTION ON THEIR NON- STOCK, NON-PROFTT FUND RAAISING CAMPAIGN WITH THE INTENTION TO CONDUCT A MOVIE BLOCK SCREENING OF "AQUAMAN' ON DECEMBER 15, 2018, SATURDAY, AT 3:00 P.M AT sM ECO|-AND CINEMA 4, To SUPPORT AN OUTREACH PROGRAM FOR PADRE PIO'S
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Cites or amends
+
+- [[Ordinance No. 0625-19]]
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.
+OFFICE OF THE CITY I\{AYOR
+t
+.saEisrto
+Ref. No. CldO-201&00O.4
+2d Indorsement
+January 17,2019
+Respectfully forwarded to Ms. charito N. santos, secretary to the
+SANGGUNIANG Panlungsd, this City, the attached duly signed and approved Ordinance
+No. 0625-18, SERIES of 2018, entiUed "AN ORDINANCE GRANTING THE REQUEST OF
+ROSALIE G. BELEN, PRESIDENT, GRADE 10 ATENEO DE DAVAO PARENTS-TEACHERS
+CoMMUNITY, INC. (ADPTCI), REQUESTING FOR TAX EXEMPTION ON THEIR NONSTOCK, NON-PROFTT FUND RAAISING CAMPAIGN WITH THE INTENTION TO
+CONDUCT A MOVIE BLOCK SCREENING OF "AQUAMAN' ON DECEMBER 15, 2018,
+SATURDAY, AT 3:00 P.M AT sM ECO|-AND CINEMA 4, To SUPPORT AN OUTREACH
+PROGRAM FOR PADRE PIO'S HOME FOR CHILDREN IN TUGBOK DISTRICT, THIS
+CfWn, for you information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant City
+(Administration)
+ilu *0E -lq
+ffiTLEASHM
+CFiiO-;Rl)
+LIFE IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmait.com
+BAW. @
+a
+I
+
+,
+l "'r
+:
+l
+OFFICE OF THE CITY LEGAL
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc
+o0o
+Ref. No. 1131-18-0237
+LEGAL OPINION NO. 7Q. ,
+SERIES OF 2O1B
+RE: ORDINANCE No. 0625-19, SERIES of 201g entitted *AN
+ORDINANCE GRAT{TING THE REQUEST OF ROSALIE G. BELEN,
+PRESIDENT, GRADE 10 ATENEO DE DAVAO PARENTS-TEACHERS
+COMMUNITY, INC. (ADPTCI), REQUESENG FOR TAX EXEMPTION
+ON THEIR NON-STOCK, NON-PROFIT FUNDRAISING CAMPAIGN
+WTrH THE INTENTION TO CONDUCT A MOVIE BLOCK SCREENING
+oF "AQUAMAN', ON DECEMBER 15, 201g, SATURDAY, AT 3:00
+P.M. AT SM ECOLAND CINEMA 4, TO SUPPORT AN OUTREACH
+PROGRAM FOR PADRE PIO'S HOME FOR CHILDREN IN TUGBOK
+DISTRICT, THIS CITY"
+,S INDoRSEMENT
+December L4,20Lg
+Respectfully fonruarded to the Office of the City Mayor, through the Office of the
+City Administrator,. both this City, the subject Ordinance, iniorming- yorr end that the
+passage of the said ordinance is well within the powers of the SANGGUNIANG panlungsod.
+Hence, it is recommended that the ordinance be approved.
+ArrY. MAd(tdd. cArlo, Rsw
+Acting esK. City Legal Officer
+Approved by:
+ATTY. OSMUN
+P, VILLANUEVA, JR
+OIC-Acting City Legal Officer
+OFFICE OF THE CITY ANMI}IIST;RATOR
+CIW HALL OFFICE
+,t/"u
+DATE:
+TIME:
+.-r-tS
+l-to r
+DAVAC OITY
+RECEIVED BY:-
+OFHCE OF
+Grw
+ru&nrED Br
+'IISE
+Date approved: December Ll,201g
+otdUZ S - I A_e4ptpt_aquammt_ 1 8 -OZ S Z_t Z - ll- i t
+@ttz
+J
+
+b. N6
+acist't
+Republic' of the Philippines
+H,
+-.la
+EAET I, DI-IIEB-TE
+CiIf I'-ia:'ry
+City cf L)iava*
+\
+l"iaiigrt
+m
+O
+t
+*
+o
+atK-02)r f.t?)
+Puts,Jant t* 5;-lh*ertiot-i
+P*ta-urcPrh f, 5e.-di+n 46r;, .qrtirh Ot-re, Titb Five'
+cfiepter i, Book III an,l Sertion 54 r,f Book I Repruhlir Act trlo, 7160' 6therrr;is known
+# fie Locd fiovetlment f-ode *f 1-JE1,
+F.e*oluUon Nc, $?S;**-1S an'J Grdinanre N*
+l,,'i,E .:sE fr-rrnishinE TCil a roi-tY ot
+GG?F18, bo*r Ser"rs *t 2018 r-:f Lh=
+SANGGUNIANG PanlungEod, City of fta+:.c, for Yaur infarntation, guidanre and apprapriaf*+
+ar-tii,n
+ltgr} ituly ysurE
+1Wr./ai
+CORRESPONDENCE & RECORDS
+R E C E IV ED
+t)EC 13 2018
+MARY ANN O.
+AIDE IV
+I
+CITY
+4rc {)
+DIVI$ON
+t
+u/
+
+RepuHic of the Philipfirrcs
+Gty of tlavao
+Offie of fte SANGGUNIANG Panlungsod
+tBth City Council
+47th Regutar Session
+SERIES of 2018
+PRESENT:
+ABSENT:
+Councilor
+Councilor
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-euilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera Jr.
+Pilar C. Braga
+Danilo C. Dayanghirang
+Presiding Officer
+- On Official Business
+- On Domestic Emergency Leave
+- On Official Business
+ORDINANCE NO. 0625-18
+SERIES of 2018
+AN ORDINANCE GRANTING THE REQUEST OF ROSALIE G.
+BELEN, PRESIDENT, GRADE 10 areneo DE DAVAO
+PARENTS-TEACHERS coMMUNrw, rNc. (ADprcr),
+REQUESTING FOR TAX EXEMPTION ON THEIR NO]i:
+STOCIT NON.PROFIT FUNDRAISING CAMPAIGN WITH THE
+INTENTION TO CONDUCT A MOVIE BLOCK SCREENING OF
+*AQUAMAN" ON DECEMBER 15, 2019, SATURDAY, AT 3:00
+P'M' AT sM ECOLAND CINEMA 4, To suppoRT AN
+OUTREACH PROGRAM FOR PADRE PIO'S HOME FOR
+CHILDREN IN TUGBOK DISTRICT, THIS CITY
+
+Ord. No. 0625-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST OF ROSALIE G. BELEN, PRESIDENT, GRADE 10 ATENEO
+DE DAVAO PARENTS-TEACHERS COMMUNITY, INC. (ADpTCr), REQUESTING FOR
+TA)( EXEMPTION ON THEIR NON-STOCI(, NON-PROrir rUUOirArSInC CAMpATcN
+WITH THE INTENTION TO CONDUCT A MOVIE BLOCK SCREENING OF
+*AQUAMAN'oN DECEMBER 15, 2018, SATURDAY, AT 3:00 p.M. AT sM ECoLAND
+CINEMA 4, TO SUPPORT AN OUTREACH PROGRAM FOR PADRE PIO'S HOME FOR
+CHITDREN IN TUGBOK DTSTRICT, THrS CrW'.
+SECTION 2. DECLARATION OF POUCY - SECTION 3 (l) of Republic Act No. 7t60,
+othenruise known as the Local Government Code of tggt, provides that
+"the pafticipation of the private sector in local governance, particularly in ihe delivery of
+basic seruices, shall be encouraged to ensure the viability of locai autonomy as an
+alternative strategy for sustainable development,,.
+SECTION 3. AUTHORITY- SECTION 66, subparagraphs (a) and (b) of Ordinance No.
+029t-L7 , SERIES of 2017 , or "An Ordinance Amending the 2005 Revenue Code of the City of
+Davao" provides:
+SECTION 66. Exemption-The tax herein imposed does not apply in
+the following cases, provided, that exemption shourd first be
+obtained for this purpose from the SANGGUNIANG panlungsod:
+a) where the admission fees are collected for and in behalf
+of the charitable, educational or religious institutions or
+associations who are declared by law or presidential
+proclamation as exempted from the payment of
+amusement tax on paid admission; provided, fufther, that
+such exhibition, show, performance, and the like, shall be
+limited to only three (3) days in a calendar year;
+b) where the admission fees are collected in connection with
+the holding of operas, concefts, dramas, recitals,
+paintings and art exhibitions, flower shows, musical
+programs, literary and oratorical presentations except pop
+rock, or similar concerts not intended primarily for profit
+and fufthermore, not including film exhibitions,,;
+SECTION 4. SEPARABILITY CLAUSE- lf, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 4. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 12th day of December, 2OlB, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+
+LI
+Ord. No. 0625-18
+CERTIFIED CORRECT:
+^01^,^r,fr
+CHARITO 1
+N.
+Secretary to the
+ng Panlungsod
+(City Government Depaftment neaa tl
+ATTESTED:
+ATTESTED:
+E.
+Vice
+Presiding
+cns/kjtq
+AppRovED I9DEC 20182018
+-City Mayor
+/
+ATTY.
+City
+T

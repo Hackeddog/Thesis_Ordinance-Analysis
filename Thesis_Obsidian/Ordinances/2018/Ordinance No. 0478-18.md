@@ -1,0 +1,292 @@
+---
+ordinance_number: "0478-18"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC THE STREETS IN BETWEEN BOLTON STREET AND C.M. RECTO AVENUE (FRONING THE CATHEDRAL ONLY) ON JUNE 29, 20L8 FROM 4:OO A.M. UP TO 1O:OO P.M. IN CELEBRATION OF THE UPCOMING 17OTH PAROCHIAL FIESTA OF SAN PEDRO CATHEDRAL PARISH| informing your end that the activity had been done, thereby rendering the measure moot. Hence, it is recommended that "
+date_enacted: null
+approval_date: "2018-07-11"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0478-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.4
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/streets, topic/between]
+---
+
+# Ordinance No. 0478-18
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC THE STREETS IN BETWEEN BOLTON STREET AND C.M. RECTO AVENUE (FRONING THE CATHEDRAL ONLY) ON JUNE 29, 20L8 FROM 4:OO A.M. UP TO 1O:OO P.M. IN CELEBRATION OF THE UPCOMING 17OTH PAROCHIAL FIESTA OF SAN PEDRO CATHEDRAL PARISH| informing your end that the activity had been done, thereby rendering the measure moot. Hence, it is recommended that 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2019 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+FFTCE OFTHE CTTYMAYOR
+9aCisr'G.
+6i>s
+Ref. No. CAdO 2018{5306
+rwn q
+I
+.J
+u#ff:lrll
+1tillE.
+2d Indorcement
+July 16, 2018
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached ORDINANCE NO. 0478-18, SERIES OF 20f&
+entitled "AN ORDtrNANCE FOR THE TEMPORARY ELOSURE TO VEHICUI.AR TRAFFIE THE
+STREETS IN BETWEEN BOLTON STREET AND C.M. RECTO AVENUE (FRONTING THE
+CATHEDRAL ONLY) ON JUNE 29, 2018 FROM 4:00 A.M. UP TO 10:00 P.M. IN
+CELEBRATION OF THE UPCOMING 170fi PAROCHIAL FIESTA OF SAN PEDRO
+CATHEDRAL PARISH", with the information that no executive action is needed on the
+matter Sihce the activiti is already finished; thereby rendering the ordinance moot, for
+your appropriate action.
+For the City Mayor:
+ATTY.
+DOMINGO
+(Administration)
+: -,i0, * CRD
+${EE.EA5ED
+4rJ
+lfio e- /N
+Second FIoor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 !oc. 265 o davaocitymayor@gmail.com
+pAw @
+o
+LIFE
+IS HERE
+,
+
+lrG
+I f4 GTS
+o
+e
+;f)
+P
+?,lO
+Repub[9 of th_e'Philippines
+OFFICE OF THE CITV LEGAT OFFICE
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26tlZZ5lZ30
+o0o
+Ref. No. 1131-18-0106
+LEGAL OPINION NO. ?fl
+SERIES OF 2018
+lst INDORSEMENT
+July 11, 2018
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0478-18,
+SET|CS of 2018 entitled ,AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC THE STREETS IN BETWEEN BOLTON STREET AND C.M.
+RECTO AVENUE (FRONING THE CATHEDRAL ONLY) ON JUNE 29, 20L8 FROM
+4:OO A.M. UP TO 1O:OO P.M. IN CELEBRATION OF THE UPCOMING 17OTH
+PAROCHIAL FIESTA OF SAN PEDRO CATHEDRAL PARISH| informing your end
+that the activity had been done, thereby rendering the measure moot. Hence, it
+is recommended that no executive action be taken on the measure.
+ATTY. OSMU
+EVA, JR
+OIC-Acting City Legal Officer
+Date approved: July 11, 2018
+ortM 7 8- 1 E _roat-c fo sure_san-p e [ro-fi sta* 1 8-0 1 0 6_7 - 1 1 - I E
+@dee
+. ,:ICE OF THE CITY ADMIITISTRATP
+CiTY u..":tL CFFICT
+IEGlIVED B
+\
+.l
+,A-l-.
+B. REMOLLO
+?'E-t+A-te
+
+oelqed
+epnel
+saulocou
+Lrr.llcelr\
+SARA Z. DUTERTE
+City Mayor
+Madam:
+Pursuant
+Chapter 3, Book
+cns_lnta
+1:-i-rllf.a1-_-,
+-
+sLt
+vt
+t flll,
+*
+Offioe of Hre $anggumiang panlungsod
+June 27,2018
+OU
+o
+m
+*
+ffB- oua qQR
+to Sub-SECTION 3, paragraph C, SECTION 469, Article One, TiUe Five,
+III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1gg1, we are furnishing you a copy of
+Resolution No. 02236-18 and ordinance No. o47g-1g, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, for your information, guidance, and appropriate action.
+For and in the absence of the Secretary:
+Q*4,
+M
+M, CABALI
+Acting Secretary to the SANGGUNIANG panlungs*od Ir
+M
+C
+o
+CR0
+natl
+ffi ffi #\f,
+ffi
+H V
+H
+ol
+W
+
+Republic of Ure Philippines
+Offie of the SANGGUNIANG Panlungsod
+t8th city council
+24th Regular Session
+SERIES of 2018
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Vice Mayor Bernard E. Al-ag
+Councilor Nilo M. Abellera Jr.
+Councilor Al Ryan S. Alejandre
+Councilor Pilar C. Braga
+Councilor January N. Dutefte
+Councilor Marissa P. Salvador-Abella
+Victorio U. Advincula lr.
+Maria Belen S. Acosta
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo l. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Rene Elias C. Lopez
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+Leah A. Librado-Yap
+Diosdado Angelo A, Mahipus Sr.
+Temporary Presiding Officer
+Mass Oath-Taking of Newly
+Elected Punong Barangays and
+Barangay Kagawads
+Sister City Signing Ceremony
+Sister City Signing Ceremony
+Sister City Signing Ceremony
+Mass Oath-Taking of Newly
+Elected Punong Barangays and
+Barangay Kagawads
+Attended the meeting of the
+Department of Agriculture's 4K
+Program
+On Domestic Emergency Leave
+On Vacation Leave
+ABSENT:
+Councilor
+Councilor
+oBoBoBoBoBoBORDINANCE NO. 0478.18
+SERIES of 2018
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFIC THE STREETS IN BETWEEN BOLTON STREET AND C.M.
+RECTO AVENUE (FRONTING THE CATHEDRAL ONLY) ON IUNE 29,
+2018 FROM 4:OO A.M. UP TO IO:OO P,M. IN CELEBRATION OF THE
+UPCOMING 17oth PAROCHIAL FIESTA OF SAN PEDRO CATHEDRAL
+PARISH
+
+Ord. No. 0478-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE FOR THE
+TEMPORARY CLOSURE TO VEHICULAR TRAFFIC THE STREETS IN BETWEEN
+BOLTON STREET AND C.M. RECTO AVENUE (FRONTTNG THE CATHEDRAL ONLY)
+ON JUNE 29, }OLB FROM 4:00 A.M. UP TO 10:00 P.M. IN CELEBRATION OF THE
+UPCOMING 17oth PAROCHTAL FIESTA oF sAN pEDRo CATHEDRAL pARIsH,.
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Repubtic Act No. 7160,
+othenruise known as the Local Government Code of 1991, provides that "any national or
+local road, alley, park or square may be temporarily closed during an actual emergency, or
+fiesta celebrations, public rallies, agricurtural or industrial fairs..,,,
+SECTION 3. TEMPORARY CLOSURE -The streets in between Bolton Street and
+C.M. Recto Avenue (fronting the Cathedral only) will be temporarily closed on June Zg,zOtB
+from 4:00 a.m' up to 10:00 p.m. in celebration of the upcoming 170th Parochial Fiesta of San
+Pedro Cathedral Parish.
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTIVITf- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 25th day of June, 2OlB, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+MA. THERESA
+REYES
+Acting Secretary to the Sangguninag panlunSsod,
+ATTESTED
+VICTORIO
+LA JR.
+City Councilor
+Temporary Presiding Office
+mtar/kjtq
+
+ATTESTED:
+Ord. No. 0478-18
+APPROVED
+,2019
+SARA Z. DUTERTE
+City Mayor
+ATTY. ZULEIKA T. LOPEZ
+City Administrator

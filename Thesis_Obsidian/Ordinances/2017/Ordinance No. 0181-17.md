@@ -1,0 +1,335 @@
+---
+ordinance_number: "0181-17"
+title: "AN ORDINANCE ADOPTING/APPROVING THE DAVAO CITY DISASTER RISK REDUCTION AND MANAGEMENT FUND INVESTMENT PLAN (DCDRRIVIFIP) FOR CALENDAR YEAR 20L7, AS PREPARED AND APPROVED BY THE DAVAO CITY DISASTER RISK REDUCTION AND MANAGEMENT COUNCIL IN THE AMOUNT OF N,l/O HUNDRED EIGHry SIX MILLION TWO HUNDRED THOUSAND PESOS (P286,200,000.00)\", for your appropriate action. For the City Mayor: ATTY. TRISTAN MINGO"
+date_enacted: null
+approval_date: "2017-05-19"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0181-17.pdf"
+section_count: 2
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/adopting, topic/approving, topic/disaster, topic/risk, topic/reduction, topic/management]
+---
+
+# Ordinance No. 0181-17
+
+> AN ORDINANCE ADOPTING/APPROVING THE DAVAO CITY DISASTER RISK REDUCTION AND MANAGEMENT FUND INVESTMENT PLAN (DCDRRIVIFIP) FOR CALENDAR YEAR 20L7, AS PREPARED AND APPROVED BY THE DAVAO CITY DISASTER RISK REDUCTION AND MANAGEMENT COUNCIL IN THE AMOUNT OF N,l/O HUNDRED EIGHry SIX MILLION TWO HUNDRED THOUSAND PESOS (P286,200,000.00)", for your appropriate action. For the City Mayor: ATTY. TRISTAN MINGO
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+:i opT.ICE oF THE CITY IUAYoR
+!
+r*
+"6d
+pNc
+,a;t
+)o:o?
+;.lt'
+t.
+o!
+tr
+,l
+TDPDlshang
+t
+r
+2Nd INDORSEMENT
+June 22, 20t7
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached approved ORDINANCE NO, OL81-17, SERIES
+OF 2OL7, entitled "AN ORDINANCE ADOPTING/APPROVING THE DAVAO CITY DISASTER
+RISK REDUCTION AND MANAGEMENT FUND INVESTMENT PLAN (DCDRRIVIFIP) FOR
+CALENDAR YEAR 20L7, AS PREPARED AND APPROVED BY THE DAVAO CITY DISASTER
+RISK REDUCTION AND MANAGEMENT COUNCIL IN THE AMOUNT OF N,l/O HUNDRED
+EIGHry SIX MILLION TWO HUNDRED THOUSAND PESOS (P286,200,000.00)", for your
+appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+MINGO
+Assistant City Administrator
+(Administration)
+CMO - CRD
+RELEASED
+JUN II 20llt +ibe ftn.rrn
+It{t
+tVt,
+Qca -4Second Floor, City Hall Building, San Pedro St., Davao City
+(0821 227 -2577 . l182l 224-5878 . davaocitymayor@gmail.com
+p
+
+OFFICE OF THE CITY LEGAL OFFICER
+Ref. No. Lt3t-t7
+LEGAL OPINION NO. ry"I. SERIES OF 2OL7
+1't INDORSEMENT
+May 30, 2AL7
+Respectfi.tlly forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0181-17,
+SERIES of 2afi entitled 'AN ORDINANCE ADOffiNG/APPROVING THE DAVAO
+CITY DISASTER RISK REDUCNON AND MANAGEMENT FUND INVESTMENT PI.AN
+(DCDRRMFIP) FOR CALENDAR YEAR 20L7, AS PREPARED AND APPROVED BY
+THE DAVAO CITY DISASTER RISK REDUCTION AND MANAGEMENT COUNCIL IN
+THE AMOUNT OF TWO HUNDRED EIGHTY SIX MILLION TWO HUNDRED
+THOUSAND PESOS (P286,200,000.00), informing your end that the same is free
+from legal infirmity pursuant to SECTION 21 of RA 10121 otherwise known as the
+"Philippine Disaster Risk Reduction and Management Act of 2010" in relation to
+SECTION 1 of RA 8185, known as "An Act Amending SECTION 324 (d) of RA 7160,
+otherwise known as the Local Government Code of 1991".
+ATTY. MARlkLLo, Rsw
+Attorney MOffi cer-In-Charge
+Date approved: May 30, 20L7
+/
+a
+o
+n
+\
+v
+L,
+t?
+Y,
+Date
+o
+
+CITY MAYOK OTIICE
+DAVAO C. 'Y
+)j
+W
+(/rq FqNrRoL 1t9,
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao orp,r
+IN
+LEGAL OPINION NO. )K SERIES OF 2OL7
+1St INDORSEMENT
+May 30, 20Il
+lespectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance ilo. 01g1-17,
+SERIES of 20L7 entitled 'eN ORDINANCE ADOPTING/AppROVING rne onvnO
+CITY DISASTER RISK REDUCION AND MANAGEMENT FUND INVESTMENT PI.AN
+(DCDRRMFIP) FOR CALENDAR YEAR 2077, AS PREPARED AND APPROVED BY
+THE DAVAO CTTY DISASTER RISK REDUCTION AND MANAGEMENT COUNCIL IN
+THE AMOUNT OF TWO HUNDRED EIGHTY SIX MILUON TWO HUNDRED
+THOUSAND PEsos (p286,200,000.00), informing your end that the same is free
+from legal infirmity pursuant to SECTION 2L of ne iOfZt otherwise known as the
+"Philippine Disaster Risk Reduction and Management Act of 2010,, in relation to
+SECTION 1 of RA 818s, known as "An Act Amending SECTION 324 (d) of RA 7160,
+otherwise known as the Local Government code oi1991,,.
+DATE
+TIME
+,FFICE OF IHF CIT'Y ADTVIINTSTRAI OF
+Qlr t' ri.,.i. ';i:tQg
+t,A;i:)
+IECLTUED B
+)A-F.
+_ulh.
+ArrY. MARL/SlkEALro, Rsw
+Atto rney tVIOffi cer-In -Ch a rge
+Date approved: May 30, 20Ll
+OATEI
+?IMBI
+r
+RECHgVED
+CMO - CRD
+ifA ,In- R.rt
+)10'/e-7/
+li
+Ref. No. 1131-17
+t+
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW O6O,i
+May 19, 2017
+SARA Z. DUTERTE
+City Mayor
+4o4r
+Madam
+q'.n
+Etrn _0f4 f.tty
+Pursuant to sub-SECTION 3, Paragraph c, SECTION 46g, Article one, Tifle Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otheruvise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. o779-L7 and ordinance No. o1g1-17, both SERIES of 2ot7 0f the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+r
+$
+n0)@ \,k
+CHARTTO lv. gnrutos
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head II)
+cns//nta
+RECHEVED
+CMO. CRD
+:Ilt ftT
+I
+r /zz - ff )'tqN
+V
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUI\-IANG PATILT]NGSOI)
+18m C,ry Council
+16fr Reguhr $esshn
+SERIES of 2017
+PRE$ETIT:
+Yke Mayor
+C.ouncilor
+Councilor
+Cutrrcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Cruncilor
+Councilor
+Councilor
+Counr-ilor
+Councilor
+C-ouncilor
+Councilor
+f,ouncilor
+Councilor
+(ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councllor
+Councilor
+Councilor
+Faolo Z. Outefte
+Nilo M. Abellen lr.
+Maria Belen S. Acosta
+Yictorb U. Advirrcula .1r.
+Bemxd E.Al-ag
+Dante L, Apostolsr.
+Joanne M. Bonguyan&ihe
+Ma. Chen? Ann M. Bonguyan
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+lanuary N. Duterh
+Edgar P. Ibuyan lr.
+Rene Elir C. Lopez
+Dioodado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegafle Dalodo Ortiz
+l. Melchor B. Quitain lr.
+Marlm P. SalYads-Abella
+Hdila Y. Sudagar
+Mary loedle D. VillafuerE
+Jesus Joceph P. Zozobndo Itr
+Presiding Officer
+- AttendedaPCLActivity
+- AtfiendedaConzultationwith
+TESDA
+On Domstic Emergency Leaue
+On Vac*ion Leave
+On M*emitf Leave
+O1l OFf,ICIAT BUSIHE$$:
+Councilor Al Ryan S. Aleiandrc
+Councilor Leah A. Librado-Ym
+ABSEHT:
+Conrado C. Baluran
+Pilar C. Braga
+Antoinefre G. Principe{mtrodes
+oRDIilAItCE ilO. O1S1-17
+Sories of 2017
+AII ORDI]IAIICE AIX}PTIHCIAFPROYIIIG THE DAVAO CTTY
+DISA,STER RISI( REDUCTIOil A}ID I{A]IAGEHEilT R'llD
+ITIYESTHEIIT T'I.AII (DCDRRHFIP} FoR Ctl.EilDTR VEIR
+2OI7, AS PREPARED AIID IPPBOVED EY THE DAYAO CITV
+DIBASTER RISK REDT'CTIOII AIID }IAHAGE}IEIIT CtlUtlCIL
+III THE AHOUilT OF Tffi} HUIIDRED EIGHTY-$IX }III.I-IO'I
+TWo HUITDRED THOUSAI|D pBOS (rm6;2OOp{Xr.OO)
+
+PaBe2 sfs
+Ord. No. O18l-17
+Be fr sdaired by ttt Sanggnhng FanLnfod of Davao CrB, h mesirr amnthd,
+that:
+sECTIOil 1. TI[E. - Thts frdirarxe *rall be krpwn as 'At ORDIlfAtfE
+AIXFTTilG/APPROYIIIG mE DAYAO CITY DEISTER REK REDUCTIOIT AilD
+HAilIGETEilT FUflD IilvEIIlrEtrT plAtr (OCDnRHrrp) FOR CrtffrrlAR YEAR
+2:017, AS PREPIRED tIlD APPROYED BY THE DTVAO CITY III5ISTER REK
+REDUITIOTI AND ilATITGE}IETIT COUTKIL ITI T}IE THOUTIT OF TWO HUr|DRED
+EIGHTY sIX HILLIOil TrtO HUITDRED THOI SAI|D Pt505 (P;I86,2OO,OOO.0O)";
+SECTIOII L DEIARITIOil qf FqUfY. sc(thn ?. parry+h (d) of
+Rcp$lic Act nh. l0l2t pwilosr
+'(d) Ad@ a disder rH( reductlon ard milqernffit
+approach th* ls MisEc, comprehon$iv€, inteqrdgd ild
+prmrtive in lessening tle mciosonornic ard envircnmenEil
+imprt of disffiEr irrluding climfre and prcmote Bre
+inydyernent and parBcipffion of dl secto,E amd all
+ffikeholderc concerned at all leuek, especidly he hcd
+communlhr;
+strTIO]I 3. APPf,OVAL - THE DAVTO CITY DISASTER RTSK RET}I'CTIOII
+AIID llAIlAGEllEtrT FUIID I||YET!{EIIT pt-til (IfDRRl{rIP} FOR CY 2017. m
+prepared ry the Davao Clty DbaEtEr Rbk Refuctim ard i,lanagenrert C{rrxil *tall be
+approyed for tE prrpffi of devehpng an allhazar& phmiU approadr that will be r.ed fr
+a[ t]reah, ennrgerrhs and/ry dieaetere ard frndng ffifhd projeft prryred by varixr
+correrred depatnenb b establHr reeprriverrcse of 0E CrU Gorerrrrrcnt to hsn the
+ifipad of dEi?Gters h &avao City;
+SECTIOII 4. BUDGEIARY RPUIREHEI|TT - ThB btal anurrt of TWo
+HUITffiED ETGHTY.5fi }IITTIOil TWO HUNDftED THOUSAIID PE5O5
+(P286,2OOr00O.OO)', b herehy approprhhd to frfid he Dauao City Dhafier R*
+Redrtirn and ithnagrnnnt ftnd Inrertnent Phn (DCDRRMFIP) ftr CY 2017, (hereh
+athdred ae 'Arrnr A')i
+SEITIOII 5. SEPIRAB.ILIW CLAUSE - If fur ant realxn any mctirr u prwbixr
+of fr3 Ordlrarxe ts dechred trrsrtfr.ffinal s hralil, m o&rer mctirs r provtixr
+htrBof be affecEd tfwe.by;
+SEITIOII 6. EFFECTilITY. - TtrI frdhtre *all tatte effmt itrrndiirEh r+on
+approval;
+EI|ACIED, April 7l,?'0L7, bl a trmirur vffi of all itlar&ers of the SwrgErnhn,
+thre beiU a t1rlrun.
+CERTIRED CORRECT:
+n Urhn;fi
+IHARTTO ]I.
+I
+Secrehry b tfe
+FanLngnod
+(City Crv,errrrnnt Departsrrcnt fsad {}_^-.
+FAOLO
+DUTERTE
+ATTE5TED:
+Pr
+Mayu'
+
+J
+t,,
+Page
+Ord.
+3 sfs
+No.018l-17
+AIrpRovED: JUN.I 1-20lll - , toLT
+*Cttr Mryor6r*
+ATTffiTEO:
+Arrv.m,
+CiB Adminisbdrcr a

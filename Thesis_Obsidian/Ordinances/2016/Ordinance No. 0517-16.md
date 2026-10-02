@@ -1,0 +1,332 @@
+---
+ordinance_number: "0517-16"
+title: "AN ORDINANCE GRANTING FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC OF THE ROAD ALONG CORNER ROXAS AVENUE AND MABINI ' STREETS, BARANGAY 33-D, POBLACION DISTRICT, DAVAO CITY, ON MAY 28, 2016, FROM 7:00 A.M UNTIL 12:00 MIDNIGHT, IN CELEBRATION OF THE ANNUAL FIESTA OF GKK STA. CRUZ ZONE 9, PUROK 2 AURORA, OF THE SAME BARANGAY\" with the information that this has been lapsed into law. For your infor"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0517-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/granting, topic/temporary, topic/closure, topic/vehicui, topic/traffic, topic/road]
+---
+
+# Ordinance No. 0517-16
+
+> AN ORDINANCE GRANTING FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC OF THE ROAD ALONG CORNER ROXAS AVENUE AND MABINI ' STREETS, BARANGAY 33-D, POBLACION DISTRICT, DAVAO CITY, ON MAY 28, 2016, FROM 7:00 A.M UNTIL 12:00 MIDNIGHT, IN CELEBRATION OF THE ANNUAL FIESTA OF GKK STA. CRUZ ZONE 9, PUROK 2 AURORA, OF THE SAME BARANGAY" with the information that this has been lapsed into law. For your infor
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+r.ob Sij
+elJ$,
+OFFICE OF THE CITYMAYOR
+sacisltG
+2nd Endorsement
+06 May 2016
+iITEEI'dHD
+Respectfully forwarded to Ms. CHARITO N.
+to the
+SANGGUNIANG Panlungsod, this City the herein documents relative to City Ordinance No.
+05L7-t6, SERIES of 2016 entitled .AN ORDINANCE GRANTING FOR THE TEMPORARY
+CLOSURE TO VEHICUI.AR TRAFFIC OF THE ROAD ALONG CORNER ROXAS AVENUE AND
+MABINI
+' STREETS, BARANGAY 33-D, POBLACION DISTRICT, DAVAO CITY, ON
+MAY 28, 2016, FROM 7:00 A.M UNTIL 12:00 MIDNIGHT, IN CELEBRATION OF THE
+ANNUAL FIESTA OF GKK STA. CRUZ ZONE 9, PUROK 2 AURORA, OF THE SAME
+BARANGAY" with the information that this has been lapsed into law.
+For your information and appropriate action.
+Thank you.
+RODRIGO R. DUTERTE
+City Mayor
+By
+D, DALUMPINES
+Chief-of-Staff
+/lcsp
+RELEASEffi:
+?tD
+(o - t - tb
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224-587 8 . d ava ocitym ayo r@g m a i l.co m
+I
+I
+l
+cl
+rr-,
+
+DAVAO Ct'Y
+Rti;:{l(i'irl r,
+,. IF
+rr^^..Lli^
+^E +L^
+nL:li-^;F^^
+REPLrIJTTL L,r Ll rE r I llllPPll
+IED
+OFFICE OF THE CITY LEGAL O
+Cit'y of Davao tao.t
+Ref. No. 1131-16
+- ct --.
+I_ - INIJL'I(DEPTEN T
+April 22, 2076
+Respectfully forwarded to the Office of the City Mayor, through
+the Office oi the City nciministrator, both this City, the attacheci
+Ordinance No. 0517-16 SERIES OF 2016, entitled *AN ORDINANCE
+FOR THE TEMPORARY CI-OSURE TO VEHICUiAR TRAFFIC ALONG
+CORNER ROXAS AVENUE AND MABINI STREET, BARANGAY 33-D,
+POBLACION DISTRICT, THIS CITY, ON MAY 29.,2A15 FROM 7:00 A.M
+UNTIL 12:OO MIDNIGHT, IN CELEBRATION OF THE ANNUAL FIESTA OF
+GKK STA CRUZ ZONE 9, PUROK 2 AURORA, OF THE SAME BARANGAY"
+informing your end that the same is free from legal infirmity citing RA
+7t6O, otherwise known as the Local Government Code of 1991, to
+q uote:
+SECTION 21. Closure and Opening of Roads. - (a) A local
+government unit ffioy, pursuant to an orciinance, permanentiy or
+temporarily close or open any local road, alley, park, or square falling
+within its jurisdiction: Provided, however, That in case of permanent
+closure.- such ordinance must be aporoved by at least two-thirds (2/3)
+of all the members of the sanggunian, and when necessary, an
+adequate substitute for the public facility that is subject to closure is
+provicjed.
+xxx
+(c) Any national or local road, alley, park, or square may be
+temporarily closed drlring an actr-lal emergenc)/, or fiesta celebrations,
+public rallies, agricultural or industrial fairs, or an undeftaking of public
+works and highways, telecommunications, and waterworks projects,
+the duration of which shall be specified by the local chief executive
+concerned in a written order: Provided, however, That no national or
+local road, alley, park, or square shall be temporarily closed for
+athletic, cultura!, or civic actir,,ities not cfficiell'y spcnscred, recognized,
+or approved by the local government unit concerned".
+IN VIEW THEREOF this office recommends the approval of the
+same.
+DEEl-lE,^TEI
+II I V CI ItrlN,TTTEN
+l\LlrrL\,rt
+L, l-t-I
+rrLrut'ttl
+tLu.
+4-42:l
+,tsr ,\.!- rr, I l+c iir r Y nUm'frirVl ttnrvr '
+RttJ.22t Ct'lY tlALt' BUILDIIIO
+ArrY. MARL#;:i*",Rsw
+flwr\
+A^^-^.,^.{
+L.,.
+^PHr vvELr uy.
+ATry. OSMU
+. VILLANUEVA, JR
+Acting City
+al Officer
+,H"EEEIVEMi
+EMCI'CRD
+APR 2 6 20lS ?:16 p,* f,
+o?It
+o
+Sceiclr of
+LEGA
+No.
+n^l^
+^^^-^.,^-l
+.
+A rtrtTt
+1't
+111 { e
+rJoLE ClpPr rJvELr.
+,1r NIL
+z-z-, z-lJrL,
+,0 - 7 K-(d
+
+qlctsl
+Ca
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUI\UANG PANLUNGSOD
+LUNGSOD NG DABAW s7e,1
+April 18,2016
+RODRIGO R. DUTERTE
+City Mayor
+\-t--
+b nt
+q M -W6e
+P'fr
+Sir:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title
+Five, Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160,
+otherwise known as the Local Government Code of 1991, we are furnishing
+you a copy of Resolution No. 02816-16 and Ordinance No. 0517-16, both
+SERIES of 2016 of the SANGGUNIANG Panlungsod, for your information, guidance
+and appropriate action.
+For and in the absence of the Secretary:
+NILDA C.
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod) d
+70- ?t -b{
+oo
+'orair.c
+RECE!VED
+CMO. CRD
+cns/psm
+r0ltk
+
+Office of the Sanggunlang Panlungtod
+1?th City Council
+l4tt Regular Sceclon
+SERIES of 2O16
+PRESEHT:
+AESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Counsilor
+tlouncilsr
+C.ouncilor
+C.aur:cilor
+C.ouncilor
+Carrncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Coun*ilor
+Councilor
+Councilor
+C*uncilar
+Couneilot
+ON OFFICIAL BUSIT.IESS:
+Vice Mayor
+Councilor
+Paolo Z. Duterte
+April Marie C. Dayap
+January N. Dute,rte
+Toaas J. Monternrde IV
+Maris sa P. Salvador-Abella
+Victorio U. Advincula Jr.
+Nilo M. Ahellera Jr.
+f,fiaria Belen S. Acosta
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+LorelSnr T. Avila
+Karkr S. Bello
+Josr:ne M. Bonguyan-Quilcrs
+torrie .Iqhn rI. Bonguyan
+Daflilo t1. Dayanghirnlre
+Jimmy G. Dureza
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez,
+John-Christopher T. Mahamud
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Myr:ra G, t Telodo-(lrtiz
+Arrtoinette G. h'incipe-Ca*trotles
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Rachel P. Zozol:rado
+Temporary Presiding Offic er
+- Srd fumual Arrrriruersary of
+Paquibato District Tribal Cou:ecil
+- On Sick Leave
+- On Domestic Emergency Leave
+Councilor
+Councilor
+Councilor
+oRDINAttCE NO. 0517-16
+$+dac of?O16
+A.t ORDITATCE' FOR TIIE TTHFORTFT CLOEIIRE. TO
+TTEICIII.,AR Tn^*rtrIC OF TET ROAD .*LOr$ CORTER
+ROX.f,S AVEm,t ArD UAAIm STRIIEI, B.tRAttcay 33-D,
+POBL"f,CTOI DTBTRTCT, rHrB CrIy, Or ilay 2E, 2016
+f,'ROf ?:(X) A.[. IIilTIL 12:(X) tIDmcEf, M
+CELTEE,ATIOT OT TEI A.trXUTT rITSTT. OF {,IIIII 8TA"
+cEuu uorE I, PIIEOIT 7 .*IIBOR.*,, Or fHE B.iffE
+EANAfGAY
+U]N
+
+Pege 2 of :]
+Ord. No. 0517- 16
+Be it ordainetl hy the Sangguniarxg Pflrhrngsod of Danrao City in nession
+&ssr*rnfulgd tlat:
+StCTIOf, 1. TITLE This Ordinance shall be knoum as "Atr
+ORDITAIICI FOR TET TETPORARY CLOBIIRT TO VEIIICI'LAR RAI'tr'IC
+otr TEt ROAII .tLof,G CORTER RONAE AVEilIE ^frD UAETTI STRttTt
+E.llE,LilOAY g3-D, pOEL^tCrOil DIETRICT, Tffi8 CITt" Or U.f,y 28, 2016
+FROil 7:OO A't. IItrTIL 12rffi lilIDtIgIIT, Ilt CELEBRATIOI{ Of' fHE
+AtrtrUAL tr'IEBtA OF CIfft Btrt" CBUU AOI{E 9, PIIROH 3 AUROR ', OF TIIE
+B.[SE BARATEAY";
+SECTIOI 2. DECLARATIOtr OF POLICY - '$ection 21 (c) of Reput-rlic Act
+No. 716O otha.w'ise liilrown as the Local Gorrcrnmetrt Code of 1991 provides
+that arry nationol or loeal road, d*y, ptrk, or square may be terr.porarily
+closed during an actual emergency, or fiesta celebration. public rallies and
+agricultrral or industrial fairs;
+EECTIOil 3. TEilPORAFI CLOBI Rt - Ilr celebration of the Arrrual
+Fiesta of GKK Sta. Cruz, Torte 9, Purok 2, Aurora, Baangay 33-D, Poblacion
+District, this City, the road dong corner Roxas Averme and Mabini Street of the
+same harangay shflll be temporarily cloual on May 2*, 2016 from 7:00 A.M.
+until 12:OO midnieht;
+$ECTIOf +. $EPARABILIffi CLAIT8E - If for arry leasorl, amy SECTION or
+lrrovision of thie Ordinance is declarect uncoustitutional or irxralid, other
+sections or provisions hereof not affected by auch declaration shall corrtinue to
+be in full force and effect;
+EFFECTIYIffi - This Ordinance shall take effect immediately upon
+appronal;
+EIACfED, April 12, t016, by a majority note of all the Mennher*q of the
+Sanggunian preerrt, there being a qnofl.rm.
+CERTIFIED CORRECT:
+F'or and in the abserrce of the Secretar5r:
+Wttne*
+ffiI,DA C. IAGTO
+Acting Secretary to the $angguniang Panlungsod
+(A,r*i*tant $ecretary to ttre SANGGUNIANG PenlungrrV
+
+t,
+"t
+-i;'
+PageS ofB
+Ord. No. 0517- 16
+ATTESTED:
+ATTE$TED;
+VICTORIO
+City
+Temporary
+.rR.
+()fficer'
+RODRIGO R.
+City Mavor7
+aTff. JESUB ilELCEOR V. QUrTArlt
+City Administrator
+":ll
+i",;-'ilj;:;;U
+L:II,S/

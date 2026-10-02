@@ -1,0 +1,324 @@
+---
+ordinance_number: "022-19"
+title: "AN ORDINANCE APPROVING THE REQUEST OF MARI.A CHONA YAP FORTUNA, HOUSE OF HOPE AND MINDS rcR LOVE (MrL FOUNDATION) FOR TAX EXEMPTiON OF THE PROCEEDS OF TriE BENEFIT CoNCERT ON AUGUST 30, 2019 AT THE SMX CONVENTION CENTE& SM |-ANANG PREIUIE& l-Al.iANG, TIIIS Cfft\"', for your information anri apprcpriate auaion. FOr the City tviayor: ATTY. DOMIffGO Assistant (Arlministration) cfrv MrYor'9 orrrcE CORR"
+date_enacted: null
+approval_date: "2019-08-29"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 022-19 (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/approving, topic/request, topic/mari, topic/chona, topic/fortuna, topic/house]
+---
+
+# Ordinance No. 022-19
+
+> AN ORDINANCE APPROVING THE REQUEST OF MARI.A CHONA YAP FORTUNA, HOUSE OF HOPE AND MINDS rcR LOVE (MrL FOUNDATION) FOR TAX EXEMPTiON OF THE PROCEEDS OF TriE BENEFIT CoNCERT ON AUGUST 30, 2019 AT THE SMX CONVENTION CENTE& SM |-ANANG PREIUIE& l-Al.iANG, TIIIS Cfft"', for your information anri apprcpriate auaion. FOr the City tviayor: ATTY. DOMIffGO Assistant (Arlministration) cfrv MrYor'9 orrrcE CORR
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Cites or amends
+
+- [[Ordinance No. 020-19]]
+- [[Ordinance No. 0291-17]]
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Ref. No. C3d+.201FQ3288
+2'Nd IITDORSETTETTT
+September 18, 2019
+Respectfully retumed to Ms. Charito il. Santos, Secretary to the SANGGUNIANG
+Panlungsocl, this City, the within Legal Opinion No. 534, SERIES of 2019 dated
+September 3, 2019 of the City Legal ffice, relative to the attached duly signed and
+approved Ordinance No. 022-19, SERIES oi 2019 entitieci, *AN ORDINANCE APPROVING
+THE REQUEST OF MARI.A CHONA YAP FORTUNA, HOUSE OF HOPE AND MINDS rcR
+LOVE (MrL FOUNDATION) FOR TAX EXEMPTiON OF THE PROCEEDS OF TriE BENEFIT
+CoNCERT ON AUGUST 30, 2019 AT THE SMX CONVENTION CENTE& SM |-ANANG
+PREIUIE& l-Al.iANG, TIIIS Cfft"', for your information anri apprcpriate auaion.
+FOr the City tviayor:
+ATTY.
+DOMIffGO
+Assistant
+(Arlministration)
+cfrv MrYor'9 orrrcE
+CORRESPONOEXCE AiID iECORDS OIV
+RELEASED.
+sFP le 2019
+,r,rr&o*o
+ADMINISTRAIIVE AIDE IV
+:00
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.comr
+)8' 4 >'rl
+Bffi='.@
+LIFE IS HERE
+q,t;
+,rl
+' Republic of the Philippines
+OFFICE OF THE CITY IVIAYOR
+
+OFFICE OF THE CITY LEGAL OFFI
+l'el. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+&4tq-qq
+Ref. No. CLO-2019-0003048
+LEGAL OPINION NO. 5?q
+SERIES OF 2019
+RE: ORDINANCE NO. 020-19, SERIES of 20Lg entitled "AN
+ORDINANCE APPROVING THE REQUEST OF MARI CHONA YAP
+FORTUNA, HOUSE OF HOPE AND MINDS FOR LOVE (MFL
+FOUNDATTON) FOR TAX EXEMPTION OF THE PROCEEDS OF THE
+BENEFIT CONCERT ON AUGUST 30, 2019 AT SMX CONVENTION
+CENTER, SM IXNANG PREMIER, LANANG, THIS CITY"
+1s INDoRSEMENT
+September 3,20L9
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption is well within the powers of the SANGGUNIANG Panlungsod, per
+SECTION L92 of RA 7160, otherwise known as the Local Government Code of 1991, to
+quote:
+"SECTION 192. Authority to Grant Tax Exemption
+Privileges. - Local government uniB may, through ordinances duly
+approved, grant tax exemptions, incentives or reliefs under such
+terms and conditions as they may dem necessary'i
+Hence, it is recommended that the ordinance be approved.
+A. GALLO, RSW
+Acting Asst. City
+I Officer/Attorney.IV
+GAL o
+Date Approved: September 4,20L9
+ordL 2 2 - t g _W+ rymptionJot una_2 0 1 9 400 3 M S _9 - 3 - 1 9
+@[te
+ATTY.
+6l+vABltlN1514,11t@R
+HALL OFFICE
+o
+'O
+g
+OFFI6E EFTHE
+CITY
+RECEIVED BY
+DATE:
+TIME:
+DAVAO
+RECEIYEO
+CMO CONTAO ':
+ER
+CORR
+,,(t*,
+Dlvlsl0N
+D
+IV
+09956299702
+()p
+o
+a
+clw
+"t.drE:
+AAM- rilg
+Qt
+g^ a-1Lr
+
+Republic of the Philippirtes
+CITY OF'DAVAO
+August 29,2019
+*
+D
+t
+SEBASTIAN Z. DUTERTE
+Acting City Mayor
+wqt
+Sir
+ctn.wtq- 1iloAytls ftlu,
+Pursuant to Sub-SECTION 3, Paiagraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+084-19 and Ordinance No. O27-tg, both SERIES of 2019 of the SANGGUNIANG
+w
+Panlungsod, this City, for your inforniation, guidance and appropriate action.
+Very truly yours,
+n\v,r \ , [-
+CHARITO N. sANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+.aicisre
+i6
+fb
+\.i
+(,zl
+p_r
+$, Nc
+CORRESPONDENCE & iECORDS DIVISION
+RECEIVED
+AUG 2 9 28II
+MARY ANN {arvanroo q
+nomrnrstxeYvE ArDE rv
+CMO CONTACI l:241-l00O LOC.
+ffi,
+09956299702
+,'l
+
+lgth city Council
+8th Regular Session
+SERIES of 2019
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+PRESENT:
+Vice Mayor SebastianZ. Duterte
+Councilor Edgar R. Ibuyan Sr.
+Councilor Antoinette G. Principe-Castrodes
+Albefto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. lustol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+l. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+- OB-Acting City Mayor
+- On Official Business
+- On Official Business
+ORDINANCE NO. O22.L9
+SERIES of 2019
+AN ORDINANCE APPROVING THE REQUEST OF MARIA
+cHoNA YAP FORTUNA, HOUSE OF HOPE AND MrNDS FOR
+LOVE (MFL FOUNDATTON) FOR TAX EXEMPTTON OF THE
+PROCEEDS OF THE BENEFIT CONCERT ON AUGUST 30,
+2019 AT SMX CONVENTON CENTE& SM LANANG
+PREMIERE, LANANG, THIS CITY
+
+Ord. No. 022-t9
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+AppRovrNG THE REQUEST OF MARIA CHONA YAP FORTUNA, HOUSE OF HOPE
+AND MINDS FOR LOVE (MFL FOUNDATION) FOR TAX EXEMPTION OF THE
+pRocEEDS OF THE BENEFIT CONCERT ON AUGUST 30, 2019 AT SMX
+coNvENION CENTE& SM LANANG PREMIERE, I-ANANG, THIS CITY".
+SECTION 2. DECLARATION OF POLICY - SECTION 3 (l) of Republic Act No.
+7160, otherwise known as the Local Government Code of 1991, provides that "the
+participation of the private sector in local governance, particularly in the delivery of basic
+seruices, shall be encouraged to ensure the viability of local autonomy as an alternative
+strategy for sustai nable development".
+SECTION 3. AUTHORITY SECTION 66, sub-paragraphs (a) and (b) of
+Ordinance No. 0291-17, SERIES of 20t7, "An Ordinance Amending the 2005 Revenue
+Code of the City of Davao" Provides:
+SECTION 66. Exemption-The tax herein imposed does not
+apply in the following cases, provided, that exemption should
+first be obtained for this purpose from the SANGGUNIANG
+Panlungsod:
+a) Where the admission fees are collected for and in
+behalf of the charitable, educational or religious
+institutions or associations who are declared by law or
+presidential proclamation as exempted from the
+payment of amusement tax on paid admission;
+provided, fufther, that such exhibition, show,
+performance, and the like, shall be limited to only
+three (3) days in a calendar Year;
+b) Where the admission fees are collected in connection
+with the holding of operas, concefts, dramas, recitals,
+paintings and art exhibitions, flower shows, musical
+programs, literary and oratorical presentations except
+pop rock, or similar concerts not intended primarily for
+profit and furthermore, not including film exhibitions".
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMW- This ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 27th day of August 20t9, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+
+Ord. No. 022-t9
+CERTIFIED CORRECT:
+d*krtbil, *f,o,
+Secretary to the Sangglniang Panlungsod
+(City Government Depaftment Head II),
+ATTESTED
+o,,M*NGAB
+'Acting Vice Mayor
+Temporary Presiding Officer
+cns/kjtq
+APPROVED
+0 s stP 20lg
+2019
+ATTESTED:
+SARA Z. DUTERTE
+- City
+SEBASTIAN Z. DLTTERTE
+Acilag CltV MaYor
+ATTY.
+City
+LEIKA T
+Admi
+?

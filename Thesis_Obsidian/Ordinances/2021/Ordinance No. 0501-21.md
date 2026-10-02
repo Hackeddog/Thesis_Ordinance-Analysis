@@ -1,0 +1,290 @@
+---
+ordinance_number: "0501-21"
+title: "AN ORDINANCE INTEGRATING URBAI{ CANOPY 11{ THE CITY'S TRAFFTC TSLANDS ON HTGHWAY ROADS, AilD ALONG PAVEMENTS, PARKS, PLAYGROUNDS AND AREAS OF PUBTIC RIGHT.OF.WAY"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0501-21.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.9
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/integrating, topic/urbai, topic/canopy, topic/trafftc, topic/tslands, topic/htghway]
+---
+
+# Ordinance No. 0501-21
+
+> AN ORDINANCE INTEGRATING URBAI{ CANOPY 11{ THE CITY'S TRAFFTC TSLANDS ON HTGHWAY ROADS, AilD ALONG PAVEMENTS, PARKS, PLAYGROUNDS AND AREAS OF PUBTIC RIGHT.OF.WAY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+i,''
+,
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. LDalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Sebastian Z. Dutefte
+Nilo D. Abellera
+Maria Belen S. Acosta
+laffar U. Marohomsalic
+i
+19th city Council
+9s Regular Session
+SERIES of 2021
+PRESEl{T:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C,ouncilor
+Councilor
+Councilor
+Councilor
+Temporary Presiding fficer
+ABSENT
+Vice Mayor
+Councilor
+Councilor
+Councilor
+- On Official Business
+- On Domestic Emergency Leave
+- On Domestic Emergenry Leave
+- On Sick Leave
+ORDINANCE NO. O5O1.2T
+SERIES of 2O2L
+AN ORDINANCE INTEGRATING URBAI{ CANOPY 11{ THE CITY'S
+TRAFFTC TSLANDS ON HTGHWAY ROADS, AilD ALONG
+PAVEMENTS, PARKS, PLAYGROUNDS AND AREAS OF PUBTIC
+RIGHT.OF.WAY
+
+t
+Ord. No. 0501-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTIOil 1. SHQBf,IIIE This Ordinance shall be known as the *TREE LINE
+ORDINANCE,, of Davao City.
+SECTION 2. DECLARATION OF POLICY - It is the poliry of the Local
+Government of Davao City to protect and preserue the urban canopy within the territory
+of the City and to promote the development of a healthful ecology by enacting
+ordinances serving this purpose.
+SECTION 3, SglgPE - This Ordinance shall be legal and in effect within the
+tenitorial jurisdiction of Davao City.
+SECTION 4. PURPOSE AND INTENT - The enactment of this Ordinance is
+anchored upon the primary purpose of promoting the interest and welfare of the people
+of Davao City by integrating urban canopy in the City's public streets, highways, parks
+and playgrounds.
+The planet faces a climate crisis due to various reasons. This is manifested
+through increasing temperature, rising sea levels due to rapidly melting polar ice caps
+and glaciers, frequent forest fires and droughts, to name a few. Climate change poses a
+threat, of which even the City does not have immunity.
+In response, the trees will contribute to the measures the City is taking to
+al[eviate the detrimental effects caused by global warming and maintaining its status as
+an eco-friendly City. These treelines are also in support of the City's urbanization as this
+will benefit all drivers who often cruise during the day in the heat, the commuting public
+who usually walk to anive at their destinations, and the people who seek to spend their
+leisure time in parks and playgrounds.
+Ultimately, the Iegislative intent of the Ordinance focuses on making the City
+more conducive to environmental growth and protection, serving the purpose of
+promoting the welfare and interest of the people.
+SECTIOII 5. DEFINITION OF TERII|S - For this Ordinance, the following
+terms, phrases and any derivations shall have the meaning given herein:
+Large Trees - are those that reach a height of at least forty-five (a5) feet or
+more with a mature spread of forty (40) feet or more.
+Medium Trees- are those that reach a height of at least thifi (30) to forty-five
+(45) feet with a mature spread of thirty (30) feet or more.
+Park - shall refer to a public area that promotes and fosters recreational and
+leisure activities.
+Pavement - shalt refer to the paved area with a concrete surface on both sides
+of the road.
+Playground - shall refer to an outdoor area provided for children to play-in, and
+often open to the public.
+Sidewalk - shall refer to the footpath or footway along the road's side and often
+designated for pedestrians.
+
+Ord. No. 0501-21
+Small Trees - are those that reach a height of at least twenty (20) to thirty (30)
+feet with a mature spread of twenty (20) feet or more.
+Street or highway - refem to the entire width of every puhlic way or right-of-way
+when any part thereof is open to the public's use, as a ma*er of right, for p-urpos.r of
+vehicular and pedestrian traffic.
+Trafftc island - refers to the narrow strip of the concrete island between roads
+often used to reducg cars'speed driving through or to provide a central refuge to
+pedestrians crossing the streets.
+Treeline - shall refer to the traffic island, the side of the pavement and both
+sides of national and city highways, if applicable, atready ptanted with a row of trees.
+Urban Canopy - shall refer to the collection of shrubs, trees, vegetation and
+associated natural features that make up the City tree canopy and its growing zone.
+SECTION 6. PSAU$ - The planted trees shall be in the traffic islands,
+pafticularly those built on the highways, along the City's pavements, public parks,
+playgroundq and other areas of public right-of-way.
+SECTION 7. GENERAL PROCEDURES - As elaborated in the above title,
+this Ordinance shall integrate urban canopy in the City's traffic islands on the highway
+roads, along pavements, park and playgrounds, and public areas right-of-way.
+This Ordinance shall call upon the Gty Enginee/s Office, City Environment and
+Natural Resources Office, City Planning and Development Office, City Transport and
+lraffic Management Office, the Committee on Public Works and Highways, the
+Committee on Environment and Natural Resources, the Depaftment of public Works and
+Highways and other related agencies for the planning and conception of the tree lines
+across the Gty from its initial phase until its completion.
+Prior to mounting, related offices, such as the City Engineer's Office and the
+Depaftment of Public W-orks and Highways, shall be authorized to integrate the planting
+of trees and creating of treelines in the budget for the proposed structures and in the
+design of the road structures in the future.
+Upon its implementation, the overall management and general maintenance of
+these treelines shall be dispensed to the jurisdiction of the City Environment and
+Natural Resources Office, particularly to the specific division who handles projects of
+similar nature.
+SECTION 8. COMPOSITION AND FUNCTIONS - This provision shall create
+the Davao City Tree.Line Working Group, which will be responsible for strategizing,
+formulating, and implementing according to the mandates of this Ordinance, -wfrei6
+their functions and responsibilities emanate.
+The Davao City Tree Line Working Group (DCTL-WG) shall be composed of the
+following:
+
+Chairperson
+Co-Chairperson
+Members:
+Ord. No. 0501-21
+- The City Mayor or the City Adminitsrator as her
+duly authorized representative
+- Department Head, City Environment and Natural
+Resources Office
+1. Depaftment Head, City Enginee/s Office
+2. Department Head, City Transpoft and Traffic Management Office
+3. Chairperson, Commiftee on Public Works and Highways of the
+4. Chairperson, Committee on Environment and Natural Resources of
+the SANGGUNIANG Panlungsod
+5. Representative, Office of the Vice Mayor
+6. Representative, Department of Public Works and Highways
+7. Representative, Environment and Natural ResourcesEnvironmental Management Bureau
+8. Representative, National Parks Developments Committee
+The Davao City Tree Line Working Group shall have the following functions:
+1. To conduct inspections on the traffic islands and pavements'technical specifications;
+2. To authorize relevant offices to include the mounting of trees in the budget of their
+proposed structures and in the design of road structures in the future;
+3. To research species of trees to be tended to ensure suitabitity;
+4. To obserue the peftinent traffic islands and pavements to identify the species of
+trees proportional to the islands or pavements' size and capacity (whether small
+trees, medium trees or large trees) before mounting;
+5. To resolve all issues of varying nature that may arise from the construction of
+treelines;
+6. To formulate guidelines on matters such as:
+o Provisions governing the removal of trees posing as a hazard to
+the public;
+o Role of the community;
+o Penalties for damaging of trees, either international or
+unintentional;
+o Damages caused by the roots to drainage, sidewalks, and roads;
+and
+o Shading in solar panels or collectors;
+7. To conduct regular surueillance upon the construction and planUng of urban
+canopies; and
+8. To provide continuing support to the CENRO upon implementation.
+SECTION 9. EUNDIXG - The Davao City Tree Line Working Grcup shall have
+the necessary appropriation, which shall be included in the City's Budget to support its
+activities and accomplish all of its deliverables.
+SECTION 10. SEPARABILITY CIAUSE - If any part or provision of this
+Ordinance is held invalid or unconstitutional, any other portion or provision hereof not
+so affected shall continue to be valid and effective.
+SECTIOil 11. REPEAIIilG CLAUSE - Any City Ordinance, resolution, and its
+rules and regulations, or any paft thereof, which is inconsistent with any of the
+provisions of Ordinance are hereby repealed or amended accordingly.
+
+I
+;
+Ord. No. 0501-21
+SECTION L2,
+approval, fifteen days
+This Ordinance shall take effect upon its
+after its tull publication in a newspaper of general circulation in
+ENACTED, on the Znd day of March 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+n An'vv61
+CHARTTO N. fu.
+SANTOS
+ATTESTED:
+ATTESTED:
+R,
+President
+Temporary Presiding Officer
+cns/kjtq
+. LOPEZ
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Departrnent Head II)
+APPRoVED: APR06202l
+2A2L
+SARA Z. DUTERTE
+I
+City Mayor N
+Z. DUTEATE
+Acilng OtY !{ayu t
+a
+City Administrator 7
+AN ORDINANCE INTEGRATING URBAN CANOPY IN THE CITY'S TRAFFIC ISI.ANDS ON HIGHWAY ROADS,
+AND ALONG PAVEMENTS, PARI(S, PLAYGROUNDS AND AREAS OF PUBUC RIGHT-OF-WAY

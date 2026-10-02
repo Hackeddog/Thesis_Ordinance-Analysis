@@ -1,0 +1,292 @@
+---
+ordinance_number: "0412-18"
+title: "Ordinance No. 0412-18"
+date_enacted: "2018-03-06"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0412-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid]
+---
+
+# Ordinance No. 0412-18
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+GISF
+l(E
+\
+J
+mm/#q
+Ref. No. CAdO 2018{3882
+2d Indorcement
+April 5, 2018
+Respectfully returned to Ms. Charito l{. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the herein Ordinance No. (H12-18 SERIES of 201g, with tegal
+Opinion llo. 128 SERIES of 2o18, duly signed and approved, for your appropriate
+action.
+For the City Mayor:
+ATTY.
+DOMINGO
+nistrator
+(Administration)
+ffiELEASED
+CME - CRD
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.conn prw'@
+s)
+LIFE
+IS HERE
+Ll
+OFFICE OF THE CTTYMAYOR
+
+sa6i6r,'o
+SARA Z. DUTERTE
+City Mayor
+Madam
+March 9, 2018
+GA{.
+.ne
+- ll<b
+t8- oo4+t tq
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01936-18 and Ordinance No. O4L2-L8, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+For and in the absence of the Secretary:
+->ttmnq,
+NILDA C. MAGNO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+cMo - cRD 8u.l
+ECEIVED
+ilAR I
+,.'.JO tr'^'ItYt
+I I 2018
+\.t
+ncm/psm
+lvl
+
+OFFIGE OF THE GITY LEGAL OFFICER
+Tel no. 227-5793 * 225-0183
+Trunk Line No. 241-1000 Loc267
+-o0oRef. No. 1131-18-0044
+LEGAL oPrNroN No. lll
+SERIES OF
+OFFI"]E OF
+RECEIVED BY
+1St INDORSEMET{T
+March 13, 2018
+DATE:
+TIME:
+Respectfully forwarded to the Office of the City Mayor, through the ffice of the
+City Administrator, both this City, the attached Ordinance llo. 0412-1& SERIES of
+2018 entitled %N ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFIC THE STREET INFRONT OF PEOPLE'S PARK (ASSEMBLY AREA), PALMA GIL
+sTREEr, pELAyo srREEr, BoNIFACIO STREET, AND RIZAL PARK ON MARCH L4,2018,
+FROM 6:00 A.M. UNTIL 8:00 A.M. IN CELEBRATION OF THE "ARAW NG MGA
+EMPLEYADO" ", informing your end that the same is free from legal infirmity, citing RA
+7t60, othenruise known as the Local Government Code of 1991, to quote:
+"SECTION 21. Closure and Opening of Rmds. - (a) A local govemment
+unit may, purcuant to an ordinance, permanendy or tempraily clos or oryn any
+toat roa4 alley, parlC or quare hlling within iB iuididbn: Pruvided, however,
+That in ax of permanent cluurg suctr ordinance must be approvd by at least
+two-thirds (43) of all the members of the nngguniaq and when nffffiry, an
+adquate substitute for the public hcility that is subl'xt to closure is providd.
+(c) Any national or lual road, alley, Fr* or quare may be temponily
+4od duing an actual emergency, or fisb celebntions, public nllia, agriculturul
+or industial hiO or an underbking of pubh:c wotlcs and highwap,
+telxommunications, and watetworlcs projaB, the dunfr'on of vvhich shall be
+sp*ifid by the toat chief o($ufr've concemed in a witten order: Providd,
+however, That no national or lml rmd, alley, prlg or quare shall be temponrily
+clod for athtetic, cutturat, or civic activitis not officially sponntd, rxognized,
+or approvd by the loal govemment unit concemd".
+IN VIEW THEREOF, it is recommended that the Ordinance be approved.
+a
+Approved by:
+ATTY. OSMU
+P. VrLlAilURlA" JR.
+OIC, Acting City Legal fficer
+Date approved:
+oFFroE oF 3ffi rtl?il,J, HS"x:
+.:ICE OF THE CITY AOITIIITISTRATf
+CITY HATL -.FFICb
+DAVAO CIl \
+ttctrVED BY
+3A-F.
+-*ri|E _
+RECEIVED BY
+DATE:
+TIME:
+CIVIO - CRD db.t
+RECEIVED
+fri\
+nw- obgll_
+?h-gA:le
+
+Republic i_rf fte,Philippire
+Gty of [byao
+Offie of Ure SANGGUNIANG Panlungsod
+Councilor
+Councilor
+Councilor
+18u' City Council
+th Regular Session
+SERIES of 2018
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Victorio U. Advincula Jr.
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Jimmy G. Dureza
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Leah A. Librado-yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Avegayle Dalodo Ortiz
+J. Melchor B. Quitain Jr.
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Joanne M. Bonguyan-euilos
+Bonifacio E. Militar
+Marissa P. Salvador - Abella
+Temporary presiding fficer
+ABSENT:
+ABSENT :
+Councilor April Marie C. Dayap
+Councilor Antoinette G. principe-Castrodes
+Attended the Intemational Women,s
+Day Conference in Washington D.C.,
+USA
+Attended the 5Bs Founding
+Anniversary and 28h Araw ng Brgy.
+Lamanan
+On Maternity Leave
+On Vacation Leave
+On Sick Leave
+oRDrl{AilCE I{O. 0412-18
+SERIES of 2018
+AT{ ORDIilA]ICE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFIC THE STREET INFRONT OF PEOPLE'S PARK (ASSEMBIV ANEI;,
+PATMA GIt STREET, PELAYO STREET, BONIFACIO STREET, aOLrOn
+STREET, AND RrzAL PARK oN MARCH t4t 2018 FROM 6:oo a.u. uuttt
+8:OO A.M. IN CEI."EBRATION OF THE *ARAiTV UE MGA EMPLEYADO'
+
+Ord. No. 0412-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that;
+SECTION 1. IfItE - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC T}IE STREET I]TFRONT OF
+pEoPtE's PARK (ASSEMBIY AREA), PALMA Grt STR"EET, PELAYO STREET,
+BONTFACTO STREET, BOLTON STREET, AND RrZAL PARK ON MARCH t+ 2018
+FROM 6:fi1 A.M. UNTIL 8:0O A.M. IN CELEBRATION OF THE 'ARAW NG MGA
+EMPLETADO';
+SECTION 2.
+- SECTION 21(c) of Republic Act No.
+7L60, otherwise known as the Local Government Code of 1991 provides that "any
+national or local road, alley, parlq or square may be temporarily closed during an
+actual emergency, or fiesta celebraUon, public rallies and agricultural or industrial
+fai(;
+SECTION 3. TEMFORARY CLOSURE - The street infront of People's Park
+(assembly area), Palma Gil Street, Pelayo Street, Bonifacio Street, Bolton Street, and
+Rizal Park will be temporary closed on March 14, 2018 from 6:00 a.m. until 8:00 a.m.
+in celebration of the 'Araw ng Mga Empleyado';
+SECTION 4,
+- If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provision hereof not affected by such declaration shal! continue to be in full force and
+effect;
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, March 06, 2018, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+"For and in the absence of the Secretary"
+1lb,liA,o4fl
+NILDA C. NflIGNO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungso1|L
+ATTESTED :
+VICTO
+City
+Temporary
+LA JR.
+Officer
+
+,
+Ord. No. 0412-18
+APPROVED :
+1 5 itA,R 2018
+2018
+a
+z.
+City
+ATTESTED :
+ATTAIZUTEIKA T. LAFEZ
+City Administrator,
+/jmgb'18
+/
+rryt

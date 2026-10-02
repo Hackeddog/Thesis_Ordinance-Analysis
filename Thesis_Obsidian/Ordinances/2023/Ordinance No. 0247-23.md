@@ -1,0 +1,200 @@
+---
+ordinance_number: "0247-23"
+title: "AN ORDINANCE GRANTING LEGISIATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAvAo, THE MEMORANDUM oF UNDERSTANDING (MOU) To BE ENTERED INTO BY AND BETWEEN POLICE REGIONAL OFFICE 11 (PRo 11) AND THE crw oF DAVAO, RELATIVE To THE PRo 11 RT- PCR MOLECU LAR LABORATORY"
+date_enacted: "2023-07-04"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0247-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legisiative, topic/authority, topic/mayor, topic/sign, topic/behalf]
+---
+
+# Ordinance No. 0247-23
+
+> AN ORDINANCE GRANTING LEGISIATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAvAo, THE MEMORANDUM oF UNDERSTANDING (MOU) To BE ENTERED INTO BY AND BETWEEN POLICE REGIONAL OFFICE 11 (PRo 11) AND THE crw oF DAVAO, RELATIVE To THE PRo 11 RT- PCR MOLECU LAR LABORATORY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+'
+nepublic of tn. bf,inppines
+Offrce of the SANGGUNIANG Panlungsod
+20th
+Council
+25h Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- presiding Officer
+Marissa S. Abella
+Nib M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J, Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P.Zozobrado III
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+- On Vacation Leave
+ABSENT:
+Councilor
+Councilor
+ORDINANCE NO. 0247.23
+SERIES ot 2O23
+AN ORDINANCE GRANTING LEGISIATIVE AUTHORITY TO THE
+CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAvAo, THE MEMORANDUM oF UNDERSTANDING (MOU) To BE
+ENTERED INTO BY AND BETWEEN POLICE REGIONAL OFFICE 11
+(PRo 11) AND THE crw oF DAVAO, RELATIVE To THE PRo 11
+RT- PCR MOLECU LAR LABORATORY
+
+Ord. No.0247-23
+that:
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE GRANTING
+LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF
+OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO
+BE ENTERED rNTO BY AND BETWEEN POLTCE REGTONAL OFFTCE 11 (pRO 11)
+AND THE CITY OF DAVAO, RELATM TO THE pRO 11 RT-PCR MOLECULAR
+LABORATORY".
+SECTION 2. DECLARATION OF POLICY-
+(1) SECTION 455 (b) (1) (vi) of Republic Act No. 7L60 or the Local Government Code
+of 1991 states that:
+"SECTION 455. Chief Executive; Powers, Duties and Compensation
+)oc(
+(b) For efficient, effective and economica! governance the purpose of which is the
+general welfare of the city and its inhabitants pursuant to SECTION 16 of this code,
+the city mayor shall:
+(1) Exercise general superuision and control over all programs, projects, seruices,
+and activities of the city government and in this connection, shall:
+(vi) Represent the city in all its business transactions and signs in its behalf all
+bonds, contracts, and obligations, and such other documents upon authority of the
+SANGGUNIANG panlungsod or pursuant to law or ordinance."
+(2) SECION 22 (a) (5) of Republic Act 7160 provides that every local government
+unit, as a corporation, shall have the power to enter into contracts; and
+(3) SECilON 35 of Republic Act 7t60 authorizes the local government units to enter
+into joint ventures and such other cooperative arrangement with people and nongovernment organizations to engage in the delivery of ceftain basic seruices, capacity
+building and livelihood projects, and to develop local enterprises designed to improve
+productivity and income, diversity, agriculture, spur rural industrialization, promote
+ecological balance and enhance the economic and social well-being of the people.
+SECTION 3. AUTHORIW- The City Mayor is hereby granted legislative authority
+to sign, for and in behalf of the City of Davao, the Memorandum of Understanding (MOU)
+to be entered into by and between Police Regional Office 11 (PRO 11) and the City of
+Davao, relative to the PRO 11 RT-PCR Molecular Laboratory.
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions
+hereof not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+)ofi
+)0c(
+)oc(
+rcfi
+)oo(
+
+i.,
+ord. No, 0247-23
+ENACTED, on the 4th day of July 2023, by a unanimous vote of all the Members of
+the Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+J. ME
+.'#ruruu
+City Mayot v
+,r/
+,rr#u. eurrArN rR.
+/ice Mayor
+Pr6siding Officer
+cns/josh
+Secretary to the Sa
+ang Panlungsod
+(City Government Department Head tl)ft
+APPROVED
+AUG 2 9 2r,2I
+2023
+Z. DUTERTE
+s
+ATTESTED:
+ATTY. F
+H. LAYOG
+ministrator
+AN ORDINANCE GRANTING LEGISLANVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO BE
+ENTERED INTO BY AND BETWEEN POLICE REGIONAL OFFICE 11 (pRO 11) AND THE CITY OF
+DAVAO, REI.ATIVE TO THE PRO 11 RT-PCR MOLECUI-AR I.ABORATORY

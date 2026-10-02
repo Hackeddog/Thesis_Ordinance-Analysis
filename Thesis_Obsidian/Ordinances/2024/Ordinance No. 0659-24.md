@@ -1,0 +1,185 @@
+---
+ordinance_number: "0659-24"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CrTy OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) BY AND BETWEEN THE CITY OF DAVAO AilD ATENEO DE DAVAO ur{IvERsrTy-ARRUPE OFFTCE OF SOCTAL FORMATTON (ADDU- AOSF) RELATM TO THE tATTER',S IilTENT TO ESTABLTSH A COMMUNITY EilGAGEMENT THROUGH A PARTNERSHIP WITH THE FORMER"
+date_enacted: "2024-11-05"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0659-24 MOA AdDU-AOSF (1).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/enter, topic/sign]
+---
+
+# Ordinance No. 0659-24
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CrTy OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) BY AND BETWEEN THE CITY OF DAVAO AilD ATENEO DE DAVAO ur{IvERsrTy-ARRUPE OFFTCE OF SOCTAL FORMATTON (ADDU- AOSF) RELATM TO THE tATTER',S IilTENT TO ESTABLTSH A COMMUNITY EilGAGEMENT THROUGH A PARTNERSHIP WITH THE FORMER
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+208 City Council
+41* Regular Session
+SERIES of 2024
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor J. Melchor B. Quitain Jr.
+Councilor Bernard E. Al-ag
+Councilor Jessica M. Bonguyan
+Councilor Augusto Javier G. Campos III
+Councilor January N. Dutefte
+Councilor Kristine May John AMul Mercado
+Councilor Myrna G. L'Dalodo-Oftiz
+Alberto T. Ungab
+- Temporary Presiding fficer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+OB-Acting City Mayor
+On Maternity Leave
+- On Vacation Leave
+- On fficial Business
+- On Sick Leave
+ORDINANCE ilO. 0659-24
+SERIES of 2024
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE
+CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CrTy OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA)
+BY AND BETWEEN THE CITY OF DAVAO AilD ATENEO DE DAVAO
+ur{IvERsrTy-ARRUPE OFFTCE OF SOCTAL FORMATTON (ADDUAOSF) RELATM TO THE tATTER',S IilTENT TO ESTABLTSH A
+COMMUNITY EilGAGEMENT THROUGH A PARTNERSHIP WITH
+THE FORMER
+
+Ord. No. 0659-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTIOI{ 1. IIIE - This Ordinance shall be known as 'AN ORDII{AI{CE
+GRANTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO ENTER IilTO A]TD
+SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+AGREEMENT (MOA) BY AND BETWEEN THE Crry OF DAVAO AND ATEI{EO DE
+DAVAO UNTVERSFV-ARRUPE OFFTCE OF SOCTAL FORMATTON (ADDU-AOSF)
+REIATIVE TO THE LATTER'S INTENT TO ESTABLISH A COMMUilITY
+ENGAGEMET{T THROUGH A PARTNERSHIP WITH THE FORMER".
+SECTIOil 2. nECLARATION OF POLICY- SECTION 455 (a) (b) (1) (vi) of the Local
+Government Code of 1991, provides that:
+'SECTION 455. Chief Executive; Powers, Duties and Compensation -
+(a) The City Mayor, as chief executive of the city government shall
+exercise such powers and peform such duties and functions as
+provided by this Code and other laws.
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and contro! over all programs,
+pCIects, services, and activities of the city government and in
+this connection, shall:
+(vi) Represent the city in all its business transactions and sign in its
+behalf al! bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORIW - The City Mayor is hereby granted legislative authority
+to sign, for and in behalf of the City of Davao, the Memorandum of Agreement (MOA) by
+and between the City of Davao and Ateneo de Davao University-ARRUPE Office of Social
+Formation (ADDU-AOSF), relative to the latter's intent to establish a community
+engagement through a paftnership with the former.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, November 5, 2024, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+
+oid. trto. o6s9-24
+CERTIFIED CORRECT:
+^ A4r^ \.'1,",r
+CHARITO N. SANTOS
+City Government Departnent Head II
+(Secretary to the SANGGUNIANG Panlungroe
+ATTESTED:
+Vice Mayor
+Temporary Presiding Officer
+cns/raine
+APPROVED:
+Nov 2 I 2024
+2024
+Z. DUTERTE
+T
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDINANCE GRANNNG LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHAtf OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) BY AND BETWEEN THE CITY OF DAVAO
+AND ATENEO DE DAVAO UNMRSTry-ARRUPE OFFTCE OF SOCIAL FORMATION (ADDU-AOSF) RE|-ATTVE TO THE
+I.ATTERS INTENT TO ESTABUSH A COMMUNITY ENGAGEMENT THROUGH A PARTNERSHIP WfiTI THE FORMER
+City

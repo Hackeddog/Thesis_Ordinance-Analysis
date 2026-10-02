@@ -1,0 +1,303 @@
+---
+ordinance_number: "0707-19"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG PETRON Sf,ATION AND ]UNCTION OF CAI.ACHUCHI STREET AND ACACIA STREET AT JUNA SUBDIVISION, BARANGAY 76.A, THIS Cffi, FROM 7:OO P.M. ON FEBRUARY 27,2AL9, UP TO 6:00 A.M. ON FEBRUARY 28, 2019, AND FROM 7:OO P.M. UP TO 12 MIDNIGHT ON MARCH 6, 2019, FOR H(CAVATION WORI(S AND INSTAUANON OF BOX CULVERTS ON THAT PARTICUI-AR AREA\", Witfi thE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0707-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/along, topic/petron]
+---
+
+# Ordinance No. 0707-19
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG PETRON Sf,ATION AND ]UNCTION OF CAI.ACHUCHI STREET AND ACACIA STREET AT JUNA SUBDIVISION, BARANGAY 76.A, THIS Cffi, FROM 7:OO P.M. ON FEBRUARY 27,2AL9, UP TO 6:00 A.M. ON FEBRUARY 28, 2019, AND FROM 7:OO P.M. UP TO 12 MIDNIGHT ON MARCH 6, 2019, FOR H(CAVATION WORI(S AND INSTAUANON OF BOX CULVERTS ON THAT PARTICUI-AR AREA", Witfi thE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+iiH$)#
+t l,.l',
+tt'
+Republic of the Philippine's
+,OFFICE OF THE CITY I\{AYOR
+P.ef. No. CrdG201+00880
+2Nd INDORSEMENT
+March Ll,Z:OLg
+Respectfully retumed to Hs. Charito J{. Santos, Secretary to the SANGGUNIANG
+panlungsod, this City, the within Legal Opinion No. 167, SERIES of 2019 dated March 4,
+2019 oi tne City Legal ffice, relative to the attached Ordinance No. 0707-19, SERIES of
+zOLg, entitled "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFIC ALONG PETRON Sf,ATION AND ]UNCTION OF CAI.ACHUCHI STREET AND
+ACACIA STREET AT JUNA SUBDIVISION, BARANGAY 76.A, THIS Cffi, FROM 7:OO
+P.M. ON FEBRUARY 27,2AL9, UP TO 6:00 A.M. ON FEBRUARY 28, 2019, AND FROM
+7:OO P.M. UP TO 12 MIDNIGHT ON MARCH 6, 2019, FOR H(CAVATION WORI(S AND
+INSTAUANON OF BOX CULVERTS ON THAT PARTICUI-AR AREA", Witfi thE iNfgTMAtiON
+that no executive action is needed on the matter since the activity has already lapsed,
+thereby rendering the ordinance moot, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+,l
+REI-EASED
+{
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City-
+(0S2) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.cofi
+w-blEffi*@
+LIFE IS HERE
+cMo " gRI)
+
+t
+OFFICE OF THE CITY LEGAT
+Iel. No. 298-6970
+Trunk Line No. 241-1000 Loc
+Ref. No. CLO-2019-000413
+LEGAL OPINION NO. [b1
+SERIES OF 2019
+l't INDORSEMENT
+March 4,20L9
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0707-19,
+SET|ES Of 2019 CNtitICd 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG PETRON STANON AND JUNCNON OF
+CALACHUCHI STREET AND ACACIA STREET AT JUNA SUBDIVISION, BARANGAY
+76-A, THIS CITY, FROM 7:00 P.M. oN FEBRUARY 27, zoLg, up ro 6:00 A.M. oN
+FEBRUARY 28,20t9, AND FROM 7:00 P.M. uP To 12 MIDNIGHT oN MARCH 6,
+20L9, FOR EXCAVATION WORKS AND INSTALI.ATION OF BOX CULVERTS ON
+THAT PARTICUI-AR AREA', informing your end that no executive action is
+needed on the matter, it appearing that the activity had been done, thereby
+rendering the measure moot.
+ATTY.
+A. GALLO, RSW
+Acting Asst. City Legal Officer
+Approved by:
+ATTY. OSMU
+P. VILLANUEVA, JR.
+OIC, Acting City Legal Officer
+Date approved: March 4,20L9
+or[07 0 7 - 1 9 _c fos ure_6 o4 c utwrts_moot_2O I 9 -0004 1 3_3-4 - 1 g
+@dce
+CFFICE
+RECEI
+DATE:
+TIME:
+G
+OI
+'"'M,AR
+g
+OT
+at
+o
+0Ffi0[ 0rTtr GlrY
+GSIY *riJ,
+BY5ff
+nEGEl{lo Bt
+MARYANN O.
+l^:'tu)
+MAR 05
+1,.$E MAR
+trs4 -1<
+
+Februxf 27,20L9
+67,t9
+SARA I. DUTERIE
+City Mayor
+City of Dam
+GA
+Hdan:
+t
+-ak-n%cl) P."u6
+Hrrcuart to Sut SECTION 3, hragraph C, SecEon 469, .a;g4e One, TiUe Fue,
+Chager e Book III ard SECTION 54 of Book I Reprblic Act No. 7160, oftenrvise known
+x tte Lmal ftvemment Code of lEll,liue #e furnishing lCIu a copl of Resdution No,
+0311F19, and Ordinance tS. O7O7-19, ssies of 2019 of the Smgguniang
+tranlungsnd, this City, fur your information, guidance ad +propriaE action.
+Very Ruly !EUH,
+O
+eM"l:
+Secr&ry to the
+FanlurUsod
+(City Governnent kpatnent Head tr)
+{
+CORRESPONDENCE &
+R EC E
+MORY ANN
+L
+q"
+R
+V
+I
+FEB 28 20lg
+t
+,1t
+*
+
+18th City Council
+8B' Regular Session
+SERIES of 2019
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. BonguYan
+Pilar C. Braga
+Edgar P. Ibuyan Jr.
+Leah A. Librado-YaP
+Rene Elias C. Lopez
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera Jr.
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar R. Ibuyan Sr.
+Diosdado Angelo A. MahiPus
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+- Presiding Officer
+- On Official Business
+- On Domestic Emergency Leave
+- On Domestic EmergencY Leave
+- On Domestic Emergency Leave
+- On Domestic EmergencY Leave
+- On Official Business
+- On Official Business
+- On Domestic Emergency Leave
+- OB-Attended the Liga ng mga
+Barangay National Meeting
+- On Domestic Emergency Leave
+- On Sick Leave
+- On Domestic Emergency Leave
+ORDINANCE NO. O7O7-L9
+SERIES of 2019
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG PETRON STATION AND
+JUNCTION OF CAIACHUCHI STREET AND ACACIA STREET
+AT JUNA SUBDTVISTON, BARANGAY 76'N THrS CITY,
+FROM 7:00 P.M. ON FEBRUARY 27,2Ot9, UP TO 6:00 A.M.
+ON FEBRUARY 2q 2OL9, AND FROM 7:00 P.M. UP TO 12
+MIDNTGHT ON MARCH 6,2OL9, FOR EXCAVATION WORKS
+AND INSTALLATION OF BOX CULVERTS ON THAT
+PARTICULAR AREA
+t
+
+Ord. No. 0707-L9
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shalt be known as "AN ORDINANCE FOR THE
+TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG PETRON STATION AND
+JUNCTION OF CALACHUCHI STREET AND ACACIA STREET AT JUNA
+sUBDIvIsIoN, BARANG AY 76-N THIS clw, FROM Ttoo P.M. oN FEBRUARy 27,
+2ol9t UP To 6:00 A.M. oN FEBRUARY 28, 2o1:g, AND FROM Tzoo p.M. Up To 12
+MIDNIGHT ON MARCH 6, 2OL9, FOR EXCAVATION WORKS AND INSTALLATION
+OF BOX CULVERTS ON THAT PARTICULAR AREA'.
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Republic Act No.
+7L60, otherwise known as the Local Government code of 1991, provides:
+" Any national or local road, alley, park or square may be temporarily
+closed during an actual emergency, or fiesta celebrations,' public
+rallies, agricultural or industrial fairs or an undeftaking of public works
+and highways, telecommunications and waterworks projects...,,;
+SECTION 3. TEMPORARY CLOSURE - The road along Petron Station and Junction
+of Calachuchi Street and Acacia Street, Juna Subdivision, Barangay 76-A, will be temporarily
+closed to vehicular traffic from 7:00 P.M on February 27, zOLg up to 6:00 A.M. on February
+28,2019, and from 7:00 P.M. up to 12 Midnight on March 6,zOLg for excavation works and
+installation of box culvefts on that particular area as contained in the letter of Engr. Nelven
+O. Gonzalgo, Project Engineer, AKN Construction.
+SECTION 4. SEPARABILITY CLAUSE- If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 26th day of February, 20L9, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+*$M), #o,
+Secretary to the Sanggudiang panlungsod
+(City Government Department Head II),
+E.
+Vice
+Presiding Officer
+cns/kjtq
+ATTESTED:
+
+L
+.
+Ord. No. 0707-19
+APPROVED
+2019
+SARA Z. DUTERTE
+City Mayor
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator

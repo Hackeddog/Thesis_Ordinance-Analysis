@@ -1,0 +1,400 @@
+---
+ordinance_number: "0279-17"
+title: "AN ORDINANCE GRANTING AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO, REPUBLIC OF THE PHILIPPINES, AND THE CITY GOVERNMENT OF KITAKYUSHU, FUKUOKA PREFECTURE OF JAPAN CONCERNING GREEN SISTER CITY COOPERATION"
+date_enacted: null
+approval_date: "2017-09-29"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0279-17.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/granting, topic/authority, topic/mayor, topic/sign, topic/behalf, topic/government]
+---
+
+# Ordinance No. 0279-17
+
+> AN ORDINANCE GRANTING AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO, REPUBLIC OF THE PHILIPPINES, AND THE CITY GOVERNMENT OF KITAKYUSHU, FUKUOKA PREFECTURE OF JAPAN CONCERNING GREEN SISTER CITY COOPERATION
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 14,613 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2017\Ordinance No. 0279-17.txt`*
+
+R.epuhlic of the Philippines
+OFFICE OF THE CITY LEGAL OFFICEtft.
+Ref. No
+LEGAL OPINION NO, qb SERIES OF ?-017
+zND TT,{nORSEMEIUT
+2-3 Auqust 2OL7
+Respec[firlly forwarded to N-EMUE[. G. ORTONIO, Officer-in-Charge,
+Davao City Investment Prqmotion Center, Office of the City Mayor, both this City,
+the herein request for legal opinion on the Memorandum of Understanding
+between the City Government of Davao and the City Governrnent of l(itakyushu,
+Fulcuol<a Prefecture of Japan C'MOU") I'or the establishment of the Green Sister
+City Cooperation with the infonnation that other than the need to specifli the
+pafties to the MOU, the same is without any legal infirmity.
+Subject to the availability of resources of the City Government of Davao, it
+is recommended that the proposed MOtl be forwarded to the City Council for the
+requisite legislative authority and everrtually to the City Mayor for her signature.
+R.ESPECTF[J LI-Y SU BM IT['ED.
+ATTY" ]A
+N
+l-fi
+SPAR,CXA
+Approved by:
+,.0\TTY" 05MUN
+. VTLLANI.|EVA, Jtt],
+rn
+Assistant City Legal Officer, Officer-In-Charge
+Date approved: 23 August ZAIT
+-
+DClr, c
+ffiHffiffi
+ffi,
+r)/)TE:
+-2q-
+0:
+n' tfWr;/
+,,r
+
+.
+Repubtic of the philippines
+oFFrcE oF rH:%I#"i13-ir oFFrcER
+Tet. No. ZZ7-5793 * 225-0183
+Trunk Line No. 241-1000 Lcr., 267
+o0o
+LEGAL OPINION NO. 515
+SERIES OF 20
+Respectfully fonnrarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0279-17
+SCTICS Of 2OL7 CNtitICd "AN ORDINANCE GRANTING AUTHORITY TO THE CITY
+MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+THE MEMORANDUM OF UNDERSTANDING (MOU) TO BE ENTERED INTO BY AND
+BETWEEN THE CTTY GOVERNMENT OF DAVAO, REPUBLIC OF THE PHILIPPINES,
+AND THE CITY GOVERNMENT OF KTTAKYUSHU, FUKUOKA PREFECTURE OF
+JAPAN CONCERNING GREEN SISTER CITY coopERATIoN" informing your end
+that this office finds the same free from legal infirmity..
+VIEWED from the foregoing, it is recommended that the Ordinance be
+approved and the Memorandum of understanding (Mou) be executed.
+Ref. No. LL3L-L7
+T\s-:-.^.g
+O-.Q. N",
+1ST INDoRSEMENT
+September 29,2017
+CIvIO " C$tE
+ffiHflm,.fi"v"#m
+_prrqlm
+A. GALIO, RSW
+-f;r*L
+fi1
+o c
+ileL,llF.fr::i: r,i. .,iril.rif$gTRAtOF
+ATTY.
+1V
+Officer In-Charge
+fl..olr<.p-1 .l$
+&.s. po . O tl ls- t:}
+-S
+{
+OEficE 0Ei,l[ ctft &DM|N|SIRAT0R
+Cirr- itp.Ll Oi:iiCE
+a
+c
+',1
+tEGh,lVi;il iil:': -.--
+)r.'F. -".-.--
+lmr.--._..
+oI-11_ t=
+rrq4
+I]AVAO CII/
+cb
+O.q.
+-+t<
+4a.+.
+RIICi:IVED Bv:
+DAI"EI
+TIME;
+/-t,i,'i,r,,t
+a
+1+Otf i2 uri\C^ tov o$G'a,.- .( +^,
+4\ Ape--r*is\-*fs,- . r,/e,r/,a
+U.lr,r'.
+t r L- 2l - l'l.t
+{ft,
+t".^4ol"C-^^-.-r-F -t. .{
+
+D.L.l.P.(
+DNVAo CITY INIVIiS'I MF.Nl'
+PROI\IOTION CENTER
+l't Indorsement
+15 August 2017
+i.
+ffi
+ft
+LIFE IS HERE
+lN!1/E!i:r'!ht
+mA/mqe
+Respectfully forwarded to Atty. Osmundo P. Villanueva, Jr,, Office-incharge, City Legal Office, this City, the herein attached draft MOU on the establishment
+of a Green Sister City Cooperation between Kitakyushu, Japan and Davao City, for your
+information, review and appropriate'action. Please be informed that this is urgent, as
+Mayor Sara Duterte wants to have the document signed during her official visit to Japan
+on October 9, 2017 .
+LEMU
+G.
+RTONIO
+cerrge
+"l,lh' lo;rtl in l)t't,tnotittF I.)trvit<t City"
+l)rror'/ i\,laus;rysi.rt'i'irrk t.ortr;rk:.r. ll I\'l;rg,str.ysay Avc.. l.)erv;:to (.ity. [i()00 I)lrilill;lirrels
+lclr..;rlrtrrrr: No. (r ti:\112l, /:.'1.i-).tl(i0. ( r (ilill?) '221 -Ztl70,li.:le:lirx: (+ (i.ltt;l) 2.27-'1.880
+lirrr;ril: tlt i;.lr'(6)tl;tvitoril\,.gov,;tlr - Welrsilr': 1471v1v.11;lvnrrq'it1,.p,rtv.;.rh
+\1rl
+'fir;',:.
+
+City of Davao 1s
+September 27,20L7
+\
+n 0,[wi ),,
+CHARITO N,'
+Secretary to the
+ang Panlungsod
+(City Government Department Head II)
+i];
+SARA Z. DUTERTE
+City Mayor
+t'
+Ffth-or?
+PJqD
+Madam:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, othenruise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01235-17 and Ordinance No. O279'L7, both SERIES of 2017 of the
+SANGGUNIANG Panlungsod, with Six (6) sets of copies of the Memorandum of
+Understanding (MOU) to be entered into by and between the City Government of
+Davao, Republic of the Philippines, and the City Government of Kitakyushu, Fukuoka
+Prefecture of Japan concerning Green Sister City Cooperation, for your information,
+guidance and appropriate action.
+Very truly yours,
+mffiffiffi*B'V"ffim
+CMO " CBP
+,{jor m
+cns/nta
+q/p+- ilr-(
+i,
+(J
+*
+
+Republic of tfre Philippine
+Cty of Davao
+Otrice of the SANGGUNIANG Panlungsod
+I
+l8th City Council
+34th Regular Session
+SERIES of 20L7
+PRESENT:
+Councilor J. Melchor B. Quitain Jr.
+Vice Mayor Paolo Z. Dutefte
+Councilor Maria Belen S. Acosta
+Councilor Victorio U. Advincula lr.
+Councilor Bernard E. Al-ag
+Councilor Al Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Joanne M. Bonguyan-Quilos
+Councilor Ma. Cherry Ann M. Bonguyan
+Councilor Pilar C. Braga
+Councilor Danilo C. Dayanghirang
+Councilor April Marie C. Dayap
+Councilor Jimmy G. Dureza
+Councilor January N. Duterte
+Councilor Edgar P. Ibuyan Jr.
+Councilor Leah A. Librado-Yap
+Councilor Rene Elias C. Lopez
+Councilor Diosdado Angelo A. Mahipus Sr.
+Councilor Bonifacio E. Militar
+Councilor Avegayle Dalodo Ortiz
+Councilor Marissa P. Salvador-Abella
+Councilor Halila Y. Sudagar
+Councilor Mary Joselle D. Villafuerte
+Councilor Jesus Joseph P. Zozobrado III
+ABSENT:
+- Temporary Presiding Officer
+On Sick Leave
+On Sick Leave
+Councilor
+Councilor
+Nilo M. Abellera lr.
+Antoinette G. Princi pe-Castrodes
+ORDINANCE NO. 0279 -T7
+SERIES of 2Ot7
+AN ORDINANCE GRANTING AUTHORITY TO THE CITY MAYOR
+TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO
+BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT
+OF DAVAO, REPUBLIC OF THE PHILIPPINES, AND THE CITY
+GOVERNMENT OF KITAKYUSHU, FUKUOKA PREFECTURE OF
+JAPAN CONCERNING GREEN SISTER CITY COOPERATION
+
+Ord. No. 0279 -17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING AUTHORIW TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF
+oF THE CrTY GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+UNDERSTANDING (MOU) TO BE ENTERED INTO BY AND BETWEEN THE CITY
+GOVERNMENT OF DAVAO, REPUBLIC OF THE PHILIPPINES, AND THE CITY
+GOVERNMENT OF KITAKYUSHU, FUKUOKA PREFECTURE OF JAPAN
+CONCERNING GREEN SISTER CITY COOPERATION"I
+SECTION 2. DECLARATION OF POUCY - SECTION 455, paragraph (b) (vi) of the
+Local Government Code provides, to wit:
+t'For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 16 of this Code, the City Mayor shall represent the city in
+all its business transactions and sign in its behalf all bonds, contracts
+and obligations, and such other documents upon authority of the
+SANGGUNIANG panlungsod or pursuant to law or ordinance";
+SECTION 3. MEMORANDUM OF UNDERSTANDING _ The Memorandum Of
+Understanding refers to the instruments to be executed by and between the City
+Government of Davao, Republic of the Philippines, and the City Government of Kitakyushu,
+Fukuoka Prefecture of Japan concerning Green Sister City Cooperation;
+SECTION 4. AUTHORIW - The City Mayor is hereby granted authority to sign, for
+and in behalf of the City Government of Davao, the Memorandum of Understanding for the
+establishment of a Green Sister City Cooperation with the City Government of Kitakyushu,
+Fukuoka Prefecture of Japan;
+SECTION 5. REPEALING CLAUSE - Any Ordinance, local issuances or rules
+inconsistent with the provisions of this Ordinance are hereby repealed or modified
+accordingly;
+SECTION 6. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof which are not affected by such declaration, shall continue to be in full
+force and effect;
+SECTION 7. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on September 12, 20t7, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERNFIED CORRECT:
+\
+^ il^,e) fl"r
+cHARrro N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depamint Head II)
+r
+I
+
+I
+Ord. No. 0279 -17
+MELCffi,QUITAIN JR.
+/ctW councilor
+ATTESTED:
+ATTESTED:
+J.
+Temporary Presiding Officer
+cns/jsdam
+tlcT 0 6 20r
+APPROVED:
+20L7
+z.
+* city Mayor S^
+ATTY. ZULEIKA
+City Administrator/
+
+MEMORANDUM OF UNDERSTANDING
+BETWEEN
+THE CITY GOVERNMENT OF DAVAO,
+AND
+THE CITY GOVERNMENT OF KITAKYUSHU,
+FUKUOKA PREFECTURE OF JAPAN
+CONC ERNI NG
+GREEN SISTER CITY COOPERATION
+The City Government of Davao, Republic of the Philippines and The City
+Government of Kitakyushu, Fukuoka Prefecture of Japan, (hereinafter referred to
+singularly as the "Party" and collectively as "the parties,,),
+Desiring to promote friendship and mutual understanding as well as beneficial
+between the people and the governmental institutions of the parties;
+Recognizing the importance of the principles of equality and mutual benefits;
+Recalling Strategic Environmental Partnership Agreemenr between City of Davao of
+the Republic of the Philippines and City of Kitakyushu of Japan signed in Davao on
+November 1Sth, 2016;
+Pursuant to the prevailing laws and regulations of the respective countries;
+Have reached an understanding as follows
+
+Article I
+Objective
+The objective of this Memorandum of Understanding (fVoU) is to establish Green
+Sister City Cooperation in order to promote and expand effective and mutually
+beneficial cooperation in the development of the two cities.
+Article 2
+Scope of Cooperation
+The parties shall undertake to implement this MoU in accordance with the laws and
+regulation of their respective countries in the environmental fields as follows:
+a. Low Carbon Society;
+b. Resource recycling,
+c. Capacity Building for the officials of each city;
+d. Other fields of cooperation as mutually agreed upon by the Parties in writing
+Article 3
+Tech n ica I Arra ngements
+To facilitate the implementation of this MoU, the Parties may conclude
+arangements within the terms of this tt/oU, which shall cover the fields as
+provided in Article 2 ;
+2. Such arrangements shall be in conformity with this lVoU, and shall describe
+program or project schedule, personnel involved, financial arrangements,
+responsibilities undertaken by the Parties and other necessary details;
+3. The Parties may invite the third party to take parl in implementation of the field
+as stated in article 2 as well as arrangement of the involvement of the third
+party in each program to create the mutually beneficial cooperation in both
+cities
+Article 4
+Fina ncial Arrangements
+The implementation of the actrvities under this MoU is subject to the availability
+of fund and personnel of the Parties.
+2. Unless otherwise agreed by the Parties, each Party shall bear its cost to
+implement this MoU.
+
+Article 5
+Joint Working GrouP
+1. The Parties may establish a Joint Working Group to plan, prepare and
+recommend program as well as monitor and evaluate the progress of
+cooperation under this MoU;
+2, The members of the Joint Working Group shall consist of representatives of the
+respective governments The Joint Working Group may invite the private sector
+to take part in its deliberation, if necessary and subject to mutual consent of the
+Parties;
+3. The Joint Working Group shall meet in Davao or in Kitakyushu as necessary
+Article 6
+lntellectual PropertY Rights
+1. Each Party shall protect intellectual property rights of other Party in accordance
+with the relevant domestic laws and regulations in force in their respective
+country;
+2. ln case of specific arrangements, program or project result in the intellectual
+property, such property shall be jointly owned, and the Parties shall conclude
+separate arrangement to govern such p

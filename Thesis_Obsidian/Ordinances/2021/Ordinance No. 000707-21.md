@@ -1,0 +1,238 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE GRANTTNG THE APPLTCATTON OF MR. ERIC D. DE LA COSTA, VICE PRESTDENT AND GENERAL MANAGE& ALSONS DEVELOPMENT AND INVESTMENT CoRPoRATION, FOR THE RECLASSTFICATION OF A pROpERTy CONSISTING oF A TOTAL AREA OF 119, 242 SQUARE METERS, COVERED By TCT NOS. T- 420499 AND T.375779, FROM MEDIUM DENSIW RESIDENTIAL ZONE TO CoMMERCIAL-2, LOCATED rN BARANGAY LASANG, BUNAWAN DISTRICT, THIS CITY\". SECT"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000707-21.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.1
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/granttng, topic/appltcatton, topic/eric, topic/costa, topic/vice, topic/prestdent]
+---
+
+# Ordinance No. 000707-21
+
+> AN ORDINANCE GRANTTNG THE APPLTCATTON OF MR. ERIC D. DE LA COSTA, VICE PRESTDENT AND GENERAL MANAGE& ALSONS DEVELOPMENT AND INVESTMENT CoRPoRATION, FOR THE RECLASSTFICATION OF A pROpERTy CONSISTING oF A TOTAL AREA OF 119, 242 SQUARE METERS, COVERED By TCT NOS. T- 420499 AND T.375779, FROM MEDIUM DENSIW RESIDENTIAL ZONE TO CoMMERCIAL-2, LOCATED rN BARANGAY LASANG, BUNAWAN DISTRICT, THIS CITY". SECT
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19t' City Council
+34th Regular Session
+SERIES of 202t
+PRESENT:
+Republic'of the Philippines
+Sebastian Z. Dutefte
+Richlyn N. Justol-Baguilod
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+- On Official Business
+- On Special Privilege Leave
+AN ORDTNANCE GRANTTNG THE APPLICATION OF MR. ERIC D.
+DE l.A COSTA, VICE PRESIDENT AND GENERAL MANAGE&
+ALSONS DEVELOPMENT AND INVESTMENT CORPORATION,
+FOR THE RECLASSIFICATION OF A PROPERW CONSISTING OF
+A TOTAL AREA OF 119, 242 SQUARE METERS, COVERED By TCT
+NOS. T-42O499 AND T-375779t FROM MEDTUM DENSITY
+RESTDENTTAL ZONE TO COMMERCTAL-2, LOCATED rN
+BARANGAY LASANG, BUNAWAN DISTRICT, THIS CITY
+ORDINANCE NO. O7O7.2I
+SERIES ol 2O2L
+
+Page'Z.cf 3'
+Ord. No. 0707-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTTNG THE APPLTCATTON OF MR. ERIC D. DE LA COSTA, VICE PRESTDENT
+AND GENERAL MANAGE& ALSONS DEVELOPMENT AND INVESTMENT
+CoRPoRATION, FOR THE RECLASSTFICATION OF A pROpERTy CONSISTING
+oF A TOTAL AREA OF 119, 242 SQUARE METERS, COVERED By TCT NOS. T420499 AND T.375779, FROM MEDIUM DENSIW RESIDENTIAL ZONE TO
+CoMMERCIAL-2, LOCATED rN BARANGAY LASANG, BUNAWAN DISTRICT,
+THIS CITY".
+SECTION 2. COMMON REGULATIONS FOR GENERAL ZONES - Article V of
+the Comprehensive Zoning Ordinance of Davao City provides Common Regulations for
+General Zones.
+"SECTION 1. *REVIEW OF GENERAL ZONES". General zones are subject
+to review by the Zoning Review Committee every flve (5) years from the
+enactment of this Ordinance. Any amendment thereof as recommended by
+committee shall be in accordance with the provision of Afticle XIV SECTION
+14,
+SECTION 2. "RECLASSIFICATION AND CHANGE OF
+ZONE
+REOUIREMENT". Reclassification from agricultural zone to nonagricultural use and any change from one general zone to another general
+zone must be approved by three-fourths (3/a) vote of all the members of
+the SANGGUNIANG Panlungsod through a resolution and an ordinance. Any
+change of general zone to another Zone shall be considered as amendment
+of the zoning ordinance and must comply with the provision of Article XIV,
+SECTION 14 hereof.
+ARTICLE XrV, SECTION L4. AMENDMENTS TO THE ZONING
+ORDINANCE. Changes in the Zoning Ordinance as a result of the review
+by the Local Zoning Review Committee shall be treated as amendment,
+provided that any amendment to the Zoning Ordinance or provision thereof
+shall be subject to public hearing and sectoral consultation to be conducted
+by the Local Zoning Review Committee and review evaluation of the said
+Local Zoning Review Committee and shall be carried out through a
+resolution/ordinance upon three fourth majority votes of all the members
+of the SANGGUNIANG Panlungsod."
+SECTION 3. COVERAGE - This Ordinance shall cover the grant of the application
+of Alsons Development and Investment Corporation, for the reclassification of a propety
+from Medium Density Residential Zone to Commercial-2 located in Barangay
+Lasang, Bunawan District, this City, with the following Transfer Ceftificate of Titles, fo
+wit:
+Transfer
+Ceftiflcate of Title
+Number
+Area
+Current Zone
+Classification
+Proposed Zonal
+Classification
+r-420499
+60,089 sqm
+22,019 sqm
+Medium
+Residential
+Socialized
+Zone
+Density
+Zone and
+Housing
+Medium Density
+Residential Zone and
+Major Commercial
+Zone
+Commercial-2
+
+Page'3 of 3
+Ord. No. 0707-2t
+T-375779
+37,134 sqm
+Medium
+Density
+Residential Zone
+Total
+Area
+719,242 sqm
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof which are not affected by such declaration shall continue to be in full
+force and effect.
+SECTION 4. EFFECTMTY - This Ordinance shall take effect upon approval.
+ENACTED, September 14,202t, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+EDGAR
+R.
+President Pro Tempore
+Temporary Presiding Officer
+cns/ray
+^ 0h*'
+CHARITO
+Secretary to the Sar
+(City Government Department Head {}t"
+rt\u/
+APPROVED
+Nov 0 2 2021
+z
+UTE
+\.W
+N. $ANTOS
+ngy'uniang Panlungsod
+Citv Mavor
+, ,f/
+202L
+cO
+ATTESTED:
+AN ORDINANCE GRANTING THE APPLICATION OF MR. ERIC D. DE LA COSTA, VICE PRESIDENT AND
+GENERAL MANAGER, ALSONS DEVELOPMENT AND INVESTMENT CORPORATIOI\, FOR THE
+RECI.ASSIFICATION OF A PROPERTY CCNSISII\G OF A TOTAL AREA OF 119, 242 SQUARE METERS,
+COVERED BY TCT NOS. T-420499 AND T-375779, FROM MEDIUM DENSITY RESIDENTIAL ZONE TO
+COMMERCIAL-z, LOCATED IN BARANGAY LASANG, BUNAWAN DISTRiCT, THIS CITY
+Commercial-2
+^ffiroPEz
+City Administrator,

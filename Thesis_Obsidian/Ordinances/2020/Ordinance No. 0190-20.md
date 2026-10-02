@@ -1,0 +1,318 @@
+---
+ordinance_number: "0190-20"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF GLOBE TELECOM INC., THROUGH BSPT CONSTRUCTTON coRpoRATroN, FoR ADDTTToNAL ALLOWABLE USE FOR THE coNsrRUcrIoN oF A 12.0-METER HrGH, BI-POD CELL SITE TOWER STTUATED AT PHASE 1, BONIFACTO STREET, BARANGAY 33-D, POBTACION DTSTRTCT, THrS CrTY /-c^lrn}.--J l I"
+date_enacted: "2020-03-03"
+approval_date: "2020-03-03"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0190-20.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/granting, topic/application, topic/globe, topic/telecom, topic/through, topic/bspt]
+---
+
+# Ordinance No. 0190-20
+
+> AN ORDINANCE GRANTING THE APPLICATION OF GLOBE TELECOM INC., THROUGH BSPT CONSTRUCTTON coRpoRATroN, FoR ADDTTToNAL ALLOWABLE USE FOR THE coNsrRUcrIoN oF A 12.0-METER HrGH, BI-POD CELL SITE TOWER STTUATED AT PHASE 1, BONIFACTO STREET, BARANGAY 33-D, POBTACION DTSTRTCT, THrS CrTY /-c^lrn}.--J l I
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OF THE CITY IVIAYOR
+Y,
+iE0
+i>
+s.
+C'Izt
+p\
+i)
+Ref. l.lo. C.&S302I)-00868
+2''d IilDORSEME]IT
+Mareh 20,2OZg
+-C[IYoF
+Respectfully returned to [rls. Charito l{. Santos, Secretary to the SANGGUNIANG
+Panlungrsod, this City, the within tegal Opinion t{o. 222, SERIES of 2020 dated March 3,
+2020 of the City Legal ffice, relative to the attachd Ordinance No. 0190-20, SERIES of
+202fi enb'Hed, %N ORDINAI,ICE GRAMENG THE APruCATION OF GLOBE TELECOM INC.,
+THROUGH BSPT CONSTRUCTION CORPORATION, FOR ADDMONAL ALLOWABLE USE
+FOR THE CONS'TRUCTION OFA lz.&METER HIGH, BI.POD Czu STTETCItrER SMJATEI)
+AT PHASE 1, BONIFACIO STREET, BARANGAY 33.D, POBIACION DISTRICT, THIS GW",
+for your information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+IDFO/Cp
+)
+4ob-01-)o?)
+ltr*E:
+6Y
+crfY MAVOi'S OfFtCt
+cofiREsPoilOgilcE At{D RECORDS DfV
+RELEASED
+MAR 2 0 2020
+EDITHA
+AIDE IV 3
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.coma Bffi@
+LIFE I8 HERE
+a
+
+OFFICE OF THE CITY LEGAL O
+Iel. No. 298-6970
+Trunk Line No. 241-1000 Lclc,26712251230
+Ref. No. CLO-2020-001093
+LEGAL OPINION 11s. ?))
+SERIES OF 2O2O
+ORDINANCE NO. 0190-20, SERIES of 2O2O entitled "AN
+ORDINANCE GRANTING THE APPLICATION OF GLOBE
+TELECOM INC., THROUGH BSPT CONSTRUCTION
+CORPORATION, FOR ADDITIONAL ALLOWABLE USE FOR
+THE CONSTRUCTION OF A 12.0-METER HIGH, BI-POD CELL
+SITE TOWER SITUATED AT PHASE 1, BONFACIO STREET,
+BARANGAY 33-D, POBLACION DISTRICT, THIS CITY"
+1ST INDORSEMENT
+March 3,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance, informing your
+end that this office finds the enactment of the ordinance free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved. -,-
+ArrY. ro*.rffioLLo, Rsw
+Acting Asst.Elty Legal Officer
+Approved by
+ATTY. OSMUN
+OIC-Acting City Legal Officer
+Date approved: March 3,2020
+o rt{o 1 90- 2 0_d [n,pa 6[c_q lt fu - 6o ni fa cut_ 2020-00 I 09 ] -.j -., - I 0
+tttftt
+P. VILLANUEVA, JR.
+\o
+C)
+\-d
+. , :,1 .
+'o"i'rri"
+"
+t
++. !- , n,4f''
+'.nr ?6-7D
+iQ:Parr
+e-o2P- @ebe
+1",[
+cMo coNTAcr l: 2/r1-U0
+0lvl5r0N
+ffi,
+R
+D
+R
+MARY
+rV
+08155299702
+qlD- t q -}Q
+
+ti6ib
+t(,
+zi
+p-'
+p ,tvc
+SARA Z. DUTERTE
+City Mayor
+Madam:
+February 27,2020
+0-7wo- l't
+ffi
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVED
+FEB 282020
+MARY AN N
+cMo
+241.10@
+*ru
+O
+i
+rn
+t
+6$
+,Zou-oo lnaf.?tla
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Afticle One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No,
+Og27-2O and Ordinance No. 0190-20, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+dikry?lnt #firo,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+t
+,,1
+b;a
+ALVARADO
+
+t
+'l
+r
+I
+19th City Council
+2d Regular Session
+SERIES of 2020
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Alberto T. Ungab
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. LDalodo-Ortiz
+Antoinette G. Principe-Castrodes
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+-Temporary Presiding fficer
+-On Official Business
+-On Domestic Emergency Leave
+-OB - Attended the Comparative
+Studies and Cultural Exchange
+Program in Bangko( Thailand
+-On Officia! Business
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Danilo C. Dayanghirang
+Councilor J. Melchor B. Quitain Jr.
+ORDINANCE NO. O19O-20
+SERIES of 2020
+AN ORDINANCE GRANTING THE APPLICATION OF GLOBE
+TELECOM INC., THROUGH BSPT CONSTRUCTTON
+coRpoRATroN, FoR ADDTTToNAL ALLOWABLE USE FOR THE
+coNsrRUcrIoN oF A 12.0-METER HrGH, BI-POD CELL SITE
+TOWER STTUATED AT PHASE 1, BONIFACTO STREET, BARANGAY
+33-D, POBTACION DTSTRTCT, THrS CrTY
+/-c^lrn}.--J
+l
+I
+
+Ord. No. 0190-20
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that:
+SECTION 1. IEIE - This ordinance shall be known as "AN ORDINANCE
+GRANTING THE APPLICATION OF GLOBE TELECOM INC., THROUGH BSPT
+coNsrRucrroN coRPoRATroN, FoR ADDTTToNAL ATLOWABLE USE FOR
+THE CONSTRUCTTON OF A 12.0-METER HIGH, Br-POD CELL SITE TOWER
+srruATED AT PHASE 1, BONTFACTO STREET, BARANGAY 33-D, POBtACTON
+DrsrRrcT, THIS CIW".
+SECTION 2.
+- Article XII, SECTION 1 of the
+Comprehensive Zoning Ordinance of Davao City (2013-2022) provides fur requests for
+additional allowable use, which reads:
+"The uses enumerated in the preceding afticles on general and all
+sub-zones are not exhaustive nor all-inclusive. The SANGGUNIANG
+Panlungsod, upon application of the project proponent and upon
+favorable recommendation by the Local Zoning Board of Adjustment
+and Appeals (IZBAA) may allow other uses not enumerated therein as
+it may deem fit and proper including, but not limited to, the following
+projects which are socio-economic and environmental significance
+and/or national interest by a 3/+ majority vote of all Members of the
+SANGGUNIANG Panlungsod through resolution and ordinance".
+SECTION 3. APPROVAL OF REOUEST - The request for Additional Allowable
+Use of Globe Telecom Inc., through BSPT Construction Corporation, for the construction
+of a 12.0-meter high, bi-pod cell site tower situated at Phase 1, Bonifrcio Street,
+Barangay 33-D, Poblacion District, this City, is hereby approved.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY CTAUSE - This Ordinance shal! take effect
+immediately upon approval.
+ENACTED, January t4, 2020, by three-fuurths (314) majority vote of all the
+Members of the Sanggunian, there being a quorum.
+CER'IfFIED CORRECT:
+For and in the absence of the Secretary;
+MA. THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Local Legislative Staff Officer IV)
+I
+
+. UNGAB
+Vice Mayor
+Temporary Presiding Officer
+mtar/johanna
+ATTY.
+T.
+.t
+i
+I
+Page S of E
+Ord. No. 0190-20
+ATTESTED:
+ATTESTED:
+APPROVED:
+Nrh\tcH ( ,7,o la
+05 IAR Nn
+2020
+City
+DUTERTE
+: City M^yy

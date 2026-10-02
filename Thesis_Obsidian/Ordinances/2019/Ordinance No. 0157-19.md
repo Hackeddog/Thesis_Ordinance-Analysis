@@ -1,0 +1,448 @@
+---
+ordinance_number: "0157-19"
+title: "AN ORDINANCE GRANTING LEGISI3TIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CTTY GOVERNMENT OF DAVAO AND THE PHIUPPINE MENTAL HEALTH ASSOCIANON - DAVAO CHAPTER, INVOLVING THE ESTABLISHMENT OF A ]OINT UNDERTAKING IN THE DELIVERY OF PROGRAMS AND SERVICES FOR W"
+date_enacted: null
+approval_date: "2020-02-06"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0157-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/legisi, topic/tive, topic/authority, topic/mayor, topic/enter]
+---
+
+# Ordinance No. 0157-19
+
+> AN ORDINANCE GRANTING LEGISI3TIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CTTY GOVERNMENT OF DAVAO AND THE PHIUPPINE MENTAL HEALTH ASSOCIANON - DAVAO CHAPTER, INVOLVING THE ESTABLISHMENT OF A ]OINT UNDERTAKING IN THE DELIVERY OF PROGRAMS AND SERVICES FOR W
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 16,555 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2019\Ordinance No. 0157-19 (1).txt`*
+
+iffi
+" 1 Republic of the Philippines
+OFFICE OF THE CITY MAYOR
+,
+.:z'
+i. E0[]
+ti,.
+"6,.ili;
+R€f. No. CAdG202G0O748
+EtI' ITIDORSEMENT
+February 28;,,2A24
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the herein EndorsementlRecommendation No. 030, SERIES of 202A
+dated February 26, 2020 of Atty. Arsenio E. Caballero Jr., Attorney III, City Legal Office,
+relative to the attached approved Ordinance No. 0157-19, SERIES of 2019 entitled, "AN
+ORDINANCE GRANTING LEGISI3TIVE AUTHORITY TO THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE
+RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND
+BETWEEN THE CTTY GOVERNMENT OF DAVAO AND THE PHIUPPINE MENTAL HEALTH
+ASSOCIANON - DAVAO CHAPTER, INVOLVING THE ESTABLISHMENT OF A ]OINT
+UNDERTAKING IN THE DELIVERY OF PROGRAMS AND SERVICES FOR WOMEN AND
+CHILDREN WITH PSYCHOLOGICAL PROBLEMS", duly signed and notarized, for your
+appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+DOMINGO
+Assistant
+lrrl C 2201A
+'fr
+IV
+AIDE
+LIFE IS HERE
+2ozt
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.com,r
+BSy @
+t-l
+Dtv
+RE
+
+D
+, )
+Republic of the Philippiries
+OFFICE OF THE CITY LEGAL
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc267*225*23A
+Ref. No.
+?,CDD
+Endorprygt/Recom mendation
+No. Uztz SERIES of 2020
+OFHCE 0F IHF *!TY f;n
+friTY li$i.i
+BAbf,G
+3d TNooRSEMEHT
+February 26,2OZA
+xww+4
+Respectfully returned to ATTY. TRrsrAH DWTGHT p. DoMrI{Go,
+Assistant City Administrator (Administration), thru the Office of the City Mayor,
+this City, the within Legal Opinion No.0132, SERIES of 2A2A, relative to'the duly
+$gned and approved ordinance No. 01s7-19, SERIES of 2019 entitled, ..AN
+ORDIHAT{CE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR
+TO EIITER At*D SIGf{, fiOR AilD rlrr BEHAIF OF TflE CrTy covERfiMEftT
+OF DAVAO, THE REilEI'IIAI OF THE MEMORAilDUM OF AGREEMENT TO
+BE ENTERED TNTO BY AND BETWEEN THE CITV G0VERNIIIENT oF
+DAVAO AIITD THE PHITIPPIT{E MET{TAL HEAITH ASSOCIATION.DAVAO
+CHAPTE& INVOLWNG THE ESTABTISHMENT OF A JOIilT UI{DERTAKING
+II{ THE DELWERY OF PROGRAMS AilD SERVICES FOR WOMEN AND
+CHIIDREN wrrH PsYcHotocrcAt pRoBLEMS'i with the herein
+Memorandum of Agreement duly signed by both parties, duly
+requested.
+1a
+GIJ
+JR.
+Approved by:
+ATTY, OSM
+P. VILLANUEVA, JR.
+Officer-In-Charge, City Legal Office
+MARY
+ffi
+R
+tv
+4t
+ct,lo
+I.
+.c
+i=
+Date approved:
+?4a-)l'1Q
+tl
+
+,,u
+o, u ,o Republii of'the'Philippines
+OFFICE OF THE CITY MAYOR
+q,
+U
+Ref. tio. CidO-2020-00511
+2ND INDORSEMENT ii
+February L8, ZlZU
+Respectfully returned to Atty, Osmundo P. Villanueva, Jr., Officer-In-Charge,
+City Legai Oiiice, this ei{, the within Legai Opinion irio. i.32, SERIES oi 2AZA February 4,
+2020 from the City Legal Office, relative to the attached duly signed and approved
+Orciinanee irio. 0757-i9, SERIES oi 2Ai9 entitieci, *AN ORDINAi\iCE GRAr.r*TiirjG
+LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND
+IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY
+GOVERNMENT OF DAVAO AND THE PHILIPPINE MENTAL HEALTH ASSOCIATIONDAVAO CHAPTER, INVOLVING THE ESTABLISHMENT OF A JOINT UNDERTAKING IN THE
+DELIVERY OF PROGRAMS AND SERVICES FOR WOMEN AND C}.IILDREN WITH
+PSYCHOLOGICAL PROBLEMS", ior notarization.
+For the Ciry Mayor:
+ATTY. TRISTAN
+NGO
+Assistant
+(Administration)
+CIW MAYOR'5 OFFICE
+CORRESPONDENCE AND RECORDS DIV
+R,ELEASEDFEB 1 e 2020
+rorxEceuo
+nourrursrnnYrvE ArDE rv- X.b
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City m,eW, m
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmaiboma fr['.i: ,,H
+li*
+
+t"
+\-r
+RECEIVED
+DATE:-
+-
+rqg8$?[$ sY:
+'l,qTE tl
+4'sRepublic of the Philippines
+OFFICE OF THE CiTY LEGAL OFFICER
+Ref" No. 1131-i!U:2-NrU-0Cf,fu Legal Opinion No
+SERIES of 2020
+RE: ORDINANCE NO. 0157-19, SERIES OF 2019 entitled *AN
+ORDINANCE GRANTING LEGISLATIVE AUTHOR,iTY TO THE CiTY
+MAYOR TO ENTER INTO AND SiGN, FOR AND IN BEHALF OF THE
+CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO tsY AND
+BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE
+PHILiPPINE MENTAL HEALTH ASSOCIANON-DAVAO CHAPTER,
+INVOLViNG THE ESTABLISHMENT OF A JOiNT UNDERTAKING IN
+THE DELIVERY OF PROGRAMS AND SERVICES FOR WOMEN AND
+CHiLDREN WITH PSYCHOLOGICAL PROBLEMS"
+IUtINDoR.SEMENT
+February 4,2A24
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinarrce, with the
+information that the passage of the subject ordinance is well within the powers
+of the Sanggunniang Panlungsod.
+Viewed therefrom, this office recommends the approval of the Ordinance
+and the signing of the attached Memorandum of Agreement.
+ATTY, M
+Acting
+A. GALLO, RSW
+City Legal Office
+Approved:
+OSMUN
+P. VILANUEVA, JR
+Acting City Legal Officer
+Date approved: February 6,2020
+oFFrsE rr&ff ,tiff ,lf,.#mrnlroa
+$,ii,'.- :i:; f
+oF F IsE ut
+[,T$ r.|ff,$?Hr
+il I 6f RAf o R
+OAVAO CITY
+MARY AN N
+ALVARADO I 'al
+IV
+Ar0€
+cMO CONTACI t:
+& RECORDS Dtvlst0N
+R E c E
+V E D
+FEB 1 A 2rl2L
+GAL
+TIME:
+h
+*
+e5
+4 qr-la-+\r
+ri
+
+.
+'
+Republisof the Philippines '
+January 30,2020
+t
+rr
+{
+SEBASTIAN Z. DUTERTE
+Acting City Mayor
+a
+0 lh'
+Sir:
+pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0535-19 and Ordinance No. 0157-19, both SERIES of 2019, of the SANGGUNIANG
+panlungsod, with six (6) original copies of the Renewal of the Memorandum of
+Agreement (MOA) to be entered into by and between the City Government of Davao
+and the philippine Mental Health Association - Davao Chapter, involving the
+establishment of a joint undertaking in the delivery of Programs and Services for
+Women and Children with Psychological Problems, this City, for your information,
+guidance and aPProPriate action.
+Very truly yours,
+q \r'trA/r/X \, k
+CHARITO N. ghNTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+CORRESPONDENCE & RECOiDS DIVISION
+RECEIVED
+JAN 3 L 2fl,2|
+ffi
+ALVARADO
+RY
+MA
+N
+AN
+ADMIN
+IV
+AIDE
+ll
+coNt\gI
+cMo
+t:
+LoC.
+0!)955299702
+,;,P.L o
+\
+
+19th City Council
+24th Regular Session
+SERIES of 2019
+PRESENT:
+'
+Mpudtrc of the Philippines
+City of Davbo
+Albefto T. Ungab
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+- OB- Acting Citv Mayor
+- On Sick Leave
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+far raaila:
+lel"lullt-llLrl
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor Sebastian 7. Duterte
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+ORDINANCE NO. 0157-19
+SERIES of 2019
+Ail ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY
+MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHATF OF THE CITY
+GOVERI{MENT OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF
+AGREEMENT TO BE ETTITERED INTO BY AND BETWEEN THE CITY
+GOVERNMEI{T OF DAVAO AND THE PHILIPPINE MENTAL HEALTH
+ASSOCTATTON - DAVAO CHAPTE& TNVOLWNG THE ESTABLISHMENT
+OF A IOINT UNDERTAKING IN THE DELIVERY OF PROGRAMS AND
+SERVICES FOR WOMEN AND CHILDREN WITH PSYCHOLOGICAT
+PROBLEMS
+
+Ord. No. 0157-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. EE - This Ordinance shall be known as *AN ORDINANCE
+GRANTING LEGISIATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE
+RETTEWAT OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY
+AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE PHILIPPINE
+MENTAL HEALTH ASSOCIATION DAVAO CHAPTE& INVOLVING THE
+ESTABTISHMENT OF A JOII{T UNDERTAKING IN THE DELIVERY OF PROGRAMS
+AND SERVICES FOR WOMET{ AND CHITDREN WITH PSYCHOTOGICAT
+PROBLEMS".
+sEcrroN 2. LEGAL BAsrs - SECTION 455, paragraph (b), sub-paragraph (vi) of
+Republic Act No. 7L60, otherwise known as the Local Government Code of 1991, provides,
+to wit:
+"sEcrIoN 455. chief Executive; Powers, Duties and compensation.-
+"(b) For efficient effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant to
+SECTION 16 of this Code, the city mayor shall:
+)oo(
+)ofr
+rco(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other documents
+upon authority of the SANGGUNIANG Panlungsod or pursuant to law or
+ordinance."
+SECTION 3. AUTHORITY- The City Mayor is hereby authorized to enter into and
+sign, for and in behalf of the City Government of Davao, the renewal of the Memorandum
+of Agreement to be entered into by and between the City Government of Davao and the
+Philippine Mental Health Association - Davao Chapter, involving the establishment of a
+joint undeftaking in the delivery of programs and seruices for women and children with
+psychological problems.
+SECTION 4. SEPARABILITY CLAUSE - lf, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMW - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, December L7, 20L9, by a unanimous vote of all the Members of the
+Sanggunian present there being a quorum.
+)oo(
+)oc(
+rco(
+
+Ord. No. 0157-19
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+r.ln. rnen# REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Local Legislative Officer Staff IV]*
+ATTESTED:
+ATTESTED:
+o,Wnnno,
+Acting Vice Mayor
+Temporary Presiding Officer
+cns/bern
+ZULEIKA
+LOPEZ
+APPROVED
+1 FEB Z0,M
+2019
+Z. DUTERTE
+Citrt Mavya
+City
+,
+
+MEMORANDUII,I OF AGREE]UIENT
+KNOWN ALL MEN BY THESE PRESENTS
+Thismemorandumofagreementisenteredintothisthdayofby and between the following:
+PHILIPPINE MENTAL HEALTH ASSOCIATION, DAVAO CITY CHAPTER, A
+non-stock, non-profit corporation created in accordance with the laws of the Republic of
+the Philippines with office address at A. Pichon St., Davao City, represented by its
+Chairperson, ilR. DOiTINADOR A. LOPEZ, of legal age, Filipino Citizen and a resident
+of Davao City, herein refened to as the PMHA.
+And
+The CITY OF DAVAO, a Local Government Unit organized and existing by virtue
+of the laws of the Republic of the Philippines, with office address at City Hall Drive,
+Davao City, represented by the City Mayor HON. SARA Z. DUTERTE, Filipino Citizen,
+married, and resident of Davao City, hereinafter referred to as the City;
+WITNESSETH
+WHEREAS, SECTION il ol RA 7160 othenrvise known as the Loca! Government
+Code of 1991 recognizgd the non{ovemment organizations as partners in the pursuit of
+local autonomy;
+WHEREAS, SECTION 35 of RA 7160 authorizes the local government units to enter
+into joint ventures and such other cooperative arrangement with people and nongovernmental organizations to engage in the delivery of certain basic services, capacity
+building and livelihood projects, and to develop local enterprises designed to improve
+productivity and income, diversiff agriculture, spur rural industrialization, promote
+ecological, balance and enhance the economic and social well-being of the people;
+WHEREAS, both 

@@ -1,0 +1,432 @@
+---
+ordinance_number: "0336-17"
+title: "AN ORDINANCE AUTHORIZING THE CrrY MAYOR To ACCEPT AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE EXECUTED BY DEVELOPMENT BANK OF THE PHILIPPINES IN FAVOR OF THE CTTY GOVERNMENT OF DAVAO REI-ATIVE TO THE CONSTRUCilON oF A PUBLIC TOILET IN srA. ANA WHARF\", duly signed by both pafties, for acknowledgment and to return the same to the undersigned after everythi"
+date_enacted: "2017-11-07"
+approval_date: "2017-10-05"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0336-17.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2017.0
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/authorizing, topic/crry, topic/mayor, topic/accept, topic/sign, topic/behalf]
+---
+
+# Ordinance No. 0336-17
+
+> AN ORDINANCE AUTHORIZING THE CrrY MAYOR To ACCEPT AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE EXECUTED BY DEVELOPMENT BANK OF THE PHILIPPINES IN FAVOR OF THE CTTY GOVERNMENT OF DAVAO REI-ATIVE TO THE CONSTRUCilON oF A PUBLIC TOILET IN srA. ANA WHARF", duly signed by both pafties, for acknowledgment and to return the same to the undersigned after everythi
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 14,720 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2017\Ordinance No. 0336-17.txt`*
+
+,3cis
+,
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No.298-6970 x 225-0183
+Trunk Line No. 241-1000 Loc267
+o0o
+F-espertfi-rlly rehlr*erl tD CHi,RmO H. gAllTffi, Secrebry to
+the
+Sangr3unianrl Pan{ungso'I, the herein duly sirSned and approverJ Ordinance FIo.
+03-?'6-17 frn-s of 2017 entithl, *Altl CIftDlfilA$lcE AIJTHORIZIfI,G THE CITY
+fl,IAl{}R TO AC{EPT A${O SIGIII, ffiR ANt} ITI BEHALF OF THE CITY GOYERF'MENT
+OF [}AVAO. THE T}EET} ilF TilNATION TO BE EXECLITED BY DEVELOPMENT BANK
+OF THE FI-iII-IPFINES TN FAVOR CIF THE CITY ffiVERNMENT CIF DAYAO
+R.ETATIVE TO THE {CNSTRI-ICTICII\I OF A pLIBUC TOILET II{ 5TA, fiqA WHARF"
+duly sir3nel hy both parties, 'Iuly nohrizal, # re,luested.
+ATTYn*frt}$
+H
+st:
+estik
+fiate appmreJ:
++th I}IDORSEHEIIT
+:anu$, zote
+ET& rRApprovai L:y:
+irrY-*"uoff.*r.r u,-,
+GIC. City LegalOffire
+o
+o
+a
+o
+D)
+/ilK- t-ts
+Seies u.f
+No.
+
+/
+r(i
+Z:
+,D !1c
+,
+3rd Indorsement
+January 11,2018
+u
+\
+/r,)
+\t
+cns/lnta
+Respectfully forwarded to ATTY. OSMUNDO P. ULLANUEVA JR., Officer-InCharge, City Legal Office, this City, the herein documents relative to City Ordinance No.
+0336-17, SCTICS Of 2017, entitled "AN ORDINANCE AUTHORIZING THE CrrY MAYOR To
+ACCEPT AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE
+DEED OF DONATION TO BE EXECUTED BY DEVELOPMENT BANK OF THE PHILIPPINES
+IN FAVOR OF THE CTTY GOVERNMENT OF DAVAO REI-ATIVE TO THE CONSTRUCilON
+oF A PUBLIC TOILET IN srA. ANA WHARF", duly signed by both pafties, for
+acknowledgment and to return the same to the undersigned after everything has been
+complied with.
+Thank you.
+^alAn;\ k
+CHARTTO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+
+,
+,
+Reoublic of the Philin
+i o F F Id'SlTliH SitV iLvon
+fDfu/AIL
+2'{D INDORSEMENT
+January 03, 2018
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein attached documents relative to
+Ordinance No. 0336-17, SERIES of 2017, entitled "AN ORDINANCE AUTHORIZNG
+THE CITY MAYOR TO ACCCEPT AND SIGN, FOR AND IN BEHALF OF THE CITY
+GOVERNMENT OF DAVAO, THE DEED OF DONANON TO BE E(ECUTED BY
+DEVELOPMENT BANK OF THE PHILIPPINES IN FAVOR OF THE CITY GCVERNMENT
+OF DAVAO RELATIVE TO THE CONSTRUCTION OF A PUBLIC TOILET IN STA. ANA
+WHARF", duly signed and notarized, for your appropriate action.
+For the City Mayor:
+ATTY. ***(n& D. BANTTDTNG
+Assista nt City Ad ministrator
+(Operation)
+J
+RELEASED
+Cr\4O - CRt)
+,: l0
+Second Floor, City Ha!l Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+q - / -/
+BAW.@
+a
+LIFE
+IS HERE
+
+.
+City of Davao l*q
+OFFICE OF THE CITY LEGAL
+Tel. No. 227-5793 x 225-0183
+Trunk Line No. 241-1000 Lcr,267
+o0o
+Ref. No. Lt3L-17
+LEGAL OPINION NO, II3 ,
+SERIES OF 2OT7
+RE: ORDINANCE No. 0336-17, SERIES oF zoLT entifled "AN
+ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AND
+SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE DEED OF DONATION TO BE EXECUTED BY
+DEVELOPMENT BANK OF TIIE PHIUPPINES IN FAVOR OF THE
+CITY GOVERNMENT OF DAVAO RELATIVE TO THE
+CONSTRUCTION OF A PUBLIC TOILET IN STA. ANA WHARF'
+ISINDoRSEMENT
+December L,20tl
+ATTY. OSMUN
+P. VILLANUEVA, JR
+orc,
+City Legal Officer
+Date approved: December 4,2017
+_
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, the subject document, informing your end that this office finds the
+same free from legal inflrmity. Hence, it is recommended that the same be approved
+and the attached Deed of Donation be executed.
+o
+rn
+o
+o
+M0 $ G 1 7 ioratb Elap_toite t _ 1 7 q 20 1
+@f,cc
+o
+vao
+.:IGL OF THE CITy ADMINISTRATGT
+Ci?r';-' . ;;tat
+tEcht
+nt
+YED
+tMt
+z
+\
+CM
+RECH
+EC0{20lrl 4: br
+270- U - 7 )/
+I
+
+,
+Republic of the'Philippines
+November 24,2017
+SARA Z. DUTERTE
+City Mayor
+ol
+*
+Madam
+rf l/-0tca+-rrf @
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01524-17 and Ordinance No. 0336-17, both SERIES of 20L7 of the
+SANGGUNIANG Panlungsod, with Six (6) sets of copies of the Deed of Donation to be
+executed by Development Bank of the Philippines in favor of the City Government of
+Davao relative to the Construction of a Public Toilet in Sta. Ana Wharf, for your
+information, guidance and appropriate action.
+For and in the absence of the Secretary:
+NILDA C.
+NO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+RECEEVED
+CMS'CRD
+cnslnta
+tlvP-sc -/
+
+r6r!
+fr
+I
+a
+,o-!c
+Republic of fre philippines
+'
+Councilor
+Councilor
+Councilor
+Councilor
+18th City Council
+41't Regular Session
+SERIES of 20L7
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ON OFFICIAL BUSINESS:
+l. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Bernard E, Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+Attended the "World Travel Mart" in
+London
+On Domestic Emergency Leave
+On Sick Leave
+On Vacation Leave
+On Sick Leave
+Vice Mayor
+Councilor
+Paolo Z. Dutefte
+Al Ryan S. Alejandre
+Joanne M. Bonguyan-Quilos
+Jimmy G, Dureza
+Diosdado Angelo A. Mahipus Sr
+Marissa P. Salvador-Abella
+ABSENT:
+ORDINANCE NO. 0336.17
+SERIES ot 2Ot7
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT
+AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE DEED OF DONATION TO BE EXECUTED By
+DEVELOPMENT BANK OF THE PHILIPPINES IN FAVOR OF THE
+CITY GOVERNMENT OF DAVAO RELATIVE TO THE
+CONSTRUCTION OF A PUBLIC TOILET IN STA. ANA WHARF
+ko^^^ j
+
+Ord. No. 0336 -17
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ACCEPT AND SrGN, FOR AND rN BEHALF OF
+THE CrTY GOVERNMENT OF DAVAO, THE DEED OF DONATTON TO BE EXECUTED
+BY DEVELOPMENT BANK OF THE PHITIPPINES IN FAVOR OF THE CITY
+GOVERNMENT OF DAVAO RELATIVE TO THE CONSTRUCTION OF A PUBLIC
+TOILET IN STA. ANA WHARF";
+SECTION 2. DECLARATION OF POLICY - SECTION 455, (b) (1) (vi) of the
+Local Government Code of 1991 provides, to wit:
+"For efficient, effective and economical governance the purpose of which
+is the general welfare of the city and ib inhabitants pursuant to SECTION
+16 of this Code, the City Mayor shall represent the city in all its business
+transactions and sign in its behalf all bonds, contracts and obligationg
+and such other documents upon authority of the SANGGUNIANG
+panlungsod or pursuant to law or ordinance"
+SECTION 3. DEED OF DONATION - This Deed of Donation is executed by
+Development Bank of the Philippines to the City Government of Davao whereby the former
+assigns ONE MILLION PESOS (P1,000,000.00), in Philippine Currency, subject to the
+following conditions:
+1. The design and construction of the public toilet shall be done by the
+DONEE;
+2. Any cost overrun in excess of One Million Pesos (P1,000,000.00)
+shall be for the account of the DONEE; and
+3. Upon completion, the public toilet building shall include a
+sign/marker prominently displayed which reads: "Donated by the
+Development Bank of the Philippines".
+SECTION 4. AUTHORIW - The City Mayor is hereby granted legislative
+authority to accept and sign, for and in behalf of the City Government of Davao, the Deed
+of Donation to be executed by Development Bank of the Philippines in favor of the City
+Government of Davao;
+SECTION 5. SEPARABILITY CLAUSE - If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect;
+SECTION 6. EFFECTMW - This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on November 7, 2017, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+
+'a
+tr
+CERTIFIED CORRECT:
+DEC 0 4 20rn
+APPROVED
+z.
+a
+Ord. No. 0336 -17
+2017
+\ \rLwnfi 1.', l^,,,(
+CHARTTO N. SAITOS
+Secretary to the SANGGUNIANG Panlungsod
+Jgty Government Depaftment Head II)
+ATTESTED:
+ATTESTED:
+Citv Mavor.
+J. MELctfr1e.eurrArN JR.
+pity Councilor
+Tempgfary Presiding Officer
+cns/jsdam
+ATTY. ZULEIKA T. LOPEZ
+City Administrator 7
+ATTY. TRISTAN
+Assistant
+lssl, h?o
+(Admtnistratron)
+a
+
+DEED OF DONATION
+KNOW ALL MEN BY THESE PRESENTS
+This Deed of Donation made and entered into by and between:
+The DEVELOPMENT BANK OF THE PHILIPPINES (DBP for
+brevity), a government financial institution created and operating
+pursuant to the provisions of Executive Order No 81 dated
+December 3, 1986, otheruuise known as the 1986 Revised Charter
+of the Development Bank of the Philippines, as amended by
+Republic Act No. 8523 dated February 14, 1998, with principal
+office at DBP Building, Sen. Gil J. Puyat Avenue, IVlakati City,
+Philippines, represented in this act by Vice President ANA MARIE
+E. VELOSO, Head, Regional Marketing Center-Southeastern
+[/indanao, hereinafter referred to as the DONOR,
+-andTHE CITY OF DAVAO, a local government unit created and
+operating under the laws of the Republic of the Philippines with
+principal office at Davao City Hall, Davao City, Philippines,
+represented in this Act by HON. SARA DUTERTE-CARPIO, City
+lVlayor, hereinafter referred to as the DONEE,
+WITNESSETH: That -
+WHEREAS, the DONEE, through the Davao City Tourism Office
+(DCTOO) is embarking on a Sta. Ana Wharf Beautification Project (the "Project")
+which involves cleaning up and clearing the wharf area, land filling, putting up
+trees and planting grass, introducing food stalls and souvenir shops with the
+objective of transforming the area into a baywalk or promenade that could serve
+as a vital attraction for locals and tourists alike;
+WHEREAS, the DCTOO has decided to put up a public toilet as a
+necessary facility of the Project;
+WHEREAS, the Office of the City Engineer, City of Davao, has provided
+the DONOR with the Cost Estimate and Design of the proposed public toilet;
+WHEREAS, the DONOR, in line with its Corporate Social Responsibility
+efforts and its Corporate Environmental Policy to provide environmental
+protection and sustainable development, expresses its full support of the
+beautification project;
+WHEREAS, the DONOR is willing to partially finance, through a donation,
+the construction of the public toilet in accordance with the Cost Estimate and
+Design provided by the Office of the City Engineer of the City of Davao;
+NOW, THEREFORE, for and in consideration of the foregoing premises,
+and as an act of liberality and generosity, the DONOR, hereby voluntarily
+and freely gives, transfers and conveys, by way of donation, unto the
+above-named DONEE, its administrators and assigns, the amount of ONE
+,{c6+xt
+h
+
+Deed of Donation executed by the Development Bank of the Philippines
+in'favor of the City of Davao
+MILLION PESOS (P1,000,000.00) , in Philippine Currency, subject only to the
+following conditions:
+1. The design and construction of the public toilet shall be done by the
+DONEE;
+2. Any cost overrun in excess of P1,000,000.00 shall be for the account of
+the DONEE;
+3. Upon completion, the public toilet building shall include a sign/marker
+prominently displayed which reads: "Donated by the Development Bank of
+the Philippines"..
+That the DONOR does hereby state, for the purposes of giving full effect
+hereto that this Donation has been approved by the Donor's Management on
+October 5,2017.
+That the DONEE does hereby state that it accepts the foregoing donation
+and at the same

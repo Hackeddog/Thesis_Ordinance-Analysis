@@ -1,0 +1,274 @@
+---
+ordinance_number: "0479-18"
+title: "Ordinance No. 0479-18"
+date_enacted: "2018-07-31"
+approval_date: "2018-07-31"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0479-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid]
+---
+
+# Ordinance No. 0479-18
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republ'ic of the Philippines
+OFFICE OF THE CITYMAYOR
+sacisrG
+'6'.i€"
+eiu
+Ref. No. CAdO-201&05746
+IDPDlchin
+2Nd INDORSEMENT
+August 30, 2018
+l
+I
+i,.t.
+t-*Efi?-
+,--dlt*rt
+i___'-
+-,ry't
+tED'u.
+IY
+DATEI
+Il,ulE:
+I
+t
+F ,ttttfl -//
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+PanlunEsd, this City, the herein Ordinance No. 0479-18. hies of 2018. entftld "Al{
+ORDINANCE AUTHORIZNG THE SUPPRESSION OF A PORNON OF CAMUS STREET,
+T}IIS CnY, FOR TflE CONSIRIJCIION OF :IHE PROPOSED TEEN CEF\FFER", inviting
+attention to the enclosed Legal Opinion No. 390, SERIES of 2018 dated June 19, 2018 of
+the Crty Legal Office, for yourappropriate actisn.
+For the City Mayor:
+ATTY. TRISTAI{
+Assistant
+a
+R ELEASED
+LIFE
+IS HERE
+)1t't't
+ptry.@
+o
+I
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+
+sacisr'c'
+nenub I i c of,f ti$lrE
+ine s
+)uly 26,2018
+SARA Z. DUTERTE
+City Mayor
+Madam:
+cns/nta
+t
+-bl
+.{r
+om
+*
+h
+wls- ow P.24
+Fursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Tifle Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02218-18 and Ordinance No. 0479-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, City of Davao.
+Very truly yours,
+^ Chtn; ),- '!"-
+CHARITO N. SANTOS
+Secretary to the Sanggdniang Panlungsod
+(City Government Department Head II)
+Irne
+RECEIVED
+EMO. CRD
+J
+I
+.IINr[-
+a
+
+'
+hepuUic of tfre Philippines "
+OFFICE OF THE CITY LEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Lcr,26712251230
+o0o
+@dee
+Ref. No. 1131-18-0127
+SERIES OF 2018
+ORDIilANCE NO. O479-t,& SERIES of 2018 entitled 'AN
+ORDINANCE AUTHORIZING THE SUPPRESSION OF A
+PORNON OF CAMUS $REET, THIS C[TY, FOR THE
+CONSTRUCTION OF THE PROPOSED TEEN CENTER"
+1SI INDORSEMENT
+June 19,2018
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance informing your
+end that this office finds the enactment of the ordinance free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved.
+ATTY. uaffi. cALLo, Rsw
+Acting Asst. City Legal Officer
+Approved by:
+OFFICE OF THE CITY AUifrINISTRATOR
+CITY HALL ONHCT
+ATTY. OSMUN
+P. VILI,ANUEVA, JR
+DAVAO CITY hil*-
+OIC-Acting City Legal Officer
+RECEIVED
+DATE:
+TIME:
+LEGAL oPINIoN *o.3? D
+Date approved: July 31, 2018
+orf,M 7 9 1 E-mal-sappe ssi<m+ amas_ I 8 4 1 2 7 _7- 3 1 - 1 I
+t.
+.:ICE OF THE CITY ADMINISTRATOT
+CITYriili,:rFlCt
+ttC::tYEf BY
+ltg - ,r,+
+rA-t- *
+I i{r:
+[1,,,\r' ";!i *l
+tue-0#zfis-
+/ Y.-
+-, ,- -": t7"
+( lIl
+
+Councibr
+Councihr
+Councihr
+Coundhr
+Republic of dd Phitiiipirrc$
+Oty of DaYao
+Offie orf the SANGGUNIANG hnlungsod
+18t'City Council
+l$h Rrguler Smlrn
+Seris of 2018
+PRESENT
+*BSEHT;
+Yir Mayor
+Councibr
+Councibr
+Ccunclbr
+Counribr
+Counelhr'
+Councibr
+Councibr
+Councibr
+Councibr
+Councihr
+Councilor
+Counclbr
+Counclhr
+Csuncihr
+Councibr
+Counclbr
+Councihr
+Councibr
+Councibr
+Counclbr
+Counclbr
+Councibr
+Bernad E. Al-ag
+Nilo M. Abellera Jr.
+f,lada Behn S. Affista
+Vktorb U. Advlneuh lr.
+Al Ryan S. Alejandre
+Conrado C. Baluran
+Joanne M. BonguyanQuihs
+Pihr C. Braga
+Canrcb J. Clarbn
+Danib C. Dayanghirang
+April Flarie C. Dayap
+Jimmy G. Dureza
+January H. Dutefie
+Edgar F. Ibuyan Jr,
+tcah A. Librado-Yap
+laffar U. Mamhomak
+Bonfacio E. Mlltar
+Avegayle Dalodo Ortiz
+Antoinefie G. Principe{astrods
+J. Mekhor B. Quitain Jr.
+f*larEsa P. Safuador-Ahlb
+Mary Joeelh D. Vllhfuefie
+Jsus Josedn P. Zozobrado III
+Dante L. AposblSr.
+Ma. Cheny Ann M. Bonguyan
+Rene Elias C. Lopez
+Dhsdado Angeh A. Mahlpus Sr.
+Preskling Offker
+- On Vacatbn Leave
+- On DonmtE Ennrgency Leave
+- On Dornestk Ennrgency Leave
+- 0n Yaca&n Leave
+oRDIllAilCE ]tO. 0479-t8
+SERIE$ OF 2018
+ATI ORDIIIAIICE AUTHORIUI]IG THE SUPPRSSIOTI OF
+A FORTIOf| OF CAHUS $TREET, THIS CITY, FOR THE
+CO]ISTRUCTIOII OF THE PROFoSED TEEH CE]ITER
+
+ATTY.
+Ord. No. 0479-18
+Be it ordained by the SANGGUNIANG Fanlungsod of Davao City in session
+asembled that:
+$ECIIOil L TITLE - This Ordinance shsll hs known m 'All OBDIII*ilGE
+AUTIIORIIIIIG THE SUPPREISIOil OF A FORTIOIT OF CIHUS STREET, THIS
+CITY, FOR THE COT$TRUCTIOII OF I}IE PBOFO$EO TEETI CETITER'.
+$BgfIOil t IGOPE - The suppreesion of a portion of Camus Stret with a btal
+area of Four Hundrcd Tw_entyfive (425) square mefiers, mdrc or hss. shall be for the
+purpoce of construsting the proposed Teen fcnter.
+SECTIOII 3. EFFECTIYITY - This Ordinance shall take effect immdiatdy upon
+approval.
+-
+EilICTED, July 3, 2018, hy a unanimous vote sf all Sre f,lembers of the
+Sanggunian, ffrere being a guorum.
+CERTIEIED CORRECT:
+cfrWbA.Jfi*
+Secretary to the Sanggur{iang panlungsod
+(City Crovernment Departnent nedn)
+ATTESTED:
+ATTESTED:
+E. AL-AG
+Vice Mayor
+Pr*iding Officer
+cns/cM
+U .r AUG 2018
+7..
+-
+citv Mavy
+City tu

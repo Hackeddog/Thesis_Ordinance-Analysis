@@ -1,0 +1,367 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND LA DIVA INN PERTAINING TO THE USE OF THE FACILITIES OF THE LATTER AS QUARANTINE AREA FOR COVrD-19 PATTENTS FOR A PERTOD OF THREE (3) MONTHS FROM JUNE 18, 2021"
+date_enacted: "2021-08-03"
+approval_date: "2021-09-03"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000673-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.75
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: null
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/renewal]
+---
+
+# Ordinance No. 000673-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND LA DIVA INN PERTAINING TO THE USE OF THE FACILITIES OF THE LATTER AS QUARANTINE AREA FOR COVrD-19 PATTENTS FOR A PERTOD OF THREE (3) MONTHS FROM JUNE 18, 2021
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | - |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+29th Regular Session
+SERIES of 2021
+PRESENT:
+Republic of: tlri Philippines
+Sebastian Z. Duterte
+Bonifacio E. Militar
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Alberto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C, Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+- On Leave
+- On Sick Leave
+ORDINANCE NO. O673.2L
+SERIES of 2O2l
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE RENEWAL OF THE MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE
+CITY OF DAVAO AND LA DIVA INN PERTAINING TO THE USE
+OF THE FACILITIES OF THE LATTER AS QUARANTINE AREA
+FOR COVrD-19 PATTENTS FOR A PERTOD OF THREE (3)
+MONTHS FROM JUNE 18, 2021
+
+I
+Ord. No. 0673-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CrTY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF
+AGREEMENTTO BE ENTERED INTO BYAND BETWEEN THE CITYOF DAVAO AND
+LA DIVA INN PERTAINING TO THE USE OF THE FACILITIES OF THE LATTER AS
+QUARANTTNE AREA FOR COVrD-19 PATTENTS FOR A PERTOD OF THREE (3)
+MONTHS FROM JUNE L8,2021',.
+SECTION 2. DECLARATION OF POUCY - SECTION 22 (a) (5) and (c) and SECTION
+455 (b) (1) (vi) of the Local Government Code of 1991 or RA 7160 provide that:
+"SECTION 22. Corporate Powers.-
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall.
+SECTION 455. Chief Executive; Powers, Duties and Compensation.
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government, and in this
+connection, shall:
+)oc(
+)oc(
+x)fr
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance".
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative authority
+to enter into and sign, the renewal of the Memorandum of Agreement to be entered into
+by and between the City of Davao and La Diva Inn peftaining to the use of the facilities
+of the latter as quarantine area for COVID-19 patients for a period of three (3) months
+from lune 18,2021.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+
+,
+:n
+I
+Ord. No. 0673-21
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, August 3, 2021, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+. 01t^,t a \. {^.d
+CFIARITO N. $NTOS
+Secretary to the Sanggu'niang Panlungsod
+(City Government Department Head IQ_,
+ATTESTED:
+AL
+RTO
+UNGAB
+cilor
+City Coun
+Temporary Presiding Officer
+cns/ray
+APPRoVED: 0 3 SEP 2021. 2s21
+SARA Z
+UTERTE
+' City Mayor y
+ATTESTED:
+ZULEIKA
+. LOPEZ
+City Admini
+tor'
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+fiE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY
+AND BETWEEN THE CITY OF DAVAO AND I.A DIVA INN PERTAINING TO THE USE OF THE FACILITIES OF
+THE LATTER AS QUARANTTNE AREA FOR COVrD-19 PATTENTS FOR A PERTOD OF THREE (3) MONTHS
+FROMJUNE 18,2O2I
+
+,
+MEMORANDU M OF AGREEMENT
+KNDW ALL PERSONS BY THESE PRESENTS:
+This Agreement, made and entered, by and between
+U\ DM INN, a corporation, organized and existing by viftue
+of the by viftue of the laws of the Republic of the Philippines, with
+office address in J. Rodriguez Ave., Maa Crossing, Davao City,
+represented herein by its Chairman/President, SAMUEL C. UY,
+Filipino, of legal age, residing in Davao City, hereinafter referred to
+as the "OWNER";
+-andCITY OF DAVAO, a local government unit, organized and
+existing by viftue of laws of the Republic of the Philippines, with
+official address at Gty Hall Building, Cty Hall Drive, Davao Cty,
+represented by its City Mayor SARA Z. DUTERTE, hereinafter
+referred to as "LGU".
+WITNESSETH: That
+WHEREAS, the entire country is under the state of National Public Health
+Emergency by vitue of Proclamation No. 922 and calls for immediate decisive
+action of the government to contain the transmission of COVID-19, through
+healthcare, medical tests, treatment and quarantine, among others;
+WHEREAS, COVID 19 remains a threat to public health and national
+security which can undermine the social, economic and well-being of the society.
+WHEREAS, among the measures undertaken by the LGU to contain the
+spread of COVID 19 is the isolation of the patient and those under monitoring. For
+this purpose, the LGU is in need of available buildings or spaces that will serve as
+quarantine/isolation area for those affected with the present pandemic, to include
+the frontliners.
+WHEREAS, recognizing the threats brought about by the COVID 19
+pandemic to the well-being of the Filipinos, the OWNER desires to assist and
+support the LGU to contain the spread of the said COVID-19 virus by offering LA
+DM INil, as isolation or quarantine area free of charge.
+NOW THEREFORE, for and in consideration of the foregoing premises, the
+Pafties hereto agree the following:
+1. AREA, PURPOSE AND MANAGEMENT
+1,1 The Parties hereby designate thatthe building of the OWNER known
+as LA DIVA INN located along J. Rodriguez Avenue, Maa Gossing, Davao Gty, as
+Quarantine Area (hereinafter referred to as the "AREA"), primarily fur the residents
+of Davao City
+ffihe LGU.
+V\.
+who are affected with the pandemic, to be managed and operated2
+
+2. TERM / DURATION
+2.1 This Agreement serves as a renewal of the contract which shall
+commence on 18 June 2021for a term of three (3) months.
+2.2 This Agreement may be renewed or extended for a similar period of
+three (3) months, under mutually acceptable terns and conditions, subject to the
+requirements of public health and the declared ECQ period. The LGU shall inform
+the OWNER at least fifteen (15) days before the expiration of this Agreement of
+its intention to renew and or extend.
+3. THE OWNER
+3.1 Make available and allows the LA DM INN as Quarantine Area
+for COVID 19 patients (suspect and probable cases) as determined beforehand
+by the LGU.
+3.2 Allows the City of Davao to introduce improvements on the AREA
+for the purpose of converting it into an isolation facility and to bring beds,
+beddings and other fixtures inside the AREA as needed.
+3.2 Allow the personnel of the LGU to have access to the AREA anytime
+of the day and night including the use of water and electricity.
+3.3 Subject to prior notice, may enter the AREA during reasonable hours
+of the day for the purpose of inspection, maintenance and repair of any work
+necessary for the preservation, conservation, improvement of the AREA.
+4. THE tGU
+4.1 Undertake to prepare the AREA for quarantine purpose following
+the guidelines issued by the Department of Health and other appropriate body.
+4.2 Provide food, laundry, medical and other necessary services to the
+patients
+4.3 Keep and maintairr the AREA in a clean, safe and sanitary condition.
+4.4 Provide medical teams and support staff and ensure that all
+frontliners in the AREA shall use personal protective equipment (PPE) to prevent
+exposure to hazards that cause serious injury or illness, including but not limited
+to masK, gloves, etc.
+4.5 Assume all actual usage costs of consumption of all utilities and any
+and all seryices i.e. electric, telephone, water, security, etc. required in the AREA
+and pay for all charges for these utilities and seruices as they fall due.
+4.6 Monitor and superuise the AREA to ensure the security, well-being,
+and health of the frontliners and the patients.
+4.7 Within fifteen (15) days after the expiration or termination of this
+Agreement, it shall cause the cl
+ning, sanitizing and disinfecting the AREA. It
+ises in as good condition as the premises were2
+sha
+rrender and return the pr
+
+actually found at the beginning of the use/occupancy, ordinary wear and tear
+excepted.
+4.8 It shall comply with the rules on waste management and ensure
+that no hazardous materials, toxic wastes and chemicals are left in the AREA upon
+expiration or termination of this Agreement.
+4.9 Bear the cost of repairs necessary to preserue and maintain the
+AREA in such good, serviceable and fit condition during the effectivity of this
+Agreement.
+4.10 Not keep, deposit or store in the AREA any noxious, toxic or
+flammable materials or substances or any other substances or materials, which
+may constitute a fire, environmental or safety hazard.
+5. THIRD PARTY IIABIIITY
+5.1The LGU during its occupancy of the AREA shall hold the OWNER
+free and harmless fron any and all damages, liabilities or responsibilities to any
+person, natural or juridical, or to any propefi, arising out of or as a consequence
+of the use of the AREA by LGU, its agents, employees except when such damages,
+liabilities or responsibilities are due to the fault, or negligence of the OWNER, its
+officers, employees, representatives and/or agents, in which case, the OWNER
+shall be liable br such loss, damage and/or injury.
+IN WITNESS WHEREOF, the Parties hereby affx their signatures,
+this _ day of
+at Davao City.
+UT
+IVA
+LGU
+wne
+n
+presen
+by;
+SAMUE
+c.
+Y
+z.
+Chairmar/President
+*City Mayor t/
+SIGNED It{ THE PRESENCE OF:
+ZULEI
+T.
+e2
+CitV Ad minist
+r
+SAMANTHA JAYNE Y. UY
+
+ACKNOWLEDGMENT
+Republic of the Philippines)
+City of Davao ) S.S.
+x
+x
+,t 0 ocT ilrl
+BEFORE ME, for and in the City of Davao, this
+,
+personally appeared SAtlUEt G UY with
+and SARA Z,
+DUTERTE with HnumrTroran-maama-o, all of whom known to me and to me
+known to be the same persons who executed the foregoing instrument and who
+acknowledged to me to be that the same is their free and voluntary act and deed.
+This document consists of four (4) pages including this page wherein this
+acknowledgrnent is written, signed by the parties and their instrurnental witness
+on the left margin of each and every page thereof.
+WITI{ESS MY HAND AND SEAI at the place and on the date
+rst aboveindicated.
+ooc. no.llb :
+Paoe No.ffi':
+B;k No. Tf-;
+SERIES of ZOZL.
+I
+EM
+OJR
+Notrry hb
+atil Dcc. l l,
+i 4192695
+No.202l
+IBP
+No.
+.05/15/l
+Roll No, 67071

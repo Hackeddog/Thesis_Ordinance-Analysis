@@ -1,0 +1,177 @@
+---
+ordinance_number: "0416-24"
+title: "Ordinance No. 0416-24"
+date_enacted: "2024-02-06"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0416-24 -QRF, Dujali (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0416-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+2otl,
+ncil
+5b Regular Session
+SERIES of 2024
+PRESENT:
+ABSENT:
+Vice Mayor J. Melchor B. Quitain Jr.
+- Presiding Officer
+Councilor Marissa S. Abella
+Councilor Nilo M. Abellera Jr.
+Councilor Luna Maria Dominique S. Acosta
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Wilberto E. Al-ag
+Councilor AI Ryan S, Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Jessica M. Bonguyan
+Councilor Louie John J. Bonguyan
+Councilor Pilar C Bragn
+Councilor Augusto Javier G. Campos III
+Councilor Jonard C. Dayap
+Councilor Edgar P. Ibuyan Jr.
+Councilor Richlyn N. Justol-Baguilod
+Councilor Diosdado Angelo lunior R Ivtahipus
+Councilor Rodolfu M. Mande
+Councilor Jaffar U. Marohomsalic
+Councilor Bonz Andre A. Militar
+Councilor Temujin B. Ocampo
+Councilor Myrna G. L'Dalodo-Ortiz
+Councilor Albefto T. Ungab
+Councilor Lorenzo Benjamin D. Villafuefte
+Councilor Trisha Ann J. Villafuerte
+Councilor Jesus Joseph P. Zozobrado III
+Councilor Bernard E. Al-ag
+Councilor January N. Duterte
+- On Special Privilege Leave
+oRDIilAItCE ilO. O4t6-24
+SERIES of 2O24
+AN ORDIilANCE GRANTII{G TEGISLATIVE AUTHORITY TO THE
+CITY M'IYOR 79 gfII IZE A PORTIOIU OF THE THIRTY PERCEI{T
+(30o/o) QUICK RESPONSE FUilD (QRF) OUT OF THE FIVE
+PERCENT (5olo) DISASTER RISK REDUCTION AND
+MANAGEMEI{T FUND (CAlAMrTy FUND) OF THE CrTy
+GOVERNMEilT OF DAVAO FOR CATENDAR YEAR 2024 IN THE
+AMOUIIT OF THREE HUI{DRED THOUSA]ID PESOS
+(P3OO,OOO.00) AS FTilANCIAL ASSTSTANCE TO THE
+MUNICIPALITY OF BRAULIO E. DUJALI, PROVINCE OF DAVAO
+DEL NORTE, DUE TO HEAIIY RAINS THAT LASTED FOR A FEW
+DAYS CAUSED BY THE SHEAR LINE WEATHER SYSTEM
+
+that
+Ord. No, 04L6-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled,
+SECTION 1. TITTE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING TEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A
+PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION AilD MAI|AGEMENT
+FUrrD (CALAiiTTY FUI|D) OF THE CITY GOVERilMEilT OF DAyAO FOR CA|."EI{DAR
+YEAR 2024 IN THE TOTAT AI,IOUI{T OF THREE HU]IDRED THOUSAND PESOS
+(P30O,0O0,00) AS FTNANCTAL ASSTSTAilCE TO THE MuilrcrpAtrTy OF BRAULTO
+E. DUTALI, PROVINCE OF DAVAO DEL NORTE, DUE TO HEAVY RAINS THAT
+TASTED FOR A FEW DAYS CAUSED BY THE SHEAR IINE WEATHER SYSTEM".
+SECTIOI{ 2.
+- It is the policy of the City Government
+of Davao to adopt measures and adhere to the national principles and standards of
+humanitarian assistance in response to risk reduction and declares as its policy to judiciously
+utilize its resources and put the same to proper use.
+SECTION 3. BEI{EFICIARY - The Municipality of Braulio E. Dujali, Province ot
+Davao Del Nofte, which was declared under a State of Calamity, is hereby declared as
+beneficiary of the financial assistance in the amount of Three Hundred Thousand Pesos
+(P300,000.00).
+SECTIOil 4. EIG&-EASIS - SECTION 324 (d) of Republic Act No. 7160 or the Local
+Government Code of 1991, as amended by Republic Act No. 8185, states that five percent
+(5olo) of the estimated revenue from regular sources shall be set aside as annual lump sum
+appropriation for relief, rehabilitation, reconstruction, and other works or seryices in
+connection with calamities which may occur during the budget year. Provided, however,
+that such fund shall be used only in the area, or a portion thereof, of the local govemment
+unit or other areas affected by a disaster or calamity, as determined and declared by the
+local sanggunian concerned.
+SECTION 2l of Republic Act No. 10121 likewise provides that of the amount
+appropriated for LDRRIVIF, thirty percent (30o/o) shall be allocated as Quick Response Fund
+(QRF) or stand-by fund for relief and reovery programs in order that situation and living
+conditions of people in communities or areas stricken by disasters, calamitieq epidemics, or
+complex emergencies, may be normalized as quickly as possible. Fufther, upon the
+recommendaUon of the LDRRMO and approval of the sanggunian concerned, the LDRRMC
+may transfer the said fund to support disaster risk reduction work of other LDRRMCS whicft
+are declared under a state of calamiW.
+SECTION 5.
+- The amount herein appropriated shall be
+used specifically for such item and expenditure approved by the SANGGUNIANG Panlungsod.
+Alt disbursements and utilization of funds shall be qrhjert to existing governrnent budgeting,
+accounting, and auditing rules and regulations of the Depailrnent of Budget and
+Management (DBM), the Commission on Audit (COA), the Procurement Law (RA 9184), as
+well as other applicable laws, Ordinances and Presidential dircctives.
+SECTION 6.
+immediately upon approval.
+- The provisions of this Ordinance shall take effect
+
+Ord, No. 04L6-24
+ENACTED, February 06, 2024, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cnaW{.hk
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head
+CNS/ebge
+IIL
+ATTESTED:
+ATTESTED:
+J. IrlE Lc#B. eurrArN JR.
+,9fusiding Officer
+Vice Mayor
+APPROVED:
+FEB 2 O ?O?{
+2024
+SE
+DUTERTE
+C'ty
+v
+Mayo//
+H. I-AYOG
+Acting
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO UNUZE A PORTION OF THE
+THIRTY PERCENT (30%) QUICK RESPONSE FUND (QRF) OUT OF THE F[VE PERCENT (5olo) DTSASTER RrSK
+REDUCION MANAGEMET.TT FUND (CAIAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR
+YEAR 2024 IN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00) AS FINANCIAL
+ASSISTANCE TO THE MUNICIPALITY OF BRAULIO E. DU]ALI, PROVINCE OF DAVAO DEL NORTE, DUE TO
+HEAUT RAINS THAT I.ASTED FOR A FEW DAYS CAUSED BY THE SHEAR LINE WEATHER SYSTEM
+ATTY.

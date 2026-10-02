@@ -1,0 +1,297 @@
+---
+ordinance_number: "0237-20"
+title: "AN ORDINANCE APPROVING THE APPLICATION OF ACCENDO COMMERCIAT CORPORATIOil FOR THE RECIASSTFTCATTON/REZONTNG OF A PARCEL OF IAND CONSISTING OF ONE MILLION FIVE HUNDRED SEVENTEEN THOUSAND TWO HUNDRED THTRTY-TWO (L,517,232) SQUARE METERS, MORE OR LESS, COVERED BY VARIOUS TTTLES FROM TOURTSM DEVELOPMENT ZONE (TDZ) TO PLANNED UNIT DEVETOPMENT (PUD), PRESERVING THE l42-SQUARE METER TDENTIFIED AS CONSERV"
+date_enacted: "2020-03-03"
+approval_date: "2020-06-02"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0237-20.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/approving, topic/application, topic/accendo, topic/commerciat, topic/corporatioil, topic/reciasstftcatton]
+---
+
+# Ordinance No. 0237-20
+
+> AN ORDINANCE APPROVING THE APPLICATION OF ACCENDO COMMERCIAT CORPORATIOil FOR THE RECIASSTFTCATTON/REZONTNG OF A PARCEL OF IAND CONSISTING OF ONE MILLION FIVE HUNDRED SEVENTEEN THOUSAND TWO HUNDRED THTRTY-TWO (L,517,232) SQUARE METERS, MORE OR LESS, COVERED BY VARIOUS TTTLES FROM TOURTSM DEVELOPMENT ZONE (TDZ) TO PLANNED UNIT DEVETOPMENT (PUD), PRESERVING THE l42-SQUARE METER TDENTIFIED AS CONSERV
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+r'iii:.l!'o
+{i,| ,..$
+'s.{r;tsN'
+,arol@
+Ref. No. CAdG202H)1346
+2,.d TTIDORSEMENT
+June 15.2020
+Respectfully returned to ils. Charito N. Sanbs, Secretary to the Sanggunia_ng
+Panlungsod, this Crty, fte within Legal @inion No. 377, SERIES of 2020 datd May 29,
+2020 of tne City Legal ffice, relative to the attached Ordinance No. 0237-20, SERIES of
+2A2O entitled, '-AN ORDINANCE APPROVING THE APPUCATION OF ACCENDO
+CoMMERCT,AL CORTRATrON FOR THE REC|-ASSIFICATION/REZONING OF A PARCEL OF
+IAND CONSISTING OF ONE MITIION FIVE HUNDRED SEVENTEEN THOUSAND T1TIIO
+HUNDRED THRITY-TWO (1,517,232) SQUARE METERS, MORE OR LESS, COVERED BY
+VARIOUS TITTES FROM TOURISM DEVELOPMENT ZONE GDZ) TO PTANNED UNIT
+DEVELOPMENT (PUD), PRESERVING THE l42-SQUARE METER IDENTIFIED AS
+CoNSERVATION ZONE (CZ) COVERED BY TRANSFER CERTIFICATE OF TITLE NO. T405T63, LOCATED IN BARANCAAYS MARAPANGI AND CATIGAN, TORIL DISTRICT' THIS
+CITY', for your information and appropriate action.
+For the City Mqpr:
+ATTY. TRISTAN
+Assisnt GtY
+(Administration)
+i
+,
+TIITE:
+RELEASED
+-?f
+gh tc* Et.,-
+N
+-o/-JtU
+Second Floor, City Halt Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 ' davaocitymayor@gmail'com
+tsAV @
+LIFE IS HERE
+' Republic of the ffiritlpipines
+OFFICE OF THE CITY IVIAYOR
+.t
+
+!
+OFFICE OF THE CITY LEGAT
+Ref. No. CLO-2020-001445
+ORDINANCE
+APPROVING
+Tel, No. 298-6970
+Trunk Line No. 241-1000 L@,2671225/230
+. an7-20
+LICATION
+Legal Oplnion No.
+SERIES of 2020
+OF 2020, entitled "AN ORDINANCE
+OF ACCENDO COMMERCIAL
+CORPORATION FOR THE RECLASSIFICATION/REZONING OF A PARCEL OF
+LAND CONSISTING OF ONE MILLION FIVE HUNDRED SEVENTEEN
+THOUSAND TWO HUNDRED THIRTY-TWO (1,517,232) SQUARE METERS,
+MORE OR LESS, COVERD BY VARIOUS TITLES FROM TOURISM
+DEVELOPMENT ZONE (TDZ) TO PLANNED UNIT DEVELOPMENT
+(PUD), PRESERVING THE 142-SQUARE METER IDENTIFIED AS
+CONSERVATION ZONE (CZ) COVERED BY TRANSFER CERTIFICATE OF
+TITLE NO. T-405163, LOCATED IN BARANGAYS MARAPANGI AND
+CATIGAN, TORIL DISTRICT"
+i't INDORSEMENT
+Ylay 29,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, this City, the herein Ordinance No. 0237-20-20, SERIES of 2020,
+informing your end that the measure is free from legal
+Hence, it is recommended that the
+ATTY. MA
+A. GALLO, RSW
+Actlng
+Approved by
+ATTY. OSMUN
+P. VILLANUEVA, JR.
+OIC-Acting City Legal Officer
+Date Approved: June 2, 2020
+o r[O Z : f - 2 O_ra c ftt s sific a t i o n_a c ce n t{o- c ornrue rcia [_2 0,
+.,WAM
+,. it -lo
+,,7: r.\!i
+':\r#j:'
+R
+D
+J
+q:k
+rV
+ciro
+,l 241.1000 !oc.
+,1t* 0-[
+.loea-o.l,Ate
+fia{-YP
+1M
+City Legal Officer
+
+*'nt'r[i,"5$L'A]PEines
+May 21,2020
+SARA Z. DUTERTE
+City Mayor
+Madam:
+,{ e
+L
+O
+I
+*
+i4to
+"?tlt +0 llqd f 4/,b
+,h C, SECTION 469, Article One, Title Five,
+0u
+Pursuant to Sub-SECTION 3, Paragrap
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+01013-20 and Ordinance No. O237-2O, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+n
+*\fu
+t
+oM*b^#fr rtzzl
+Secretary to the SangguniaAg Panlungsod
+(City Government Department Head II)
+o0
+RECIIVEE
+CI\4O. CRD
+
+19th City Council
+9th Regular Session
+SERIES of 2020
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Sebastian Z. Duterte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P, Zozobrado III
+ORDINANCE NO. O237-2O
+SERIES ol2O2O
+AN ORDINANCE APPROVING THE APPLICATION OF
+ACCENDO COMMERCIAT CORPORATIOil FOR THE
+RECIASSTFTCATTON/REZONTNG OF A PARCEL OF IAND
+CONSISTING OF ONE MILLION FIVE HUNDRED SEVENTEEN
+THOUSAND TWO HUNDRED THTRTY-TWO (L,517,232)
+SQUARE METERS, MORE OR LESS, COVERED BY VARIOUS
+TTTLES FROM TOURTSM DEVELOPMENT ZONE (TDZ) TO
+PLANNED UNIT DEVETOPMENT (PUD), PRESERVING THE
+l42-SQUARE METER TDENTIFIED AS CONSERVATION ZONE
+(cz) covERED By TRANSFER CERTTFTCATE OF TrTLE NO. T405163, LOCATED rN BARANGAYS MARAPANGT AND
+CATTGAN, TORrL DISTRTCT, THrS CITY
+
+Ord. No. 0237-20
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITTE This Ordinance shall be known as "AN ORDINANCE
+APPROVING THE APPTICATION OF ACCENDO COMMERCIAT CORPORATION FOR
+THE RECTASSIFICATION/REZONING OF A PARCEL OF I.AND CONSISTING OF
+OI{E MILTION FIVE HUNDRED SEVENTEEN THOUSAND TWO HUNDRED THIRTY.
+TWO (I,5L7,232) SQUARE METERS, MORE OR LESS, COVERED BY VARIOUS
+TTTLES FROM TOURTSM DEVELOPMENT ZONE (TDZ) TO PLANI{ED UNrT
+DEVELOPMENT (PUD), PRESERVING THE T42.SQUARE METER IDENTIFIED AS
+CONSERVATION ZONE (CZ) COVERED BY TRANSFER CERTIFICATE OF TITLE NO.
+T-405163, TOCATED rN BARANGAYS MARAPANGI AND CATTGAN, TORIL
+DTSTRICT, THrS CrTY"
+SECTION 2. SCqPF' The property subject of reclassification is covered by various
+titles enumerated as follows: Transfer Certificates of Title Nos. T43S1gg, T-421605,
+T-419912, T4t7873, T-417874, T405L62, T-405163, T4L9454, T-146-2017A24056;,
+T-146-2017024227, T-146-2017024228, T-146-20L70L3744, T-146-2015007961, T-1462016007687 and T-146-2017A8745. With the exclusion of the 142 square meters classified
+as Conseryation Zone which is part of T-405163, the total area for reclassification is reduced
+to L,5L7,232 square meters instead of the original area of !,5t7,374 square meters.
+SECTIOI{ 3. CLASSIFICATION- The existing zoning classification of the
+abovementioned propefi is Tourism Development Zone CfDa to be reclassified as
+Planned Unit Development (PUD).
+SECTIOil 4. UqE- The property being requested fur reclassification is covered by the
+conceptual master plan for a proposed mixed-used area under the name *PROjECT
+STALLION'.
+SECTION 5. SEPARABIIITY CIAUSE- If, for any reason, any part or provision of
+this Ordinance is declared invalid or unconstitutional, any paft or prwision not affected
+thereby shall remain in full force and effect.
+SECTION 6.
+approval.
+- This Ordinance shall take effect immediately upon
+Enacted, March 3,2020, by three-fourths (a/+) majority vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ O,fildK \. 4.r
+CHARITO N.ISANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head I)
+
+Ord. No. A237-20
+ATTESTED:
+ATTESTED:
+ATTY.
+SEBASTIAN Z. DUTERTE
+Vice Mayor
+Presiding Officer
+cns/kate
+APPRovED'$I-ql 2020 -, zozo
+City ,urp*
+T.
+City
+/
+(

@@ -1,0 +1,379 @@
+---
+ordinance_number: "0493-18"
+title: "Ordinance No. 0493-18"
+date_enacted: "2018-07-26"
+approval_date: "2018-09-11"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0493-18.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: null
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid]
+---
+
+# Ordinance No. 0493-18
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | - |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+',,5BHji.
+?i|trffi
+b'
+OFFICE OF THE CITY I\{AYOR
+Ref. No. CAdG2018-06392
+2od TNDoRSEMENT
+October 3, 2018
+\. fJfy
+\,f
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0493-18,
+SERIES of 201.8 entifled "AN ORDINANCE AUITHORJZING THE CITY MAYOR TO LTNLIZE
+A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF
+THE FIVE PERCENT (5olo) DISASTER RISK REDUCT]ON AND MANAGEMENT FUND
+(cAlxMITY FUND) OF THE CrTY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2018,
+IN THE TOTAL AMOUNT OF FOUR MILLION TWO HUNDRED FIFTY THOUSAND PESOS
+(P4,250,000.00) To EXTEND ASSISTANCE AT FIVE HUNDRED THOUSAND PESOS
+(P500,000.00) EACH, To DAGUPAN Crry, PROVINCE OF PANGASINAN,
+MUNICiPALMES OF LINGAYEN, STA, BARBARA & CAIASIAO, PROVINCE OF
+PANGASINAN, MUNICIPALMES OF PAOMBONG AND MARILAO, PROVINCE OF
+BULCAN, MUNICIPALMES OF LA PAZ AND RAMOS, PROVINCE OF TARLAC AND TWO
+HUNDRED FIFTY THOUSAND PESOS (P250,000.00) TO MUNICIPALTTY OF MASANTOL,
+PROVINCE OF PAMPANGA, WHICH WERE AFFECTED BY SOUTHWEST MONSOON
+(HABAGAT) EGCERBATED BY TYPHOON INDAY, CAUSING FLOODS THAT BROUGHT
+SUBSTANTIAL DAMAGE AND DEATH IN THE AFFECTED AREAS", for your information
+and appropriate action.
+For the City Mayor:
+ATTY.
+NGO
+Assistant
+fux-t*
+ffiHL
+ASED
+A/.
+2:
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+Brw @
+I
+LIFE
+IS HERE
+o
+
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. N0.298-6970
+Trunk Line No. 241-1000 Loc,26712251230
+o0o
+Ref. No. 1131-18-0168
+Approved by:
+ATTY. OSMUN
+P. VILI-ANUEVA>JR
+OIC-Acting City Legal Officer
+Date approved: September L7,20t8
+ort049 3- 1 E_caknity_typfioon-inday_1
+S-0 1 68_9 - 1 7 - I S
+@f,ie
+ATTY. umffi. cALLo, Rsw
+. Acting Asst. City Lega! Officer
+LEGAL OPINION NO.
+SERIES OF 2018
+qt
+l't INDORSEMENT
+September L7,20LB
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0493-18
+SERIES OF 2018, entitled "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND
+(QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND
+MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO
+FOR CALENDAY YEAR 2018, IN THE TOTAL AMOUNT OF FOUR MILLION TWO
+HUNDRED FIFTY THOUSAND PESOS (p4,250,000.00) TO EffEND ASSISTANCE
+AT FIVE HUNDRED THOUSAND PESOS (P500,000.00) EACH, TO DAGUPAN CITY,
+PROVINCE OF PANGASINAN, MUNICIPALTTIES OF UNGAYEN, STA, BARBARA &
+CAI.ASIAO, PROVINCE OF PANGASINAN, MUNICIPALITIES OF PAOMBONG AND.
+MARII.AO, PROVINCE OF BUUCAN, MUNICIPALTTIES OF I.A PAZ AND RAMOS,
+PROVINCE OF TARI.AC AND TWO HUNDRED FIFTY THOUSAND PESOS
+(P250,000.00) To THE MUNICIPAUTY OF MASANTOL, PROVINCE OF
+PAMPANGA, WHICH WERE AFFECTED BY SOUTHWEST MONSOON (HABAGAT)
+EXACERBATED BY TYPHOON INDAY, CAUSING FLOODS THAT BROUGHT
+SUBSTANTIAL DAMAGE AND DEATH IN THE AFFECTED AREAS", informing your
+end that the same is free from legal infirmity citing RA 8185, otherwise known as
+An Act Amending Sec. 324 (d) of RA 7160, the Loca! Government Code of 1991.
+Hence, it is strongly recommended that the said ordinance be approved.
+cFFt0E 0F Tr"tE 6rw- qsillrMsTRA?oR
+Cin'HAI.L r)f'FiCE
+haz/o rrz
+RECEIVED BY
+/O-/- )>
+DATE:
+TIME:
+Tlt.p
+L
+, .:lCE OF IHb olIY nDMlillSTRArQF
+ClIv i{t:: L
+tCr
+ItcLrvEo Bv
+rA-F
+skr
+ED
+a
+t
+TY
+r$t
+Djl'tvA.r
+2Q{A+t
+
+CITY O.: DAVAO
+September 11, 2018
+SARA Z. DUTERTE
+City Mayor
+cns/lnta
+OI
+I
+Madam:
+VI
+i-ils-ott g p,Xtll
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 02?87-18 and Ordinance No. 0493-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, City of Davao, for your information, guidance, and
+appropriate action.
+Very truly yours,
+o
+crok\ i. ,/Kt-o,
+Secretary to the Sanggr/niang panlungsod
+(City Government Depaftment Head II)
+COIRESPONDENCE & RECORDS DIVISION
+RECEIVED
+tjEP I3 ?otL
+MA.
+i
+
+lt
+z
+oExC
+Rep,uUic of the Philippirres
+Gtyof Drrvar
+Offic oif Urc SANGGUNIANG Panlungrod
+18th City Council
+znd Special Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma, Cherry Ann M, Bonguyan
+Pilar C. Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C, Lopez
+Diosdado Angelo A. Mahipus Sr.
+Avegayle Dalodo Ortiz
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Mary Joselle D. Villafuerte
+Jesus Joseph P, Zozobrado III
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+January N. Dutefte
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+Presiding Officer
+- On Vacation Leave
+- On Vacation Leave
+- On Domestic Emergency Leave
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0493.18
+SERIES of 2018
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE
+THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE
+PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND
+(CALAMITY FUND) OF THE CrTY GOVERNMENT OF DAVAO FOR CALENDAR YEAR
+2018, rN THE TOTAL AMOUNT OF FOUR MTLLTON TWO HUNDRED FrFTY
+THOUSAND PESOS (p4,25O,O00.00), TO EXTEND ASSTSTANCE AT FIVE HUNDRED
+THOUSAND PESOS (P5O0,000.00) EACH, TO DAGUPAN CrrY, PROVTNCE OF
+PANGASINAN, MUNICIPALITIES OF LINGAYEN, STA. BARBARA & CALASIAO,
+pRovrNcE oF PANGASTNAN, MUNTCTPALTTTES OF PAOMBONG AND MARilAO,
+pRovrNcE oF BULACAN, MUNTCTPALTTTES OF LA PAZ AND RAMOS, PROVTNCE
+oF TARLAC AND TWO HUNDRED FrFTY THOUSAND PESOS (P250,000.00) TO THE
+MUNTCTPALTTY OF MASANTOL, PROVTNCE OF PAMPANGA, WHrCH WERE
+AFFECTED By SOUTHWEST MONSOON (HABAGAT) EXACERBATED BY TYPHOON
+INDAY, CAUSING FLOODS THAT BROUGHT SUBSTANTIAL DAMAGE AND DEATH
+IN THE AFFECTED AREAS
+
+Ord. No. \WLB
+' q4s
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled:
+SECTION 1. TITLE - This Ordinance shall be known as 'AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW
+PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT
+(5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND)
+oF THE CrTY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2018, rN THE
+TOTAL AMOUNT OF FOUR MILLION TWO HUNDRED FIFTY THOUSAND PESOS
+(p4,250p00.00), To EXTEND ASSTSTANCE AT FIVE HUNDRED THOUSAND
+pEsos (p500,000.00) EACH, To DAGUPAN crrY, PRovrNcE oF PANGASTNAN,
+MUNTCTPALmES OF LTNGAYEN, STA. BARBARA & CALASTAO, PROVTNCE OF
+PANGASTNAN, MUNrCrpALrrrES OF PAOMBONG AND MARTLAO, PROVTNCE OF
+BULACAN, MUNICIPALmES OF LA PAZ AND RAMOS, PROVINCE OF TARLAC
+AND TWO HUNDRED FrFTY THOUSAND PESOS (P250,000.00) TO THE
+MUNTCTPALTTY OF MASANTOL, PROVTNCE OF PAMPANGA, WHICH WERE
+AFFECTED BY SOUTHWEST MONSOON (HABAGAT) EXACERBATED BY TYPHOON
+INDAY, CAUSING FLOODS THAT BROUGHT SUBSTANTIAL DAMAGE AND DEATH
+IN THE AFFECTED AREAS;
+SECTION 2. DECLARATION OF POLICY. In keeping with its mandates and in
+response to the needs of the people, the City Government of Davao declares as its policy to
+judiciously utilize its resources and put the same to proper use.
+SECTION 3. BENEFICIARIES.
+beneficiaries of the assistance, to wit:
+The following areas are hereby designated as
+1 Dagupan City, Pangasinan
+2 Municipality of Lingayen, Pangasinan
+3 Municipality of Sta. Barbara, Pangasinan
+4 Municipality of Calasiao, Pangasinan
+5 Municipality of Paombong, Bulacan
+6 Municipality of Masantol, Pampanga
+7 Municipality of La Paz, Tarlac
+8 Municipality of Ramos, Tarlac
+9 Municipality of Marilao, Bulacan
+TOTAL....
+P
+500,ooo.oo
+500,ooo.oo
+500,ooo.oo
+500,ooo.oo
+500,ooo.oo
+250,OOO.OO
+500,ooo.oo
+500,ooo.oo
+500,ooo.oo
+4,250,oo,O.OO
+P
+SECTION 4. LEGAL BASIS. Pursuant to the provision of SECTION 324 (d) of
+Republic Act No. 7L60, othenruise known as the Local Government Code of 1991, as
+amended by Republic Act 8185, "Five Percent (5%) of the estimated revenue from regular
+sources shall be set aside as annual lump sum appropriations for relief, rehabilitation,
+reconstruction and other works or seruices in connection with calamities which may occur
+during the budget year. Provided, however, that such fund shall be used only in the area,
+or a poftion thereof, of the local government unit or other areas affected by a disaster or
+calamity, as determined and declared by the local sanggunian concerned".
+In compliance thereto, the recipients of the financial assistance have submitted their
+respective resolutions declaring their areas under a State of Calamity, attached herein as
+Annex A;
+
+Ord. No. 0493-18
+Pursuant to SECTION 5 of the Implementing Rules and Regulations of RA 8185, it
+states that:
+Sedron 5. Allocation and Utilization of Five Percent (S%o.t Lumpsum Appropriations
+for CalamiU Fund
+a) Allocation
+XXX
+XXX
+"LGUs may also allocate/use a portion of the five percent (5o/o) Catamity Fund to
+other affected areas on condition that the said areas are declared as under a
+State of Calamity by the SANGGUNIANG concerned";
+b) Utilrzation
+(2) A portion of the calamity fund may also be authorized to be used by the
+LGU concerned to provide financial assistance to other LGLIs whose area or
+portion thereof had been declared under a state of calamity by its Sanggunian."
+SECTION 5. USE OF FUNDS - The amounts herein appropriated shall be used
+specifically for such items and expenditures approved by the SANGGUNIANG Panlungsod. All
+disbursements and utilization of funds shall be subject to the existing government
+budgeting, accounting and auditing rules and regulations of the Department of Budget and
+Management (DBM), the Commission on Audit (COA), the Procurement Law (RA 9184), as
+well as other applicable laws, ordinances and Presidential directives.
+SECTION 6.
+upon approval.
+EFFEcTIvIw - The provisions of this ordinance shall take effect
+ENACTED, on the 26th day of July, 2018, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ 0l^^; ) 6{
+cFtARITo tt. s[nros
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+-r'
+ARD E. AL.AG
+Vice Mayor
+Presiding Offlcer
+cns/kjtq
+ATTESTED:
+B
+
+\
+Ord. No. 0493-18
+li
+1 I SEP 2010
+APPROVED
+2018
+z.
+? city Mavorz
+ATTESTED:
+{kkr
+ATTY. ZULEIKA
+City Admin ,rvu?!9"'

@@ -1,0 +1,179 @@
+---
+ordinance_number: "0640-24"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ESPLANADE PORTION (JOGGING AREA OF THE MAIN ROAD) ALONG COASTAL ROAD ON SEPTEMBER 2q 2024, (SATURDAY) FROM 4:00AM UP TO 8:00AM FOR FAMILY FUN RUN 2O24IN CELEBRATION OF THE 32ND NATIONAL FAMILY WEEK"
+date_enacted: "2024-09-24"
+approval_date: "2024-09-28"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0640-24 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/esplanade, topic/portion]
+---
+
+# Ordinance No. 0640-24
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE ESPLANADE PORTION (JOGGING AREA OF THE MAIN ROAD) ALONG COASTAL ROAD ON SEPTEMBER 2q 2024, (SATURDAY) FROM 4:00AM UP TO 8:00AM FOR FAMILY FUN RUN 2O24IN CELEBRATION OF THE 32ND NATIONAL FAMILY WEEK
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th Caty Council
+36s Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto lavier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Jessica M. Bonguyan
+January N. Dutefte
+Kristine May John Abdul Mercado
+- Presiding Officer
+-On Domestic Emergenry Leave
+-On Maternity Leave
+-On Vacation Leave
+-On Domestic Emergency Leave
+ORDINANCE NO. 0640.24
+SERIES oJ 2O24
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFIC OF THE ESPLANADE PORTION (JOGGING AREA OF THE
+MAIN ROAD) ALONG COASTAL ROAD ON SEPTEMBER 2q 2024,
+(SATURDAY) FROM 4:00AM UP TO 8:00AM FOR FAMILY FUN RUN
+2O24IN CELEBRATION OF THE 32ND NATIONAL FAMILY WEEK
+
+Ord. No. 0640-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. Ifl!! - This Ordinance shall be known as "AN ORDINANCE
+FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE
+ESPIANADE PORTTON (JOGGTNG AREA OF THE MArN ROAD) ALONG
+COASTAL ROAD ON SEPTEMBER 28,2024, (SATURDAY) FROM 4:00AM UP
+TO 8:00AM FOR FAMILY FUN RUN 2024IN CELEBRATION OF THE 32ND
+NATIONAL FAMILY WEEK'.
+SECTION 2.
+- SECTION 21 (c) of Republic Act
+No. 7t60, othenruise known as the Local Government Code of 1991, provides that
+"any national or local road, alley, park, or square may be temporarily closed during
+an actual emergency, or fiesta celebrations, public rallies, agricultural or industria!
+fairs rco<".
+SECTION 3.rc
+- In connection with the upcoming
+32nd NATIONAL FAMILY WEEK, Mr. Elder Baftolome Madriaga, Area Sevenity and
+Priesthood Adviser, DCCC, requested for the temporary closure of the aforestated
+road for the specified purpose.
+SECTION 4. W
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force
+and effect.
+SECTION 5. EEEEI$!.IVITY - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on the 24th day of September 2024, by a unanimous vote of all
+the Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cHIftry{.\sfu;
+City Government Depaftment Head II
+(Secretary to the SANGGUNIANG Panlungsod) f',
+ATTESTED:
+J. MELc#B. eurrArN JR.
+,/vice Mayor
+Presiding Officer
+cns/ray
+
+APPROVED
+eaget6fs ?
+Ord. No. 0640-24
+sEP 3 0 de!
+2024
+Z. DUTERTE
+I
+Mayy
+ATTESTED:
+H. LAYOG
+r
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC OF THE
+ESPI-ANADE PORTION (JOGGING AREA OF THE MArN ROAD) ALONG COASTAL ROAD ON
+SEPTEMBER 28, 2024, (SATURDAY) FROM 4:00AM uP To 8:00AM FoR FAMILY FUN RUN
+2024IN CELEBRATION OF THE 32ND NATIONAL FAMILY WEEK
+ATTY

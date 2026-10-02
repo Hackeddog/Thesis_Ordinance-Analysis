@@ -1,0 +1,318 @@
+---
+ordinance_number: "0214-20"
+title: "An ordinance authorizing the City Mayor to accept and sign, for and in behalf of the City Government of Davao, the terms and conditions of the waze- data u load tool connected citizen's 0177-20 0939-20 An ordinance granting tax amnesty or relief from de real tax 0218-20 0100s-20 An ordinance granting the application of Huawei Technologies Inc., for additional allowable use for the installation of "
+date_enacted: null
+approval_date: "2020-03-25"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0214-20.pdf"
+section_count: 2
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: null
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/authorizing, topic/mayor, topic/accept, topic/sign, topic/behalf, topic/government]
+---
+
+# Ordinance No. 0214-20
+
+> An ordinance authorizing the City Mayor to accept and sign, for and in behalf of the City Government of Davao, the terms and conditions of the waze- data u load tool connected citizen's 0177-20 0939-20 An ordinance granting tax amnesty or relief from de real tax 0218-20 0100s-20 An ordinance granting the application of Huawei Technologies Inc., for additional allowable use for the installation of 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | - |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Cites or amends
+
+- [[Ordinance No. 0274-20]]
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+fuB
+YT
+Repu blli; of the Philippines
+OFFICE OF THE CTTYMAYOR
+t,*l
+CORRESPONDENCE AND RECORDS DIVISION
+2nd Indorsement
+April22,2020
+Respectfully forwarded to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, Office of the SANGGUNIANG Panlungsod, this city, the herein
+duly signed ordinances for appropriate action, to wit:
+h,
+w#,.
+i4^Rtmrftrrno
+Officer-In-Charge
+TITLE
+ORD. NO.
+RES. NO.
+0984-20
+An ordinance approving the application of
+Malagamot Compound Corp. for the reclassification
+of 85,962 square meters, more or less, parcel of
+land from high density residential sub-zone (R-3)
+and water resource zone (WRZ) to major
+commercial sub-zone (C-2) and water resource zone
+(WRZ) located in Brgy. Indangan, Buha
+District.
+02t4-20
+An ordinance authorizing the abolition of Tibungco
+Public Market Office, Bunawan Public Market Office
+and Lasang Public Market Office of the City
+Administrator's Office - City Economic Enterprise
+and to reorganize other affected public market
+offices.
+0963-20
+0206-20
+An ordinance authorizing the City Mayor to accept
+and sign, for and in behalf of the City Government
+of Davao, the terms and conditions of the wazedata u load tool
+connected citizen's
+0177-20
+0939-20
+An ordinance granting tax amnesty or relief from
+de
+real
+tax
+0218-20
+0100s-20
+An ordinance granting the application of Huawei
+Technologies Inc., for additional allowable use for
+the installation of a 3-legged self-support tower at
+Dona Asuncion, Brgy. Pampanga, Buhangin Dist.,
+this
+0420-19
+0t27-19
+An ordinance authorizing the transfer of the Internal
+Control Division from the City Administrator's Office
+to the City Mayor's Office and reorganizing the same
+as Internal Audit Seruice Division
+05s6-19
+0160-19
+RELf;ASED
+ChrO'iriD
+j: Vb _a._
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224-587 8 . davaoc itym ayor@g m a i l.co m
+-i
+.-r'
+\
+
+Republic of the?hilippines
+OFFICE OF THE CITY LEGAL
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Lcrc267
+Ref. No. CLO-2020-001348
+Legal Opinion 11e. Q8? ,
+Serles of 2020
+ORDINANCE NO. 0274-20, SERIES OF 2020, entitled "AN ORDINANCE
+APPROVING THE APPLICATION OF MALAGAMOT COMPOUND CORP. FOR
+THE RECLASSIFICATION OF 85,962 SQUARE METERS, MORE OR LESS,
+PARCEL OF LAND FROM HIGH DENSITY RESIDENTIAL SUB-ZONE (R-3)
+AND WATER RESOURCE ZONE (WRZ) TO MAJOR COMMERCIAL SUB-ZONE
+(C-2) AND WATER RESOURCE ZONE (WRZ) LOCATED IN BARANGAY
+INDANGAN, BUHANGIN DISTRICT, THIS CITY"
+l't INDORSEMENT
+March 3,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, this City, the herein Ordinance No. 0214-20, SERIES of 2020,
+informing your end that the measure is free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved,
+ATTY. MARL
+A. GALLO, RSW
+Acting Asst.
+Legal Offlcer
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA, JR.
+OIC-Acting City Legal Officer
+Date Approved: March 25,2020
+o r.{( ),:: t. l - 2 0 _ rc t [a.s s tfic,tt i o n _rn a fdg ttn t o t - 2 0 2 0-00 1 3 -l E ) - 2 i - 2 0
+(l t{ct'
+cilo codl^o,;24r-r,u, u)q
+ffi,
+fr
+ty
+AIDE
+0tt56t99702
+E
+}'{AR
+ANN O.
+s
+I
+tke -t - ?c
+
+. Republlc ofthe Philippines
+SARA Z. DUTERTE
+City Mayor
+March t9,2020
+0nt0b -4,
+ffi, .,fl,'ff-tr'ff RTCORDS DIVIS,ON
+IVED
+l{AR 2 0 2020
+Very truly yours,
+{r,*^
+at,lO fi
+MARY
+o.
+tv
+l0 a{,
+cMO
+l:
+Madam:
+'
+u.o,2D2\'0Onqe f.4b
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+Og84-20 and Ordinance No. O214-2O, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+d*I'h.
+4)\'
+dr^14ff*,',,Lfrf'
+T^[,2;,
+Secretary to the SANGGUNIANG Panl
+(City Government Depaftment Head II)
+I
+T
+t
+Ifl
+il
+
+I
+Office of the SANGGUNIANG Panlunlsod
+19th City Council
+6s Regular Session
+SERIES of 2019
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S, Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M, Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+lonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ottiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+- On Official Business
+ORDINANCE NO. O2L4.2O
+SERIES of 2020
+AN ORDINANCE APPROVING TIIE APPLICATION OF
+MATAGAMOT COMPOUND CORP. FOR THE RECTASSIFICATION
+oF 85,962 SQUARE METERS, MORE OR LESS, PARCEL OF LAND
+FROM HrGH DENSTTY RESIDENTTAL SUB-ZONE (R-3) AND
+WATER RESOURCE ZONE (WRZ) TO MAIOR COMMERCTAL
+suB-zoNE (G-2) AND WATER RESOURGE ZONE (WRZ)
+LOCATED IN BARANGAY INDANGAN, BUHANGIN DISTRICT,
+THIS CITY
+
+I
+PageZ of 2
+Ord. No. 0214-20
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as 'AN ORDINANCE
+APPROVING THE APPLICATION OF MATAGAMOT COMPOUI{D CORP. FOR THE
+RECTASSIFICATION OF 85,962 SQUARE METERS, MORE OR LESS, PARCEL OF
+LAND FROM HIGH DENSIW RESIDENTIAL SUB-ZONE (R-3) AND WATER
+RESOURCE ZONE (WRZ) TO MAIOR COMMERCTAL SUB-ZONE (C-2) AND WATER
+RESOURCE ZONE (WRZ) TOCATED IN BARANGAY INDANGAN, BUHANGTN
+DrsTRrcr, THIS CrTY".
+SECTION 2. SC1EE-The reclassification of the EIGHTY-FIVE THOUSAND NINE
+HUNDRED SIXTY-TWO (85,962) square meters, more or less, parcel of land covered
+under TCT Nos. I46-20t7022728, L46-20L7022729 and146-2017022730 from High
+Density Residential Sub-zone (R-3) and Water Resource Zone (WRZ) to Major Commercial
+Sub-zone (C-2) and Water Resource Zone (WRZ) located in Barangay Indangan, Buhangin
+District, this City, is hereby approved.
+SECTIOil 3. EFFECTMW - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, February tt, 2020, by a t/+ vote of al! the Members of the Sanggunian,
+there being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+President
+Temporary
+(Uwd, ) /,,"r
+cHARrro N,'SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Headjf
+3 0 ilAR 20n
+cns/kate
+APPROVED
+2020
+z.
+ATTESTED:
+ZULEIKA
+City Admin
+LOPEZ
+ctrt Mavy

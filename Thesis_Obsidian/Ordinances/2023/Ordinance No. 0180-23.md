@@ -1,0 +1,174 @@
+---
+ordinance_number: "0180-23"
+title: "Ordinance No. 0180-23"
+date_enacted: "2023-03-21"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0180-23 (2).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid]
+---
+
+# Ordinance No. 0180-23
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+lls Regular Session
+SERIES of 2023
+PRESENT:
+ABSENT:
+Councilor Lorenzo Benjamin D. Villafuerte - Temporary Presiding Officer
+Vice Mayor J. Melchor B. Quitain Jr.
+Councilor Marissa S. Abella
+Councilor Nilo M. Abellera Jr.
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Bernard E. Al-ag
+Councilor Wilberto E. Al-ag
+Councilor Al Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Jessica M. Bonguyan
+Councilor Louie John J. Bonguyan
+Councilor Pilar C. Braga
+Councilor Augusto Javier G. Campos III
+Councilor Jonard C. Dayap
+Councilor Edgar P. Ibuyan Jr.
+Councilor Edgar R. Ibuyan Sr.
+Councilor Richlyn N. Justol-Baguilod
+Councilor Diosdado Angelo Junior R. Mahipus
+Councilor Rodolfo M. Mande
+Councilor Jaffar U. Marohomsalic
+Councilor Bonz Andre A. Militar
+Councilor Temujin B. Ocampo
+Councilor Myrna G. L'Dalodo-Oftiz
+Councilor Alberto T. Ungab
+Councilor Trisha Ann J. Villafuefte
+Councilor Luna Maria Dominique S. Acosta
+Councilor Jesus Joseph P. Zozobrado III
+- On Domestic Emergency Leave
+- On Sick Leave
+ORDINANCE NO. 0180.23
+SERIES OF 2023
+AN ORDIilANCE GRANTING LEGISTATIVE AUTHORITY TO THE CITY
+MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK
+RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK
+REDUCTION AND MANAGEMENT FUND (CAIAMITY FUND) OF THE CITY
+GOVERNMET{T OF DAVAO FOR CALENDAR YEAR 2023 IN THE TOTAT
+AMOUNT OF THREE HUNDRED THOUSAND PESOS (P3OO,0O0.0O) AS
+FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF MARAGUSAN, DAVAO
+DE ORO, WHrCH WAS DECLARED UNDER A STATE OF CALAMITY DUE TO
+SERTES OF EARTHQUAKES, SUBJECT TO EXTSTTNG GOVERNMENT
+BUDGETING, ACCOUNTING, AND AUDITING RULES AND REGULATIONS
+
+Ord. No. 0180-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled,
+that:
+SECTIOil 1. TfTLE. - This Ordinance shall be known as AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CTTY MAYOR TO UTITIZE A
+PORTION OF THE THIRW PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION AND MAI{AGEMENT
+FUND (CAIAMrTY FUilD) OF THE CrTy GOVERNMENT OF DAVAO FOR CALEilDAR
+YEAR 2023 Iil THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS
+(P300,000.00) As FINANCTAL ASSISTANCE TO THE MUilICIPALITY OF
+MARAGUSAN, DAVAO DE ORO, WHrCH WAS DECLARED UNDER A STATE OF
+cAtAMrw DUE TO SERIES OF EARTHQUAKES, SUBJECT TO EXISTING
+GOVERNMENT BUDGETING, ACCOUNTING, AND AUDITING RULES AND
+REGULATIONS
+SECTION 2. DECLARATIOI{ OF POLICY. - It is the policy of the City Government
+of Davao to adopt measures and adhere to the national principles and standards of
+humanitarian assistance in response to risk reduction and declares as its policy to judiciously
+utilize its resources and put the same to proper use.
+SECTION 3. EEIEEICI4IBY. - The Municipality of Maragusan, Davao de Oro which
+was declared under the State of Calamity, is hereby declared as beneficiary of the financial
+assistance in the amount of Three Hundred Thousand Pesos (P300,000.00).
+SECTION 4. !ES!_ffi. - SECTION 21 of Republic Act No. 10121, or the
+"Philippine Disaster Risk Reduction and Management Act of 20t0", states that not less than
+five percent (5olo) of the estimated revenue from regular sources shall be set aside as the
+Local Disaster Risk Reduction and Management Fund (LDRRMF) to support disaster risk
+management activities such as, but not limited to, pre-disaster preparedness programs
+including training, purchasing life-saving rescue equipment, supplies and medicines, for
+post-disaster activities, and for the payment of premiums on calamity insurance.
+The same law likewise provides that, of the amount appropriated for LDRRI\4F, thity
+percent (30o/o) shall be allocated as Quick Response Fund (QRF) or stand-by fund for relief
+and recovery programs so that situation and living conditions of people in communities or
+areas stricken by disasters, calamities, epidemics, or complex emergencies, may be
+normalized as quickly as possible. Further, upon the recommendation of the Local Disaster
+Risk Reduction and Management Office (LDRRMO) and approval of the sanggunian
+concerned, the Local Disaster Risk Reduction and Management Council (LDRRMC) may
+transfer the said fund to support disaster risk reduction work of other LDRRMCS which are
+declared under the state of calamity.
+SECTION 5.
+. - The amount herein appropriated shall
+be used specifically for such items and expenditures approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of funds shall be subject to the existing
+government budgeting, accounting, and auditing rules and regulations of the Department
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement Law
+(RA 9184), as well as other applicable laws, Ordinances and Presidential directives.
+
+Ord. No. 0180-23
+SECTIOil 6. EEE!$IIVITY. - The provisions of this Ordinance shall take effect
+upon approval.
+ENACTED, March 21, 2023, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cn^(MN\#"*
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Ds,Bf,fment Head II),u
+ATTESTED:
+LORENZO
+IN
+ttAFUERTE
+City Councilor
+Temporary Presiding Officer
+qlulu
+AppROVEDT OtRltl7023 .2023
+DUTERTE
+SE
+City Mayor, V
+fi/
+ATTESTED:
+- ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE GRANTING
+AUTHORITY TO THE CITY MAYOR TO ITNUZE A PORTION OF THE
+THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK
+REDUCTION AND MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 2023 rN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00) AS
+FINANCIAL ASSISTANCE TO THE MUNICIPAUTY OF MARAGUSAN, DAVAO DE ORO, WHICH WAS DECI.ARED
+UNDER A STATE OF CAIAMITY DUE TO SERIES OF EARTHQUAKES, SUBJECT TO EXISTING GOVERNMENT
+BUDGEING, ACCOUNTING, AND AUDMNG RULES AND REGULANONS

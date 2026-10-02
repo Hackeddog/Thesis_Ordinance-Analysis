@@ -1,0 +1,232 @@
+---
+ordinance_number: "024-22"
+title: "AN ORDINANCE GRANTING THE APPLICATIOil FOR REZONING OF GMI GLOBAL VENTURES INC., FROM MEDIUM DENSITY RESIDENTIAL SUB.ZONE AND WATER RESOURCE ZONE TO COMMERCIAL ZONE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 024-22.pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/granting, topic/applicatioil, topic/rezoning, topic/global, topic/ventures, topic/medium]
+---
+
+# Ordinance No. 024-22
+
+> AN ORDINANCE GRANTING THE APPLICATIOil FOR REZONING OF GMI GLOBAL VENTURES INC., FROM MEDIUM DENSITY RESIDENTIAL SUB.ZONE AND WATER RESOURCE ZONE TO COMMERCIAL ZONE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+ZOh City Council
+1ls Regular Session
+SERIES of 2022
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Councilor
+Councilor
+Councilor
+Dante L. Apostol Sr.
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+-On Special Privilege Leave
+-On Sick Leave
+-On Official Business
+ORDINANCE NO. 024-22
+SERIES of 2022
+AN ORDINANCE GRANTING THE APPLICATIOil FOR REZONING
+OF GMI GLOBAL VENTURES INC., FROM MEDIUM DENSITY
+RESIDENTIAL SUB.ZONE AND WATER RESOURCE ZONE TO
+COMMERCIAL ZONE
+
+Ord. No. 024-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTIOil 1. r[!!! - This Ordinance shall be known and cited as ?N
+ORDINAilCE GRANTII{G THE APPLICATION FOR REZONING OF GMI GLOBAL
+VENTURES rNC., FROM MEDIUM DEilSTTY RESTDENTTAL SUB-ZONE AND WATER
+RESOURCE ZONE TO COMMERCIAL ZONE".
+SECTIOil 2.
+- Afticle V of the
+Comprehensive Zoning Ordinance of Davao City (20L3-2022) provides Common
+Regulations for General Zones:
+SECilON 1."
+. General zones are
+subject to review by the Zoning Review Committee every five (5)
+years from the enactnent of this ordinance. Any amendment
+thereof as recommended by committee shall be in accordance
+with provision of Afticle )CV SECTION 14.
+SECTION 2. "
+REQUIREMENT. Any reclassification of agricultural land to nonagricultural use must be in consultation with Depailrnent of
+Agriculture (DA) and Depaftment of Agrarian Reform (DAR) and
+the DAR requirement for conversion of agricultural land to other
+zones, and SECTION 20 of RA 7160, otherwise known as the Local
+Government Code of 1991, limiting reclassification to a maximum
+of the percentage of the total agricultural land of a city to fifteen
+percent (15o/o) for highly urbanized cities and must strictly comply
+with the provisions of the Joint Memorandum Circular No. 54 of
+the Housing and Land Use Regulatory Board (HLURB),
+Departnent of Agriculture (DA) and Depaftment of the Interior
+and Local Government (DILG). Reclassification from agricultural
+zone to non-agricultural use and any change from one general
+zone to another general zone must be approved by three-foufths
+(314) vote of all the members of the SANGGUNIANG Panlungsod
+through a resolution and an ordinance. Any change of general
+zone to another zone shall be considered as amendment of the
+zoning ordinance and must comply with the provision of Afticle
+}f,V, SECTION 14 hereof.
+ARTICLE }[V, SECTION 14. AMEilDMENTS TO THE ZOilING
+ORDINANCE. Changes in the Zoning Ordinance as a result of
+the review by the Local Zoning Review Committee shall be
+treated as amendment, provided that any amendment to the
+Zoning Ordinance or provision thereof shall be subject to public
+hearing and sectoral consultation to be conducted by the Local
+Zoning Review Committee and review evaluation of the said Local
+Zoning Review Committee and shall be caried out through a
+resolution/ordinance upon three foufth majority votes of all the
+members of the SANGGUNIANG Panlungsod.
+SECTIOil 3. ggyEBAGE. This Ordinance shall cover the grant of the application
+for rezoning of GMI Global Ventures Inc., from Medium Density Residential Sub-zone
+(R-2) and Water Resource Zone to Commercial Zone (WRZ) located in Barangay
+Catalunan Grande, Talomo District, Davao City, covered by the following Transfer
+Ceftificate'of TiUe, to wit:
+
+TCT No.
+Area
+Current Zone
+Classification
+Proposed Zonal
+Classification
+TCTNo.1462020002165
+140 sqm.
+a
+Medium Density
+Residential Sub-zone
+(R-2)
+Water Resource
+Zone to Commercial
+Zone (WRZ)
+a
+Commercial Zone
+TCTNo.1462020002166
+140 sqm.
+a
+Medium Density
+Residential Sub-zone
+(R-2)
+Water Resource
+Zone to Commercial
+Zone (WRZ)
+a
+Commercial Zone
+Total
+280 sqm.
+Ord. No. 024-22
+SECTION 4. re.
+- If, for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, other sections or provisions hereof which
+are not affected thereby, shall continue to be in full force and effect.
+SECTION 5.EEEElgru. This Ordinance shall take effect upon approval.
+ENACTED, 20tn day of September 2022, by a s/+ majority votes of the Members of
+the SANGGUNIANG Panlungsod.
+CERTIFIED CORRECT:
+n cfin6^ \*^,-
+CHARITO N. SANTOS
+Secretary to the SangguniangPanlungsod
+(City Government Depaftment Head II)
+ATTESTED:
+rcHs. eurrArN r*.
+/ vice Mayor
+Presiding Officer
+cns/ser
+J. ME
+O.i ,? , *-
+APPROVED. 0CT 2g
+2022
+Z. DUTERTE
+H. LAYOG
+inistrator
+ATTESTED:
+Acting
+City Mayor !

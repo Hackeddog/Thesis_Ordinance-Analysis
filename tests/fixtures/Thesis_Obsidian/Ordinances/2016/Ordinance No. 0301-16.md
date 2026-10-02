@@ -1,31 +1,29 @@
 ---
-title: "Ordinance No. 0301-16"
 ordinance_number: "0301-16"
-aliases: ["Ordinance No. 0301-16", "0301-16"]
-corpus_year: 2016
+title: "Ordinance No. 0301-16"
+date_enacted: "2016-06-07"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0301-16.pdf"
+section_count: 0
+verification_status: "unverified"
 folder_year: 2016
 resolved_year: 2016
-enactment_date: "2016-06-07"
-approval_date: null
-series_year: 2016
-council_term: 18
-session: ""
-sponsor: ""
-approving_mayor: "City Vice-Mayor and Presiding Officer"
-presiding_officer: "BERNARDO M. AL-AG"
+corpus_year: 2016
 temporal_status: "valid"
 confidence_score: 1.0
+detected_enactment_year: 2016.0
+detected_ordinance_number_year: 2016
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
 resolution_source: "consensus"
-manually_verified: false
-included_in_corpus: true
-extraction_method: "Digital"
-page_count: 1
-word_count: 46
-section_count: 0
-whereas_count: 0
-source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\tests\\fixtures\\data\\raw\\2016\\Ordinance No. 0301-16.pdf"
-sha256: "9740a615d4544124"
-indexed: "2026-09-08"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
 tags: [ordinance, davao, year/2016, status/valid]
 ---
 

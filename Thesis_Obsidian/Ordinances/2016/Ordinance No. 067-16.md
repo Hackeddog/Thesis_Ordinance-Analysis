@@ -1,0 +1,288 @@
+---
+ordinance_number: "067-16"
+title: "AN ORDINANCE FOR TEMPORARY cLosURE To VEHICULAR TRAFFIC oF A PORTION OF GLADIOLA STREET(IN BETWEEN CARNATION AND SAMPAGUITA STREETS) BUHANGIN, THIS CITY FROM 8:00 A.M TO 7:00 p.M ON SEPTEMBER 23, 2016IN LINE WITH THE STARCHILD INNOVATIVE LEARNING ACADEMY'S SCOUTING CAMP our AcrIVTry\" with the information that no executive action was taken on the subject matter since the activity is already finishe"
+date_enacted: null
+approval_date: "2016-10-14"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 067-16.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/portion, topic/gladiola]
+---
+
+# Ordinance No. 067-16
+
+> AN ORDINANCE FOR TEMPORARY cLosURE To VEHICULAR TRAFFIC oF A PORTION OF GLADIOLA STREET(IN BETWEEN CARNATION AND SAMPAGUITA STREETS) BUHANGIN, THIS CITY FROM 8:00 A.M TO 7:00 p.M ON SEPTEMBER 23, 2016IN LINE WITH THE STARCHILD INNOVATIVE LEARNING ACADEMY'S SCOUTING CAMP our AcrIVTry" with the information that no executive action was taken on the subject matter since the activity is already finishe
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic oflh'e Philippines
+, Citf of Davao
+18th City Council
+1ls Regular Session
+SERIES of 2016
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Jesus Joseph P. Zozobrado III
+Nilo M, Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+- Temporary Presiding Officer
+- On Vacation Leave
+- On Domestic Emergency Leave
+- On Domestic Emergency leave
+- On Vacation Leave
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Paolo Z. Duterte
+Dante L. Apostol Sr.
+Joanne M. Bonguyan-Quilos
+January N. Duterte
+ORDINANCE NO.067.16
+SERIES of 2016
+AN ORDTNANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFTC OF A PORTION OF GLADIOLA
+STREET (IN BETWEEN CARNATION AND SAMPAGUITA
+STREETS), BUHANGIN, THIS CITY FROM 8:00 A.M. TO
+7:00 P.M. ON SEPTEMBER 23, 2016 IN LINE WITH THE
+STARCHILD INNOVATIVE LEARNING ACADEMY'S
+SCOUTING CAMP OUT ACTIVIW
+
+Ord. No. 067-16
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao city, in
+session assembled that:
+SECTION 1. TITLE. - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTION OF
+GLADIOLA STREET (IN BETWEEN CARNATION AND SAMPAGUITA STREETS),
+BUHANGIN, THIS CITY FROM 8:00 A.M. TO 7:00 P.M. ON SEPTEMBER 23, 2016
+IN LINE WITH THE STARCHILD INNOVATIVE LEARNING ACADEMY'S
+SCOUTING CAMP OUT ACTIVITY'';
+SECTION 2. DECLARATION OF POUCY. - SECTION 21 (c) of Republic Act No.
+7160, othenarise known as the Local Government Code of 1991, provides that any
+national or local road, alley, park, or square may be temporarily closed during an actual
+emergency, or fiesta celebrations, public rallies, agricultural or industrial fairs, or an
+undertaking of public works and highways, telecommunications and water works
+projects;
+SECTION 3. TEMPORA
+Y CLOSURE . - In line with the STARCHILD INNOVATIVE
+LEARNING ACADEMY S SCOUTING CAMP-OUT ACI-IVITY, a portion of G|adio|a Street (in
+between carnation and sampaguita streets), Buhangin, this city, shall be temporarily
+closed to vehicular traffic on September 23,2016 from 8:00 A.M. to 7:00 p.M.;
+SECTION 4. SEPARABILIW CLAUSE. -If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect;
+SECTION 5. EFFECTIVITY. - This ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 20th day of September, 20L6, by a majority vote of all the
+Members of the Sanggunian present.
+CERTIFIED CORRECT:
+e!fu|Jrfo,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II),
+ATTESTED:
+J
+. ZOZOBRADO III
+Councilor
+Temporary Presiding Officer
+cns/kjtq
+
+Ord. No. 067-16
+APPROVED
+20L6
+ATTESTED:
+ATTY. ZULEIKA T, LOPEZ
+City Administrator
+SARA Z. DUTERTE
+City Mayor
+
+:"€.llSu
+f,ff/,9
+c
+RECEIVEO
+g7 bfi
+nrr,flllT 7 I 2C16
+III\iE
+.F
+2,'d INDORSEMENT
+October 19, 2016
+Respectfully returned to Ms. charib N. santos, secretary to the sangEuniang
+Panlungsod, this city, the herein attached ordinance No. 067-16, SERIES of 2016
+entitled, "AN ORDINANCE FOR TEMPORARY cLosURE To VEHICULAR TRAFFIC oF A
+PORTION OF GLADIOLA STREET(IN BETWEEN CARNATION AND SAMPAGUITA
+STREETS) BUHANGIN, THIS CITY FROM 8:00 A.M TO 7:00 p.M ON SEPTEMBER 23,
+2016IN LINE WITH THE STARCHILD INNOVATIVE LEARNING ACADEMY'S SCOUTING
+CAMP our AcrIVTry" with the information that no executive action was taken on the
+subject matter since the activity is already finished, for appropriate action.
+For the City Mayor:
+ATTY. TRIsTA,* onffiooul l{Go
+Assistant City Administrator
+(Administration)
+eMe ' {RI!
+RELEASED
+A.L^
+0cT
+TDPD/5h.n9
+Second Floor, City Hall Building, San pedro St., Davao City
+(O82) 227 -2577 . (0821 224-5878. davaocitymayor@gmail.com
+/o- nd -o(
+lDDts
+V
+OFFICE OF THE CITY MAYOR
+,
+
+CMO. CRD
+REEE!VED
+OFFICE OF THE CITY LEGAL O
+City of Davao )l, l
+0cI
+FFICER,.Frir,_ ._
+ISI
+. 3E
+tEcttVEO BY
+Ref. No. 1131-16
+LEGAL OPINION NO. 405
+SERIES OF 2016
+ld INDoRSEMEilT
+ocToBER 14,20t6
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 067-16,
+SERIES of 2016 entitled "AN ORDINANCE FoR THE TEMPoRARY cLosURE
+TO VEHTCUIAR TRAFFTC OF A PORTTON OF GIADTOTA STREET (r1{
+BETWEEN CARNATIOil AND SAMPAGUTTA STREETS) BUHANGIN, THIS
+CITY FROM 8:00 A.M TO 7:00 P.M ON SEPTEMBER Z, 2OL6 rN LrNE
+WITH THE STARCHITD INNOVATIVE LEARNING ACADEMY'S SCOUTIilG
+CAMP OUT ACTMTY", informing your end that no executive action is needed
+on the matter, it appearing that the activity had been done, thereby rendering
+the measure moot.
+ATTY. MAR
+A. GALIO, RSW
+rney 1V
+Approved by:
+ATTY. OSMU
+Assistant City
+P. VILTANUEVA, JR.
+al Officer, OIC
+Date approved: October 14,2016
+o
+oc
+qt
+(
+m
+a
+?Yt 'Y7/t'rr
+a
+DA!AJ
+rut;
+
+\
+Republikb ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW gr0'\
+October 7, 2016
+CMO " CRD
+Madam:
+cns/nta
+om
+t
+A
+C)
+G
+RECi:IVFf]
+T ll ?01$
+1: 9o
+wtb-0tq4 f,.rl
+*
+VAo
+Pursuant to Sub-SECTION :, earagr;n C, SECTION 469, Article One, Tifle Five,
+chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0u9-16 and ordinance No. 067-16, both SERIES of 2016 of the
+SANGGUNIANG Panlungsod, this City, for your information, guidance, and appropriate
+action.
+Very truly yours,
+^'Clnn A\ l^;
+CHARTTO N/SANTOS
+Secretary to the Sang{uniang Panlungsod
+(City Government Department Hea?II)
+lirne
+R
+?8U-' 4F
+SARA Z. DUTERTE
+City Mayor

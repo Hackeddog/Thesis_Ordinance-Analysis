@@ -1,0 +1,304 @@
+---
+ordinance_number: "0152-19"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFTC OF THE ROAD BETWEEN THE SANGGUNIANG PANLUNGSOD BUILDING AND RIZAL PARK FROM 2:00 A.M. UP TO 6:00 A.M. ON DECEMBER L6-24, 2019 IN CONNECTUIN WITH 9 MORNINGS/SIYAM KA KADLAWON SNACK BAZIAP OF THE PASKO FIESTA 2019 CELEBRATION\", with the information that no executive action is needed on the matter since the activity has already lapsed, there"
+date_enacted: null
+approval_date: "2019-12-18"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0152-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/trafftc, topic/road, topic/between]
+---
+
+# Ordinance No. 0152-19
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFTC OF THE ROAD BETWEEN THE SANGGUNIANG PANLUNGSOD BUILDING AND RIZAL PARK FROM 2:00 A.M. UP TO 6:00 A.M. ON DECEMBER L6-24, 2019 IN CONNECTUIN WITH 9 MORNINGS/SIYAM KA KADLAWON SNACK BAZIAP OF THE PASKO FIESTA 2019 CELEBRATION", with the information that no executive action is needed on the matter since the activity has already lapsed, there
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+".1'Ha
+$1W$
+OFFICE OF THE CITYIVIAYOR
+L
+Ref. No. CAdG2019-04931
+2Nd INDORSEMENT
+January 3,2024
+Respectfully retumed to l.ls. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 790, SERIES of 2019 dated December
+18, 2019 of the City Legal Office, relative to the attached Ordinance No. 0152-19, SERIES
+of 20t9, entiUed "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFTC OF THE ROAD BETWEEN THE SANGGUNIANG PANLUNGSOD BUILDING AND
+RIZAL PARK FROM 2:00 A.M. UP TO 6:00 A.M. ON DECEMBER L6-24, 2019 IN
+CONNECTUIN WITH 9 MORNINGS/SIYAM KA KADLAWON SNACK BAZIAP OF THE PASKO
+FIESTA 2019 CELEBRATION", with the information that no executive action is needed on
+the matter since the activity has already lapsed, thereby rendering the ordinance moot,
+for your appropriate action.
+For
+Mayor:
+ATTY.
+H. ESPARCIA
+JAN 03 ?020
+DIV
+L
+RE EASED
+ry A.'
+L,;C ,t ttf tf
+-o
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.coml
+BAre1@
+AIDE
+
+,ii ru6
+,3;B
+OFFICE OF THE CITY LEGAT
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc267t22it230
+a
+";4S$B BI:
+;rB 27 DE C
+Ref. No clo-2019-00047t4
+';, i.:,.,
+',t'\'
+LEGAL OPINION NO.
+SERIES OF 2019
+1St INDoRSEMENT
+December 18, 2019
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0152-19,
+SCTiCS Of 2019 CNtitICd 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE ROAD BETWEEN THE SANGGUNIANG
+PANLUNGSOD BUILDING AND RIZAL PARK FROM 2:00 A.M. up ro 6:00 A.M. oN
+DECEMBER L6-24, 2019 IN CONNECTION WITH 9 MORNINGS/SIYAM KA
+KADI.AWON SNACK BAZAAR OF THE PASKO FIESTA 2OL9 CELEBRATION",
+informing your end that the same is free from legat infirmity citing RA 7160,
+otherwise known as the Local Government code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A
+local government unit may, pursuant to an ordinance, permanently
+or temporarily close or open any local road, alley, park, or square
+falling within its jurisdiction: ProvideQ however, That in case of
+permanent closure, such ordinance must be approved by at least
+two-thirds (2/3) of all the members of the sanggunian, and when
+necesfrry, an adequate substitute for the public facility that is
+subject to closure is provided.
+XXX
+(c) Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial fairs, or an
+undertaking of public works and highways, telecommunications, and
+waterworks prolec9 the duration of which shall be specified by the
+local chief executive concerned in a written order: providee
+however, That no national or local road, alley, park, or square shail
+be temporarily closed for athletiq cultural, or civic activities not
+officially sponsored, recognized or approved by the local government
+unit concerned'i
+IN VIEW THEREOF, it is recommended that the ordinance be approved.
+ATTY.
+Acti ng
+A. GALLO, RSW
+Legal Officer
+Approved by:
+ATW. OSMUN
+P. VILTANUEVA, JR.
+OIC-Acting City Legal Officer
+Date Approved: December 18, 2019
+or[0 1 5 2 - 1 9_c hs ure _9 -monti n gs _20 1 9 tN04 Z 1 I _ 1 2- 1 8 - 1 9
+@[ee
+AI
+Y
+q,
+\
+l,tco-b-t\r
+i" ;:"{;{rfrfrmfr
+|'-Ll.'a
+
+.j
+.
+Repqb_lic_ o!$lPhilippines
+December 13,2019
+lNvtl-16
+SARA Z. DUTERTE
+City Mayor
+Madam:
+uo- Ulq-Orocll 14 P.a&
+I
+a
+C)
+ti
+t.
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0593-19. SERIES of 2019 and Ordinance No. 0152-19, SERIES of 2019 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+cfiftr+Bhrfrtr"'
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVEO
+t)E0 t6 20lg
+.9=.,-.
+'ffi.
+ALVARADO
+MARY ANN
+?0
+l
+IV
+AIDE
+ADM
+09956299702
+rOc.
+*l
+CONTACT
+cMo
+
+19th City Council
+15s Regular Session
+SERIES of 2019
+PRESENT:
+ABSENT:
+Councilor
+Councilor
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Augusto Javier G. Campos III
+- Temporary Presiding Officer
+Sebastian Z. Duterte
+Ralph O, Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. LDalodo-Ortiz
+Antoinette G. Principe-C-astrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor Edgar R. Ibuyan Sr.
+-OB-Attended the 6th National
+Executive Board Meeting of the
+Liga ng mga Barangay in
+Mandaluyong City
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+ORDINANCE NO. 0152.19
+SERIES of 2019
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC OF THE ROAD BETWEEN THE
+SANGGUNIANG PANLUNGSOD BUILDING AND RIZAL PARK
+FROM 2:00 A.M. UP TO 6:00 A.M. ON DECEMBER 16'24,2019
+IN CONNECTION WITH 9 MORNINGS/SIYAM KA IGDLAWON
+SNACK BAZAAR OF THE PASKO FIESTA 2019 CELEBRATION
+I
+Republic of tl'ie Philippines
+
+Ord. No. 0152-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC OF THE ROAD BETWEEN THE
+SANGGUNIANG PANLUNGSOD BUILDING AND RIZAL PARK FROM 2:00 A.M. UP TO 6:00
+A.M. ON DECEMBER T6-24, 2OL9 IN CONNECTION WITH 9 MORNINGS/SIYAM KA
+KADI.AWON SNACK RAZAAR OF THE PASKO FIESTA 2019 CELEBRATION.
+SECTION 2. DECLARATION OF POLICY - SECTION 21 (c) of Republic Act No.
+7t60, otherwise known as the Local Government Code of 1991 provides that any national
+or local road, alley, parlq or square may be temporarily closed during an actual
+emergency, or fiesta celebrations...;
+SECTION 4. SEPARABILIIY CUUSE. If for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions
+hereof not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMW - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on December 10, 20L9, by a unanimous vote of all the Members of the
+Sanggunian present.
+CERTIFIED CORRECT:
+SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II),
+ATTESTED:
+G.
+POS III
+City Cou
+Temporary Presiding Officer
+cns/ray
+2019
+SARA Z. DUTERTE
+ciV Mavy,
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+ATTESTED:
+SECTION 3. TEMPORARY ROAD CLOSURE - The road between the SANGGUNIANG
+Panlungsod building and Rizal Park wil! be temporarily closed to vehicular traffic from
+2:00 A.M. up to 6:00 A.M. on December L6-24, 20L9 as requested by Ms. Maribeth M.
+Lumactod, Manager of City Economic Enterprise, in connection with 9 Mornings/Siyam ka
+Kadlawon Snack Bazaar of the Pasko Fiesta 2019 Celebration.

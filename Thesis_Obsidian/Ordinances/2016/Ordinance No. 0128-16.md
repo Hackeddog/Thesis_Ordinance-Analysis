@@ -1,0 +1,349 @@
+---
+ordinance_number: "0128-16"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY (DICT) RELATTVE TO THE *TECH4ED PROJECT'"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0128-16.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/enter, topic/sign]
+---
+
+# Ordinance No. 0128-16
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY (DICT) RELATTVE TO THE *TECH4ED PROJECT'
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | - |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 17,862 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2016\Ordinance No. 0128-16.txt`*
+
+Republic af r.h'r Fhiiippines
+Office of the Sangguni,. rg Panlungsod
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Diosdado Angelo A. Mahipus Sr.
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Temporary Presiding Officer
+'tl
+l8th City Council
+23'd Regular Session
+SERIES of 2016
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counctlor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Paolo Z. Duterte
+Joanne M. Bonguyan-Quilos
+January N. Duterte
+Bonifacio E. Militar
+Marissa P. Salvador-Abella
+- On Vacation Leave
+- On Maternity Leave
+- On Vacation Leave
+- On Sick Leave
+- On Vacation Leave
+.r'
+.t
+:
+t
+ORDINANCE NO. 0128.16
+SERIES of 2016
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY
+TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR
+AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO THE MEMORANDUM OF AGREEMENT TO BE
+ENTERED INTO BY AND BETWEEN THE CITY
+GOVERNMENT OF DAVAO AND THE DEPARTMENT OF
+INFORMATION AND COMMUNICATIONS TECHNOLOGY
+(DICT) RELATTVE TO THE *TECH4ED PROJECT',
+
+Ord. No. 0128-16
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE.- This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATTVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO THE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN TTIE
+CITY GOVERNMENT OF DAVAO AND THE DEPARTMENT OF INFORMATION AND
+CoMMUNTCATTONS TECHNOLOGY (DICT) RELATM TO THE *TECH4ED
+PROJECT";
+SECTION 2. DECLARATION OF POLICY. - SECTION SECTION 455, (b) (l) (vi) of
+Republic Act No. 7160, otherwise known as the Local Government Code of 1991 provides, to
+wit:
+"For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city
+mayor shall represent the city in all its business transactions
+and sign in its behalf all bonds, contracts, and obligations,
+and such other documents upon authority of the
+SANGGUNIANG panlungsod or pursuant to law or ordinance"'
+SECTION 3. AUTHORITY. - The City Mayor is hereby granted legislative authority
+to sign, for and in behalf of the City Government of Davao, the Memorandum of Agreement
+to be entered into by and between the City Government of Davao and the Department of
+Information and Communications Technology, relatlve to the "Tech4ed Project";
+SECTION 4. SEPARABILITY CLAUSE.- If for any reason, af,y SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, on the 16th day of December, 20!6, by a unanimous vote of all the
+Members of the Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+.hlkJr&,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+/L.AG
+E.A
+Acting Vice Mayor
+porary Presiding Officer
+cns/kjtq
+ATTESTED:
+tf
+
+n
+ATTY. ZULEIKA T. LOPEZ
+City Administrator#
+Ord. No. 0128-16
+SARA Z. DUTERTE
+*
+City Mayor?
+/
+ATTESTED:
+DEEMEDAPPROVEDAFTERTHE LAPSE OF
+--1
+l
+rl
+
+t
+REPUBLIC OF THE PHILIPPINES )
+) S.S.
+MEMORANDUM OF AGREEMENT
+KNOW ALL MEN BY THESE PRESENTS:
+This Memorandum of Agreement (X4OA) made and entered into, on
+-
+day
+of
+201,6 in
+by and among:
+The DEPARTMENT OF INFORMATION AND
+COMMUNICATIONS TECHNOLOGY, a department
+created through Republic Act No. 10844 dated May 23,
+201,6 with principal office address at DICT Building, C.P.
+Garcra Avenue, UP Diliman, Quezon Ciry represented
+herein by its Mindanao Cluster 3 Director, ALIMBZAR P.
+ASUM, hereinafter referred to as "DICT "1
+-andThe LOCAL GOVERNMENT OF DAVAO CITY,
+reprcsented herein by its Honorable Mayor SARA
+DUTERTE-CARPIO duly authorized for the puqpose,
+hereinafter referred to as the ttLGU"l
+WITNESSETH: ThatWHEREAS, DICT is mandated to ensure the provision of efficient and
+effective information and communications technology infrastructure to support
+efficient, effective, transparent and accountable governance and, in particular, support
+the speedy and efficient enforcement of rules and delivery of accessible public
+services to the people;
+WHEREAS, in line with its mandate, DICT aims to bridge the digital divide
+to enhance socio-economic condition providing inclusive growth to the country by
+establishing Tech4ED Centers under its eFilipino - Technology for Economic
+Development Project;
+WHEREAS, under the Tech4ED Project are different segments, which aim to
+cater to Out-of-School Youth and Adults (OSYA), women, teachers, Overseas Filipino Workers (OFS7s) as well as their famfies and relatives, Persons With Disabilities
+(P\X/Ds), senior citizens, indigenous people, and entrepreneurs as its target market or
+END-USERS;
+
+I
+WHEREAS, DICT and the LGU have agreed to cooperate and joindy
+commit in promoting community development through the use of information and
+communications technology for effective and efficient governance in the country,
+particulady through the Program;
+WHEREAS, the Parties have agreed for the free use of the platform,
+technology and brand for Tech4ED Project by way of usufruct under the herein
+below conditions for the sole purpose of furthering the objectives of the project;
+WHEREAS, fie [LGU] has presented the DICT a Resolution that
+authorizes and allows the [LGU] to enter into a binding MOA, and the pGU
+Head/Rep] having glven the authority to sign and execute the contract;
+NOW THEREFORE, for and in consideration of the above premises,
+DICT and [LGU]as the Parties involved have mutually reached the following
+Agreement:
+I. PURPOSE OF THE MOA
+This MOA is an agreement between the parties for the free use by way of
+usufruct of DICT's platform, solutions, technology and brand of Tech4ED Project
+by the LGU by which to provide services to the marglnalized sectors of society in
+order to make the collaboration and cooperation between the parties possible, subject
+to adherence to minimum requirements of the law. The location(s) and description(s)
+of site(s) is f are found in ANNEX A.
+II. AGREEMENT OF THE PARTIES
+2.1,
+The Parties hereto understand that
+implementing the project;
+th.y share the coffunon goal of
+2.2
+The Parties hereto acknowledge that proper coordination berween the parties
+shall be made to ensure the success of the project;
+2.3 The Parties hereto acknowledge that ownership of the platform, solutions,
+technology and brand shall remain with DICT, while those provided by the
+LGU rf any, shall remain with the LGU;
+The Parties hereby undertake to faithfully and stricdy perform
+responsibilities enumerated under this MOA and fully understand
+consequences therein in case of non-performance thereof;
+the
+the
+2.4
+\
+
+2.5 The Parties know and understand that the DICT is providing the use of its
+platform, solutions, technology and services by way of usufruct free of any
+charge. Furthermore, the Parties hereby declare that DICT is NOT charging
+any fee from the LGU, from its community or from the public for the use of
+the platform, solutions, technology and brand of the Tech4ED Project under
+this MOA;
+2.6 The LGU shall not impose additional charges or fees in order to access
+the contents of the platform under the Tech4ED Project; and
+2.7 Under no circumstance shall the fees collected by the pGU] be released to the
+DICT, its officers and staff as payment of fees, services, holorana, and other
+similar disbursements.
+III. RESPONSIBILITIES OF THE PARTIES
+3.1, The responsibilities of DICT under this MOA shall be as follows :
+3.1.1,. Allow the LGU free use of the platform of the Tech4ED project,
+comprising of the digital content stipulated in ANNEX B ;
+3.1,.2. Conduct the appropriate training and orientation to the LGU Tech4ED
+Team prior to operation;
+3,1,.3. Support and assist the LGU in the initial implementation of the
+Tech4ED Project;
+3.1.4. Acknowledge the collaboration wrth the LGU in the implementation of
+the project;
+3.1.5 Review reports required to be submitted by the LGU; and
+3.1.6. Evaluate and conduct periodic monitoring of the LGU Tech4ED
+Center performance.
+
+3.2. The responsibilities of the LGU under this MOA shall be as follows:
+3.2.1. Following its manifestation of intent to enter into a Memorandum of
+Agreement, to furnish the DICT an Ordinance containing among
+others, a conformity with the terms and conditions for the free use of
+the platform, solutions, technology and branding of the Tech4ED
+project;
+3.2.2. Allow Tech4ED platform, solutions, technology and brand of Tech4ED
+in City Library and Information Center, satellite libraries and the mobile
+library where computers shall be deployed and accommodate
+constituents who shall avail of the center's services;
+3.2.3. Allow and ensure the operation of the Tech4ED Center from Monday
+through Friday, for at least eight (8) consecutive hours, ideally from 8
+o'clock in the morning untri 5 o'clock in afternoon in accordance with
+Tech4ED Center operations guidelines;
+3.2.4. At least two permaflent or full-tjme personnel to be designated as the
+Tech4ED Center Manager and the Tech4ED Center Assistant Manager
+respectively, to manage the day to day operations of the Center and
+ensure its safety and security;
+3.2.5. Shoulder the costs of Travel and Training for its Tech4ED Center
+Manager and Tech4ED Center Assistant who shall akeady be tasked to
+attend the training under the Tech4ED Project such as but not limited
+to the Center Managers Training and annual Summit for I(nowledge
+exchange to enhance the centers performance;
+3.2.6 Provide at least three (3) operational laptops or desktop computers, an
+all-in-l equipment of printer, scanner and copier, and CCTV Camera per
+center for use at the prescnbed hours of operation in accordance with
+the suggested specifications (attached as Annex C);
+3.2.7 Ensure that each Computer shall be readily available and functional for
+use of the target market or END-USER for at least the prescribed
+operational days rfl ayea\ for the duration of the Contract;
+3.2.8 Ensure the availability of service center or computer technicians within
+the area who shall prompdy address report/complaint of the user and
+do preventive mainteflance against such items, but not limited to, viruses,
+malware and the like, on a quartedy basis;
+3.2.9 Prepare and submit to DICT monthly incident management report of
+complaints and incidents escalated by the target market or ENDUSER/s with information on the actions taken by the service ceflter or
+technicians and the corresponding response time;
+a
+
+I
+3.2.10. Ensure connectivity of the laptops or desktops to be used at the
+Tech4ED Center through WiFi with ^t least 2mbps Committed
+Information Rate (CIR) and at least one (1) router;
+3.2.1,1,. Provide security measures such 2S, but not limited to operational
+security c^mer for the protection of any and all materials in the
+Tech4ED Center against theft;
+3.2.12. Provide at least three (3) computer tables, and at least two (2) extn
+tables and chairs;
+3.2.1,3. Shoulder the costs of monthly operating expenses, as incorporated in
+the Annual Budget of the City Library and Information Center , such
+as salaries of the plantilla personnel assigned to implement the project,
+electric ; internet and telephone bills ; supplies and materials ; and
+other incidental expenses for the continuous operation of the Tech4ED
+Centers;
+3.2.14.Institute and spearhead the advocacy and promotional activities 

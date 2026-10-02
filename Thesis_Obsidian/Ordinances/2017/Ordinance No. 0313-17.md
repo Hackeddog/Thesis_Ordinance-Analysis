@@ -1,0 +1,429 @@
+---
+ordinance_number: "0313-17"
+title: "AN ORDINANCE GRAf.InNG LEGISI-ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER IISTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN CACAO INDUSTRY DEVELOPMENT ASSOCIATION OF MINDANAO, INC. (CIDAMI) AND THE CITY GOVERNMENT OF DAVAO RELATIVE TO THE ESTABLISHMENT oF CHOCOLATE HUB AT THE PASALUBONG CENTER\", with the attached c"
+date_enacted: "2017-11-07"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0313-17.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.7
+detected_enactment_year: 2017.0
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2018.0
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/graf, topic/inng, topic/legisi, topic/ative, topic/authority, topic/mayor]
+---
+
+# Ordinance No. 0313-17
+
+> AN ORDINANCE GRAf.InNG LEGISI-ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER IISTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN CACAO INDUSTRY DEVELOPMENT ASSOCIATION OF MINDANAO, INC. (CIDAMI) AND THE CITY GOVERNMENT OF DAVAO RELATIVE TO THE ESTABLISHMENT oF CHOCOLATE HUB AT THE PASALUBONG CENTER", with the attached c
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2017 |
+| Series header | 2018 |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 14,557 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2017\Ordinance No. 0313-17.txt`*
+
+OFFTCE OFTHE CTTYMAYOR
+9aCiir'9
+p,wc
+rm/tuq
+Ref. No. CAdO 2018{0492
+2nd Indorsement
+February 2I,20L8
+Respectfully returned to the Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein Ordinance No. 0313-17 SERIES of
+2OL7, with Endorcement/Recommendation No. 32 SERIES of 2018, the attached
+Memorandum of Agreement wlth Cacao Industry Development Assoclatlon of Mlndanao,
+duly signed and notarized, for your appropriate action.
+For the City Mayor:
+ATTY.
+Administrator
+(Administration)
+RELEASED
+EMO. CRD
++"u
+lt-t -tt
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com. pAw @
+LIFE
+IS HERE
+a
+
+I
+e
+a
+Ui
+ly
+Republic of the Philippines I
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. 298-6970 * 225-0183
+4t+-4
+IZ
+Trunk Line No. 241o0o
+CMO'CRD rn
+RfiCE!Vil
+Ref. No. 1131-18
+EN DORSEM ENT/ RECOM M EN DATIO N
+NO. 3e , SERIES OF 2AL7
+2Nd INDoRSEMENT
+February 9, 2018
+Respectfully returned to the Office of the City Mayor, through the Office of
+the City Administrator, both this City, the herein attached'documlnts relative to
+City Ordinance No. 0313-17, SERIES of 2AL7 entitled "AN ORDINANCE GRAf.InNG
+LEGISI-ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER IISTO AND SIGN,
+FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN CACAO INDUSTRY DEVELOPMENT ASSOCIATION OF MINDANAO,
+INC. (CIDAMI) AND THE CITY GOVERNMENT OF DAVAO RELATIVE TO THE
+ESTABLISHMENT oF CHOCOLATE HUB AT THE PASALUBONG CENTER", with the
+attached copies of duly signed Memorandum of Agreement (MOA) which have
+been duly notarized as requested.
+RESPECTFU LLY SU BMITTED
+NilI-_ATTY. MARIIUSA A. GALLO, RSW
+Acting Assistant City Legal Officer
+Approved by: 6
+go P. VTLLANUEVA, JR.
+V
+ATTY. OSMUN
+OIC-Acting City Legal Officer
+Date of Approval: February L4, lALB
+ifld_oilQ.| 1., - I 7_notaise-nan-tarao_ I E-ONH.ti-J- 1.J- t E
+@[ec
+GAL o
+B1
+ate
+JISE OF THE C
+CITY
+C\
+tNISTRAi'Gr'
+TKELIT'ED EY
+1 -zA^)q
+\
+/
+q
+
+\
+Respectfully returned to Atty. osmundo P. villanueva Ir., fficer-In-Charge,
+citv r-egaiof6.", t'nis city, the herein attached documents relative to ordinance No' 0313ir, g.fi;r of ztitl, witn tne attached Memorandum of Agreement with Cacao Industry
+Oevetopment Association of Mindanao, duly signed, for acknowledgement'
+Ref. No. CAdO 2018-00358
+w/#s
+2nd Indorcement
+February 8, 2018
+ATTY. TRISTAN
+For the CitY MaYor:
+INGO
+Administrator
+(Administration)
+RE["EA5ED
+CRD
+Elo*r
+S 2018 J:)4
+Second Floor, City Hall BuiIding, City Hall Drive, San Pedro St., Davao City
+(0Bz) zz4-3004. iixi;i z;ilr-ooo l6c. ios ' davaocitvmavor@gmail'com
+Blw6@
+l
+;"{.ji
+:;i
+\i, i-; l
+1.. .
+*
+FFTCE
+ln es
+Phi lip p
+FTHE CITY
+
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. 227-5793 * 225-0183
+Trunk Line No. 241-1000 Loc,267
+o0o
+Ref. No. 1131-17
+LEGAL OprNrON No. _02_,
+.
+SERIES OF zOL7
+RE: ORDINANCE No. o3L3-17, SERIES oF zoLT entiUed *AN
+ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY
+MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+CTTY GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN
+CACAO INDUSTRY DEVELOPMENT ASSOCIATION OT Uru6NNAO,
+INC. (CIDAMI) AND THE CITY GOVERNMENT OF DAVAO RELATIVE
+TO THE ESIABLISHMENT OF CHOCOLATE HUB AT THE
+PASALUBONG CENTER".
+lsr INDoRSEMENT
+December 1,20t7
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, the subject document, informing your-end that tnis office finds the
+same free from legal infirmity. Hence, it is recommended that the same Ue approveO
+and the attached Memorandum of Agreement be executed.
+N'1,)''
+ATTY. MARLIEA A. GALLO, RSW
+Attorney lV
+Approved by:
+ATTY. OSMUil
+. VILLAilUEVA, JR
+OIC, Asst. City
+Officer
+Date approved: December 1, 20L7
+Orf,\ S 1 Y t f -no a_cac ao_ I 7qil %
+o
+@dee
+;1n
+CIT
+
+Republii of the Philippines
+CITY OF DAVAO,,gr
+SARA Z. DUTERTE
+City Mayor
+Madam:
+November 24,20L7
+7_q/q6 P. w
+f
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01501-17 and Ordinance No. O3L3-17, both SERIES of 20L7 of the
+SANGGUNIANG Panlungsod, with Six (6) sets of copies of the Memorandum of Agreement
+(MOA) to be entered into by and between Cacao Industry Development Association of
+Mindanao, Inc. (CIDAMI) and the City Government of Davao relative to the
+Establishment of Chocolate Hub at the Pasalubong Center, for your information,
+guidance and appropriate action.
+For and in the absence of the Secretary
+NILDA C. M
+o
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+RH#H-$-VED
+erds. eRm
+ftF
+a
+cns/nta
+ttbll-5q-7
+
+Republic of ttre philigirres
+Offie of the SANGGUNIANG panlungsod
+lgth
+4ltt
+City Council
+Regular Session
+SERIES of 20L7
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ON OFFICIAL BUSINESS:
+Vice Mayor
+Councilor
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+Bernard E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Bonifacio E. Militar
+Avegayle Dalodo Oftiz
+Antoinette G. Principe-Castrodes
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+Attended the "World Travel
+Mart" in London
+- On Domestic Emergency Leave
+- On Sick Leave
+- On Vacation Leave
+- On Sick Leave
+ABSENT:
+Paolo Z. Duterte
+Al Ryan S. Alejandre
+Joanne M. Bonguyan-Quilos
+Jimmy G. Dureza
+Diosdado Angelo A. Mahipus Sr.
+Marissa P. Salvador-Abella
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0313.17
+SERIES oJ 2Ol7
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY
+TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR
+AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+THE MEMORANDUM OF AGREEMENT (MOA) TO BE
+ENTERED INTO BY AND BETWEEN CACAO INDUSTRY
+DEVELOPMENT ASSOCIATTON OF MTNDANAO, INC.
+(crDAMI) AND THE CrTy GOVERNMENT OF DAVAO
+RELATIVE TO THE ESTABLISHMENT OF CHOCOI.ATE HUB
+AT THE PASALUBONG CENTER
+l(u
+\t'
+
+Ord. No. 0313-17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assenrbled that:
+SECTION 1. TITLE- This Ordinance shall be known as 'AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTER,ED INTO BY AND
+BETWEEN CACAO INDUSTRY DEVELOPMENT ASSOCIATION OF MINDANAO,
+INC. (CIDAMI) AND THE CITY GOVERNMENT OF DAVAO RELATIVE TO THE
+ESTABLISHMENT OF CHOCOLATE HUB AT THE PASALUBONG CENTER";
+SECTION 2. DECLARATION OF POLICY - SECTION 455, (b) (1) (vi) of
+Republic Act No. 7L60, othenauise known as the Local Government Code of 1991,
+provides, to wit
+"For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and
+its inhabitants pursuant to SECTION 16 of this Code, the
+city mayor shall represent the city in all its business
+transactions and sign in its behalf all bonds, contracts,
+and obligations, and such other documents upon
+authority of the SANGGUNIANG panlungsod or pursuant to
+law or ordinance";
+SECTION 3. AUTHORITY- The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City Government of Davao, the
+Memorandum of Agreement (MOA) to be entered into by and between the City
+Government of Davao and Cacao Industry Development Association of Mindanao Inc.
+(CIDAMI) relative to the establishment of Chocolate Hub at the Pasalubong Center;
+SECTION 4. SEPARABILIW CLAUSE- lf , for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect;
+SECTION 5. EFFECTIVIW- This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on the 7th day of November,2017, by a unanimous vote of all the
+Members of the Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+^ ('/"u41"- 'l^4
+cHARrro N. S^NTOS
+Secretary to the Sanggunibng Panlungsod
+(City Government Department ngfl U),
+ATTESTED:
+J.MELcffi,eurrArN JR.
+y'ity Councilor
+Temp5rary Presiding Officer
+cns/kjtq
+
+I
+APPROVED
+Ord. No. 0313-17
+Dic 0 r ?afl
+I
+ATTY.
+LEIKA
+LOPEZ
+20L7
+z.
+City
+a
+MuYy
+ATTESTED:
+City
+\
+I
+
+MEMORANDUM OF AGREEMENT
+FOR THE ESTABTISHMENT OF CHOCOIATE HUB
+AT PASALUBONG CENTER IN DAVAO CITY.
+KNOW ALL MEN BY THESE PRESENTS:
+THIS AGREEMENT is made and entered into by and between:
+city Government of Davao, a local government unit of the Republic of the philippines duly
+represented herein by the City Mayor, SARA DUTERTE -CARP!O, hereinafter referred to as
+DAVAO CITYTGU;
+-andCacao lndustry Development Association of Mindanao, lnc,a cacao value-chain
+association duly organized and existing underthe laws of the Philippines with postal address at
+JSF BUlLDING,KM.Ll-,Catalunan Pequeno, Davao City , represented herein by its president
+DANTE R.MUYCO, hereinafter referred to as CIDAMI;
+WITNESSETH:
+WHEREAS, it is the policy of the Davao city government to elevate the industry of small
+medium enterprise through product development and business enterprise and to establish
+partnership with the private sector;
+WHEREAS, the DAVAO CITY LGU has developed a program for the agriculture sector that
+will promote value adding that will improve the livelihood of the sector;
+WHEREAS ,Davao city is the largest producer of cacao Products and have the largest
+number of chocolate processors in the country lately have become a cottage industry in most
+cacao based communities;
+WHEREAS,CIDAMI has been the leading organization of all cacao farmers in Davao City
+and neighboring provinces and provided training on chocolate making;
+WHEREAS, CIDAMI along with DAVAO CITY LGU have envisioned to make Mindanao to
+be known as the Cacao and Chocolate Capital of the Philippines ;
+WHEREAS, as the positioning as the Chocolate Capitla will not only promote agriculture
+development in the City which benefits local farmers but also tourism;
+NOW, THEREFORE, for and in consideration of the foregoing premises, the parties have
+agreed to establish a Chocolate Center under the following terms and conditions:
+,fiA/\^o\
+
+RESPONSIBILITY OF PARTIES
+DAVAO CITY LGU shall:
+L. Provide a space at the Pasalubong Center to be known as the Chocolate Center that
+will serve as the Chocolate Landmark of the City.
+2. Allow the use of the above space free of charge;
+a. This arrangement shall be subject to a Project Sustainability Review to be
+conducted by both parties on the canter's operations, which shall be the basis for rental
+arrangement for the 2nd year and onwards.
+3. Help in the promotion of the Chocolate Center as part of the tourist destination of the
+City.
+4. Have the right to monitor intervene and institute corrective measures for the purpose
+of preserving the title of the center as the chocolate capital Landmark.
+CIDAMI shall:
+L. Be responsible in consolidating private sector 'angel' investors who will be
+stakeholders of the project, and organizing a cooperative that will operate the canter.
+2. Be responsible for the renovation and refurbishing of the space that will attract locals
+and tourist subject to the approval of the Davao City LGU and to operate the day-to-day
+operation of the Center.
+3, Pay the monthly rental of the space based on the Project Sustainability Review by
+both parties, on year its launching, (referring to the #2 Davao City LGU responsibility
+provision)
+4. Primarily responsible in the promotion and marketing of its products to t

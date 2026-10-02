@@ -1,0 +1,434 @@
+---
+ordinance_number: "0194-17"
+title: "AN ORDINANCE ACCEPTING THE DONATION OF FIFTY (50) TENTS AND GRANTING AUTHORITY TO THE CITY MAYOR TO ACCEPT AND SIGN THE DEED OG DONATION TO BE EXECUTED BY NEW CARCAR MANUFACTURING, INc. IN FAVOR oF THE CITY GOVERNMENT oF DAVAO, duly signed, with the attached Deed of Donation made and executed by and between the City Government of Davao and New Carcar Manufacturing Inc. duly signed for appropriate "
+date_enacted: null
+approval_date: "2017-06-13"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0194-17.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/accepting, topic/donation, topic/fifty, topic/tents, topic/granting, topic/authority]
+---
+
+# Ordinance No. 0194-17
+
+> AN ORDINANCE ACCEPTING THE DONATION OF FIFTY (50) TENTS AND GRANTING AUTHORITY TO THE CITY MAYOR TO ACCEPT AND SIGN THE DEED OG DONATION TO BE EXECUTED BY NEW CARCAR MANUFACTURING, INc. IN FAVOR oF THE CITY GOVERNMENT oF DAVAO, duly signed, with the attached Deed of Donation made and executed by and between the City Government of Davao and New Carcar Manufacturing Inc. duly signed for appropriate 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+'+r'
+,
+Republlc of the Philippines
+\
+J oT.TICE OFTHE CITYIUAYoR
+Badisro
+Z:?'
+4th Indorsement
+July 17,20L7
+Respectfully forwarded to MS. CHARITO N. SANTOS, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein ORDINANCE NO. Olg4-Ll
+SERIES OF 2OL7 entitled * AN ORDINANCE ACCEPTING THE DONATION OF
+FIFTY (50) TENTS AND GRANTING AUTHORITY TO THE CITY MAYOR TO ACCEPT
+AND SIGN THE DEED OG DONATION TO BE EXECUTED BY NEW CARCAR
+MANUFACTURING, INc. IN FAVOR oF THE CITY GOVERNMENT oF DAVAO, duly
+signed, with the attached Deed of Donation made and executed by and between
+the City Government of Davao and New Carcar Manufacturing Inc. duly signed for
+appropriate action.
+By Authority of the City Mayor
+Per Executive Order No. 06
+Dated August 1, 2016:
+ATTY. LAwil[nft D. BANTTDTNG
+Asst. City Administrator (Operations)
+RHLEASED
+CMO, CRD
+{:ag kh.n
+/h^al
+r-rt
+Ground Floor, City Hall Building, San Pedro St., Davao City
+(0821 22L-L030 . (08 2) 22 5-0063 . d a vao citym ayo @ g mai l.co m
+i,
+a
+a
+
+Republic of tne Philippines
+OFFICE OF THE CITY LEGAT OFFICER
+Tel. No. 227-5793 * 225-0183
+Trunk Line No. 241-1000 Lcr.267
+o0o
+No. lh)
+SERIES of
+y'iloonsrnEnT
+tuh 11, 2017
+Rspectfrrlly rehrmed to AfTV. fRISfAil DHnGilT P. IXllllllct,,
+AffiEurt Cty Adminffiabr (Mmir{sffiion), thru tfte Office of ttp fity l{ryor,
+both of this City, the hers-n atbcM documen8 rclative to Ordinance No. 019{-
+17, SERIES of ?Ot7 wittr dre attached Dmd of [tonation made and erecuhd bf anU
+between he City frovernment of Dauao and ilet'v Carcar Manufachrrtng Inc., duly
+nofuizerl, as reque*erl.
+I
+ATTJ.
+Approved by:
+ATTV. OSF{U
+OIC, AEst.
+DaE approvej:
+- vIllAHUEUr, JRLerlal 0fficer
+)
+7. lerT
+4.,tq ryy
+w
+o
+FI
+a
+o
+
+r
+Repuplls oJ tne Philippines
+OF'FICE OF THE CITY IUAYOR
+sa6i6ns
+iD
+IZ,
+;iI
+2nd Indorcement
+July 5, 20L7
+Respectfully returned to Atty. Osmundo P. Villanueva Jr., OfficerCity Legal Office, this City, the herein attached documents relative to Ordinance No. 019417, SERIES of 20t7, with the attached Deed of Donation made and executed by and
+between the City Government of Davao and New Carcar Manufacturing Inc., duly signed,
+for acknowledgement.
+For the City Mayor:
+ATTY. TRISTANffir,
+INGO
+Assistant City Admin istrator
+(Administration)
+CMO - CRD
+RE[-E/&SHD
+l:ru ftn.ft"
+o
+*
+TDPD/shan9
+Ground Floor, City Hall Building, San Pedro St., Davao City
+l082l 221-L030 . (08 2) 225-0063. d a vao citym ayo r@ g ma i l.com
+I
+i'a.
+
+cMo " cf,tr
+FiECE++/"-ED
+irto;_
+.rtJN ? 1 2017
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao ?a.ae
+Ref. No. 1131-17
+LEGAL OPINION NO. 335 SERIES OF zA:.7
+1ST INDORSEMENT
+June 19, 20L7
+Respectfully fonruarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0194-17,
+SERIES of ZOL7 entitled "AN ORDINANCE ACCEPTING THE DONAION OF FIFTY
+(50) TENTS AND GRANTING AUTHORITY TO THE CITY MAYOR TO ACCEPT AND
+SIGN THE DEELJ OF DONATION TO BE EXECUTED BY NEW CARCAR
+MANUFACTURING INC., IN FAVOR OF THE CITY GOVERNMENT OF DAVAO,"
+informing your end that this office finds the same free from legal infirmity.
+VIEWED from the foregoing, it is recommended that the Ordinance be
+approved and the Deed of Donation be executed.
+Xfutl'-
+ATTY. MARLU;A A. GALLO, RSW
+Attorney lV
+Approved by:
+oFf rcE ot lHt,fffJ|?trxrsrRAT0R
+RECEIVED
+DAVAO CTTY Ma/o*
+ATTY. OSMUN
+. VILLANUEVA, JR
+TlttiEl
+OIC-Asst. City
+al Officer
+Date approved: June 20, 2A77
+OFFICE OF THE CIrr ADMIMSIRAI OF
+CNY HATL
+DAVAO
+t
+1.r,"
+E
+o.14.
+C)
+o
+CITY MAYOR'S OFFICE
+W
+o lts$FPr
+DATE
+TIME
+*o&
+ErD- M - f/
+a
+I
+;
+
+.sa6i3r.9
+City of Davao 7r.p6
+June 13, 2017
+SARA Z. DUTERTE
+City Mayor
+Madam:
+\ Ul/rt), ,lrd
+CHARITO N. SANTOS
+*
+L'ne
+rtrl-ols F /10
+Pursuant to Sub-SECTION 3, Paragraph C, Sectlon 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0804-17 and Ordinance No. OL94-t7, both SERIES of 2077 of the
+SANGGUNIANG Panlungsod, with Six (6) sets of copies of the Deed of Donation covering
+Fifty (50) Tents to be executed by New Carcar Manufacturing Inc., in favor of the City
+Government of Davao, duly signed by the other party, for your information, guidance
+and appropriate action.
+Very truly yours,
+Secretary to the SANGGUNIANG Panlungsod
+(Clty Government Department Head II)
+4 20tI
+IRECEIVED
+CMO. CRD
+.?tr h^"
+cns//nta
+o/tf -7a -/d
+*
+
+'9,
+elfj
+'tv,
+6,1
+tro
+it
+brfi0
+Republic uf tfra Philippines
+18th City Council
+18th Regutar Session
+SERIES of 2017
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ON OFFICAL BUSINESS:
+J. Melchor B. Quitain Jr.
+Maria Belen C. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P, Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Avegayle Dalodo Ortiz
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Jesus Joseph P.Zozobrado III
+- Temporary Presiding Officer
+Attended a Barangay Conference
+- On Sick Leave
+- On Domestic Emergency Leave
+- On Sick Leave
+- On Maternity Leave
+- On Domestic Emergenry Leave
+Vice Mayor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Paolo Z. Dutefte
+January N. Duterte
+Nilo M. Abellera Jr.
+Bernard E. Al-ag
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+Mary Joselle D. Villafuefte
+ORDINANCE NO. OI94.I7
+SERIES of 2Ol7
+AN ORDINANCE ACCEPTING THE DONATION OF FIFTY
+(s0) rENTs AND GRANTING AUTHORTTY TO THE CITY
+MAYOR TO ACCEPT AND SIGN THE DEED OF
+DONATION TO BE EXECUTED BY NEW CARCAR
+MANUFACTURTNG INC., IN FAVOR OF THE CITY
+GOVERNMENT OF DAVAO
+
+Ord. No. 0794-L7
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDINANCE
+ACCEPTING THE DONATION OF FIFTY (50) TENTS AND GRANTING AUTHORITY
+TO THE CITY MAYOR TO ACCEPT AND SIGN THE DEED OF DONATION TO BE
+EXECUTED BY NEW CARCAR MANUFACTURING INC., IN FAVOR OF THE CITY
+GOVERNMENT OF DAVAO;
+SECTION 2. DECLARATION OF POUCY - SECTION 455, (bx1)(vi) of the Local
+Government Code provides, to wit:
+" For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall represent the city in all its business transactions and sign
+in its behalf all bonds, contracts, and obligations, and such
+other documents upon authority of the SANGGUNIANG
+Panlungsod or pursuant to law or ordinance";
+SECTION 3. DEED OF DONATION - This is a Deed of Donation between NEW
+CARCAR MANUFACTURING INC. and the City Government of Davao whereby the Donor
+will donate fifty (50) tents to the City Government of Davao;
+SECTION 4. AUTHORITY- The City Mayor is hereby granted legislative
+authority to accept and sign the Deed of Donation between NEW CARCAR
+MANUFACTURING INC. and the City Government of Davao;
+SECTION 5. SEPARABILITY CLAUSE - If for any reason, any SECTION or
+provision of this ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect;
+SECTION 6. EFFECTMTY CLAUSE This Ordinance shall take effect
+immediately upon approval;
+ENACTED, on May 9,20t7, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+^ 0)u^i\. k
+cltARrTo N. S+NTOS
+Secretary to the Sangguriiang Panlungsod
+(City Government Department Hea$fl
+). MELc{&fQUrrArN rR.
+fi(y councilor
+Temforary Presiding Officer
+cns/jsdam
+ATTESTED:
+
+!
+APPROVED/UN 2I 2OII.
+Ord. No. 0794-77
+2017
+z.
+RTE
+ciW ttavyT
+ATTESTED:
+ATTY.
+LEIKA
+City Administratord
+,
+
+DEED OF DONATION
+KNOW ALL MEN BY THESE PRESENTS
+This Deed of Donation, made and executed in the City of Davao,
+Philippines, by and between:
+NEW CARCAR MANUFACTURING lNC., a duly organized domestic corporation
+under Philippine Laws, with business address at KM 23 Purok 17, Barangay
+Bunawan, Bunawan District, Davao City 8000, represented by Mr. ADRIAN W.T.
+YAO, hereinafter called the DONOR;
+and
+The CITY GOVERNMENT OF DAVAO, herein represented by Hon. SARA Z.
+DUTERTE-CARPIO, City t\,{ayor, with official address at the City Hall of Davao,
+San Pedro St., Davao City, hereinafter called the DONEE;
+WITNESSETH
+Whereas, the DONOR is a legitimate business operator within the City of
+Davao who wishes to do its part in helping foster community relations;
+Whereas, the DONOR sees the need to provide tents for the use of the
+Davaoenos in the celebration of fiestas, festivals and other festivities
+spearheaded by the City;
+Now therefore for and consideration of the foregoing, the DONOR, as an
+act of liberality, by these presents, transfers and conveys, by way of donation,
+unto the DONEE, the following properties for the benefit of the Davaoenos and
+the visitor of the City of Davao:
+1. Fifty (50) 10x10 tents for the local city government's use for its
+various fiestas and festivities (ex. Araw ng Dabaw).
+The DONEE hereby manifests acceptance of the above described
+properties
+The DONEE fully expresses gratitude for the kindness and I
+rality of
+DONOR
+*rt"
+
+lN WITNESS WHEREOF, the DONOR and the DONEE have signed this
+deed on
+February 2017 at Davao City, Philippines.
+N
+CARCAR
+CITY GOVERNMENT
+OF DAVAO
+Represented by:
+UFACTU
+tNc.
+presented
+RIAN W.
+. DUTERTE.CARPIO
+tMa
+er
+d
+Republic of the Philippines)
+)S.S
+ACKNOWLEDGEMENT
+1 0 JUL 20fi
+BEFORE ME, a Notary Public, for an in the City of Davao, this _ day of
+February 2017, personally appeared the abovementioned persons, all known to
+be the same persons who executed the foregoing instrument and hereby
+acknowledged to me that the same is their free and voluntary act and deed.
+This instrument consisting of two (2) pages, including this page on which
+this acknowledgement is written refers to a DEED OF DONATION and has been
+signed by the parties and sealed with my notarial seal.
+WITNESS MY HAND AND NOTARIAL SEAL.
+Doc No. all
+Paoe No. |o
+golk No. --"77
+SERIES of ZUI
+ELM
+31,20L7
+L-3-L7
+IBP 1059705 1-3-17
+ROI.I OF AITORNEY'S 51813
+N
+*"tfl

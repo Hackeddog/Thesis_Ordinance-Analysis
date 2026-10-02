@@ -1,0 +1,197 @@
+---
+ordinance_number: "0265-23"
+title: "AN ORDINANCE GRANTI]TG LEGISIATIVE AUTHORIW TO T$E CITY rmVOR TO EttTER IttTO AilD StrGil, FOR ^XD rr BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEHEilT (}IOA} TO BE EilTERED IHTO BY AilD BETWEEH THE CITY OF DAVAO AT{D HOIY CHILD COTLEGE OF DAVAO, REI.ATIVE TO THE WORK IMMERSION PARTNERSHIP WITH THE GITY SOCIAT WEIFARE ATID DEVELOPTIETT OFFICE (cswDo) By crvrNc oppoRTuilrTy TO THE SEilTOR H"
+date_enacted: "2023-07-25"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0265-23 (2).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: null
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granti, topic/legisiative, topic/authoriw, topic/rmvor, topic/ettter, topic/ittto]
+---
+
+# Ordinance No. 0265-23
+
+> AN ORDINANCE GRANTI]TG LEGISIATIVE AUTHORIW TO T$E CITY rmVOR TO EttTER IttTO AilD StrGil, FOR ^XD rr BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEHEilT (}IOA} TO BE EilTERED IHTO BY AilD BETWEEH THE CITY OF DAVAO AT{D HOIY CHILD COTLEGE OF DAVAO, REI.ATIVE TO THE WORK IMMERSION PARTNERSHIP WITH THE GITY SOCIAT WEIFARE ATID DEVELOPTIETT OFFICE (cswDo) By crvrNc oppoRTuilrTy TO THE SEilTOR H
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | - |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+I
+20t" City Council
+zSnRcguhr Scseion
+SERIES of 2A23
+PRESENT:
+Vice Mayor
+C.otsrcllor
+Councilor
+Courcilor
+Councilor
+Councilor
+Councllor
+Councilor
+Coun€ilor
+Councilor
+Councilor
+Councih'r,
+Councilor
+Councilor
+Councilor
+Councilor
+Counc+lor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+f.ounciler
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. A$ella
+Nilo M. Abellera lr.
+Luna Marta Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+tSitbertoE. Sag
+Al Ryan S. Alejandre
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Rkhlln N. lttstol-Bagutlod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Trffiriitt B. OcarnBo
+Myrna G. L'Dalodo-Ortiz
+AlbertoT. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Dante L. Apostol Sr.
+Jesus Joseph P. Zozobrado III
+- Presiding fficer
+- On Special Privilege Leave
+ABliE]IT:
+C.ouncilor
+Councilor
+oRDrNAl{CE ilO. 0265-23
+Scries otm23
+AN ORDINANCE GRANTI]TG LEGISIATIVE AUTHORIW TO
+T$E CITY rmVOR TO EttTER IttTO AilD StrGil, FOR
+^XD rr
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+AGREEHEilT (}IOA} TO BE EilTERED IHTO BY AilD BETWEEH
+THE CITY OF DAVAO AT{D HOIY CHILD COTLEGE OF DAVAO,
+REI.ATIVE TO THE WORK IMMERSION PARTNERSHIP WITH
+THE GITY SOCIAT WEIFARE ATID DEVELOPTIETT OFFICE
+(cswDo) By crvrNc oppoRTuilrTy TO THE SEilTOR HrGH
+SC}IOOI $TUDEilTS TO A IGT{D OF WORK EXPERIEil€E
+RELATED TO THEIR CHOSEN ACADEMIC TRACK
+
+Ord. $lo. 026*2?
+Be itordained rythe Smggffiiartg mungsod sf Dm/ao Citf in sesion assEnEled,
+that:
+SECTION l. I]IIE - This Ordinance shall be known as *At{ ORDINAilCE
+G*#TIXG TECISI*TWE AI}THORITY TO TT|E CIW T+'TVOR TO E*TER, I*TO
+AND SIGil, FOR AilD IN BEHATF OF THE CITY OF DAVAO, THE MEMORANDU}I
+oF IGREEIIEilT (ffiOA) BtrWEEr{ TilE CrTv OF DAVAO AnD lfr}ty CilrtD
+COLTEGE OF DAVAO, REI-ATIVE TO THE WORK IMMERSION PARTNERSHIP
+wrTH THE CITY SOCUtt WELFARE AilD DHyETOPMENT OFFTCE (CSWDO) By
+GN'IilG OPPORTUIITY TO THE SEXIOR. HIGH SC}IOOI $TI'DETTS TO A I(I*D
+OF WORK EXPERIENCE REITATED TO THEIR CHOSEil ACADEIIIC TRACK"
+SECTION 2. DECLARATION OF POLICY - SECTION 455, (b) (1) (vi) of Republic
+Act No. 7L60 or the Local Government Code of 1991 provide:
+SECTION 455. Chief Executivel Powerc, Duties and
+Compemation -
+(b) For efficient effective and economical governance the purpose of
+wHch is thegeneral yrelfareof the qty and itsinhabitants pursuant
+to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, and activities of the city government, and in this connection,
+*tall:
+)o0(
+)oo(
+)oo(
+(vi) Represent the city in all its business transactions and sign in its
+behatf alt bonds, contracts, and oOligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+Wrsrrffit to ta,Y or ordirarrce;"
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+autttorit tosign, forandinbetlalf of theCrtyof Davao, the[,{emorandumof Agr€enrent
+(MOA) between the City of Davao and Holy Child College of Davao, relative to the work
+innnersiom partnershipwi$ the Citysociat Wetftre and Dedoprent ffice (CSWDO) by
+giving oppoftunity to the senior high school students to a kind of work experience related
+to their chosen academic track.
+SECTIOI{ 4, SEPARABIUTY CLAUSE - If, for any reason, any SECTION or
+prwisiori of tftB Ordinarrce is declared uncoflstihrtional or irwalkl, otfier sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTIOil 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+apprwd.
+ENACTED, on July 25, 2023, by a unanimous vote of all the Members of the
+Sanggt nian, tfiere belrq a guonr{n
+
+Ord. $lo. 026F23
+CERTIF]IED CORRECT:
+ATTESTED:
+ATTESTED:
+,. MELC
+B. QUITAIN JR.
+Vice Mayor
+Pre$ding Offi€er
+ar/mjb
+Ses€tary to the SANGGUNIANG Panfungsod
+(City Government Depaftment Head tr)/
+AppRoVED: FEB ?3?024
+2023
+Z. DUTERTE
+v
+chA%J'rffi,
+citu i4avyr
+H. IAYOG
+AGing
+AN ORDINANCE GRAT,ITING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND STGN,
+FOR Af{D IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE
+ENTERED INTO BYAND BETWEEN THE CITY OF DAVAO AND HOLY CHILD COLLEGE OF DAVAO, REI.ATIVE
+TO THE WORK IMMERSION PARTNERSHIP WTffi fiE CITY SOCIAL WELFARE AND DEVELOPMENT OFFICE
+(C1T{I'O) EY GrvING OPPORTUNITYTO THE SENIOR HIGTI SCHOOL STUDENTSTO A KIND OF WORK
+D(PERIENCE RELATED TO THEIR CHOSEN ACADEMIC TRACK
+ATTY.

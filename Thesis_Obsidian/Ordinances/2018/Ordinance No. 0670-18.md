@@ -1,0 +1,328 @@
+---
+ordinance_number: "0670-18"
+title: "AN ORDINANCE GRANTING THE APPLICANON OF MIA LOVE S. PALBAN FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF SAND AND GRAVEL QUARRY LOCATED ALONG DAVAO RIVER, BARANGAY PANGYAN AND BARANGAY LAMPIANAO, CALINAN DISTRICT, THIS CITY, WTTH A TOTAL I.AND AREA OF TEN THOUSAND (10,000) SQUARE METERS, MORE OR LESS\", for your information and appropriate action. tur the City Mayor: ATTY. TRISTAN DOMINGO Assista"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0670-18.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.4
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/applicanon, topic/love, topic/palban, topic/addmonal, topic/allowable]
+---
+
+# Ordinance No. 0670-18
+
+> AN ORDINANCE GRANTING THE APPLICANON OF MIA LOVE S. PALBAN FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF SAND AND GRAVEL QUARRY LOCATED ALONG DAVAO RIVER, BARANGAY PANGYAN AND BARANGAY LAMPIANAO, CALINAN DISTRICT, THIS CITY, WTTH A TOTAL I.AND AREA OF TEN THOUSAND (10,000) SQUARE METERS, MORE OR LESS", for your information and appropriate action. tur the City Mayor: ATTY. TRISTAN DOMINGO Assista
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2019 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+"OFFTCE OF THE CTTYMAYOR
+ati
+Ii
+saCi6r'9
+a6
+s.
+P.ef. No. CAdO-2019-00517
+2Nd IITDORSEMENT
+March 4, Z0I9
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0670-18,
+. Serics of 2018, entitled *AN ORDINANCE GRANTING THE APPLICANON OF MIA LOVE
+S. PALBAN FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF SAND AND
+GRAVEL QUARRY LOCATED ALONG DAVAO RIVER, BARANGAY PANGYAN AND
+BARANGAY LAMPIANAO, CALINAN DISTRICT, THIS CITY, WTTH A TOTAL I.AND AREA
+OF TEN THOUSAND (10,000) SQUARE METERS, MORE OR LESS", for your information
+and appropriate action.
+tur the City Mayor:
+ATTY. TRISTAN
+DOMINGO
+Assistant
+RELEASEp
+LIFE
+IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+J(J -3pAw @
+\
+q
+--Tf,tO;CRD
+
+OFFICE OF THE CITY LEGAL O
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc267,
+o0o
+4S
+sl
+Ref. No. 1131-19-040
+LEGAL OPINION No
+SERIES OF 2OT9
+ORDINANCE NO. 0670-18, SERIES of 2018 entitled "AN
+ORDINANCE GRANTING THE APPLICANON OF MIA LOVE S.
+PALBAN FOR ADDMONAL ALLOWABLE USE FOR THE
+OPERATION OF SAND AND GRAVEL QUARRY LOCATED
+ALONG DAVAO RIVER, BARANGAY PANGYAN AND
+BARANGAY IAMPIANAO, CALINAN DISTRICT, THIS Cfl,
+wrTH A TOTAL LAND AREA OF TEN THOUSAND (10,000)
+SQUARE METERS, MORE OR LESS"
+1ST INDORSEMENT
+February 6,20L9
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance informing your
+end that this office finds the enactment of the ordinance free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved.
+ATTY. unnffiillo, Rsw
+Acting Asst. City Legal Officer
+Approved by: ,-l(6
+ATTY. OSMUN/O P. VTLLANUEVA, JR
+OIC-Acting City Legal Officer
+\
+a\
+D
+Date approved: February 7,2AL9
+ord067G 1 8_ affowaq b use4al6an_ 19-040_2-G 1 9
+@tee
+r: nry/r*
+RE
+N4nQv 6
+rllTw
+c0R
+F
+riurVll
+f,?7tr
+.4.. -.--
+w
+{rc-<A^11
+'L
+oF F rcE 0E
+SrTf $Aff "+t#r'\il
+sr i{ATo R
+OF
+!?,EgttrID
+I
+RECEIVED BY:*
+TIME:
+\Tqr
+
+30,2019
+b(1
+SARA T. DUTERTE
+City Mayor
+City of D*m
+Ma,lxtt
+-o4D p r@
+ftrrsuxrt to Suhsection 3, Faragraph C, SECTION 469, Artide One, Tifle Hue,
+Chafter -1, hk III arrl ffiion .H of Book I Retrublic Art No, 7160, oherwise known
+x ttre Lr-al tbvemmst Code of 1981, BE tre furnishing IEU a copry of Resdution No.
+O25!l+18 and ffdinanre Ho. O67&1S, boffi SERIES of 2018 of the SangguniarE
+Panlungmd, for ]mur infunrution, guidance *rd 4propriaE action.
+Very huly ylurs,
+"For and in tre ahserr-e of the S€cretary:"
+-rwn4z\
+HrlrlA e nrldno
+Artinrl Secrefary to Sre Hngguniang knlurgsod
+(ftty Govemnrent Assi*ant Detnffnent Hed il)
+CORRESPONDENCE &
+RECE
+MA.RY ANN
+ATVARADO )
+RECoRDS Dt\flstolr
+IVED
+JAN 31 2019
+
+-Ianuar,v 10, 2019
+SARA T. DUTERTE
+t.ily Mayry
+City of Dmao
+t4*rlant:
+Hlrcumt to Suh+stion 3, hr4raErh C, SECTION r+69, Artide One, Tiile Five,
+Cha$er 3, hk III ard SECTION .54 of mk I Repblir Art No, 7160, oftenflise known
+a the Local ftvemmmt Code of 1911, lve #e furnishing TEU a rory of Rmolution No.
+0259+1$ and ffdinance No. 067{F1S, Loth kries of 20tB of Sre Smgguniang
+Panlun,ld, fur your infonnatiwr, guidance and 4,propriate action.
+Yryy huly yourg,
+*For and in *re ahsence of the Smrcbry:"
+}IILDA
+Arting Serretary to Sre
+{City
+tletrartmen[ Head tr]
+b,
+
+8aCi3r'
+January 30.2019
+SART I. DUTERTE
+City Mayor
+City of Dwm
+Ma,-1rn
+trJrsumt to Sub+eden 3, Paragraph C, Sdlon 46'1, .a.6;4e ftte, Tlde Hue,
+Chapter 3, g66k III ard k-tlon 54 of hk I Reprhlic Act No. 7160, o$enruise known
+x ttp Lo[al rhvemment Code of 19J1, r ,e are furnishing lCIu a copry of Resduuon No.
+O2S9+1S and Ordinance No. O67{F18, hoffi SERIES of 2018 of the SANGGUNIANG
+Panlungml, for ltur infomratisr, guidance and 4rprotrriate adion.
+Verf truly YCIutEr
+'For and in Bre aLserre of the Secrctary:"
+TIILDAC. HffiHO
+Af,ting Ssretary to ilre Sangrluniang hnlurEsod
+{tity Governmmt Deparbnent Head tr}
+t
+\\(; ,lt
+
+Reptrblic of the enilippines
+18th City Council
+48h Regular Session
+SERIES of 2018
+ABSENT:
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M, Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Presiding Officer
+Rene Elias C. Lopez
+Avegayle Dalodo Ortiz
+- On Official Business
+ORDINANCE NO. 0670.18
+SERIES of 2018
+AN ORDINANCE GRANTING THE APPLICATION OF MIA LOVE
+S. PALBAN FOR ADDITIONAL ALLOWABLE USE FOR THE
+OPERATION OF SAND AND GRAVEL QUARRY LOCATED
+ALONG DAVAO RIVE& BARANGAY PANGYAN AND BARANGAY
+LAMPTANAO, CALINAN DTSTRICT, THrS CrTY, WrTH A TOTAL
+LAND AREA OF TEN THOUSAND (10,000) SQUARE METERS,
+MORE OR LESS
+
+Ord. No. 0670-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao city, in session
+assembled that:
+SECTION 1' TITLE- This ordinance shall be known as ',AN oRDTNANCE
+GRANTING THE APPLICATION OF MIA LOVE S. PALBAN FOR ADDITIONAL
+ALLOWABLE USE FOR THE OPERATION OF SAND AND GRAVEL QUARRY LOCATED
+ALONG DAVAO RIVE& BARANGAY PANGYAN AND BARANGAY LAMPIANAO, CALINAN
+DISTRICT, THIS CITY, WITH A TOTAL LAND AREA OF TEN THOUSAND (1O,OOO)
+SQUARE METERS, MORE OR LESS..
+SECTION 2: rlNgwrvE uooes Or oe
+_ Articte Xrr of the
+ComprehensiveZoningordinancearticularlySection1
+thereof, "Request for Additional Allowable Usel' provides tnit tne ,r., .nu.erated in the
+preceding articles on general zone and all sub-zones are not exhaustive nor all-inclusive.
+Jht SANGGUNIANG Panlungsod, upon application of the p.j..t -proponent
+and upon
+favorable recommendation by the Local Zoning aoard of Adjustment lnd Appeals (L7BAA);
+may allow other uses not enumerated thereun-der as it may deem fit and proper including,
+but not limited to, the following projects which are of socio-economic and environmentat
+significance and/or national interest by a 3/c majority vote of all members of the
+SANGGUNIANG Panlungsod through resolutions and ordinance.
+sEcrIoN 3. APPROVAL OE REqUEST FOR ApprrroNAl ALLOWABLE USEThe request of Mia Love S. Palban for Additional AllowaOle use ror. tE'e operation of Sand
+and Gravel Quarry located along Davao River, Barangay pangyan and Barangay Lampianao,
+Calinan District, this City, is hereby approved.
+SECTION 4' SEPARABILITY CLAUSE- If, for any reason, any SECTION or provision
+of this ordinance is declared unconstitutional or invalid, oiher sections or provisions hereof
+not affected by such declaration shall continue to be in iull force and effect.
+SECTION 5. EFFECTIVITY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the ^14th day of December , zor}, by three-fourths (3/+) majority vote
+of all the Members of the sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ A|,,tu,,fi \ J,o
+CHAN.ITO N. SAI{TOS
+Secretary to the SANGGUNIANG panlungsod
+(City Government Depaftme nt Head lI),
+RNARD E.
+AG
+Vice M
+Presidi
+ATTESTED:
+cns/kjtq
+cer
+
+Ord. No. 0670-18
+APPROVED
+0I rurl 2019
+2018
+DUTERTE
+CiW vavyt
+ATTESTED:
+ATTY.
+City Administrator /
+,

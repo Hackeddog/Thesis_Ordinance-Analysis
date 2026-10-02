@@ -1,0 +1,327 @@
+---
+ordinance_number: "0216-20"
+title: "AN ORDINANCE GRANTING THE REQUEST OF M5. MARY ANN ALMERLA. EVENTS AND PROMOTIONS OF DAVAO VERBUM DEI MEDIA FOUNDATION, INC., ARCHDIOCESAN COMMISSION ON SOCIAL COMMUNICATIONS, FOR A 50o/o DISCOUNT ON THE PAYMENT OF AMUSEMENT T$( FOR THE BLOCK SCREENING OF THE MOVIE \"UNPIANNED\" ON FEBRUARY 23, 2020 AT SM Crry DAVAO AND SM |-ANANG PREMIE& BOTH THIS CITYi for your infoi'mation and appropriate action. "
+date_enacted: null
+approval_date: "2020-03-02"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0216-20.pdf"
+section_count: 9
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/granting, topic/request, topic/mary, topic/almerla, topic/events, topic/promotions]
+---
+
+# Ordinance No. 0216-20
+
+> AN ORDINANCE GRANTING THE REQUEST OF M5. MARY ANN ALMERLA. EVENTS AND PROMOTIONS OF DAVAO VERBUM DEI MEDIA FOUNDATION, INC., ARCHDIOCESAN COMMISSION ON SOCIAL COMMUNICATIONS, FOR A 50o/o DISCOUNT ON THE PAYMENT OF AMUSEMENT T$( FOR THE BLOCK SCREENING OF THE MOVIE "UNPIANNED" ON FEBRUARY 23, 2020 AT SM Crry DAVAO AND SM |-ANANG PREMIE& BOTH THIS CITYi for your infoi'mation and appropriate action. 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Cites or amends
+
+- [[Ordinance No. 0291-17]]
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+l,',,hPrlE.-i=-.
+EUffi
+Repuilib of the Philippines
+OFFICE OF THE CITY IVIAYOR
+< I\t
+ftef. [e]. CAdG202G00B52
+2'd INDORSEiIENT
+March 12,2AZA
+Respectfully rcturned to lrls. Charib il, Sanbe, Seoetary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 213, SERIES of 202A dated March 2,
+2020 of the City Legal ffice, relative to tlre attached Ordinarrce No. 021G20, SERIES of
+2020 entitled. "AN ORDINANCE GRANTING THE REQUEST OF M5. MARY ANN ALMERLA.
+EVENTS AND PROMOTIONS OF DAVAO VERBUM DEI MEDIA FOUNDATION, INC.,
+ARCHDIOCESAN COMMISSION ON SOCIAL COMMUNICATIONS, FOR A 50o/o DISCOUNT
+ON THE PAYMENT OF AMUSEMENT T$( FOR THE BLOCK SCREENING OF THE MOVIE
+"UNPIANNED" ON FEBRUARY 23, 2020 AT SM Crry DAVAO AND SM |-ANANG PREMIE&
+BOTH THIS CITYi for your infoi'mation and appropriate action.
+F--
+rL=
+^aL
+- aa^
+-
+ror tne Ll[y tvray0r:
+ATTY. TRISTAil
+DOMIilGO
+Assistant
+(Aciministration)
+CIIY MAYOi'S OFFICE
+CORRESPOTTUENCE ANO RECORDS DIV
+RELEASED.
+}.lAR 13 2020
+,r,rrso*o
+ADMINISTRATIVT A]DE IV
+'DPOIGP
+il
+dg- 0( -,LpJ)
+TltrlE:
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.comr
+ts^ey @
+LIFE I8 HERE
+
+,
+.
+OFFICE OF THE CITY LEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Lcr,2671225/230
+Ref. No. CLO-2020-00914
+Legal opinion No. 2\) ,
+SERIES of 2020
+RE: ORDINANCE NO. 0216-20, SERIES OF 2020 entitled "AN ORDINANCE
+GRANTING THE REQUEST OF MS. MARY ANN ALMERIA, EVENTS AND
+PROMOTIONS OF DAVAO VERBUM DEI MEDIA FOUNDATION, INC.,
+ARCHDIOCESAN COMMISSION ON SOCIAL COMMUNICATIONS, FOR A
+5OO/o DISCOUNT ON THE PAYMENT OF AMUSEMENT TAX FOR THE
+BLOCK SCREENING OF THE MOVIE "UNPLANNED" ON FEBRUARY 23,
+2O2O AT SM CTry DAVAO AND SM LANANG PREMIER, BOTH THIS CTry".
+1't INDORSEMENT
+March 2,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance No. 0216-20
+SERIES of 2020, with the information that this office finds no.legal inflrmity in the
+passage of the subject ordinance, it appearing that the safidilimifwithin the
+power of the SANGGUNIANG Panlungsod.
+In view thereof, this office recommends the approval of the subject
+ordinance
+ATTY. M
+A. GALLO, RSW
+Acting Asst. City Legal Officer
+Approved by
+GAL o
+V
+ATTY. OSMUN
+P. VILLANUEVA, JR
+Acting City Legal Officer
+Date of Approval: March 2,2020
+or[02 I 6- 2{t_ta ye ,igntlttion_aburio_)0 ]0-009 I 1 _.t - 2- 20
+tti[ct
+O
+fi1
+I
+;rr",?*hll
+o'5 /r,-r-2ury5*
+q:$
+a: 2a
+Drvtst0N
+ffi,
+R
+D
+A
+MARY
+ERM
+u
+ztDh-?-+U
+/A
+
+saCi6ro
+i.6
+zl
+p-'
+0 .l{c,
+Republie of 'he Philippines
+SARA Z. DUTERTE
+City Mayor
+Madam:
+Pursuant to Sub-SECTION 3, Parag
+C,
+February 14,2024
+NqN P,LT'
+SECTION 469, Article One, Title Five,
+1r)
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+Ogg5-20 and Ordinance No. 0216-20, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, this Clty, for your information, guidance and appropriate action.
+Very trulY Yours,
+cnnfl#d*}*fro,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government DePartment Head
+CORRESPONDENCE & RECORDS OIVISION
+RECEIVED
+FEB 1B 2O2O
+MARY ANN o&rvoRnoo ,";,
+eournrsrReitE AIDE rv tU, I
+CMO CONTAqT T: 241-1000 tOC.
+,,.,ffi,
+
+Republiq of. the Philippines
+19th City Councit
+6th Regular Session
+SERIES of 2020
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+ABSENT:
+Vice Mayor SebastianZ. Dutefte
+- On Official Business
+ORDINANCE NO. 0216-20
+SERIES of 2O2O
+AN ORDINANCE GRANTING THE REQUEST OF MS. MARY ANN
+ALMERT& EVENTS AND PROMOTTONS OF DAVAO VERBUM
+DEr MEDIA FOUNDATION, INC., ARCHDIOCESAN
+COMMISSTON ON SOCTAL COMMUNICATIONS, FOR A 50o/o
+DISCOUNT ON THE PAYMENT OF AMUSEMENT TAX FOR THE
+BLOCK SCREENING OF THE MOVIE *UNPLANNED' ON
+FEBRUARY 23, 2O2O AT SM CITY DAVAO AND SM LANANG
+PREMIE& BOTH THIS CrTY
+(
+
+Ord. No. 02t6-20
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTION 1. E!!-
+This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST OF MS. MARY ANN ALMERIA, EVENTS AND
+pRoMoTroNs oF DAvAo VERBUM DEI MEDIA FOUNDATTON, INC.,
+ARCHDIOCESAN COMMISSION ON SOCTAL COMMUNICATIONS, FOR A 50o/o
+DISCOUNT ON THE PAYMENT OF AMUSEMENT TAX FOR THE BLOCK
+SCREENING OF THE MOVIE *UNPLANNED" ON FEBRUARY 23t 2O2O AT SM
+cITy DAVAO AND SM LANANG PREMIE& BOTH THIS CITY".
+SECTION 2. COVERAGE - The exemption solely refers to the payment of the
+amusement tax.
+SECTION 3. PERIOD- The exemption shall be applicable only for the block
+screening of the movie "Unplanned" on February 23, 2020 at SM City Davao and SM
+Lanang Premier.
+SECTION 4. AUTHORIW - SECTION 66, subparagraphs (a) and (b) of Ordinance
+No. 0291-17, SERIES of 20t7, "An Ordinance Amending the 2005 Revenue Code of the
+City of Davao" provides:
+SECTION 66. Exemption-The tax herein imposed does not
+apply in the following cases, provided, that exemption should
+first be obtained for this purpose from the SANGGUNIANG
+Panlungsod:
+a) Where the admission fees are collected for and in
+behalf of the charitable, educational or religious
+institutions or associations who are declared by law or
+presidential proclamation as exempted from the
+payment of amusement tax on paid admission;
+provided, further, that such exhibition, show,
+performance, and the like, shall be limited to only
+three (3) days in a calendar year;
+b) Where the admission fees are collected in connection
+with the holding of operas, concefts, dramas, recitals,
+paintings and aft exhibitions, flower shows, musical
+programs, literary and oratorical presentations except
+pop rock, or similar concefts not intended primarily for
+profit and fufthermore, not including film exhibitions".
+SECTION 5. EXEUEfI(IN- A 50% discount is hereby granted relative to the
+request of Mary Ann Almeria, Events and Promotions of Davao Verbum Dei Media
+Foundation Inc. Archdiocesan Commission on Social Communications, for the payment
+of Amusement Tax on the block screening of the movie "Unplanned" on February 23,
+2020 at SM City Davao and SM Lanang Premier.
+SECTION 6.
+' If , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+
+-I
+Ord. No. 02L6-20
+SECTION 7. EFFECTMTY CLAUSE This Ordinance shall take effect
+immediately upon approval.
+ENACTED, on the l1th day of February 2020, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+chfu$itl.k",
+Secretary to the Sangguhiang Panlungsod
+E
+Preside
+Temporary Presi
+ng Officer
+cns/kjtq
+(City Government Department Head II)
+in*rc 4, tn,o
+APPRovED 04HAR 2ll2}
+2020
+Z. DUTERTE
+- city MuyyJ
+ATTESTED:
+ZULEIKA T
+ATTESTED:
+City Admin
+-

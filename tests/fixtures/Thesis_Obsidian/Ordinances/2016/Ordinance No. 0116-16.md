@@ -1,31 +1,29 @@
 ---
-title: "AN ORDINANCE REGULATING THE OPERATION OF PUBLIC MARKETS IN DAVAO CITY"
 ordinance_number: "0116-16"
-aliases: ["Ordinance No. 0116-16", "0116-16"]
-corpus_year: 2016
+title: "AN ORDINANCE REGULATING THE OPERATION OF PUBLIC MARKETS IN DAVAO CITY"
+date_enacted: "2016-03-15"
+approval_date: "2016-03-22"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0116-16.pdf"
+section_count: 2
+verification_status: "unverified"
 folder_year: 2016
 resolved_year: 2016
-enactment_date: "2016-03-15"
-approval_date: "2016-03-22"
-series_year: 2016
-council_term: 18
-session: "22nd Regular Session"
-sponsor: ""
-approving_mayor: "SARA Z. DUTERTE-CARPIO"
-presiding_officer: ""
+corpus_year: 2016
 temporal_status: "valid"
 confidence_score: 1.0
+detected_enactment_year: 2016.0
+detected_ordinance_number_year: 2016
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
 resolution_source: "consensus"
-manually_verified: false
-included_in_corpus: false
-extraction_method: "Digital"
-page_count: 1
-word_count: 71
-section_count: 2
-whereas_count: 0
-source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\tests\\fixtures\\data\\raw\\2016\\Ordinance No. 0116-16.pdf"
-sha256: "a25f24605649900a"
-indexed: "2026-09-08"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
 tags: [ordinance, davao, year/2016, status/valid, topic/regulating, topic/operation, topic/public, topic/markets]
 ---
 

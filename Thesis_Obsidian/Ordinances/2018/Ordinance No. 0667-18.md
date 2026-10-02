@@ -1,0 +1,469 @@
+---
+ordinance_number: "0667-18"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND SOUTHERN PHILIPPINES MEDICAL CENTER FOR THE REFERRAL FACILITY ON oursouRcED SERVICES', for your information and appropriate action. For the City Mayor: DOMINGO Assistant nistration) APR e J Z"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0667-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.4
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/government]
+---
+
+# Ordinance No. 0667-18
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND SOUTHERN PHILIPPINES MEDICAL CENTER FOR THE REFERRAL FACILITY ON oursouRcED SERVICES', for your information and appropriate action. For the City Mayor: DOMINGO Assistant nistration) APR e J Z
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2019 |
+| **Resolved** | **2018** |
+
+## Cites or amends
+
+- [[Ordinance No. 0667-19]]
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 18,421 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2018\Ordinance No. 0667-18.txt`*
+
+',-oll[-^.*', '
+Republic"of the Philippines
+itt,ryi oFFICE oF fHE crrY MAYoR
+''"''"'n"'
+ATTY.
+Ref. No. CAdG201901340
+4ffi Indorcement
+April22,20tg
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the herein attached Ordinance No. 0667-18, SERIES of 2018, entitled
+"AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND
+IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT
+TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND
+SOUTHERN PHILIPPINES MEDICAL CENTER FOR THE REFERRAL FACILITY ON
+oursouRcED SERVICES', for your information and appropriate action.
+For the City Mayor:
+DOMINGO
+Assistant
+nistration)
+APR e J ZUlU
+.r,rr6bo*o
+ADMINISTRATIVE AIDE IV
+LIFE IS HERE
+Zru- A-//
+pAw,@
+second Floor, city Hall Building, city Hall Drive, San Pedro st., Davao city
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmair.com
+\
+RE
+
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. 227-5793 * 225-0183
+Trunk Line No. 241-1000 Lcr,267
+o0o
+Re1 c.ode No. Cn-2dg -00J(l
+ATTY. O6I{LTNDO P VILLAMIEIT/&IR
+Asst. City LegalOfficer, OIC
+12 April2019
+Reqpectfully nturned to the Offkc of the City hfayor, llueiugh Attr.
+Tlistian Dwight P Domingo, Asristant City Administrator (Admhishation),
+bottr tds CiB', the herein set o[ docurmrts relatve b Ordirlance No. 0667-1&
+Seriec of 2018, entithil "Ahi OADINAhiCB ALJTHORIANG THE CITY I\,{AYOR
+TO ENTER INTO AhiD srGN, rOR AIID IN BEHALT OF THE CITY
+GIf\/ERNMENT OF DAVAO, TFIE MEN&RAI{DLIM OF AGREE}yIEI{T T(] BE
+ENTERED INTO BY AI\ID BETWEEN THE CIT}, GO\MRNMEhIT OT. PAVACI
+AI\.]D SOUTHERN PTUUPPINES MEDICAL CENIER TOR THE REFERHAI,
+FACILITY ON OIJISOURCED SER\,TCES, with the hsEin attached
+Idernorandrmr of Agmanent duly notarieed as requected
+RESPE CTFULLY' SUBNIII TED :
+ATTY. ENRIQIJEJUMOR A BONOCAhI
+AttornnvIV
+APPROVED
+L
+A
+l5
+I
+.J
+}\J
+?t
+4q,
+3Pr Inilarsemmrt
+\)z
+
+i-t
+ri
+il'
+Repubticof thffippines
+OFFICE OF THE CITY LEGAL
+Tel. No. 227-5793 x 225-0183
+Trunk Line No. 241-10@ Loc
+o0o
+0D- 1bt9 - 00ms1
+Respecthdlr letru-rred tr: t}re {}ffir:e of t}re Citr, I*Iayc'r'. ifui*ux}i ritt.r
+Trll.tarr Du,ight F. Dominge. ,i,suistant {itr ,l.drrrinist.ator [Ad:rrinisEallurr),
+both tkis Cit1,, the ?xreirr set *f r-locrrrrr.ents rel-ative k Crrlinarice I"d*. 0f..+I-1[.,
+Seriel <,I L018, entitle,-l: ".ql-"I L1I{[}I}{-+}JIE F,I-T-,',tl*Rtil}'Iij THE rl.TTY'}ofAJff,RT{} ENTEP" iIniTIf ,{}"f8,5I_i-.}J, F*R A}'m Ei BEH,{LF {}.F TFIE IITY
+&-l1,EE!-j-.Il*{E}IT CF f}A!-iAL-}, EfE }iIEh'ICIF"-LITIDLE { LfF ,nCF.EE}''18}'JT Ti} 3E
+EI{TEFED II{T"_{T EY ,{{D EET,'S.,.EEhI TE{E {IJ]I. T3J-\.ERNh.{E}"IT LlF *A.II.{.*-I
+A}rIf: SOT-ITFIEFTU PnUIFplt''m= i'.IEtrIC,{L CE}',iTEF, FOR THE REFEITE/'L
+F.{CILIT{ (iI.I .J1-IISCIJ.R{EE 5ER1[CE'1 rq'ith 'r]rr l-r*i.eirr ad.ail-ied
+i',{ertr{,:.4!-r,:-ltnrt of Agre*-rrent t-{uJ.;r, n,:tlri=fld- ar; r.eqr:e=t-ed
+nffnFraffi
+t
+? li
+r-.t
+St
+-ffif'.
+!.t-i.-:i--EL lf LrLL L :3'.-jEliuj i if t )
+.{TTl',. E*iRI*LrE IU}'IICE A B*}di}r.+-.I
+Attome,v Ir,''
+r fiflfi,4!
+ffr.
+i 1l
+a a
+r
+!fft
+4*Effif
+A
+I !-r
+'i
+Ira
+rsst Citr Legxi Cttic*r. *IC
+k"e
+t
+!ili!'q
+EDH.
+Jw
+?.\r
+I
+E
+i
+
+F-ef. h!o. CAdO-2019-01172
+z,d INDORSEMENT
+April 5, 2019
+Respectfully reiurned to Atty, Osmundo P, Viltanueva, Ir., Officer-In-Charge,
+City Legal Office, this City, the enclosed documents relative to Ordinance No. 0667-18,
+SERIES of 2018 enUtirci "AN ORDINANCE A.UTHORIZING THE CflY M,AYOR TO ENTER
+INTO AND SIGN, FOiT.. AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, TI-IE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY
+GCIVERNMENT OF D,,'.VAO AND SOUTHERN. PHIUPPINES I4EDICAL CENTER FOR THE
+REFERRAL FACILTN ON OUTSOURCED SERVICES", with the hcreiN AttAChCd
+i,riemorandum oi Agr{ ernent, duiy signed by both Darties, for notarization.
+r.-
+-- rt-
+^
+-iL
+- tr a--
+rut LIrc Llty lvldyur:
+ATTY. TRISTAN
+A ^a:^+^
+-.l.
+r\S5tlLcil lL
+IAJ
+(AU
+)
+CITY MAYOR'S OFFICE
+CORRESPONDENCE AND RECORDS DIV
+FTELEASED
+APR 0I 2019
+ADMINISTRATIVE AIDE IV
+,o,rr(**o
+LIFE IS HERE
+Second Floor, City Hall Buiiding, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 2",1-1000 loc. 265 o davaocitymayor@gmail.com
+ffid+rffi*h@
+
+ReOublic of the eiritippines
+OFFICE OF THE CITY LEGAT OFFICE
+Tel. No.298-6970
+Trunk Line No. 241-1000 Lcr.26712251230
+z
+Ref. No. CLO-2019-000737
+Date approved: March 27,20L9
+o tdM 6 7 - 1 E -moa_spmc
+-o uts o u rc ed- s erbe s _2 0 I 9 - N0 7 3 7 _3 -Z 7 - 1 9
+@["e
+2 B
+EF THE 6IW AFfiIINISTRATOR OOO
+CI'[Y HALL STFiICE
+RFCEIVED BY
+DAi-E:
+TIME:
+0s
+LEGAL OPINION No.
+SERIES OF 2019
+rD
+?q
+ORDINANCE NO. 0667-19, SERIES OF 2019 ENTTTLED *AN
+ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND
+BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE SOUTHERN
+PHIUPPINES MEDICAL CENTER FOR THE REFERRAL FACILITY ON
+OUTSOURCED SERVICES"
+1ST INDoRSEMENT
+March 27,2019
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance with attached
+Memorandum of Agreement (MOA), informing your end that this office finds the
+enactment of the ordinance free from legal infirmity.
+VIEWED from the foregoing, it is recommended that the Ordinance be
+approved and the Memorandum of Agreement be executed.
+ATTY. OSMU
+P. VITLANUEVA, JR
+OIC-Acting City Legal Officer
+uy
+U
+rl\D
+o
+MARY
+lSi
+ATVARADO
+g
+AIDI
+toq -orllx
+o"
+ta'3A-"{
+I'
+I
+
+From :
+CITY MAYOR'S OFFICE
+.
+l4xn4l
+).2
+LegalOffice
+& Records Div.
+Subject: SP Res. No. D)qzl Ord, No, Nl,'t
+SERIES of 20 l9
+MA/;RfiP.
+NABoNG
+Officer-ln-Charge
+hC
+Lt"o
+ffrLlL I t Wl\
+
+saoil#
+\ Republic of the Philippines
+March 2t,2019
+0aral
+SARA Z. DUTERTE
+City Mayor
+Madam:
+I
+Vaobt(
+C/U -aq-oavfi?P.+04
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+02921-18 and Ordinance No. 0667-18, both SERIES of 2018 of the SANGGUNIANG
+Panlungso, this City,witl'rflrcr(Qsets of copies of the Memorandum of Agreement to be
+entered into by and between the City Government of Davao and Southern Philippines
+Medical Center for the Referral Facility on Outsourced Services, for your information,
+guidance and appropriate action.
+Very truly yours,
+-Uu; 1' /""8
+C}IARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+CoRRESP0NDENCE & RECORDS DTVTS|ON
+RECEIVED
+MAR 22 2019
+MARY ANN
+CITY
+OFFICE
+,'l
+
+18d'City Council
+476 Regular Session
+SERIES of 2018
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Victorio U. Advincula Jr.
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayte Dalodo Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera Jr.
+Pilar C. Braga
+Danilo C. Dayanghirang
+Temporary Presiding Officer
+- On fficial Buisness
+- On Domestic Emergency Leave
+- On Official Business
+ABSENT:
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0667.18
+SERIES of 2018
+AN ORDINANCE AUTHORIZING THE CITY MAYORTO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY
+GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE
+CITY GOVERNMENT OF DAVAO AND SOUTHERN
+PHILIPPINES MEDICAL CENTER FOR THE REFERRAL
+FACILITY ON OUTSOURCED SERVICES
+
+.t
+I
+Ord. No.0667-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as'AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY
+GOVERNMENT OF DAVAO AND THE SOUTHERN PHILIPPINES MEDICAL
+CENTER FOR THE REFERRAL FACILITY ON OUTSOURCED SERVICES'.
+SECTION 2. DECIARATION OF POLICY - SECTION 455, paragraph (b) subparagraph (vi) of R.A. No. 7t60, otherwise known as the LOCAL GOVERNMENT CODE
+OF 1991, provides, to wit:
+"SECTION 455. Chief
+Compensation. -
+Executive; Powers, Duties and
+)oo(
+(b) For efficient effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the city mayor shall:
+)oo( )oo( )00(
+(vi) Represent the city in all business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG Panlungsod or
+pursuant to law or ordinance';
+SECTION 3. AUTHORIW - The City Mayor is hereby authorized to enter into
+and sign for and in behalf of the City Government of Davao the Memorandum of
+Agreement to be entered into by and between the City Government of Davao and the
+Southern Philippines Medical Center for the Referra! Facility on Outsourced Seruices.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+-This Ordinance shall take effect immediately upon
+ENACTED, December L2, 20L8, by a unanimous vote of all the Memberc of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ UhAr,,C, \. k
+CTIARITO N. SANTOS
+Secretary to the SANGGUNIANG Panglungsod
+(City Government Depaftment Head II)
+a
+
+I
+a
+cns/richard
+City Admi
+APPROVED
+iuR 2019
+Ord. No.0667-18
+2018
+ATTESTED:
+ATTESTED:
+Presiding Officer
+JR.
+City
+t
+z.
+-city **fl
+ATTY.
+T.
+a
+
+MEMORANDUM OF AGREEMENT WITH OTHER
+REFERRAL FACILITY ON OUTSOURCED SERVICES
+KNOW ALL MEN BY THESE PRESENTS
+City of Davao, a local government unit, duly organized and existing under Philippine laws
+with office address at City Hall Building, San Pedro St., Davao City, represented by Mayor Sara Z,
+Duterte. (hereinafter, referred to as the "PCB ProviderJ
+-andSOUTHERN PHILIPPINES AND MEDICAL CENTER (SPMC), a health referral facility (under the)
+National Government with office address at Bajada, Davao City, represented herein by its
+Director, LEOPOLDO J. VEGA, FPCS, FPATACSI, MBA-H. (hereinafter, referred to as the "Referral
+FacilityJ
+WITNESSETH that:
+WHEREAS, there is a need to establish a partnership and referral system with other health
+services providers facilities in order to improve the delivery of quality health care to parties;
+WHEREAS, the Referral Facility has a diagnostic facility capable of providing up to level 2
+laboratory and or chest x-ray examination services, among others;
+WHEREAS, the PCB Provider does not have a complete facility to provide laboratory and or
+chest x-ray examination seryices to its patients and wishes its patients to be provided with the
+Services (defined below) by the Referral Facility;
+WHEREAS, the Referral Facility agrees to provide the Services to the parties of the PCB
+Providers based on the terms and conditions of this Agreement;
+WHEREAS, these are the following list of PCB Providers of Davao City:
+Paquibato Health Center (Malabog), Paquibato Hospital, Toril A, Toril B, Sasa, Dispensary (Main),
+Calinan, lacinto (District D), Matina (Ialomo Central) , SIR (l-alomo North) , PUAN flalomo South),
+Bunawan, Buhangin, Baguio District, Tibungco Lying-In, Mini Forest (District C), Tomas Claudio
+(District A),Marahan (Marilog Dist),Marilog District Hospital, Calinan, Agdao, Mintal, El Rio(Dist

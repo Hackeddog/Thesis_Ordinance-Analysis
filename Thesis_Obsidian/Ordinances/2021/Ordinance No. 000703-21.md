@@ -1,0 +1,209 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) BY AND BETWEEN THE CITY OF DAVAO AND KABANG KALIKASAN NG PILIPINAS FOUNDATION, rNC. (KKpFr) OR THE WORLD WIDE FUND FOR NATURE . PHILIPPINES RELATIVE TO THE PROJECT *ONE PLANET CITTES (OPC)\" Vice Mayor Councilor"
+date_enacted: "2021-09-14"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000703-21.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.65
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: null
+detected_series_year: 2021.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/sign, topic/behalf, topic/government, topic/memorandum]
+---
+
+# Ordinance No. 000703-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) BY AND BETWEEN THE CITY OF DAVAO AND KABANG KALIKASAN NG PILIPINAS FOUNDATION, rNC. (KKpFr) OR THE WORLD WIDE FUND FOR NATURE . PHILIPPINES RELATIVE TO THE PROJECT *ONE PLANET CITTES (OPC)" Vice Mayor Councilor
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | - |
+| Series header | 2021 |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republlc of the'Philippines
+,
+Office of the Sangguniangi Panlungsod
+34th Regular Session
+SERIES of 2021
+PRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+ABSENT:
+Sebastian Z. Duterte
+Richlyn N. Justol-Baguilod
+- On Official Business
+- On Special Privilege Leave
+ORDINANCE NO. O7O3.2I
+SERIES ol 2O2l
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+SIGN, FOR AND IN BEHALF OF THE CITY
+GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+UNDERSTANDING (MOU) BY AND BETWEEN THE CITY
+OF DAVAO AND KABANG KALIKASAN NG PILIPINAS
+FOUNDATION, rNC. (KKpFr) OR THE WORLD WIDE
+FUND FOR NATURE . PHILIPPINES RELATIVE TO THE
+PROJECT *ONE PLANET CITTES (OPC)"
+Vice Mayor
+Councilor
+
+Ord. No. 0703-ZL
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY
+GOVERNMENT OF DAVAO, THE MEMORANDUM OF UNDERSTANDTNG (MOU)
+BY AND BETWEEN THE CITY OF DAVAO AND KABANG KALIKASAN NG
+PILIPINAS FOUNDATION, INC. (KKPFI) OR THE WORLD WIDE FUND FOR
+NATURE - PHILIPPINES RELATIVE TO THE PROJECT *ONE PLANET CITIES
+(oPc)'.
+SECTION 2.
+- SECTION 22 (a) (5) and (c) and
+SECTION 455 (b) (1) (vi) of Republic Act No. 7160 or the Local Government Code of 1991
+states:
+SECTION 22. Corporate Powers. -
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+)oc(
+)oc(
+)oc(
+(c) Unless otheruise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall.
+SECTION 455. Chief Executive: Powers, Duties and Compensation.
+(b) For efficient, effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government, and in this
+connection, shall:
+rco(
+)oo(
+rco(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG Panlungsod or
+pursuant to law or ordinance.
+SECTION 3. AUTHORIW - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City Government of Davao, the
+Memorandum of Understanding (MOU) by and between the City of Davao and Kabang
+Kalikasan ng Pilipinas Foundation, Inc. (KKPFI) or the World Wide Fund for Nature -
+Philippines relative to the project "One Planet Cities (OPC)".
+SECTION 4. SEPARABILITY CLAUSE - If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+
+Ord. No. 0703-21
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 14th day of September 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ 01a,a I {-,t
+cHARrro NI'SANTOS
+Secretary to the Sanggur{iang Panlungsod
+(City Government Depaftment Head Ip
+ATTESTED:
+ATTESTED:
+EDGAR P.
+JR.
+President Pro Tempore
+Temporary Presiding Officer
+cns/bern
+D(< *
+,lotl
+APPRovE oz 0lCT ? 0 ZO2l
+SARA Z. DUTERTE
+citv MavT '
+Z DUTERTE
+Acting Clty ffiot g
+LEIKA
+City Administrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY
+GOVERNMENT OF DAVAO,'I'HE MEMORANDUM OF UNDERSTANDING (MOU) BY AND BETWEEN THE CITY
+OF DAVAO AND KABANG KALIKASAN NG PILIPINAS FOUNDATION, INC, (KKPFI) OR THE WORLD WIDE
+FUND FOR NATURE - PHILIPPINES RELATIVE TO THE PROJECT"ONE PLANET CiTIES (OPC)"
+ATTY.
+EZ
+t

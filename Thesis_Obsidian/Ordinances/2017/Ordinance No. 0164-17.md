@@ -1,0 +1,288 @@
+---
+ordinance_number: "0164-17"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALOilG SAl{ PEDRO SQUARE, THIS CITY, FROM 6:00 A.M Oil MARCH t8,2OL7, TO 4:00 A.M ON MARCH L9, 2017, FOR THE EVENT n SAN MIGUEL CORPORATION CONCERT' IN LINE WITH THE TWO WEEK.IONG CELEBRATIOil OF 80rH ARAW I{G DABAW\", with the information that no executive action is needed on the matter since the activity had been done already, for your i"
+date_enacted: "2017-02-28"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0164-17.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2017.0
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/aloilg, topic/pedro]
+---
+
+# Ordinance No. 0164-17
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALOilG SAl{ PEDRO SQUARE, THIS CITY, FROM 6:00 A.M Oil MARCH t8,2OL7, TO 4:00 A.M ON MARCH L9, 2017, FOR THE EVENT n SAN MIGUEL CORPORATION CONCERT' IN LINE WITH THE TWO WEEK.IONG CELEBRATIOil OF 80rH ARAW I{G DABAW", with the information that no executive action is needed on the matter since the activity had been done already, for your i
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+;Po^*i',,
+aff#! oF F IcE qH[S"irv,rnevon
+G
+-1
+ftEert'dE#
+2nd Indorsement
+March 23,20L7
+BY:
+DAIE:I
+.Triln:
+v.1^
+t!l
+Respectfully forwarded to CHARITO N. SANTOS, Secretary to the SANGGUNIANG
+Panlungsod, this City, the herein attached Ordinance No. 0164-17 SERIES of 20L7 entitled
+. AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC
+ALOilG SAl{ PEDRO SQUARE, THIS CITY, FROM 6:00 A.M Oil MARCH t8,2OL7,
+TO 4:00 A.M ON MARCH L9, 2017, FOR THE EVENT n SAN MIGUEL
+CORPORATION CONCERT' IN LINE WITH THE TWO WEEK.IONG
+CELEBRATIOil OF 80rH ARAW I{G DABAW", with the information that no executive
+action is needed on the matter since the activity had been done already, for your
+information and appropriate action.
+ArrY. LAwilgilE D. BANTTDING
+Asst. City Administrator (Operations)
+cMo, cRt)
+RE[.EAStrM
+MAR 2 4 2011, lo:<ts h^"k,
+0?'oq4
+D
+5V -2 -t+
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082\ 227 -257 7 . (082) 224-587 8 . dava oc itym ayo r@ g m a i l.co m
+/Yt - tp-tl
+\
+e(
+?
+
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao ,, r
+Ref. No. ll3t-t7
+LEGAL OPINIOI{ NO. I3I
+SERIES OF 2OL7
+1't INDORSEMENT
+March t0,20L7
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0164-17,
+SETiES OJ 2O,,7 CNtitICd 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+vEHIcuLAR TRAFFIC ALONG SAN PEDRO SQUARE, THIS Cffi, FROM 6:00 A.M.
+oN MARCH 18, 20t7, To 4:00 A.M. oN MARCH L9,20L7, FoRTHE EVENT"SAN
+MIGUEL CORPORATION CONCERT' IN LINE VWTH THE TWO-WEEK.LONG
+CELEBRATION OF THE SOIH ARAW NG DABAW", iNfOrMiNg YOUr CNd thAt thc
+same is free from legal infirmity citing RA 7150, otherwise known as the Local
+Government Code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A tocat
+government unit may, pursuant to an ordinance, permanently or
+temporarily close or open any local road, alley, park, or square fatting
+within iE juisdiction: Prouided, however, That in case of permanent
+closure, such ordinance must be approved by at leafi two-thirds (2/3) of
+all the memberc of the sanggunian, and when necessary, an adequate
+substitute for the public facility that is subject to closure is provided.
+)ffi(
+(c) Any national or local road alley, park, or square may be
+temporarily closd during an actual emergenq, or fiesta celebrations,
+public ralliet agricultural or industrial fairc, or an undertaking of public
+work and highways, telecommunications, and waterwork proje6, the
+duration of which shall be specified by the local chief executive concerned
+in a written order: Prouided, however, That no national or local roa4
+alley, park, or square shall be temporarily closed for athletiq cultural, or
+civic activities not officially sponsord, recognizeQ or approved by the
+local government unit concerned'i
+ATTY. OSMU
+OIC, Asst.
+.@-TLLANUEVA, rR.
+City Legal Officer
+Date of approval: March t0,20L7
+,FFIr"t I}F fHE I;ITT AOMINISTRATOT
+TECLIUED B
+ITY HALL
+C:A'.'tlC \';ll
+IA-F.
+ImE.
+tn
+a
+A
+o
+a
+ffi
+CMO
+t)
+CR
+R H e
+fi V tr m
+dgv-bi c -4
+
+March 7,20t7
+SARA Z. DUTERTE
+City Mayor
+ffu{} - cRD
+RECEfiVHM
+Madam:
+I Fh.
+tt l?-0N /.102
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0688-17 and Ordinance No. OL64-L7, both SERIES of 20L7 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+CitY of Davao g-to'\
+*A&,r+6J:
+cns/nta
+Secretary to the
+ang Panlungsod
+(City Government Department Head II)
+//v'v -7/
+r
+[4AR o I 2017
+"q.
+
+\
+l8th City Council
+8th Regular Session
+SERIES of 2017
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr,
+Conrado C. Baluran
+Joanne M, Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+- On Vacation Leave
+- On Sick Leave
+- On Vacation Leave
+ON OFFICIAL BUSINESS:
+Councilor Nilo M. Abellera Jr.
+Paolo Z. Duterte
+January N. Dutefte
+Antoinette G. Principe-Castrodes
+ORDINANCE NO. OI64-L7
+SERIES of 2OL7
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG SAN PEDRO SQUARE,
+THIS CITY, FROM 6:00 A.M. ON MARCH tg, ZOtt, TO
+4:00 A.M. ON MARCH 19, 2OLt, FOR THE EVENT *SAN
+MIGUEL CORPORATION CONCERT" IN LINE WITH THE
+TWO.WEEK.LONG CELEBRATION OF THE SOTH ARAW
+NG DABAW
+
+Ord. No. 0t64-17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG SAN PEDRO
+SQUARE, THIS CITY, FROM 6:00 A.M. ON MARCH 18, 2OLt, TO 4:00 A,M. ON
+MARCH I9I 2OL7' FOR THE EVENT *SAN MTGUEL CORPORATION CONCERT- IN
+LINE WITH THE TWO-WEEK.LONG CELEBRATION OF THE SOTH ARAW NG
+DABAW;
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Republic Act No.
+7160, otheruvise known as the Local Government Code of 1991 provides that any national or
+local road, alley, park, or square may be temporarily closed during an actual emergency, or
+fiesta celebrations, public rallies agricultural or industrial fairs....;
+SECTION 3. TEMPORARY CLOSURE - The streets along San Pedro Square,
+Davao City, shall be temporarily closed to vehicular traffic from 6:00 A.M. on March 18,
+20t7, to 4:00 A.M. on March t9,20L7, for the event "san Miguet Corporation Concelt'i
+in line with the two-week-long celebration of the 80th Araw ng Dabaw.
+SECTION 4. SEPARABILITY CLAUSE - If for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration, shall continue to be in full force and effect;
+SECTION 5. EFFECTIVIW - This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on February 28,2017, by a unanimous vote of all the Members of the
+SANGGUNIANG present.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+NIL
+GNO
+Acting Secretary to the SANGGUNIANG panlungsod
+(Assistant secretary to the SANGGUNIANG panrWsod)
+RNARD E. AL-AG
+Acting Vice Mayor
+emporary Presiding Officer
+ATTESTED:
+cns/jsdam
+
+Ord. No. 0764-77
+20t7
+APPROVED
+SARA Z. DUTERTE
+City Mayopfl
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+Iq,

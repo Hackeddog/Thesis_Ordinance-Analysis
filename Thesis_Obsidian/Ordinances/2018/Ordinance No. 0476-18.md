@@ -1,0 +1,312 @@
+---
+ordinance_number: "0476-18"
+title: "Ordinance No. 0476-18"
+date_enacted: null
+approval_date: "2018-07-11"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0476-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid]
+---
+
+# Ordinance No. 0476-18
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFTCE OFTHE CTryMAYOR
+sa6i'6rc
+,rfl-.u---
+0 _Nc
+Ref. ilo. cAdG2018'05303
+fWD,ctnn
+EY:
+1B
+,h
+2N'I IilDORSEMENT
+luly 19, 2018
+*
+v
+Respecffully returned to Ms. Charito Il. santos, secretary t9 tfe SANGGUNIANG
+Panlungsod, this City, the attached duly signed and apprcved Ordinance No'
+o476-iS, beries oi'zorg, entiued "nN onblNAruCE GRANTING THE REQUEST OF
+MR. ARTURO M. MIIAN, piresneruf, DAVAO CITY CHAMBER OF COMMERCE AND
+INDUSTRy, rNc. (Dcccd), FoR EreMprroN FRoM THE covERAGE oF SECTIONS 37,
+41, AND 42 oF bnonalrcE No. 092, SEBIES oF 2000 (SIGNAGE_ORDINANCE oF
+DAVA6 crru, IN RETATIoN To rHE 50TH YEAR ANNIVERSARY oF DAVAo CITY
+CHAMBER OF COMMERCE AND INDUSTRY TO BE HELD ON ]ULY 15'29,2018' AT SMX
+coNVENTIoN CENTE& sM I-ANANG PREMIER, THIS CITY', for your appropriate action.
+For the CitY Mayor:
+ATTY. TRISTAN
+Assistant
+er.rr, " €RD
+RELHASED
+(
+UL
+-a-ld
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+BAW @
+D
+LIFE
+IS HERE
+(
+bl4.$ffini'
+
+'
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+Ref. No. 1131-18-0111
+RE: ORDINANCE NO. 0475-L8, SERIES of 2018 entitled *AN
+ORDINANCE GRANTING THE REQUEST OF MR. ARTURO M.
+MII.AN, PRESIDENT, DAVAO CITY CHAMBER OF COMMERCE AND
+INDUSTRY, INC. (DCCCII), FOR EXEMPTION FROM THE
+COVERAGE OF SECTIONS 37, 41 AND 42 OF ORDINANCE NO. 092,
+SERTES OF 2000 (STGNAGE ORDTNANCE OF DAVAO CITY), rN
+REI.ATION TO THE sOTH YEAR ANNIVERSARY OF DAVAO CITY
+CHAMBER OF COMMERCE AND INDUSTRY TO BE HELD ON JULY
+L5-29,2018, AT SMX CONVENTION CENTE& SM LANANG
+PREMIER, THIS C[Y".
+'ST INDoRSEMENT
+July 11, 2018
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption is well within the powers of the SANGGUNIANG Panlungsod. Hence, it
+is recommended that the subject ordinance be approv"%
+ArrY. osMUN JftrLrANuEvAy rR
+OIC-Acting City Legal Officer
+LEGAL oPINIoN *o. ',/D ,
+SERIES OF 2O1B
+:t'-
+r."
+Date approved: July 11, 2018
+or[047 G 1 8_e4empt_cfiam6er-5 0tfr_1 8-0 1 1 1 _7 - I 1 - I I
+@[e4
+oFFr c E or I#g ffil,+BTrt'llSTRAToR
+RECEIVED BY:
+DAVAO
+DA.]'E:
+TIME:
+- ,:lcr oF THE ciTr/ ADMI{|STRArc,
+cr.iy it;rtu,rFtctJL;
+*cr,yED r,l"ffiEl s.hEraouo
+ffi-ffi
+t
+ffi
+{t}
+REC
+Lt
+D
+a)
+clrY ha/,*
+l1lt-pfr-t7
+!
+.a
+
+OFFICE OF THE SANGGUNIANG PANLUNGS OD
+July 6, 2018
+ypo
+SARA Z. DUTERTE
+City Mayor
+w1utt - lss
+Madam:
+E+ tg-
+'ilt
+P.txD
+pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+chapter 3, Book III and SECTION 54 of Book I Republic Act No' 7t60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No, OZz34-Lg and Ordinance No. o476-L8, SERIES of 2018 of the
+SANGGUNIANG Panlungsod, city of Davao, for your information, guidance and appropriate
+action.
+Very truly Yours/
+_
+lt
+cNgkWSrt#ffio,*
+Secretary to the Sanggufiiang Parilungsod
+(City Government Department Head II)
+D
+*
+CMO " CRD ,;\..u(
+RH#HgVEIs
+0,E
+J
+
+il
+z
+2.
+aes6
+Republic of ttte PhilipPirres
+Cty of Davao
+OffiGe of fte SANGGUNIANG Panlungsod
+r *ilt *'.
+IU-'LrEy LOUnCI
+24tr R.eguler Sesion
+Serie of 2018
+PRESEI{T
+Counclbr
+Councihr
+Councibr
+Councibr
+Councibr
+Councilor
+Councihr
+Counclbr
+Counclbr
+Councibr
+Councibr
+Councilor
+Councibr
+Councibr
+Councilor
+Councihr
+Counclhr
+Counclhr
+Yktorb U. Advlncula lr.
+Marir Behn 5. tuuta
+Danb L. ApmbtSr.
+Conrado C. Baluran
+hanne M. Bonguyan{uihs
+Ma. Cheny Ann Fl. Bonguyan
+Canneh J. Clarbn
+Danlh C. Dayanghlrang
+Aprll Marle C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Rene Elhs C. Lopez
+Bonifacio E. Militar
+Avegayle Dahdo Ortiz
+Anhinette G. Principe{ashodes
+J. Mekhor B. Quibin Jr.
+f-lary hselle D. Yllhfueft
+^kus Joseilr P. Zozobrado Itr
+Vice Mayor Bemad E. Al-ag
+- Temprary PrcsHlrg OffEer
+- OB-Mass Oath Taking of newly ehcted
+punong barargays and barangay kagawds
+- OB-Sbter Crry Signing Cercrmny
+- OB-gEEr Cry SQnlng Cercrmny
+- 0B SEter Cl$ Slgnlng Cercnmny
+- OB-Flass Oaft Taking of newly eHd
+punong barargays and barangay kagawads
+- On Dorrctic Enreryenq Leaye
+- On Vacathn Leave
+- OB-lilmfing with $e Deparfient of
+Agrkufturet 4l( Prqnm
+ABSEHT
+Councilor
+Coundhr
+Counclhr
+Councilor
+Councilor
+Councihr
+Councihr
+Nib f'4. Abellera Jr.
+Al Ryan S. AhJandre
+PlhrC. Braga
+tranuary H. &Iterte
+Leah A. Librado-Yap
+Dbsdado tuigeh A. Mahipus Sr.
+Ma*sa P. SafYadnr-Ahlla
+oEDIilAilCE ilO. 0416-18
+$EHIE$ OF 2OTS
+AII ORDII|AI|CE cRAt{TIltc THE REQUEST OF trtR.
+ARTURO it. ]tllAil, PRESIDEilT, DAVAO GITV CHAI,IBER
+OF COl.lllERCE AIID IIIDUSTRY, IflC. (DCCCII), FOR
+EIEI{PTIO]| FROH THE GOVERAGE OF SBCTTOilS 37, 4t
+AllD 42 OF ORDIilAilCE ilO, O92" SERIES OF 2O0O
+(SIGilACE ORDIlttiltCE OF DAVAO CITY), Iil RELATIOI|
+rc THE SOIH YEAR AIII{IVERSIRY OF DAYAO CITY
+CHTT-IBER OF GO}{}IERCE AAD II|DUSTRY TO EE HELT}
+oil ruLY 15-29, 2Sr8, tT SHX cOHrrEltTIOlt CEI|TER, $H
+a al!-trF
+F-FlrtFF
+taB
+L-enallrr l.ItEFttEtt, I tItE Lt I f
+
+Pqe2of3
+Ord. No. 0475-18
+Be it ordaind by the SANGGUNIANG Panlungsod of Davao City in session
+msembled that:
+SECTIOA L mLE - This *rdinanee shall bc knewn as 'AI{ SH,SIlltrlCE
+GRiilTIIIE THE EEqUEST BF $lR. ARTUR(} Ft. !it$rH, PRESIEEHTT DAvAt,
+CITT CHAHEEE OF CO}IHEREE ATIS IIIDUSTEY, IilC. {FCCCil}, FEE
+EXEi|PTIOI| m$!t THE COUEE^*GE OF gEeTrgHS 37_, 41 tHE 4= OF
+sBsII{tl{cE }ls. 0s1, sEErE$ oF 20m {sItrHe€E oRtrIl{iilcE sF B*VA*
+ErTf), rB RELRTTAH Ttl THE 58rH yE*R tilHIgERSAEy BF trivAO CrTy
+CHA'{EEE OF C,$HHEECE tHE I}|EUSIEY TO BE HE1E OH IULY fs-Z$, 201S,
+AT STJIX COTUEI{TIOIT CEilTE& S}I LAITAHE PRETIIE& THIS CITY'.
+SB$IIOH e COVER*trE - The exemsion salely pertains to th€ {1} payment of
+applicable fees under Chapter 10, Secticn 37; and, {2} etemftion fram the caverrye +f
+rstricted ar€ffi fur the installati*n and display sf any adveftising and/+r prop*ganda
+materials under Chapter 10, Strtbns 41 and {2 of Ordinance l{o. 092, Serim of 2000
+tsignrye Ordinance sf Davao eiry).
+$ECTIOII 3. PERIOD AllD LIIIITATIOI{ - The exemption shall be fr*m the
+P#srye of this Ordinance up tt August 3, ?018 *nly and that in no r#e shall the
+organizers and exhibitr:rs h exenrBt lronr c-onrplianqe with the ,-rtler pr+visi*ns +f the
+2t117 Reyenue Code of the Ci$ of Davm and other applicable laws and rrdinances.
+SECTIOil 4. trSHE}ITIOII
+a. All limitations and conditions as sd forth in the Signage Ordinance of
+the City and those additional conditions imposed by the City Enginer's
+Office (CEO), the Department of Rrblic Works and Highways (DP\AtH)
+and Davao Light and Fower Company (D[PC);
+h, The Gty Covernment of Davm shall be recognized ffi an event paftner
+in all prqfttms, collaterals and bannerc.
+SEtTIOTI 5,
+approval.
+EffigIBtrE - This *rdinanee sliall take efu inrmediatdy up*n
+EIIACTED, June 25, 7AL8, by a unanimous vote of all the Msnherc of the
+Sanggunian, there being a quorum.
+TERTIFIED CORRECT:
+For and in the absence of the Secretary:
+m*.rlertffieres
+Acting S*retary to the $angguniang Panlungsod
+{Local Lqislative Stafr Officer
+{hJtuy
+
+Temporary
+Officer
+Ord. No.0476-18
+APmovED: 1 6 JUL 2018 ,2018
+L.
+ATTESTED:
+ATTESTED:
+- city *^y
+I&
+ATTY.rhn?
+IULEIKAE. I]OPEZ
+City Hminisffiator'

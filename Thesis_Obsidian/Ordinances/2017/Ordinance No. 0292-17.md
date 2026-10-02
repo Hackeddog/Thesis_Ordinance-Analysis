@@ -1,0 +1,281 @@
+---
+ordinance_number: "0292-17"
+title: "AN ORDINANCE APPROVING AND CONCURRING THE CONSTRUCNON OF THE DAVAO CITY BULK WATER SUPPLY PROJECT OF APO AGUA INFRASTRUCTURA, INC., (AAII) AND DAVAO CITY WATER DISTRICT (DCWD)\", for your appropriate action. For the City Mayor: ATTY. TRISTAN Assistant INGO (Administration) CMO. CRD ,qHLEASEM xflr_t]Lffi TDPD/shang t LIFE IS HERE * \\-v -t Second Floor, City Hall Building, City Hall Drive, San Pedro "
+date_enacted: null
+approval_date: "2017-11-06"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0292-17.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/approving, topic/concurring, topic/construcnon, topic/bulk, topic/water, topic/supply]
+---
+
+# Ordinance No. 0292-17
+
+> AN ORDINANCE APPROVING AND CONCURRING THE CONSTRUCNON OF THE DAVAO CITY BULK WATER SUPPLY PROJECT OF APO AGUA INFRASTRUCTURA, INC., (AAII) AND DAVAO CITY WATER DISTRICT (DCWD)", for your appropriate action. For the City Mayor: ATTY. TRISTAN Assistant INGO (Administration) CMO. CRD ,qHLEASEM xflr_t]Lffi TDPD/shang t LIFE IS HERE * \-v -t Second Floor, City Hall Building, City Hall Drive, San Pedro 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFTCE OFTHE CITYMAYOR
+saCiirG.
+I
+2d Indorcement
+November 23,20L7
+Respectfully returned to the Ms. Charito N. Santos,
+to the
+SANGGUNIANG Panlungsod, this City, the herein Approved Ordinance Jfo. 0292-17
+SERIES of 2OL7 entitled *AN ORDINANCE APPROVING AND CONCURRING THE
+CONSTRUCNON OF THE DAVAO CITY BULK WATER SUPPLY PROJECT OF APO AGUA
+INFRASTRUCTURA, INC., (AAII) AND DAVAO CITY WATER DISTRICT (DCWD)", for your
+appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+INGO
+(Administration)
+CMO. CRD
+,qHLEASEM
+xflr_t]Lffi
+TDPD/shang
+t
+LIFE
+IS HERE
+*
+\-v -t
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmai!.com
+I)
+'li
+c
+I
+
+OFFICE OF THE CITY LEGAT OFFICER
+Tel. No. 227-5793 * 225-0183
+Trunk Line No. 241-1000 Loc267 ,p.I
+o0o
+LEGAL OPTNTON NO. 0l?
+SERIES
+Ref. No. 1131-17
+Respectfu lly forwarded to the Office of the City
+rough the Offce
+of the City Administrator, both this City, the attached Ordina nce No. 0292-t7,
+SCT|ES Of 2OI7 CNtitICd 'AN ORDINANCE APPROVING AND CONCURRING THE
+CONSTRUCNON OF THE DAVAO CITY BULK WATER SUPPLY PROJECT OF APO
+AGUA INFRASTRUCTURA, INC., (AAII) AND DAVAO CITY WATER DISTRICT
+(DCWD), " informing your endthat said ordinance is free from legal infirmity.
+1St INDORSEMENT
+November L4,20L7
+CMO. CRD
+ffiECffinVf.r"'
+fF 1&
+a
+o g\
+RAicr.
+ArrY. unnrr$Atmrlo, Rsw
+Attorney 1V
+Approved by:
+ATTY. OSMU
+P. VILLANUEVA, JR
+OIC-Asst. City Lega! Officer
+Date approved: November L5,20t7
+OFFICE OFRECETVEO BY:
+DATE:
+TIME:
+o
+t
+rlCL OF THE e
+TECTTITED BY:
+rd:F
+rmF
+Gl;y ti,3:.
+FrICE
+tq
+?yy - y*_ Fy
+
+November 6,2017
+t
+*
+m
+ff[/-oolg fl Rl
+Pursuant to Sub-SECTION 3, pa ragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 02754-16 and ordinance No. o2gz-Ll, SERIES of 2016 a
+20t7 of
+the SANGGUNIANG Panlungsod, for your information, guidance and appropriate action
+Very truly yours,
+SARA Z. DUTERTE
+City Mayor
+Madam
+cns/nta
+o
+n?)tni,I. ,l,i
+CHARITO N. ShNTOS
+Secretary to the Sanggunlang panlungsod
+(City Government Department Head II)
+ffiECE6VEM
+CMO. CRD
+tlto - /? - Z
+NUt/ I lJ 20lI ls,n
+
+Republic of tfre Philipgrine
+Gty of Davao
+OfiEe of the SANGGUNIANG Panlungsod
+18& Ciry Council
+ggP neg!fu Scdrn
+Seri€s sf 2817
+PRESEIfT:
+Councilor
+Councihr
+Courrcihr
+Councihr
+Coundhr
+Coun€ihr
+Councilor
+Cffincilor
+Councihr
+Councihr
+C-ouncilor
+Councilor
+Councih'r
+C.ouncihr
+f-ouncibr
+Councihr
+Courrcilor
+Councihr
+Councihr
+Councihr
+Councibr
+Councihr
+LHh A. Ubrado-Yap
+f{ilo f.{. fibdhra Jr.
+YreriD U, Advinola lr.
+Bernard E. Al-ag
+Al Rfan S. Aleiandre
+knte L Afcd *.
+C.onr* C Baluran
+]oanne f-{. Boryufan{ribs
+Itla, Chsry Ann l.t. Eorquyan
+Pihr C. Braga
+Danih C. DayarEhinarq
+AFil ilarb C. Dryap
+Jimrry G. Dureaa
+Ednr P. Ibupn Jr.
+Rene Elim C- Lopez
+Biosdado fuigdo A. fttahipus S.
+ftegayle Dalodo frtir
+l. I'lekhor B. Quitain lrItlarisa P. Sahndor-Abdla
+Halila Y.Studagnr
+Flary J#dh D. lJIllafirtrE
+&€ffs Jffiph P. Zcabr#o III
+- Tanrporary Presiding Offier
+- On Offiestic Ernegency tsrre
+- Sl Sicft L€fiw
+- &t Sid( teil,E
+Oil OFFITEAL BIISII{ES:
+Sce t'layor Paob Z. fuErte
+Councihr Januaty l{. Dute*te
+ABSEHT3
+I
+-a
+f-ouncihr Flaria Bekr S. Affita
+ftuncihr Ecflifacl] E. Militar
+Councihr Anbin& G. Frincipe-Cxfods
+otrIllilit(E rc. o292-17
+Srries d ?.Al7
+*L gRDIriiltE *PPRrr*nlE *rtr ffitI ERIilE
+T}fE ffiilSTRUCTIOfi Gf THE trItYIS CITY HIL'T
+U'*TER SUPPLY PESIEET OT AFiO iGU*
+rilrR*slRtETufti, rlffi. trffrl ttD Gnyfrd} cITy
+Hf,TER DUITRTCT (BCU5D)
+Lc5tr,.c)
+
+Ord. No. A792-17
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assenrbld thaL
+SECIIffi 1, ITILE - This Ordinance shali be knomn m *tff O*SIFI*ilCE
+*PPRgvIStG frllB tr'IH'RnI}IG THE ffiTEIXt'CTIffi ff ?H= B*lfT# gITf
+BULr WATE* SITFFLY F*OTECTOFiFOIGI'i rfiFnfiSIEttrIUnIe rffi" tt.tlr}
+*?rB D*Y*A CITY WTTER DTgTRIf,T (BC5fB)";
+SECilOil L DECXi[RlTIOil Of FOLICT - Arttde 9 {a} of Ordinane
+No. 0310{17, Se,{ies €f ?007, knawn as the Watershed Prtfiect*H, Consetrrat*rn and
+t'lanagernent Ordinance as afitend€d by Ordinane l{o. U&7-L5,Ssi€s of 2015, sfr&rs
+that:
+Article L PROHiSffED ACTS
+{a} C0iISERVATI0f{ ARFIS
+x.f,r
+xx.d
+:fiiH
+(xponsbuctirlg or maintaining any kind of sbu*rre, fiaile or endsure ard
+conducting any business enterprlse. Prcnrkled, hffis{er, ftfi &e ffits$rrctkx sf any
+strustilre, or erffCosure or &e fio{dnst of any busirre entrprisa shall be alkx*d. ruiHr
+Hre prbr appranal and mrcurrene d Sre SangguniarE Panlungd by a malxity wte
+of all the msnbers prent mnsb'hrting a quoruffi, upofl proo,f and dronirA tlrat tire
+said sffucture. fane, or enfuure or tfie sakl csrduct af h,rsi*ess shsll be lrerxfrial to
+the watersH areEr and rsftarge areEls as d$ned under t}is Hirra**-
+L,k€rrb, Resolutlx ilo. tI27*'1E Serbs of 2O1E srtiiled *Gnanting apprarral
+and conqlnene b Dardo frtl' edk Water fupdy Proffi €f *Fo Agua Inffimtura
+Inc. and the Davao CiU l{aEr District TDCWD), without prejudi= to UE pasage of
+su@uent Ordinance for the colhctitrn of kal taxes, f* and *rarges due to &e Citf
+C'onernmenf was taken inb onsideratfun in granfing approral ard mncurrence b &e
+prsje{t;
+SECTI0il 3, TUTIIOEITY - The Apo Agua InFastnrctuna Inc. and the Darao
+Citf trraGr Dktrict {DC$iS} ate h*'ebf authorized to construct the Dayao CrV eft
+ttlater Suppfu Pro*I* in Earangay &rnrahng. this City;
+SEgrIOil il' SEPffitgItITT CI.IUSE - If, for ary r€rlson r zfry s€ctiffi or
+prst{is*}fl cf thie Ordinance b declared unconstitutiffial sr invrlk, or{rcr sdiors cr
+provislrns hseof not aff*ed B srdi dedaration shall contintle b be in full fore a*d
+e#d;
+SECIIOT 5. EFFEETIYITY - ftb Ordinanae shall take #
+imnrediatdy upon
+approral;
+EilrGrED, a* the 9t dar of october, 2017, by a majontr wte of afi the
+ldenrbes of the Sanggunian pr€senq there tn{ng a gusrumPage 3 of 3
+Ord. No. A?9?-17
+l.Eilt L
+Presidirg Officer
+ATTT. UUI.EII(A
+City AdminEtabr "
+CETilFIED CO*FECT:
+For and in the ahne of the Sen*ary:
+Nov 2 0 2011]
+20u
+m
+Acting Secretary ts Sre SarEguniang PanluruEod
+(tssistant Sxre*ary b *te SangrguniaGf fanflgrod)
+ATTESTED:
+ATTESTED:
+* cjty i{rw,fl
+L

@@ -1,0 +1,202 @@
+---
+ordinance_number: "017-22"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SIGN, FOR AND Iil BEHATF OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND KABANG KALIKASAN NG PILTPTNAS FOUNDATION, rNC. (KKPFI) ALSO KNOWN AS THE woRLD WrDE FUND FOR NATURE-PHILTPPTNES (WWF- PHTLTPPTNES) RETATTVE TO THE PLASTTC SMART CTTTES PROJECT (PSc)"
+date_enacted: "2022-09-06"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 017-22.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/granting, topic/legislative, topic/authoriw, topic/mayor, topic/sign, topic/behatf]
+---
+
+# Ordinance No. 017-22
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SIGN, FOR AND Iil BEHATF OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND KABANG KALIKASAN NG PILTPTNAS FOUNDATION, rNC. (KKPFI) ALSO KNOWN AS THE woRLD WrDE FUND FOR NATURE-PHILTPPTNES (WWF- PHTLTPPTNES) RETATTVE TO THE PLASTTC SMART CTTTES PROJECT (PSc)
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+th Regular Session
+SERIES of 2022
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. AI-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Luna Maria Dominique S. Acosta
+Richlyn N. Justol-Baguilod
+- On Domestic Emergenry Leave
+ORDINANCE NO. OL7.22
+SERIES oJ 2022
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE CITY
+MAYOR TO SIGN, FOR AND Iil BEHATF OF THE CITY OF DAVAO, THE
+MEMORANDUM OF UNDERSTANDING (MOU) TO BE ENTERED INTO
+BY AND BETWEEN THE CITY OF DAVAO AND KABANG KALIKASAN NG
+PILTPTNAS FOUNDATION, rNC. (KKPFI) ALSO KNOWN AS THE
+woRLD WrDE FUND FOR NATURE-PHILTPPTNES (WWFPHTLTPPTNES) RETATTVE TO THE PLASTTC SMART CTTTES PROJECT
+(PSc)
+
+t
+Ord. No. 0t7-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDIT{ANCE
+GRAilTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO SIGil, FOR
+AND I1{ BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+UNDERSTANDING (MOU) TO BE EI{TERED INTO BY AND BETWEEN THE CITY
+oF DAVAO AND KABANG KALII(ASAN NG pItrpINAS FOUNDATION, INC.
+(KKPFI) ALSO KNOWN AS THE WORLD WrDE FUND FOR NATUREPHILIPPINES (WWF-PHILTPPINES) RELATM TO THE PLASTIC SMART
+cmEs PRorEcT (Psc)".
+SECTION 2. DECLARATION OF POUCY - SECTION 455 (b) (1) (vi) of Republic
+Act No. 7L60 or the Local Government Code of 1991 states that:
+'SECTION 455. Chief Executive; Powerc, Duties and Compenation,-
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant to
+SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs, projects,
+services, and activities of the city government and in this connection,
+shall:
+)oo(
+)oo(
+)oo(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other documents
+upon authority of the SANGGUNIANG panlungsod or pursuant to law or
+ordinance."
+)oo(
+rco(
+)oo(
+SECTION 3. AIIIHQBIE - The City Mayor is hereby granted legislative
+authority to sign, for and in behalf of the City of Davao, the Memorandum of
+Understanding (MOU) to be entered into by and between the City of Davao and Kabang
+Kalikasan ng Pilipinas Foundation, Inc. (KKPFI) also known as the World Wide Fund for
+Nature-Philippines relative to the Plastic Smart Cities Project.
+SECTIOI{ 4,
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+)oo(
+)oo(
+)Ofr
+I
+
+r-0u11
+Ord. No. 0t7-22
+ENACTED, on the 6th day of September 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cnokffn).fr,-o,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depailrnent Head II)p
+ATTESTED:
+J.
+b-L
+MEICD1UR B. QUITAIN JR.
+/'tice Mayor
+/residing Officer
+cns/ray
+APPROVED:
+sEP I 9 n22
+2022
+SE
+Z. DUTERTE
+Y
+cirv Mavy
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF UNDERSTANDING (MOU) TO BE ENTERED
+INTO BY AND BETWEEN THE CITY OF DAVAO AND KABANG KAUIGSAN NG PIUPINAS
+FOUNDATION, INC. (KKPFI) ALSO KNOWN AS THE WORLD WIDE FUND FOR NATURE-PHILIPPINES
+(WWF-PHTUPPTNES) RETATTVE TO THE PI-ASTIC SMART CTTIES PROJECT (PSC)
+,r-,

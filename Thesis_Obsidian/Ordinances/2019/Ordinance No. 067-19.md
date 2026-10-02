@@ -1,0 +1,332 @@
+---
+ordinance_number: "067-19"
+title: "AN ORDINANCE GRANTII{G THE REQUEST OF DR. PAUU CYNTHIA CRUZ.UMLENGCO, CHAIRPERSON - WAYS AND MEANS COMMITTEE 2019, PHILIPPINE OBSTETRICAL AND GYNECOLOGICAL SOCIETY - sourHERN MTNDANAO CHAPTER (POGS-SMC) TO WAIVE THE PAYMENT OF THE AMUSEMENT TAX ON THE PROCEEDS OF THE FUND RAISING EVENT ON OCTOBER 16, 2019 AT SM LANANG PREMIER, THIS Cfry\", for your information and appropriate action. For the City M"
+date_enacted: "2019-10-25"
+approval_date: "2019-10-16"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 067-19 (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/grantii, topic/request, topic/pauu, topic/cynthia, topic/cruz, topic/umlengco]
+---
+
+# Ordinance No. 067-19
+
+> AN ORDINANCE GRANTII{G THE REQUEST OF DR. PAUU CYNTHIA CRUZ.UMLENGCO, CHAIRPERSON - WAYS AND MEANS COMMITTEE 2019, PHILIPPINE OBSTETRICAL AND GYNECOLOGICAL SOCIETY - sourHERN MTNDANAO CHAPTER (POGS-SMC) TO WAIVE THE PAYMENT OF THE AMUSEMENT TAX ON THE PROCEEDS OF THE FUND RAISING EVENT ON OCTOBER 16, 2019 AT SM LANANG PREMIER, THIS Cfry", for your information and appropriate action. For the City M
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Cites or amends
+
+- [[Ordinance No. 0291-17]]
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Iu
+ib
+a\
+C'
+BNc
+Ref- No. CIdG2Ol9-Oalf
+2"d INDORSEMENT
+November 5,2019
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 643, SERIES of 2019 dated October
+2L, 20Lg of the City Legal Office, relative to the attached duly signed and approved
+Ordinance No. 067-19, SERIES of 2019 entitled, "AN ORDINANCE GRANTII{G THE
+REQUEST OF DR. PAUU CYNTHIA CRUZ.UMLENGCO, CHAIRPERSON - WAYS AND
+MEANS COMMITTEE 2019, PHILIPPINE OBSTETRICAL AND GYNECOLOGICAL SOCIETY
+- sourHERN MTNDANAO CHAPTER (POGS-SMC) TO WAIVE THE PAYMENT OF THE
+AMUSEMENT TAX ON THE PROCEEDS OF THE FUND RAISING EVENT ON OCTOBER
+16, 2019 AT SM LANANG PREMIER, THIS Cfry", for your information and appropriate
+action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant City
+OY:
+.Tltr{t:
+fl2 'l)4
+$
+clrY MlYot's oFnct
+CORRT.S'ONDETtCI TND RECORD' DIV
+RELEASED.
+N3V 0 6 20lt
+.r'&i'on.,o
+ADMrylsrHAnvE NDE rv Jl',llt
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 . davaocitymayor@gmail.comn
+DAY @
+f'tre !g HERE
+^
+OFFICE OF THE CITY IVIAYOR
+
+lq
+public of the PhiliPPines
+OFFICE OF THE CITY LEGAL O
+Iel. No.298-6970
+Trunk Llne No. 241'100b Loc
+,ffi,
+R
+0c
+ANN
+ADMI,YISTIA
+AIDE
+r: /.1-Iolo
+i
+0945529t702
+',4)
+cMo
+Legal opinion *o. 6Q,
+SERIES of 2019
+Ref. No. CLO-2019-0003708
+RE: ORDINANCE NO. 067-19, SERIES OF 2019 entitled "AN ORDINANCE
+GRANTING THE REQUEST OF DR. PAU]A CYNTHIA CRUZ-LIMLENGCO,
+CHAIRPERSON-WAYS AND MEANS COMMTTTEE 20T9, PHIUPPINE
+OSTETRICAL AND GYNECOLOGICAL SOCIETY-SOUTHERN MINDANAO
+CHAPTER (POGS.SMC) TO WAIVE THE PAYMENT OF THE AMUSEMENT
+TAX ON THE PROCEDS OF THE FUND RAISING EVENT ON OCTOBER 16,
+2019 AT SM I.ANANG PREMIER, THIS CTTY".
+l't INDORSEMENT
+October 2L,20t9
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance No. 067-19 SERIES
+of 2019, with the information that this office finds no legal infirmity in the
+passage of the subject ordinance, it appearing that the same is well within the
+power of the SANGGUNIANG Panlungsod.
+In view thereof, this office recommends the approval of the subject
+ordinance.
+ATTY.
+A. GALLO, RSW
+Acting
+Legal Officer
+GAL
+Approved by
+ATTY.
+P. VTLLANUEVA, JR
+OIC-Acting City Legal Officer
+Date of Approval: October 22,20t9
+orf,1 6 7 - t 9_t aL_e<e mpt _p ogs - $nc_2 0 1 9 -0003 7 08_ 1 0- 2 1 - 1 9
+@tee
+,l$ .rr
+&iiT i#*aEl$ruiGfi
+tull']'"ii'lt*
+;'l. f
+r:u[il€D 8t
+lo"4a
+o
+'.9?F.
+csq.4
+roe-q-}k
+
+r0
+.{crs
+RepBl+i,%Ft'"T['dines
+OFFICE OF THE SANGGUNIAhIG PANLUNGSOD
+October t4,2019
+SARA Z. DUTERTE
+City Mayor
+Madam:
+elo -$tq-@nos P.q\a
+pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Afticle One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+O277- g and Ordinance No. O67-L9, both SERIES of 2019, of the SANGGUNIANG
+Panlungsod, this City, for your information, guidance and appropriate action'
+Very truly yours,
+C)
+*
+*
+n 0,1^nn{ >, ^'l*'(
+cHhRrro N.'SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+T[He
+cfrY MAYOf,',S OrrrcE
+CORRISPONDTNCE AND RECORDS DIV
+ftECE,IVED
+()cI 15 zule
+,"rr/ tl:R kMARIA ETENA CJGU€RZON
+AOMINISTiAflVE
+CMOCONTACT l: 241-1(x)0 LOC.
+ffi
+'ltt ,7'
+vl
+
+tgth city Council
+14th Regutar Session
+SERIES of 2019
+nepublic o6 l6s"Phiiippines
+Sebastian Z. Duterte
+Nilo D. Abellera
+Maria Belen S. Acost6
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M.Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+- On Filial Leave
+- On Vacation Leave
+- On Domestic Emergency Leave
+- On Domestic Emergency Leave
+- On Official Business
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Ralph O. Abella
+Louie John J. Bonguyan
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Myrna G. L'Dalodo-Ortiz
+ORDINANCE NO. O67.L9
+SERIES of 2019
+AN ORDINANCE GRANTING THE REQUEST OF DR. PAULA
+CYNTHIA CRUZ-LIMLENGCO, CHAIRPERSON-WAYS AND
+MEANS COMMITTEE 2019, pHILTppINE OBSTETRTCAL AND
+GYNECOLOGICAL SOCIEW.SOUTHERN MINDANAO
+cHAprER (pocs-sMc) To wArvE THE PAYMENT OF THE
+AMUSEMENT TAX ON THE PROCEEDS OF THE FUND
+RAISING EVENT ON OCTOBER 16, 2OL9 AT SM LANANG
+PREMIE& THIS CITY
+
+Ord. No. 067-t9
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST OF DR. PAULA CYNTHIA CRUZ.LIMLENGCO,
+CHAIRPERSON-WAYS AND MEANS COMMITTEE 2OT9, PHILIPPINE
+OBSTETRICAL AND GYNECOLOGICAL SOCIETY-SOUTHERN MINDANAO
+CHAPTER (POGS-SMC) TO WArVE THE PAYMENT OF THE AMUSEMENT TAX ON
+THE PROCEEDS OF THE FUND RATSING EVENT ON OCTOBER 16, 2019 AT SM
+LANANG PREMIE& THIS CIW'.
+SECTION 2. DECLARATION OF POUCY - SECTION 3 (l) of Republic Act. No.
+7160, otherwise known as The Local Government Code of 1991, provides that "the
+pafticipation of the private sector in local governance, particulady in the delivery of basic
+services, shall be encouraged to ensure the viability of local autonomy as an alternative
+strategy for sustainable development".
+sEcrIoN 3. AUTHORITY SECTION 66, sub-paragraphs (a) and (b) of
+Ordinance No. 0291-17, SERIES of 2017, or "An Ordinance amending the 2005 Revenue
+Code of the City of Davao" provides:
+SECTION 66. Exemption-The tax herein imposed does not
+apply in the following cases, provided, that exemption should
+first be obtained for this purpose from the SANGGUNIANG
+Panlungsod:
+a) Where the admission fees are collected for and in
+behalf of the charitable, educational or religious
+institutions or associations who are declared by law or
+presidential proclamation as exempted from the
+payment of amusement tax on paid admission;
+provided, fufther, that such exhibition, show,
+performance, and the like, shall be limited to only
+three (3) days in a calendar year;
+b) Where the admission fees are collected in connection
+with the holding of operas, concerts, dramas, recitals,
+paintings and aft exhibitions, flower shows, musical
+programs, literary and oratorical presentations except
+pop rock, or similar concefts not intended primarily for
+profit and fufthermore, not including film exhibitions".
+SECTION 4. APPROVAL OF REQUEST FOR EXEMPTION- The letter-request
+of Dr. Paula Cynthia Cruz-Limlengco, Chair-Ways and Means Committee 2}lg, Philippine
+Obstetrical and Gynecological Society-Southern Mindanao Chapter (POGS-SMC) for
+amusement tax exemption for the fund raising event on October 16, 2019 at SM Lanang
+Premier, this City is hereby ganted,
+SECTION 5. SEPARABILITY CLAUSE- Il for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+
+v
+ATTESTED:
+Ord. No. 067-19
+SECTION 6. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the Bth day of October 2019, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cHPkt(A.l #",
+Secretary to the Sanggtniang Panlungsod
+(City Government Depaftment Head II),
+Z. DUTERTE
+Vice Mayor
+Presiding Officer
+cns/kjtq
+ZULEI
+LOPEZ
+City Admini
+25 ocT 2019
+Z. DUTERTE
+SE
+APPROVED
+2019
+- city MuyiJ
+ATTESTED:

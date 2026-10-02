@@ -1,0 +1,212 @@
+---
+ordinance_number: "0118-22"
+title: "AN ORDINANCE GRANTING LEGISTATIVE AUTHORIW TO THE CITY MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN T}IE CITY OF DAVAO AND THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES .ENVIRONMENTAL MANAGEMENT BUREAU REGTOI{ Xr (DENR-EMB Xr) RELATryE TO THE ASSESSMENT, SUPPLY, DELryERY, AND IilSTATLATION OF BRAND NEW PRELIMINARY "
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0118-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/granting, topic/legistative, topic/authoriw, topic/mayor, topic/srgn, topic/behalf]
+---
+
+# Ordinance No. 0118-22
+
+> AN ORDINANCE GRANTING LEGISTATIVE AUTHORIW TO THE CITY MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN T}IE CITY OF DAVAO AND THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES .ENVIRONMENTAL MANAGEMENT BUREAU REGTOI{ Xr (DENR-EMB Xr) RELATryE TO THE ASSESSMENT, SUPPLY, DELryERY, AND IilSTATLATION OF BRAND NEW PRELIMINARY 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Counci!
+2Os Regutar Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Edgar P. Ibuyan Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justo!-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+J. Melchor B. Quitain Jr.
+Bai Hundra Cassandra Dominique N.
+Advincula
+Temporary Presiding Officer
+-
+OB-Acting City Mayor
+-
+OB-Administered the oath of
+the new Punong Barangay
+of Brgy. Ula, Tugbok District
+-
+OB - Represented the City
+Mayor in the turnover of the
+Balay ng Pagbabago in
+Brgy.Lasang
+Councilor Augusto Javier G. Campos III
+oR.DTNAI{CE NO. 0118-22
+SERIES of 2O22
+AN ORDINANCE GRANTING LEGISTATIVE AUTHORIW TO THE CITY
+MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN T}IE CITY OF DAVAO AND THE DEPARTMENT OF ENVIRONMENT
+AND NATURAL RESOURCES .ENVIRONMENTAL MANAGEMENT BUREAU
+REGTOI{ Xr (DENR-EMB Xr) RELATryE TO THE ASSESSMENT, SUPPLY,
+DELryERY, AND IilSTATLATION OF BRAND NEW PRELIMINARY
+DISINFECTION AND STORAGE FACILITIES FOR COLLECTED COVID.19
+RELATED WASTE
+
+Ord. No. 0tL8-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION l. TfTLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING TEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR
+AilD 11{ BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT
+(MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND
+THE DEPARTMENT OF ENVIRONMENT AilD NATURAL RESOURCES.
+ENVIRONMENTAL MANAGEMENT BUREAU REGION XI (DENR-EMB XI)
+REIATTVE TO THE ASSESSMENT, SUPPIY, DELTVERY, AND TNSTALLATTOI{ OF
+BRAilD NEW PRELIMINARY DISINFECTION AND STORAGE FACILMES FOR
+COLTECTED COVID.1g REIATED WASTE".
+SECTION 2. DECLARATION OF POUCY -
+(1) SECTION 455 (b) (1) (vi) of Republic Act No. 7160 or the Local Government
+Code of 1991 states that:
+*SECTION 455. Chief Evrcutive; Powerc, Duties and Compenntion.
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants purcuant
+to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general supervision and control over all programs,
+projects, services, and activities of the city government and in this
+connection, shall:
+(vi) Represent the city in al! its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+(2) SECTION 34 of the Local Government Code recognized the nongovernment organizations as paftners in the pursuit of local autonomy; and
+(3) SECTION 35 of the same Code authorizes the local government units to
+enter into joint ventures and such other cooperative arrangement with
+people and non-government organizations to engage in the delivery of
+ceftain basic services, capacity building and livelihood projects, and to
+develop local enterprises designed to improve productivity and income,
+diversiff agriculture, spur rural industrialization, promote ecological,
+balance and enhance the economic and social well-being of the people.
+SECTION 3. AIIIHoRITY - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City of Davao, the
+Memorandum of Agreement (MOA) to be entered into by and between the City of
+Davao and the Depailrnent of Environment and Natural Resources-Environmental
+Management Bureau Region )O (DENR-EMB )G) relative to the assessment, supply,
+delivery, and installation of brand new preliminary disinfection and storage facilities for
+collected COVID-l9 related waste.
+
+Ord. No. 0118-22
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 4. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the sth day of December 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ ,A,u;i \. l,r"-
+CI|ARITO N. pANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaflment Head IIlv
+AfiESTED:
+ATTESTED:
+ATTY.
+E
+President Pro
+Temporary Presiding Officer
+cns/ray
+JAN O E zON
+APPROVED:
+H. IAYOG
+2022
+Z. DUTERTE
+CiW t4av21r -
+Acting
+istrator
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO
+BY AND BETWEEN THE CTTY OF DAVAO AND THE DEPARTMENT OF ENVIRONMENT AND NATURAL
+RESOURCES-ENVIRONMENTAL MANAGEMENT BUREAU REGION )G (DENR-EMB )G) REI.ATIVE TO THE
+ASSESSMETIT, SUPPLY, DEUVERY, AND INSTALIATION OF BRAND NEW PREUMINARY DISINFECTION
+AND STORAGE FACIUTIES FOR COLLECTED COVID-l9 REI.ATED WASTE

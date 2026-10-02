@@ -1,0 +1,340 @@
+---
+ordinance_number: "0466-18"
+title: "AN ORDINANCE APPROVING THE OPENING OF ROAD LOTS L4 AND TO-B.17-B-2-D-2, THIS CTTY, IN ACCORDANCE WITH THE RECOMMENDATION OF THE CltY TRANSPORT AND TRAFFIC MANAGEMENT OFFICE (CfTMO) AND THE CITY LEGAL OFFICE\", for your appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assistant ) +i_d*r ct.:.!. cRE ffiFLHASED second Floor, city Hall Building, city Hall Drive, san Pedro st., Davao city iOgZ"
+date_enacted: null
+approval_date: "2018-07-11"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0466-18.pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/approving, topic/opening, topic/road, topic/lots, topic/ctty, topic/accordance]
+---
+
+# Ordinance No. 0466-18
+
+> AN ORDINANCE APPROVING THE OPENING OF ROAD LOTS L4 AND TO-B.17-B-2-D-2, THIS CTTY, IN ACCORDANCE WITH THE RECOMMENDATION OF THE CltY TRANSPORT AND TRAFFIC MANAGEMENT OFFICE (CfTMO) AND THE CITY LEGAL OFFICE", for your appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assistant ) +i_d*r ct.:.!. cRE ffiFLHASED second Floor, city Hall Building, city Hall Drive, san Pedro st., Davao city iOgZ
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+'
+OFFTCE OFTHE CTTYMAYOR
+I
+t
+Ref" No. CAdG2018-05308
+rDPO/chh
+zd tttooRs=lnErtT
+July 19, 2018
+\ qryoF no,,tng
+Respectfully returned to Hs. Charito N. Santos, Secretary to the SANGGUNIANG
+Fanlungsod, this Gty, the attached duly signed and apprcved Ordinance No.
+0466-1& SERIES of 201& entitled "AN ORDINANCE APPROVING THE OPENING OF
+ROAD LOTS L4 AND TO-B.17-B-2-D-2, THIS CTTY, IN ACCORDANCE WITH THE
+RECOMMENDATION OF THE CltY TRANSPORT AND TRAFFIC MANAGEMENT OFFICE
+(CfTMO) AND THE CITY LEGAL OFFICE", for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+INGO
+Assistant
+)
++i_d*r
+ct.:.!. cRE
+ffiFLHASED
+second Floor, city Hall Building, city Hall Drive, san Pedro st., Davao city
+iOgZl 224-3004 i tOeZl Z+r-r-fiOO lbc. 265 o davaocitymayor@gmail.com
+LIFE
+IS HERE
+.t-lf
+B^W,'@
++
+:
+tr*
+
+r
+tnepibfic of the Philippines
+City qf Davao
+OFFICE OF THE CITY LEGAL
+t
+Tet. No. zg}-6gto
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+Ref. No. 1131-18-0110
+LEGAL OPINION NO, ?(I/
+SERIES OF 2018
+l't INDORSEMENT
+July 11, 2018
+Respectfttlly forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance IIo. 0466-1&
+SERIES of 2018 entitled ,AN ORDINANCE APPROVING THE OPENING OF ROAD
+LOTS 14 AND 10.8.17.8-2-D.2, THIS CITY, IN ACCORDANCE WITH THE
+RECOMMENDATION OF THE CITY TRANSPORT AND TRAFFIC MANAGEMENT
+OFFICE (CITMO) AND THE CITY LEGAL OFFICE", informing your end that the
+same is free from legal infirmity citing RA 7160, othenruise known as the Local
+Government Code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. * (a) A
+local government unit may, purcuant to an ordinancq permanently
+or temporarily close or open any local road, alley, park, or square
+falling within its jurisdiction: Provided, however, That in case of
+permanent closure, such ordinance must be approved by at least
+two-thirds (2/3) of all the memberc of the sanggunian, and when
+necessary, an adeguate substitute for the public facility that is
+subject to closure is provided".
+IN VIEW THEREOF, it is recommended that the Ordinance be approved.
+d
+ATTY. OSMUN/O P. VTLLANUEVA, JR.
+OIC, Acting City Legal Officer
+Date approved: July 11, 2018
+orl046G 1 8_roat-opet it g-torrcs e&_1 8-0 1 10_7- 1 1-1I
+@[ee
+t L
+. .:lCE oF TH€ ciIY AolvttnfltiTRAroi
+rTi
+Icr
+t
+4DaG
+oFFrGE"Ir[?f.TS][ry))
+REoETVEDBYt**@
+DATE:
+'
+T$rE:
+4 i/y'-
+CITV ;i;;. L r:'
+e
+IEgT{YE* BY
+A--i
+OC
+OAVA0 Cl]
+Q1?-lbA-+s
+(ll
+
+elu,oJl .
+: ellllPc' ,
+' se]ol:l
+seJolJ
+outluaJolJ
+f\\/I-,[lt-'fr\/
+\-rr Ullv r urrrl,I-
+T
+July 3, 2018
+SARA Z. DUTERTE
+City Mayor
+Madam:
+ffia1 $ -244
+(J
+*
+*
+ph
+q/8-0//o
+tO
+le
+Pursuant to Sub-SECTION 3, paragra
+SECTION 469, Artic
+One, Title Five,
+chapter 3, Book III and SECTION 54 of Book I Repubric Act No. 7160, otherwise known
+as the Local Government code of 1gg1, we are furnishing you a copy of
+Resolution No' 02205-1t and ordinance No. 0466-1g, SERIES of 2018 of the
+Sanggunlang Panlungsod, city of Davao, for your information, guidance and appropriate
+action.
+Very truly yours,
+e,MJrk",
+Secretary to the Sanggur{iang panlungsod
+(City Government Department Head II)
+,s0
+t{h h
+tflfme
+oy v
+L"
+g?v
+9r,
+CMO
+CR D
+fi
+ft
+rL, f;
+u
+t
+T
+f; m
+
+o
+City of Da'vao
+Offie of the SANGGUNIANG Panlungsod
+lri-' L,[F r-.st-ff]ft,
+I2* RegularSes=ion
+IErlEE Dt IT}IH
+ffiE5E}TT
+Vice f'layor
+Counrilor
+fr:unrilor
+Ccunrilar
+C.ouncilor
+founcilor
+Councilor
+Counrilor
+Counrilor
+founril*r
+faunr:ilor
+Councilcr
+f*uncilor
+faundlor
+Counrilor
+founcilor
+C*uncilor
+Ccuncilor
+Counrilor
+Councilor
+founrilor
+fnunrilor
+founr-ilnr
+founcilor
+Counrilor
+Bernard E. Al-aq
+Nilo M. ALellera lr.
+Flaria Belen 5. Arosta
+Virt*rio U. Aduinrula lr.
+Al Ryan 5, Alejandre
+Dante L. Aprostol Sr,
+fonrado f, Baluran
+$da. Cherry Ann Fil. BcngLiyarr
+Pilar C. Brqa
+f.annel* l. f-.lari*n
+[ianilo C.. Dayanghiranrr
+April Marie C. Dayap
+Jinrnry G. Dureza
+January FI. Dutert*
+Hgar F. Ihuyan -Ir,
+l-eah A. Lihrxlo-Yap
+Rene Elias C. Lotez
+triosddo Angelo A. tt{ahipus 5r.
+Bonilaio E. Milihr
+Auegayle Dalodo OAiz
+Antoinette G. Prinri fe{mhorjes
+l. S{elchor B. Quitain lr.
+F4arissa P. SalvaJar-F.Le! la
+f-lary loselle D. Yillafti*rte
+lesus J*seph P, Zozcbr*lo III
+Presidinlt *fficer
+_&ESElrT:
+t*uncilor -trnanne*4. Benrluyan{uilos
+- 0n [Emestir Emergenry Learre
+tlRs[Htl{cE HA. {}+6f-1*
+*eri*s *f XIIS
+A}I ORSISIAI'If,E APPftOYI}IG THE $PESIIFIG T}F
+Rtl*s L$TS 1+ AltD IO-B-1I-E-2-D-2" FORltrltG
+PART $F }T. TOERES EITE}ISIT}}I ST". EARAHGfrY ?T}-
+B. $BRERO. THTS CIfif, IH ACff}RDAHCE T'SITH THE
+fiECT}}T]*!EHDfiTIOH OF THE CITY TRTHStrORT S,]IB
+TRIFFIC T'{TH.f,GEHE}IT OFFICE {CTTFIO} ^T$ID THE
+CITY LEGJTT OFFICE
+
+Fage2ofS'
+Ord. No. M66-18
+Be it ordainsJ by ttre SANGGUNIANG Panlungsod of Davao CitY, in sesion
+xsembled drat;
+SECTIOI| L TfnE - This Ordinance shall be known as 'Ail ORDIIIAiICE
+APPROYTIilG ITIE OFE]IIIIG OF ROAD IOTS 14 AIID 1O-B-1'-B-2-D-2,
+FORTTIITIG PART OF }I. TORRES EXTEHSIOH $T., EARAIIGAV 2O-8, CIBRERO,
+THIS CITY, IH AMORDATICE UTru ftIE RECOHHEilDATIOH OF THE CTTY
+TRAilStroRT ATID TRAFHC HA}IAGEHETIT OFrICE (CTIHO) AllD THE CITY
+I.EGAL OFFICE"
+$ECTIOI| L OBIECTn E - This ordinance aims to decongest the traffic
+situation along l.p. lrwel Avenue, this City. It also aims to maintain ilre opening of
+ffrose rcad lots fur public safeU and welfare.
+SECTIOI| 3. LEGAL BASE$ * Pursuant to SECTION 2t of Republic Act No.
+7160, ofiterwise known x the Loc,alGovemmentCode of 1991, it provides:
+SECTION 21. Closure and Ogening of Rods - (a) A local
+government unit ffiilY, pursuant to an Ordinance,
+r,elmanendY or temporarily close or open any local rod,
+alley, Fa*, or square falling within its jurisdicbon:
+ProvitJed, howeyer, Brat in case of permanent closure,
+such ordinance must be approved by at leEt two-tiirds
+(213) of all the ntembers of tre Sartggunian, and-when
+netrsiarr an adequate substihrte for the public facility
+ttrat is subiect to closure is provided.
+and paragraphs a and b of SECTION 186 of the Comprehensive Transport and Traffic
+Code of Davao CitY, it states:
+SECTION 186. Access Restric[on on Some Roads.
+(a)It shall be unlawful for anY perEon, natural or
+luridical, to close, obebuct, ptevent, or othenruiseiefuse to ilre public or vehicular traffic the use of
+free access to any suhJivision or community
+street owned by tre government and wi$rin fte
+jurisdiction of he City Govemment of Davao,
+ffi;
+(b)Ptivate Subdivision roads and/or priYate roads
+not Urned over to tre City maY be opened to
+$re public under the following conditions:
+(i)
+The road will stengthen the road network
+and provide traffic relief to neartY roads that are
+congestd as maybe determined by he CTTMO;
+(ii) The SANGGUNIANG Fanlungsod ha approved
+its opening, under such terms and condiUons Srat
+will minimize or obviate any disturbances,
+pollution, or inconuenience to Sre rsidents in the
+area.
+
+--!I-kJe *i aI:l
+Ord, No.0466-18
+StCTIOll +" SEFARAEILITT, CI.IUSE - il fc,r Er! tEffirin, any sefiifin o'-
+Frovision of this Otdinanre is der-lared unconsUtuUanal or invaliij, other sections ciprcvisi*ns not aflh,:ted Lry such derlarati*n shall remain in full fotre and effect.
+$EfTIt}ll 5. EFFECTffiTY -Ttiis Otdinarrte shall take eflect after fifterr {15i
+day* from puhlir-aUan in a rrevuspapr of general circulation in the City af Bat'aa.
+EHAf,TED, lune. 1-1, 2018, hry a majarity rcte of all the I',lemLets tf tire
+Sanggunian, thete being a quorum.
+CERTIFIED C'SRRECT:
+nAhtA^f, \.
+T}IAftITA $T.
+4 -i--!-rf'-ff
+fa'
+}+.t JE3'ELJ,
+gecretary to the
+nianrl PanGti:ngsc{-1
+{City Government Gepaftment He*d II t:/t
+* l-.f1,f.) .iEl -. f f.-
+Ftl- l- n'u'Etrir' II.s tur 2u''
+r-U lO
+= rrt t-fq-f!-rr
+E-- EJU E Cir i C
+e r.if,,r f.,{=u,,rr'
+L.rLl
+ilrll,
+vr
+ATTESTET::
+/
+E. AL-TG
+Yice Mayor
+Fresiding {tffirer
+rns/nrhard
+&Jrilinistrat*r

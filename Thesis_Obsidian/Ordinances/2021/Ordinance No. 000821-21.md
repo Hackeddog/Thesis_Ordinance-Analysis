@@ -1,0 +1,201 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZIilG THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO THE RENEWAL OF THE CONTRACT OF TEASE BY AND BETWEEN FRONTMOVERS LOGISTICS COMPANY AI{D THE CITY OF DAVAO RETATIVE TO THE TEASE OF A WAREHOUSE/STORAGE PROPERW SITUATED AT BIRREY BUILDING, SAN RAFAEL VILLAGE, DUHA ROAD, THIS CITY owNED BY THE FORME& TO BE USED FOR WAREHOUSING/STORAGE PURPOSES FOR A PERIOD OF ONE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000821-21.pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.2
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: 2021.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authoriziilg, topic/mayor, topic/sign, topic/behalf, topic/renewal, topic/contract]
+---
+
+# Ordinance No. 000821-21
+
+> AN ORDINANCE AUTHORIZIilG THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO THE RENEWAL OF THE CONTRACT OF TEASE BY AND BETWEEN FRONTMOVERS LOGISTICS COMPANY AI{D THE CITY OF DAVAO RETATIVE TO THE TEASE OF A WAREHOUSE/STORAGE PROPERW SITUATED AT BIRREY BUILDING, SAN RAFAEL VILLAGE, DUHA ROAD, THIS CITY owNED BY THE FORME& TO BE USED FOR WAREHOUSING/STORAGE PURPOSES FOR A PERIOD OF ONE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | 2021 |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+47tr Regular Session
+SERIES of 2021
+PRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Albefto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Sebastian Z. Duterte
+Maria Belen S. Acosta
+Richlyn N. Justol-Baguilod
+- On Official Business
+- On Sick Leave
+- On Maternity Leave
+ORDINAilCE ilO. 0821.21
+SERIES of 2021
+AN ORDINANCE AUTHORIZIilG THE CITY MAYOR TO SIGN,
+FOR AND IN BEHALF OF THE CITY OF DAVAO THE RENEWAL
+OF THE CONTRACT OF TEASE BY AND BETWEEN
+FRONTMOVERS LOGISTICS COMPANY AI{D THE CITY OF
+DAVAO RETATIVE TO THE TEASE OF A
+WAREHOUSE/STORAGE PROPERW SITUATED AT BIRREY
+BUILDING, SAN RAFAEL VILLAGE, DUHA ROAD, THIS CITY
+owNED BY THE FORME& TO BE USED FOR
+WAREHOUSING/STORAGE PURPOSES FOR A PERIOD OF ONE
+(1) YEAR FROM JANUARY 2022 TO JANUARY 2023
+
+Ord. No. 0821-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. E!! - This Ordinance shall be known as "AN ORDINANCE
+AUTHORTZING THE CrTY MAYOR TO SrGN, FOR AND IN BEHALF OF THE CITY
+OF DAVAO, THE RENEWAT OF THE CONTRACT OF LEASE BY AND BETWEEN
+FRONTMOVERS LOGISTICS COMPANY AilD THE CITY OF DAVAO RELATIVE TO
+THE LEASE OF A WAREHOUSE/STORAGE PROPERTY SITUATED AT BIRREY
+BUIIDTNG, SAN RAFAEL VIL|-AGE, DUHA ROAD, THrS CITY OWNED BY THE
+FORME& TO BE USED FOR WAREHOU$NG/STORAGE PURPOSES FOR A
+pERroD oF oNE (1) YEAR FROM JANUARY 2022 TO JANUARY 2023".
+SECTION 2. DECLARATION OF POLICY - SECTION 455 (b) (1) (vi) of Republic
+Act No. 7160 or the Local Government Code of 1991 states that:
+'SECTION 455. Chief ExecuUve;Powerc, Duties and
+Compensationw(
+W
+(b) For efficient effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+(1) Exercise general superuision and control over all
+programs, projects, seruices, and activities of the city
+government and in this connection, shall:
+)ffi(
+W
+(vi) Represent the city in all its business transactions and sign
+in its behalf all bonds, contracts, and obligations, and such
+other documents upon authority of the SANGGUNIANG
+panlungsod or pursuant to law or ordinance.
+sEcTIoN3.NIW-TheCityMayorisherebygrantedlegislative
+authority to accept, for and in behalf of the City of Davao, the renewal of the Contract of
+Lease by and between Frontmovers Logistics C.ompany and the City of Davao relative to
+the lease of a warehouse/storage propefi situated at Biney Building, San Rafae! Village,
+Duha Road, Davao City owned by the former, to be used for warehousing/storage
+purposes for a period of one year from January 2022 to January 2023
+SECTIOil 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in ful! force and
+effect.
+SECTION s.EEEElgfIEf - This Ordinance shall take effect immediately upon
+approva!.
+I
+
+,
+Ord. No. 0821-21
+ENACTED, on the 9th day of December 202L, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cj,PM-)rfu,
+Secretary to the Sangguniar{g Panlungsod
+(City Government Depaftment Head II}7
+ATTESTED:
+ATTESTED:
+. UNGAB
+Vice Mayor
+Temporary Presiding Officer
+cns/kjtq
+APPRovEo: J4Ll I 2022
+202L
+SARA Z. DUTERTE
+aD C.ty M^yp
+Actlnq CIW
+z
+DUTERTE
+Mapr
+g
+e
+AN ORDINANCE AUTHOFJZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE
+CITY OF DAVAO THE RENEWAL OF THE CONTRACT OF LEASE BY AND BETWEEN
+FRONTMOVERS LOGISTICS COMPANY AND THE CITY OF DAVAO REI.ATIVE TO THE
+LEASE OF A WAREHOUSE/STORAGE PROPERTY STruATED AT BIRREY BUILDING, SAN
+RAFAEL VILI.AGE, DUHA ROAD, THIS CITY OWNED BY THE FORMER, TO BE USED FOR
+WAREHOUSTNG/STORAGE PURPOSES FOR A PERTOD OF ONE (1) YEAR FROM JANUARY
+2022 TO JANUARY 2023

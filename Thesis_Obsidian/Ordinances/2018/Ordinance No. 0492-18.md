@@ -1,0 +1,295 @@
+---
+ordinance_number: "0492-18"
+title: "AN ORDINANCE GRANTING THE LETTER-REQUEST OF MS. ROSEVIC LUCILLA DEL ROSARIO-CEMBRANO, CHAIRMAN AND PRESIDENT, MINDANAO TRADE EXPO FOUNDATION, INC., FOR EXEMPION FROM THE PAYMENT OF MAYOR',S PERMIT FEE IMPOSED ON DAVAO-BASED MICRO, SMALL AND MEDIUM ENTREPRENEURS DURING THE MINDANAO TRADE D(PO 2018 WTffi THE DEPARTMET{T OF TRADE AND INDUSTRY (DD AND PHILIPPINE EXPORTERS CONFEDERATTON INC. (PHILEXPOR"
+date_enacted: null
+approval_date: "2018-07-25"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0492-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/letter, topic/request, topic/rosevic, topic/lucilla, topic/rosario]
+---
+
+# Ordinance No. 0492-18
+
+> AN ORDINANCE GRANTING THE LETTER-REQUEST OF MS. ROSEVIC LUCILLA DEL ROSARIO-CEMBRANO, CHAIRMAN AND PRESIDENT, MINDANAO TRADE EXPO FOUNDATION, INC., FOR EXEMPION FROM THE PAYMENT OF MAYOR',S PERMIT FEE IMPOSED ON DAVAO-BASED MICRO, SMALL AND MEDIUM ENTREPRENEURS DURING THE MINDANAO TRADE D(PO 2018 WTffi THE DEPARTMET{T OF TRADE AND INDUSTRY (DD AND PHILIPPINE EXPORTERS CONFEDERATTON INC. (PHILEXPOR
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Bepurblic of thd Philippines
+OFFICE OFTHE CTTYMAYOR
+saCiirG.
+&.&r' i
+E}
+J
+Ref- No. CAdO-2018-05622
+\l'-
+zm tttooRsEMENT
+August 6, 2018
+Respectfully forwarded to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the attached Ordinance No. 0492-18, SERIES of 2018
+entitled *AN ORDINANCE GRANTING THE LETTER-REQUEST OF MS. ROSEVIC LUCILLA
+DEL ROSARIO-CEMBRANO, CHAIRMAN AND PRESIDENT, MINDANAO TRADE EXPO
+FOUNDATION, INC., FOR EXEMPION FROM THE PAYMENT OF MAYOR',S PERMIT FEE
+IMPOSED ON DAVAO-BASED MICRO, SMALL AND MEDIUM ENTREPRENEURS DURING
+THE MINDANAO TRADE D(PO 2018 WTffi THE DEPARTMET{T OF TRADE AND
+INDUSTRY (DD AND PHILIPPINE EXPORTERS CONFEDERATTON INC. (PHILEXPORT)
+TO BE HELD ON AUGUET LL-L7, 2018 AT ABREEZA MALL, J.P. |-AUREL AVENUE, THIS
+Cffi", inviting attention to the enclosed Legal Opinion No. 373, SERIES of 2018 dated
+July 24,2018 of the City Legal ffice, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+IDPDlch},
+J/ lrlt-y-lY
+RELEASED
+ffi i', if 3 8oi' Y ffi i i lii'.i'd'8' il J 1 1," :' H::.1*:,i.i;'.,??Xl fi :i,.. Bly* *
+a
+a
+a
+CMO'CRD
+B E AUG 2OI8
+"q( a,u,
+
+ri
+-
+.
+OFFICE OF THE CITY LEGAL OFFICER ot
+Tel. No. 227-5793 * 225-0183
+Trunk Line No. 241-1000 Loc267
+o0o
+Ref. No. 1131-18-0120
+RE: ORDINANCE NO. 0492-L8, SERIES of 2018 entitled *AN
+ORDINANCE GRANTING THE LETTER-REQUEST OF MS. ROSEVIC
+LUCILLA DEL ROSARIO-CEMBRANO, CHAIRMAN AND PRESIDENI
+MINDANAO TRADE EXPO FOUNDATION, INC., FOR EXEMPTION
+FROM THE PAYMENT OF MAYOR'S PERMIT FEE IMPOSED ON
+DAVAO-BASED MICRO, SMALL AND MEDIUM ENTREPRENEURS
+DURING THE MINDANAO TRADE E(PO 2018 WITH THE
+DEPARTMENT OF TRADE AND INDUSTRY (DN) AND PHILIPPINE
+EXPORTERS CONFEDERATTON rNC. (PHILEXPORI) TO BE HELD
+ON AUGUST LL-L7,2018 AT ABREEZA MALL, J.P. I-AUREL AVENUE,
+THIS CITY".
+tSTINDoRSEMENT
+July 24,2018
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption (mayor's permit fee) is well within the powers of the SANGGUNIANG
+Panlungsod. Hence, it is recommended that the ordinance be approved.
+A, GALLO, RSW
+LEGAL OPINION NO. 1N,,
+SERIES OF 2018
+ATTY.
+Approved by: .-,,
+(
+ATTY. OST,TUU/O P. VILLANUEVA, JR.
+OIC-Acting City Legal Officer
+Date approved: July 25, 2018
+or[Oqg 2- I t_ta.t exempt_min-tra[eeryo_1 8-0 1 2 0_7 - 2 5 - 1 I
+@[ce
+OFFICE OF THE GITYADTIT{ISTRATOR
+sry nRr-u orrlce
+DAVAO CIW
+RECEIVED BY:
+DATE:
+TIME:
+Acting Asst. City Legal Officer
+-,uE rlF filb cil y ADrilfIlSTRArOr
+C|TY i{AILO
+:t:.i::t/lD BY
+li"r
+'ttiOAVAO CN
+aw-lflh+z
+
+sabi6rc
+C"ITY OF DAVAO
+July 20, 2018
+SARA Z. DUTERTE
+City Mayor
+n1
+Madam
+€tl8- ae) fl ee4
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No, 7760, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02286-18 and Ordinance No. O492-L8, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, for your information, guidance, and appropriate actlon.
+For and in the absence of the Secretary
+R M. CABALI
+Acting Secretary
+e SANGGUNIANG Panlungsod
+(Supervising Administrative Officer)
+fr- 2tr)
+O
+1*
+ECEIVED
+CMO. CRD
+R
+t
+
+o
+il
+iJ
+Io xe
+I
+Republic of fie Philippines
+OfEe of the SANGGUNIANG Panlungsod
++erth,.:--
+te- ---.'11
+lo Lrry LUUilLI
+27h Reguhr Session
+Serie of 2018
+Councilor
+Councilor
+Df,ECtrN.i-T"
+t taLJLtr
+I .
+EEEEiIT.
+r-:iriliE
+i *
+Viee May*r
+Councilsr
+Councilor
+Councilor
+Councilor
+Councilor
+ecuncilor
+t^nrlnrllnr
+founcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+eounrilor
+Counclhr
+eamcilor
+C-ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+lA*rrr+ihv
+t-Lrut iLfirrl
+fruinrilnr
+Bemard E. Al-ag
+t{ils It!. Ahellera lr
+Maria Eelen S. Acosta
+Yrctorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Conrado C. Baluran
+Joanne Fl. Bonguyan-Quilos
+ila. Cheny Stn F{. Bonguyan
+Filar e. Eraga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimrny G. Dureea
+January il. Duterte
+Edgar P. Ibuyan Jr.
+Leah A. Likado-Yap
+Rene Elix e. L*pe,r
+Dicdado Angelo A. iiiahipus 5r.
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Artoinette G. Principe-Castrode
+J. Melchor B. Quitain Jr.
+Marissa P. Satvador-Abella
+l"lary Joeelle D. L'illafuelte
+Jesus jnceph P. Zoz*hrado III
+Dante L. Apostol Sr.
+Jaffar U. Marohomsalic
+ft'esiding CIfficer
+On Vacation Leave
+fficial Businss-SK Summit
+in Quezon City
+GRDIHAHCE NO. G482.18
+SERIES OF ZO18
+AH ORtrIHAHCE GRAHTIHG THE LETIER-REqUEST OT
+II{S. BOEEYIC TUCILLB DEL ROSARIffiE}IBEAHO,
+trHAIRHnH AHtr FRE$IDEHTf ]TTHDAHAO TRAtrE EXPO
+FOUI{DATIOH, Il{C., FOR EXEIEIPTIOH FRO}! THE
+PAYHEHT OF }EAYOR'S PERITIIT FEE I}IPgSEtr OI{
+IlAvAttsE*SEE HICRqf SHALL AI{D }IEBIUU
+EHTREPREilEUH$ EURIH€ THE IYIIHDAHAO TFSSE
+EXF1O 2018 WIT}I TIIE BEPARTHEHT OF TRADE AHD
+II{DUSTRY (ETI,r AHtr pHILIppIt{ES EXPORTERS
+CoHFEtrERATIOH rHe, {FHTLEXFORTI Te BE HELtr OH
+AUGU$T L1-17E t0t8 AT ABREEZf, ].lALt* J.p' LfrUREL
+AyEHUE. THIS EITY
+
+l'i
+Ord. No. 0492-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+rcembled that:
+$ECTISE l" TfTLE - This *i-dinanee sl'ra!! he knslvn as '*f{ SRFIT{AHCE
+GEgtlTrltG TttE I-ETTER-REQUEST SF !{S" RGSErftrC LUCTILA I}EL RCEIART$-
+cEI{BEA.tlO, CHerA}rAH AFID PRESIEEffT* FIIHDTHAG TRADE EXre
+FEUTII'ATIOH, IT{f,., FOR EXE*{FTIOfi FRO}i TTIE PAYT{EIET fiF }IAYOR's
+PER}IIT FEE IIIFIOSED OII DAYAO.BASED }IICRO, S}{ALL AIID MEDIUH
+EIITREPREIIEURS DURIIIG THE HI]IDAIIAO TRADE EXFO 2018 IlI
+fffPERATTOt{ $rrTH THE DEp*ET!{EHT OF TEADE Ar{D IHEUSTRY tBTr}
+AllS PHIUPPII{E ETFORIERS CSHFftrEEATISH IfiC. {pftItEXFSRT} rb ei
+ilEtD oil tuGUsT 11-17, 2Or8 AT ABREEZ* F{ttt, J.F. LAUFfL AtfEilUE,
+THI$ CITY'.
+sEcTrotl L ffiyEEAGE The a<emptim applies only ts Davm-hmed
+exhihitots and solely referc to the payment of i4avcfs Permit tue under A*icte ?6,
+kir-rn 221, Parqraph {d} of th* 2017 Ravgnue e*dc of ttre eig *f Favm.
+SECfIOII 3. PERIOD AtlD LII{ITATIOI{ - The exemptbn shal! h on August
+11-17, 2018 only, purcuant to the *?017 Revenue fode af Dav* {aty'and *ther
+aBpfieable taws and +rdinancu;
+$ECTIOH 4.
+appr*va!.
+EffigIEfiIf - This srdinanee sheil take cffeet immcdiakly uBGn
+EilACTED, July L7, 2018, by a unanimous vofie of all Sre l"lemberrs of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ Ckn'; tr' k
+CHARITO [I. SATITT'g
+Secretary ts the Sanggudiang Panlungsd
+{City rk'vernment Depaf_rnent Hed II}
+ATTESTED:
+E. AL=AG
+Vice Mayor
+Fr*iding Officer
+ct skfd
+ATT?. EI'LEIHA
+APPP*!,ED,2 7 lut 2018
+rll O
+\J LI)
+ATTESTED:
+Ciir, ginrinislr*torr'
+"eijry.*Y

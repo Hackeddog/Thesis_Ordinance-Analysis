@@ -1,0 +1,192 @@
+---
+ordinance_number: "0343-23"
+title: "a ORDINANCE NO. 0343-23 Series oJ 2023 AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM oF AGREEMENT (MoA) BY AND BETWEEN THE CITY OF DAVAO AND DAVAO ORIENTAL STATE uNrvERsrrY (Dorsu), RELATTVE To THE TNTERNSHTP pRocRAM OF ITS BACHELOR OF SCIENCE IN NURSING STUDENTS AT THE CO SU GIAN HOME FOR THE AGED"
+date_enacted: "2023-11-28"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0343-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/enter, topic/sign]
+---
+
+# Ordinance No. 0343-23
+
+> a ORDINANCE NO. 0343-23 Series oJ 2023 AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM oF AGREEMENT (MoA) BY AND BETWEEN THE CITY OF DAVAO AND DAVAO ORIENTAL STATE uNrvERsrrY (Dorsu), RELATTVE To THE TNTERNSHTP pRocRAM OF ITS BACHELOR OF SCIENCE IN NURSING STUDENTS AT THE CO SU GIAN HOME FOR THE AGED
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+I
+Office of the Sapggptiang Panlungsod
+2oth Ciry Council
+44th Regular Session
+SERIES of 2023
+PRESENT:
+ABSENT:
+Councilor
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- presiding Officer
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Wilbefto E. Al-ag
+- On Domestic Emergency Leave
+- OB - Attended the launching
+ceremony of the Davao Public
+Transpoft Modernization Project
+- On Domestic Emergency Leave
+(Mourning Leave)
+Councilor Pilar C. Braga
+ORDINANCE NO. 0343-23
+SERIES oJ 2023
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY
+MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+CITY OF DAVAO, THE MEMORANDUM oF AGREEMENT (MoA) BY
+AND BETWEEN THE CITY OF DAVAO AND DAVAO ORIENTAL STATE
+uNrvERsrrY (Dorsu), RELATTVE To THE TNTERNSHTP pRocRAM
+OF ITS BACHELOR OF SCIENCE IN NURSING STUDENTS AT THE CO
+SU GIAN HOME FOR THE AGED
+
+Page2of3
+r
+Ord. No. 0343-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGIS1ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+AGREEMENT (MOA) BY AND BETWEEN THE CITY OF DAVAO AND DAVAO
+ORIENTAL STATE UNMRSITY (DOTSU), RELATM TO THE INTERNSHIP
+PROGRAM OF ITS BACHELOR OF SCIENCE IN NURSING STUDENTS AT THE CO
+SU GIAN HOME FOR THE AGED".
+SECTION 2. DECLARATION OF POLICY- SECTION 455 (b) (1) (vi) of Republic Act
+No. 7160, othenruise known as the Local Government Code of 1991, provides that:
+"SECTION 455. Chief Executive; Powers, Duties and Compensation.
+(a) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to Sectlon 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices and activities of the city government and in this
+connection, shall:
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts and obligations and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3, AUTHORITY- The City Mayor is hereby granted legislative authority
+to enter into and sign, for and in behalf of the City of Davao, the Memorandum of
+Agreement (MOA) by and between the City of Davao and Davao Oriental State University
+(DOTSU), relative to the internship program of its Bachelor of Science in Nursing students at
+the Co Su Gian Home for the Aged.
+SECTION 4. SEPARABILIW CLAUSE -If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 28th day of November 2023, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ A^^16 l. \4^b,-
+CI|ARITO N. $ANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II) f{
+
+ATTESTED:
+ATTESTED:
+J. MELcd B. euITAIN JR.
+/vice Mayor
+y'residing Officer
+Ord. No. 0343-23
+2023
+APPROVED:
+DEC I s208,
+Z. DUTERTE
+SE
+ciV rtauy
+u
+H. LAYOG
+Acting
+istrator
+AN ORDINANCE GRANTING LEGISLANVE AUTHORTTY TO THE CITY MAYOR TO ENTER INTO AND
+STGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) BY
+AND BETWEEN THE CITY OF DAVAO AND DAVAO ORIENTAL STATE UNIVERSTTY (DOTSU), REI.ATIVE
+TO THE INTERNSHIP PROGRAM OF ITS BACHELOR OF SCIENCE IN NURSING STUDENTS AT THE CO
+SU GIAN HOME FOR THE AGED
+ATTY.

@@ -1,0 +1,211 @@
+---
+ordinance_number: "057-22"
+title: "AN ORDINANCE GRANTING LEGISIATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A PORTIOil OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RrsK REDUCTTON MANAGEMENT FUND (CAIAMTTY FUND) OF THE CrTY GOVERNMENT OF DAVAO FOR CATENDAR YEAR 2022 IN THE TOTAT AMOUNT OF THREE HUNDRED THOUSAND PESOS (PHP 300,000.00) AS FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF AL"
+date_enacted: "2022-11-08"
+approval_date: "2022-11-29"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 057-22.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/granting, topic/legisiative, topic/authority, topic/mayor, topic/utilize, topic/portioil]
+---
+
+# Ordinance No. 057-22
+
+> AN ORDINANCE GRANTING LEGISIATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A PORTIOil OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RrsK REDUCTTON MANAGEMENT FUND (CAIAMTTY FUND) OF THE CrTY GOVERNMENT OF DAVAO FOR CATENDAR YEAR 2022 IN THE TOTAT AMOUNT OF THREE HUNDRED THOUSAND PESOS (PHP 300,000.00) AS FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF AL
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+!c
+IE
+i>€r
+Republic of [he Philippines
+GiW of Davao
+Olfice of the SANGGUNIANG Panlungsod
+20th City Council
+17th Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counicilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor J. Melchor B. Quitain Jr
+Councilor Luna Maria Dominique S. Acosta
+Albefto T. Ungab
+- Temporary Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Aposto! Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+- OB - Acting City Mayor
+- OB - Represented the City
+Mayor in the Vertical
+Integration of Local Plans to
+the National Peace Framework
+in Clark Freepoft and Economic
+Zone
+ORDINANCE NO. 057.22
+SERIES of 2O22
+AN ORDINANCE GRANTING LEGISIATIVE AUTHORITY TO THE CITY
+MAYOR TO UTILIZE A PORTIOil OF THE THIRTY PERCENT (30o/o) QUICK
+RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER
+RrsK REDUCTTON MANAGEMENT FUND (CAIAMTTY FUND) OF THE CrTY
+GOVERNMENT OF DAVAO FOR CATENDAR YEAR 2022 IN THE TOTAT
+AMOUNT OF THREE HUNDRED THOUSAND PESOS (PHP 300,000.00) AS
+FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF ALLACAPAN,
+CAGAYAN WHICH WAS DECTARED UNDER A STATE OF CALAMITY DUE
+TO TROPICAL DEPRESSION MAYMAY
+
+Ord. No. 057-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISIATIVE AUTHORIW TO THE CITY MAYOR TO UTILIZE A
+PORTION oF THE THIRil PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION MANAGEMENT
+FUND (CAtAMrTy FUND) OF THE CrTY GOVERNMET{T OF DAVAO FOR
+CATENDAR YEAR 2022 IN THE TOTAL AMOUI{T OF THREE HUNDRED
+THOUSAND PESOS (PHP 300,000.00) AS FINANCIAL ASSTSTANCE TO THE
+MUNICTPALTTY OF AIIACAPAN, CAGAYAN WHICH WAS DEC1ARED UNDER A
+STATE OF CATAMITY DUE TO TROPICAL DEPRESSION MAYMAY".
+SECTION 2. DECLARATION OF POLICY - It is the policy of the City
+Government of Davao to adopt measures and adhere to the national principles and
+standards of humanitarian assistance in response to risk reduction and declares as its
+policy to judiciously utilize its resources and put the same to proper use.
+SECTIOI{ 3. BENEFICIARY-The Municipality of Allacapan, Cagayan which was
+declared under the State of Calamity, is hereby declared as beneficiary of the financial
+assistance in the amount of Three Hundred Thousand Pesos (Php 300,000.00).
+SECTION 4. Eru-ENIl5 - SECTION 324 (d) of Republic Act No. 7160 or the
+Local Government Code of 1991, as amended by Republic Act No. 8185, states that five
+percent (5olo) of the estimated revenue from regular sources shall be set aside as annual
+lump sum appropriations for relief, rehabilitation, reconstruction, and other works or
+seruices in connection with calamities which may occur during the budget year. Provided,
+however, that such fund shall be used only in the area, or a portion thereof, of the local
+government unit or other areas affected by a disaster or calamity, as determined and
+declared by the local sanggunian concerned.
+SECTION 5 of the Implementing Rules and Regulations of Republic Act No. 8185
+likewise states that "LGUs may also allocate/use a portion of the five percent (5o/o)
+hlamity Fund to otfier affected areas on condition that the said areas are declared as
+under the State of Glamity by the Sanggunian concerned." It fufther provided that "a
+portion of the calamity fund may also be authorized to be usd by the LGU concerned to
+provide financial assistance to other LGUs whose area or portion thereof had been
+declared under a state of calamity by iE Sanggunian."
+SECTION 5,
+- The amount herein appropriated shall
+be used specifically for such item and expenditure approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of funds shall be subject to existing
+government budgeting, accounting, and auditing rules and regulations of the Department
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement
+Law (RA 9184), as well as other applicable laws, Ordinances and Presidential directives.
+SECTION 6. EEEBgffi - This Ordinance shall take effect upon approval.
+ENACTED, November 8, 2022, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+
+\
+Ord. No. 057-22
+CERTIFIED CORRECT:
+For and in behalf of the SP Secretary:
+MA. THERESA A. REYES
+Asst. Secretary to the SANGGUNIANG Panlungsod
+(City Government ffi:;fl:*ftment
+Head II)r,7
+ATTESTED:
+ATTESTED:
+ERTO
+UNGAB
+Acting Vice Mayor
+Temporary Presiding Officer
+APPROVED:
+Nov 29
+2022
+SE
+Z. DUTERTE
+Mavor rr
+'{1
+City
+H. LAYOG
+Acting
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A PORTION
+OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo)
+DISASTER RISK REDUCTION MANAGEMENT FUND (CAIAMITY FUND) OF THE CITY GOVERNMENT OF
+DAVAO FOR CALENDAR YEAR 2022 IN THE TOTAT AMOUNT OF THREE HUNDRED THOUSAND PESOS
+(PHP300,000.00) As FTNANCTAL ASSTSTANCE TO THE MUNICIPAUTY OF ALr-ACAPAN, CAGAYAN
+WHICH WAS DECI.ARED UNDER A STATE OF CALAMITY DUE TO TROPICAL DEPRESSION MAYMAY
+ATTY.

@@ -1,0 +1,201 @@
+---
+ordinance_number: "0488-21"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO/ THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN NEW CITY CoMMERCTAL CORPORATTON (NCCC) AND THE CrTY OF DAVAO RELATIVE TO THE RENEWAL OF THE CONTRACT DESIGNATING NCCC DOME AS QUARANTINE FACILITY TO BE MANAGED AND OPERATED BY THE CITY OF DAVAO COMMENCING ON JANUARY L4, 2O2L, FOR A TE"
+date_enacted: "2021-02-09"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0488-21.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.7
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 0488-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO/ THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN NEW CITY CoMMERCTAL CORPORATTON (NCCC) AND THE CrTY OF DAVAO RELATIVE TO THE RENEWAL OF THE CONTRACT DESIGNATING NCCC DOME AS QUARANTINE FACILITY TO BE MANAGED AND OPERATED BY THE CITY OF DAVAO COMMENCING ON JANUARY L4, 2O2L, FOR A TE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2021 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+l.
+Republic of the Phiiippihes
+19th City Council
+6th Regular Session
+SERIES of 202L
+PRESENT
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Sebastian Z. Durterte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie lohn J. Bonguyan
+Jessica M. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor Jaffar U. Marohomsalic
+- On Domestic Emergency Leave
+ORDINANCE NO. 0488-21
+SERIES of 2O2L
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+CITY OF DAVAO/ THE MEMORANDUM OF AGREEMENT
+TO BE ENTERED INTO BY AND BETWEEN NEW CITY
+CoMMERCTAL CORPORATTON (NCCC) AND THE CrTY
+OF DAVAO RELATIVE TO THE RENEWAL OF THE
+CONTRACT DESIGNATING NCCC DOME AS
+QUARANTINE FACILITY TO BE MANAGED AND
+OPERATED BY THE CITY OF DAVAO COMMENCING ON
+JANUARY L4, 2O2L, FOR A TERM OF THREE (3)
+MONTHS
+ABSENT:
+I
+
+Ord. No. 0488-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as 'AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE
+ENTERED INTO BY AND BETWEEN NEW CITY COMMERCIAT CORPORATION
+(NCCC) AND THE CrTY OF DAVAO RELATTVE TO THE RENEWAL OF THE
+CoNTRACT DESTGNATTNG NCCC DOME AS QUARANTTNE FACTLTTY TO BE
+MANAGED AND OPERATED BY THE CITY OF DAVAO COMMENCING ON
+JANUARY L4,2O2L, FOR A TERM OF THREE (3) MONTHS".
+SECTION 2. DECLARATION OF POLICY - SECTION 455 (b) (1) (vi) of Republic
+Act No. 7160 or the Local Government Code of 1991 provides, to wit:
+'SECTION 455. Chief Executive; Powers, Duties and Compensation.
+)oo(
+)oo(
+)oo(
+(b) For efficient, effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general supervision and control over alt programs,
+projects, seruices, and activities of the city government, and in this
+connection, shall:
+)oo(
+)oo(
+)oo(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORIW - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City of Davao, the
+Memorandum of Agreement (MOA) to be entered into by and between New City
+Commercial Corporation (NCCC) and the City of Davao relative to the renewal of the
+contract designating NCCC Dome as quarantine facility to be managed and operated by
+the City of Davao commencing on January 14, 202t, for a term of three (3) months.
+SECTION 4. rc
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTV - This Ordinance shall take effect immediately upon
+approval.
+it
+
+Ord. No. 0488-21
+ENACTED, on the 9th day of February 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+Digitally signed by SantG
+:r_ rF@$;**x::,:x
+this dmument.
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)-I
+ATTESTED:
+EDGAR P. IBUYAN JR.
+President Pro Tempore
+Temporary Presiding Officer
+cns/bern
+APPRovEp. FEB ll2ollr ,zozt
+Z. DUTER.TE
+-
+City Mayorl
+ATTESTED:
+LOPEZ
+City Adm
+AN ORDINANCE AUTHORIZING THE CTTY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN
+NEW CITY COMMERCIAL CORPORATTON (NCCC) AND THE CrTY OF DAVAO RELATTVE TO THE RENEWAL
+OF THE CONTRACT DESIGNATING NCCC DOME AS QUARANTINE FACILTTY TO BE MANAGED AND
+oPERATED BY THE CITY OF DAVAO COMMENCING ON JANUARY 14, 2021, FOR A TERM OF THREE (3)
+MONTHS
+e

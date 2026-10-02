@@ -1,0 +1,222 @@
+---
+ordinance_number: "01005-22"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORAI{DU!,I OF AGREEMEI{T AMONG THE DEPARTMENT OF AGRICULTURE - REGIONAL FIELD OFFICE XI, THE CITY OF DAVAO AND FARDECO AGRICULTURAL MULTTPURPOSE COOPERATTVE, REIATTVE TO THE IMPLEMENTATION OF THE INTEGRATED ilATIOilAL SWINE PRODUCTION INITIATIVE TO RECOVERY AND EXPANSTON (TNSPTRE) P"
+date_enacted: "2022-06-28"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 01005-22.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/granting, topic/legislative, topic/authoriw, topic/mayor, topic/sign, topic/behalf]
+---
+
+# Ordinance No. 01005-22
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORAI{DU!,I OF AGREEMEI{T AMONG THE DEPARTMENT OF AGRICULTURE - REGIONAL FIELD OFFICE XI, THE CITY OF DAVAO AND FARDECO AGRICULTURAL MULTTPURPOSE COOPERATTVE, REIATTVE TO THE IMPLEMENTATION OF THE INTEGRATED ilATIOilAL SWINE PRODUCTION INITIATIVE TO RECOVERY AND EXPANSTON (TNSPTRE) P
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+24h Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT
+Vice Mayor
+Councilor
+Repubtic of the PhiliPPines
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Sebastian Z. Duterte
+Bonifacio E. Militar
+- Temporary Presiding Officer
+- OB-Acting City Mayor
+- On Sick Leave
+ORDINANCE NO. 01005.22
+SERIES of 2022
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORIW TO THE
+CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE MEMORAI{DU!,I OF AGREEMEI{T AMONG THE
+DEPARTMENT OF AGRICULTURE - REGIONAL FIELD OFFICE XI,
+THE CITY OF DAVAO AND FARDECO AGRICULTURAL
+MULTTPURPOSE COOPERATTVE, REIATTVE TO
+THE
+IMPLEMENTATION OF THE INTEGRATED ilATIOilAL
+SWINE PRODUCTION INITIATIVE TO RECOVERY AND
+EXPANSTON (TNSPTRE) PROGRAM -
+SWrNE CLUSTERTNG
+AMOUNTING TO FIVE MILLION FIVE
+HUNDRED
+THOUSAND PESOS (P 5,50O.0O0.O0)
+I
+J*
+
+Ord. No. 01005-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION l. EtE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT
+AMOilG THE DEPARTMENT OF AGRICULTURE - REGIONAL FIETD OFFICE XI,
+THE CITY OF DAVAO AND FARDECO AGRICULTURAT MULTIPURPOSE
+COOPERATIVE, RELATIVE TO THE IMPLEMENTATION OF THE INTEGRATED
+NATIONAT SWINE PRODUCTION INITIATIVE TO RECOVERY AND EXPANSION
+(rNsPrRE) PROGRAM - SWrNE CLUSTERTilG AMOUNTTNG TO FrVE MTLLTON
+FrvE HUNDRED THOUSAND PESOS (pHp 5,500.000.00)
+SECTIOil 2.
+- Sections 25 (b) and 455 (b) (1) (vi) of
+the Local Government Code of 1991 provide, to wit
+SECTION 25. National supervision over Local Government Units-
+(b) National agencies and offices with project implementation functions shall
+coordinate with one another and with the local government units concerned in the
+discharge of these functions. They shall ensure the pafticipation of local
+government units both in the planning and implementation of said national
+projects."
+SECTION 455. Chief Executive: Powers, Duties and Compensation.-
+(b) For efficient, effective and economical governance the purpose of which is
+the general welfare of the city and its inhabitants pursuant to SECTION 16 of this
+Code, the City Mayor shal!:
+(1) Exercise general supervision and control over all programs, projects, and
+activities of the city government, and in this connection, shall:
+(vi) Represent the city in all its business transactions and sign in its behalf all
+bonds, contracts, and obligations, and such other documents upon authority
+of the SANGGUNIANG panlungsod or pursuant to law or ordinance."
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to sign, for and in behalf of the City of Davao, Memorandum of Agreement to be
+entered into by and among the Department of Agriculture Regional Field Office )c,
+FARDECO Agricultural Multipurpose Cooperative, and the City of Davao, relative to the
+implementation of the Integrated National Swine Production Initiative for Recovery and
+Expansion (INSPIRE) Program - Swine Clustering amounting to Five Million Five Hundred
+Thousand Pesos (Php 5,500,000.00).
+SECTION 4. SEPARABILITY CLAUSE. If for any reason, any paft of this
+Ordinance is declared unconstitutional, the remaining paft unaffected shall continue to
+remain valid and in effect.
+)oo(
+rco(
+)Ofi
+)oo(
+rco(
+)oo(
+t
+i(('I
+
+Page 3 of 3'
+Ord. No. 01005-22
+SECTION 5. EEEEIQIIUIE. This Ordinance shall take effect upon its approval.
+ENACTED, June 28, 2022, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ U,v,"6, )^ . l,{
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaflrnent Head II)r,
+ATTESTED:
+P.
+President
+Temporary
+cns/ray
+APPROVED
+I g 202?
+2022
+SARA Z. DUTERTE
+City Mayor.
+/
+(-Kn)
+Vgosrron z, DTTTERTE
+City Mayor U
+ATTESTED:
+ATTY.
+Acting
+ATTY. ZULEIKA T.
+CiW Admin
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF
+OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT AMONG THE DEPARTMENT OF
+AGRICULTURE REGIONAL OFFICE X, THE CITY OF DAVAO AND FARDECO AGRICULTURAL
+MULTIPURPOSE COOPERATIVE REI..ATIVE TO THE IMPLEMENTATION OF THE INTEGRATED NATIONAL
+SWINE PRODUCTION INMATIVE TO RECOVERY AND EXPANSION (INSPIRE) PROGRAM - SWINE
+CLUSTERING AMOUNTING TO FIVE MTLLTON FIVE HUNDRED THOUSAND PESOS (PHP5,500,000.00)
+K r.I. !-AYOG
+strator
+I
+I

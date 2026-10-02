@@ -1,0 +1,164 @@
+---
+ordinance_number: "088-22"
+title: "Ordinance No. 088-22"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 088-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 0.9
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid]
+---
+
+# Ordinance No. 088-22
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | - |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+i
+Oty of Davao
+2odr city Council
+18h Regular Session
+SERIES of 2022
+PRESENT:
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus loseph P. Zazobrado III
+Councilor Edgar R. Ibuyan Sr.
+ORDINANCE NO. 088.22
+SERIES oJ 2022
+AN ORDTNAT{CE GRANTTI{G THE REqUEST OF rRrEN lrl.
+VILLASICA FOR A WRITTEN CONSENT AND AUTHORITY TO
+MORTGAGE A PARCET OF IAND IN HER FAVOR COVERED BY
+TCT r{O. T-146-2021001149, LOCATED IN SANDAWA VTLLAGE,
+PHASE 1, SrrIO TAGNIC, BARANGAY BUHANGIN, THrS CrrY
+- OB-Attended the Security
+Coordination Meeting for
+Pasko Fiesta 2022
+
+Page 2 ot 2
+Ord. No. 088-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTTNG THE REQUEST OF IRIEN M. VILLASICA FOR A WRITTEN CONSENT
+AND AUTHORITY TO MORTGAGE A PARCET OF LAND IN HER FAVOR
+covERED BY TCT NO. T-146-202100t149, LOCATED IN SANDAWA VTLLAGE,
+PHASE 1, SITIO TAGNIC, BARAI{GAY BUHANGTN, THIS CITY".
+SECTION 2. COVERAGE - This Ordinance shall cover the grant to Irien M. Villasica
+for a written consent and authority to moftage a parcel of land in her favor covered by TCT
+No. T-146-2021001149 located in Sandawa Village, Phase I, Sitio Tagnic, Barangay
+Buhangin, Davao City.
+SECTION 3. ffi
+- If, for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, other sections or provisions hereof which
+are not affected thereby, shall continue to be in full force and effect.
+SECTION 4. EFFECTMTY - This Ordinance shall take effect upon approval.
+ENACTED, on the 15h day of November 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+MA. THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+ATTESTED:
+I.MEL1##IB. eurrArl JR.
+/ viceMayor
+-Presiding Officer
+cns/ray
+OEli&rs-t) p.ptrR0r/lift AFl"iiR TP,E tApSL OF
+R,A.7i60
+SEBASTIAN Z. DUTERTE
+City
+e
+M"Y7
+ATTESTED:
+ATTY. FRANCIS MARK H. LAYOG
+Acting City Administrator
+AN ORDINANCE GRANTING THE REQUEST OF IRIEN M. VILI.ASICA FOR A WRTTTEN CONSENT AND
+AUTHORITY TO MORTGAGE A PAR.CEL OF I.AND IN HER FAVOR COVERED BY TCT NO. T-1452021001149, LOCATED IN SANDAWA VIL|-AGE, PHASE 1, SmO TAGNIC, BARANGAY BUHANGIN, THIS
+CITY

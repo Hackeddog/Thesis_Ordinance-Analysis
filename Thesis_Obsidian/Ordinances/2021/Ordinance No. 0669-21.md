@@ -1,0 +1,204 @@
+---
+ordinance_number: "0669-21"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER TNTO AND SIGN, FOR AND IN BEHALF OF THE clw oF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED rNTO BY AND BETWEEN THE CITY OF DAVAO AND THE AUTHOR OF THE UNDERGRADUATE/GRADUATE THESTS CONSIDERED AS A FINALIST IN THE DAVAO CITY UNITY AWARDS"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000669-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/tnto, topic/sign, topic/behalf]
+---
+
+# Ordinance No. 0669-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER TNTO AND SIGN, FOR AND IN BEHALF OF THE clw oF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED rNTO BY AND BETWEEN THE CITY OF DAVAO AND THE AUTHOR OF THE UNDERGRADUATE/GRADUATE THESTS CONSIDERED AS A FINALIST IN THE DAVAO CITY UNITY AWARDS
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic of the'Philippines
+19th City Council
+28th Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Alberto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+Councilor Danilo C. Dayanghirang
+Councilor PamelaA.Librado-Morata
+- On Leave
+- On Official Business
+- On Sick Leave
+ORDINANCE NO. 0669-21
+SERIES ol 2O2L
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+ENTER TNTO AND SIGN, FOR AND IN BEHALF OF THE
+clw oF DAVAO, THE MEMORANDUM OF AGREEMENT
+(MOA) TO BE ENTERED rNTO BY AND BETWEEN THE CITY
+OF DAVAO AND THE AUTHOR OF THE
+UNDERGRADUATE/GRADUATE THESTS CONSIDERED AS A
+FINALIST IN THE DAVAO CITY UNITY AWARDS
+
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER TNTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA)
+TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE
+AUTHOR OF THE UNDERGRADUATE/GRADUATE THESIS CONSIDERED AS A
+FINALIST IN THE DAVAO CITY UNITY AWARDS'.
+SECTION 2. DECLARATION OF POUCY - SECTION 22 (a) (5) and (c) and
+SECTION 455 (b) (1) (vi) of Republic Act No. 7160 or the Local Government Code of 1991
+provides that:
+"SECTION 22. Corporate Powers. -
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(C) Unless othenruise provided in this Code no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal
+or barangay hall."
+"SECTION 455 Chief Executive; Powers, Duties and Compensation,
+(b) For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government and in
+this connection, shall:
+(vi) Represent the city in all its business transactions and sign in
+its behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3 AUTHORIW - The City Mayor is hereby granted legislative
+authority to enter into and sign the Memorandum of Agreement (MOA) to be entered
+into by and between the City of Davao and the author of the Undergraduate and
+Graduate thesis considered as a flnalist in the Davao City Unity Awards.
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+Ord. No. 0669-21
+
+' Pdgd 3 of3
+Ord, No.0669-21
+SECTION 5. EFFECTfVITY- This Ordinance shall take effect immediately upon
+approval.
+EI{ACTED, on the 27b day of July 2021, by a majority vote of all the Members
+of the Sanggunlan present, there being a quorum.
+CERTIFIED CORRECT:
+a
+cnfuq.
+ATTESTED:
+. UNGAB
+Vice Mayor
+rary Presiding Officer
+cns/johanna
+Secretary b the
+ng Panlungsod
+(City Government Depaftment Head IIlr
+APPROVED:
+sEP 0 3 20n
+Z. DUTERTE
+-city Mayor2
+2A2t
+Otglt 0y5lgnedby
+Olfrrte Saa
+Zlmftrmn
+Re&E lam
+app@ing this
+ATTESTED:
+ATTY.
+T
+PEZ
+City Administrator =
+AN ORDINANCE AUTHORIZING THE CIfi MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY oF DAVAO, THE MEMORANDUivI OF AGREEMET.IT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN THE ATY OF DAVAO AND THE AUTHOF. OF fiE UNDERGRADUATE/GRADUATE THESIS
+@.ISIDERED AS A FINALIST IN THE DAVAO CIW UNITY AWARDS
+I
+I
+a
+I

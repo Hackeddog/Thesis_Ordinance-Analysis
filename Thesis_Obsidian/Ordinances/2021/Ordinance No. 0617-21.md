@@ -1,0 +1,476 @@
+---
+ordinance_number: "0617-21"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYORTO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION (DOD) TO BE ENTERED INTO BY AND BETWEEN APO AGUA INFRASTRUCTURA, INC. AND THE CITY OF DAVAO, REI-ATIVE TO THE GROUP PERSONAL ACCIDENT INSURANCE THAT WILL COVER DAVAO CITY BANTAY BUKID VOLUNTEERS AND THEIR DEPENDENTS FOR YEAR 202L\", for notarization. For the City Mayor: ATTY. "
+date_enacted: null
+approval_date: "2021-07-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0617-21.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayorto, topic/enter, topic/sign, topic/behalf, topic/deed]
+---
+
+# Ordinance No. 0617-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYORTO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION (DOD) TO BE ENTERED INTO BY AND BETWEEN APO AGUA INFRASTRUCTURA, INC. AND THE CITY OF DAVAO, REI-ATIVE TO THE GROUP PERSONAL ACCIDENT INSURANCE THAT WILL COVER DAVAO CITY BANTAY BUKID VOLUNTEERS AND THEIR DEPENDENTS FOR YEAR 202L", for notarization. For the City Mayor: ATTY. 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 15,359 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2021\Ordinance No. 0617-21.txt`*
+
+18 Aug 2094
+J. (cama |e. onan ¢
+Es I tara a ai
+
+PN Poshhg| Peppa cecly ache
+
+%/ 18 [24
+a, (s) Pe NN
+
+-olLa
+iE s
+\'l r; rs 1t'
+OFFICE OFTHE CITYMAYOR
+Respectfrrlly returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the herein Endorsement No. 195, SERIES of 2021 dated August 11,
+202L of the City lcgal ffice, relative to the dtached approved Ordinance No. 0617-21,
+SERIES Of 2O2I entiUed, "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CXTY OF DAVAO, THE DEED OF
+DONANON (DOD) TO BE ENTERED INTO BY AND BETWEEN APO AGUA
+INFRASTRUCTURA, INC. AND THE CITY OF DAVAO, REI.ATIVE TO THE GROUP
+PERSONAL ACCDENT INSURANCE THAT WILL COVER DAVAO CITY BANTAY BUKID
+VOLUNTEERS AND THEIR DEPENDENTS FOR mE YEAR 2021", duly signed and
+notarized, for your appropriate action.
+For the City Mayor:
+R€f. t\b. CAdG2021-02312
+u iF'{$r^'.'
+&!:{oo'"""tt9ril,
+.f\'-..'.,J(-.-. n.- il- rr.'Ft7 \,}\vr
+i.\: iCFi
+$'i
+1:\:a
+8i" 'Y,*hi'* "\[
+i\ ,.,,li!_?ti[zc$
+'i11'".' t'A ;fl
+\'r
+"
+t/
+t 7! 3'. . ,'t .',
+-
+4$ IilDORSEME]IT
+August 17,202L
+ATTY. TRISTA
+Assistant
+lrD
+n
+(Administration)
+6tb]1
+IrlIllcO
+f
+OTYMAYOtrSOFFICE
+CORNEPOIDTIE AilD ffiOilE ITV
+RELEASED
+AUe tE ll?"t1''/'
+n*^**dri#;
+@
+ADM
+dtnfi
+IN
+AI
+ISTRATME
+E
+D vt
+t
+lm
+2t16SBIU
+IE
+il)
+Second Floor, City Hall Building, City Hall Erive, Sqn Pedro St., Davao City
+(082) 224-3oga o (082) 24'l-1000 loc. 265 o davaocityrnayor@gmail.com
+-a u
+DAW#\@
+LIFE IS HERE
+
+Rerublic of the Philippines
+- Oty of Davao
+OFFICE OF THE CITY TEGAL OFFICER
+Td. l{o.2!F6970
+Trunk Une No.241-f0m L0f,,%7n25*2il
+dawodffid@grmd.com
+KCI . IIO. LLU- I.UZI-UL'Zf /:'
+Endorsenrent l{o.$fSeries of 2021
+3'd INDORSEMENT
+August LL,2021
+Respectfully returned to ATTY. TRISTAN DWIGHT P. DOMINGO,
+Assistant City Administrator (Administration) thru the Office of the City Mayor,
+this city, the within Legal Opinion l{o. 716, SERIES of 2021 dated July 15,2021
+from our office, relative to the attached duly signed and approved Ordinance hlo.
+06L7-21, SERIES of 2021 entitled, "AN ORDINAilCE AUTHORIZING THE CITY
+MAYOR TO ENTER IilTO AND SIGN, FOR AI{D IN BEHALF OF THE CITY
+oF DAVAO, THE DEED OF DONATION (DOD) TO BE ENTERED INTO By
+ATTD BETI'IIEEN AP1O AGUA PERSONAL INFRASTRUCTURA, INC. AND THE
+CITY OF DAVAO, RELATM TO THE GROUP PERSONAT ACCIDENT
+IHSURANCE THAT WILL COVER DAVAO CITY BANTAY BUKID
+VOLUNTEERS AND THEIR DEPENDEI{TS FOR YEAR }AZL", with the Deed
+of Donation hereto attached, duly notarized, as requested.
+ATTY, FRANCI
+RNANDEZ
+Atto ney
+Approved by:
+ATTY. OS}IUil
+P. VILLANUEVA,lR.
+Officer-In-Charge, City Legal Office
+GAL c
+Datc approved:_
+,, , l.|
+:iu
+m
+IFFBE S# ?iil ffiT? Atri3tti-SlPggBg
+OTY'il,^-i [lr]::i.,4
+trl
+eirf
+RE Effi&$
+1rhvl
+iC
+\ lr, 1..*'
+,W\- g|12w
+
+Ref. No. CAdO2021-02014
+W
+t0
+,&n
+1\
+,./Yl
+2Nd INDORSEMENT
+July 28,202L
+Respectfr.rlly retumed to Atty. Osmundo P. Villanueva, Jr,, Officer-In-Charge,
+City Legal Office, this City, the within Legal Opinion No. 715, SERIES of 2021 dated July
+15, 2021 from the City Legal Office, relative to the attached duly signed and approved
+Ordinance No. 0617-21, SERIES ot 2021entitled, "AN ORDINANCE AUTHORIZING THE
+CITY MAYORTO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE DEED OF DONATION (DOD) TO BE ENTERED INTO BY AND BETWEEN APO AGUA
+INFRASTRUCTURA, INC. AND THE CITY OF DAVAO, REI-ATIVE TO THE GROUP
+PERSONAL ACCIDENT INSURANCE THAT WILL COVER DAVAO CITY BANTAY BUKID
+VOLUNTEERS AND THEIR DEPENDENTS FOR YEAR 202L", for notarization.
+For the City Mayor:
+ATTY. TRISTA
+Assistant
+N
+DOMINGO
+m ntstrator
+(Administration)
+'t'a \L"
+@
+$t f I WI1,'u'-o'
+uARrA **06{t {#
+CITY MAYOR,S OFFICE
+ORf, TSPOTIDTilG AIID RTMDS UV
+R,ELEASED
+om
+t 2at
+ttr
+B-.J6B9m
+N STRAT ME AIOE
+to
+ADM
+OI{TACI
+I
+V
+I
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082)224-3004 o (082) 241-1000loc. 265 o davaocityrnayor@gmail.com
+B,*tli d?\@
+LIFE IS HERE
+
+1..1 1; 1s to
+Republic of $b Philippines
+.
+OFFICE OF THE CITY TEGAL OFFICER
+Tel. No.298{970
+Trunk Line No. 241-1000 l-cr,267*225*230
+davaociWleoal(oomail.com
+Ref. No. CLO-2021-002403
+LEGAL OPINION NO. { IG
+s
+1't INDORSEMEl{T
+July 15, 2021
+Respectfrrlly brwarded to the ffice of the City Mayor, through the ffice
+of the City Administrator, both this City, the herein attached Ordinance I{o.
+O6L7-21, SERIES ol 2O2L, entitled *AN ORDIilAI{CE AUTHORIZING THE
+CITY MAYOR TO EI{TER INTO AND SIGN, FOR AND IN BEHALF OF THE
+crTy oF DAvAo, THE DEED OF DONATTON (DOD) TO BE EI{TERED rilTO
+BY AND BETWEEN APO AGUA INFRASTRUCTURA, INC. AND THE CITY
+oF DAVAO, RETATTVE TO THE GROUP PERSONAL ACCIDENT
+INSURAT{CE THAT WItt COVER DAVAO CITY BAI{TAY BUKID
+VOLUNTEERS AND THEIR DEPENDENTS FOR THE YEAR Z:OZL", with the
+Deed of DonaUon hereto attached, informing your end that this office finds the
+same ftee from legal infirmity pursuant to SECTION 455 (b) (vi) of Republic Act
+7160, otherwise known as the Local Government Code of 1991 which provides to
+wit:
+*SECTION 455. Chief executive; Powers, duties and compensation.
+)Oc(
+)oo(
+)oo(
+(b) For efficient, effective and economical governance, the purpose of
+which is the general welfare of the city and its inhabitants pursuant to SECTION 16
+of this Code, the city mayor shall:
+!
+)0o(
+)oo(
+)oo(
+(vi) Represent the city in all business transactions and sign in its behalf all
+bonds, contacts, and obligations, and such other documents upon authority of
+the SANGGUNIANG Panlungsd or pursuant to law or ordinance".
+It is further informed that the subject Deed of Donation was previously
+reviewed and found to be in order by this Office per Legal Opinion No. 280
+SERIES of 202L.
+IN VIEW THEREOF, it is recommended that the Ordinance be approved
+and the Deed of Donation be executed.
+ATTY. OSMUN
+ILLANUEVA, JR.
+Asst. City Legal Officer
+Officer-In-Charge
+Date of approval: July 15, 2021
+t-.)
+'i ,''- iEH0C f IY'E CIIT ffiAflBltSIRST0B
+gn $dul &FiiEr
+rA{&$ siff
+I
+ffivgl
+S"."
+JUL
+g 202
+UESOFZffiI - 6sp
+RECEIVED
+.lul I 6 2ll2l" Tn^i
+&tr-olou
+\4t-^o#
+
+.CITV MAVOR.'S OFFICE
+Ll3lc
+ate
+For
+L:egal Of{ice
+From : ffion'espondence & Records Div
+Subject; SP Res, No. 0{/?
+Ord, No. -.Ocl)
+SERIES of 20 )'l
+Oor - lp,,b!
+I U.o --f,;fu|
+tr6g.l.rt I,.<rvr* trDo^t.rr q,Ud v.l",r ldt
+U^ t
+DueDate : jUt Z 3 2021
+1,
+M/irdfAeil, NABoNG
+,oo -(
+Officer-ln-Ch arge
+
+-v
+#
+July 9, 2021
+I
+SARA Z. DUTERTE
+City Mayor
+ottlet .l'l
+fiuo - cRu
+RECEIVED
+Madam:
+Pursuant to Sub-SECTION 3, Paragraph C, Secflon 469, Article One, Tltle Five,
+Chapter 3 Book III and SECTION 54 of Book I of Republic Act No. 7160, otherwise
+known as the Local Government Code of 1991, we are furnishing you a copy of
+Resolutlon No. 02!E91lL and its corresponding Ordinance No. O617-21, both
+SERIES of 2027, of the SANGGUNIANG Panlungsod, with attached six (6) sets of the Deed
+of Donation (DOD) to be entered into by and between Apo Agua Infrastructure, [nc.
+and the Clty of Davao, relatlve to the Group Personal Accldent Insurance that wlll cover
+Davao City Bantay Bukid Volumteers and their Dependents for the Year 2021, duly
+signed by the other party, for your lnformatlon, guidance and appropriate actlon.
+Very truly yours,
+c*ru+s*,/k*o,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+
+Republic of the Piiillppihes
+Ofrice of the SANGGUNIANG Panlungsod
+19th City Council
+22nd Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Alberto T. Ungab
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S, Acosta
+Wilbefto E. Al-ag
+Dante L. ApostolSr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G, Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Sebastian Z. Duterte
+Bai Hundra Cassandra Dominique N. Advincula
+Pamela A. Librado-Morata
+- Temporary Presiding Officer
+- Acting City Mayor
+- On Domestic Emergenry Leave
+- On Domestic Emergenry Leave
+ABSENT:
+Councilor
+Councilor
+Councilor
+ORDINANCE NO.0617.21
+SERIES of 2O21
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+crTY oF DAVAO, THE DEED OF DONATION (DOD) TO
+BE ENTERED INTO BY AND BETWEEN APO AGUA
+TNFRASTRUCTURA, rNC. AND THE CrTY OF DAVAO,
+REIATIVE TO THE GROUP PERSONAL ACCIDENT
+INSURANCE THAT WILL COVER DAVAO CITY BANTAY
+BUKID VOLUNTEERS AND THEIR DEPENDENTS FOR
+THE YEAR 2021
+
+Ord. No.06L7-2L
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CrTY OF DAVAq THE DEED OF DONATTON (DOD) TO BE
+ENTERED Ii{TO BY AND BETWEEN APO AGUA INFRASTRUCTURA, INC. AND
+THE CITY OF DAVAO, RELATM TO THE GROUP PERSONAL ACCIDENT
+INSURANCE THAT WILL COVER DAVAO CITY BANTAY BUKID VOLUNTEERS
+AND THEIR DEPENDENTS FOR THE YEAR 2O2L"
+SECTION 2. DECTARATION OF POLICY - SECTION 455, (b) (1) (vi) of the
+Local Government Code provides, to wit:
+"For efficient, effective and economical governance the purpose of which
+is the general Welfare of the city and its inhabitants pursuant to SECTION
+16 of this Code, the city mayor shall represent the city in all its business
+transactions and sign in its behalf all bonds, contracts, and obligations,
+and such other documents upon authority of the SANGGUNIANG
+Panlungsod or pursuant to law or ordinance";
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign the Deed of Donation (DOD) to be entered into by and
+between Apo Agua Infrastructura, Inc. and the City of Davao, relative to the Group
+Personal Accident Insurance that will cover Davao City Bantay Bukid Volunteers and
+their dependents for the year 2021.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 15b day of June 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+, Ut^n;) I. /rorARrro N. s{NTos
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)g
+
+ATTESTED:
+ATTESTED:
+AL
+NGAB
+ng Vice Mayor
+Temporary Presiding Officer
+cns/bern
+Ord. No. 0617-2L
+'l tp
+APPROVED:
+JUL I 6 2021
+202L
+RA Z.
+UTERTE
+PCiEt Mayor 2
+City Administ
+ULEIKA
+LOPEZ
+rO
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE DEED OF DONANON (DOD) TO BE ENTERED INTO BY AND BETWEEN APO
+AGUA INFRASTRUCTURA, INC, AND THE CITY OF DAVAO, RELATIVE TO THE GROUP PERSONAL
+ACCIDENT INSURANCE THAT WILL COVER DAVAO CITY BANTAY BUKID VOLUNTEERS AND THEIR
+DEPENDENTS FOR THE YEAR 2021
+
+DEED OF DONATION AND ACCEPTANCE
+KNOW ALL MEN BY THESE PRESENTS
+This Deed of Donation and Acceptance (the Deed) is made and executed on
+ln
+by and between
+APO AGUA INFRASTRUCTURA, INC., a corporation duly organized and
+existing under and by virtue of the laws of the Republic of the Philippines, with
+principal address at Ladislawa Avenue, Ladislawa, Buhangin, Davao City, and
+represented herein by its Operations Head, RAMON ABOITIZ TUASON (the
+DONOR);
+and
+THE CITY OF DAVAO, a local government unit created and operating under the
+laws of the Republic of the Philippines, with office address at City Hall of Davao,
+City Hall Drive, San Pedro Street, Davao City, and represented herein by its
+Mayor, SARA Z. DUTERTE (the D

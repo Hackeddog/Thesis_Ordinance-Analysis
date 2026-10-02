@@ -1,0 +1,323 @@
+---
+ordinance_number: "0680-19"
+title: "AN ORDINANCE APPROVING THE APPUCATION OF YHEST REALTY AND DEVELOPMENT CORPORATION FOR RECI.ASSIFICATION/REZONING OF THE I9.HECTARE PARCEL OF I.AND COVERED UNDER VARIOUS TRANSFER CERTIFTCATES OF TmE NOS. FROM PARKS AND RECREATTON ZONE (PR) TO MAIOR CoMMERCLAL SUB-ZONE (C-2) LOCATED IN GEN. MCARTHUR HIGHWAY, BRGY. MATINA CROSSING, TALOMO DISTRICT, THIS CffY\", for your information and appropriate act"
+date_enacted: null
+approval_date: "2019-03-01"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0680-19 (1).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/approving, topic/appucation, topic/yhest, topic/realty, topic/development, topic/corporation]
+---
+
+# Ordinance No. 0680-19
+
+> AN ORDINANCE APPROVING THE APPUCATION OF YHEST REALTY AND DEVELOPMENT CORPORATION FOR RECI.ASSIFICATION/REZONING OF THE I9.HECTARE PARCEL OF I.AND COVERED UNDER VARIOUS TRANSFER CERTIFTCATES OF TmE NOS. FROM PARKS AND RECREATTON ZONE (PR) TO MAIOR CoMMERCLAL SUB-ZONE (C-2) LOCATED IN GEN. MCARTHUR HIGHWAY, BRGY. MATINA CROSSING, TALOMO DISTRICT, THIS CffY", for your information and appropriate act
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+\Re
+\OFFTCE
+ptblit or the Philippines
+OFTHE CTTYMAYOR
+t
+t
+tt
+dE
+Rd. No. CAdG20190Ob10
+-*.. ti?v
+2NA IilDORSEMENT
+March tt,2:AL9
+Respectfully returned to Ms. Charib N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0680-19,
+SERIES of 2019, entitled "AN ORDINANCE APPROVING THE APPUCATION OF YHEST
+REALTY AND DEVELOPMENT CORPORATION FOR RECI.ASSIFICATION/REZONING OF
+THE I9.HECTARE PARCEL OF I.AND COVERED UNDER VARIOUS TRANSFER
+CERTIFTCATES OF TmE NOS. FROM PARKS AND RECREATTON ZONE (PR) TO MAIOR
+CoMMERCLAL SUB-ZONE (C-2) LOCATED IN GEN. MCARTHUR HIGHWAY, BRGY.
+MATINA CROSSING, TALOMO DISTRICT, THIS CffY", for your information and
+appropriate action.
+tur the City Mayor:
+ATTY. TRISTAN
+INGO
+Assistant
+)
+xrq-04' p, lV
+REI.EASED
+. CRD
+iIAR
+LIFE
+IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+DAW @
+F
+
+OFFICE OF THE CITY LEGAL
+0 zc.tlP'- g(
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc26712251230
+Ref. No. CLO-2019-000324
+LEGAL OPINION NO. I(' ,
+SERIES OF 2019
+RE: ORDINANCE NO. 0680-19, SERIES of 2019 entitled *AN
+ORDINANCE APPROVING THE APPUCANON OF YHEST REALTY
+AND
+DEVELOPMENT CORPORATION FOR
+RECTXSSTFTCATION/REZONING OF THE 1g-HECTARE PARCEL OF
+I.AND COVERED UNDER VARIOUS TRANSFER CERTIFICATES OF
+TfiLE NOS. FROM PARKS AND RECREATION ZONE (PR) TO
+MAIOR COMMERCTAL SUBZONE (C-2) LOCATED IN GEN.
+MCARTHUR HIGHWAY, BRGY. MATINA CROSSING, TALOMO
+DISTRICT, THIS CITY"
+OFFICE 0F THE elTY;ADfitlNlSTRAT0R
+CIlY HALL OFFICE
+DAVAO CIW
+a/*l
+ts INDoRSEMENT
+March t,20L9
+RECEIVED BY
+DATE;
+TIME:
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, with the information that this
+office finds no legal infirmities therein as far as SECTION a58(2Xviii) of Republic Act
+7t60, otherwise known as the Local Government Code of 1991 is concerned, which
+provides that:
+SECTION 458. Powerc, Daties, Functions and
+Compensation, - (a) The angguniang panlungsod, as the
+legislative body of the city, shall enact ordinances, approve
+resolutions and appropriate funds for the general welfare of the
+city and iE inhabitanB purcuant to SECTION 16 of this Code and in
+the proper exercise of the corporate powers of the city as
+provided for under Mion 22 of this Code, and shall:
+)ox
+XXX
+XXX
+(2) Generate and maximize the use of resurces and revenues for
+the development plans, program objectives and priorities of the
+city as provided for under Sedion 18 of this Code, with particular
+attention to agro-industrial development and city-wide growth
+and progress, and relative thereto, shall:
+w(
+)&x
+)dx
+(viii) Reclassify land within the jurisdiction of the city, subiect to
+the peftinent prouisions of this Code;
+)M
+W
+ERR
+D
+l:
+IN VIEW THEREOF, this Office recommends the approval of the subject
+ordinance.
+.,{-lD-"lJ
+
+L
+Approved by:
+ATTY. OSMU
+P. VILI-ANUEVA" IR
+OIC-Acting
+Legal Officer
+Date Approved: March 1, 2019
+od06 8 G 1 g_ftctasilicotionJ fi est rca[ry_z 0 I 9 -0N3 z 4_3 - 1 - 1 9
+@de2
+ArrY. r,rmrS{1I}ALLo, Rsw
+Acting Asst.tity Legal Officer
+AI. fr
+o RS[BJ[$lii;
+-r;f[f,;{ i;t --+ t,] f
+r i-r' ,
+BBffi,ggE
+DME
+v
+n n,t llr
+II
+
+Repu9lig o{ $qPhilippines
+r-trFr!'ll3Fr Jll,rlllH
+f
+LEr'
+Lur.-
+ffztttq'sl
+g.AEA T. *UTEfiTE
+fiiy t4ayor
+Citu nf lJ;v={--,
+-'-a
+-
+Ctfl !t AyoR,S OFFICE
+coRRESpoNDENce g necoRdSotvrsrotrt
+RECEIVED
+FEB 21 2019
+.illfiil-fif,Yffit* t:tt)
+la
+t'{ad.art
+uw-u4-Wzt+fk)
+Sanqguniang Paniurr,Smd, this fity, for your i*formaUon, guidance rrd ;4pra6rriate
+ation.
+"Iorv
+!-rrrlv unlrrtr
+. L\ l
+L.lrlr
+,sw)r.46*=
+Serreiary ir; the S"-'l;;ffirq pir-tut'r:s*:
+ifitir G+v+rnnient tEpatmeni He;il tri
+\\(; ,rl
+
+Republic o'i tlre Philippines
+18th City Council
+2nd Regular Session
+SERIES of 2019
+PRESENT:
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera lr.
+Maria Belen S. Acosta
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo l. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Presiding Officer
+- On Domestic Emergency Leave
+- On Special Privilege Leave
+Councilor
+Councilor
+ORDINANCE NO. 0680.19
+SERIES of 2019
+AN ORDINANCE APPROVING THE APPLICATION OF
+YHEST REALW AND DEVELOPMENT CORPORATION FOR
+RECLASSTFTCATTON/REZONTNG OF THE Ig-HECTARE
+PARCEL OF LAND COVERED UNDER VARIOUS TRANSFER
+CERTIFICATES OF TITLE NOS. FROM PARKS AND
+RECREATTON ZONE (pR) TO MA,OR COMMERCTAL SUBzoNE (c-2) LOCATED rN GEN. MCARTHUR HrcHWAy,
+BRGY. MATTNA CROSSING, TALOMO DISTRICT, THIS
+cIw
+
+Ord. No. 0680-19
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+APPROVING THE APPLICATION OF YHEST REALTY AND DEVELOPMENT
+CoRPORATTON FOR RECLASSTFTCATTON/REZONTNG OF THE Ig-HECTARE
+PARCEL oF LAND covERED UNDER vARioUs TRANsFER cERTIFTcATES oF
+TITTE l{os. FRoM pARt(s AND RECREATIoN zoNE (pR) To l,tAron
+CoMMERCIA.! S_9B_-IONE (C-2) LOCATED rN GEN. MCARTH0R HTGHWAY,
+BRGY. MATTNA cRossING, TALoMo DIsrRIcr, THIS crry,,.
+SECTION 2. scoPE - The reclassification of the 19-hectare parcel of land from
+Parks and Recreation (PR) to Major Commercial Sub-zone (C-2) is nerebv approved;-
+SECTION 3' RATIONAL.E- The properties applied for are situated in Barangay
+llatina Crossing, Talomo District, this City,'and the reclassification is in accordance with
+S9$on 20 of Republic Act No. 7L60, otherwise known as the Local Government Code of
+1991.
+SECTION 4. PURPOSE- The purpose of the reclassification is for the conversion
+of the iconic Matina Davao Golf Club'into a business park to be developed bV GO,
+Landmasters, Inc., to become a world-class central business district and lifestyle township
+in Davao City;
+SECTION 5. SEPARABILIT.Y QIAUSE - If , for any reason, any paft or provision
+of this Ordinance is declared unconstitutionat or invalid, any pat oi [rovisions hereof not
+affected thereby shall remain in full force and effect.
+SECTION 6. EFFECTIVITY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 8th day of January, zoLg, by three-fourths (a/+) majority vote of
+all the Members of the sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+NILDA C.
+Acting Secretary to the SANGGUNIANG panlungsod
+(Assistant Secretary to the Sanggunlang pan'iungsod
+v
+RNARD E.
+Vice M
+Presiding
+ATTESTED:
+ncm/kjtq
+
+Ord. No. 0680-19
+APPROVED
+0 7 ili,iR 2019
+2019
+z.
+z City MUY,;
+ATTESTED:
+ATTY. ZULEIKA
+City
+-

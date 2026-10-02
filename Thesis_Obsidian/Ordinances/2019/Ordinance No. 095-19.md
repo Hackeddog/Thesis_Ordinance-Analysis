@@ -1,0 +1,321 @@
+---
+ordinance_number: "095-19"
+title: "AN ORDINANCE GRANTING rHe nreuEST oF ATTv. TERESTTA DEI-A prNn-yfrtcrJEz, eRESIDENT oF RorARy CLUB WAUNG.WALING DAVAO, FOR EGMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE ART EXHIBIT OF THE FAMOUS ARTIST, KUBLAI MILAN, ON NOVEMBER 4-L4,IOL}, AT THE LOBBY OF MARCO POLO HOTEL, THIS C[TY', for your informaUon and appropriate action. For the City Mayor: ATTY. DOMINGO Assistant (Admin"
+date_enacted: "2019-11-05"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 095-19 (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/nreuest, topic/attv, topic/terestta, topic/prnn, topic/yfrtcrjez]
+---
+
+# Ordinance No. 095-19
+
+> AN ORDINANCE GRANTING rHe nreuEST oF ATTv. TERESTTA DEI-A prNn-yfrtcrJEz, eRESIDENT oF RorARy CLUB WAUNG.WALING DAVAO, FOR EGMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF THE ART EXHIBIT OF THE FAMOUS ARTIST, KUBLAI MILAN, ON NOVEMBER 4-L4,IOL}, AT THE LOBBY OF MARCO POLO HOTEL, THIS C[TY', for your informaUon and appropriate action. For the City Mayor: ATTY. DOMINGO Assistant (Admin
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+,,,'r6,P4E=5u
+iW*,'F,
+'
+Republic of"th6 Philippines
+OFFICE OF THE CITY I\{AYOR
+Ref. No. cAdG20L9-0/.9.3
+2NO IilDORSEMENT
+November ?7,24L9
+Respectfully returned to Ms, Charito il. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this Gty, the within Legal Opinion No. 696, SERIES of 2019 dated
+November 13, 2019 of the City Legal Office, relative to the attached duly slgned and
+approved Ordinance No. 095-19, SERIES of 2019 entiHed, "AN ORDINANCE GRANTING
+rHe nreuEST oF ATTv. TERESTTA DEI-A prNn-yfrtcrJEz, eRESIDENT oF RorARy
+CLUB WAUNG.WALING DAVAO, FOR EGMPTION FROM THE PAYMENT OF
+AMUSEMENT TAX ON THE PROCEEDS OF THE ART EXHIBIT OF THE FAMOUS ARTIST,
+KUBLAI MILAN, ON NOVEMBER 4-L4,IOL}, AT THE LOBBY OF MARCO POLO HOTEL,
+THIS C[TY', for your informaUon and appropriate action.
+For the City Mayor:
+ATTY.
+DOMINGO
+Assistant
+(Administration)
+/V
+s*-oa-n
+clw MAVOR'S OFFtCt
+CORRESPOT.JDENCE AND RECOf, D5 DIV
+RELEASED.
+r{ol/ 2 t 20tI
+rorr$ GALAo
+ADMINISTRATIVE AIDE IV 0:en
+Brw @
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+LIFE IS HERE
+
+loldn- r
+City of Dariao
+OFFICE OF THE CITY LEGAL
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc267li'.251230
+Ref. No. CLO-2019-00041 15
+Leg,al Opinion No.
+SERIES of 2019
+A. GALLO, RSW
+Legal Officer
+eq^r-,
+RE: ORDINANCE NO. 095-19, SERIES OF 2019 entitled "AN ORDINANCE
+GRANTING THE REQUEST OF ATTY. TERESnA DE!-A pefrn-yNtcuEz,
+PRESIDENT OF ROTARY CLUB OF WALING-WALING DAVAO, FOR
+EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON PROCEEDS
+OF THE ART EXHIBIT OF THE FAMOUS ARTIST, KUBLAI MII.AN, ON
+NOVEMBER 4-14, 20L9, AT THE LOBBY OF MA.RCO POLO HOTEL, THIS
+CITY"
+1* INDoRSEMENT
+November L3,20L9
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subjed: Ordinance No. 095-19 SERIES
+of 2019, with the information that this office finds no legal infirmity in the
+passage of the subject ordinance, it appearing thert the same is well within the
+power of the SANGGUNIANG Panlungsod.
+In view thereof, this office recommends the approval of the subject
+ordinance.
+ATTY.
+Acting
+Approved by:
+ATTY. OSMU
+P. VILLANUEVA, JR
+OIC-Acting City Legal Officer
+Date of Approval: November L4,2019
+orf,095 - 1 9-t4,X_exflnpt_rotar)-watin0
+2_20 1 94004 1 I 5 _1 1 - 1 3 - 1 9
+@dee
+oFFlcE oE THE ClrYAqMr{EsRArOn
+CIW HALL OFFICE
+DAVAO CIW
+RECEIVED BYI
+DATE:
+TtME:
+05Ft8t 0f _IHE erd $_i.+_ritfisrililn
+GliY li*," i'f!-
+\.J
+t
+tT
+MGffiE$
+f!frTE:
+!s
+c
++
+=
+ia.,r
+I
+,3crs l'9
+o
+o No
+E
+d
+,1.
+1'4A*
+ffi-q-ilo
+\
+/
+
+\r
+nbpqQLg o I S1 Phi liplr ines
+November B, 2019
+- lst
+SARA Z. DUTERTE
+City Mayor
+*
+Madam
+Pursuant to sub-SECTION 3, Paragraph c, SECTION 469, Article one, Title Flve,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No' 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No'
+0318-ig. SERIES of 2018 and Ordinance No. 095-19, SERIES of 2019 of the
+SANGGUNIANG Panlungsod, , for your information, guidance and appropriate action'
+Very truly Yours,
+{
+ic:
+\
+cl'Rk#b-il,k*ro,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVED
+Ntjv 0B 20tg
+v
+M lII.l M, g:.ArvARADo q -.A
+ADMINISMATIVE AIDE IV
+cMO CONTACf s: 241-1000 Loa.
+. J-.
+i(-t5)'i.
+.\4,,/,:
+crn
+09956299702
+/
+t
+lfl
+*
+
+'
+Republic of tne Philippines
+19tt'City Council
+17th Regular Session
+SERIES of 2019
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Presiding Officer
+Ralph O. Abella
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. MahiPus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+Councibr Nilo D. Abellera
+Councilor Conrado C. Baluran
+Councilor Augusto Javier G. Campos III
+Councilor Jonard C. Dayap
+Councilor Richlyn N. Justol-Baguilod
+Councilor Myrna G. L'Dalodo-Ortiz
+Councilor Antoinette G. Principe-Castrodes
+Councilor Mary Joselle D. Villafuefte
+- On Domestic Emergency Leave
+- On Official Business
+- On Official Business
+- On Official Business
+- On Official Business
+- On Vacation Leave
+- On Official Business
+- On Official Business
+- On Official Business
+ORDINANCE NO. 095-T9
+SERIES of 2019
+AN ORDINANCE GRANTING THE REQUEST OF ATTY.
+TERESITA DELA PENA-YNIGUEZ, PRESIDENT OF ROTARY
+CLUB OF WALTNG-WALTNG DAVAO, FOR EXEMPTTON FROM
+THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF
+THE ART EXHIBIT OF THE FAMOUS ARTIST, KUBLAI MILAN,
+oN ilovEMBER 4-t4,2OL9,ATTtlE LOBBY OF MARCO POLO
+HOTEL, THIS CrrY
+
+Ord. No.095-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled that:
+SECTION 1. TITTE - This Ordinance shall be referred to and cited as the'AN
+ORDINANCE GRANTING THE REQUEST OF ATTY. TERESITA DEIA PENAYNTGUEZ, PRESIDEilT OF ROTARY CLUB OF WALING-WALTNG DAVAO, FOR
+EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX ON THE PROCEEDS OF
+THE ART EXHIBIT OF THE FAMOUS ARTISI, KUBLAI MILAil, ON ilOVEMBER 4L4,2OL9, AT THE LOBBY OF MARCO POLO HOTEL, THIS CITY".
+SECTION 2. DECIARATION OF POLICY - SECTION 3(1) of Republic Act No.
+7L60, otherwise known as the Local Government Code of 1991, provides that \he
+participation of the private sector in local governance, pafticularly in the delivery of basic
+seruices, shall be encouraged to ensure the viability of local autonomy as an alternative
+strategy for sustainable development".
+SECTION 3. LEGAL BASIS This is pursuant to Article 8, SECTION 66,
+subparagraphs (a and (b) of Ordinance No. 029L-L7, SERIES of 2A17, or "An Ordinance
+Amending the 2005 Revenue Code of the City of Davao" which provides that:
+"Article & SECTION 66. Exemption. - The tax herein imposed does
+not apply in the following cases, provided, that exemption should flrst
+be obtained for this purpose from the SANGGUNIANG Panlungsod:
+a. Where the admission fees are collected for and in behalf of the
+charitable, educational or religious institutions or associations who are
+declared by law or presidential prodamation as exemfied from the
+payment of amusement tax on paid admission; provided further, that
+such exhibition, show, perfonnance, and the like, shall be limited to only
+three (3) days in a calendar year;
+b. Where the admission fees are collected in connection with the holding
+of operas, concerG, dramas, recitals, paintings and art exhibitions,
+flower shows, musical programs, literary and oratorical presentations
+except pop roc( or similar concerts not intended primarily for profit and
+furthermore, not including film exhibitions.
+SECTION 4. EXEUEfIS - The request of Atty. Teresita Dela Pena-Yniguez,
+President, Rotary Club of Waling-Waling Davao, for exemption from the payment of
+amusement tax on the proceeds of the aft exhibit of the famous aftist, Kublai Milan, on
+November 4-L4, 20L9, at the lobby of Marco Polo Hotel, this City, is hereby granted.
+SECTION 5. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected thereby shall continue to be in full force and effect.
+SECTION 6. EFFECTMTY -This Ordinance shall take effect immediately upon
+approval.
+
+\
+Ord. No.095-19
+ENACTED, November 05, 2019, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+V
+ATTESTED:
+ATTESTED:
+c'{Akk6ftJ.&{",
+Secretary to the SANGGUNIANG Panlungsod
+City Government Department Head II),
+-
+'. . (.:
+AppRoVED. 1.5 ilOv 2019 , 2019
+President
+Temporary Presiding Officer
+cns/bern
+ATTY.
+z.
+C'
+ciU ruay
+City Administrator -

@@ -1,0 +1,317 @@
+---
+ordinance_number: "0601-18"
+title: "AN ORDINANCE PROHIBITING AND PENALIZING ANY ACT THAT IMPEDES OR OBSTRUCTS THE FREE FLOW OF TRAFFIC ALONG PUBLIC STREETS AND HIGHWAYS, sucH As UNAUTHORTZED ROAD CLOSURES, SETTTNG Up oF BARRTCADES, STALLING OF VEHTCLES OR OTHER SIMILAR ACTS COMMITTED BY AN TNDIVIDUAL OR GROUP"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0601-18.pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/prohibiting, topic/penalizing, topic/impedes, topic/obstructs, topic/free, topic/flow]
+---
+
+# Ordinance No. 0601-18
+
+> AN ORDINANCE PROHIBITING AND PENALIZING ANY ACT THAT IMPEDES OR OBSTRUCTS THE FREE FLOW OF TRAFFIC ALONG PUBLIC STREETS AND HIGHWAYS, sucH As UNAUTHORTZED ROAD CLOSURES, SETTTNG Up oF BARRTCADES, STALLING OF VEHTCLES OR OTHER SIMILAR ACTS COMMITTED BY AN TNDIVIDUAL OR GROUP
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+io'
+2,)
+)
+tt'
+'
+RepLlblii of the Philippines
+OFFICE OF THE CITY MAYOR
+'l.lt;tsl\\
+1,
+a
+7:6!
+V,'
+Ref. No. CAdG201+00657
+'itY.!F
+ls Indorcement
+March L2,2019
+Respectfully returned to Ms. charito N. santos, secretary to the SANGGUNIANG
+Panlungsod, this City,- ine attached duly signed an! approved OrdLarye No' 0601-18'
+SERIES of 2018, entitred "THE ANTI-RoAb oasrnucrloN ORDINANCE oF DAVAO crry",
+for your information and appropriate action'
+For the GtY MaYor:
+ATTY.
+. DOMINGO
+Assistant
+(Administration)
+r
+REt.EASED
+Second Floor, City Hall Building, City Hall Drive, San Pedro St', Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail'com
+BAW @
+2t
+LIFE IS HERE
+ff
+t
+
+OFFICE OF THE CITY LEGAT OF
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+LEGAL OPINION No.
+SERIES OF 2019
+t Llot4ll
+Ref. No. CLO-2019-00091
+0m 0F IHE
+GIIY
+IEE't
+-:iF
+- ,$rar.;
+FFICE OF THE CIIV. OPUINISTRATOR
+CITY l.lf,l I ilii f,iilE
+m
+ORDII{ANCE NO. 0601-18, SERIES OF 2018 entitled *THE
+ANTI-ROAD OBSTRUCTION ORDINANCE OF DAVAO CITY"
+1* INDoRSEMENT
+February 74,20L9
+Respectfr.tlly forwarded to the Offtce of the City Mayor, through the Office of
+the Administrator, this City, the herein Ordinance No. 0601-18, SERIES of 2018,
+informing your end that the measure is in accord with SECTION 458 (5) (vi) of RA
+7160 known as the Local Government Code of 1991, to quote:
+"(vi) Regulate traffic on all streeE and bridges; prohibit encroachmenB
+or obstacles thereon, anQ when necessary in the interest of public welfare,
+authorize the rcmoual or encroachmen9 and illegal construction in public
+places."
+Hence, it is recommended that the same be approved.
+ATTY.
+A. GALLO, RSW
+OIC-Acting
+City Legal Officer
+Attorney 1V
+Date Approved: February L4,20L9
+otd060 1 - 1 E-dnti-tuf,-o6*nt*ion_2 0 1 9-0009 I _Z - I 4- 1 9
+@tce
+REC
+DAI I
+ffitB
+wtn-aD6B1
+TIME:
+hat r"z
+1-S-TJ
+,t
+l*
+Ldn
+lT1
+r)
+F
+E
+MARY
+o.
+I
+
+--t
+Felrruaff fi,281'l
+02ttt
+S^flft.a E. D$TERTE
+t:ily Mayulity of fiana':
+t
+i.\J.l
+1\*
+ofi
+*
+rr-.J----
+J
+uL|-Uq00oql /.ln
+Furauant t* Suh**.ci*n -l+, kragraph C. SECTION 46H, Sltide firre, Tiile Five,
+Chap{er J, Br*k III anrl SerEr,rn 54 *i Bcd,k I ftegn-rblir Ert ltl+, 7LE0, ofterwise krrr,',ur-r
+x the Lual *v*mntEttt {c-le *f 1911, wE arE furnishing you a c+1ry *f ftesoluticn N*.
+$?.59F18 and Ordin*nre [tlo, 86{11-1S, tc*r SERIES of 2018 cf tl're SanrSguniang
+Ftsnlurrgmd, , for y*ur infannali*n, guir-txrre and appropri** a*io*,
+Vsy Br-rly ?EurE,
+I
+, Ur*i \' {*{
+CHTRIT{} I{" 5f,HEffi
+Secretary to tl-e Sargguniang Parlu*3sori
+{fity Goverxnrent fieprsfiliBxt l-tsai Ii}
+"fiH'ryET'ff'E'ff'
+r[ii 06 20tg
+MABYAruru
+(r:
+CITY
+ll I
+il
+
+!;';srG
+N6
+C(v of Davao
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counci!cr
+Councilor
+Councilor
+Councilor
+Councilor
+tSth City Council
+44th Regular Session
+SERIES of 2018
+PRESENT:
+ABSENT:
+Jimmy G. Dureza
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+- OB- Acting City Mayor
+- On Vacation Leave
+- On Domestic Emergency Leave
+- On Vacation Leave
+- On Vacation Leave
+- OB-Attended the 4th Sino Asia
+Pacific Medical Forum at Royal
+The Mandaya Hotel
+Vice Mayor Bernard E. Al-ag
+Councilor JoanneM. Bonguyan-Quilos
+Councilor Rene Elias C. Lopez
+Councilor Diosdado Angelo A. Mahipus
+Councilor Avegayle Dalodo Ortiz
+Councilor Mary Joselle D. Villafuefte
+ORDINANCE NO. 0601.18
+SERIES of 2018
+AN ORDINANCE PROHIBITING AND PENALIZING ANY
+ACT THAT IMPEDES OR OBSTRUCTS THE FREE FLOW OF
+TRAFFIC ALONG PUBLIC STREETS AND HIGHWAYS,
+sucH As UNAUTHORTZED ROAD CLOSURES, SETTTNG Up
+oF BARRTCADES, STALLING OF VEHTCLES OR OTHER
+SIMILAR ACTS COMMITTED BY AN TNDIVIDUAL OR
+GROUP
+
+I
+Ord. No. 0601-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao city, in session
+aqsembled that:
+SEcTro^N 1. TITLE- This Ordinance shall be known as *THE ANTI-RoAD
+OBSTRUCTION ORDINANCEOF DAVAO CIW'.
+sEcrIoN 2' PURPOSE- This ordinance seeks to preserue peace and order and
+public welfare, primarily for the following reasons:
+a' To prohibit obstruction and other activities along traffic
+chokepoints integral to securing the safety and welfare of the
+public;
+b. To ensure access to transportation between Davao and
+neighboring cities, as well as within city streets and highways;
+c' To minimize the effects of traffic build up which caur"r grave
+public inconvenience to commuters;
+d' To prevent serious and undue inteference of the continuous
+movement of commerce and trade;
+e. To secure the free and uninterrupted flow of medical
+emergency seruices and other basic seruices to the public;
+SECTION 3' PROHIBITED ACTS - It is_ hereby prohibited for any person or
+group to do any act which impedes or obstructs the free flow'of trffii along public streets
+and highways, such as unauthorized road closures, setting up barricades, stalling of vehicles
+or other similar acts.
+sEcrroN 4. ExEMprroNs - The prohibitions shail not cover:
+a' Activities, events or gatherings, authorized by the national or city
+government;
+b' Barriers, blockades or obstructions intended to divert vehicles away from
+road damage, ongoing construction, accidents or emergencies.
+SECTION 5. PENAL PROVISIONS -
+a' Each person violating this ordinance shall be fined in the amount of Five Thousand
+Pesos (P5,000) and/or imprisonment of not more than one (1) year or both, at the
+discretion of the couft.
+b' In the case of organization or corporations, its head, manager, members of the board,
+or persons responsible for the violation shall be charged indlvidually under paragraph A
+of this SECTION.
+SECTION 6.
+_ If a provision of this Ordinance is
+dec]aredinvalidorUnconStit@hereofnotaffectedbysuchdeclaration
+shall continue to be in full force and effect.
+SECTToNT' EFFECTTVTTY- This ordinance shall take effect fifteen (15) days
+after its publication in a newspaper of local or geneiai-circulation and posting in at least two
+(2) conspicuous places in the City of Davao.
+ENACTED, on the 27th day. of November, 2018, by a majority vote of all the
+Members of the Sanggunian present, [here beint u qrorrr.
+
+r
+Ord. No. 0601-18
+CERTIFIED CORRECT:
+,e [),Lrru,6 \^
+CHARITo N.
+Secretary to the
+ng Panlungsod
+(City Government Depaftme nt Head lIl,7
+ATTESTED
+ATTESTED:
+\
+MY G.
+Acting Vice Mayor
+Temporary Presiding Officer
+cns/kjtq
+ATTY. ZU
+T
+City Admini
+-
+APPROVED
+2 7 FEB 2or9
+2018
+City Mayo, S"

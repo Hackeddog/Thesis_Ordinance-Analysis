@@ -1,0 +1,203 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE BUREAU OF PLANT INDUSTRY (BPr) AND THE CrTY OF DAVAO RELATTVE TO THE USE BY THE CITY OF THE PROPERW OF BPI AS SITE FOR THE CITY COLLEGE OF DAVAO I"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000696-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: null
+corpus_year: 2021
+temporal_status: "unresolved"
+confidence_score: 0.0
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/unresolved, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 000696-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE BUREAU OF PLANT INDUSTRY (BPr) AND THE CrTY OF DAVAO RELATTVE TO THE USE BY THE CITY OF THE PROPERW OF BPI AS SITE FOR THE CITY COLLEGE OF DAVAO I
+
+> [!question] Temporal status: unresolved
+> Filed under 2021, resolved to - at confidence 0.00.
+> No conflicting signals recorded.
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **-** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+CiW of Davao
+tgtt'City Council
+32nd Regular Session
+SERIES of 202L
+PRESENT
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Danilo C. Dayanghirang
+- Temporary Presiding Officer
+Sebastian Z. Dutefte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+ORDINANCE NO. 0696.21
+SERIES of 2O2L
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE
+ENTERED INTO BY AND BETWEEN THE BUREAU OF PLANT
+INDUSTRY (BPr) AND THE CrTY OF DAVAO RELATTVE TO THE
+USE BY THE CITY OF THE PROPERW OF BPI AS SITE FOR THE
+CITY COLLEGE OF DAVAO
+I
+
+t
+\
+eagei 2 of 3
+Ord. No. 0696-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA)
+TO BE ENTERED INTO BY AND BETWEEN THE BUREAU OF PLANT INDUSTRY
+(BpI) AND THE CITY OF DAVAO RELATTVE TO THE USE BY THE CrTY OF THE
+PROPERTY OF BPI AS SITE FOR THE CITY COLLEGE OF DAVAO'.
+SECTION 2. DECLARATION OF POLICY - SECTION 22 (a) (5) and (c) and SECTION
+455 (b) (1) (vi) of Republic Act 7L60, othenvise known as the Local Government Code of
+1991 provide that:
+'tSection 22. Corporate Powers.-
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless othenruise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall.
+SECTION 455. Chief Executive; Powers, Duties and Compensation.
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general supervision and control over all programs,
+projects, services, and activities of the city government, and in this
+connection, shall:
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance".
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative authority
+to enter into and sign, the Memorandum of Agreement (MOA) to be entered into by and
+between the Bureau of Plant Industry (BPI) and the City of Davao relative to the use by
+the City of the propefty of BPI as site for the City College of Davao.
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+
+. Page3of3
+Ord. No. 0696-21
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, August 24, 202L, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+, Al^r;
+I
+cHAnffdrh ffiot
+Secretary to the Sanggirniang Panlungsod
+(City Government Depaftment Head I\).,/
+ATTESTED:
+DAN
+HIRANG
+City
+or
+Temporary
+ng Officer
+cns/ray
+APPROVED
+SEP I 6 ;.r;zt 202t
+z DUTERTE
+r CiW l{ayor ?
+TiTTESTED:
+ZULEIKA
+. LOPEZ
+City Admin
+,
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+CTry OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE
+BUREAU OF PI.ANT INDUSTRY (BPi) AND THE CITY OF DAVAO RELATIVE TO THE USE BY THE CiTY OF THE
+PROPERTY OF BPI AS SITE FOR THE CiTY COLLEGE OF DAVAO

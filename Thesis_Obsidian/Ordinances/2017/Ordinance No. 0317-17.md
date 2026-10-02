@@ -1,0 +1,321 @@
+---
+ordinance_number: "0317-17"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION OF PALMA GIL STREET CORNER C. BANGOY STREET UP TO PE1AYO STREET coRNER PALMA GrL STREET ON NOVEMBER 17-19, 20,,7, FROM 4:00 P.M. TO 12 MIDNIGHT; DECEMBER 15-23, 2OL7, FROM 4:00 P.M. TO 12:00 MIDNIGHT AND DECEMBER 26-30, 2Oa7, FROM 4:00 P.M. TO 12 MIDNIGHT, IN CONNECTION WITH THE 3.NIGHT EVENT OF DAVAO FOOD MARKET *KAANDABA"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0317-17.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/along, topic/portion]
+---
+
+# Ordinance No. 0317-17
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION OF PALMA GIL STREET CORNER C. BANGOY STREET UP TO PE1AYO STREET coRNER PALMA GrL STREET ON NOVEMBER 17-19, 20,,7, FROM 4:00 P.M. TO 12 MIDNIGHT; DECEMBER 15-23, 2OL7, FROM 4:00 P.M. TO 12:00 MIDNIGHT AND DECEMBER 26-30, 2Oa7, FROM 4:00 P.M. TO 12 MIDNIGHT, IN CONNECTION WITH THE 3.NIGHT EVENT OF DAVAO FOOD MARKET *KAANDABA
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+TY:
+ttA!*,
+ReBubllc of the Philippines
+OFFTCE .OF THE CTTY MAYOR
+o
+2nd Indorcement
+November 2L,20L7
+Respectfl.tlly returned to the Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlung$d, this City, the herein Apprcved Ordinance No. 0317-17
+SERIES ol 2OL7, relative to the closure of Palma Gil St. in connection with the event of
+Davao Food Market *IGANDABAW", for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant City
+nistrator
+(Administration)
+IWCY#q
+r,
+s)
+f fiu'\-rr
+RE[-E,ASED
+CMO. CRD
+ql:)n h^,,h
+N0v
+LIFE
+IS HERE.
+lvot\
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+@
+a
+I
+
+ATTY.
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. 227-5793 x 225-0183
+Trunk Line No. 241-1000 Loc267
+O0O gt t.t
+Ref. No. 1131-1
+LEGAL OPINION NO. [I/
+SERIES OF 2OI7
+l't INDORSEMENT
+November 15, ZlLl
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance ruo. OgfZ-fZ,
+SETiES Of 2O,7 CNtitICd ,AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG A PORTION OF PALMA GIL STREET CORNER C.
+BANGOY STREET UP TO PEI.AYO STREET CORNER PALMA GIL STREET ON
+NOVEMBER 17-19, 20L7, FROM 4:00 p.M To 12 MIDNIGHT; DECEMBER 1s-23,
+20L7 FROM 4:00 P.M To 12:00 MIDNIGHT AND DECEMBER 26-30, zoLT FRoM
+4:00 P.M To 12 MIDNIGHT, IN coNNECnoN wrrH THE 3-NIGHT EVENT oF
+DAVAO FooD MARKET \I(AANDABAW", informing your end that the same is free
+from legal infirmity citing RA 7160, othenruise known as the Local Government
+Code of 1991, to quote:
+SECTION 21. Closure and Opening of Roads. - (a) A locat
+government unit may, purcuant to an ordinancq permanently or
+temporarily close or open any local roa4 alley, parlt or square fatting
+within iB jurisdiction: Provided, however, That in case of pennaneit
+closure, such ordinance must be approved by at teast two-thirds (2/3)
+of all the memberc of the sanggunian, and when necessary, an
+adequate substitute for the public tacility that is subject to closure is
+prouided.
+xxx
+(c) Any national or local roa4 alley, park, or square may be
+temporarily closed during an actual emergenry, or fiesta celebrations,
+public rallies, agricultural or industrial fairs, or an undertaking of pubtic
+worlcs and highwayg telecommunications, and waterworlcs proj*B, the
+duration of which shall be specified by the local chief executive
+concerned in a written order: Provided, however, That no national or
+local road, alley, park, or square shall be temporarily closed for athletiq
+cultural, or civic activities not officially sponsorcQ reognizeQ or
+approved by the local government unit concerned'i
+Attorney 1V
+Approved by:
+ATTY.OSMUN
+OIC, Asst. City
+Date approved: November L6,20t7 - .:lct oF THE {irrY A3s11g15r*o
+CliY ir't:
+ilCr
+t
+lEcttvEir I
+gb h. vILLANUEvA, JR
+(egal Officer
+oFFl c E n t Jff nflfl,#ffi [ols+RATo
+R
+DAVAoCIW hr/tr_)
+RECEIVED BYI.-
+Oufer- ,,- ffi
+TIMEI..*s
+A. GALLO, RSW
+_E:56.y
+I
+\
+RHCE
+Nov I
+CM
+lA-F
+LF>- tA -77//
+
+City of Davao gp.r
+November 9,20t7
+GA
+*
+SARA Z. DUTERTE
+City Mayor
+Madam
+.<l
+om
+A
+o
+t
+_oo lgt f. K7
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01505-17 and Ordinance No. O3l7-L7, both SERIES of 2017 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+For and in the absence of the Secretary:
+NILDA
+NO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+cns/nta
+Vfi
+EHF
+R H fr"
+t&#
+E
+m
+rtlq - Er-b
+
+18th city Council
+41st Regular Session
+SERIES of 2017
+PRESENT:
+Republic of the Philippirres
+Cty of Davb
+Offic of Ure SANGGUNIANG Panlungsod
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+Bernard E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+- Temporary Presiding Officer
+- Attended the World Travel Mart
+in London
+- On Domestic Emergency Leave
+- On Sick Leave
+- On Vacation Leave
+- On Sick Leave
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT
+ON OFFICIAL BUSINESS:
+Vice Mayor
+Councilor
+Paolo Z. Dutefte
+Al Ryan S. Alejandre
+Joanne M. Bonguyan-Quilos
+Jimmy G. Dureza
+Diosdado Angelo A. Mahipus Sr.
+Marissa P. Salvador-Abella
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. O3L7-L7
+SERIES of 2OL7
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG A PORTION OF PALMA GIL
+STREET CORNER C. BANGOY STREET UP TO PE1AYO STREET
+coRNER PALMA GrL STREET ON NOVEMBER 17-19, 20,,7,
+FROM 4:00 P.M. TO 12 MIDNIGHT; DECEMBER 15-23, 2OL7,
+FROM 4:00 P.M. TO 12:00 MIDNIGHT AND DECEMBER 26-30,
+2Oa7, FROM 4:00 P.M. TO 12 MIDNIGHT, IN CONNECTION
+WITH THE 3.NIGHT EVENT OF DAVAO FOOD MARKET
+*KAANDABAW"
+l ron^a)
+I
+
+Ord. No. 0317-17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION OF
+PALMA GIL STREET CORNER C. BANGOY STREET UP TO PELAYO STREET
+coRNER PALMA GrL STREET oN NOVEMBER t7-19,2oL1, FRQM 4:00 p.M. To
+12 MIDNIGHT; DECEMBER I,5-23, zot7, FROM 4:00 p.M. To t2:00
+MTDNTGHT AND DECEMBER 26-30, 2017, FROM 4:00 p.M. To t2 MTDNIGHT,
+IN CONNECTION WITH THE 3-NIGHT EVENT OF DAVAO FOOD MARKEi
+*KAANDABAW";
+SECTION 2. DECLARATION OF POUCY- SECTION 21 (c) of Republic Act No.
+7L60, otherwise known as the Locar Government code of 1991, provides:
+"Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial
+fairs... ";
+SECTION 3. TEMPORARY CLOSURE- In connection with the "KAANDABAW"
+Davao Night Food Market, a poftion of Palma Gil Street corner C. Bangoy Street up to
+Pelayo Street corner Palma Gil Street shall be temporarily closed to vehicular traffic on
+November l7-t9,20t7, from 4:00 P.M. to 12 Midnight; December 15-23,20!7, from
+4:00 P.M. to 12:00 Midnight; and December 26-30-, z.otl, from 4:00 p.M. to 12:00
+Midnight;
+SECTION 4. SEPARABILITY CLAUSE- If , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect;
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on the 7th day of November, 20t7, by a unanimous vote of all the
+Members of the Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+a,onncxu
+NILDA C. ]IIAGNO
+Acting Secretary to the SANGGUNIANG panlungsod
+(Assistant Secretary to the SANGGUNIANG panlun Ssoil,
+ATTESTED:
+J. MELcfrh. eurrArN ,R.
+/ City Councilor
+Temporary Presiding Officer
+ncm/kjtq
+
+,
+1'1
+I
+t.'
+Ord. No. 03L7-t7
+APPROVED
+Nov I 7 20lr
+20L7
+" city *utfl
+ATTESTED:
+ATTY. ZU
+City Ad
+LOPEZ

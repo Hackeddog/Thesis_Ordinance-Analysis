@@ -1,0 +1,339 @@
+---
+ordinance_number: "0296-20"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF GLOBE TELECOM, INC., THROUGH EFB GEOSTRUKT, INC., FOR ADDITIONAL ALLOWABLE USE FOR THE CONSTRUCTION OF A sO.O.METER HIGH THREE-LEGGED SELF-SUPPORT TOWER IN BARANGAY WANGAN, CALINAN DISTRJCI, THIS CffY\", for your information and appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assistant City (Administration) 716(t pfrlGp ;rlt-tt SEP 302020 AIDE IV "
+date_enacted: "2020-09-18"
+approval_date: "2020-07-07"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0296-20.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/granting, topic/application, topic/globe, topic/telecom, topic/through, topic/geostrukt]
+---
+
+# Ordinance No. 0296-20
+
+> AN ORDINANCE GRANTING THE APPLICATION OF GLOBE TELECOM, INC., THROUGH EFB GEOSTRUKT, INC., FOR ADDITIONAL ALLOWABLE USE FOR THE CONSTRUCTION OF A sO.O.METER HIGH THREE-LEGGED SELF-SUPPORT TOWER IN BARANGAY WANGAN, CALINAN DISTRJCI, THIS CffY", for your information and appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assistant City (Administration) 716(t pfrlGp ;rlt-tt SEP 302020 AIDE IV 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Il1
+OF
+,,i :."
+nepuoticbr fr.,
+CEOFTHE
+ry
+Philippines
+CITYMAYOR
+$Nc
+FI
+$.11;19,6t'
+-,r1",,"
+v\
+rolbi
+Ref. No. CAdO202S02366
+21{D INDORSEMENT
+September 29,2Q20
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 623, SERIES of 2020 dated September
+L7, 2020 from the City Legal Office, relative to the Ordinance No. 0296-20, SERIES of
+2020, entitled, "AN ORDINANCE GRANTING THE APPLICATION OF GLOBE TELECOM,
+INC., THROUGH EFB GEOSTRUKT, INC., FOR ADDITIONAL ALLOWABLE USE FOR THE
+CONSTRUCTION OF A sO.O.METER HIGH THREE-LEGGED SELF-SUPPORT TOWER IN
+BARANGAY WANGAN, CALINAN DISTRJCI, THIS CffY", for your information and
+appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+INGO
+Assistant City
+(Administration)
+716(t
+pfrlGp
+;rlt-tt SEP 302020
+AIDE IV
+cl<trtt
+@r
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.com
+- a2'?at)
+BAF,.',@
+LIFE IS HERE
+DIV
+L
+RE
+Ert
+EAS
+(
+
+NG
+e7;
++
+I
+.facrs !'G
+R II
+lt
+Republic of the Pl'ilippir\es
+City of Dav :
+OFFICE OF THE CITY LEGAL
+Tel. No.298-6970
+Trunk Line No. 241-1000 Lor,267*225*230
+davaocitylegal @gmai l.com
+Ref. No. CLO-2020 -002733
+1ST INDORSEMENT
+September 17, 2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0296-20
+SCT|CS Of 2O2O CNtitICd ''AN ORDINANCE GRANTING THE APPLICATION OF
+GLOBE TELECOM, INC., THROUGH EFB GEOSTRUCKT INC., FOR ADDITIONAL
+ALLOWABLE USE FOR THE CONSTRUCTION OF A 5O.O METER HIGH, THREELEGGED SELF-SUPPORT TOWER IN BARANGAY WANGAN, CALINAN DISTRICT,
+THIS CIfr", informing your end that this office finds no legal infirmity in the
+enactment of the ordinance.
+VIEWED from the foregoing, it is recommended that the Ordinance be
+approved.
+ATTY. MAR
+A. GALLO, RSW
+Acting
+Legal Officer
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA, JR
+OIC-Acting City Legal Officer
+Date approved: September 18,2020
+or.li))96.:0 a[[ort alifc gfolic u,trtgrttt :0:0-00.J;.;.] 9- lS :0
+t't'rli'r'
+0FFI8E 0t
+rJt.rrt e UF rnE rrir
+NMSTE Btr
+2OZo -9z7gq,
+6v
+ftfjfprotr*tto*
+?4.
+r,u)
+CONTACI T:
+0rvtst0N
+ffi,
+D
+MARY
+R
+R
+S
+trate
+21u - t4'7?
+a
+LEGAL OPINION NO.
+SERIES OF 2O2O
+o
+I
+I
+D'tre
+
+September 15, 2020
+t
+IS
+,
+SARA Z. DUTERTE
+City Mayor
+Madam
+h-uu-otsryla p.lqo
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+01269-20 and Ordinance No. 0296-20, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+&,Wr[.k,
+Secretary to the Sangguhiang Panlungsod
+(City Government Department Head II)
+6E{i;.
+({.ffi}
+\M','
+Nr^?;J'
+MARIA EI.E
+tr{A
+vr
+cMo CONIACT
+0t95f2t9702
+sFP I 5 ?020
+C'TY
+DIV
+D
+RECE
+
+6b
+pNc
+September L5,2020
+SAR.A Z. DUTERTE
+City Mayor
+Madam:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+01269-20 and Ordinance No. 0296-20, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+chMri.'k*
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+
+Republic 6f tHe Philippines
+19th City Council
+23'd Regular Session
+SERIES of 2020
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Edgar P. Ibuyan Jr.
+- Temporary presiding Officer
+Sebastian Z. Duterte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+Councilor Jaffar U. Marohomsalic
+- On Special Leave
+ORDINANCE NO. 0296.20
+SERIES ol2O2O
+AN ORDINANCE GRANTING THE APPLICATION OF GLOBE
+TELECOM, rNC., THROUGH EFB GEOSTRUKT INC., FOR
+ADDITIONAL ALLOWABLE USE FOR THE CONSTRUCTION OF A 5O.O
+METER HIGH, THREE-LEGGED SELF.SUPPORT TOWER IN
+BARANGAY WANGAN, CALINAN DISTRICT, THIS CITY
+t
+
+I
+Ord. No. 0296-20
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE APPTICATION OF GLOBE TELECOM, INC., THROUGH EFB
+GEOSTRUKT INC., FOR ADDITIONAL ALLOWABLE USE FOR THE
+CoNSTRUCTTON OF A 50.0 METER HIGH, THREE-LEGGED SELF-SUPPORT
+TOWER IN BARANGAY WANGAN, CALINAN DISTRICT, THIS CITY,.
+SECTION 2. DECLARATION OF POLICY - Article XII, SECTION 1 of the
+Comprehensive Zoning Ordinance of Davao City provides for requests of additional
+allowable use, which reads:
+"The uses enumerated in the preceding articles on general zone and all
+sub-zones are not exhaustive nor all inclusive. The SANGGUNIANG Panlungsod,
+upon application of the project proponent and upon favorable recommendation
+by the Local Zoning Board of Adjustment and Appeals (LZBAA) may atlow other
+uses not enumerated thereunder as it may deem fit and proper including, but
+not limited to, the following projects which are socio-economic and
+environmental significance and/or national interest by a three-fourths (314)
+majority vote of all the Members of the SANGGUNIANG panlungsod through
+resolution and ordinance".
+SECTION 3. APPROVAL OF REqUEST-The request for Additional Allowable Use
+of Globe Telecom, Inc., through EFB Geostrukt, for the construction of a 50.0 meter high,
+three-legged self-suppoft tower at Barangay Wangan, Calinan District, this City, is hereby
+approved.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions thereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+EFFECTTVITY - This ordinance shall take effect immediatery upon
+ENACTED, on the 7th day of July 2020, by three-fourths (314) majority vote of all
+the Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+dtffih.#n--,
+t
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head IJ)_
+EDGAR P
+President Pro Tempore
+Temporary Presiding Officer
+cns/kjtq
+ATTESTED:
+
+.t
+,
+a
+i1
+(
+Ord. No. 0296-20
+qlzs
+APPROVED: 2 slIP 2O2[) ,2O2O
+citv Mav22
+ATTESTED:
+ATTY
+An Ordinance granting the appiication of Globe Telecom, Inc. through EFB Geostrukt, Inc. for Additional Allowable
+Use for the construction of a 50.0 meter high, three-legged self-support tower in Barangay Wangan, Calinan District,
+this City
+T ?
+City

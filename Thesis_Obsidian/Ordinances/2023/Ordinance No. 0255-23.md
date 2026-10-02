@@ -1,0 +1,206 @@
+---
+ordinance_number: "0255-23"
+title: "AN ORDINANCE GRAilTING TEGISTATIVE AUTHORITY TO THE CITY I.IAYOR. TO SIGTI, FOR AilD III BEHALF OF THE CITY oF DAVAO, THE DEED OF SALE TO BE EXECUTED By THE CrTy GOVERNME]IT OF DAVAO, INVOtvIilG THE tOT UNDER THE StU]Ii ITIIPROVEMENT AND RESETTLEMEI{T (SIR) PROJECT OF THE CITY GOVERT{MENT OF DAVAO IN FAVOR OF THE AWARDEE, BERT'IRuo P. PESIDE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0255-23 Deed of Sale, B. Pesidas (2).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/grailting, topic/tegistative, topic/authority, topic/iayor, topic/sigti, topic/aild]
+---
+
+# Ordinance No. 0255-23
+
+> AN ORDINANCE GRAilTING TEGISTATIVE AUTHORITY TO THE CITY I.IAYOR. TO SIGTI, FOR AilD III BEHALF OF THE CITY oF DAVAO, THE DEED OF SALE TO BE EXECUTED By THE CrTy GOVERNME]IT OF DAVAO, INVOtvIilG THE tOT UNDER THE StU]Ii ITIIPROVEMENT AND RESETTLEMEI{T (SIR) PROJECT OF THE CITY GOVERT{MENT OF DAVAO IN FAVOR OF THE AWARDEE, BERT'IRuo P. PESIDE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | - |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Offrce of the SANGGUNIANG Panlungsod
+2oth
+Council
+26r'r Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councik r
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councirbr
+Councilor
+Councilor
+Councilor
+C,ouncilor
+J. Melchor B. Quitain Jr.
+- presiding fficer
+Ftarissa S. Abella
+Luna Maria Dominique S. Acosta
+Bai Hundra C-assandra Dominique N. Advincula
+Bernard E. Al-ag
+A! Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto lavier G. Campos lft
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado ffrgelo Junior R. Mahipus
+Rodolfu M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+$4yrna G. LDa$odo-$tiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Councilor
+Councilor
+Nilo M. Abellera Jr.
+Wilbefto E. Al-ag
+ORDINANCE NO. 0255.23
+SERIES of 2023
+AN ORDINANCE GRAilTING TEGISTATIVE AUTHORITY TO THE
+CITY I.IAYOR. TO SIGTI, FOR AilD III BEHALF OF THE CITY oF
+DAVAO, THE DEED OF SALE TO BE EXECUTED By THE CrTy
+GOVERNME]IT OF DAVAO, INVOtvIilG THE tOT UNDER THE StU]Ii
+ITIIPROVEMENT AND RESETTLEMEI{T (SIR) PROJECT OF THE CITY
+GOVERT{MENT OF DAVAO IN FAVOR OF THE AWARDEE,
+BERT'IRuo P. PESIDE
+
+Ord. No.0255-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. IEE - This Ordinance shall be known as "AN ORDINANCE
+GRI$STI$G LEGtrSIITrVE AUT]|ORITY TO THE CrTy [#tyOR TO SrG*, FOn
+AIID Iil BEHATF OF THE CITY OF DAVAO, THE DEED OF SAIE TO BE
+EXECUTED BY THE CITY GOVERNMENT OF DAVAO, il{VOLVING THE LOT
+UNDER THE SLUM TMPROVEMENT AND RESETTTEMENT (SrR) PROJECT OF
+THE CrTY GOVERNMENT OF DAVAO, rN FAVOR OF THE AWARDEE,
+BER.NAR.DO P, PESIDAS".
+SECTION 2. PERTINE]IT PROIfiSIOilS UNDER THE LOCAT
+GOVERNMEI{T CODE OF 1991 .
+oSection 16. General Welfare. - Every local govemment unit shall
+exencise the powers expressly grantd, those necessarify frrnplied
+therefrom, as well as powers necessary, appropriate, or incidental for
+its efficient and effective governance, and those which are essential to
+the promotion of the general welfare. Within their respective tenitorial
+jurisdictions, local government uniE shall ensure and support, among
+other things, the preseruation and enrichment of culture, promote
+health and safety, enhance the right of the people to a balanced
+ecology, encourage and support the development of appropriate and
+self-reliant scientific and technological capabilities, improve public
+morals, dlarce econrynic pros,pefity and smial jnstice, promote ftd
+employrnent among their residents, maintain peace and order, and
+preserve the comfort and convenience of their inhabitants."
+"SECTION 455. Chief Executive; Fowerc, Duties and Compensation.-
+(a) The city mayor, as chief executive of the city government,
+shall exercise such powerc and perform such duties and
+functions as provided by this Code and other laws.
+(b) For efficient, effective and economical governance the
+' purpose of whkh is the general welfare of the cfi and: its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shal!:
+(1) Exercise general superuision and control over all
+programs, projects, services, and activities of the €ity
+government and in this connection shall:
+(vi) Represent the city in all its business transactions and
+sign in its behalf all bonds, contracts, and obligations, and
+such other documents upon authority of the SANGGUNIANG
+Panlungsod or pursuant to law or ordinance."
+SECTION 3. COVERAGE - This Ordinance shall cover the grant of the
+legislative authority to the City Mayor to sign, for and in behalf of the City of Davao,
+the Deed of Sale to be e><ecuted by the City Government of Davao, involving the lot
+under the Slum Improvement and Resettlement (SIR) Project of the City Government
+of Davao, in favor of the awardee, Bemardo P. Pesidas.
+
+i
+Ord. No.0255-23
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof which are not affected thereby, shall conUnue to be in full furce
+and effect.
+SECTIOII 5.
+upon approval.
+- This Ordinance shall take effect immediately
+EilACTED, on the 11h day of July 2023, by a unanimous vote of all the
+Memberc of the Sanggunian, there being a quorum.
+CERTIFIED GORRECT:
+For and in the absence of the Secretary:
+]iA. THER =K*N="
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)^r
+ATTESTED:
+ATTESTED:
+,J
+I. MELCFOR B. QUtTAIil JR.
+y'Yice Mayor
+Presiding fficer
+cns/ray
+sEP 0 6 208
+APPROVED:
+202?
+Z. DUTERTE
+*avy (
+H. LAYOG
+Acting
+AN ORDINANCE GRANTING LEGIS1ATIVE AUTHORITY TO THE CIW MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE DEED OF SALE TO BE EGCUTED BY THE CITY
+GOVERNMENT OF DAVAO, INVOLVING THE LOT UNDER TI.IE SLUM IMPROVEMENT AND
+ATTY.
+RESETTI-fMENT (SrR) PROJECT OF THE CrrY GOVERNMET,TT OF DAVAO, IN FAVOR OF THE AWARDEE,
+BERNARDO P. PESIDAS

@@ -1,0 +1,271 @@
+---
+ordinance_number: "0423-18"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG SAN PEDRO, CORNER CROOKED ROAD AND BOLTON STREET ON MARCH 16, 2018 AT 8:00 P.M. (IIANE ONLY); MARCH t7,2OL8 FROM 4:00 p.M. TO 1:00 A.M. OF MARCH 18, 2018, IN LINBE wrTH THE ARAW NG DAVAo STREET pARTy,,, with the information that no executive action is needed on the matter since the activfi is already finished; thereby rendering the"
+date_enacted: null
+approval_date: "2018-03-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0423-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/temporary, topic/closure, topic/vehicui, topic/traffic, topic/along, topic/pedro]
+---
+
+# Ordinance No. 0423-18
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG SAN PEDRO, CORNER CROOKED ROAD AND BOLTON STREET ON MARCH 16, 2018 AT 8:00 P.M. (IIANE ONLY); MARCH t7,2OL8 FROM 4:00 p.M. TO 1:00 A.M. OF MARCH 18, 2018, IN LINBE wrTH THE ARAW NG DAVAo STREET pARTy,,, with the information that no executive action is needed on the matter since the activfi is already finished; thereby rendering the
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+I.
+J OFFTCE OF THE CTTYMAYOR
+.$adsre,,r
+,
+I
+O
+REGEI}fHD
+Ref No CAdO 2018-04015
+a
+OF rraran
+2,,d IilDORSEMEilT
+April2,2018
+Respectfrrlly returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this city, the attached oRDINANCE No. (n2g-tg, SERIES OF 2018;
+CNtitICd ..AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC
+ALONG SAN PEDRO, CORNER CROOKED ROAD AND BOLTON STREET ON MARCH 16,
+2018 AT 8:00 P.M. (IIANE ONLY); MARCH t7,2OL8 FROM 4:00 p.M. TO 1:00 A.M. OF
+MARCH 18, 2018, IN LINBE wrTH THE ARAW NG DAVAo STREET pARTy,,, with the
+information that no executive action is needed on the matter since the activfi is already
+finished; thereby rendering the ordinance moot, for your appropriate action.
+For the City Mayor:
+ATTY.
+. DOMINGO
+(Administration)
+6Y:
+tWtury
+'/-/r
+ED
+R E L E A S
+/:,El
+Elqnnk
+Second Floor, City Hall Building, City Hal! Drive, San Pedro St., Davao
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail
+pAw @
+D
+City
+com'
+LIFE
+IS HERE
+1l
+a
+
+'
+OFFICE OF THE CITY TEGAL OFFICER
+Tel. No. 298-6970 * 225-0183
+Trunk Line No. 241-1000 Loc267
+o0o
+Ref. No. r131-18-0057
+LEGAL OPINION NO.
+l't INDORSEMENT
+March 22,20L8
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance ruo. O+23-tg,
+SERIES of 2018 entitled '?N 0RDINANCE FoR THE TEMpoRARy CL0SURE To
+VEHICUI.AR TRAFFIC THE STREET ALONG SAN PEDRO, CORNER CROOKED
+ROAD AND BoLToN STREET oN MARCH 16, 2018 AT 8:00 p.M. (II-ANE oNLy);
+MARCH L7,2al8 FR0M 4:00 P.M. To 1:00 A.M. oF MARCH 18,2018, IN LINE
+WITH THE ARAW NG DAVAO STREET PARTY'; informing that the activity had
+been done, thereby rendering the measure moot. Hence, it is recommended that
+no executive action be taken on the matter.
+It/(,
+N^ilATTY, MARLMA A, GALLO, RSW
+Acting Asst. Cify Legal Officer
+Approved by:
+ATTY. OSMU
+OIC-Asst. City
+P. VTLIANUEVAy tR
+I Officer
+Date approved: March 22, ZALB
+i ru{- o r&Ll 2.} - t t} _t{osu ry_il n:etparty I ;i - tX) -5 7
+@[ce
+.- ,31^. i? lur nttv .nif?ilfs?e616r
+ttdtrrs. .ri.
+a
+L M
+tb
+CFTD
+f;
+ffi
+r
+"c, ffi I V tr D
+fr^7h
+IA-F
+1cleA-ra
+
+zs
+OFFICE OF THE SANGGUNIANG PANLTNCSOO
+ncm/psm
+March 15, 2018
+t?Krg, - ty?
+SARA Z. DUTERTE
+City Mayor
+Madam
+Wsaosl- p.xn
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenvise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 01958-18 and Ordinance No. 0423-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, for your information, guidance, and appropriate action.
+A
+Or
+*
+Very truly yours,
+nilt.*tn
+NILDA C. MAGNO
+Assistant Secretary to the SANGGUNIANG Panlungsod
+RECf;'V
+Civ(O - CttD
+ED
+tb
+
+Z.
+iI
+tli
+(b *o
+, , Republic of the Philippirres
+,
+Gty of Davao
+tafr city cor.ncil
+m"i#au-Ld.l
+Serles of UO18
+PRESET{T:
+Yrce ilry Bernrd e. il-ag
+Courihr Hilo ltl. Abellera Jr.
+f-oun€iltr iltria Bden S. Affictl
+Corficlhr lficfioffi U. Addm& Jr
+Cfl{Eihr Al Rffrr S. fdeiade
+Cormdhr ffite L fposel Sr.
+Cqrrcihr Cmrado C. B*.ran
+Cowrcihr ?fa. Ctury Affr tlt. Songuf{t
+Cowrihr Pilr C. BragB
+Cowrcilr Jtrmf G. Breua
+Corficihr Edgr P. Ibuyan Jr.
+Conmcihr Ldr A. lJrado-Yap
+Councihr RrrE Elias C. lrpftr
+Cornrcihr Av€gE& Ododo Ortr
+Co{fidbr lntofixtte C. Frtrc$*Cffiodes
+Councihr l, lteldnr B. Q^*tahJr.
+Cqrncihr t{rissa P. S*mdor-thdh
+Counciltr Haftla Y. Stdagr
+OFFICIAL ilISIIIESS:
+Cdncihr Oilflo C. Oafagil*rang
+Cqmcihr fpril F|aie C. Dry+
+Colncih Jarruilf tl. Duffi
+Cotrrrcilor Ditrdado fngeh f. lfahinrs $.
+Cnrncihr l{ary lcdle D. Yilffircrte
+AEETIT:
+C-usrilr loaure tl. 8otgryffi{Uihc
+Cofficlhr Sonlfach E. ililltar
+Cotrrcihr Jests J€Eeph P. Zor*ado Itr
+- REddng Offis
+- ffiended th€ Haming Sessforr
+flr FCL-I.* ltlafierE il rcL
+Cerftr& ilor*d, Lee Hnasfitf
+- fffimdd tfte lrHndimd
+$tortent Uaf Corfrrrne h
+Wa$fiton, BC, US*
+- AtlenH the Isr gnrtulf
+tlee{iq of Oanao Crtf f.ormcil
+fur the Wdfare d Ctrikten
+{clr}r}
+ftEded SE Stalefnfi{efls
+iieefirg of \fdstce & Inirf
+hurtr*ion Progfam
+- On ilaEnitf t€firre
+- otr Skt Lenre
+- On Omstk Energencf tEtE
+oRIHilfrtCE ilo. OttEhlS
+Sldcs of Anfs
+*il onIlIIrtItG FOnnE TEHprORtny CUIsIrc TOVEHICtn.*ft
+rnrffIc TnE STREET tIIlilG Stil pEmo, Ot!*ItER Gf,OOTED
+ROtrI rnD BOLIOL STREET Olt ltAnclt rqr ilil8 AT 8fi p-It,
+{1I.AI{E ffiLY} tllR€H 17, 2I}13 FROI| rlil P-H- fO 1fi t t
+of il/utcH s, a}18,. Iil tfltc IUfrH rtE tnrw ilG trrvto
+SINEET P*NTT
+
+Fage 2 of 3
+Ord. No.0423-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao Crty in session
+asssnbld thaE
+SEgIIOil L ET["E.- Thb Ordinane *rell be knor+n x *lt ORDIIlttCE Hn
+THE TEIIFSRMY €LOTil'E TT} UEHI(I'I..IR TRIffIC T}tr SIREET ilJT}TG SIT
+pEDRO, trIRItER €ftfir(ED RtrD rf,I) BOLTOT STREETOX HtRtll lQ 2Ot8
+iT E:OO P,rl. (1L[I|E OilLY] filR€H 17, mf8 mOH {:OO P.Hr. TO l$lt *.}t
+OF l,llRCH t& !0t8r. Iil UIilE lIrrH TllE tRlIT llG DiYtO $IreET Plf;Tf;
+SEIETIOfI L DECLIRfiTIOil OF P'Otrct - S€dion 21 tc] d Reprblic Art
+7160, adte*Hise hrasrn m the l-ocal Gover*srent Code d 1991, pwides that "any
+national or local rod, allsy, park or sguare may be Emporarih dd during an actsl
+erlrergieficf or fieda #atllns, puHk rallies, agricultural or indrctrhl fairs';
+SEgIIOll 3. TEIIP(I*IRY CLOEIIRE.- The strcet along San tudro mrner
+Crmked Rod ard B*sr *eet shall be temporarilf chd to 'r*ifflar traffic on ltlardr
+16, 201S at 8:00 P.Fl. (1 hne onh); l'hrdr 17, frorn 4:tl0 P.ltl. tD tlardt 18. 2018 1:00
+A.l,l. as requesGd bf *lc fity Tourisrn Ogatbns OmG fine with $e Arau, ng Drao
+Sbeet PaGf
+SEgIIOll 4. SEPIRIELITY C.L[US[.- If fur aily rea6on, ifff sedi:n or
+prwisiln of thb &dinane is dedared unonsttutifital or intralil, dler seEtiilE tr
+provisbns tusf not aft&d bf $rdt dedaratix shall s{ttlnue b be in full fu,re ard
+eftct;
+SECIIOil S, EffEgIgEg.- Thb Ordinance shall tekp etre{t imrnediatdy upon
+apprwal;
+EHICIEDT on tlrc SF daf of I'lardr, 201S, by a unanfunrxs rnb €'F all the
+Menrberc of the Sanggunian, there beirq a quorum.
+CETNFIED CffiECT:
+For and in the absene of Ble Secr&ry:
+M
+Acting Secretary b &e Sarygunhng Panlurqsd
+(Asst Secrefiary ts *re Sanggunhng Fanlungd)
+ATTESTED:
+YE
+Presiding ffier
+ncmfidg
+;111?
+! rsi
+
+Ord. No. Gl23-18
+AFPffiYEDT___.._* 2Ol8
+ST**L IX'TEETE
+fitf ltryr
+ATTESTED:
+*TTT. ZULEII(* T. TJOTE:T
+City AdminisBatsr

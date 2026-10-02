@@ -1,0 +1,316 @@
+---
+ordinance_number: "082-16"
+title: "AN ORDINANCE GRAIINNG LEGISLANVE AUTHORITY TO THE CITY MAYOR TO ENITER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE NATIONAL FOOD AUTHORITY (NFA) FOR THE NFA PROVINCIAL OFFICE TO SELL RICE ON CREDIT TO THE FORMER, FOR RELIEF DISTRIBUTION OPERATIONS IN TIMES OF CAI-AMffiES, duly s"
+date_enacted: null
+approval_date: "2016-11-25"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 082-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.33
+detected_enactment_year: 1991.0
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/graiinng, topic/legislanve, topic/authority, topic/mayor, topic/eniter, topic/sign]
+---
+
+# Ordinance No. 082-16
+
+> AN ORDINANCE GRAIINNG LEGISLANVE AUTHORITY TO THE CITY MAYOR TO ENITER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE NATIONAL FOOD AUTHORITY (NFA) FOR THE NFA PROVINCIAL OFFICE TO SELL RICE ON CREDIT TO THE FORMER, FOR RELIEF DISTRIBUTION OPERATIONS IN TIMES OF CAI-AMffiES, duly s
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 1991 |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 19,470 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2016\Ordinance No. 082-16.txt`*
+
+Republic of the PhiliPr,ines
+cl?, cl Dtvro
+18h City council
+14h Regular Scssion
+SERIES of 2016
+PRESENT
+AESENT
+Councllo(
+Vice Mayor
+Councihr
+Counclbr
+Counclbr
+Counclbr
+Councilor
+Councilor
+Councibr
+Councibr
+Councibr
+Councllor
+Councllor
+Counclbr
+Councibr
+Councilor
+Councibr
+Councibr
+Councilor
+Councihr
+Counclhr
+Counclbr
+Councibr
+Councllor
+Leah A. Libndo-Yap
+Anblneth G. Pdnclpetasbodes
+Joanne M. BonguyanQuibs
+Rene Elhs C. Lopez
+Marbsa P. Salvador-Abelh
+- Tempor:ary PresHirg Offirr
+- Attended a Consuftation on tre
+Release of Politbal Prboners
+- Athnded a Polky Forum on
+Empbyrnent and Sfttlb Sfatqy
+- On Sick Leave
+- On Vacatbn Leaye
+- On Vacation Leave
+Danb L. Aposbl Sr.
+Paolo Z. DuErte
+Nib M. Abellera Jr.
+Matu Eelen S. Affih
+Vlctorio U, Advlncuh Jr.
+Bemard E. Al-ag
+Al Ryan 5, Alejandre
+Conrado C. Baluran
+Ma. Cheny Ann M. Bonguyan
+Pihr C, Braga
+Danib C. Dayanghirarg
+Apdl Marle C. Dayap
+Jlmrny G. Dureza
+January N. DrlErte
+ftgar P. Ibuyan Jr.
+Diocdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dabdo Ortiz
+J. Mekhor B, Quibin Jr.
+Halih Y. Sudagar
+Mary Joselh D. Vlllafuede
+Jesus Jo6eph P, Zozobrado III
+Councibr
+Councibr
+Councilor
+oRDII{ANCE t{O. 08}16
+Serics of 2Ot6
+A'I ORDIN'IIEE GRA,ITTING T.EGISI-ATTVE AUTHORITY TO THE
+cITy MAyoR To EI{TER IIyTO AND SIGII, FOR AND IN BEHALF
+oF TltE cITy covRNMEt{T oF DAVAO, IHE MEMORAilDUM OF
+AGR,EEMETTT TO BE ETTERE) II{TO BY ruU AETVTTCN THE CITY
+GOI'ERNMENT OF DAVAO ATb IHE NATIOITIAL FOOD
+AUTHORTW (t{FA) FOR IHE HFA PROVINCIAL OFFTCE TO SEll_
+RICE ON CREDIT TO TIC FORIT,|E& FOR RELIEF DISTRIBUTIOil
+OPER.ATIOI{S IT TIMES OF CATAMiTIES
+ON OFFICIAL BI,EINESS:
+
+Page 2 of3
+Ord. No. 082-16
+Be it ordained by he SANGGUNIANG hnlungsod of Dava City in sesion
+assembled that:
+SECTIOI 1. TITLE - This Ordinance shall be knorun a'AIl ORDIilAllCE
+GRAIITI]IG I,.BGISLATIYE AUTHORITY TO THE CITY I,IAYOR TO ETITER ITITO
+AIID SIGll, FOR AIID lll BEHAtf OF THE CITY GOYERIII,IELT OF DAYAO, THE
+}IEiIORATIDU}I OF AGREE}IEIIT TO BE ETITERED ITITO BY A]ID BETWEEX IHE
+crTY GOYERtlr,tEltT OF DAVAO AflD THE ilATIOilAL FOOD AUIHORTTY ([FA)
+FOR THE TIFA PROYIIIGIAI OFFIGE TO SELL RICE OlI CRIDIT TO THE
+FOR.IIE& FOR REUEF DISTRIBUTIOTI OPERATIOTS I1I TIHES OF
+GAIIIIIITIES.;
+SECTIOII 2. DECLAR IIOII OF FOLICY - Paragraph b (1) (vi), SECTION 455,
+of the Local Govemment Code of 1991, provide :
+"For efficient, €ftctiye and econornical govemance $e purposa of
+which is the general rr'relfare of the dty and its inhabitanE purcuant b
+SECTION 16 of $ie Code, tfie city mayor ehall reprent the city in all its
+business transetbns and sign in its behalf all bonds, conbacts, and
+obligations, and such other docunrenE upon authority ofthe eangguniang
+panlungsod or purcUant to law or odinance"l
+SECrIOI 3. AUI]IORITV - The City Mayor is hereby granted lqidative
+authority to sign, br and in behalf of the City Covemment of Dava, the Memorandum
+of Agreement to be enErcd into by and behreen dre Crty Govemrnent of Davao and
+the National Food Authority (NFA) 6r the NFA Provincial Office b sdl rice on credit to
+the brmer, for Relief Disbibution Operations in times of calamities;
+SECTIOII 4. SEPARABIUW CLAUSE - If br any reilson, any SECTION or
+provision of this Ordinance is declared unconstihrtional or invalid, odrer sections or
+provisions hereof not affecd by such declaration shall continue to be in full force and
+effect;
+sEcTrolt 5.
+approval;
+EFFECTMW - This Ordinance shall take effect immdiatdy upon
+ETIACTED, Ocbber LL, 20L6, by a majority vob of all $e Members of the
+Sanggunian present there bdng a quorum.
+CERTIFIED CORRECT:
+For and in the absence ofthe Secretary:
+-^pyTWO^
+TIII'AC. HreilO
+Acting ScreHy b the Saqguniang Panlungsod
+(Assistant Secretary to the SANGGUNIANG Fanlungsod \,,I
+
+\-,f
+ATTESTED:
+ATTESTED:
+Temporary presiding Offi cer
+cns/cld
+fl't tvt,
+Page 3 of3
+Ord, No, 082-16
+APPROVED: nEe 0 ? ?016 ,101G
+Citt Mayfl
+z.
+ATTY. ZUI.EIKA T. TOPEZ
+City Administrabr
+
+MEMORANiDUM OF AGREEMENT
+2016 at
+The NATIONAL FOOD AI-I'THORfTY NFA), an agency of the govemment, created
+pursuant to PD No. 4, as amended by PD r.r"o. 1485 and PD No. 1770, with principal place ol
+business at 5Ll, Sta. Ana Avenue, Davao City, r'epresented by its Provincial llIanager,
+VIRGILIO B. ALERTA, hereinafter refened to as NFA;
+The CIT"Y GOVERI\MENT OF DAVAO, a local government unit with principal place of
+business at City Hail of Davao, City Hall Drive. Davao Cit_v represented by its Mayor,
+SARA Z. DUTERTE-CARPIO. hereinafter referred to as the Citv Covemment.
+WITNESSETH
+\[1I[,RDAS, NFA is the govemment agency charged with, among others, ensuring the nation
+with adequate supply and distribution ofgrains;
+WHEREAS, under the Local Governnrent Code, local governnrent units have been vested tlie
+authority to discharge the functions and responsibilities of national agencies and offices
+devoted to theml
+WHEREAS, the Local Government Units are authorized to set aside five percent (5%) of
+their estirnated revenue from regular sources as an annual lump sum appropriation for
+unlbreseen expenditures arising liom occurrence oicalamities (Calamity Fund);
+WHEREAS, the NFA, cognizant of the need of the people in times of emergency/calamity,
+hzu agreed to the request of the City Cr.rvemment;
+NOW, THEREFORE, for and in consideration of the foregoing, the parties hereto hereby
+agree as tbllows:
+I. OBLIGATION OT NFA
+A. The NFA Provincial OIfice shall sell rice on credit to the City Govemment for relief
+distribution operations caused by natural calamities upon approval of the Provincial
+Ivlanager/Officer-In-Charge of the requested rice loan based on the following circumstances
+and upon subnrission by LGUs ofthe complete documents, as follows:
+l. Proclamation of State of Calamity
+2. Formal rvritten request from the City Mayor indicating therein the quantity and
+quaiity ofrice to be purchased;
+qv
+This Agreement is made and entered into this _
+day of
+Davatl City, Philippines. by and berween:
+q
+
+3. Approved resolution of the SANGGUNIANG Panglungsod authorizing the Citv
+Government through the City Mayor to purchase rice on credit from the NFA
+comnritting their Calar,ity Fund to answer for any unpaid obligations to NFA;
+4. Rice Loan Memorandum of A$eement;
+5. RIV duly signed by the City Mayor:
+6. Purchase Order (PO) duly signed by the City N{ayor;
+7. Certification from the Local Govemment on the number and location of families
+needing assistance;
+8. Certification as to available calanrity fund duly sigred by the Treasurer ofthe City
+Govemment;
+B. The quantity of rice to be sold under this rice loan agreerrrent shall be based on the formal
+request as well as the purchase order duly signed by the City Mayor. NFA, however,
+reserved the right to allocate the quantity of rice needed in the calamity area depending upon
+NFA's stock inventory.
+C. The price ofrice shall be at the NFA's Consumer Price based on the existing Selling Price
+Bulletin.
+D. The NFA designated warehouse/s shall issue to authorized representative/s ofLGUs upon
+receipt of the Authority to issue f'rom the Provincial lvlanager/Otlcer-In-Charge.
+E. NFA shall use the Authority to Issue (AI) and the Warehouse Stock Issue (WSI) in
+docurnenting rice issuance to the City Govemment and shall retain original copy olWSl for
+biiling purposes.
+F. The NFA Provincial Office shall bill the City Govemment for the actual issuances made to
+the latter within five (5) working days counted from the date of the last withdrawal as
+indicated in the Warehouse Stock Issue (WSI).
+II. OBI,IGATION OF THE CITY GOVERNMENT
+A, Whenever the City Covernme t desires to purchase rice on credit from NIA for relief
+operations, the City Govemment will submit to the NFA Provincial Office the documents
+enumerated under Par. i, SECTION A.
+B. The SANGGUNIANG Panglungsod shall approve/pass a resolution authorizing the City
+Government through the City Mayor to purchase rice on credit from the NFA and committing
+their estimated revenue from regular sources (Calamiry Fund).
+C. tlpon signing of this Rice [,oan Agreement, the City Government shall submit a list of its
+representative/s authorized to withdraw stocks from NFA together with their piotures and
+specimen signatures. No other person shall be allowed to withdraw and to sign the NFA
+documents on behallof the City Govemment on behalf of the City Govemment except those
+included in the list. Said list, hr-rwever, rnay be amended through written notice from the City
+Covernment prior to any withdrawal of stocks.
+D. The City Government undertakes to withdraw all stocks within fifteen (15) working days
+reckoned fronr date of receipt of Authority to Issue (AI) from the Provincial Office. The
+1\
+'--l
+
+entire quant;ty indicated in the AI or a portion thereof that remains unwithdrawn after the
+prescribed l5-day withdrawal period shall be deemed canceiled.
+III. SPECIAL PROVISIONS
+A. Ricc purchascd on crcdit undcr this Agrccmcnt shall not bc uscd for any purposc othcr
+than as intended. NFA reserves the right to inspect the LGU's warehouse/s and/or
+distribution/relief operation centcrs to dctennine compliance with this Agreernent.
+B. The NFA shall not be under obligation to issue rice if the City Government has an unpaid
+account. ln the event another disaster/calamity occurs. additional credit may be allowed
+provided it shall not exceed the remaining available Caiamity Fund of the LGUs. in this
+case, a certification as to the remaining available Calamity Fund from the Treasurer of the
+Ciqv Goverrunent shall be required by the NFA Provincial Office to serve as basis in the
+'romputation of rice equivalent.
+C. The weighVquantity/quality of stocks as received and acknowledged by the City
+Covemment authorized representative/s on NFA olficial documents shall be final and
+binding and shall be the basis for billing and reconciliatiori.
+D. NFA shall not issue subsequent Authority to Issue (AI) unless all stocks covered by
+preceding AIs have been fully served/withdrawn.
+IV. OTHER CONDITIONS
+A. Should NFA be constrained to resoit to court action to enforce or satbguard its iights and
+interest under this Agreement, the City Govemment shall be liable to NFA for aftorney's fees
+in an amount equivalent to twenty percent (20%) of total claims, exclusive of interest,
+damages, and expenses for Iitigation.
+B. The terms and conditions of this Agreement may be changed, modified, or additional
+stipulation may be added upon mutual agreement in writing by the parties. Any
+suppleurentary agreement sliall fontr an integal part ofthis Agrcelnent and shall describe and
+specifically refer to the particular provision of this Agreement which is being changed,
+modified. or superseded.
+C. It is clearly understood that failure of NFA to demand compliance with any of the terms
+and conditions of this Agreetnent of any act liberality shall not be construed or considered as
+a w'aiver on the part olthe i.,*FA olthe enlbrcement of this Agreement nor shall it relieve the
+Citv Government of its obligations provided hereunder.
+V. DI.]RATION
+This Agreement shall be eflbctive
+aUtu Sltalr uc var tu
+and binding for a period ofthree (3) years. No extension or renewal of this Agreement shall
+be valid and binding without the written consent olboth parties.
+1,
+?
+
+Either party, however, may terminate this Agreement without need of judicial action and
+without preludice to any right to damages in the event that there is a breach of confact
+couiruitted by either parties by giving a thirty (30) days prior notice thereol setting ihe reason
+or ground relied upon, particularly specirying the breach complained of. Upon such
+tennination, the City Government shall settle its accountabili[ies with the NFA and any
+overdue and unpaid account shall be subject to a penalty as provided under herein.
+YI. \'EIIUE
+The parties agree that in case of litigation, the venue of action for any cause or cauies of
+action that may arise from this Agreement shall be exclusively laid in the proper courts of
+only.
+fN WITNESS WEREOF, the parties have hereunto affixed 

@@ -1,0 +1,372 @@
+---
+ordinance_number: "0628-18"
+title: "AN ORDINANCE MAINSTREAMING, PROMOTING AND INSTTruTIONALIZING PERMEABLE PAVEMENT SYSTEM IN DAVAO CITY AND FOR OTHER PURPOSES\", for your information and appropriate action. For the City Mayor: ATTY. DOMINGO Assistant (Administration) 62+71 o RHGEiVHffi *, f,lc - * lb ? RELE,qSED 61vea) 1'.3tr l7 RD 32,-).r LIFE IS HERE Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City (082"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0628-18.pdf"
+section_count: 13
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.85
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/mainstreaming, topic/promoting, topic/insttrutionalizing, topic/permeable, topic/pavement, topic/system]
+---
+
+# Ordinance No. 0628-18
+
+> AN ORDINANCE MAINSTREAMING, PROMOTING AND INSTTruTIONALIZING PERMEABLE PAVEMENT SYSTEM IN DAVAO CITY AND FOR OTHER PURPOSES", for your information and appropriate action. For the City Mayor: ATTY. DOMINGO Assistant (Administration) 62+71 o RHGEiVHffi *, f,lc - * lb ? RELE,qSED 61vea) 1'.3tr l7 RD 32,-).r LIFE IS HERE Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City (082
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2021 |
+| **Resolved** | **2018** |
+
+## Cites or amends
+
+- [[Ordinance No. 0528-18]]
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,910 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2018\Ordinance No. 0628-18.txt`*
+
+Ref. No. CAdO-2021-03077
+18-zl
+al
+2ilD INDORSEMENT
+November L5,2021
+Respectfully returned to Ms, Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 1055, SERIES of 202t dated October
+20, 202L from the City Legal Office, relative to the attached Ordinance No. 0628-18,
+SERIES of 2018 entitled, *AN ORDINANCE MAINSTREAMING, PROMOTING AND
+INSTTruTIONALIZING PERMEABLE PAVEMENT SYSTEM IN DAVAO CITY AND FOR
+OTHER PURPOSES", for your information and appropriate action.
+For the City Mayor:
+ATTY.
+DOMINGO
+Assistant
+(Administration)
+62+71
+o
+RHGEiVHffi
+*, f,lc -
+*
+lb
+?
+RELE,qSED
+61vea) 1'.3tr
+l7
+RD 32,-).r
+LIFE IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.com
+,1o!t
+BF%Y,*'@
+Republic of the Phi
+OFFICE OF THE CITY MAYOR
+o
+hpplnes
+
+Republic of the Philippines , v
+OFFICE OF THE%ffi,iIGAt O
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc267*225*23A
+clo@davaocity.gov.ph
+Ref. No. CLO-2021-3497
+LEGAL OPINION No. JNt/
+SERIES OF 2A2L
+ORDINANCE NO. 0628-18, SERIES of 2018 entitled " AN
+ORDINANCE MAINSTREAMING, PROMOTING AND
+INSTITUTIONALIZING PERMEABLE PAVEMENT
+SYSTEM IN DAVAO CITY AND FOR OTHER PURPOSES"
+1St INDORSEMENT
+October 20,202I
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance, with the following
+comments and recommendation to wit:
+Ordinance No. 0628-18 was enacted on December L2,2018, but it was
+only forwarded and presented to the Chief Executive and to this office for legal
+opinion on October L5,202L However, notwithstanding the delay, this office is
+of the view that the ordinance cannot be considered as deemed approved and
+signed since it was never forwarded to the executive department in the first
+place.
+On the other hand, the enactment of the subject ordinance is free from
+legal infirmity, citing SECTION a58 (a) (5) (v) of Republic Act 7L6A, otherwise
+known as the Local Government Code of 1991, to wit:
+SECTTON, 458, - Powerc, Duties, Fundions and
+Compnstrbn. - @) fhe SANGGUNIANG Panlungsod, as the legislative
+body of the cifu shall enad ordinances, approve resolutions and
+appropriate funds for the general welfarc of the city and its inhabitants
+purcuant to SECTION 16 of this Code and in the proper exercise of the
+corporate powers of the city as provided for under SECTION 22 of this Code,
+and shall:
+Xn(
+(5) Approve ordinances which shall ensure the efficient and
+effedive delivery of the basic seruices and facilities as provided for under
+SECTION 17 of this Codq and in addition to said seruices and facilities,
+shall:
+)ffi(
+(u) Regulate the use of streets, avenues allevs sidewalQbridges,
+park and other public places and aoprove the construdion improvement,
+repair and maintenance of the same; establish bus and vehicle stops and
+terminals or regulate the use of the same by privately-owned vehicles
+which serue the public; regulate garages and the operation of
+conveyances for hire; designate stands to be occupied by public vehicles
+when not in usel regulate the putting up of signs, signposts, awnings and
+awning posb on the streeB; and provide for the lighting cleaning and
+sprinkling of streeb and public places; (emphasis supplied)
+'ge
+Lll)
+3U
+
+r
+I
+e
+,
+On the same vein, the grant of subsidies and tax rebates provided under
+SECTION 7 of the subject ordinance is likewise within the powers of the
+SANGGUNIANG Panlusod as enunciated under SECTION 192 of Republic Act 7160 of
+the same code, to wit:
+SECTION 192. Authority to Grant Tax Exemption Privileges. - Local
+government units may, through ordinances duly approved, grant tax
+exemptiong incentives or reliefs under such terms and conditions, as
+they may deem necessary.
+Be that as it may,
+VIEWED FROM THE FOREGOING, this office recommends the approval of
+the subject ordinance.
+RESPECTFULLY SUBMITTED.
+ATTY. OSMUN
+P. VILLANUEVA, IR
+Asst. City Legal Officer
+Officer-In-Charged
+Date of approval: October 20,202L
+$HCE 0r ITlE 6il
+Hfttl
+CITT
+dw\
+Drrt ocI zs 204
+-'eea\
+- OaO-r1
+
+/'q
+{
+\
+-Dqg-!:€s_
+Cl\ar"i CEp ^"
+October 14,2021 RESfiEV HIi
+SARA Z. DUTERTE
+City Mayor
+Madam:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Atticle One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I of Republic Act No. 7160, otherwise
+known as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02859-18 and Ordinance No. 0528-18 both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, entitted "An Ordinance Mainstreaming, Promoting and
+Institutionalizing Permeable Pavement System in Davao City and for other purposes,"
+for your informatior; gutdanceand appropriate actionVery truly yours,
+CTIARITO IU SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II\
+ForurdtnBenall
+'f.l:},I'ilE*ilSA
+tsst 4-q - ,\.'c
+rn f\!
+tu*-r,
+!,8
+R*ES
+
+Republic of thoPhilippines v
+18th City Council
+47th Regular Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joann M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera Jr.
+Pilar C. Braga
+Danilo C. Dayanghirang
+Presiding Officer
+- On Official Business
+- On Domestic Emergency Leave
+- On Official Business
+prry
+ORDINANCE NO. 0628.18
+SERIES of 2018
+AN ORDINANCE MAINSTREAMING, PROMOTING AND
+INSTITUTIONALIZING PERMEABLE PAVEMENT SYSTEM IN
+DAVAO CITY AND FOR OTHER PURPOSES
+t
+lI
+
+Ord. No. 0628-18
+3e it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+MAINSTREAMING, PROMOTING AND INSTITUTIONALIZING PERMEABLE
+PAVEMENT SYSTEM IN DAVAO CITY AND FOR OTHER PURPOSES'
+SECTION 2. DECLARATION OF PRINCIPLE AND POUCY -The Local
+Government of Davao City hereby declares the following as its policies:
+1. The Local Government shall protect and advance the right of all
+Dabawenyos to a balanced and healthful ecorogy in accord with the
+rhythm and harmony of nature;
+2. The Local Government shall promote permeabre paving system, in
+pursuing sustainable urban development, as a crucial component to the
+aspirations of a livable city for the Dabawenyos and thus must be
+established and maintained through a participative, empowered, and
+environmentally conscious community;
+3. The Local Government recognizes the impoftant role of permeable
+pavement system in the recharge of the city's groundwater and
+aquifers;
+4. The Local Government recognizes the use of permeable pavement
+system as a climate change mitigation and adaptation scheme as it
+suspends dust pafticles and retain sequestered carbon dioxide; and
+5. The Local Government recognizes the need for a legislation to ensure
+the permeability of the City grounds to address large volumes of water
+runoff in urban area as part of the Revised comprehensive
+Development Plan of Davao City.
+SECTION 3. DEFINITION EI'enUS-ns used in this Ordinance, the following
+terms shall mean:
+1. Infiltration - the process by which water on the ground surface enters
+the soil;
+2. Pavement - the durable surface material laid down on an area
+intended to sustain vehicular or foot traffic, such as a road or walkway;
+3. Permeability - the property of a material or solid that determines how
+easily fluid flows through a material;
+4. Permeable Pavement system (pps) is a storm water
+management facility that allows water to move through void spaces
+within the pavement and eventually infiltrate into underlying soils;
+5. Peruious - materials that allow storm water to percolate through the
+surface, draining it to its gaps or void spaces rather that allowing water
+to pass inside the material;
+
+Ord. No. 0628-18
+6, Run-off - also known as overrand flow of water that occurs when
+excess storm water, meltwater, or other sources flows over the earth,s
+surface.
+SECTION 4. SCOPE AND APPLICATION - The Permeable Pavement System
+Ordinance of Davao City shall cover all establishments, whether private or public,
+including, but not limited to, Residential, Commercial and Institutional establishments.
+Fufther, it shall also cover parks and other government owned or managed areas such
+as, but not limited to, parking spaces and walk ways.
+However, establishments or buildings already constructed prior to the approval of
+this Ordinance shall not be affected thereby, but may opt to conveft their conventional
+pavement into a permeable pavement should they want to avail of the incentives
+provided herein.
+SECTION 5. TYPES OF PERMEABLE PAVEMENT SYSTEM (PPS) - For
+purposes of this Ordinance, all establishments proposed for construction or those who
+opt to conveft their conventional pavement shall include in their design the permeable
+pavement system which shall be classified, but not limited, to the following types:
+(1) TYPE 1. PERMEABLE CONCRETE (PC)
+Permeable concrete shall contain mixture of conventional porfland
+cement, washed gravel, and water. The water to cementitious material
+ratio must be 0.35 - 0.45 to 1. This mixture contains little or no sand
+and forms a system of highly permeable, interconnected voids,
+(2) TypE 2. PERMEABLE GRID PAVERS (pcp)
+Permeable grid pavers shall contain open-cells. Cells will be fllled with
+gravel, sand, or a growing compound that can be planted or allows
+grass and other vegetation growth. This type is usually made from
+regular or porous concrete, clay and even plastic reinforcement;
+(3) TYPE 3. PERVTOUS PAVERS (PP)
+Peruious and porous pavers shall consist of a wide array of materials
+such as turfs, rocks, tiles, woods or recycled tires as long as the design
+has void spaces and gaps in between as runoff drainage;
+(4) TYPE 4. STNGLE-STZED AGGREGATE (SS)
+Single-sized aggregates shall be constructed by filling loose gravel,
+crushed stones, recycled materials, pebbles etc. directly aftei base
+compaction. This will not contain binding materials;
+(s) TypE s. coNcRETE PAVEMENT CUTOUTS (CpC)
+Regular concrete composition shall have cuts or patches as permeable
+spaces to be filled by either grass vegetation or single-sized aggregates.
+SECTION 6. REOUIREMENTS ON TYPE OF PPS - Subject to the provisions
+of this Ordinance, the City Engineer's Office shall prescribe standirds for each type of
+permeable pavement system and promulgate rules and regulations therefor.
+
+Ord. No. 0628-18
+SECTION 7. SUBSIDIES AND TAX INCENTMS - The City Treasurer's
+Office, with the assistance of the City Engineer's Office or the Office of the Building
+Official shall prepare the guidelines on the grant of subsidies or tax rebates to owners
+of residential, industrial, institutional, and commercial buildings/establishments who shall
+incorporate PPS in their building design, upon verification of the City Engineer's Office
+or the Office of the Building Official that it is in compliance with the provisions of this
+Code and its Implementing Rules and Regulations. Provided, however, that the said
+incentives shall be availed only once in any given time.
+The guidelines shall be submitted to the SANGGUNIANG Panlungsod for approval.
+SECTION 8. REPEALING CLAUSE - All Ordinances as well as peftinent rules
+and regulations inconsistent with this Code are hereby repealed and amended
+accordingly.
+SECTION 9. SEPARABILIW CLAUSE- In the event tha

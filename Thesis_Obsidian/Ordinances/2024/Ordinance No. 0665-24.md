@@ -1,0 +1,207 @@
+---
+ordinance_number: "0665-24"
+title: "AN ORDINANCE GRANTING TEGISLATIVE AUTHORIW TO THE CITY MAYOR TO UTIttzE A FORTIOil OF THE THIRTY PERCENT (30olo) QUICK RESFOilSE FUND (QRF) OUT OF THE EryE PERGEilT (5olo) DISASTER RISK R.EDUCTION MANAGEMENT FUND (CAI-AMTTY FUilD) OF THE CITY GOVERNMENT OF DAVAO FOR CALEI{DAR, YEAR 2024 IN THE TOTAL ATTIOUNT OF THREE HUNDRED THOUSAilD PESOS (P3OO,O(xl.(xl) AS FTNAilCTAL ASSTSTANCE TO Tl{E ]TIUNICI"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0665-24 QRF San Fernando, Masbate (1).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/granting, topic/tegislative, topic/authoriw, topic/mayor, topic/utittze, topic/fortioil]
+---
+
+# Ordinance No. 0665-24
+
+> AN ORDINANCE GRANTING TEGISLATIVE AUTHORIW TO THE CITY MAYOR TO UTIttzE A FORTIOil OF THE THIRTY PERCENT (30olo) QUICK RESFOilSE FUND (QRF) OUT OF THE EryE PERGEilT (5olo) DISASTER RISK R.EDUCTION MANAGEMENT FUND (CAI-AMTTY FUilD) OF THE CITY GOVERNMENT OF DAVAO FOR CALEI{DAR, YEAR 2024 IN THE TOTAL ATTIOUNT OF THREE HUNDRED THOUSAilD PESOS (P3OO,O(xl.(xl) AS FTNAilCTAL ASSTSTANCE TO Tl{E ]TIUNICI
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+. Republic of the Philippines
+9ffice of the SANGGUNIANG Panlungsod
+2Ou'City Council
+42d Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+C,ouncilor
+Counicilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councllor
+Councilor
+Councilor
+ABSETIT:
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diodado Angelo Junior R. Mahipus
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L0alodo-Ortiz
+Albefto T. Ungab
+Lorenzo BenJamin D. Vlllafuefte
+Trisha Ann J. Mllafuerte
+Jesus Joseph P. Zozobrado III
+Bai Hundra Cassandra Dominique N. Advincula
+Jessica M. Bonguyan
+Augusto Javier G. Campos III
+Rodolfo M. Mande
+- Presiding fficer
+- On Maternity Leave
+- OB- Attended the Ocular
+Visit and Dialogue- Institute
+of Primary Healthcare of
+DMSF in SiUo Malikongkong,
+Marilog District, this City
+Councilor Kristine May John AMul Mercado
+- OB- Attended the USAID
+Opportunity 2.0 Youth and
+Partner Summit in Quezon
+City
+oRDTNANCE r{O. 0665-24
+SERIES of 2024
+AN ORDINANCE GRANTING TEGISLATIVE AUTHORIW TO THE CITY MAYOR TO
+UTIttzE A FORTIOil OF THE THIRTY PERCENT (30olo) QUICK RESFOilSE FUND
+(QRF) OUT OF THE EryE PERGEilT (5olo) DISASTER RISK R.EDUCTION
+MANAGEMENT FUND (CAI-AMTTY FUilD) OF THE CITY GOVERNMENT OF DAVAO
+FOR CALEI{DAR, YEAR 2024 IN THE TOTAL ATTIOUNT OF THREE HUNDRED
+THOUSAilD PESOS (P3OO,O(xl.(xl) AS FTNAilCTAL ASSTSTANCE TO Tl{E
+]TIUNICIPAUTY OF SAN FERNANDO, MASBATE, DECIARED UilDER A STATE OF
+CAI.AMITY DUE TO TYPHOON KRISTINE
+
+Ord. No. 0665-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATTVE AUTHORITY TO THE CITY iIAYOR TO UTITIZE A
+PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION MANAGEMENT
+FUND (CALAMTTY FUND) OF THE CrrV GOVERilMENT OF DAVAO FOR
+CALENDAR YEAR 2024 IN THE TOTAL AMOUNT OF THREE HUNDRED
+THOUSAND PESOS (P300,000.00) AS FINAilCIAI ASSISTANCE TO THE
+MUI{ICIPALITY OF SAil FERNANDO, MASBATE, DECLARED UNDER A STATE OF
+CAI.AMITY DUE TO TYPHOON KRISTINE."
+SECTION 2. DEC1ARATION OF POLICY - It is the policy of the City
+Government of Davao to adopt measures and adhere to the national principles and
+standards of humanitarian assistance in response to risk reduction and declares as its
+policy to judiciously uUlize its resources and put the same to proper use.
+SECTION 3. EENEEI$IAB[ - The Municipality of San Fernando, Masbate,
+declared under a State of Calamity, is hereby declared as beneficiary of the financial
+assistance in the amount of Three Hundred Thousand Pesos (P300,000.00).
+SECTION 4. EIE4-EAIIIS - SECTION 324 (d) of Republic Act No. 7160 or the
+Local Government Code of 1991, as amended by Republic Act No. 8185, states that five
+percent (5olo) of the estimated revenue from regular sources shall be set aside as annual
+lump sum appropriations for relief, rehabilitation, reconstruction, and other works or
+seruices in connection with calamities which may occur during the budget year. Provided,
+however, that such fund shall be used only in the area, or a. portion thereof, of the local
+government unit or other areas affected by a disaster or calamity, as determined and
+declared by the local sanggunian concerned.
+SECTION 2L of Republic Act No. 10121 likewise provides that of the amount
+appropriated for LDRRMF, thirty percent (30o/o) shall be allocated as Quick Response
+Fund (QRF) or standby fund for relief and recovery programs in order that situation and
+living conditions of people in communities or areas stricken by disasters, calamities,
+epidemics, or complex emergencies, may be normalized as quickly as possible. Fufther,
+upon the recommendation of LDRRMO and approval of the sanggunian concerned, the
+LDRRMC may transfer the said fund to support disaster risk reduction work of other
+LDRRMCs which are declared under the state of calamity.
+SECTION 5. UTIUIZATION OF FUNDS -The amount herein appropriated shall
+be used specifically for such item and expenditure approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of funds shall be subject to existing
+government budgeting, accounting, and auditing rules and regulations of the Depaftment
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement
+Law (RA 9184), as well as other applicable laws, Ordinances and Presidential directives.
+SECTION 6. EEEBqfSEf - The provisions of this Ordinance shall take effect
+immediately upon approval.
+
+Ord. No. 0665-24
+ENACTED, November L2, 2024, by a unanimous vote of all Members of the
+Sanggunian, there being a quorum.
+CERMFIED CORRECT:
+For and in the absence of the Secretary:
+]IIARIA THERESA A. REYES
+Acting City Government Department Head II
+(City Government Assistant Department Head II)
+rntar/emz
+ATTESTED:
+J. MEtc6. B. eurrArr tR.
+/ Vic,e, Mayor
+Presiding fficer
+DEC 0 I 202{
+APPROVED:
+2024
+DUTERTE
+I
+,"ry
+ATTESTEDI
+ATTY.
+MARI( H. LAYOG
+City
+AN ORDINANCE GRANTING I.EGISI.ATIVE AUTHORITY TO fiE CITY MAYOR TO UTILIZE A PORTION OF
+THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (59o) DISASTER
+RrsK REDUCnON MANAGEMENT R ND (CA|-AMTTY R ND) OF THE CIW GOVERNMENT OF DAVAO FOR
+CAT.ENDAR YEAR 2024 rN THE TOTAL AMOUNT OF THREE HUNDRED THOUSAND PESOS (P300,000.00)
+AS FINANCIAT ASSISTANCE TO 11{E MUNICIPAUTY OF SAN FERNAI{DO, MASBATE, DECTARED UNDER A
+STATE OF CAIAMITY DUE TO WPHOON KRISTINE

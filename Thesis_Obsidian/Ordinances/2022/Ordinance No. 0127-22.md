@@ -1,0 +1,219 @@
+---
+ordinance_number: "0127-22"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE GENERAL FUND ANNUAL BUDGET AND PLANTILLA OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023, COMPRTSTNG THE BUDGET UNDER THE GENERAL FUND PROPE& THE ECONOMIC ENTERPRISES FOR THE OPERATIONS OF MARKETS, SLAUGHTERHOUSES, CEMETERIES, DAVAO CITY RECREATION CENTER (DCRC), AND MAGSAYSAY PARK, AND THE ANNUAL DEVELOPMENT FUND IN THE TOTAL AMOUNT OF ELE"
+date_enacted: "2022-12-09"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0127-22 (Annual Budget 2023).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/granting, topic/legislative, topic/authority, topic/general, topic/fund, topic/annual]
+---
+
+# Ordinance No. 0127-22
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE GENERAL FUND ANNUAL BUDGET AND PLANTILLA OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023, COMPRTSTNG THE BUDGET UNDER THE GENERAL FUND PROPE& THE ECONOMIC ENTERPRISES FOR THE OPERATIONS OF MARKETS, SLAUGHTERHOUSES, CEMETERIES, DAVAO CITY RECREATION CENTER (DCRC), AND MAGSAYSAY PARK, AND THE ANNUAL DEVELOPMENT FUND IN THE TOTAL AMOUNT OF ELE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+J
+20th
+Council
+23'd Regular Session
+SERIES of 2022
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counicilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessi
+Bo
+Te
+A
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Presiding Officer
+Pi
+Ed
+Ri
+ABSENT:
+Councilor
+Councilor
+lonard C. Dayap
+Diosdado Angelo lunior R. Mahipus
+ORDINANCE NO. OI27-22
+SERIES ol 2022
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE
+GENERAL FUND ANNUAL BUDGET AND PLANTILLA OF THE CITY
+GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023, COMPRTSTNG
+THE BUDGET UNDER THE GENERAL FUND PROPE& THE ECONOMIC
+ENTERPRISES FOR THE OPERATIONS OF MARKETS,
+SLAUGHTERHOUSES, CEMETERIES, DAVAO CITY RECREATION
+CENTER (DCRC), AND MAGSAYSAY PARK, AND THE ANNUAL
+DEVELOPMENT FUND IN THE TOTAL AMOUNT OF ELEVEN BILLION
+SEVEN HUNDRED NINETY-ONE MILLION SEVEN HUNDRED THIRWSil
+THOUSAND ONE HUNDRED SIXW.EIGHT P
+(Pl 1,791 t736,L68.00), AS AMEN DED
+cEto H
+O B FEB 2M3
+una
+rs
+t
+rP
+rR
+. Ibuyan Jr.
+in B. Ocampo
+c crutr rcT ilo. nr
+S TAIAGTIErI
+usto Javier G. Campos
+C. Braga
+John L Bonguyan
+r U. Marohomsali
+Andre A.qifit#
+REVIEWED
+ATTY.
+Acting
+H. I.AYOG
+-
+
+Ord. No. 0L27-22
+SECTION 8. USE OF FUNDS - The use of funds under the Annual Budget of the
+City Government of Davao for the Calendar Year 2023, utilized in violation of Title 5, Local
+Fiscal Administration, as embodied in RA 7760, otherwise known as the Local Government
+Code of 1991, shall subject the erring officials and employees to disciplinary action or
+appropriate legal measures under the existing laws of the Republic of the Philippines. All
+disbursements and utilization of funds appropriated under this Annual Budget must
+conform with existing government budgeting, accounting, and auditing rules, regulations,
+policies, and guidelines of the Commission on Audit (COA), the Department of Budget
+and Management (DBM), the Government Procurement Reform Act (RA 9184), as well as
+other applicable laws, ordinances, and Presidential directives.
+SECTION 9. USE OF SAVINGS - The Local Chief Executive and the Presiding
+Officer of the SANGGUNIANG Panlungsod are hereby authorized to augment any item in the
+approved Annual Budget for their respective offices from savings in other items within
+the same expense class of their respective appropriations as provided for in SECTION 336
+of Republic Act No. 7160, otherwise known as the "Local Government Code of 1991".
+SECTION 10. SEPARABILITY CLAUSE - The provisions of this Ordinance are
+hereby declared separable, and if any or more of such provisions are declared invalid, the
+validity of all other provisions shall not be affected thereby.
+SECTION 11. EFFECTMW. The provisions of this Ordinance shall take effect
+ENACTED, December 9,2022, by a unanimous vote of all the Members of the
+Sangg unian, there being a quorum.
+CERTIFIED CORRECT
+^(il{g
+ATTESTED:
+CH
+N
+ry to the Sanggun
+ng Panlungsod
+ity Government Depaftment Head II)
+J. ME JLCHOR B. QUTTATN JR,
+/ vice Mayor
+Presiding Officer
+REVIEWED
+PURSUANT TO THE PROVISIONS OF REPUBUC ACT M'. 7t6O
+BY AUTHoRIW cF THE SECRETARI
+REFEiE}ICSP.EV::''T' LETTER DATED
+CESO lll
+GARY R.
+O B FEB 2023
+0t
+rlV
+ANO IANAGEI'E}IT
+ATTY.
+Aglng
+H. I.AYOG
+@
+
+Ord. No. 0127-22
+APPROVED:
+JAN 0 I 208
+2022
+SEBASTIAN Z. DUTERTE
+City Mayr,7Y
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+r
+REVIEWED
+PURSUA}JT Ti T'.I; PROIISiONS OF REPI'BIT ACT ilO. 7T60
+BY AUTT.iC?!TY SF T:"i3 OECRETARY OF
+RETEP.E:!CL'I.-fi ],q fTTER DATEO
+GP"I?Y R
+B B FEB 2023
+ffi
+lI
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE GENERAL FUND ANNUAL
+BUDGET AND PLANTILLA OF THE CITY GOVERNMENT OF DAVAO FOR THE CALENDAR YEAR
+2023, COMPRISING BUDGET UNDER THE GENERAL FUND PROPE& THE ECONOMTC
+ENTERPRTSES FOR THE OPERATTONS OF MARKETS, SLAUGHTERHOI.'SES, CEMETERIES,
+DAVAO CrTy RECREATTON CENTER (DCRC), AND MAGSAYSAY PAR& AND THE ANNUAL
+DEVELOPMENT FUND IN THE TOTAL AMOUNT OF ELEVEN BILLION, SEVEN HUNDRED NINEW.
+ONE MILLION SEVEN HUNDRED THIRTY.SIX THOUSAND ONE HUNDRED SIXTY-EIGHT PESOS
+(PLt,7 9L,736, 168.OO), AS AM EN DED
+to,

@@ -1,0 +1,203 @@
+---
+ordinance_number: "0501-24"
+title: "Ordinance No. 0501-24"
+date_enacted: "2024-05-28"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0501-24 DOU Brgy. Council of Brgy. 25-C (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0501-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Offrce of the SANGGUNIANG Panlungsod
+' City of Davao
+2oth city Council
+20h Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Bonz Andre A. Militar
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Bernard E. Al-ag
+Kristine May John Abdul Mercado
+Temujin B. Ocampo
+ABSENT
+Councilor
+Councilor
+Councilor
+- On Vacation Leave
+- On Official Business
+- On Official Business
+ORDINANCE NO. 0501.24
+SERIES of 2O24
+A1{ ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE DEED OF USUFRUCT TO BE EI{TERED INTO BY AND
+BETWEEN THE CITY OF DAVAO AND THE BARANGAY COUNCIL
+oF BARANGAY 25-C, POBIACTON DTSTRTCT, DAVAO CITY,
+SUBIECT OF WHICH IS THE PROPERTY LOCATED AT AURORA
+QUEZON STREET OF THE SAME BARANGAY, COVERED BY
+ORIGINAL CERTIFICATE OF TITLE NO. 2023000165 TO BE
+USED FOR BARANGAY HALL PURPOSES
+
+Ord. No.0501-24
+Be it ordained by the SANGGUNIANG Fanlungsod of Davao City in session assembled, that:
+SECTION 1. IIIE - This Ordinance shall be known as *AN ORDINANCE
+AUTHORIZING T}IE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF
+oF THE CrTY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED rNTO BY AND
+BETWEEN THE CITY OF DAVAO AND THE BARANGAY COUNCIL OF BARANGAY 25.C,
+poBlAcroN DrsTRrcT, DAvAo crTY, suBIEcr oF wHIcH rs THE PROPERTY
+LOCATED AT AURORA QUEZON STREET OF THE SAME BARANGAY, COVERED BY
+ORIGINAL CERTIFICATE OF TITLE NO. 2023000165 TO BE USED FOR BARANGAY
+HALL PURPOSES'.
+sEcTIoN2.-Sections22(a)(5)and(c)and455(b)(1)
+(vi) of Republic Act No. 7t60, otherwise known as the Local Government Code of 1991 provide
+that:
+"SECTION 22. Corporate Powers -
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the
+sanggunian concerned. A legible copy of such contract shall
+be posted at a conspicuous place in the provincial capitol or
+the city, municipal or barangay hall.
+SECTION 455. Chief Executivel Powers, Duties and
+Compensation.
+(b) For efficient effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city
+mayor shall:
+(1) Exercise general superuision and control over all programq
+pQects, seruices and activities of the city government, and
+in this connection, shall:
+(vi) Represent the city in all its business transactions and
+sign in its behalf all bonds, contracts, and obligations, and
+such other documents upon authority of the SANGGUNIANG
+Panlungsod or pursuant to law or ordinance."
+SECTION 3. NItsffi
+The City Mayor is hereby granted legislative authority TO
+ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF
+USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE
+BARANGAY COUNCIL OF BARANGAY 25.C, POBLACION DISTRICT, DAVAO Cffi, SUBJECT OF
+WHICH IS THE PROPERTY LOCATED AT AURORA QUEZON STREET OF THE SAME BARANGAY,
+COVERED BY ORIGINAL CERNRCATE OF TITLE NO. 2023000165 TO BE USED FOR
+BARANGAY HALL PURPOSES.
+SECTIOI{ 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or provision of
+this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof not
+affected by such declaration shall continue to be in full force and effect.
+
+Ord. No. 0501-24
+SECTION 5. EFFECTMIY -This Ordinance shall take effect immediately upon approval.
+ENACTED, May 28, 2024, by a unanimous vote of all the Members of the Sanggunian, there
+being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+r. r.rrr.cH6#s. eurrArN JR.
+/ viceMayor
+Presiding Officer
+cns/ser
+cA^W.J^nk
+Secretary to the SANGGUNIANG Panlungsod
+(CiW Government Department Head IJ).,
+sEP 0 6 202{
+APPROVE D r__.--...-,
+2024
+uavory' v
+ATTESTEDI
+ATTY.
+H. LAYOG
+Acting
+Ad
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE ENTERED INTO BY AND
+BETWEEN THE CITY OF DAVAO AND THE BARANGAY COUNCIL OF BARANGAY 25-C,
+POBLACION DISTRICT, DAVAO CITY, SUBJECT OF WHICH IS THE PROPERTY LOCATED AT
+AURORA QUEZON STREET OF THE SAME BARANGAY, COVERED BY ORIGINAL CERTIFICATE OF
+TITLE NO. 2023000165 TO BE USED FOR BARANGAY HALL PURPOSES

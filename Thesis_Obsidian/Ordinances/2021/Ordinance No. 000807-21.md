@@ -1,0 +1,207 @@
+---
+ordinance_number: null
+title: "Ordinance No. 000807-21"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000807-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.1
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid]
+---
+
+# Ordinance No. 000807-21
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th city cLuncil
+45th Regulbr Session
+SERIES of 202L
+Re1 lblic cI the Philippines
+" City of Davao
+Office of the SANGGUNIANG panlunlsod
+Albefto T. Ungab
+-
+Temporary presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. A!-ag
+Dante L. Aposto! Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Sebastian Z. Dutefte
+Maria Belen S. Acosta
+OB-Acting City Mayor
+On Sick Leave
+J
+RDINANCE NO. O8O7-2I
+SERIES ol2O2L
+AN ORDIilAilCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE
+EXECUTED BY AND BETWEEN THE CITY OF DAVAO At{D BIAO
+AGRARTAN REFORM BENEFTCT.ARTES COOPERATTVE (BARBCO), A
+PROPONENT GROUP OF THE PHILIPPINE RURAL DEVELOPMENT
+PRoJECT (PRDP), RETATTVE TO THE DOI{ATTON OF Or{E (1) UilrT
+BRAND NEW ISUZU KIA K25OO 4X4 DOUBLE CABIN DROPSIDE
+HAULING TRUCK
+s
+
+Ord. No. 0807-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that:
+SECTION 1. TfTLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE DEED OF DONATION TO BE DGCUTED BY AND BETWEEN THE CITY OF
+DAVAO AND BIAO AGRARI,AN REFORM BENEFICIARIES COOPERATIVE (BARBCO), A
+PROPONENT GROUP OF THE PHILIPPINE RURAL DEVELOPMENT PROJECT (PRDP),
+REI-ATIVE TO THE DONATION OF ONE (1) UNIT BRAND NEW rSUZU KrA K2500 4X4
+DOUBLE CABIN DROPSIDE HAULING TRUCK."
+SECTION 2, DECLARATION OF POLICY - SECTION 22 (a) (5) and (c); and
+SECTION 455 (b) (1) (vi) of the Local Government Code of 1991 or RA 7160 provide:
+SECTION 22, Corporate Powerc.-
+(a) Every local government unit, as a corporation, shall have the
+following powers.'.ffi
+5) To enter into contracts: and ,w
+c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the Sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal
+or barangay hall.
+SECTION 455. Chief Executive; Powerc, Duties and
+Compensation. )oo(
+(b) For efficient, effective and economica! governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+(1) Exercise general superuision and control over all programs,
+projects, and activities of the City Government and in this
+connection, shall:
+rco(
+)00(
+)oc(
+(vi) Represent the city in all its business transactions and sign in
+its behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the sanggunian panlungsod or
+pursuant to law or ordinance.
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign the Deed of Donation by and between the City of Davao
+and Biao Agrarian Reform Beneficiaries Cooperative (BARBCO), a proponent group of
+the Philippine Rural Development Project (PRDP), relative to the donation of one (1)
+unit brand new Isuzu KIA K2500 4x4 Double Cabin Dropside Hauling Truck;
+
+Ord. No.0807-21
+SECTIOT{ 4, SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effuct.
+SECTIOI{ 5. EFFECTIWW - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, December 2, 202L, by a unanimous vote of all the members of the
+Sanggunian present.
+CERTIFIED CORRECT:
+0Tffi t' i-{-
+CHARTTO N. SA1{TOS
+Secretary to the SANGGUNIANG Panlungsod
+(CiW Government Deparfrnent Head II),
+ATTESTED:
+ATTESTED:
+cnq'duday
+,fuv4rAISERTGUI. UilGAB
+/adingVice Mayor
+Temporary Presiding fficer
+t
+APPROVED: JAN I T ZWL
+2021
+Z. DUTERTE
+a oY",,Y":rgt
+hDdmeSB
+'-^'@i$;1";
+r.[xi"o
+LOPEZ
+City Administrator ,
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE DEED OF DONATION TO BE EXECUTED BY AND BETWEEN THE CITY OF DAVAO AND BIAO
+AGRARIAN REFOR.M BENEFICIARIES COOPERATM (BARBCO), A PROPONENT GROUP OF THE
+PHIUPPINE RURAL DEVELOPMENT PROJECT (PRDP), RE|-ATTVE TO THE DONATTON OF ONE (1) UNrr
+BRAND NEW ISI'ZU KIA K25OO 4X4 DOUBLE CABTN DROPSIDE HAUUNG TRUCK
+?

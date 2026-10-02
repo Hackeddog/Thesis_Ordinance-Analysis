@@ -1,0 +1,287 @@
+---
+title: "Ordinance No. 0177-14"
+ordinance_number: "0177-14"
+aliases: ["Ordinance No. 0177-14", "0177-14"]
+corpus_year: 2017
+folder_year: 2017
+resolved_year: 2014
+enactment_date: null
+approval_date: null
+series_year: null
+council_term: null
+session: ""
+sponsor: ""
+approving_mayor: ""
+presiding_officer: ""
+temporal_status: "review"
+confidence_score: 0.25
+resolution_source: "consensus"
+manually_verified: false
+included_in_corpus: true
+extraction_method: "Digital"
+page_count: 5
+word_count: 1247
+section_count: 0
+whereas_count: 0
+source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\data\\raw\\2017\\Ordinance No. 0177-14.pdf"
+sha256: "5dcc581f8ff339e5"
+indexed: "2026-09-19"
+tags: [ordinance, davao, year/2017, status/review]
+---
+
+# Ordinance No. 0177-14
+
+> [!question] Temporal status: review
+> Filed under 2017, resolved to 2014 at confidence 0.25.
+> No conflicting signals recorded.
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2014 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2014** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+I
+$r
+I?t! Crty Councd
+?9tu Eegular Sesion
+Beries of ?O f 4
+FEE*EHT:
+Karlo 3. Eellc
+$ils M. .Abellera Jr.
+Ma. Eteleo S. Acosta
+Vietsrio U. Advincula Jr.
+Al Efao 3. .e$andre
+teoaardo E. Avila Itr
+Jo.rgra.e M. Bonguyaa-Quilas
+touie Joha J. Bor'guyarr
+Daailo C. Dayangfuirang
+Jir-my G. Drr.ueua
+Edgar R. Ibuyaa Sr.
+t€ah A. Librado-Yap
+Reae Eliae C. Lopec
+Xliosdad.o Angelo A Mahipus 3r.
+Eeriao L. Mambo-o 3r.
+Boaifacio E. Militar
+Tomas J. Moateverde IV
+trllyra.r G. L. lf alodo-ffiiz
+Astoiflftte G. Pria.cipe.Castrodes
+Ifiary Joselle D. Yillafirerte
+Actiag Vice Mayar
+Couacilsr
+Couarilor
+Couacdsr
+Couu'+tlor
+Councdor
+Coua.cdsr
+Cquf,ciftr
+Coua.cdor
+Corracilor
+Csuacilcrr
+Coua+{lor
+Couacdsr
+Couacilor
+Couadlor
+Couacilor
+Couactlsr
+Couacdsr
+Cauarilsr
+Couacilor
+Ccnrncder
+fi}I OFFICIAL EUBIIi[E,1.1 :
+Vice Mayor
+Coun+dor
+Counctlor
+.&E8EHT:
+Coua.cdsr
+Corrncilor
+Couatilor
+Faato Z. Duterte
+Beraard E. Al-ag
+April Marie C. Dayap
+Jaauaqr N. Buterte
+Marissa P. Salvrador-Abella
+Rachel F. Zozobrado
+Acting CiQ. Mayor
+- On Sick Leave
+- Grr Vacatiffr Learre
+- Or Domestic Emergeacy Leave
+OEnlrarrcE Isa. o177-14
+SERIES of ?Ot4
+AIT ORI}IITAI{CE FLACIE& UIIDEEGOUHT} ,ltl. ELEICTRICAL A.trD
+TELECOHHI}HICATIOIT WIEES AITD CABLES SITTHT!5 TEE
+VICIIIIIY OF CITY HALL AITN TEE SAIIGGUHIAI{G PitI[LUtrGSOD
+OF TEE CIIY OF DAlTACI
+
+Page 2 of5
+Ord I{o. Ol77-14
+Be it ordaiaed by tlre saoggtniaag Paalu-agsod of Danrao Clty irt sessioa
+assm.bled that.
+SBCTIOI{ 1. TITLE This Ordia.asce shall be kasqra as 'AIl
+ORIIIf,AITCE PLACIIG UITDERGOIIIID ,tLL ELECTRICAL AISD
+TELECOHTIIf,ICATIO1T UIIRES A]5D CTBLES WITEIT TEE' VICII{IIY OF
+CflY EALL A]tD THE SATGGUITIAITG PAI{LUilGSOD OF TEE' CITT OT'
+DAVAO';
+SECTIOtr 2. DE'FUftTIOf, OF TE.RU$ - As used ir. this Ordireance t}e
+followiag term.s are defi.ned as follsws:
+{a} Wrres - rerfers to electrical aad telecoamunicatioos wires;
+{bf Cables - aa iasulatd coaductor sr Eroup of conductors protected
+by a waterproof coat that are iastalled aerial or ua.dergrournd ;
+{c} Installation arr assem.blage of power/telecoas.uaicatioas
+equipment ia a given location. desigaed for coordiaated operadon,
+prqp€dy erected and wired;
+{d} Juridical perscra - refeEs to ccrporatioas, iastitutions a.rd entities
+engagd in the busiaesses s.entiotrd ilr tlis Ordiaaace;
+(ef Telecomauaicatioas af,y llrocess which eaable. a
+' telecomsuaications €atity to relay aad recrive rnrice, data,
+electronic rtressages, writterr or printed matter, fi:red or aoving
+pictures, word.s, music or visible or audible sigaals or aay csotrol
+sigaals of *y desiga aad for aey purpose by wire, radio or other
+electrornagaetic, spect:al, cptical or techaological rrreafls
+{Rederence: RA 79251
+{f} Public Telecumnurrications Carrier {FTC} - shatl refer to a drly
+en&aachised aad I\I"IC certified teleccs-u.uaicatioa.s carrier aad/or
+€otity duly authorized by law iacludiag the goverameot to povide
+public telecos.rr.uaications s€rvices {Refereace: NTC MC- No. 9-7es)
+{g} S€rvice mtrance - the conductsrs aa.d equipmerrt for delirrwiag
+€lrtrHy frgm the serviag utility to the wiriag system. of tle
+prre,misgg served {Refereace: ?OO9 Philippirte Etectrical Code, part
+1, Volum.e lf
+SEICTI0I{ 3. COVEEtrGE -This Ordiaaace shall cover the City HaIl
+and Sao.gguniaag Paalungsod area, coo.mm.c{ag fram the Philippiae Natioaal
+Ban1c {PI[B] in C.M. Recto Street to Aadres Booifacio Rotuada in' A. Fichoa
+gtreet, to Jaltaa Food House irr A. Itchoa 3t. tlrrough Cfy Hall Drive to L^achmi
+Eu.potiua. ia 3a.a' Pedro 3t., completia.g t}.e circuit at PNB C.M. Recto St-, as
+shown in Aaaecr *A= hereof;
+
+Page 3 af 5
+Clrd I{o. 0177-14
+SECTIOI 4. PIIEPOSE - This CIrdiaas.ce is enacted fsr tlre followiag
+plrfPoses:
+{a} To bolst€tr the i*"9* of the City of Danrao as iateraatioaally
+competitirre, capable af attracting ianrwts.errts while ensuriag
+sustaio.able derreIopaeat in its aidst;
+{bl To provide tJre populace of the City of Darao with s clear aodel of a
+sustaiaable and aesthetic rrspao.se to ttre risiag d.m.aads of progress
+aad their impact to ti.e m.viroos.mt:
+{c} Ta €ff}^aace safeq. arrd securitl' fot t}.e ofrces af the City Gar.rcrnrneat
+of Dar.rao particularl"t, City Hall and SANGGUNIANG Paalungsod arrd
+other establishmeots in the viciaitv:
+SECTIOII 5. UI$DEE,GE.OIIIID PA8SAGE - All electric utility coapaaies
+aad public telecsmsunicatioa carriss servicing tbe City of Daraao shall place
+uadergrouad all eleckical as.d telecommuaicatisr.s wirs and cables witlxia the
+areifl covered by tJris (}rditrnnce.
+AIl brrildin6 orwrrers within. t}'e couered. srea shall prordde senrice
+entras.ces compatible for uaderground electrical and telecsnrruf,ications wires
+aad cables;
+SECTIOI 6. PEII.ILTY PEOVISIOI{S - Tte follo,rring penalties shall be
+inposed on afly sr flll rdelattrrs of tlis Ordioaace:
+a. .Afler three {3} aotices, af,y p€r$or} or €ndty who rriolates this
+Ordin'aace, shffIl be firred ttre amouat af P 5,OO0.00
+b. After t&e fourth aad fisal notice. caacellatioa of his/hs busiaess
+perait;
+c. If tle violatioa is coms.itted by a partawship, corporatioa,
+associatisrr, firffi., or other juridical €ntity iacludia.g gouunrnenttfi$rred ot coatrolled corporation, the p€nalQ" shall be imposed orr tJre
+preidmt, gerreral tnanag€r ao.d each of the ofi.css of thse entities.
+Ia addition, the p€crflIty shall also inchlde tJre caacellatioa of its
+bueifless liceuse;
+$EICTIOI{ T. COSTE -
+The csst fsr placia.g rradergror:-a.d t}.e
+electsical arrd telecomaunicatioo w'ires and cables iacludiag the r*to'ratienr of
+the encalrated streetsl sid€,$ralks shall be joiatJy shared am.ortg the electric
+utility companies and public telecommuaicatioa carriers as detffmined ia the
+iatryated desigalplaa as fore.ulated. by the Slires a:nd Cabls Technical Teaa;
+SETCTIOII 8. MEE's AtrtS CASLET$ TECEflICAL TElttI - To ensure that
+the objectives of the (}rdiaas.ce is atteiaed, th.€tre sh€fl be ereated a Wires aad
+Cable Technical Teas. tlrrough ar Ex€crrtir.re firder of the CiQ'Mayor;
+
+Page 4 of S
+r_]rd IIo. 0177-14
+SEcTIolt 9'-I'uilcTlCIrg - The Wtres and. Cables Technical Teas sh€.ll
+have the foltoriag flmcfiorrs:
+a' Fotmulate aod Implem.eat tte iategrated desiga/plan w^ithia so d.ays
+upoa its creatioa;
+b- Establish coordi*ati,e aad w-orhirrg relatioreship ,r.*ag a.embers crf
+the teaa.;
+q $uperuise aad msrlitor the firll implemeatatioa af the ordiaagce;
+d' Recommend edditional provisio*-* * actisa's that qrill lxoaote and
+streagth.en the objectir.Es of tiis Ordia.aa.ce;
+ffECTIOH TO. coilPosrrrott - The teas. shall be coaposed of tlre
+followiag, to wit:
+:l +ry I c.tty Mgrer to be represeated by the city Adaiaistratot
+b! Vice'Chair - City Engiaes's OfEce
+c! Members:
+1.,
+a
+4.
+5.
+6_
+=
+8.
+9.
+1l
+1?- TFo {2} repreatadves Aos CIlsn€trs of the etablishments witbin
+t-he affectd area
+13. DCTECH
+14. 3I(YCABLE
+15. ETAYANTEL
+16. Bureau of Fire Frotectioa;
+tlE'CTIOIt 11. ELEAII-UP S.I[D RE{ITORAIIOII - Within ainety {oot days
+alter tle fuIl lmp
+, all aerial wire, cablm aad
+poles shall be removd by the respective elecfric utility co{npflrry arrd public
+telecou.ar-laicatioa carricr;
+r --
+.
+The streets/sidwalks thatwse encavated. sb.all be properly restored.;
+SECTIOT 12. I{OTICE TP TEE PIIBLIC - Upaa the approrral of tiis
+ordin'aa.ce, copie thseof shall be post*d by ttr* secretary" of thi city couacil
+at all ti.e eatraag* *.f city Hall *rd F* .B*ggu*a*g ranfuagsoa -trrraings
+a,ld girm to all electlic counpanies and public lit*"*iu11icati# carriers and.
+all etablishfl€ots wiflir tle aree cor"rered._
+cb^air of t}.e BP caa.mittee oa Trasspcrtation aa.d comu.r:-aicatisas
+City Buildtng Offisist
+Departraert sf hrblic Works and Higbways {DPWH}
+Hatioaal Telectrma.uaicstioas Comais sioa 1NtC1
+DSvao City Water llistrict {DCWD}
+Crty Flanning and Developmeat t)ffice {CFDO}
+TbUj Safety as.d Security Ctrmmaad Celrto irSSCCl
+Cifir Traasport as.d Traff.c Msaageu.ent Ofrce {CTfMb}
+qlryg Ught and power compaay lDrrc!
+FLDT/SMART
+Globe
+I
+
+Ord No. O 177- 14
+SECTIOII 13. EFFECTWITY - TldE Ordiaence shall take effect upoa
+aplrrorral hereof.
+EtrACTED, August 1, ?O14, by a u.ajority vote of all fhe Uembers of ti.e
+Saagguniaa lxeseot.
+CERTIFIED CORRECT:
+n ALuwn h./,',i
+CETRITO 1T. BAITTOS
+,Secret.rry to th.e fanggfraraa.g Paaluagsod ,
+{Clty Goverannent Departaent Head lll {
+ATTE,STEN
+ATTESTED
+APPEOVE
+?o 14
+RODRIGO It. DUTERTE
+cityMayV,4f{
+aTtY. ,r. UELCEOR V. QITITATI{
+Citv Administrator
+CiE E lnED APPRCtifEt /a.FTEii THE IAFTSED OF
+$ffi
+7s6$
+t-

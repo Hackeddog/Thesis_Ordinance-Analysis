@@ -1,0 +1,190 @@
+---
+ordinance_number: "0708-24"
+title: "AN ORDINANCE AMENDING SECTION 3 (PLANTILLA POSITIONS), ARTICLE xII OF ORDINANCE NO. 0445-24, SERIES OF 2024, OTHERWISE KNOWN AS THE CHARTER OF THE CITY COLLEGE OF DAvAo, IN coMPLIANcE WITH MEMoRANDUM ORDER No. 18, SERIES OF 2022, ISSUED BY THE COMMISSION ON HIGHER EDUCATTON (CHED)"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0708-24 Amend Charter of City College (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, type/amendatory, topic/section, topic/plantilla, topic/positions, topic/article, topic/charter, topic/college]
+---
+
+# Ordinance No. 0708-24
+
+> AN ORDINANCE AMENDING SECTION 3 (PLANTILLA POSITIONS), ARTICLE xII OF ORDINANCE NO. 0445-24, SERIES OF 2024, OTHERWISE KNOWN AS THE CHARTER OF THE CITY COLLEGE OF DAvAo, IN coMPLIANcE WITH MEMoRANDUM ORDER No. 18, SERIES OF 2022, ISSUED BY THE COMMISSION ON HIGHER EDUCATTON (CHED)
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Cites or amends
+
+- [[Ordinance No. 0445-24]]
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+z0th City Counci!
+45h Regular Session
+SERIES of 2O24
+PRESENT:
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera lr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Richlyn N. Justol-Baguilod
+Kristine May John Abdul Mercado
+- Presiding Officer
+- On Vacation Leave
+- On Official Business
+- On Sick Leave
+- On Sick Leave
+ORDINANCE NO. O7O8.24
+SERIES ol 2O24
+AN ORDINANCE AMENDING SECTION 3 (PLANTILLA POSITIONS),
+ARTICLE xII OF ORDINANCE NO. 0445-24, SERIES OF 2024,
+OTHERWISE KNOWN AS THE CHARTER OF THE CITY COLLEGE OF
+DAvAo, IN coMPLIANcE WITH MEMoRANDUM ORDER No. 18,
+SERIES OF 2022, ISSUED BY THE COMMISSION ON HIGHER
+EDUCATTON (CHED)
+
+Page2of3 i
+Ord. No. 0708-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AMENDING SECTION 3 (PLANTILLA POSITIONS), ARTICLE XII OF
+ORDINANCE NO. 044,5.24, SERIES OF 2024, OTHERWISE KNOWN AS THE
+CHARTER OF THE CITY COLLEGE OF DAVAO, IN COMPLIANCE WITH
+MEMORANDUM ORDER NO. 19, SERTES OF 2022, ISSUED By THE
+CoMMISSTON ON HIGHER EDUCATION (CHED)".
+SECTION 2. ADDITIONAL PLANTILLA POSITION . one (1) item for
+Professor III with Salary Grade 26 under Faculty of SECTION 3 (Plantilla Positions),
+Afticle XII is hereby created.
+SECTION 3. SEPARABILIW CLAUSE - If any provision of this Ordinance
+is held invalid or unconstitutional, any other provision not so affected shall continue
+be valid and effective.
+SECTION 4. REPEALING CLAUSE - Any City Ordinances and its rules and
+regulations or any paft thereof, which are inconsistent with any of the provisions of
+this Ordinance, is hereby repealed or amended accordingly.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect upon its
+approval.
+ENACTED, on the 3'd day of December 2024, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ A/,^n; )n- W
+CltARrro N.lsAruros
+City Government Depaftment Head II
+(Secretary to the SANGGUNIANG Panlunn oy
+ATTESTED:
+J. ME
+R B. QUITAIN JR.
+Vice Mayor
+Presiding Officer
+cns/ray
+
+. rll
+_4.)
+i
+'i
+i
+Page3 of 3
+O;d. No. A7CI8-24
+,
+'t
+'t
+I
+JAN 17 2W
+2024
+APPROVED: 1
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDINANCE AMENDTNG SECTION 3 (Pr-A],rTILt-A POSmONS), ARTICLE )GI OF
+oRDINANCE NO. 0445-24, SERIES OF 2024, OTHERMSE KNOWN AS THE CHARTER OF
+THE CITY COLLEGE OF DAVAO, IN COMPUANCE WTIH MEMOMNDUM ORDER NO. 18,
+SERIES OF 2022,ISSUED BY THE COMMISSTON ON HIGHER EDUCATION (CHED)
+s
+i
+I
+t,
+City

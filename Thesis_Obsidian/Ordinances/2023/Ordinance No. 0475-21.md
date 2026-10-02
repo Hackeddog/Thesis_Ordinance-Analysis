@@ -1,0 +1,197 @@
+---
+ordinance_number: "0475-21"
+title: "AN ORDINANCE APPROVING AND ADOPTING THE 2019. 2023 LOCAL CLTMATE CHANGE ACTTON pl.AN (LCCAP) OF THE CITY OF DAVAO AS ENDORSED BY THE CITY PLANNING AND DEVELOPMENT OFFICE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0475-21.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.17
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/approving, topic/adopting, topic/local, topic/cltmate, topic/change, topic/actton]
+---
+
+# Ordinance No. 0475-21
+
+> AN ORDINANCE APPROVING AND ADOPTING THE 2019. 2023 LOCAL CLTMATE CHANGE ACTTON pl.AN (LCCAP) OF THE CITY OF DAVAO AS ENDORSED BY THE CITY PLANNING AND DEVELOPMENT OFFICE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | 2019 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+5th Regular Session
+SERIES of 2021
+PRESENT:
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Ccuncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+t'lilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+Vice Mayor Sebastian Z. Duterte
+- On Official Business
+ORDINANCE NO. O475-2I
+SERIES ol 2O2l
+AN ORDINANCE APPROVING AND ADOPTING THE 2019.
+2023 LOCAL CLTMATE CHANGE ACTTON pl.AN (LCCAP) OF
+THE CITY OF DAVAO AS ENDORSED BY THE CITY PLANNING
+AND DEVELOPMENT OFFICE
+
+Ord. No. 0475-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that
+SECTION 1. E!!-- This Ordinance shall be known as "AN ORDINANCE
+APPROVING AND ADOPTING THE 2OL9.2O23 LOCAL CLIMATE CHANGE
+ACTTON PLAN (LCCAP) OF THE CrTY OF DAVAO AS ENDORSED BY THE CITY
+PLANNING AND DEVELOPMENT OFFICE'.
+SECTION 2.
+- Pursuant to SECTION 2 of Republic Act
+No. 9729 or the "Climate Change Act of 2009" as amended by Republic Act No. L0174,
+the City Government of Davao hereby declares the following as its policies:
+1. The Local Government shall afford full protection and advancement of the right
+of all Dabawenyos to a healthful ecology in accord with the rhythm and harmony
+of nature;
+2. The Local Government shall enjoin the pafticipation of national and local
+governments, businesses, non-government organizations, local communities
+and the public to prevent and reduce the adverse impacts of climate change
+and, at the same time, maximize the potential benefits of climate change;
+3. It shall also be the policy of the Local Government to strengthen, integrate,
+consolidate and institutionalize government initiatives to achieve coordination in
+the implementation of plans and programs to address climate change in the
+context of sustainable development;
+4. The Local Government recognizes that climate change and disaster risk
+reduction and management are closely interrelated and effective. Disaster risk
+reduction and management will enhance adaptive capacity to climate change.
+In consonance with this, the Local Government shall integrate disaster risk
+reduction into climate change programs and initiatives;
+5. Finally, the Local Government shall embrace a systematic concept of climate
+change in various phases of policy formulation, development plans, povefi
+reduction strategies and other development tools and techniques by all agencies
+and instrumentalities of the government.
+SECTION 3. APPROVAL AND ADOPTION - For purposes of this Ordinance, the
+LOCAL CLIMATE CHANGE ACflON PLAN (20L9-2023) endorsed by the City Planning and
+Development Office of the City of Davao is hereby APPROVED and ADOPTED as the
+LOCAL CLIMATE CHANGE ACTION PI.AN OF THE CITY OF DAVAO fOT 2OL9-2023.
+SECTION 4.
+- The
+LOCAL CLIMATE CHANGE ACTION PI.AN OF THE CITY OF DAVAO fOr 20T9.2023 shaI| be
+adopted and integrated in the Comprehensive Land Use Plan (CLUP) and Comprehensive
+Development Plan (CDP) of Davao City. The programs, activities and projects found in
+the LOCAL CLIMATE CHANGE ACflON PLAN OF THE CITY OF DAVAO (2019-2023) may
+be included in the Local Developmerrt Investment Program (LDIP) and the Annual
+Investment Program (AIP).
+SECTION 5.
+- This Ordinance shall cover the
+involvement of the local government, businesses, non-government organizations, local
+communities and the public within the territorial jurisdiction of the City of Davao and
+covers the planning period of 20L9-2023.
+
+Ord. No. 0475-21
+SECTION 6. REPEALING CLAUSE - All Ordinances, as well as pertinent rules
+and regulations inconsistent with this Code, are hereby repealed and amended
+accordingly.
+SECTION 7. SEPARABILITY CLAUSE. - If, for any reason, any word, afticle,
+sentence, clause or paragraph of this Code is declared invalid for any reason, other
+provisions thereof shall not be affected by such declaration and shall continue to be in
+full force and effect.
+SECTION 8. EFFECTMW. -This Ordinance shalltake effect immediately upon
+approval.
+ENACTED, on February 02,202t, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERTIFTED CORRECT:
+cftt4#,'iyko,
+ATTESTED:
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)^/
+APPROVED. MAR 02 2o2ll .2O2L
+E
+President
+Temporary
+cer
+cns/ray
+. DUTERTE
+a City l\ayor4r
+ATTESTED:
+. LOPEZ
+City Administrator r
+An Ordinance approving and adopting the 2019-2023 Local Climate Change Action Plan (LCCAP) of the
+City of Davao as endorsed by the City Planning and Development Office
+Tem

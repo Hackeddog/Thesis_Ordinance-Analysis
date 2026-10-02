@@ -1,0 +1,291 @@
+---
+ordinance_number: "0226-17"
+title: "AN ORDINANCE GRANTING THE LETTER-REQUEST oF THE DAVAO CITY CHAMBER OF COMMERCE AND INDUSTRY FOR EXEMPTION FROM THE PAYMENT OF PERMIT FEE UNDER ARTICLE 26' SECTION 221' PARAGRAPHS (A) AND (D) oF THE 200s REVENUE CODE OF DAVAO CITY IN CONNECTION WITH THE DAVAO INVESTMENT CONFERENCE 2OI7 ' TO BE HELD ON ]ULY 2T-22, 20L7, AT SMX CONVENTION CENTER, SM LANANG PREMIER' THIS CITY\" for your information and"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0226-17.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/granting, topic/letter, topic/request, topic/chamber, topic/commerce, topic/industry]
+---
+
+# Ordinance No. 0226-17
+
+> AN ORDINANCE GRANTING THE LETTER-REQUEST oF THE DAVAO CITY CHAMBER OF COMMERCE AND INDUSTRY FOR EXEMPTION FROM THE PAYMENT OF PERMIT FEE UNDER ARTICLE 26' SECTION 221' PARAGRAPHS (A) AND (D) oF THE 200s REVENUE CODE OF DAVAO CITY IN CONNECTION WITH THE DAVAO INVESTMENT CONFERENCE 2OI7 ' TO BE HELD ON ]ULY 2T-22, 20L7, AT SMX CONVENTION CENTER, SM LANANG PREMIER' THIS CITY" for your information and
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+n:--[stm1*u6 0 i :8i?
+,,,OHU,
+i|eEJi
+sacisnc:
+2,.I INDORSEMENT
+July 31, 2017
+Respectfully returned to Ms. charito N. santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the attached documents with Legal Opinion
+No. 385, SERIES of 2oL7 pertaining to herein duly approved ordinance No' 022617, SERIES of 2ot7 entitled "AN ORDINANCE GRANTING THE LETTER-REQUEST oF
+THE DAVAO CITY CHAMBER OF COMMERCE AND INDUSTRY FOR EXEMPTION
+FROM THE PAYMENT OF PERMIT FEE UNDER ARTICLE 26' SECTION 221'
+PARAGRAPHS (A) AND (D) oF THE 200s REVENUE CODE OF DAVAO CITY IN
+CONNECTION WITH THE DAVAO INVESTMENT CONFERENCE 2OI7 ' TO BE HELD
+ON ]ULY 2T-22, 20L7, AT SMX CONVENTION CENTER, SM LANANG PREMIER'
+THIS CITY" for your information and appropriate action.
+For the CitY MaYor:
+ATTY. TRIST
+INGO
+Assistant CitY Admi nistrator
+(Administration)
+AdninATDD/stePh
+{"i
+/tll'z-r+
+RELEASED
+CMO - CRD
+lS'10 fr"'
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224- 587 8 . d ava ocitym ayo r@g m a i l.co m
+7C -/, -7v
+Cfi-oor
+D
+OFFTCE OF THE CIryMAYOR
+
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao qlo.o{
+Ref. No. 1131-17
+LEGAL .PINI.N No' 4g{ '
+SERIES OF 2OL7
+RE: ORDINANCE NO. 0226-Ll, SERIES of Z}tt entitled ..AN
+ORDINANCE GRANTING THE LETTER.REQUEST OF THE DAVAO
+CITY CHAMBER OF COMMERCE AND INDUSTRY FOR HGMPTION
+FROM THE PAYMENT OF PERMTT FEE UNDER ARTICLE 26,
+SECTION 221, PARAGRAPHS (A) AND (D) OF THE 2005 REVENUE
+CODE OF DAVAO CITY IN CONNECflON WITH THE DAVAO
+INVESTMENT CONFERENCE 2AL7, TO BE HELD ON JULY 2L-22,
+20L7, AT SMX CONVEN]ION CENTE& SM I-ANANG PREMIER, THIS
+CITY"
+1s INDoRSEMENT
+July 13, 20L7
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption (permit fee) is well within the powers of the SANGGUNIANG
+Panlungsod. Hence, it is recommended that the subject ordinance be approved. -
+ATTY. umr.rMItGLLo, Rsw
+Attffiey 1V
+Approved by: ,-
+Arw. osMUN lftrLrANUEvA, rR
+OIC, Acting City Legal Officer
+/
+JlCt Or rHE uri y A,r;,rvrrruru rKAr v
+GITY {Ntr OFFICT
+DAVAO CIi I
+Y:
+tl:-
+Date approved: July 17,20L7 :
+oFFlcE oF THE CITY ADMINISTRAToR
+CITY HALL OFFICE
+RECEIVED
+clTY Mazt w
+DATE:
+-1 ' lq-tt
+i
+h,'sq#
+G
+a
+a
+o
+l./:--
+,,) y
+RECHIVED
+CMO. CRE
+TIME:
+DAV.AO
+4-/D- 7/
+9:oo ft^-ft^
+
+City of Davao qb.o*
+)uly 6,20t7
+SARA Z. DUTERTE
+City Mayor
+*l
+Madam
+qrtT - 0t0tf. tO
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+01038-17 and Ordinance No. O226-L7, both SERIES of 2017 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours/
+*
+o
+rn
+O
+*
+^ A{ivurxlr. k
+cHARrro N. $ANTOS
+Secretary to the Sanggunibng Panlungsoday
+(City Government Department Head II)
+cns/afs
+RECE$VHD
+c{\fto - cRD
+7/to - tl -t
+llll I 0 20lI/ lb:n t"rrr
+
+Republic of tfrc Phllippine
+GU of Dar/ao
+Office of the SANGGUNIANG Pantungd
+CorJncrbr
+Councibr
+ffiP Cty Council
+ZSF negular Sesdnn
+SERIES d ztfl
+PRESEIIT:
+6uncilor
+Yre Mryor
+C.otrncilor
+Cilncibr
+Courrilor
+Cilrncibr
+GoJncils
+Councilor
+Councilor
+Cflrncibr
+C.ouncibr
+Cflncilor
+CCIJrEihr
+Courrcilor
+Courf,ilor
+Councilor
+C-ouncilor
+Cmncilor
+Courrcilor
+Councrbr
+Councilor
+Courrilor
+Councihr
+Courrcilor
+l,tary Jodle D. Mllaftrcrb
+h& Z DuterE
+Nilo M. Abdlsa lr.
+Marb Belen S. Amsta
+Mcbrb U. Advirnrla lr.
+Bemard E Al.ag
+Al RlBn S. AhFndre
+DarE L Aposbl Sr.
+Conrado C. Baluran
+Joanne M. Bongr4anQuilos
+Ma. Cfrsry Ann M. Bonguyan
+Pilar C Braga
+Danilo C. DayarUhirang
+April Marie C Dayap
+Jimnry G. Dureza
+Edgnr P. Ihlyan Jr.
+Lffih A UffiYap
+Rene Eliro C topez
+Diosdado Argelo A. t'tahipus Sr.
+Bonifacio E Militar
+l. l'ldcfpr B. Quitain Jr.
+Marisa P. Salvadon-Abella
+Halila Y Sudagnr
+lesrs Jeph P, Zozobrado III
+- Temporay PnesilIing Offis
+- AtEnded a rneeting u,ith ilte Chief d
+ffidfre 0ty Prqp/s Offic
+- On Donrestic Emergency Learc
+- fri SirJ< Leave
+v
+ABSEIIT:
+OTI OFFICXAL BIISIIIESS:
+Councibr January N. DtErb
+Avegq/e Dalodo trtz
+Anbin#G. PrirrcipeCffie
+orurrilArc rro. oztS-l7
+Selies sJmAT
+At oRIrrrrAIrcE GRAT|TTITG THE LETTER-REQUEST OF
+TIIE DAYAO CXTV CHAIIBER OF COHHERCE AIID
+ilIDTISTRY FOR, EXEHPIIO]I FROI'I THE PAYIIE]IT OF
+PER,HTT FEE UITDER ARTTCLE 26, SECTTOil AzrL,
+PARAGRAPHS (A) AtD (D) OF THE 2[XIS REyEilUE
+CODE OF DAYAO CITY IT COI{]IECTIO]I WITH THE
+DAYAO rItVESTuEtfr COIIFEREITCE 20t,7, TO BE HEIrD
+oil IULY 2t-22" ml7, AT SllX COI{YEIfTTOII CTITTE&
+sH LAilAtG PREHTE& THIS CrrY
+
+ffi. No. 0226 -17
+Be it ordairred by the Honorable Sargguniarq Panlungmd of Darao Gty, in
+sesion ruernbled, that:
+SECTIOil 1. TITII - This Ordinance $all be knoywr re %Il ORDIIIAI|CE
+GRAI|TIIIG THE I"ETTER-REQUEST OF THE DAVAO CITY CHAilBER OF
+COHilERCE ATID I]IDI'STRY FOR EIEIIPTIO]I FITOH THE PAYIIE]IT OF
+PERI{IT FEE UITDER ARIICLE 26, SECTTO]I 22,,- PATUTGR/ilrfrS (A) AI|D (D_
+OF THE AX's REYE]IUE GODE OF DAVAO CITY IlI COT]IECTIOil WIIU THE
+DAYAO IITYESTUEI|T COITFEREITCE mt7, TO BE HEI-D OrLUtY 2l-22l mt'7,
+AT SHX GOI|VEI|TIOil CEITTE& Sil IAI|AIIG PREHIE& THIS CXTY-;
+SECTIOII 2. GOYERAGE - The eltanfiion solely reftrs to the payment of $e
+fennit Fee ulder Artide 26, SECTION 221, Parqraphs (a) & (d) of fie 2005 Revenrrc
+Code of Darao GU ard only overs hvao-baed registered odribitors;
+SECTfOil 3.
+- The o<ernfiion $all be ftorn Ute
+eprwal of this Ordinane until July 22,2017 and that in no re $all the organirers
+be exernfi frorn ffie ornpllane of the drcr prwisbns of tte 2005 Revenue Code d
+Ute Crty of Davao ard drcr appli,cable lavs ard ordinarres;
+sEcTrot 4
+4pro\ral.
+- Thb Minarre $all take ffi
+inrnediately upon
+EIIACTED on July 04, 2017, by a unanimous v@ of all the Mernbers of the
+Sanggunian, lfiere being a quorum.
+CERTIFTED CORRECT:
+^U^Nh),.
+cltARrro N.
+Secretary to Ule
+Panlungsod
+(Ctty Govemrnent DeparUrrcnt jldfr!;
+ATTESTED:
+D.
+Gty C.omcilor
+Ternporary Presidirg Offiaer
+oqytlsdan
+
+ffi. hlo. 0226 -17
+2 0 20fit
+2017
+Art
+z. DUTERIE
+ocwry"
+ATTESTED:
+7@'.
+ArrY, zttLErKA{*
+Ctty Administrahr
+-j

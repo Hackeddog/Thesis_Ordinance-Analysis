@@ -1,0 +1,339 @@
+---
+ordinance_number: "0555-18"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG A PORTION OF GI.ADIOI.A STREET, SPECIFICALLY THE BLOCK BETWEEN CARNATION AND SMPAGUITA STREETS, BARANGAY zuHANGIN PROPER, BUHANGIN DISTRICT, THIS CH, FROM 6:30 A.M. UP TO 7:00 P.M. ON SEPTEMBER 27, 2018, TO SERVE AS VENUE FOR THE SCOLTNNG ACTTVMES OF STARCHILD INNOVATIVE LEARNING ACADEMY', for your information and appropriate actio"
+date_enacted: null
+approval_date: "2018-09-27"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0555-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/temporary, topic/closure, topic/vehicui, topic/traffic, topic/along, topic/portion]
+---
+
+# Ordinance No. 0555-18
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG A PORTION OF GI.ADIOI.A STREET, SPECIFICALLY THE BLOCK BETWEEN CARNATION AND SMPAGUITA STREETS, BARANGAY zuHANGIN PROPER, BUHANGIN DISTRICT, THIS CH, FROM 6:30 A.M. UP TO 7:00 P.M. ON SEPTEMBER 27, 2018, TO SERVE AS VENUE FOR THE SCOLTNNG ACTTVMES OF STARCHILD INNOVATIVE LEARNING ACADEMY', for your information and appropriate actio
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+^,,,,td,P&ji
+H.#
+OFFICE OF THE CITY IVIAYOR
+!r
+\
+Ref. No. CAd0-2018-ffi2
+1U
+2Nd INDORSEMET{T
+ffiober 8, 2018
+Respectftrlty returned to Ms. Charito ff. SantE6, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0555-18,
+SERIES of 2018 entithd "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC ALONG A PORTION OF GI.ADIOI.A STREET, SPECIFICALLY THE
+BLOCK BETWEEN CARNATION AND SMPAGUITA STREETS, BARANGAY zuHANGIN
+PROPER, BUHANGIN DISTRICT, THIS CH, FROM 6:30 A.M. UP TO 7:00 P.M. ON
+SEPTEMBER 27, 2018, TO SERVE AS VENUE FOR THE SCOLTNNG ACTTVMES OF
+STARCHILD INNOVATIVE LEARNING ACADEMY', for your information and appropriate
+action.
+For the City Mayor:
+ATTY. TRISTAN
+DOMINGO
+Assistant City
+CMO.CRD
+RELEASED
+J
+ll:
+/*- AtL
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+qq-L4y
+BAW @
+a
+LIFE IS HERE
+G
+
+rofef ,e
+- /t)
+fOR.?TL lrtEgfiTno0
+: OF THE CITY LEGAL O
+Tel. No.298-6970
+rnk Line No. 241-1000 Loc26712251230
+o0o
+-ono
+Ker. No. r131-18-0179
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA, JR,
+OIC, Acting City Legal Officer
+Date approved: September 27,
+or[05 5 i - 1 8-c hs ure_starcfrif[_l s-0 1 Z9_9- 2 Z -
+LEGAL OPTNTON NO. 4+
+SERIES OF 2O1B
+l't INDORSEMENT
+September 27,2018
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0555-18,
+SERIES of 2018 entitled ,AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC ALONG A PORTION OF GI.ADIOI.A STREET, SPECIFICALLY
+THE BLOCK BETWEEN CARNATION AND SAMPAGUMA STREETS, BARANGAY
+BUHANGIN PROPER, BUHANGIN DISTRICT, THIS Cffi, FROM 6:30 A.M. UP TO
+7:OO P.M. ON SEPTEMBER 27, 2OLB, TO SERVE AS VENUE FOR THE SCOUNNG
+ACTIWTIES OF STARCHILD INNOVATIVE LEARNING ACADEMY| informing your
+end that the same is free from legal infirmity citing RA 7160, otherwise known as
+the Local Government Code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A
+local government unit may, pursuant to an ordinance, permanently
+or temporarily close or open any local road, alley, park, or square
+falling within its jurisdidion: Provided, however, That in case of
+permanent closure, such ordinance must be approved by at least
+two-thirds (2/3) of all the memberc of the sanggunian, and when
+necessaryl an adequate substitute for the public facility that is
+subjed to closure is provided.
+WX
+(c) Any national or local road, alley, parlt or square may be
+temporarily closed during an actual emergenry, or fiesta
+celebrations, public rallies, agricultural or industrial fairy or an
+undertaking of public works and highways, telecommunications, and
+waterworks proleLb, the duration of which shall be specified by the
+local chief executive concerned in a written order: ProvideQ
+however, That no national or local road, alley, parlt or square shall
+be temporarily closed for athletiq cultural, or civic activities not
+officially sponsored, recognizeQ or approved by the local government
+unit concerned'i
+IN VIEW THEREOF, it is recommended that the Ordinance be approved.
+ATTY. MA
+A. GALLO, RSW
+Acting
+eFflfE 0l
+City
+l
+l,
+.
+F TFIE CITY N
+Legal Officer
+iu,tiry1*tuot*o
+:,'-i
+D
+RECEIVED SY:
+DATE:
+TIME:
+2O1B ..ICT OF THE CTYADMIITISTRATCP
+ctTY ltA[oFFtC
+oAVA0 Cn \
+lLCI:IVED BY
+I
+I
+Il/
+i
+a-fk2-4[+1
+Drvtst0N
+R
+D
+(
+(
+@tee
+1E
+q vl.{t
+
+:
+September 26,20t8
+th
+SARA Z. DUTERTE
+City Mayor
+cns/nta
+I
+Time
+*
+Madam
+E*ts -9th f 4,tc
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, othennrise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0242L18 and Ordinance No. 0555-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, City of Davao, for your information, guidance, and
+appropriate action.
+Very truly yours,
+oplAkrdlJ,ko,
+Secretary to the Sanggufriang Panlungsod
+(City Government Department Head II)
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVED
+5rr 2 6 zUlU
+M,4PJ AIIIN
+AIVARADO Ll:w
+0FFtcE
+
+Gty of Davao
+Offie of the SANGGUNIANG Panlungsod
+Councilor
+Councilor
+l8th City Council
+36th Regular Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Victorio U. Advincula Jr.
+Dante L. Apostol Sr,
+Coritado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C, Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Rene Elias C. Lopez
+Bonifacio E. Militar
+Diosdado Angelo A. Mahipus Sr.
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Maria Belen S. Acosta
+Al Ryan S. Alejandre
+Joanne M. Bonguyan-Quilos
+Jimmy G. Dureza
+- Presiding Officer
+- On Sick Leave
+- OB-Attended the Investment and
+Tourism Road Show in Kuala Lumpur,
+Malaysia and Singapore
+- On Sick Leave
+- OB-Attended the Investment and
+Tourism Road Show in Kuala Lumpur,
+Malaysia and Singapore
+- OB-Attended the Youth Convention in
+Baguio City
+Councilor
+Councilor
+Leah A. Librado-Yap
+Jaffar U. Marohomsalic
+ORDINANCE NO. 0555.18
+SERIES of 2018
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR
+TRAFFTC ALONG A PORTTON OF GLADTOLA STREET, SPECTFTCALLY
+THE BLOCK BETWEEN CARNATION AND SAMPAGUITA STREETS,
+BARANGAY BUHANGIN PROPER, BUHANGIN DISTRICT, THIS
+CITY, FROM 6:30 A.M. UP TO 7:00 P.M. ON SEPTEMBER 2tt ZOLB,
+TO SERVE AS VENUE FOR THE SCOUTING ACTIVTTIES OF
+STARCHILD INNOVATIVE LEARNING ACADEMY
+
+Ord. No. 0555-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION
+oF GLADTOLA STREET, SPECTFTCALIY rHE BLOCK BETWEEN CARNATTON, AND
+SAMPAGUITA STREETS, BARANGAY BUHANGIN PROPE& BUHANGIN
+DISTRICT, THIS CITY, FROM 6:30 A.M. UP TO 7:00 P.M. ON SEPTEMBER 27,
+2018, TO SERVE AS VENUE FOR THE SCOUTING ACTIVITIES OF STARCHILD
+INNOVATIVE LEARNING ACADEMY'.
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Republic Act
+No. 7160, otherwise known as the Local Government Code of 1991, provides that any
+national or local road, alley, park, or square may be temporarily closed during an
+actual emergency, or flesta celebrations, public rallies, agricultural or industrial fairs or
+an undeftaking of public works and highways, telecommunications and watenryorks
+projects.
+SECTION 3. TEMPORARY CLOSURE Starchild Innovative Learning
+Academy requested for a temporary closure to vehicular traffic along a poftion of
+Gladiola Street, specifically the block in between Carnation and Sampaguita Streets,
+Barangay Buhangin Proper, Buhangin District, this City, from 6:30 A.M. to 7:00 P.M.
+on September 27,2018, to serve as a venue for their scouting events.
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTIVITY - This Ordinance shall take effect immediately
+upon approval,
+ENACTED, on September 25,20t8, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+,fiM^,ls^#*
+Secretary to the Sanggunillng Panlungsod
+(City Government Department Head I)
+ATTESTED:
+RNARD E.
+Vice
+Presiding
+cns/jsdam
+.AG
+
+i
+a
+'
+Ord. No. 0555-18
+APPRoVED' O .l
+OCT
+2018
+2418,
+z.
+City
+o
+MayorI
+ATTESTED
+ATTY. ZULEIKA
+LOPEZ
+City Administrator,
+t
+/

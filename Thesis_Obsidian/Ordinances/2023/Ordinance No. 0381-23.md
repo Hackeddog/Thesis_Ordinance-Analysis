@@ -1,0 +1,179 @@
+---
+ordinance_number: "0381-23"
+title: "AN ORDINANCE GRANTING LEGIS]ATIVE AUTHORIW TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMIW FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023 IN THE AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00) AS FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF MALAPATAN,"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0381-23 (2).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.9
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legis, topic/ative, topic/authoriw, topic/mayor, topic/utilize]
+---
+
+# Ordinance No. 0381-23
+
+> AN ORDINANCE GRANTING LEGIS]ATIVE AUTHORIW TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMIW FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023 IN THE AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00) AS FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF MALAPATAN,
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | - |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+48s Regular Session
+SERIES of 2023
+PRESENT
+Vice Mayor J. Melchor B. Quitain Jr.
+Councilor Marissa S. Abella
+Councilor Nilo M. Abellera Jr.
+Councilor Luna Maria Dominique S. Acosta
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Bernard E. Al-ag
+Councilor Wilberto E. Al-ag
+Counicilor Al Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Jessica M. Bonguyan
+Councilor Louie John J. Bonguyan
+Councilor Pilar C. Braga
+Councilor Edgar P. Ibuyan Jr.
+Councilor Richlyn N. Justol-Baguilod
+Councilor Diosdado Angelo Junior R. Mahipus
+Councilor Rodolfo M. Mande
+Councilor Kristine May John Adbul Mercado
+Councilor Bonz Andre A. Militar
+Councilor Temujin B. Ocampo
+Councilor Myrna G. L'Dalodo-Oftiz
+Councilor Alberto T. Ungab
+Councilor Lorenzo Benjamin D. Villafuerte
+Councilor Trisha Ann J. Villafuerte
+Councilor Jesus Joseph P. Zozobrado III
+ABSENT:
+- Presiding Officer
+Councilor
+Councilor
+Augusto Javier G. Campos III
+Jonard C. Dayap
+ORDINANCE NO. 0381.23
+SERIES of 2023
+AN ORDINANCE GRANTING LEGIS]ATIVE AUTHORIW TO THE CITY
+MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK
+RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER
+RISK REDUCTION AND MANAGEMENT FUND (CALAMIW FUND) OF THE
+CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023 IN THE
+AMOUNT OF THREE HUNDRED THOUSAND PESOS (p300,000.00) AS
+FINANCIAL ASSISTANCE TO THE MUNICIPALITY OF MALAPATAN,
+SARANGANI PROVINCE, WHICH WAS DECLARED UNDER A STATE OF
+CALAMIW DUE TO A SERIES OF EARTHQUAKES, SUBJECT TO EXISTING
+GOVERNMENT BUDGETING, ACCOUNTING, AND AUDITING RULES AND
+REGULATIONS
+
+Ord. No. 0381-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A
+PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION MANAGEMENT
+FUND (CALAMTW FUND) OF THE CrTY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 2023 IN THE AMOUNT OF THREE HUNDRED THOUSAND
+pEsos (P300,000.00) As FINANCIAL ASSISTANCE TO THE MUNTCIPALITY OF
+MALAPATAN, SARANGANI PROVINCE, WHICH WAS DECLARED UNDER A
+STATE OF CATAMTTY DUE TO A SERTES OF EARTHQUAKES, SUBJECT TO
+EXISTING GOVERNMENT BUDGETING, ACCOUNTING, AND AUDITING RULES
+AND REGULATIONS".
+SECTION 2. DECLARATION OF POUCY - It is the poliry of the City Government
+of Davao to adopt measures and adhere to the national principles and standards of
+humanitarian assistance in response to risk reduction and declares as its policy to
+judiciously utilize its resources and put the same to proper use.
+SECTION 3. ENEEIQIABY - The Municipality of Malapatan, Sarangani Province,
+which was declared under a State of Calamity, is hereby declared as beneficiary of the
+financial assistance in the amount of Three Hundred Thousand Pesos (P300,000.00).
+SECTION 4. !!l@-ffi
+- SECTION 2L of Republic Act No. L0LZL, states that not
+less than five percent (50/o) of the estimated revenue from regular sources shall be set
+aside as the Local Disaster Risk Reduction and Management Fund (LDRRMF) to support
+disaster risk management activities such as, but not limited to, pre-disaster preparedness
+programs including training, purchasing life-saving rescue equipment, supplies and
+medicines, for post-disaster activities, and for the payment of premiums on calamity
+insurance.
+Likewise, the same law states that of the amount appropriated for Local Disaster Risk
+Reduction and Management Fund (LDRRMF), thirty percent (30%) shall be allocated as
+Quick Response Fund (QRF) or stand-by fund for relief and recovery programs so that
+the situation and living conditions of people in communities or areas stricken by disasters,
+calamities, epidemics, or complex emergencies, may be normalized as quickly as possible.
+Further, upon the recommendation of the LDRRMO and approval of the Sanggunian
+concerned, the Local Disaster Risk Reduction and Management Council (LDRRMC) may
+transfer the said fund to suppoft disaster risk reduction work of other LDRRMCs which
+are declared under a state of calamity;
+SECTION 5. UTILIZATION OF FUNDS - The amounts herein appropriated shal!
+be used specifically for such item and expenditure approved by the SANGGUNIANG
+Panlungsod. Al! disbursements and utilization of funds shall be subject to the existing
+government budgeting, accounting, and auditing rules and regulations of the Department
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement
+Law (RA 9184), as well as other applicable laws, ordinances and Presidential directives.
+SECTION 6.
+approval.
+EFFECTMW -The provisions of this Ordinance shall take effect upon
+ENACTED, December L4, 2023, by a unanimous vote of all Members of the
+SANGGUNIANG Panlungsod, there being a quorum.
+
+.noffifb^#fit'
+CERTIFIED CORRECT:
+Ord. No. 0381-23
+2024
+Z. DUTERTE
+'uY
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+(cns/emz)
+ATTESTED:
+ATTESTED:
+J. ME 4
+LC}IOR B. QUTTAIN JR.
+,Nice Mayor
+Presiding Officer
+APPROVED:
+H. I.AYOG
+I
+SE
+City
+ATTY.
+Acting
+inistrator
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO LTNUZE A PORTION OF
+THE THIRTY PERCET'IT (30o/o) QUICK RESPONSE_FUND (QRF) OUT OF THE FIVE pERCENT (5olo) DISASTER
+RISK REDUSION AND MANAGEMENT FUND lcnr-rurri r0ruo) oF THE crry G9yERNMENT oF DAVA.
+FoR CALENDAR YEAR 2023 IN THE AMoUNT oF THREE nuruoieo rHousAND pEsos (p3oo,ooo.oo) AS
+FINANCAL ASSISTANCE TO THE MUNICIPAUTY OF MAI.APATAN, SARANGANI PROVINCE, WHICH WAS
+DECI.ARED UNDER A STATE OF CAI.AMITY DUE TO A SERIES OF EARTHQUAKES, SUBJEST To DcfiNG
+GOVERNMENT BUDGEIING, ACCOUNING, AND AUDMNG RULES AND REGULATIONS

@@ -1,0 +1,373 @@
+---
+ordinance_number: "087-19"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2019 IN THE AMOUNT OF ONE MILLION TWO HUNDRED THOUSAND PESOS (p1,200,000.00) AT THREE HUNDRED THOUSAND PESOS (p300,000.00) EACH To THE MUNICTPAL"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 087-19 (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.18
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/utilize, topic/portion, topic/thirty, topic/percent]
+---
+
+# Ordinance No. 087-19
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FM PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2019 IN THE AMOUNT OF ONE MILLION TWO HUNDRED THOUSAND PESOS (p1,200,000.00) AT THREE HUNDRED THOUSAND PESOS (p300,000.00) EACH To THE MUNICTPAL
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.o' *" i
+ilffi
+'5.'t t; ls,rG
+Ref. No. CAdO-202G00813
+il
+lc
+-+-:ZoP'm
+*
+2ND INDORSEMENT
+April B, 2021
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 251, SERIES of 2021dated March 9,
+202L of the City Legal Office, relative to the attached Ordinance No. 087-19, SERIES of
+20t9 entitled, *AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTIUZE A PORTION
+OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE
+PERCENT (5OlO) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CAI.AMITY
+FUND OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2019 IN THE
+AMOUNT OF ONE MILLION TWO HUNDRED THOUSAND PESOS (P1,200,000.00) AT THRE
+HUNDRED THOUSAND PESOS (p300,00.00) EACH TO THE MUNICIPALmES OF
+MAGSAYSAY, BANSALAN, AND MATANAO, ALL OF DAVAO DEL SUR AND THE
+MUNICIPALITY OF MAKII.AI.A, NORTH COTABATO WHICH WERE ALL DECLARED BE
+UNDER A STATE OF CALAMITY DUE TO THE SEVERE DESTRUCTION OF AN
+EARTHQUAKE, SUBJECT TO EXISTING GOVERNMENT BUDGETING, ACCOUNTING AND
+AUDffiNG RULES AND REGULATIONS", with the information that no executive action
+was taken on the subject measure since the Ordinance has already lapsed into law, for
+.-, your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+NGO
+Assistant
+(Administration)
+40421
+tr'1
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.com
+o t-)o
+BV@
+LIFE IS HERE
+Repudlib 0f the Philippines
+OFFICE OF THE CITY IVIAYOR
+A
+"
+rt{RtsPoilDEt{GA}lD
+RELEAS
+MARTA
+OFFICE
+MAYOR,S
+CITY
+Drv
+RECORDS
+D
+E
+3 I
+/q
+Zt
+PR
+4!tt
+
+February L6,2021
+0Ltb t I -It
+SARA Z. DUTERTE
+City Mayor
+Madam:
+Ut.tott- 0t0q+ p.lrg
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0323-19 and Ordinance No. 087-19, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+rTr
+*
+d
+a
+a&Wo k
+SANTOS
+)r
+N.
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+CIIY MAYOR'S CFFICE
+CORRESPONDENCE AND RECORDS DIV
+REGEI\,ED
+l-rB i 0 2021
+ADMINISTRATIVE OFFICER I
+G.
+NE
+EILEEN
+
+!crs19o
++
+NG
+e?)
+r. I
+Etl
+lrl3
+Republic of Uie Philippines
+OFFICE OF THE CITY LEGAL OFFICE
+Tel. No.298-6970
+Trunk Line No. 241-1fl[ Lx267*225*230
+davaoci$egal@gmai l.com
+Ref. No.2020-00694
+LEGAL OPINION NO. 2E t
+SERIES OF 2O2L
+Re: Ordinance No. 087-19-, SERIES of 2019 entitled *AN
+ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A
+PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE
+FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK
+REDUCTION AND MANAGEMENT FUND (CAI.AMITY FUND) OF THE
+CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2019, IN
+THE AMOUNT OF ONE MILLION TWO HUNDRED THOUSAND
+PESOS (p1,200,000.00), AT THREE HUNDRED THOUSAND PESOS
+(p300,000.00) EACH To rHE MUNrcrPALrrrES oF MAGSAYSAY,
+BANSAI.AN, MATANAO, ALL OF DAVAO DEL SUR AND THE
+MUNICIPALITY OF MAKII.AI.A, NORTH COTABATO WHICH WERE
+ALL DECI.ARED TO BE UNDER A STATE OF CAI.AMITY DUE TO
+SEVERE DESTRUCION OF AN EARTHQUAKE, SUBJECT TO
+EXISTING GOVERNMENT BUDGETING, ACCOUT,ITING AND
+AUDMNG RULES AND REGUI.ATIONS"
+l't INDORSEMENT
+March 9,2021
+Respectfully forwarded to the Office of the City Mayor, through
+the Office of the City Administrator, both this City, the abovementioned subject ordinance, informing your end that the same has
+/
+already lapsed into law.
+Respectfully submitted.
+ATTY. OSMU
+P. VILLANUEVA, JR.
+Asst. City Legal Officer
+Officer-In-Charge
+I
+I
+I
+Date of approval: March L0,202L
+GfFffiE [rE e{.9 CI?Y F.ilffieEIRmOR
+Sifr S/#J, (}i'+eE
+&nw c!?T
+ffiEEE0 B[ Ja'af,
+-
+lt)
+fltt
+otFrcti I
+ct1a
+Drv
+ED
+0u
+MAR I
+L
+Pr
+$
+U
+2,1't-[+t
+
+Republic,of the Philippines
+tgth City Council
+16th Regular Session
+SERIES of 2019
+PRESENT:
+Councilor
+Councilor
+Councillor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Albefto T. Ungab
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J, Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+- Temporary Presiding Officer
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+- OB- Acting City Mayor
+ORDINANCE NO. 087.19
+SERIES of 2019
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION
+OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF
+THE FM PERCENT (5olo) DISASTER RISK REDUCTION AND
+MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF
+DAVAO FOR CALENDAR YEAR 2019 IN THE AMOUNT OF ONE MILLION
+TWO HUNDRED THOUSAND PESOS (p1,200,000.00) AT THREE HUNDRED
+THOUSAND PESOS (p300,000.00) EACH To THE MUNICTPALITTES OF
+MAGSAYSAY, BANSALAN, AND MATANAO, ALL OF DAVAO DEL SUR AND
+THE MUNICIPALITY OF MAKIITLA, NORTH COTABATO WHICH WERE ALL
+DECLARED TO BE UNDER A STATE OF CALAMITY DUE TO THE SEVERE
+DESTRUCTTON OF AN EARTHQUAKE, SUBJECT TO EXISTTNG
+GOVERNMENT BUDGETING, ACCOUNTING AND AUDITING RULES AND
+REGULATIONS
+^
+
+Ord. No. 087-19
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled:
+SECTION 1. TITLE. - This Ordinance shall be known as 'AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW
+PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FrvE pERCENT
+(5olo) DISASTER RISK REDUCTIoN AND MANA-GEluenr FUND (CALAMTW FUND)
+oF THE CITY GovERNMENT oF DAvAo FoR cALENDAn yeln zo:rg, rru rie
+AMOUNT oF oNE MTLLIoN Two HUNDRED THoUSAND pEsos (p 1,2ori,ooo.oo)
+AT THREE HUNDRED THOUSAND PEsos (P3oo,oo0.o0) EACH To THE
+MUNICIPALITIES OF MAGSAYSAY, BANSALAN, MATANAO, ALL OF DAVAO DEL
+suR AND THE MUNICIPALITY OF MAKIHLA, NORTH COrAelro wHIcH WERE
+ALt DECLARED TO BE UNDER A STATE OF CALAMITY DUE TO THE SEVERE
+DESTRUCTION OF AN EARTHQUAKE, SUBJECT TO EXISTING GOVERNMENT
+BUDGETING, ACCOUNTING AND AUDITING RULES AND REGUIATIONS.
+SECTION 2. DECLARATION OF POLICY. In keeping with its mandate and in
+response to the needs of the people, the City Government of Davao declares as its policy
+to judiciously utilize its resources and put the same to proper use.
+(5o/o) L
+SECTION 3. BENEFICIARIES. The Municipalities of Magsaysay, Bansalan, and
+Matanao, all of Davao del Sur and the Municipality of Makilala, North Cotabato, are
+hereby designated as beneficiary of this financial assistance in the amount of THREE
+HUNDRED THOUSAND PESOS (p 300,000.00) EACH.
+SECTION 4. LEGAL BASIS. SECTION 324 (d) of Republic Act No. 7t60, otherwise
+known as the Local Government Code of 1991, as amended by Republic Act No. g1g5,
+states that "Five Percent (5%) of the estimated revenue from regular sources shatt be set
+aside as annual lump sum appropriations for retieli, rehabilitatton, reconstruction and
+other works or seruices in connedion with calamities which may occur during the budget
+year. Provided, however, that such fund shalt be used onty in the area, or a portion
+thereof, of the local government unit or other areas affected by a disaster or catamity, as
+determined and declared by the local sanggunian concerned'i
+Fufther, SECTION 5 of the Implementing Rules and Regulations of Republic Act No.
+8185, states that:
+"SECTION
+5.
+and
+of Five
+UMDSUM
+Appropriations for Calamity Fund
+a) Allocation
+XXX
+XXX
+XXX
+LGUs may also allocate/use a portion of the five percent (5o/o) Catamity Fund to
+other affected areas on condition that the said areas are declared as under a
+State of Calamity by the SANGGUNIANG concerned,,;
+b) Utilization
+(2) A portron of the calamity fund may also be authorized to be used by the
+LGU concerned to provide financial assistance to other LGIJs whose area or
+poftion thereof had been declared under a state of calamity by its Sanggunian.
+
+Ord. No. 087-19
+SECTION 5. USE OF FUNDS. - The amount herein appropriated shall be used
+specifically for such items and expenditures approved by the SANGGUNIANG Panlungsod. All
+disbursements and utilization of funds shall be subject to the existing government
+budgeting, accounting and auditing rules and regulations of the Department of Budget
+and Management (DBM), the Commission on Audit (COA), the Procurement Law (RA
+9184), as well as other applicable laws, ordinances and Presidential directives.
+SECTION 6.
+approval.
+EFFECTMTY. - This Ordinance shall take effect immediately upon
+ENACTED, October 22, 20t9, by a unanimous vote of all the Members of the
+Sangunian, there being a quorum.
+CERTIFIED CORRECT:
+cAMnrfo,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+cns/emz fl
+ATTESTED:
+A
+UNGAB
+ng Vice Mayor
+Temporary Presiding Officer
+.-.r1 1r::..t
+,zul
+v
+I;"{-il'=,;.Filf'
+glSptttlED,^.rrPF(ri!rFl\ ^6!:TEFI THE I APSE Ol:
+ft.A. It&tl
+-SARA
+D
+ERTE
+citr vauS2
+ATTESTED:
+ATTY. ZULEIKA T. TOPEZ
+City Administrator
+AN ORDINANCE AUTHORIZING THE CrrY MAYOR TO UTILIZE A PORTION OF 300/o QRF OUT OF THE 5olt,
+DISASTER RISK REDUCNON AND MANAGEMENT FUND (CAI}MITY FUND) OF THE CTTY GOVERNMENT OF
+DAVAO FOR CALENDAR YEAR 2019 IN THE AMOUNT OF P1,2OO,OOO.OO AT P3OO,OOO.OO EACH TO THE
+MUNICIPALITIES OF MAGSAYSAY, BANSALAN, AND MATANAO, ALL OF DAVAO DEL SUR AND THE
+MUNICIPALITY OF MAKII.ALA, NORTH COTABATO WHICH WERE ALL DECLARED TO BE UNDER A STATE OF
+CAIAMITY DUE TO THE SEVERE DESTRUCNON OF AN EARTHQUAKE

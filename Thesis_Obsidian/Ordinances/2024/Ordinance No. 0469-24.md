@@ -1,0 +1,200 @@
+---
+ordinance_number: "0469-24"
+title: "AN ORDINANCE GMNTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SrGN, FOR AND rN BEHATF OF THE CrTY OF DAVAO, THE DEED OF SALE EXECUTED BY THE CITY GOVERNMENT OF DAVAO INVOLVING THE LOT UNDER THE SLUM IMPROVEMENT AND RESETTTEMENT (SIR) PROJECT IN FAVOR OF THE AWARDEE, MARIA LANI ADAPTAR.ROQUE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0469-24 Deed of Sale Maria Lani Adaptar-Roque (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/gmnting, topic/legislative, topic/authoriw, topic/mayor, topic/srgn, topic/behatf]
+---
+
+# Ordinance No. 0469-24
+
+> AN ORDINANCE GMNTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SrGN, FOR AND rN BEHATF OF THE CrTY OF DAVAO, THE DEED OF SALE EXECUTED BY THE CITY GOVERNMENT OF DAVAO INVOLVING THE LOT UNDER THE SLUM IMPROVEMENT AND RESETTTEMENT (SIR) PROJECT IN FAVOR OF THE AWARDEE, MARIA LANI ADAPTAR.ROQUE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic of tn6 Philippines
+200' City Council
+146 Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Marissa S. Abella
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+January N. Duterte
+Jesus Joseph P.Zozobrado III
+- Presiding fficer
+- On Sick Leave
+- On Vacation Leave
+- OB - Attended a Barangay Conference
+- On Special Privilege Leave
+ORDINANCE NO. 0469-24
+SERIES of 2024
+AN ORDINANCE GMNTING LEGISLATIVE AUTHORIW TO THE CITY
+MAYOR TO SrGN, FOR AND rN BEHATF OF THE CrTY OF DAVAO, THE
+DEED OF SALE EXECUTED BY THE CITY GOVERNMENT OF DAVAO
+INVOLVING THE LOT UNDER THE SLUM IMPROVEMENT AND
+RESETTTEMENT (SIR) PROJECT IN FAVOR OF THE AWARDEE, MARIA
+LANI ADAPTAR.ROQUE
+
+Ord. No. 0469-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITTE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORIW TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAq THE DEED OF SALE EXECUTED By THE CITY
+GOVERNMENT OF DAVAO INVOLVING THE LOT UNDER THE SLUM IMPROVEMENT
+AND RESETTLEMENT (SIR) PROJECT IN FAVOR OF THE AWARDEE, MARIA IANI
+ADAPTAR-ROQUE',.
+SECTION 2. PERTINENT PROVISIONS UNDER THE LOCAL GOVERNMENT
+coDE oF 1991 -
+"SECTION 16. General Welfare - Every local government unit shal!
+exercise the powers expressly granted, those necessarily implied
+therefrom, as wel! as powers necessary, appropriate, or incidental for its
+efficient and effective governance, and those which are essential to the
+promotion of the general welfare. Within their respective territorial
+jurisdictions, local government units shall ensure and suppoft, among
+other things, the preseruation and enrichment of culture, promote health
+and safety, enhance the right of the people to a balanced ecology,
+encourage and suppoft the development of appropriate and self-reliant
+scientific and technological capabilities, improve public morals, enhance
+economic prosperity and social justice, promote ful! employment among
+their residents, maintain peace and order, and preserue the comfort and
+convenience of their inhabitants."
+"SECTION 455. Chief
+Compensation -
+Executivel Powers, Duties and
+(a) The city mayor, as chief executive of the city government, shall
+exercise such powers and perform such duties and functions as provided
+by this Code and other laws.
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant to
+SECTION 16 of this Code, the city mayor shall:
+)00(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other documents
+upon authority of the SANGGUNIANG panlungsod or pursuant to law or
+ordinance."
+SECTION 3. COVERAGE - The Ordinance shall cover the grant of legislative
+authority to the City Mayor to sign, for and in behalf of the City of Davao, the Deed of Sale
+executed by the City Government of Davao involving the lot under the Slum Improvement
+and Resettlement (SIR) Project in favor of the awardee, Maria Lani Adaptar-Roque.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, ?ry SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+
+I
+APPROVED:
+Ord. No. 0469-24
+2024
+SECTION 5. EFFECTMW- This Ordinance shall take effect upon approval.
+ENACTED, on the 16s day of April 2024, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+ATTESTED:
+J.Merc#e. eurrArN rR.
+/vace Mavor
+#esiding oificer
+cns/josh
+.r,o$#n]rfu,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head I[
+l,,lAY A g 2i,24
+Z. DUTERTE
+J
+H. LAYOG
+Acting
+istrator
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CITY OF DAVAO, THE DEED OF SALE EXECUTED BY THE CITY GOVERNMENT
+OF DAVAO INVOLVING THE LOT UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SIR)
+PROJECT IN FAVOR OF THE AWARDEE, MARIA ]ANI ADAPTAR-ROQUE
+ATTY.

@@ -1,0 +1,379 @@
+---
+ordinance_number: "0273-17"
+title: "AN ORDINANCE CONDONING THE IMPOSHON OF REAL PROPERTY TAX AND TRANSFER TM, FEES AND SURCHARGES FOR REAL PROPERTIES DONATED TO AND ACCEPTED BY THE CITY GOVERNMENT OF DAVAO\", for your appropriate action. For the City Mayor: ATTY. rnrsrauffioMrNco Assistant City Administrator (Administration) 9d / tuo-r-rr RELEASEM CMO. CRD LIFE IS HERE Second Floor, City Hall Building, City Hall Drive, San Pedro St.,"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0273-17.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2017.0
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/condoning, topic/imposhon, topic/real, topic/property, topic/transfer, topic/fees]
+---
+
+# Ordinance No. 0273-17
+
+> AN ORDINANCE CONDONING THE IMPOSHON OF REAL PROPERTY TAX AND TRANSFER TM, FEES AND SURCHARGES FOR REAL PROPERTIES DONATED TO AND ACCEPTED BY THE CITY GOVERNMENT OF DAVAO", for your appropriate action. For the City Mayor: ATTY. rnrsrauffioMrNco Assistant City Administrator (Administration) 9d / tuo-r-rr RELEASEM CMO. CRD LIFE IS HERE Second Floor, City Hall Building, City Hall Drive, San Pedro St.,
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | 2017 |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Cites or amends
+
+- [[Ordinance No. 0189-14]]
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+RESEIVED
+0A;s:"c-Ll{Ii7
+bvft
+sa6i'Jl.9
+n
+l!.
+\d
+AdninATDD/neph
+2ND INDORSEMENT
+November L3,20t7
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein approved Ordinance No. 0273-t7,
+SERIES of 2017, entitled "AN ORDINANCE CONDONING THE IMPOSHON OF REAL
+PROPERTY TAX AND TRANSFER TM, FEES AND SURCHARGES FOR REAL
+PROPERTIES DONATED TO AND ACCEPTED BY THE CITY GOVERNMENT OF
+DAVAO", for your appropriate action.
+For the City Mayor:
+ATTY. rnrsrauffioMrNco
+Assistant City Administrator
+(Administration)
+9d
+/ tuo-r-rr
+RELEASEM
+CMO. CRD
+LIFE
+IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+P
+'
+F I ' nebuHic of the Philippines
+OFFTCE'OF THE CTTY MAYOR
+t
+a+
+!('3
+GV.
+
+GIS
+Republic cf the philippines
+.
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. ZZt-5193 * 225-0183 av1,01
+Trunk Line No. 241-1000 Lclc. 267 | '
+o0o
+Ref. No. 7L3L-L7
+LEGAL OPINION rVO. Sl/,i , SERIES OF 2OL7
+ls INDoRSEMENT
+October LB,20L7
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this city, the herein attached Ordinance No.0273-17, SERIES of
+2OL7 CNtitICd "AN ORDINANCE CONDONING THE IMPOSMON OF REAL PROPERTY
+TAX AND TRANSFER TA& FEES AND SURCHARGES FOR REAL PROPERNES DONATED
+TO AND ACCEPTED BY THE CITY GOVERNMENT OF DAVAO", informing your end that
+this office finds the same free from legal infirmity. Hence, it is recommended that the
+same be approved.
+ATTY.
+GALLO, RSW
+Attorney 1V
+Approved by: nffi
+ATTY. osMuny'o6-. *a*NuEvAy lR
+OIC-Asst. City L6gal Officer
+Date approved: October 20, 20Ll
+. .':l0b OF THE crry ADM;TUISTRA1OCif!, :.!.:. ; i:1.!k
+fai
+li\
+lEcLlvED r.y
+!A-F
+c\
+It
+,/o
+t'.
+)
+ffiHfrffiNVEM
+EMO. CRD
+v4 o
+lqn - ?4 -1v/
+o
+C IT)
+
+.sa6ilrc
+Repubtic of the Philippines
+City of Davao }ao.As
+October 4,20L7
+SARA Z. DUTERTE
+City Mayor
+cns/lnta
+t
+m
+o
+t
+Time
+*
+Madam
+H- 9fttf.tw
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01184-17 and Ordinance No. 0273-17, both SERIES of 20t7 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+veo
+ftg*#4,ih #o+;,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+RHCffi$-V-#D
+CMO - CBD
+CT
+l0lor - /- I
+
+(i
+ri
+o?
+r5
+f,
+0!e
+Repdblic of tfre philipgrirres
+of the SANGGUNIANG pantungsod
+Office
+18th City Council
+33d Regutar Sessfrrn
+SERIES of ZALI
+PRESENTI
+Councilor
+&uncihr
+Councibr
+Councilor
+Councilor
+Councilor
+Councilor
+Councihr
+Councilor
+Councibr
+Councihr
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncibr
+Councilor
+Councilor
+Councibr
+Councihr
+Couneihr
+01{ OFFICIAL BUSIHESS:
+Vice Mayor
+Councilor
+Avegayfe Dalsdo Ortiz
+Nih M. Abdhra Jr.
+l.laria Belen S, Ao6ta
+Mctorio U. Advincula Jr.
+Bernard E, Al-ag
+Al Ryan 5. Aejandre
+Dante L Apctol Sr,
+Conmdo C. Baluran
+Fla. Cherry Ann M. Eonguyan
+Pihr C. Braga
+Danilo C. Dapnghirang ,
+April I'larb C. Dayap
+Jimmy G, Dureza
+January N. Duterte
+ffgar P. Ibuyan Jr.
+Leah A Ubrado-Yap
+Rane Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+J. tt'leldlor B. Quitain Jr.
+Halila Y. Sudagar
+Mary Josdle D, Villafuerte
+- Temporary Preiding fficer
+Attended a meeting with the
+Davao Gty Invetment Promotion
+Center (DCIPC)
+- On Vacation Leave
+- On Sick Leave
+- 0n Sick Leave
+Paolo Z, Duterte
+Marissa P. Salvador-Abella
+ABSEI{T:
+Councilor
+Councilor
+eouncilsr
+Joanne M, Bonguyan{uilos
+Antoinette G. Principe{astrod*
+Jesus JmeBh P. Zozobrado III
+ORDIilA]ICE NO. O273.L7
+Serhe of 2O17
+Iil ORDI]IAIICE ffiIIIH}HIHG THE IHFESITIOH OF REAL
+PR0PERTY Ttx AIID TRAilSFER TAx, FEE$ lilD SUBCHAEGE$
+FOR REAI PROPERTIE$ DOHATED TO A}ID AC{EPTED EY THE
+CITY G(IVERHIiEHT OF DAVAO
+/
+
+rtt
+PageZ of 4
+Ord. No. A273-L7
+Be it ordaind by the SANGGUNIANG Panlungsod of Eavao City in sesion
+assembled, that:
+SECTIOI{ 1. TITLE - This Ordinance shall be known as "Al{ ORDII{A]{CE
+COIIDONI]IG THE I],IFOSITION OF REAL PROPERTY TAX AND TRANSFER TAX,
+FEES A]ID SURCHARGES FOR REAL PROPERTIES DONATED TO AilD
+AtrEPTED BY THE CITY GOVERH}IEHT OF DAYAO"
+SECTIOH 2, DECI-ARATIOH OF POU(Y - It shall be the policy of the Lpcal
+Government to act promptly on donations to the City of DaYao and facilitate the
+transfer of tiHes in its name for all validly donatd and ameptd real properties;
+SECTIO;I 3, ggllEBtgE - This Ordinanse shall govern the condonatisn of real
+Froperty taxs, feesJharges and other impcsitions on real propertim donated and
+arepted by the City Government sf Davao;
+SECTIOTI 4. AUTHORITY TO GRANT TAX EXEMPTION PRIVILEGES -
+Local government units may, through ordinancm duly approved, grant tax exemptions,
+incentives or reliefs under such terms and conditions, as they may deem necessary;
+SECTIOT{ 5. DEFIilmOil OF TERl.lS - As used in ttris Ordinance, the
+folbwing shall be construd to mean as follov*s:
+(a) fundcial tts - refers to the right to use and enjoy property according to
+one's own tiking or so as to derive a profit or benefit from it including all that
+makes it desirable or habitable; as distinguished from a mere right of
+occupancf or possession;
+(b) fundonatton - is an act of liberality by Sre Gty Government of Davao, which,
+wiUrout receiving any equivalent, renouncs Ste enforcement of $e donor's
+obligation resulting in its partial or total extinguishment;
+(c) Ral Pnprty - that which consist of land and all rights and profits arising
+from and annexed to land, of a permanent or immovable nature;
+td) funation - refers to an act of liberality whereby a person disposes
+gratuitously of a thing or right in favor of another, who accepts it;
+(e) M of Donation - refers to the donation of an immovable property made in
+a public instrumen! executed, sukcribed and sworn to by the donor
+oonvreying the ownership of the real property to the City Government of
+Darao, specifying therein the property donated and the value of the charges,
+which the donee must satisfy;
+(f) funor- is a private person or entity who owns a real property and tran#er
+the ownership of such property to the City Government of Davao as an act of
+liberality and genercity;
+(g) Done - refers to the City Government of Davao which accepts the real
+property donated by a priwte person or entity;
+
+'!lt
+Ord No. A2fi-17
+(hl Parfxtd/Accaryted fronabon - a donation that has b€en validly exsutd by
+the donor and accepted by the City Mayor ilpon grant af legislative authority
+by the SANGGUNIANG Panlungsd;
+(i) Apprcpriate fumment Agencix - are tfie offics which shall be either from
+the Lmal or National Government enumerated as follows:
+i, City Mayo/s ffice - is an office who shall cause the signing of
+the Deed of Donation upon legislative authority granted by the
+SANGGUNIANG Panlungsod and the execution of the Deed of
+Acceptance on the donations made;
+City Assesso/s ffice - is an office who shall cetuse the dropping
+of the real properfy from the assessnent roll for tar purpses;
+ilt,
+Reglstry of Ms - is an office who shall cttuse the issuance of
+the Transfer Certificate Title to the City Government of Davao
+upon presenUng the Deed of Donation and Deed of Acaeptance
+and upon payment of fees and charges provided by law;
+City Lryal ffice - is an office under *re Executive Department
+which shall cause the rariew of the public instrument and
+r€{ommend the necssary aetton to be taken for proteeUsn and
+preservation of the real proprry;
+Task Force on the Inventory of Real Properties of the City of
+Davao- is a Task Force group created pursuant to Executive Order
+No. 7, SERIES of 2016 who is tasked to preserve and protect the
+real propertres of the City Gwernment of Davao;
+SECTIOil 6. PROTECTIOTI AND PRESERVATIOH OF THE REAL
+PROPERTY - for purposes of protecting from legal infirmitim and preseMng the real
+property validly donated to the City in accordance with Article 749 in relation to Article
+1356 of the New Civil Code, all liabilitis for real properfy tax on prsperty, actually and
+direcfly used by the Clty of Dayao and/or under its administration, are hereby
+eondond. All fines, penaltis and interests on sueh deficieney real BroBerty tax
+liabilitie and transfer fes are also hereby condoned and relieved from payment
+thereof.
+The ei$ Treasurer shall issue the necssary Tax Clearancs and TranEfer Tax to
+facilitate the Transfer in the naffie of the Cify of Davao. The Task Force on the
+Inventory sf the Real FroBertis shall ba rsponsible for the ns-arsary aettons to be
+taken for tifling of the real property in lfie name of the City.
+The Task force on the Inrrentory of Real Properties of the City Government of
+Dayao and/or the City Legal fficg City Assessor's ffice and Secretariat of the
+SANGGUNIANG Panlungsod shall submit the mmplete list of properties of donated
+propertie which shall be subject the condonation upon the effectivity of this Ordinance.
+ii
+v
+
+' Page'4 of 4
+Ord. No. A273-17
+SECtIOil 7. LOCAL TAX LIABILITY OF THE DO!{OR - The real property tax
+liabilities and transfer tax liabilities of donors of real propefties validly donated to and
+accepted by the City Government of Davao are herein condoned, provided that such
+property has been used for the benefit of the public andlor under the administration of
+the City Government of Davao even if the titles remain under the donort name;
+SECTIOH 3. SEED OF DSI{ATIOHS
+AFTER TTTE EFFECTIVITY
+Of THIS ORDIIIAiICE - Any H of Donation in favor of the ei$ Government of
+Davao after the effectivity of this Ordinance shali strictiy conform to the requiremenb
+set forth in Ordinance No. 0189-14, Seris of 2014 and the t.oeal Governmant eode
+requiring the donors to pay Real Propefi Taxes and Transfer Taxes of the donated
+propertim and submit the necmsary Real Property Tax Clearance before acceptance be
+made by the City Covernment of Davao;
+SECfIOil 9, SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance shall be declared unconstitutional or invalid, no other
+sections or provisions shall be affected thereby;
+SECTION 10.
+- This Ordinance shall take effect after its
+publication in a newspaper of general circulation in the City of Davao;
+EIIACIED, September 5, 2017, by a unanimous vote of all the ft{emberE sf the
+Sanggunian, there king a quorum.
+CER]IFIED CORRECT:
+n[,lM
+CHARITO n/#",
+)r
+H.
+r.ffiF.l.fhNi
+ILJILU.
+City Cou
+Temporary Presiding 0fficer
+as/dad
+ATTY. TULEIKA
+Secretary to the SANGGUNIANG Panlungsod
+(City Gevernment Depaffnt Head II)
+P
+AFPR{}vED:0CT I 3 20lrl
+'tnt 7
+d.tj I ,
+7.,
+\
+ATTESTED:
+City Administrator
+* ci*t ?oluy/

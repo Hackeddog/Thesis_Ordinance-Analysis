@@ -1,0 +1,467 @@
+---
+ordinance_number: "094-16"
+title: "AN ORDINANCE GRANTING THE REQUEST OF SAINT ]OSEPH PRIORY OF DAVAO CITY FOR. EXEMPTION FR,OM FEES FOR THE INSTALLATION OF 180 TARPAULTNS ON ITS'MARY IIISSION TOURS' OT{ NOVEMBER 15-28, 2016: ON NOVEMBER 15-18, 2016 GOING TO TORIL AND MATINA STO NIfrO SHRINE, NOVEMBER L9, 20'..6, TO BUHANGIT{, NOVEMBER 24, 2016, TO CALTNAN PARK AND ON NOVEMBER 28, 2016 IT,IARY€ TIISSIOI{ TOT,R WILL PROCEED TO CAGAYA"
+date_enacted: null
+approval_date: "2016-11-19"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 094-16.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.85
+detected_enactment_year: 2016.0
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2015.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/granting, topic/request, topic/saint, topic/oseph, topic/priory, topic/exemption]
+---
+
+# Ordinance No. 094-16
+
+> AN ORDINANCE GRANTING THE REQUEST OF SAINT ]OSEPH PRIORY OF DAVAO CITY FOR. EXEMPTION FR,OM FEES FOR THE INSTALLATION OF 180 TARPAULTNS ON ITS'MARY IIISSION TOURS' OT{ NOVEMBER 15-28, 2016: ON NOVEMBER 15-18, 2016 GOING TO TORIL AND MATINA STO NIfrO SHRINE, NOVEMBER L9, 20'..6, TO BUHANGIT{, NOVEMBER 24, 2016, TO CALTNAN PARK AND ON NOVEMBER 28, 2016 IT,IARY€ TIISSIOI{ TOT,R WILL PROCEED TO CAGAYA
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2016 |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2015 |
+| **Resolved** | **2016** |
+
+## Cites or amends
+
+- [[Ordinance No. 094-15]]
+- [[Ordinance No. 093-16]]
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+o,
+IEt
+(,2i
+bNc
+18s City Council
+17s Regular Session
+SERIES of 2016
+PRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+ON OFFTCIAT BUSINESS:
+Councilo( Nilc M. Abe{€ra lr.
+Bernard E. Al-ag
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+AL Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. CherryAnn M. Bonguyan
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Viflafuerte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding fficer
+- On Vacation Leave
+- On Sick Leave
+ORDINANCE NO.094-16
+Seraes of 2016
+AN ORDINANCE GRANTING THE REQUEST OF SAINT
+]OSEPH PRIORY OF DAVAO CITY FOR. EXEMPTION
+FR,OM FEES FOR THE INSTALLATION OF 180
+TARPAULTNS ON ITS'MARY IIISSION TOURS' OT{
+NOVEMBER 15-28, 2016: ON NOVEMBER 15-18, 2016
+GOING TO TORIL AND MATINA STO NIfrO SHRINE,
+NOVEMBER L9, 20'..6, TO BUHANGIT{, NOVEMBER 24,
+2016, TO CALTNAN PARK AND ON NOVEMBER 28, 2016
+IT,IARY€ TIISSIOI{ TOT,R WILL PROCEED TO CAGAYAT.
+DE ORO CITY
+ABSENT:
+Paolo Z. Duterte
+Joanne M. Bonguyan-Quilos
+Pilar C. Braga
+Jimmy G. Dureza
+January N. Duterte
+- On Sick Leave
+- On Vacation Leave
+
+Ord. No. 094-16
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST OF SAINT JOSEPH pRIORy OF DAVAO CrTy FOR
+EXEMPTION FROM FEES FOR THE INSTALLATION OF 180 TARPAULINS ON ITS
+'MARY MISSION TOURS" ON NOVEMBER 15-2& 2016: ON I{OVEMBER 15-18,
+2016 GOING TO TORIL AND MATINA STO NIfrO SHRINE, NOVEMBER 19,
+2016, TO BUHANGIN, NOVEMBER 24, 2016, TO CALINAN PARK AND ON
+I{OVEMBER 28, 2016 MARy',S MTSSION TOUR WrLt PROCEED TO CAGAYAN DE
+ORO CITY";
+SECTION 2, COVERAGE - The exemption solely refurs to the payment of local
+taxes and fees for the installation of 180 tarpaulins;
+SECTION 3. - PERIOD -The exemption shall be from November 15-28, 2016
+only;
+SECTION 4. - CONDITIONS
+a. For the safety of the pedesffians/commuters/motorists, close coordination
+should be done with the Departrnent of Public Works and Highways, the City Engineer's
+Office and Davao Light & Power Company during the installation of 180 tarpaulins;
+b. No print material shall
+pedestrians/comm uters/motorists;
+obstruct the view of the
+e. In no case shall the Organizers be exempt from compliance with other
+provisions of the "Signage Ordinance of Davao City" and other applicable laws and
+ordinances;
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, 8h of November 2016, by a unanimous vote of the Members of the
+SANGGUNIANG present, there being a quorum.
+CERTIFIED CORRECT:
+^ Al/^i\.1,"t
+CTIARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II),
+c. The City Government of Davao shall be recognized as the event partner in all
+programs and print materials;
+d. All print materials shall be removed immediately at no cost to the City
+Government of Davao on November 29,2016;
+
+Ord. No. 094-16
+r
+ATTESTED:
+ATTESTED:
+City Mayor
+E. AL-AG
+Acting Vice Mayor
+Temporary Presiding Officer
+cns/jsdam
+APPROVED.,^,, , r ?ol[ .2016
+NUr''--
+yw%
+ATTY. ZULEIKA T. LOPEZ
+City Administrator e
+
+$G
+OFFICE OF THE CITY LEGAL OFRCER
+City of Davao a"r+
+v e2
+t:
+LEGAL OPINION NO. '{(]} , SERIES
+oF 2016
+RE: ORDINANCE NO. 094-16, SERIES of 2016 entitled "AN
+ORDINANCE GRANNNG THE REQUEST OF SAINT JOSEPH PRIORY
+OF DAVAO CITY FOR EXEMPTION FROM FEES FOR THE
+INSIALLANON OF 180 TARPAUUNS ON ITS "MARY MISSION
+TOURS" ON NOVEMBER 15-28, 2016: ON NOVEMBER 15-18, 2016
+GOING TO TORIL AND MATINA STO. NINO SHRINE, NOVEMBER
+19,2016, TO BUHANGIN, NOVEMBER 24,2016, TO CAUNAN PARK
+AND ON NOVEMBER 28, 20T6 MARY'S MISSION TOUR WILL
+PROCEED TO CAGAYAN DE ORO CITY"
+'SINDoRSEMEMT
+November 17,2016
+ATTY. M
+A. GALLO, RSW
+1V
+9l
+IHAIT)
+Nrrl &or
+ATTY. OSMU
+P. VTILANUEVA" JR.
+OIC- City Legal Officer
+'r,
+, ' 'rf,t{l-t'i:,
+lt.wltl
+.i'{r
+Date approved: November 2L,20L6
+erl, -l)t-G(
+Ref. No. 1131-16_
+Respectfully bnvarded to the Office of the City Mayor, through the ffice of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant for exemption from fees for the installation of 180 tarpaulins is well within the
+powers of the SANGGUNIANG Panlungsod. Hence, it is recommended that the subject
+ordinance be approved.
+Approved by:
+€MO'CRD
+REEEIVED
+
+I
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW q,..4
+November t7,2016
+SARA Z. DUTERTE
+City Mayor
+t
+It-tt-t,
+l/
+r*crE:!
+Madam:
++'h'1 q$-otr^f.h
+Pursuant to Sub-SECTION 3, Paragnaph C, SECTION 469, Article One, 11tle Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of---- -
+Resolution No. 036 -16 and Ordinance No. 094-15, both SERIES of 2016 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+\9
+^ tfi^^n \- J";
+CHARITo N. s+{{ros
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+cns/lnta
+L?0- ,7-0r
+RECHIVEM
+tr
+Very truly yours,
+
+ffi
+OFFICE OF THE CIry MAY
+oacrt19
+OR
+2Nd INDORSEMENT
+December L2,2076
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the attached approved ORDINANCE NO.
+o94-L6, SERIES OF 2016, entitled "AN ORDINANCE GRANTING THE REQUEST
+OF SAINT JOSEPH PRIORY OF DAVAO CITY FOR EXEMPTION FROM FEES FOR
+THE INSTALLATION OF 1BO TARPAULINS ON ITS "MARY MISSION TOURS" ON
+NOVEMBER 75-28,2016: ON NOVEMBER 15-18, 2016 GOING TO TORIL AND
+MATINA STO.NINO SHRINE, NOVEMBER 19, 2016, TO BUHANGIN, NOVEMBER
+24,2016, TO CALINAN PARK AND ON NOVEMBER 28,20L6 MARYS MISSION
+TOUR WILL PROCEED TO CAGAYAN DE ORO CITY," for your appropriate action.
+For the City Mayor:
+ATTY. TRIsTAN Dfi;hMINGo
+Assistant City Admi nistrator
+(Administration)
+RELEASED
+CMO . CRD
+lt n"
+Second Floor, City Hall Building, San Pedro St., Davao City
+(O82) 227 -2577 . (082) 224-5878. davaocitymayor@gmail.com
+tLou
+24'2 -t(
+y4t-*ii-X,.i$\
+IRECEIVEE"."{,r
+|:.t2
+iJ,
+0r* -
+'l
+
+.roX.o
+i(W$
+3'd TNDoRSEMENT
+March 6, 2017
+Respectfully returned to Ms' Charito N' Santos' Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein approvedOrdlnance No' 093-16'
+seTiesof2016entit|ed,"ANoRDINANCEGRANTINGLEGISLATIVEAUTHoRITY
+TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT
+OF DAVAO, THE AGREEMENT/MINUTES OF MEETING TO BE ENTERED INTO BY
+AND AMONG IAPAN INTERNATIONAL CooPERATION AGENCY (llcA)', THE CITY
+GOVERNMENT OF DAVAO AND BIOMASS ]APAN, INC' RELATIVE TO THE
+ESTABLISHMENToFUSEDCoOKINGoILSYSTEMANDBIoDIESELPLANT,,,with
+attached
+Agreement
+duly signed and notarized' for
+your aPPropriate action.
+Arw. rRrsrAffitoMrNco
+Assistant CitY Administrator
+(Administration)
+For the CitY MaYor:
+RELEASED
+201l qn( fn'.'kl
+$
+Ground Floor, City Hall Building, San Pedro 51., Davao City
+(082) 221-1030. (082) 225-0063. davaocitymayo@gmail.com
+a- ?-11
+Republic of the'Philip/ines ,.
+OFFICE OFTHE CITYMAYOR
+CMO. CRD
+MIR N
+
+ffi
+$aorslG
+2Nd INDORSEMENT
+December 6,2016
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein duly approved Ordinance No.
+093-16, SERIES of 2015 entitled, "AN ORDINANCE GRANTING LEGISLAnVE
+AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY
+GOVERNMENT OF DAVAO, THE AGREEMENT/MINUTES OF MEETING TO BE
+ENTERED INTO BY AND AMONG ]APAN INTERNATIONAL COOPERANON AGENCY
+(]ICA), THE CITY GOVERNMENT OF DAVAO AND BIOMASS ]APAN, INC, RELATIVE
+TO THE ESTABLISHIVIENT OF USED COOKING OIL SYSTEM AND BIODIESEL
+PLANT," with attached
+Agreement
+duly signed by the
+City Mayor, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN D
+INGO
+Assistant City Administrator
+(Admin istration)
+CMO, CRD
+--l
+frELEASEM
+20rb
+t^
+\.-2D
+lr-r-/V
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -2577 . (O82) 224-5878. davaocitymayor@gmail.com
+?f-r?/*-6,
+$,\ln
+OFFICE OF THE CIry MAYOR
+tkL
+-
+d'
+_ _q
+-
+g: d14.b\.
+
+iil40 \RD
+Ofrice of the City Legal Ofricer
+City of Davao l&
+RECE!VED
+to:S{ 1,,-
+N
+Date of approval: November 25,2016
+LEGAL oPrNroN NO. t15.,
+SERIES OF 2016
+I"tINDORSEMENT
+November 24,2016
+C-. :l- . ..- -ll:.{DM.r.:-. ,
+ctrY HA$ oFFtCE
+DAV 0 CtW
+RECE;!,F.g gy:
+Mtulut
+tECbrtirL'l
+,Al;. .---
+r&t-.
+fur
+NOV2$70rt7il[:
+Respectfully forwarded to the Office of the City Mayor, through the Office of the City
+Administrator, both this City, the herein attached documents relative to the Ordinance No. 09316 SERIES of 2016 entitled "AI{ ORDINANCE GRANTING LEGISLATM AUTHORIW TO
+THE CITY MAYOR TO SIGIII, FOR AND IN BEHATF OF THE CITY GOVERNMENT OF
+DAVAO, THE AGREEMEI{T/MINUTES OF MEETING TO BE ENTERED INTO BY AND
+AMONG JAPAN INTERNATIONAL COOPERATION AGENCY (JICA), THE CITY
+GOVERI{MENT OF DAVAO AI{D BIOMASS JAPAN, INC. RELATIVE TO THE
+ESTABLISHMEI{T OF USED C(X)KING OIL COLTECTIOil SYSTEM AilD BIODIESET
+PLANT" with the hereto attached Minutes of Meeting and with the information that the
+enactment of the same is well within the realm of SECTION 455 (b) (1) (vi) of Republic Act 7160,
+otherwise known as the Local Government Code of 1991, to wit;
+SEC, 455, Chief Ex*utive; Powers, Dntix and Comgenation.-
+(a) The city mayor, as chief executive of the city government, shall
+exercise such poweo and peiorm such duties and functions as
+provided by this Code and other laws.
+(b) For efficient, effedive and economical governance the purpose of
+which is the genenl welfare of the city and ib inhabitanb pu6uant to
+Sedion 16 of this Code, the city mayor shall:
+(1) Exercise general supervision and onbol over all programs, projects,
+seruices, and activities of the city government, and in this connection,
+shall:
+XXX
+XXX
+XXX
+IN VIEW THEREOF, this office recommends the approval of the same, and the Minutes
+of Meeting be executed.
+RESPECTFULLY SUBMITTED.
+ATTY. MA
+A. GALLO, RSW
+ey IV
+Approvedby: A
+ATTY. OSMUI,DO.C. yTLLANUEVA, TR.
+Asst. City Legaf Officer, OIC
+tr
+a.
+o
+a
+o
+ATEi
+' r'lF-
+/1- -E - 7L
+/w - /4-6a
+Ref. No. 1131-16_
+, . rI.IIFISTRAfO,
+(vi) Represent the city in all ib bt*w tranfidons and sign in ib
+behalf all bonds, cotfracts, and dllgtilions, and such other documents
+upon authoity d. tlc sanggnrtang panlungnd q pursuant b law or
+ordinance;
+*-_---+*r+_
+
+Repdblika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW ,,0
+November 21,2016
+cMo cnD
+SARA Z. DUTERTE
+City Mayor
+l"
+RHCffiIVER
+201[ 10"{L
+Madam:
+Wb-ota1p.71
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, 11tle Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0313-16 and Ordinance No. 093-16, both SERIES of 2016 of the
+SANGGUNIANG Panlungsod, with Seven (7) sets of copies of the Agreement/Minutes of
+Meeting to be entered into by and among Japan International Cooperation Agency
+(JICA), the City Government of Davao and Biomass Japan, Inc. relative to the
+Establishment of Used Cooking Oil Collection System and Biodiesel plant, for your
+information, guidance and appropriate action.
+Very truly yours,
+tr^-*%L'1#6'
+Secretary to the Sangguhiang Panlungsod
+(City Government Department Head II)
+cns/nta
+1f,f -vt--Lr
+,o
+'l
+It-09"{f
+A,tsg.

@@ -1,0 +1,311 @@
+---
+ordinance_number: "0177-17"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG A PORTION OF BONIFACIO STREET, (FROM NEW LOOK ALLEY TO CARILLO RESIDENCE) ON APRIL 22-23,20L7, FROM 7:00 A.M. - 11:00 P.M. FOR THE CELEBRATION OF THE ANNUAL FIESTA IN HONOR OF PATRON SAINT SR. SAN VICENTE FERRER AT BARANGAY 36-D, POBI.ACION DISTRICT, THIS Cfry,\" with the information that no executive action is needed on the matter "
+date_enacted: null
+approval_date: "2017-05-12"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0177-17.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/temporary, topic/closure, topic/vehicui, topic/traffic, topic/along, topic/portion]
+---
+
+# Ordinance No. 0177-17
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG A PORTION OF BONIFACIO STREET, (FROM NEW LOOK ALLEY TO CARILLO RESIDENCE) ON APRIL 22-23,20L7, FROM 7:00 A.M. - 11:00 P.M. FOR THE CELEBRATION OF THE ANNUAL FIESTA IN HONOR OF PATRON SAINT SR. SAN VICENTE FERRER AT BARANGAY 36-D, POBI.ACION DISTRICT, THIS Cfry," with the information that no executive action is needed on the matter 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+ffi
+' Reiublic of the Philippines
+OFFICE OT THE CTryMAYOR
+tri"'cr
+e/r1Jn
+a'.*
+2Nd INDORSEMENT
+May L7,20L7
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the attached documents with Legal Opinion
+No. 266, SERIES of 20t7 pertaining to the herein ORDINANCE NO. OL77'17
+SERIES OF 2OL7, entitled "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC ALONG A PORTION OF BONIFACIO STREET, (FROM NEW
+LOOK ALLEY TO CARILLO RESIDENCE) ON APRIL 22-23,20L7, FROM 7:00 A.M. -
+11:00 P.M. FOR THE CELEBRATION OF THE ANNUAL FIESTA IN HONOR OF
+PATRON SAINT SR. SAN VICENTE FERRER AT BARANGAY 36-D, POBI.ACION
+DISTRICT, THIS Cfry," with the information that no executive action is needed on
+the matter since the activity is already finished thereby rendering the ordinance
+moot, for your appropriate action.
+For the City Mayor:
+ATrY. TRrsrAN DmMrNGo
+Assistant City Administrator
+(Administration)
+AdninAlDD/steph
+RELEASED
+CMO - CRD
+:h4 6"-
+I
+-zSecond Floor, City Hall Building, San Pedro St., Davao City - )74- yc- il
+(082) 227-2577 . (082) 224-5878. davaocitymayor@gmail.com 0{{41
+t
+i:
+,
+
+RffiffiffiOVHD
+i-ivrO - CRD
+OFFICE OF THE CITY LEGAL OFFICE
+City of Davao y,a
+LEGAL OPINION NO
+SERIES OF 2OL7
+Ref. No. LL3L-L7
+Approved by:
+ATTY. OSMU
+unnu$hnllo, Rsw
+Attffney 1V
+\hV ,
+1't INDORSEMENT
+May 12,2017
+Respectfully forwarded to the ffice of the City Mayor, through the Office of the
+City Administrator, both this City, the attached Ordinance No. 0177-17 SERIES of 20L7
+entitled ..AN ORDII{ANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR
+TRAFFIC ALONG A pORTIOil OF BONTFACIO STREET, (FROM NEW LOOK
+ALLEY TO CARILLO RESIDENCE) ON APRIL22-23,2017, FROM 7:00 A.M. -
+11:OO P.M. FOR THE CELEBRATION OF THE ANNUAL FIESTA IN HONOR OF
+PATROil SAINT SR. SAN VTCENTE FERRER AT BARANGAY 36-D, pOBtACIOil
+DISTRICT, THIS CITY'], informing that the activity had been done, thereby
+rendering the measure moot. Hence, it is recommended that no executive action be
+taken on the matter.
+ATTY.
+VILLANUEVA, JR
+,FFICL OF
+I EelrvED
+A-F. ___
+THE GITY
+ISIRAt or
+CITY HAI L
+vA ' .lu
+l3
+a
+L
+Assistant City Legal Officer, OIC
+Date approved: May t2,2017
+MF
+nt
+OC
+%o - /g- 7t
+
+OFFICE OF THE CITY LEGAL
+Ref. No. 1131-17
+LEGAL OPINION NO.
+SERIES OF 2OL7
+ATTY. nanr-f$kcAllo, Rsw
+AtYorney 1V
+!!L
+l.t INDORSEMENT
+May 12, 20t7
+Respectfully forwarded to the ffice of the City Mayor, through the Office of the
+City Administrator, both this City, the attached Ordinance No. 0177-17 SERIES of 20ll
+CNtitICd ..AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR
+TRAFFIC ALONG A PORTION OF BONIFACIO STREET, (FROM NEW LOOK
+ALTEY To cARrLto RESIDENCE) oN APRrL22-23,2oL7, FROM 7:o0 A.M. -
+11:OO P.M. FOR THE CELEBRATION OF THE ANNUAL FIESTA IN HONOR OF
+PATRON SArNT SR. SAil VTCENTE FERRER AT BARANGAY 36-D, POBLACTON
+DISTRICT, THIS CITY'|, informing that the activity had been done, thereby
+rendering the measure moot. Hence, it is recommended that no executive action be
+taken on the matter.
+Approved by:
+ATTY. OSMU
+. VILLANUEVA, JR
+Assistant City Legal Officer, OIC
+Date approved: May 12, 20L7
+,L.,tk tll.,
+l"
+ffiffiflffiBVED
+CMO " CBE
+
+Office of the Sang!uniang Panlungsod
+City of Davao *r,.,
+May 3, 20t7
+SARA Z. DUTERTE
+City Mayor
+t
+Madam:
+v+t7-)bQ P.tog
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Tifle Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0782-17 and Ordinance No. Ol77-17, both SERIES of 2Ot7 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+,A
+o
+CH
+tr, '/hE
+N.GANTOS
+0l/,rr/6
+ARITO
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head II)
+cns/nta
+RffiCHEVHt)
+CMO, CRD
+l:{l
+r/o,/ -v> -b
+
+Reptrblic of the Philippines
+Cit,, of Davao
+18th City Council
+15th Regular Session
+SERIES of 20L7
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ON OFFICIAL BUSINESS:
+Jesus Joseph P.Zozobrado III
+Nilo M. Abellera Jr.
+Victorio U. Advincula Jr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Edgar P. Ibuyan Jr.
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Oftiz
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+- Temporary Presiding Officer
+Attended Womens' Consultation
+- On Vacation Leave
+- On Vacation Leave
+- On Domestic Emergenry Leave
+- On Sick Leave
+- On Maternity Leave
+Councilor
+Councilor
+April Marie C. Dayap
+Leah A. Librado-Yap
+ABSENT:
+Vice Mayor Paolo Z. Dutefte
+Councilor Maria Belen S. Acosta
+Councilor Jimmy G. Dureza
+Councilor January N. Duterte
+Councilor Antoinette G. Principe-Castrodes
+ORDINANCE NO. OI77-L7
+SERIES oi 2OL7
+AN ORDINANCE FOR THE TEMPORARY CLOSURE
+TO VEHICULAR TRAFFIC ALONG A PORTION OF
+BONIFACTO STREET, (FROM NEW LOOK ALLEY TO
+CARTLLO RESTDENCE) ON ApRrL 22-23,2OL7,
+FROM 7:00 A.M.
+11:00 P.M. FOR THE
+CELEBRATION OF THE ANNUAL FIESTA IN HONOR
+OF PATRON SAINT SR. SAN VICENTE FERRER AT
+BARANGAY 36-D, POBLACION DISTRICT, THIS
+CITY
+
+I
+Ord. No. 0777-17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION
+oF BONIFACIO STREET, (FROM NEW LOOK ALLEY TO CARILLO RESTDENCE)
+ON APRIL22-23,2OL7, FROM 7:00 A.M. - 11:00 P.M. FOR THE CELEBRATION
+OF THE ANNUAL FIESTA IN HONOR OF PATRON SAINT SR. SAN VICENTE
+FERRER AT BARANGAY 36-D, POBLACION DISTRICT, THIS CITY;
+SECTION 2. DECLARATION OF POLICY - SECTION 21 (c) of Republic Act No.
+7t60, othenruise known as the Local Government Code of 1991 provides that any
+national or local road, alley, park, or square may be temporarily closed during an actual
+emergency, or flesta celebrations, public rallies, agricultural or industrial fairs....;
+SECTION 3. TEMPORARY CLOSURE - The road along Bonifacio Street, (from
+New Look Alley to Carillo Residence) shall be temporarily closed on April 22-23, 20t7,
+from 7:00 A.M. - 11:00 P.M. for the Celebration of the Annual Fiesta in honor of Patron
+Saint Sr. San Vicente Ferrer at Barangay 36-D, Poblacion District, this City;
+SECTION 4. SEPARABILITY CLAUSE - If for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration, shall continue to be in full force and
+effecU
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on April 20,20t7, by a unanimous vote of all the Members of the
+SANGGUNIANG present, there being a quorum.
+CERTIFIED CORRECT:
+^ dr,;\ /^{
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II),
+ATTESTED:
+JESUS
+PH
+BRADO III
+City
+Temporary Presiding Officer
+cns/jsdam
+r
+
+Ord. No. 0777-L7
+2017
+APPROVED
+SARA Z. DUTERTE
+City Mayor
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+(

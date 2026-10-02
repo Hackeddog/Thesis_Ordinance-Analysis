@@ -1,0 +1,202 @@
+---
+ordinance_number: "0165-23"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHATF OF THE CITY OF DAVAO, THE LETTER OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE PHITIPPINE RICE RESEARCH INSTITUTE AND THE CITY OF DAVAO RETATIVE TO THE II,IPLEMENTATION OF THE PR(UECTS TO EE FUNDED BY THE PHILIPPIilE RICE RESEARCH INSTITUTE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0165-23 -Letter of Agreement, PRRI (2).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behatf, topic/letter]
+---
+
+# Ordinance No. 0165-23
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHATF OF THE CITY OF DAVAO, THE LETTER OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE PHITIPPINE RICE RESEARCH INSTITUTE AND THE CITY OF DAVAO RETATIVE TO THE II,IPLEMENTATION OF THE PR(UECTS TO EE FUNDED BY THE PHILIPPIilE RICE RESEARCH INSTITUTE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20u'City Council
+6h Regular Session
+SERIES of 2A23
+PRESENT:
+Wilberto E. Al-'ag
+Richlyn N. Justol-Baguilod
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+lessica M. BonEuyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+EdEar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Mititar
+Myrna G. LDalodo-Ortiz
+Temujin B. Ocampo
+Alberto T. Ungab
+Lorenzo Benjamin D. Mllafuerte
+Trisha Ann l. Villafuefte
+Jesus Joseph P. Zozabrado III
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councitor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+-On Vacation Leave
+-On Sick Leave
+ORDINANCE NO.0165.23
+SERIES of 2023
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHATF OF THE CITY OF DAVAO, THE LETTER OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE PHITIPPINE
+RICE RESEARCH INSTITUTE AND THE CITY OF DAVAO RETATIVE TO
+THE II,IPLEMENTATION OF THE PR(UECTS TO EE FUNDED BY THE
+PHILIPPIilE RICE RESEARCH INSTITUTE
+
+Ord. No.0165-23
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. ELE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE LETTER OF AGREEMENT TO BE ENTERED
+INTO BY AND BETWEET{ THE PHILIPPINE RICE RESEARCH INSTITUTE AND THE
+CITY OF DAVAO RETATIVE TO THE IMPLEMENTATION OF THE PROJECTS TO BE
+FUNDED BY THE PHILIPPINE RICE RESEARCH INSTITUTE"
+SECTION 2. DECLARATIOI{ OF POLICY - Sections 22 (a) (5) and (c) and 455 (b)
+(1) (vi) of Republic Act 7L60, otherwise known as the Local Government Code of 1991
+provide:
+SECTION 22. Corporate Powerc. -
+(a) Every local government unit, as a corporation, shall
+have the following powers: .ffi
+(5) To enter into contracts; and
+)oo(
+)oc(
+(c) Unless otherwise provided in this Code, no contract
+may be entered into by the local chief executive in behalf of the
+local government unit without prior authorization by the
+sanggunian concerned. A legible copy of such contract shall be
+posted at a conspicuous place in the provincial capitolorthe city,
+municipal or barangay hall.
+SECTION 455. Chief Executive; Powerc, Duties and
+Compensation. twc
+(b) For efficient effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+(1) Exercise general supervision and control over all
+programs, projects, services, and activities of the city
+government, and in this connection, shall:
+)oo(
+)oo(
+)oo(
+(vi) Represent the city in all its business transactions and
+sign in its behalf all bonds, conkacts, and obligations, and such
+other documents, upor authority of the SANGGUNIANG
+panlungsod or pursuant to law or ordinance."
+SECTION 3. ^UTHORITY - The City Mayor is hereby granted legislative authority
+to enter into and sign the Leter of Agreement to be entered into by and between the
+Philippine Rice Research Institute and the Crty of Davao rclaUve to the Implementation of
+the Projects to be funded by the Philippine Rice Research Insfi'tute;
+)oo(
+
+Ord. No.0165-23
+SECTION 4. rc
+- If for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such dedaration shall continue to be in full furce and effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+EI{ACTED, on the 14h day of February 2023, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ t)r*a \ {"--
+CHARTTO N. SINTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+J. MELdHOR B. QUrrArN JR.
+/ Vice Mayor
+Presiding fficer
+cns/kjtq
+APPROVED
+APR 2SMB
+2023
+Z. DUTERTE
+Mavor cl
+,2
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND IN BEHALF OF THE
+CITY OF DAVAO, THE LETTER OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE PHILIPPINE
+RICE RESEARCH INSTITUTE AND THE CITY OF DAVAO REI.ATIVE TO THE IMPLEMENTATION OF THE
+PROJECTS TO BE FUNDED BY THE PHILTPPINE RICE RESEARCH INSTITUTE
+ATTESTED:

@@ -1,0 +1,386 @@
+---
+ordinance_number: "0166-19"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF ST. JOHN TALISAY HOMEOWNERS ASSOCIATION FOR RECI.ASSIFICATION OF A PARCEL OF ISND coNSIfiNG OF 2L,@8 SQUARE METERS, MORE OR LESS, COVERED By CL-7776 FROM PRIME AGRICULTURAL I.AND SUB.ZONE TO SOCfALIZED HOUSING ZONE STTUATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, THIS Cffi, for your information and appropriate action. For the City Mayor: ATTY. TRIST INGO Assi"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0166-19 (1).pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2020.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/application, topic/john, topic/talisay, topic/homeowners, topic/association]
+---
+
+# Ordinance No. 0166-19
+
+> AN ORDINANCE GRANTING THE APPLICATION OF ST. JOHN TALISAY HOMEOWNERS ASSOCIATION FOR RECI.ASSIFICATION OF A PARCEL OF ISND coNSIfiNG OF 2L,@8 SQUARE METERS, MORE OR LESS, COVERED By CL-7776 FROM PRIME AGRICULTURAL I.AND SUB.ZONE TO SOCfALIZED HOUSING ZONE STTUATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, THIS Cffi, for your information and appropriate action. For the City Mayor: ATTY. TRIST INGO Assi
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2020 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Cites or amends
+
+- [[Ordinance No. 032-19]]
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+I "' Repriblicbf thd Philippines
+OFFICE OF THE CITY MAYOR
+9a6ii-r<
+bNc
+,(,l
+ZN
+p\
+'iz'
+Nt!
+s>
+S.i
+Ref. No. CtdG2020tO171
+2TD INDORSEMENT
+February 5,2020
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 054, SERIES of 2020 dated January 15,
+2020 from the City Legal Office, relative to the Ordinance No. 0166-19, SERIES of 2019
+entitled, "AN ORDINANCE GRANTING THE APPLICATION OF ST. JOHN TALISAY
+HOMEOWNERS ASSOCIATION FOR RECI.ASSIFICATION OF A PARCEL OF ISND
+coNSIfiNG OF 2L,@8 SQUARE METERS, MORE OR LESS, COVERED By CL-7776 FROM
+PRIME AGRICULTURAL I.AND SUB.ZONE TO SOCfALIZED HOUSING ZONE STTUATED IN
+BARANGAY TACUNAN, TUGBOK DISTRICT, THIS Cffi, for your information and
+appropriate action.
+For the City Mayor:
+ATTY. TRIST
+INGO
+Assistant
+)
+A/o
+REC
+I}ATEI
+.IlttlE:
+ffi
+CIW MAYOR'S OFFICE
+I
+CoRRESPONOENCE AND RECORDS DIV
+I
+RELEASED
+FEB 07 2020
+eorxaGalao
+nouur.IsrRrrBe eror rv l['@
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+{4c
+O f- dorz>
+rrY
+LIFE IS HERE
+\
+ti
+
+0\
+\
+d ,-t, connesPoNDENCE & REcoRDs DlvlsloN
+'.x*/'j RECEIVED
+JAN t 7 2020
+OFFICE OF THE CITY LEGAL OFFICER
+MARY ANN O.
+f.Q/
+Ref No Ln-Dnflollt
+Legal Opinion *o F+, SERIES of 2o2a
+RE. ORDINANCE NO 0166-19, SERIES OF 2019 ENTITLED -AN
+ORDINANCE GRANTING THE APPLICATION OF ST JOHN TALISAY
+HOhNECIWNER'S ASSOCIATION FOR THE RECLASSIFICATTON OF A
+PARCEL OF LAND CONSISTING OF 21,648 SQUARE METERS, IVIORE
+OR LESS, COVERED BY CL-7776 FROIU PRII\XE AGRICULTURAL
+LAND SUB-ZONE TO SOCIALIZED HOUSING ZONE SITUATED IN
+BARANGAY TACUNAN, TUGBOK DISTRICT, THIS CITY".
+t" rNDoRSETvtENT
+January 15,2020
+Respectfr-rlly forwarded tq the Office of the City lVlayor, through the Office
+of the City Admrnistrator, both this City, the subject Ordinance No. 032-19 SERIES
+of 2019, with the information that this office finds no legal infirmity in the passage
+of the subject ordinance, it appearing that the same is well within the power of
+the SANGGUNIANG Panlungsod
+ln view thereof, this office recommends the approval of the subject
+ordinance.
+ATTY h/IA
+A. GALLO, RSW
+Acting
+City Legal Officer
+Approved
+OSIVIUN
+P VILLANUEVA, JR
+Acting City Legal Officer
+Date of Approval. January 15,2A20
+$lESHii&P Bt
+t)flIr h
+9,4q
+ADMIN
+l: 241-1000 [OC.
+09956299702
+IV
+CMO CONTAO
+DATE:
+TIME:
+o
+AL c
+C)
+I
+eot+1
+l
+A
+r
+OFFEE gF +liE Slts lElIiltiS+RffiOR
+6|rr FiALt oi'flQE
+./.Ztn
+-
+a. , -7\
+
+,{CrS
+EO>
+January 13,2079
+0ll1?{ - t),1
+SARA Z. DUTERTE
+City Mayor
+Madam:
+O
+\\t
+ryI
+Pursuant to Sub-SECTION 3, Paragraph C,
+.wo-@e+a Pld
+SECTION 469, Article One, Title Five,
+chapter 3, Book III and SECTION 54 of Book I Republic Act No' 7t60, otherwise known
+as the Local Government code of 1991, we are furnishing you a copy of Resolution No'
+0541-19 and ordinance No. 0166-19, both SERIES of 2019 0f the SANGGUNIANG
+Panlungsod, this city, for your information, guidance and appropriate action'
+Very trulY Yours,
+cHkffiLl k',,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+ffi
+cMo
+RY
+MA
+A
+o. A
+e
+AIDE rV
+t:
+r.oc.
+JAlt 1 4 2020
+,t
+\a
+RECOiDS DIVISION
+IVED
+&
+R E c E
+
+Repubilc of the Philippines
+19th City Council
+246 Regular Session
+SERIES of 2019
+PRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+ABSENT:
+Vice Mayor
+Councilor
+Sebastian Z. Duterte
+Bai Hundra Cassandra Dominique N. Advincula
+- OB- Acting City Mayor
+ORDINANCE NO. 0166.19
+SERIES of 2019
+Ail ORDINANCE GRAI{TING THE APPLICATION OF ST. JOHN
+TALISAY HOMEOWNERS ASSOCIATION FOR
+REC1ASSIFICATION OF A PARCEL OF LAND COilSISTING OF
+2L,648 SQUARE METERS, MORE OR IESS, COVERED By C[-
+7776 FROM PRIME AGRICULTURAL I.AND SUB.ZONE TO
+SOCIATIZED HOUSING ZONE SITUATED II{ BARANGAY
+TACUNAN, TUGBOK DISTRICT, THIS CITY
+
+Ord. No.0166-19
+Be it ordained by the Honorable SangguniangPanlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE This Ordinanceshall be known as *AN ORDINANCE
+GRANTING THE APPTICATION OF ST. JOHN TATISAY HOMEOWilERS
+ASSOCIATION FOR RECTASSIFICATION OF A PARCEL OF LAND CONSISTING OF
+21,il8 SQUARE METERS, MORE OR LESS, COVERED BY CL-7776 FROM pRrME
+AGRTCULTURAL LAND SUB.ZONE TO SOCIALIZED HOUSING ZONE SITUATED
+IN BARANGAY TACUNAN, TUGBOK DISTRICT, THIS CITY'
+SECTION 2.
+Pursuant to
+Article V of the Comprehensive Zoning Ordinance of Davao City (2013-2022), Common
+Regulations for General Zones, it states:
+SECTION 1. REVIEW OF GENERAL ZONES: General zones are
+subject to review by the Zoning Review Committee every five (5)
+years from the enactment of this Ordinance. Any amendment
+thereof as recommended by the committee shall be in accordance
+with the provision of Article XW, SECTION 14.
+SECTION 2. RECLASSIFICATION AND CHAI{GE OF ZONE
+REQUIREMENT: Any reclassification of agricultural land to nonagricultural use must be in consultation with the Depaftment of
+Agriculture (DA) and Departrnent of Agrarian Reform (DAR) and
+the DAR requirement for conversion of agricultural land to other
+zones, and SECTION 20 of RA 7160, otherwise known as the Local
+Government Code of 1991 limiting reclassification to a maximum
+of the percentage of the total agricultural land of a city to fifteen
+percent (15o/o) for highly urbanized cities and must strictly comply
+with the provisions of the Joint Memorandum Circular No. 54 of
+the Housing Land Use Regulatory Board (HLURB), Depaltnent of
+Agriculture (DA) and Depaflrnent of Interior and Local
+Government (DILG). Reclassification from agricultural zone to
+nonagricultural use and any change from one genera! zone to
+another general zone must be approved by three-foufths (3/4)
+vote of all the members of the SANGGUNIANG Panlungsod through a
+resolution and an ordinance. Any change of general zone to
+another zone shall be considered as amendment of the zoning
+ordinance and must comply with the provision of Article XIV,
+SECTION 14 hereof.
+SECTION 3. COVERAGE- This Ordinance shall cover the grant of the application
+of St. John Talisay Homeowners Association for Reclassification of a 2t,648 square
+meters, more or less, parcel of land covered bV CL-7776 ftom Prime Agricultural Land
+Sub-Zone to Socialized Housing Zone located in Barangay Tacunan, Tugbok Disffiict,
+SECTIOil 4.
+If for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, the other sections or provisions hereof
+which are not affected thereby, shall continue to be in full force and effect.
+SECTION 5. EFFECTMTV- This Ordinance shall take effect upon approval.
+
+.,. t
+Ord. No.0166-19
+EilACTED, December t7,20t9, by 3/t majority votes of all the Members of the
+SANGGUNIANG Panlungsod, there being a quorum.
+CERNFIED CORRECT:
+ATTESTED:
+.r##5nl:
+Secretary to the
+(City Government Department Head II)
+APPROVED:.I 7 uH Z0e0 , 2019
+z.
+cirv Mavy
+President
+Temporary
+cns/kate
+ATTESTED:
+ATTY.
+T.
+City
+Tempore
+v
+
+>-z
+Tel Nos.: (+6 382)
+SECR ETA RY'S CERTI FICATE
+2019-005
+l, Erwin C. Bisnar, of legal age, Filipino and a resident of Davao City, Philippines, after having been duly
+sworn to in accordance with law, hereby depose and say:
+1. That I am the duly appointed Corporate Secretary of Southdev Corporation, a corporation duly
+organized and existing in accordance with the laws of the Philippines having its principal office at
+No. 150 5th St., phase Ecoland, Davao City.
+2' That as Corporate Secretary, I hereby certify that in duly constituted meeting of the Board of
+Directors of the corporation held last February 22,2019 at the Office of Southdev Corporation
+located @ No. 150 5th St., Phase 1, Ecoland Subdivision, Davao City, exactly 2:00 o'clock in the
+afternoon, the following resolution was unanimously adopted and approved.
+3. RESOIVED, as it hereby RESOLVED, that Jesseline B. Dosol is authorized by the company to
+process the Reclassification from Agricultural to Residential Land Use, Preliminary Approval
+Locational Clearance (PAL-C) and Development Permit (DP) of the property covered byTitle No.
+CL-7776 with a total area of Twenty-One Thousand Six Hundred Forty-Eight (2t,6481 Square
+Meters located in Brgy. Tacunan, Davao City to any government agencies related to the said
+transaction.
+lN WITNESS WHEREOF, I have hereunto affixed my signature this 24th day of May, 2019 at Davao City,
+Philippines.
+Corporate Secretary
+JUN 0 3 2019
+me this _day of _
+at Davao City philippines, affiant exhibited
+_ at Davao City
+SUBSCRIBED AND SWORN to before
+to me his Rg6
+No. 6lrs-.fl-l,'of*rea on
+.rn
+Doc. No.
+Page No.
+Book No,
+SERIES of
+ll,l
+trS
+OFNEDO M, DURLMDLS III
+N0TARY PUDLIC f or DAVA0 CIIY
+colllllsslOtl No- 20{9 -051-2020
+f,6tt 0F ATIY- N0. 4045 4 PrR N0.1A79245 ll2)l'l'l
+000R lr 6/F, SDC BLDD' l'lA'A i'0AD' 0Avp0 clII
+s
+,

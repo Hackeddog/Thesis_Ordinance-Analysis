@@ -1,0 +1,213 @@
+---
+ordinance_number: "0256-23"
+title: "Ordinance No. 0256-23"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0256-23 Renewal of Contract of Lease MDDC (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid]
+---
+
+# Ordinance No. 0256-23
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic oftne Philippines
+City of,Davao
+Ofrice of the Sbngguniang Panlungsod
+20u' City Council
+26s Regular Session
+SERIES of 2A23
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSE]{T:
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+lessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Presiding Officer
+Councilor
+Councilor
+Nilo M. Abellera Jr.
+Wilbefto E. Al-ag
+oRDItTAilCE IrO. 0256-23
+SERIES of 2023
+AI{ ORDII{ANCE AUTHORIZII{G THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND I1{ BEHALF OF THE CITY OF DAVAO
+THE REilEWAt OF THE CO]ITRACT OF TEASE TO BE ENTERED
+INTO BY AND BETWEE]I ]IIETRO DAVAO DEYETOPMENT
+coRPoRATrOr{ (TESSOR) AND THE CrTY OF DAVAO (LESSEE)
+FOR THE REI{TAL OF Or{E (1) DOOR CONCRETE BUrLDrilc WrTH
+A FrOOR AREA OF 2OO SQUARE METERS, MORE OR LESS,
+UTIUZED BY THE GEilERAt SERVICES OFFICE AS SUPPLY AND
+SToRAGE WAREHOUSE, SITUATED AT CITY HAtt DRM, THIS
+CITY
+
+Ord. No. 0256-23
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. IflE - This Ordinance shall be reftrred to as *AI{ OR.DINANCE
+AUTHORIZII{G THE CITY ]IIAYOR TO ENTER INTO AND SIGil, FOR AND IN
+BEHALF OF THE CITY OF DAVAO THE RENEWAL OF THE CONTRACT OF LEASE
+TO BE ENTERED IT{TO BY AilD BETWEEN ]IIETRO DAVAO DEVELOPMENT
+coRpoRATroN (LESSOR) AilD THE CITY OF DAVAO (LESSEE) FORTHE RENTAL
+oF oNE (1) DOOR CONCRETE BUTLDTilG WrTH A FLOOR AREA OF 2OO SQUARE
+METERS, MORE OR LESS, UTTUZED BY THE GEilERAL SERVTCES OFFTCE AS
+supply AND SToRAGE WAREHOUSE, STTUATED AT CrTY HAIL DRTVE, THIS
+cfil".
+SECTIOil 2.
+- SECTION 22(a) (5) and (c) and SECTION
+455 (b) (1) (vi) of the Local Government Code of 1991 or RA 7t60 provides that:
+SECTION 22. Corporate Powes. -
+(a) Every local government unit, as a corporation, shall have
+the following powers: )ffi(
+(5) To enter into contra#; and su<
+(c) Unless otherwise provided in this Cde, no contract may
+be entered into by the local chief executive in behalf of the
+local government unit without prior authorization by the
+sanggunian concerned. A legible copy of such contract shall
+be posted at a conspicuous place in the provincial capitol or
+the city, municipal or barangay hall.
+SECTION 455. Chief Exuutive; Poweq Duties and
+Compensation. swr
+(b) For efficient effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+(1) Exercise general supervision and control over all
+programs, projects, seruices, and activiUes of the city
+government and in this connection, shall:
+)M
+(vi) Represent the city in all its business transactions and sign
+in its behalf all bonds, contracts, and obligations, and such
+other documents upon authority of the SANGGUNIANG
+panlungsod or pursuant to law or ordinance.
+SECTIOil 3. AUIHW - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the CiU of Davao the renewal of the
+Contract of Lease to be entered into by and between Metro Davao Development
+Corporation (Lessor) and the City Govemment of Davao (lessee) br the rental of one (1)
+door concrete building with a floor arca of 200 square meters, more or less, utilized by
+the General Seruices Office as supply and storage warehouse, situated at City Hall Drive,
+
+Ord. No. 0256-23
+SECTION 4.
+- If for any reason, any SECTION or
+provision of this Ordinance is dedared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaraUon shall continue to be in full force and
+effect. This is likewise subject to C,overnment Budgeting, Accounting and Auditing Rules
+and Regulations of the Departnent of Budget and Management, Commission on Audit,
+the Procurement Law as well as other applicable laws.
+SECTION 5. FFFECTfVITY- This Ordinance shall take effiect immediately upon
+approval.
+ENACTED, on the llft day of July 2023, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ Atr-i 1
+CHARITO N.
+Secretary to the Sa
+Panlungsod
+(City Government Department Head II/
+ATTESTED:
+J. ME
+y'^
+LCBOR B. QUrrArI{ JR"
+1\tice Mayor
+Presiding fficer
+cns/kjtq
+Sir l, )oz3
+APPROVED
+sEP 0 I 2023
+2023
+Z. DUTERTE
+g
+ATTESTED;
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO THE RENEWAL OF THE CONTRACT OF LEASE TO BE ENTERED INTO BY AND
+BETWEEN METRO DAVAO DEVELOPMENT CORPORATTON (LESSOR) AND THE CITY OF DAVAO (LESSEE)
+FORTHE RENTAL OF ONE (r) DOOR CONCRETE BT ILDING WrTH A FLOOR AREA OF 200 SQUARE METERS,
+MORE OR LESS, UTILIZED BY THE GENERAL SERVICES OFFICE AS SUPPLY AND STORAGE WAREHOUSE,
+BOTH STruATED AT CITY HALL DRIVE, THIS CITY

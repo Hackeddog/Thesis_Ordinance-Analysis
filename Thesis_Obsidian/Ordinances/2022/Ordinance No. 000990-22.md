@@ -1,0 +1,183 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE STREETS ALONG CORNER ARTIAGA ST.. MABII{I ST. TO CORNER ARTIAGA - ROXAS AVEN. (ALU TUCP BUILDING) FROM JUNE 25, 2O22t MIDNTGHT UP TO JUNE 26,2022, MIDNTGHT, IN CELEBRATION oF THE ARAW NG PUROK 3 (BRGY. 33-D)"
+date_enacted: null
+approval_date: "2022-06-25"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000990-22.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 0.75
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: null
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/streets, topic/along]
+---
+
+# Ordinance No. 000990-22
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE STREETS ALONG CORNER ARTIAGA ST.. MABII{I ST. TO CORNER ARTIAGA - ROXAS AVEN. (ALU TUCP BUILDING) FROM JUNE 25, 2O22t MIDNTGHT UP TO JUNE 26,2022, MIDNTGHT, IN CELEBRATION oF THE ARAW NG PUROK 3 (BRGY. 33-D)
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | - |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic of the'PhiliPPines
+19th city Council
+23d Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+tramela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. LDalodo-Ortiz
+Antoinette G. Principe-Caskodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villatuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+Councilor Danilo C. Dayanghirang
+Councilor Bonifacio E. Militar
+- On Official Business
+- On Sick Leave
+ORDTNANCE NO. 0990.22
+SERIES of 2O22
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE STREETS ALONG CORNER
+ARTIAGA ST.. MABII{I ST. TO CORNER ARTIAGA - ROXAS
+AVEN. (ALU TUCP BUILDING) FROM JUNE 25, 2O22t
+MIDNTGHT UP TO JUNE 26,2022, MIDNTGHT, IN CELEBRATION
+oF THE ARAW NG PUROK 3 (BRGY. 33-D)
+
+Ord. No. 0990-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. IIIE - This Ordinance shall be known as "AI{ ORDINAilCE
+FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE STREETS
+ALONG CORNER ARTIAGA ST.. MABINI ST. TO CORNER ARTIAGA -ROXAS
+AVEN. (AtU -TUCP BUILDING) FROM IUI{E 25,2022, MTDNIGHT Up TO JUNE
+26,2022, MIDNIGHT, rN CELEBRATTOI{ OF THE ARAW ilG PUROK 3 (BRGY.
+33-D).
+SECTION 2. DECIARATION OF POLICY - SECTION 21 (c) of Republic Act No.
+7160, otherwise known as the Local Government Code of 1991, provides that any
+national or local road, alley, par( or square may be temporarily closed during an actual
+emergensy, or fiesta celebrations, public rallies, agricultural or industrial fairs or an
+undeftaking of public works and highways, telecommunications and water works
+pQects...;
+SECTION 3. TEMPORARY CLOSURE OF ROAD - The Barangay Council of
+Brgy. 33-D will be celebrating its Araw ng Purok 3, and in line with such, they are
+requesting for a temporary road closure to vehicular baffic of the aforementioned roads
+on the time and place herein indicated during the celebration of Araw ng Purok 3 (Brgy.
+33-D).
+SECTION 4.
+- If, fior any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEEGfIW - This Ordinance shall take effect immediatety upon
+approval.
+ENACTED, on the 2t't day of June 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+, \hwi, rr. h^^^-
+CHARITO NI gANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+EDGAR P.
+President Pro Tempore
+Temporary Presiding Officer
+cns/ray
+ATTESTED:
+
+I
+i
+t
+Page 3 of3
+Ord. No. 0990-22
+AfiESTED:
+APPROVED:
+H. T.AYOG
+JUL 1 I 20n
+SARA Z. DUTERTE
+City Mayor,v
+2022
+SEBASTIAT{ Z. DIITERTT
+City Mayor
+ATTY.
+ATTY. ZULEI
+City
+a
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE STREETS
+ALONG CORNER ARTIAGA ST.- MABINT ST. TO CORNER ARTTAGA - ROXAS AVEN. (ALU - TUCP
+BUILDING) FROM JUNE 25,2022, MIDNIGHT UPTO JUNE 26, 2022, MIDNIGHT, IN CELEBRATION
+OF THE ARAW NG PUROK 3 (BRGY. 33-D)

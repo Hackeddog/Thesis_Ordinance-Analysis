@@ -1,0 +1,375 @@
+---
+ordinance_number: "0158-19"
+title: "AN ORDINANCE AMENDING ARTICTE 24, SECTION L71 (REQUIREMENT TO SHOW VAUD DRTVER'S LICENSE TO TRAFFIC ENrcRCEMENT oFncER) oF oRDINANCE NO. 033+12, OTHERWISE KNOWN AS THE \"COMPREHENSIVE TRAFFIC CODE OF DAVAO CITYi for your information and appropriate action. For the City Mayor: ATTY. TRISTAil Assitunt ID,PDIGP i. I?ATE: ..1+at i{#.}i . r.tr! Drv RELEASED. I|AR 13 2020 ,o,rroGo*o norur r,rrstRdfvE AID"
+date_enacted: null
+approval_date: "2020-03-02"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0158-19 (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.4
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, type/amendatory, topic/articte, topic/section, topic/requirement, topic/show, topic/vaud, topic/drtver]
+---
+
+# Ordinance No. 0158-19
+
+> AN ORDINANCE AMENDING ARTICTE 24, SECTION L71 (REQUIREMENT TO SHOW VAUD DRTVER'S LICENSE TO TRAFFIC ENrcRCEMENT oFncER) oF oRDINANCE NO. 033+12, OTHERWISE KNOWN AS THE "COMPREHENSIVE TRAFFIC CODE OF DAVAO CITYi for your information and appropriate action. For the City Mayor: ATTY. TRISTAil Assitunt ID,PDIGP i. I?ATE: ..1+at i{#.}i . r.tr! Drv RELEASED. I|AR 13 2020 ,o,rroGo*o norur r,rrstRdfvE AID
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2020 |
+| **Resolved** | **2019** |
+
+## Cites or amends
+
+- [[Ordinance No. 0334-12]]
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OF THE CITY MAYOR
+Ref. I{8. C4dG2020.fi}851
+2"d INDORSEMETIT
+f'4arch Lz,zAZA
+Respectfully rcturned to ]*ls. Charito N. Sanbc, Secrctary to the SANGGUNIANG
+Paniungsoci, this Ctty, the within Lryi Opinion No. 212.' SERIES ot- 202u ciated February
+78,2020 of the City Legal Office, relative to the attached Ordinance No. 0158-19, SERIES
+of 2019 entitied, "AN ORDINANCE AMENDING ARTICTE 24, SECTION L71
+(REQUIREMENT TO SHOW VAUD DRTVER'S LICENSE TO TRAFFIC ENrcRCEMENT
+oFncER) oF oRDINANCE NO. 033+12, OTHERWISE KNOWN AS THE "COMPREHENSIVE
+TRAFFIC CODE OF DAVAO CITYi for your information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAil
+Assitunt
+ID,PDIGP
+i.
+I?ATE:
+..1+at
+i{#.}i
+. r.tr!
+Drv
+RELEASED.
+I|AR 13 2020
+,o,rroGo*o
+norur r,rrstRdfvE AIDE lV l;D
+LIFE IS HERE
+ot-2az
+Second Floor, City Hall Building, City Flall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.comn tsffi@
+Y
+t
+I
+AND
+
+ol:/D 2.0Republic of the Philippines .
+oFFIcE oF THE%,J#,iIGAL o
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Lcr,267/2251230
+Ref. No. CLO-2020-00960
+Legal Opinion No
+SERIES of 2020
+2I).
+RE: ORDINANCE NO. O15B-19, SERIES OF 2079 entitled "AN
+ORDINANCE AMENDING ARTICLE 24, SECTION 174
+(REQUIREMENT TO SHOW VALID DRIVER'S LICENSE TO TRAFFIC
+ENFORCEMENT OFFTCER) OF ORDTNANCE NO. 0334-t2,
+OTHERWISE KNOWN AS THE "COMPREHENSIVE TRAFFIC CODE
+OF DAVAO CITY".
+l't INDoRSEMENT
+February 28,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance, with the
+information that this office finds no legal infirmity therein, citing the herein
+provision of RA 7t60 known as the Local Government Code of 1991:
+"SEAION 16.
+General Welfare. - Every local government
+unit shall exercise the powers expressly granted, those necessarily implied
+therefrom, as well as powers necessary, appropriate, or incidental for its
+efficient and effective governance, and those which are essential to the
+promotion of the general welfare. Within their respective territorial
+jurisdictions, local government units shall ensure and support, among
+other things, the preseruation and enrichment of culture, promote health
+and safety, enhance the right of the people to a balanced ecology,
+encourage and support the development of appropriate and self-reliant
+scientific and technological capabllities, improve public morals, enhance
+economic prosperity and social justice, promote full employment amcng
+their residents, maintain peace and order and preserue the comfoft and
+convenience of their inhabitants" (underscoring supplied)
+Viewed therefrom, this office recommends the a p
+of the Ordinance
+ATTY.
+A. GALLO, RSW
+Acting
+City Legal Officer
+Approved:
+ATTY. OSMUN
+P. VILANUEVA, JR
+O
+OIC-Acting City Legal Officer
+Date approved: March 2,2020
+tL{015.1 19 sftou.tttt] of irivcr't ftcnra 2020 00960 ] 2 20
+(i'dae
+[ri;'fi; ; i,'j 'n..') -i,:rrrrrl,,,\
+L'': i. -- ' "Irrc
+,'fiT*--*i5
+Q.6rrri
+; --11
+o'(fl
+'I
+I
+"t
+dq(
+q'-$
+Dtvtst0il
+rv
+ffi,
+ER
+ED
+cMo co.iTASI ti
+MA
+ADM
+Y,d|
+.raaD - @95
+q0b-e-Yr
+
+saCislG.
+'iz'
+,16
+t>
+(,zl
+p-'
+Itc
+Repqqtl. o! 4q Philippines
+SARA Z. DUTERTE
+City Mayor
+Madam:
+February 19,2020
+aurro -u
+ffi,
+CORRESPONDENCE & R€CORDS DIVISION
+RECEIVED
+FEB 20 2020
+"ffi,t$-f,0,.xfrH
+Do' qgb
+CMO CONIACI l: 241-1000
+09955299702
+lO
+*
+-t
+Pursuant to Sub-SECTION 3,
+469, Afticle One, Title Five,
+Chapter 3, Book III and SECTION 54, Book I of Republic Act No. 7160, othenruise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+0542-19 and Ordinance No. 0158-19, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+For and in the absence of the Secretary:
+MARIA -q
+THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Local Legislative Staff Officer IV)
+rI
+la-r,
+\\ t
+
+i.rcrra9
+6!
+Republlc of the Philippines
+tgth city Council
+24th Regular Session
+SERIES of 2019
+PRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Albefto T. Ungab
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. LDalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Sebastian Z. Duterte
+Bai Hundra Cassandra Dominique N. Advincula
+- Acting Vice Mayor
+- OB- Acting City Mayor
+- On Sick Leave
+ORDINANCE NO. 0158.T9
+SERIES of 2019
+AN ORDITTANCE AMENDING ARTICLE 24, SECTION 174
+(REQUIREMENT TO SHOW VALrD DRMR',S LTCENSE TO
+TRAFFTC ENFORCEMENT OFFICER) OF ORDINANCE NO. 033412, OTHERWISE KNOWN AS THE *COMPREHENSM TRAFFIC
+CODE OF DAVAO CITY"
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITTE - This Ordinance shall be known as *AN ORDINANCE
+AMENDING ARTICLE 24, SECTION ,,74 (REQUIREMENT TO SHOW VALID
+DRTVER',S LICENSE TO TRAFFIC ENFORCEMENT OFFTCER) OF ORDINANCE NO.
+o334-L2, OTHERWISE KNOWN AS THE *COMPREHENSM TRAFFICE CODE OF
+DAVAO CITY".
+
+Ord. No.0158-19
+SECTION 2. aBJECTM- This Ordinance aims to (a) prevent, lessen or mitigate
+the occurrence of any road-related accidents in Davao City, (b) instill discipline among
+motor vehicle drivers and (c) to prohibit colurum drivers plying the roads of Davao City
+endangering the lives and propefties of the people.
+SECTION 3.AUEIryEII- The amendments are as follows:
+FROM
+ARTICLE 24
+SECTION 174. PRODUCTION OF DRIVER'S LICENSE TO TRAFFIC ENFORCEMENT
+OFFICER. No person shall drive a motor vehicle on city road or highway unless
+he/she has a valid driver's license issued by the Land Transpoftation Office for that
+type of vehicle.
+(a) Any person who drives a motor vehicle on a road shall carry his/her drivert
+license with him/her at all times;
+(b) Any person driving a motor vehicle on the road shall; when requested to do so
+by a City Traffic and Enforcement Officer or any officer and staff of the CTTMO,
+or any authorized person, produce his/her license for inspection and state his/her
+true name and address;
+(c) In this SECTION "authorized person" means a person in uniform authorized by this
+Code or under any act to require a driver of a motor vehicle on a road to
+produce his/her driver's license;
+(d) A bona fide tourist or transient who is holding an international driver's license
+may be permitted to operate a motor vehicle in the Philippines not exceeding the
+expiry date of said license or in accordance with international agreements to
+which the Philippines is a signatory;
+(e) A person who knowingly drives a motor vehicle without having secured a priori
+or any appropriate license is guilty of a major offense, and shall be punishable in
+accordance with the penalty under Appendix V.
+ARTICLE 24
+sEcrroN L74. REQUTREMENT TO SHOW VALrD DRTVER',S ITCENSE TO
+TRAFFIC ENFORCEMENT OFFICER. No person shall drive a motor vehicle on city
+road or highway unless he/she has a valid driver's license issued by the Land
+Transportation Office (LTO) for that type of vehicle.
+(a) Any person who drives a motor vehicle on the road shall carry his/her valid
+drive/s license with him/her at all times;
+(b) Any person driving a motor vehicle on the road shall; when requested to do so
+by a City Traffic and Enforcement Officer or any officer and staff of the CTfrO,
+or any authorized person is required to show, present and cany his/her
+valid driver's license for inspection and state his/her true name and address;
+TO
+
+Ord. No.0158-19
+(c) In this SECTION "authorized person" means a person in uniform authorized by this
+Code or under any act to require the driver of a motor vehicle on the road
+to show, present, and cany his/her valid driver's license;
+(d) A bona fide tourist or transient who is holding an international valid driver's
+license and valid passpoft/visa may be permitted to operate a motor vehicle
+in the Philippines not exceeding the expiry date of said license or in accordance
+with international agreements to which the Philippines is a signatory;
+(e) Any penron who knowingly drives a motor vehicle but fails to show,
+present, and carry his/her valid driver's license as required by this
+Ordinance during apprehension of an enforcement officer is guil$ of
+the provisions of this Code, and any violation committed under
+paragraphs (a), (b), and (d) of this SECTION shall be cited and penalized
+with the following administrative and criminal liabilities, to wit:
+(i)
+l't Offense - Php 1,000 or imprisonment of Ten (10) days or both at
+the discretion of the court;
+(ii)
+2nd Offense - Php 3,000 or imprisonment of Fifteen (15) days or both
+at the discretion of the cour!
+(iii)
+3'd Offense - Php 5,000 or imprisonment of Thirty (30) days or both at
+the discretion of the couft;
+(0 Any penson apprehended for violation of this traffic ordinance shall
+have a period of five (5) working days from the date of apprehension
+within which to file his complaint before the Legal & Complaints
+Division of the CTTMO; Failure of the apprehended pafi to file his
+complaint within the period prescribed shall be deemed a waiver of his
+right to protest.
+sEcTIoN4.rc.Ifforanyreason,anySectionorprovision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions
+hereof not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EEEEGWIIY_- This Ordinance shall take effect fifteen (15) days
+after its publication in a newspaper of general circulation.
+ENACTED, December t7,20L9, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+e,kffi{ns^k'
+Secretary to the SangguniangPanlungsod
+(City Government Depaftment Head II),
+
+-
+Ord. No. 0158-19
+ATTESTED:
+ATTESTED:
+. UNGAB
+Vice Mayor
+Presiding Officer
+cns/kate
+ZULEIKA T.
+- City Mayor
+/
+hrArr' tl , LavAPPROVED' b4 }lAR 2020,2019
+Z. DUTERTE
+City
+L-

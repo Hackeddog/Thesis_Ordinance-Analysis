@@ -1,0 +1,188 @@
+---
+ordinance_number: "0721-24"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC SPECIFICALLY THE FOLLOWING STREETS MENTIONED HEREIN ON SPECIFIED DATES AND TIME, IN CoNNECTION WITH THE REQUEST OF MS. JENNIFER R. ROMERO, oFFICER rN CHARGE, CITY TOURISM OPERATTONS OFFICE, FOR THE CELEBRATION OF THE *2024 PASKO FIESTA'"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0721-24 (1).pdf"
+section_count: 2
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/temporary, topic/closure, topic/road, topic/vehicular, topic/traffic, topic/specifically]
+---
+
+# Ordinance No. 0721-24
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC SPECIFICALLY THE FOLLOWING STREETS MENTIONED HEREIN ON SPECIFIED DATES AND TIME, IN CoNNECTION WITH THE REQUEST OF MS. JENNIFER R. ROMERO, oFFICER rN CHARGE, CITY TOURISM OPERATTONS OFFICE, FOR THE CELEBRATION OF THE *2024 PASKO FIESTA'
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | - |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic of the Philippines '
+2oth city Council
+47th Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+lessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo lunior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Luna Maria Dominique S. Acosta
+January N. Duterte
+Jesus Joseph P. Zozobrado III
+Presiding Officer
+- On Official Business
+- On Sick Leave
+ORDINANCE NO. O72L.24
+SERIES of 2O24
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO
+VEHICULAR TRAFFIC SPECIFICALLY THE FOLLOWING STREETS
+MENTIONED HEREIN ON SPECIFIED DATES AND TIME, IN
+CoNNECTION WITH THE REQUEST OF MS. JENNIFER R. ROMERO,
+oFFICER rN CHARGE, CITY TOURISM OPERATTONS OFFICE, FOR THE
+CELEBRATION OF THE *2024 PASKO FIESTA'
+
+P6ge 2 of 3
+Ord. No. A72L-24
+Be it ordained by the SANGGUNIANG panlungrsod of Davao City in session assembted,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as'AN ORDINATICE FOR
+THE TETIIPORARY CLOSURE OF ROAD TO VEHICT'TAR TRAFFIC SPECIFIICATLY
+THE FOLLOWIT{G STREETS iIE]ITIOTIED HEREIT{ Ofl SPECIFIED DATES AITD
+TIHE, III COI{NECTIOII WITH THE REQUEST OF I$S. fEilItIFER R. ROIT;ERO,
+OFFICER IN CHARGE CITY TOURISM OPERATIOilS OFFICE, FOR THE
+CELEBRATION OF THE'2024 PASKO FIESTA'.
+SECTIOT{ 2.
+- Sction 21 (c) of Republic Act No.
+7160, otherwtse known as the Local Governnrent Code of 199i,'provides that i'any
+national or local road, alley, park, or square may be temporarily closed during an aauj
+emergency, fiesta celebrations, public rallies, agricultural or industrial 6irs or an
+undertaking of public worts and highways, telecommunications and water works
+prqieEts.
+SECTIOil 3. TEMPORARY CLOSURE - The Davao City Tourism Operations
+ffice requested for the temporary closure of road to vehicular tiaffic on the'specineO
+dates, time and activities in consideration of the upcoming *ZOZ4 pasko Fiesta,,
+cehDration. (Ftem see attadred dowmenB)
+SECTION 4. SEPARABILITY CIAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provi$ons her€of not affecte<l by such declardion shall continue to be in full force and
+e,ftEt
+SECTIOI{ 5. EFFECTMTY- This Ordinance shatl take effiect immediatety upon
+approval.
+EITACTED, on fie 10e day of Ecemter 2024, by a rrnanrnous vote of all the
+Members of the Sanggunian, there being a guorum.
+CERTIFIED CORRECT:
+^ A4n; \. '/"-
+CTIARITO N. SANTOS
+City Government Department Head II
+(Secretary to the SANGGUNIANG Panlung*L
+tl
+ELC,{OR B. QUITAIN JR.
+/ Vice Mayor
+'Presiding Officer
+arfialt
+ATTESTEDI
+J.M
+
+I
+a
+,
+APPROUED:
+JAN 0 6 206
+hge3of3
+Ord. No. A72L-24
+piix
+,
+?
+t
+e
+Z U'TERTE
+Wrr*y I
+ATTESTEDT
+ATTY.
+H. I.AYOG
+otv
+ru{ ORDIIUilCE F(H'THETETI.IKIRARY CKXilEE OF ROAD TO IIEIIIqIuRTRAFECSPEcIEEAI.LY
+TIE Fol.ttr slc smEEns HE|{Tr0ED ry3err o* specrrco o*rs ffi} TS|E, I*
+iirilitftitlii'tiii{ii iiiE neQiJB* AF iiE. jiliffi'rirtH ffitit;-6rffi['$iH**ce cF,
+TAIRIS}T OPERATIOTE OFFIG, FORTHE CE' FBRATIO$I Of THL -*z+PASIco NESrI'

@@ -1,0 +1,185 @@
+---
+ordinance_number: "0225-23"
+title: "AN ORDINANCE APPROVING THE ROAD CLOSURE OF MATINA BrAO-LANGUB ROAD FOR A PERIOD OF SIXTEEN (16) MONTHS FROM MAY 2023 TO DECEMBER 2024 FOR THE CONSTRUCTION OF AN OVERPASS BRIDGE (OV2) ALONG THE SArD AREA"
+date_enacted: "2023-06-06"
+approval_date: "2023-06-20"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0225-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/approving, topic/road, topic/closure, topic/matina, topic/brao, topic/langub]
+---
+
+# Ordinance No. 0225-23
+
+> AN ORDINANCE APPROVING THE ROAD CLOSURE OF MATINA BrAO-LANGUB ROAD FOR A PERIOD OF SIXTEEN (16) MONTHS FROM MAY 2023 TO DECEMBER 2024 FOR THE CONSTRUCTION OF AN OVERPASS BRIDGE (OV2) ALONG THE SArD AREA
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+21st Regular Session
+SERIES of 2023
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bai Hundra Cassandra Dominique N. Advincula
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+Trisha Ann J. Villafuerte
+Lorenzo Benjamin D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Temujin B, Ocampo
+- Temporary Presiding Officer
+ABSENT
+Councilor
+Councilor
+- On Official Business
+- On Official Business
+ORDINANCE NO. 0225.23
+SERIES of 2O23
+AN ORDINANCE APPROVING THE ROAD CLOSURE OF MATINA
+BrAO-LANGUB ROAD FOR A PERIOD OF SIXTEEN (16) MONTHS
+FROM MAY 2023 TO DECEMBER 2024 FOR THE CONSTRUCTION OF
+AN OVERPASS BRIDGE (OV2) ALONG THE SArD AREA
+
+Ord. No. 0225-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+APPROVING THE ROAD CLOSURE OF MATINA BIAO.LANGUB ROAD FOR A
+pERroD oF srxTEEN (16) MONTHS FROM MAY 2023 TO DECEMBER 2024 FOR
+THE CONSTRUCTION OF AN OVERPASS BRIDGE (OV2) ALONG THE SArD AREA',.
+SECTION 2. PERTTNENT PROVISTONS UNDER REPUpLTC ACT NO. 7160 OR
+THE,LO9AL SOVFRNMENT pOpE OF 1991 -
+"SECTION 25. National Superuision over Local Government Units. - )oo(
+(b) National agencies and offlces with project implementation functions
+shall coordinate with one another and with the local government units
+concerned in the discharge of these functions. They shall ensure the
+pafticipation of local government units both in the planning and
+implementation of the said national projects.
+Sections 458. Powers, Duties, Functions and Compensation. - xx
+(5) Approve ordinances which shall ensure the efficient and effective
+delivery of the basic seruices and facilities as provided for under SECTION
+t7 of this Code, and in addition to said seruices and facilities, shall:
+(v) Regulate the use of streets, avenues, alleys, sidewalks, bridges, parks
+and other public places and approve the construction, improvement, repair
+and maintenance of the same. )o(x"
+SECTION 3. COVERAGE - This Ordinance shall cover the road closure of Matina
+Biao-Langub Road for a period of sixteen (16) months from May 2023 to December 2024
+for the construction of an overpass bridge (OV2) along the said area as paft of the scope
+of work of the Davao City Bypass Construction Project.
+sEcTIoN4.W-If,foranyreaSon,anysectionorprovision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect upon approval.
+ENACTED, on the 6th day of June 2023, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+,k/
+MA. THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsotl.
+that:
+
+I
+Ord. No. 0225-23
+ATTESTED
+E
+President
+Temporary
+ng
+r
+mtar/josh
+JudE 10
+APPROVED:
+JUN 20 2023 , 2023
+SEBASTIAN Z. DUTERTE
+citv Mav2y I
+ATTESTED:
+ATTY. FRAN
+H. LAYOG
+Acting
+AN ORDINANCE APPROVING THE ROAD CLOSURE OF MATINA BIAO-LANGUB ROAD FOR A PERIOD
+oF SIXTEEN (16) MONTHS FROM MAy 2023 TO DECEMBER2024 FOR THE CONSTRUCTION OF AN
+OVERPASS BRIDGE (OV2) ALONG THE SAID AREA
+Tem
+a
+t_
+t-

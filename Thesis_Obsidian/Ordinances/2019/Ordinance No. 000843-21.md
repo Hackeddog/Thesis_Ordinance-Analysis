@@ -1,0 +1,213 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO EI{TER INTO AND SIGN, FOR AilD rN BEHATF OF THE CrTy OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN DAVAO FASHION AilD DESIGN COUNCIL FOUNDATION, rNc. (DFDCFT) AND THE CrTY GOVERNMENT OF DAVAO RETATM TO THE GRANT.IN-AID Iil SUPFORT AND ASSISTANCE TO THE PROMOTTON, PRESERVATTON AND DEVELOPMENT OF DAVAO',S CUTTURAL HE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000843-21.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.0
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/authorizing, topic/mayor, topic/sign, topic/aild, topic/behatf, topic/crty]
+---
+
+# Ordinance No. 000843-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO EI{TER INTO AND SIGN, FOR AilD rN BEHATF OF THE CrTy OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN DAVAO FASHION AilD DESIGN COUNCIL FOUNDATION, rNc. (DFDCFT) AND THE CrTY GOVERNMENT OF DAVAO RETATM TO THE GRANT.IN-AID Iil SUPFORT AND ASSISTANCE TO THE PROMOTTON, PRESERVATTON AND DEVELOPMENT OF DAVAO',S CUTTURAL HE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+48th Regular Session
+SERIES of 2O2L
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Sebastian Z. Duterte
+Maria Belen S. Acosta
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+- On Official Business
+- On Sick Leave
+- On Maternity Leave
+- On Sick Leave
+Reputitic cjf'the,Philippines'
+City.of Davao
+Albefto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+oRDINANCE 1{O. 0843-21
+SERIES of 2O2L
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO EI{TER INTO AND
+SIGN, FOR AilD rN BEHATF OF THE CrTy OF DAVAO, THE RENEWAL OF
+THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND
+BETWEEN DAVAO FASHION AilD DESIGN COUNCIL FOUNDATION,
+rNc. (DFDCFT) AND THE CrTY GOVERNMENT OF DAVAO RETATM TO
+THE GRANT.IN-AID Iil SUPFORT AND ASSISTANCE TO THE
+PROMOTTON, PRESERVATTON AND DEVELOPMENT OF DAVAO',S
+CUTTURAL HERITAGE THROUGH PROGRESSIVE FASHION AND
+DESIGN FOR CALENDAR YEAR 2022
+I
+
+Ord. No. 0843-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN DAVAO FASHION AND
+DESIGN COUNCTI FOUNDATTON, INC. (DFDCFT) AND THE CrTY GOVERNMENT
+OF DAVAO RELATIVE TO THE GRANT.IN.AID IN SUPPORT AND ASSISTANCE
+TO THE PROMOTTON, PRESERVATTON AND DEVELOPMENT OF DAVAO',S
+CULTURAL HERITAGE THROUGH PROGRESSIVE FASHION AND DESIGN FOR
+CATENDAR YEAR 2022"
+SECTION 2.
+- SECTION 22(a) (5) and (c) and SECTION
+25(b) of the Local Government Code of 1991 or RA 7$A provide:
+SECTION 22. Corporate Powers. -
+(a) Every local government unit, as a corporation, shall have
+the following powers: w(
+(5) To enter into contracts; and >oo<
+(c) Unless otherwise provided in this Code, no contract may
+be entered into by the loca! chief executive in behalf of the
+local government unit without prior authorization by the
+sanggunian concerned. A legible copy of such contract shall
+be posted at a conspicuous place in the provincia! capitol or
+the city, municipal or barangay hall.
+SECTION 25. National Supervision over Local Government
+Units.
+(b) National agencies and offices with project implementation
+functions shall coordinate with one another and with the local
+government units concerned in the discharge of these
+functions. They shall ensure the pafticipation of local
+government units both in the planning and implementation of
+said national projects.
+SECTION 3. AUIHW - The City Mayor is hereby granted legislative
+authority to enter into and sign the renewal of the Memorandum of Agreement (MOA) to
+be entered into by and between Davao Fashion and Design Council Foundation, Inc.
+(DFDCFI) and the City Government of Davao, relative to the Grant-in-Aid in suppoft and
+assistance to the promotion, preservaUon and development of Davao's Cultural Heritage
+Through Progressive Fashion and Design for Calendar Year 2022.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEEIqfIgE - This Ordinance shall take effect immediately upon
+approval.
+
+(
+i
+Ord. No. 0843-21
+ENAfiED, on the 14s day of December 202L, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^A'v,r;, I- /'*
+CHARITO N. SANTOS
+Secretary to the Sanggu6iang Panlungsod
+(City Government Department Head II),
+ATTESTED:
+ATTESTED:
+. UNGAB
+ng Vice Mayor
+Temporary Presiding Officer
+cns/kjtq
+JI}) lt bLa
+APPROVED: JAN T1 lfl,N
+202L
+SARA Z. DUTERTE
+City Mayor .:
+v
+ZU
+LOPEZ
+n
+lLo
+City Adm
+Adng
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENTTO BE ENTERED INTO BY
+AND BETWEEN DAVAO FASHION AND DESIGN COUNCTL FOUNDATION, INC. (DFDCFI) AND THE CITY
+GOVERNMENT OF DAVAO REI.ATIVE TO THE GRANT-IN-AID IN SUPPORT AND ASSISTANCE TO THE
+PROMOTION, PRESERVATION AND DEVELOPMENT OF DAVAO'S CTJLTURAL HERITAGE THROUGH
+PROGRESSIVE FASHION AND DESIGN FOR CALENDAR YEAR 2022
+e
+D,, iER-ik
+Maryu Y

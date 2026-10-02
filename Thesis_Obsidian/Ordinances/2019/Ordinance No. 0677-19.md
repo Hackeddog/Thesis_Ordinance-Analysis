@@ -1,0 +1,349 @@
+---
+ordinance_number: "0677-19"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE TtlIRw PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT oF DAVAO FOR CALENDAR YEAR 2Ot9, TO EXTEND FTNANCTAL ASSISTANCE AT ONE MILLTON PESOS (P1,000,000.00) EACH TO THE PROVTNCES OF ALBAY, CAMARTNES SU& CAMARTNES NORTE soRsoc"
+date_enacted: "2019-01-03"
+approval_date: "2019-01-21"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0677-19 (1).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/authorizing, topic/mayor, topic/utilize, topic/portion, topic/ttlirw, topic/percent]
+---
+
+# Ordinance No. 0677-19
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE TtlIRw PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT oF DAVAO FOR CALENDAR YEAR 2Ot9, TO EXTEND FTNANCTAL ASSISTANCE AT ONE MILLTON PESOS (P1,000,000.00) EACH TO THE PROVTNCES OF ALBAY, CAMARTNES SU& CAMARTNES NORTE soRsoc
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+1 ' Republici of th.ePhifippines
+OFFTCE OF ITHE CITY MAYOR
+,
+crsN
+l)
+ATTY.
+DOMINGO
+CAdO-Ref. No. 201900182
+2nd Indorcement
+January 24,20L9
+OF
+Respectfully forwarded to Ms. Charito N. Sanbs, Secretary to the
+SANGGUNIANG Panlungsod, this City, the attached duly signed and approved Ordinance
+No. 0677-19, SERIES of 2019, entitled "AN ORDINANCE AUTHORIZING THE CITY
+MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE
+FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND
+MANAGEMENT FUND (CAtAMrry FUND) OF THE CrTY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR aOL},TO EXTEND FINANCIAL ASSISTANCE AT ONE MILUON PESOS
+(1,000,000.00) EACH To THE PRovINcES oF ALBAY, CAMARINES SUR, CAMARINES
+NORTE, SORSOGON AND ORIENTAL MINDANAO, TOTALUNG TO FIVE MILUON
+PESOS (5,000,000.00) FoR FooD AND RELIEF ASSISTANCE TO BE PRO-RATED
+AMONG THE PROVINCES OF ALBAY, CAMARINES SUR AND SORSOGON IN THE TOTAL
+AMOUNT OF TEN MILUON PESOS (10,000,000.00) WHICH AREAS WERE DECLARED
+UNDER A STATE OF CALAMITY DUE TO THE DAMAGE CAUSED BY TYPHOON
+"USMAN", SUB]ECT TO EXISTING GOVERNMENT BUDGETING, ACCOUNTING AMD
+AUDffiNG RULES AND REGULATIONS", for your information and appropriate action.
+For the City Mayor:
+1pt-3-11
+cMo . cnD 3a? -b
+RELEASE
+oo
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 255 o davaocitymayor@gmail.com
+BAW*,@
+LIFE
+IS HERE
+
+;
+oiltlIq-lb
+OFFICE OF THE CITY LEGAL OFFICER
+Ref. No. 1131-19 - a)Ko
+LEGAL OPINION rVO. 7( SERIES OF 2019
+1.t INDORSEMENT
+January 16,2019
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the attached Ordinance No.0677-19 SERIES OF
+2019, Entitled ,AN ORDINANCE AUTHORIZNG THE CITY MAYOR To UTILIzE A
+PORTION OF THE THIRTY PERCENT (30%) QUTCK RESPONSE FUND (ORF) OUT
+OF THE FIVE PERCENT (5%) DISASTER RISK REDUCTION AND MANAGEMENT
+FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 2019, IN THE TOTAL AMOUNT OF TO EXTEND FINANCIAL
+ASSISTANCE AT ONE MILLION PESOS (P1,000,000.00) EACH To THE PROV|NCES
+OF ALBAY, CAMARINES SUR, CAMARINES NORTE, SORSOGON AND ORTENTAL
+MlNDoRo, TOTALLING THE FlvE MlLLloN PESos (ps,000,000.00); AND FlvE
+MILLION PESOS (P5,000,000.00) FoR FooD AND RELTEF ASSTSTANCE TO BE
+PRO-RATED AMONG THE PROVINCES OF ALBAY, CAMARINES SUR AND
+soRSoGoN lN THE TOTAL AMOUNT OF TEN M|LLION PESOS (p10,000,000.00)
+WHICH AREAS WERE DECI-ARED UNDER A STATE OF CALAMITY DUE TO THE
+DAMAGED CAUSED BY TYPHOON 'USMAN' SUBJECT TO EXISTING
+GOVERNMENT BUDGETING, ACCOUNTING AND AUDITING RULES AND
+REGULATIONS', informing your end that the same is free from legal infirmity citing RA
+10121 in relation to RA 8185, otherwise known as An Act Amending Sec. 324 (d) of nn
+7160, the Local Government Code of 1 991 .
+ArrY MARrs&-ALLo, RSW
+Acting Asst. City Legal Officer
+Approved by
+OSMUN
+P. VILLANUEVA, JR
+OIC- Asst. City Legal Officer
+Date approved: January 16, 2019
+I
+OFFTC E OF THE *tsY.AS,HtlilsTRAT0R
+clTY rilil.r CFFICE
+RECElvtl EY:*
+OFHG OF TTIE
+&*'HIA$srnllim
+DATE:
+TIME:
+ffitDg'!n
+ia
+
+s*.IT: ' I U
+JAN
+CORRESPONDENCE &
+RECE
+tlTu
+MARY ANN
+ATVARADO
+RECORDS DIVISION
+IVED
+JAN 18 201S
+. i.iirY fo a,
+,.011. Or l82
+TqD4A-++
+
+o7
+r>€
+2?
+xi
+.
+Republic of the !_hilippines '
+,
+Gty of Davao
+Offie of the SANGGUNIANG panlungsod
+January 11, ?01q
+t\lot - tt/
+S^ARA T. DUTERTE
+City Mayor
+fity of fta'{ao
+*,{=r-Jan'r
+Putsuanl to Suh+Etrtiolr *?, Paiagraph c, se$ion 46g, Artrh one, T!t!* Fiyechapter r, Boak III anr-1 Sedi*n 54 of Book I Repr:tlir .Art No. Lr,0, cthensi* k*+wn
+E the Local Govemnrent tode af 18g1, we are ftrrnishing you a roFy of
+Resolution t{o. $29r}5-L9 anr-l or,Jinailce },!o. o6r}-19, L,oth serEs of z01g of the
+SANGGUNIANG Fanlun[sor-1, city cf Davao, for your information, guidanre an*J appropriate
+attion.
+I'
+Very truly yours,
+_ cakkffiil:/.t'**
+Sectetary to the SANGGUNIANG panlunrtsoi
+{Citf Govenr ment tnfaftnrent FEal- Ii i
+fuIARY
+ATVARADO
+l/b
+ESPONDENCE &
+ECE
+CORR
+RECORDS
+R
+I V E D
+JAN 14 20t9
+\
+
+z
+b
+ivc'
+Republic of tle Philippines
+Council
+1st Regular Session
+SERIES of 2019
+PRESENT:
+ABSENT:
+Vice Mayor Bernard E. Al-ag
+Councilor Nilo M. Abellera Jr.
+Councilor Victorio U. Advincula Jr.
+Councilor A! Ryan S. Alejandre
+Councilor Dante L. Apostol Sr.
+Councilor Conrado C. Baluran
+Councilor Joanne M. Bonguyan-Quilos
+Councilor Ma. Cherry Ann M. Bonguyan
+Councilor Pilar C. Braga
+Councilor Carmelo J. Clarion
+Councilor Jimmy G. Dureza
+Councilor Edgar P. Ibuyan Jr.
+Councilor Edgar R. Ibuyan Sr.
+Councilor Leah A. Librado-Yap
+Councilor Rene Elias C. Lopez
+Councilor Diosdado Angelo A. Mahipus
+Councilor Jaffar U. Marohomsalic
+Councilor Bonifacio E. Militar
+Councilor Antoinette G. Principe-Castrodes
+Councilor l. Melchor B. Quitain Jr.
+Councilor Marissa P. Salvador-Abella
+Councilor Halila Y. Sudagar
+Councilor Mary Joselle D. Villafuefte
+Councilor Jesus Joseph P. Zozobrado III
+- Presiding Officer
+- On Official Business
+- OB- Attended the NMYL Officer's
+Meeting
+- On Vacation Leave
+Councilor Maria Belen S. Acosta
+Councilor Danilo C. Dayanghirang
+Councilor April Marie C. Dayap
+Councilor Avegayle Dalodo Ortiz
+ORDINANCE NO. 4677.19
+SERIES of 2019
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A
+PORTION OF THE TtlIRw PERCENT (30o/o) QUICK RESPONSE FUND
+(QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION
+AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT
+oF DAVAO FOR CALENDAR YEAR 2Ot9, TO EXTEND FTNANCTAL
+ASSISTANCE AT ONE MILLTON PESOS (P1,000,000.00) EACH TO THE
+PROVTNCES OF ALBAY, CAMARTNES SU& CAMARTNES NORTE
+soRsocoN AND ORTENTAL MTNDORO, TOTALLTNG TO FM MILLTON
+PESOS (P5,000,000.0O); AND FM MILUON PESOS (P5,0O0,OOO.00) FOR
+FOOD AND RELIEF ASSISTANCE TO BE PRO.RATED AMONG THE
+pRovrNcEs oF ALBAY, CAMARTNES SUR AND SORSOGON rN THE TOTAL
+AMOUNT OF TEN MTLIION PESOS (P10,000,000.00) WHrCH AREAS
+WERE DECLARED UNDER A STATE OF CALAMITY DUE TO THE DAMAGE
+cAusED BY TYPHOON 'USMANi SUBIECT TO EXTSTTNG GOVERNMENT
+BUDGETING, ACCOUNTING AND AUDITING RULES AND REGULATIONS
+
+Ordinance No. 0677-19
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled:
+SECTION 1. TITLE - This Ordinance shall be known as *AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO UTITIZE A PORTION OF THE THIRW
+PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT
+(5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUilD (CAIAMITY
+FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALEI{DAR YEAR 2019, TO
+EXTEND FINANCTAL ASSISTANCE AT ONE MILLION PESOS (P1,000,000.00)
+EACH TO THE PROVINCES OF ALBAY, CAMARINES SU& CAMARTNES NORTE,
+soRsocoN AND ORTENTAL MINDORO, TOTALLING TO FrVE MTLLION PESOS
+(P5,000,000.00); AND FM MILLION PESOS (P5,000,000.00) FOR FOOD AND
+RETIEF ASSISTANCE TO BE PRO.RATED AMONG THE PROVINCES OF ALBAY,
+CAMARINES SUR AND SORSOGON IN THE TOTAT AMOUNT OF TEN MILLION
+pEsos (p10,0o0,000.00) wHIcH AREAS WERE DECLARED UNDER A STATE OF
+CALAMITY DUE TO THE DAMAGE CAUSED BY TYPHOON *USMAN", SUBJECT TO
+EXISTING GOVERNMENT BUDGETING, ACCOUNTING AND AUDITING RULES
+AND REGUIATIONS".
+SECTION 2. DECTARATION OF POUCY. In keeping with its mandate and in
+response to the needs of the people, the City Government of Davao declares as its policy
+to judiciously utilize its resources and put the same to proper use;
+SECTION 3. BENEFICIARIES. The following areas are hereby designated as
+beneficiaries of the assistance, to wit:
+SECTION 4. BENEFICIARIES OF THE FOOD AND RELIEF ASSISTANCE. The
+amount of Five Million Pesos (P5,000,000.00) intended for Food and Relief Assistance shall
+be pro-rated among the Provinces of Albay, Camarines Sur and Sorsogon.
+SECTION 5. LEGAT BASIS. Pursuant to the provisions of SECTION 324 (d) of
+Republic Act No. 7L60, otherwise known as the Local Government Code of 1991, as
+amended by Republic Act 8185, which states that "Five Percent (5o/o) of the estimated
+revenue from regular sources shall be set aside as annual lump sum appropriations for
+reliet rehabilitation, reconstruction and other works or seruices in connection with
+calamities which may occur during the budget year. ProvideQ however, that such fund
+shall be used only in the area, or a portion thereot of the local government unit or other
+areas affected by a disaster or calamity, as determined and declared by the local
+sa n gg u n ia n concerned ";
+Fufther, SECTION 5 of the Rules and Regulations Implementing RA 8185 states that:
+PROVINCES
+AMOUNT
+1.
+Albay
+P
+,.rOOO,OOO.OO
+'2.
+Camarines Sur
+,.rOOO,OOO.OO
+'3.
+Camarines Norte
+1,OOO,OOO.OO
+Sorsogon
+1,OOO,OOO.OO
+5.
+Oriental Mindoro
+1,OOO,OOO.OO
+Food and Relief Assistance
+5,OOO,OOO.OO
+TOTAL.
+P
+1(,,ooo,ooo.oo
+Sedion 5. Allocation and Utilization of Five Percent (So/o-t Lumpsum Appropriations
+for CalamiU Fund
+4.
+
+Ordinance No. 0677-19
+a) Allocation
+)ffi
+)ou
+W
+"LGUs may also allocate/use a poftion of the five percent (5o/o) Calamity Fund to
+other affected areas on condition that the said areas are declared as under a
+State of Calamity by the SANGGUNIANG concerned";
+b) Utilization
+(2) A portion of the calamity fund may also be authorized to be used by the
+LGU concerned to provide financial assistance to other LGUs whose area or
+portion thereof had been declared under a state of calamity by its Sanggunian";
+SECTION 6, USE OF FUNDS - The amounts herein appropriated shall be used
+specifically for such items and expenditures approved by the SANGGUNIANG Panlungsod. All
+disbursements and utilization of funds shall be subject to existing government budgeting,
+accounting and auditing rules and regulations of the Depaftment of Budget and
+Management (DBM), the Commission on Audit (COA), the Procurement Law (RA 9184), as
+well as other applicable laws, ordinances and Presidential directives.
+SECTION 7.
+upon approval.
+EFFECTMTY - The provisions of this Ordinance shall take effect
+ENACTED, January 3, 2019, by a unanimous vote of all the Members of the
+Sangunian present.
+CERTIFIED CORRECT:
+vbnl, .1,-A
+cHARrro n/sanros
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+ATTESTED
+E. AL.AG
+Vice Mayor
+Presiding Officer
+AppRovED, 21 JAN 2019
+20L9
+z.
+LOPEZ
+\*r'
+ATTESTED:
+ATTY.
+City Ad
+KA
+/
+.j
+Cttt t"taVy
+Y

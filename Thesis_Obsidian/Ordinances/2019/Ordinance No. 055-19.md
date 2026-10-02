@@ -1,0 +1,171 @@
+---
+ordinance_number: "055-19"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE IMPLEMENTATION MANAGEMENT AGREEMENT (IMA) TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE DEPARTMENT OF AGRTCULTURE (DA) FOR TABLEA PROCESSTNG AND MARKETING ENTERPRISE"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 055-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/authorizing, topic/mayor, topic/sign, topic/behalf, topic/government, topic/implementation]
+---
+
+# Ordinance No. 055-19
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE IMPLEMENTATION MANAGEMENT AGREEMENT (IMA) TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND THE DEPARTMENT OF AGRTCULTURE (DA) FOR TABLEA PROCESSTNG AND MARKETING ENTERPRISE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Ofrice of the SANGGUNIANG Panlungsod
+19th City Council
+13th Regular Session
+SERIES of 2019
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Conrado C. Baluran
+Jessica M. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+PRESENT:
+Vice Mayor Sebastian Z. Duterte
+Councilor Maria Belen S. Acosta
+Councilor Dante L. Apostol Sr.
+Councilor Louie lohn J. Bonguyan
+Councilor Bonifacio E. Militar
+Councilor Jesus Joseph P. Zozobrado III
+- On Special Privilege Leave
+- On Sick Leave
+- On Domestic Emergency Leave
+- On Domestic Emergency Leave
+- On Sick Leave
+- On Domestic Emergency Leave
+ORDINANCE NO. 055-19
+SERIES of 2019
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN,
+FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+THE IMPLEMENTATION MANAGEMENT AGREEMENT (IMA)
+TO BE ENTERED INTO BY AND BETWEEN THE CITY
+GOVERNMENT OF DAVAO AND THE DEPARTMENT OF
+AGRTCULTURE (DA) FOR TABLEA PROCESSTNG AND
+MARKETING ENTERPRISE
+
+Ord. No. 055-19
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in
+session assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY
+GOVERNMENT OF DAVAO, THE IMPLEMENTATION MANAGEMENT
+AGREEMENT (IMA) TO BE ENTERED INTO BY AND BETWEEN THE CITY
+GOVERNMENT OF DAVAO AND THE DEPARTMENT OF AGRICULTURE (DA) FOR
+TABLEA PROCESSING AND MARKETING ENTERPRISE".
+SECTION 2. DECLARATION OF POUCY - SECTION 455, (b) (1) (vi) of the Local
+Government Code of 1991 provides, to wit:
+"For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 16 of this Code, the city mayor shall:
+(vi) Represent the city in all its business transactions and sign
+in its behalf all bonds, contracts, and obligations, and such
+other documents upon authority of the SANGGUNIANG
+Panlungsod or pursuant to law or ordinance".
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to sign, for and in behalf of the City Government of Davao, the
+Implementation Management Agreement (IMA) to be entered into by and between the
+City Government of Davao and the Department of Agriculture (DA) for tablea processing
+and marketing enterprise.
+SECTION 4. SEPARABILITY CLAUSE- If , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTIVITY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 1't day of October, zOLg, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+",!/M,liko,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head IQr^,,
+
+I
+Ord. No. 055-19
+ATTESTED:
+Acting
+Temporary
+cns/kjtq
+APPROVED
+,2019
+SARA Z. DUTERTE
+City Mayor
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+Implementation Management Agreement Re Tablea Processing and Marketing Enterprise

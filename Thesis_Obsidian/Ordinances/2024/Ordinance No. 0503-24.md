@@ -1,0 +1,204 @@
+---
+ordinance_number: "0503-24"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AT{D SIGN, FOR AND IN BEHA]F OF THE CrTy OF DAVAO, THE DEED OF DONATTON (DOD) TO BE EXECUTED By FAST LOGTSTICS CORFORATION AilD MVC DEYELOPMEilT CORPORATION IN FAVOR OF THE CITY OF DAVAO, RELATM TO THE DONATION OF PARCELS OF LAND SITUATED AT PUROK 1 pROpE& BARANGAY ACACIA, THrS CITY, FOR SUSTAINABLE DA/ELOPMENT AilD ENHANCEMENT OF LOCAL INFRASTRUCT"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0503-24 Deed of Donation Fast Logistics Corp. (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/authorizing, topic/mayor, topic/accept, topic/sign, topic/beha, topic/crty]
+---
+
+# Ordinance No. 0503-24
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AT{D SIGN, FOR AND IN BEHA]F OF THE CrTy OF DAVAO, THE DEED OF DONATTON (DOD) TO BE EXECUTED By FAST LOGTSTICS CORFORATION AilD MVC DEYELOPMEilT CORPORATION IN FAVOR OF THE CITY OF DAVAO, RELATM TO THE DONATION OF PARCELS OF LAND SITUATED AT PUROK 1 pROpE& BARANGAY ACACIA, THrS CITY, FOR SUSTAINABLE DA/ELOPMENT AilD ENHANCEMENT OF LOCAL INFRASTRUCT
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Offrce of the SANGGUNIANG Panlungsod
+20tt'City Council
+20h Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+C.ouncilor
+Courrcilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+C,ouncilor
+Councilor
+C,ouncilor
+C.ouncilor
+C.ouncilor
+Councilor
+&uncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Cq,mcilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Camps III
+Jonard C. Dayap
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfu M. Mande
+Bonz Andre A. Militar
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Bernard E. Al-ag
+Kristine May John Abdul Mercado
+Temujin B. Ocampo
+- Presiding fficer
+- On Vacation Leave
+- On Official Business
+- On Official Business
+ABSENT:
+Councilor
+Councilor
+Councilor
+oRDTNAI|CE ilO. 0503-24
+SERIES of 2024
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ACCEPT AT{D
+SIGN, FOR AND IN BEHA]F OF THE CrTy OF DAVAO, THE DEED OF
+DONATTON (DOD) TO BE EXECUTED By FAST LOGTSTICS
+CORFORATION AilD MVC DEYELOPMEilT CORPORATION IN FAVOR OF
+THE CITY OF DAVAO, RELATM TO THE DONATION OF PARCELS OF
+LAND SITUATED AT PUROK 1 pROpE& BARANGAY ACACIA, THrS
+CITY, FOR SUSTAINABLE DA/ELOPMENT AilD ENHANCEMENT OF
+LOCAL INFRASTRUCTURE AND PUBTIC SERVICES
+
+Ord. No.0503-24
+that:
+Be it ordained by the SANGGUNIANG Panlungsod of Davao Ctty in session assembled,
+SECTION 1. TITLE - This Ordinance shall be known as 'Ail ORDINAI{CE
+AUr}(,RIZIIIG THE CITY TIIAYOR TO ACCfPT A]ID SIGTI, FOR AIID ITI BEHATF OF
+THE CrTY OF DAVAO, THE DEED OF DOITATrON (DOD) TO BE EXECUTED BV FAST
+TOGISTICS CORPORATION AND MVC DEVETOPMENT CORFORATION IN FAVOR
+OF THE CITY OF DAVAO, RELATIVE TO THE DOilATIOil OF PARCETS OF LAND
+SITUATED AT PUROK 1 PROPE& BARANGAY ACACIA, THIS CITY, FOR
+ST,STAIIIABLE DEVELOPMEIIT A]ID ETTHA]ICEMEITT OF LOCAT ITIFRASTNTIOUNT
+Al{D PUBLIC SERVICES.'
+SECTION 2. DECIARATION OF POLICY - Sections 22 (a) (5) (c) and 455 of
+Republic Act No. 7L60 or the Local Government code of 1991, provide that:
+'SECTION 22. Corporate powerc.-
+(a) Every local government uni! as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the rocal
+go,ernrnent unit without prior authorization by ttrc sangffian
+concemed. A legible copy of such contract shall be posted d a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall."
+'SECTION 455. Chief
+CompensationExecutiye; Powerc, Duties and
+(b) For efficient, effiective and economical governance the purpose
+of which is the general welfare of the city and its inhabitanb
+pursuant to SECTION 16 of this Code, the city mayor shall:
+(1) E:<erclse general superuision and control over all programs,
+projects, services, and activities of the city government and in
+this connection, shall:
+(vi) Represent the city in all its business transactions and sign in its
+behalf att bonds, contracG, and obltgattons, and such ottrer
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative authority
+to enten into and sign the Deed of Donation (DOD) to be exeuted by Fast Logisttcs
+Corporation and MVC Development CorporaUon in favor of the Gty of Davao, relative to $e
+donation of parcels of land situated at Purok 1 Proper, Barangay Acacia, this City, for
+Sustainable Development and Enhancement of Local Infrastructure and Public Seruices.
+SECTION 4. SEPARABILITY CLAUSE - lf, for any reason, any SECTION or
+prwision of this ffiinance is dectared unconstihrtionat or irwalid, odrer sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+
+Ord. No.0503-24
+SECTIOI{ 5. EFFECTIVTfY- This Ordinance shall take effect immeditrely upon
+approval.
+ENACTED, on the 28n day of May 2024, by a unanimous vote of all the Members of
+tfie Sanggunian, thtre being a quonrn.
+CERTIFIED CORRECTI
+For and in the absence of the Secretary:
+MA. THERE&. REyEs
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+ATTESTED:
+I.
+APPROVED:
+JUL 0 I 2024
+2424
+DUTERTE
+Mayff V
+ATTESTED:
+ATTY.
+H. IAYOG
+Actiqg
+AN ORDINANCE
+THE CITY MAYOR TO ACCEPT AND SIGN, FOR AND IN BEHALF OF THE
+CITY OF DAVAO, THE DEED OF DONATION (DOD) TO BE DGCUTED By FAST LOGISICS
+CORPORATION AND MVC DEVELOPMENT CORPORATION IN FAVOR OF THE CITY OF DAVAO,
+RET.ATIT/E TO THE DCF{ATION OF PARCEIS OF IAND SIruATED AT PUROK 1 PROPER, BARAffGAY
+ACACIA, THIS C[TY, FOR SUSTAINABLE DEVELOPMENT AND ENHANCEMENT OF LOCAL
+IHFRASTRUCTURE AT{D PUBUC SERVICES
+ilMEtClloR B. QUTTAIN JR.
+/ v".ME/q
+Presiding Officer
+mtar/josh

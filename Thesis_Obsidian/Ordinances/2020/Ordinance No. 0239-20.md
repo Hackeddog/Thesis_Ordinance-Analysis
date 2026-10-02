@@ -1,0 +1,304 @@
+---
+ordinance_number: "0239-20"
+title: "AN ORDINANCE AMENDING ORDINANCE NO. 016+19, SERIES OF 2019 WHICH WAS PASSED AND APPROVED BY TI.IE 19TX CITY COUNCIL ON DECEMBER L7,2OL9 ENTTTLED *AN ORDINANCE GRAT{TING THE APPUCATION OF SAf{ ISIDRO LABRADOR HOMEOWNERS ASSOCIiATIOT{ il{C., FOR RECUSSIFICATION OF A 4O,t6+ SQUARE METE& MORE OR LESS, PARCEL OF LAND, COVERED BY T-371940 PRIME AGRICULTURAL I.AND SUEZONE TO SOCIALIZED HOUSING ZONE STruA"
+date_enacted: "2020-03-03"
+approval_date: "2020-05-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0239-20.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 0.33
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, type/amendatory, topic/passed, topic/approved, topic/council, topic/december, topic/entttled, topic/grat]
+---
+
+# Ordinance No. 0239-20
+
+> AN ORDINANCE AMENDING ORDINANCE NO. 016+19, SERIES OF 2019 WHICH WAS PASSED AND APPROVED BY TI.IE 19TX CITY COUNCIL ON DECEMBER L7,2OL9 ENTTTLED *AN ORDINANCE GRAT{TING THE APPUCATION OF SAf{ ISIDRO LABRADOR HOMEOWNERS ASSOCIiATIOT{ il{C., FOR RECUSSIFICATION OF A 4O,t6+ SQUARE METE& MORE OR LESS, PARCEL OF LAND, COVERED BY T-371940 PRIME AGRICULTURAL I.AND SUEZONE TO SOCIALIZED HOUSING ZONE STruA
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Cites or amends
+
+- [[Ordinance No. 0239-29]]
+- [[Ordinance No. 0164-19]]
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+:#iliag;.
+q.W..'.$,
+OFFICE OF THE CITY MAYOR
+s.lr; ts N(
+Ref. l{o. CA(P-2020{1320
+IDPDiop
+2'd IilDORSE}IENT
+June 10, 2A20
+Respectfully returned to [rls. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, ttris City, Ure within Legal Opinion No. 368, SERIES of 2020 dated l4ay 26,
+2A20 of the City Legal Office, relative to the attached Ordinance No. 0239-20, SERIES of
+2020 entitled, "AN ORDINANCE AMENDING ORDINANCE NO. 016+19, SERIES OF 2019
+WHICH WAS PASSED AND APPROVED BY TI.IE 19TX CITY COUNCIL ON DECEMBER
+L7,2OL9 ENTTTLED *AN ORDINANCE GRAT{TING THE APPUCATION OF SAf{ ISIDRO
+LABRADOR HOMEOWNERS ASSOCIiATIOT{ il{C., FOR RECUSSIFICATION OF A 4O,t6+
+SQUARE METE& MORE OR LESS, PARCEL OF LAND, COVERED BY T-371940 PRIME
+AGRICULTURAL I.AND SUEZONE TO SOCIALIZED HOUSING ZONE STruATED AT PUROK
+10, BLAO ESt$/ELA, TUGBOK DISIRICT, DAVAO CITY" BY CORRECnNG THE LOCATION
+TO PUROK 10, BLAO TIENDA, BARANGAY UtA, TUGBOK DISTRICT, DAVAO CITY", for
+your information and appropriate action.
+For the Oty Mayor:
+ATTY. TRISTAT{
+Assistant
+(Administration)
+RELEASED
+CMO.JRD
+JUN I I 792fi'l:/a t* t7t 1_
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 . davaocitymayor@gmail.comn
+-U|,t)
+tsrw @
+LIFE IS HERE
+I
+
+'
+OFFICE OF THE CITY LEGAL OFFICffig*
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Lff,2671225/230
+lDi2J cr
+Ref. No. CLO-2020-001424
+LEGAL OPINION No. qhg
+AoLo - o,tr20
+SERIES OF 2O2O
+1't INDORSEMENT
+May 26,2020
+Respectfully forwarded to the Office of the City Mayor, thro
+City Administrator, both this City, the hereto attached Ordinance
+o.0239-2
+2O2O entitled ..AN ORDINANCE AMENDING ORDINANCE NO. 0164-1
+ESOF2
+WHICH WAS PASSED AND APPROVED BY THE 19TH CITY COUNCIL ON DECEMBER i7,
+2OI9 ENTITLED: ..AN ORDINANCE GRANTING THE APPLICATION OF SAN ISIDRO
+LABRADOR HOMEOWNERS ASSOCIATION INC., FOR RECLASSIFICATION OF A 40,764SQUARE METER, MORE OR LESS, PARCEL OF LAND, COVERED BY T-371940 PRIME
+AGRICULTURAL LAND SUB-ZONE TO SOCIALIZED HOUSING ZONE SITUATED AT
+PUROK 10, BIAO ESKWELA, TUGBOK DISTRICT, DAVAO CITY" BY CORRECTING THE
+LOCATION TO PUROK 10, BIAO TIENDA, BARANGAY ULA, TUGBOK DISTRICT, DAVAO
+CiTY" informing your end the same is free from legal infirmity.
+Hence, i
+RESP
+Approved by
+Date approved: Ylay 29,2020
+ordl.l.)t)'.)0 _ttrrttif rtc[a.tstfirtltr,tt_.t,ttt i:ifnt_]0lt) r)tttJ.'J t -'tt .10
+,,WAM
+recommend
+t the Ordinance be approved
+D
+ATTY. MAR
+A
+Acting
+. GALLO, RSW
+Legal Officer
+the
+sof
+a
+ATTY. OSMUN/O P. VILLANUEVA, JR.
+Acting City Legal Officer
+FTffiflHHVED
+O. ERD
+N
+I
+W
+h- t1,
+CI T}
+
+May 15, 2020
+SARA Z. DUTERTE
+City Mayor
+Madam:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No'
+OhOTZ-ZO and Ordinance No. 0239-29, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, fOr your information, guidance and appropriate action.
+Very truly yours,
+a,kffi6[ffio'
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+$TECE
+- CRDiVED
+*70 -s- to
+
+19th City Council
+9s Regular Session
+SERIES of 2020
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Ofrice of the SANGGUNIANG Panlungsod
+Sebastian Z. Duterte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justo!-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Presiding Officer
+ORDINANCE NO. 0239.20
+SERIES of 2020
+AN ORDTNANCE AMENDTNG ORDTNAI{CE NO. 0164-19, SERTES OF
+2019 WHICH WAS PASSED AND APPROVED BY THE 19TH CITY
+COUNCIL OttI DECEMBER L7I 2OL9 ENTITLED *AN ORDINANCE
+GRANTING THE APPTICATION OF SAN ISIDRO TABRADOR
+HOMEOWNERS ASSOCTATION rNC., FOR RECTASSIFICATION OF A
+4O,164-SQUARE METER, MORE OR LESS, PARCEL OF LAND,
+COVERED BY T.371940 PRIME AGRICULTURAL IAND SUB.ZONE
+TO SOCIALIZED HOUSING ZONE SITUATED AT PUROK 10, BIAO
+ESKWE|A, TUGBOK DISTRICT, DAVAO CITY" By CORRECTING THE
+LOCATION TO PUROK 10, BIAO TIENDA, BARANGAY ULA, TUGBOK
+DTSTRICT, DAVAO CrTY"
+
+Ord. No. 0239-20
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITTE - This Ordinance shall be known as "AN ORDINANCE
+AMEilDTNG ORDINANCE NO. 0164-19, SERIES OF 2019 WHICH WAS PASSED
+AND APPROVED By THE 19rH CITY COUNCIL ON DECEMBER L7, 2019
+ENTITLED: *AN ORDINANCE GRANTING THE APPLICATION OF SAN ISIDRO
+IABRADOR HOMEOWNERS ASSOCIATION INC., FOR RECLASSTFICATTON OF
+A 40,164-SQUARE METE& MORE OR LESS, PARCEL OF IAND, COVERED By r37L94O PRIME AGRICULTURAL IAND SUB.ZONE TO SOCIALIZED HOUSING
+zoNE SITUATED AT PUROK 10, BrAO ES|(WELA, TUGBOK DTSTRTCT, DAVAO
+crw" By coRREcTING THE LOCATTON TO PUROK 10, BrAO TIENDA,
+BARANGAY UtA, TUGBOK DISTRICT, DAVAO CITY.
+SECTION 2. COMMON REGUIATIONS FOR GENERAL ZONES - AIticIe V of
+the Comprehensive Zoning Ordinance of Davao City provides Common Regulations for
+Genera! Zones.
+SECTION 1.
+: General Zones are subject
+to review by the Zoning Review Committee every five (5) years from the
+enacfinent of this Ordinance. Any amendment thereof as recommended by
+the committee shall be in accordance with the provisions of Article )f,V
+SECTION 14.
+SECTION 2. RECLASSIFICATION AND CHAilGE OF ZONE
+REOUIREMET{T- Any reclassification of agricultural land to nonagricultural use must be in consultation with the Depaftment of Agriculture
+(DA) and the Department of Agrarian Reform (DAR) and the DAR
+requirement for conversion of agricultural land to other zones, and SECTION
+20 of Republic Act No. 7t60, otherwise known as the Local Government
+Code of 1991 limiting reclassification to a maximum of the percentage of
+the tota! agricultural land of a city to fifteen percent (15o/o) for highly
+urbanized cities and must strictly comply with the provisions of the Joint
+Memorandum Circular No. 54 of the Housing Land Use Regulatory Board
+(HLURB), Department of Agriculture (DA) and Department of the Interior
+and Local Government (DILG). Reclassification from agricultural zone to
+non-agricultural use and any change from one general zone to another
+general zone must be approved by three-fourths (3/a) vote of all members
+of the SANGGUNIANG Panlungsod through a resolution and an ordinance. Any
+change of general zone to another zone shall be considered as amendment
+of the zoning ordinance and must comply with the provision of Article XIV,
+SECTION 14 hereof.
+SECTION 3. COVERAGE - This Ordinance shall cover the amendment of
+ORDINANCE NO. 0164.19, SERIES OF 2019, WHICH WAS PASSED AND APPROVED BY
+THE 19TH CITY COUNCIL ON DECEMBER 17, 20T9, ENTMED "AN ORDINANCE
+GRANTING THE APPUCATION OF SAN ISIDRO I.ABRADOR HOMEOWNERS
+ASSOCIATION INC., FOR RECLASSIFICATION OF A 40,164-SQUARE METER, MORE OR
+LESS, PARCEL OF I.AND, COVERED BY T-371940 FROM PRIME AGRICULTURAL I.AND
+suB-zoNE To SocIALIzED HOUSING ZONE SITUATED AT PUROK 10, BrAO
+ESKWELA, TUGBOK DTSTRTCT, DAVAO CrTY" BY CORRECTING THE LOCATION TO
+puRoK 10, BIAO TTENDA, BARANGAY ULA, TUGBOK DISTRICT, DAVAO CITY.
+)
+
+Ord. No. 0239-20
+SECTIOil 4. SEPARABILITY CIAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions shall be continue to be in full force and effect.
+SECTIOil 5. EFFECTMTY - This Ordinance shall take effect upon approval.
+ENACTED, March 3, 2020, by 3/+ majority vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cnff,J. #-',o,
+Secretary to the Sanggt/niang Panlungsod
+(City Government Department Head#)
+ATTESTED:
+ATTESTED:
+SEBASTIAN Z. DUTERTE
+Vice Mayoro
+Presiding Officer
+cns/ray
+ATTY.
+JUN 0 I 2020
+APPROVED
+2020
+Z. DUTERTE
+* City raVol
+City Admin
+r'

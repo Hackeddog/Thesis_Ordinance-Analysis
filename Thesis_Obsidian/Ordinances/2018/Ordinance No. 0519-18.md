@@ -1,0 +1,310 @@
+---
+ordinance_number: "0519-18"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG THE CITY TRIANGLE AREA, ROXAS AVENUE EXTENSION (OPPOSITE OF MARCO POLO HOTEL) FROM 9:00 P.M. ON AUGUST t7, 2018, UP TO 2:00 A.M. ON AUGUST 20, 2018, IN CONNECilON WmH THE 2018 KADAYAWAN EVENT (PARTNER'S NIGHT VENUE)\", for your information and appropriate action. For the City Mayor: ATTY. TRISTAN DOMINGO 6 SEP 2018 s;sr, l/7,* Ref. N"
+date_enacted: null
+approval_date: "2018-08-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0519-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/along, topic/triangle]
+---
+
+# Ordinance No. 0519-18
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG THE CITY TRIANGLE AREA, ROXAS AVENUE EXTENSION (OPPOSITE OF MARCO POLO HOTEL) FROM 9:00 P.M. ON AUGUST t7, 2018, UP TO 2:00 A.M. ON AUGUST 20, 2018, IN CONNECilON WmH THE 2018 KADAYAWAN EVENT (PARTNER'S NIGHT VENUE)", for your information and appropriate action. For the City Mayor: ATTY. TRISTAN DOMINGO 6 SEP 2018 s;sr, l/7,* Ref. N
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.ol4ili
+iffi
+OFFICE OF THE CITY IVIAYOR
+2N'I INDORSEMENT
+September 5, 2018
+tt,a
+$"Tu'
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0519-18,
+SERIES of 2018 entitled "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG THE CITY TRIANGLE AREA, ROXAS AVENUE EXTENSION
+(OPPOSITE OF MARCO POLO HOTEL) FROM 9:00 P.M. ON AUGUST t7, 2018, UP TO
+2:00 A.M. ON AUGUST 20, 2018, IN CONNECilON WmH THE 2018 KADAYAWAN
+EVENT (PARTNER'S NIGHT VENUE)", for your information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+DOMINGO
+6 SEP 2018 s;sr,
+l/7,*
+Ref. No. CAdO-2018-05950
+TOPOlchin
+)
+\
+Bn)
+Pot't-tt
+RELEASED
+CMO. CRD
+I
+LIFE I$ HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao Cityn
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+BAV @
+
+i
+OFFICE OF THE CITY TEGAL OFFIC
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+Hffi
+Ref. No. 1131-18-0153
+LEGAL OPINION NO. 'ISI
+SERIES OF 2018---iOFFICE OF THE
+CITY
+RECEIVED BY
+DATE:
+TIME:
+CITY AUftIII{ISTRATOR
+HALL OFFICE
+l't INDORSEMENT
+August 16, 2018
+otv
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0519-18,
+SERIES of 2018 entitled 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUISR TRAFFIC ALONG THE CITY TRIANGLE AREA, ROXAS AVENUE
+EXTENSION (OPPOSITE OF MARCO POLO HOTEL) FROM 9:00 P.M. ON AUGUST
+L7, 20L8, UP TO 2:00 A.M. ON AUGUST 20, 2018, IN CONNECTION WITH THE
+2018 KADAYAWAN EVENT (PARTNER'S NIGHT VENUE)", informing your end that
+the same is free from legal infirmity citing RA 7160, otherwise known as the
+Local Government Code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A
+local government unit may, purcuant to an ordinance, permanently
+or temporarily close or open any local roa4 alley, park, or square
+falling within its jurisdiction: Provided, however, That in case of
+permanent closure, such ordinance must be approved by at least
+two-thirds (2/3) of all the memberc of the sanggunian, and when
+necessary, an adequate substitute for the public facility that is
+subject to closure is provided.
+xxx
+(c) Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergenLy, or fiesta
+celebrations, public rallies, agricultural or industrial fairc, or an
+undeftaking of public work and highways, telecommunications, and
+waterworl<s proj#, the duration of which shall be specified by the
+local chief executive concerned in a written order: ProvideQ
+however, That no national or local roa4 alley, park, or square shall
+be temporarily closed for athletig cultural, or civic activities not
+officially sponsoreQ recognized or approved by the local government
+unit concerned'i
+IN VIEW THEREOF, it is recommended that the Ordinance be approved.
+ATTY. MAmcALLo, Rsw
+Acting A!6t. City Legal Offtcer
+Approved by:
+ATTY. OSMUN
+P. VTLLANUEVA, JR.
+OIC, Acting City Legal Officer
+Date approved: August 16, 20tB
+ord\ 5 1 9- 1 E_cfosure_f,gdalnwan4attner-nigfrt_
+1 8-0 1 5 3 _8- 1 6- 1 6
+@[CC
+!C.:T OF THE (ITY ADiIIITI$IHT'G
+ctrv xAr t
+6AVAO,
+rb[L
+,l-F
+rVEB 8Y:
+fn /t
+- 2a$-
+oFFlcts
+roL
+
+,
+Republic o{ $tPhilippines
+August 15, 2018
+SARA Z. DUTERTE
+City Mayor
+Madam:
+cns/nta
+A(
+0egt8- en
+o
+m
+C)
+*
+*
+trt(- 9ga P.2)6
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Afticle One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, othenruise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02384-18 and Ordinance No. 0519-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, City of Davao.
+Very truly yours,
+,r*Wr\"
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+EIVED
+eMO " gPP
+RE
+
+tSF Crty Courrcil
+#
+neguliar Session
+Ssies of 2018
+$epublic of the Philippirres
+Gty of Davao
+Ofu of the SANGGUNIANG Panlungsod
+Bernard E. Al-ag
+Nilo M. Abdlera lr.
+ltlaria Belen S. Acosta
+Mctorio U. Advincula lr.
+Al Ryan S. Alejandre
+Dante L. Apo# Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan{uilos
+Ma. Cherry Ann M. Borguyan
+Pilar C. Braga
+Cnrmeb l, Chrion
+Danilo C. Dayanghirarg
+Jirmy G. Dureza
+Rlgar P. Ibuyan Jr.
+Rlgor R. Ibuyan Sr.
+lsah A- Librado-Yap
+Rene Bire C. topez
+Diodado AngElD A. Mahipus Sr.
+laffar U. Mardrornsalk
+Avegayb Dalodo &tk
+Antoine G. PrirrcipeCasilodes
+l. irlekfior B. Quitain Jr.
+Marisa P. Sahrador Abella
+Halila Y. Sudagar
+Mary loselle D, Villafrrcrte
+lests loseph P. Zoabrado Itr
+Pnesidirq Offier
+- O& Atrended the NffYL ilaftnal
+l,leetiry
+- Ofi Slck leare
+ABSE]IT:
+PR.ESEilT:
+Vre Mayor
+C-flrncihr
+Councilor
+Cuncibr
+Conncrlor
+Counctbr
+C-qrncibr
+Cdrncibr
+Councibr
+Councilor
+Crunctls
+Courrcilor
+Cflncibr
+Cfirncilor
+Councilor
+Cflrncilor
+Councilor
+Councibr
+Cotm€ilor
+Courdlor
+Councibr
+Courrcilor
+C.omcikor
+Councihr
+CoJncilor
+Cdrncilor
+Councilor
+Councilor
+April Marie C. Dayap
+Bonihcio E. Militar
+oRDTI|AI|CE IlO. 0519-18
+SERIES of 2018
+A]I OR,DITATICE FOR THE TEHFORARY CLOSURE TO
+UEHICI'LAR. TRAFEIC ALO]IG THE CXTY TRIA]IGLE
+ARFI.' ROXAS AVEITUE EXTEIl$Oil (OPF(ETTE OF
+fmRGO FOLO HOTEL) FROH 9:00 P.H. OII AlrGUSr
+L7, 2ort:8,, UP TO 2:{Xl A.ll. OII AUGT ST 20, 2018, III
+OOII]IBCTIO]I WIrH THE 2018 KADAYAWAII EYETT
+(PARTTER lS rrGHT YETTUE)
+
+'Page 2 of 3
+ffi. No.051$18
+Be it ordairred by the Honorable Smgrgunhng Panlungmd d Davil Crty in sdon
+mt5ld,that
+SECTIOT L TITL"E- This ffiinane $dl be known 6'At ORDITAIICE FOR TllE
+TEIIFORARY CLOoURE TO YEHICULAR. TRAFFIC ALO]IG TTIE CITY TRIAlreLE
+ARFI, ROXIS AYEIIUE EXTEilSTOil (OPFOSTTE OF HARm FOLO HOTEL) ROil
+9:Ul P.ll. Oil AIrclJFiJ A7, m18.t UP TO 2:(Xl All. OII AlrclEf 20, 2Ot8, III
+ooll]lEcTroll wIrH THE 2or8 IAITAYAWAI| EUEITT (pARrilER',lS trGHT VE]|UE]-.
+SECTIOil 2. ITEGLARATIOII OF FOTICY - Sectbn 21 (c) of RepUk Ad nb.
+71:@', drerwie knoryn r the l-ocal Govenrnst Crde 6 LE9L, pruuides tht, 'ar1y ntimal
+or locd road, alky, pak or square trry be ternporarily domd during an acfird ernergency,
+r fiesta cgeOr*iots, puHk rdlies, rurirtlhrd or irdnstrial fdrs---"
+SECIIOII 3. TEHFORARY CTOSURE - In onneclbn with UE 2018 lGdayarvar
+Festind Errent (Fatne/s N(1ht Venue), Ure Crty Toudsrn Ops*lom Offic reque#d fur fie
+Enporary dmrre b vehkulr ffic dong Ure grty Triangle Area, Rorrc Avsrue Exbruion
+(oppcilE ff ltlam tub HoH), frorn 9:fi) a.m. on AugrH L7, 2Ol8 up to 2:00 a-m. on
+tugust 2A,2AL8.
+SECTIOII 4. SEPARIEIUTY CL,,At SE- If, fu any rc.tson, any SECTION or pruvirfun
+d fits Ordinane is dedaed unorHiUtiond or inrdid, drer sctitrc or prwi$ons hered
+notffi
+by $cfr dedaratftm ddl @rtinue b be in full furE ard effi.
+SECilOII 5. EFfECTIUITY- Thb minarrce $dl take ffi
+kmediiffiy upoo
+4prordEilAGTED, on the 14h dat 6 AErsL 201S, by a unaninurs \rre of dt $e
+i{er&ers dtrc Sanggunhn, there being a gutxrm.
+GRIIFIED GORRECT:
+Efutrl4.Y.
+Ssmyb$e
+Panlungsd
+(Cty Gonwurnnt Oepartmern jffifr\
+ATTEIED:
+Vre
+Predding Officr
+gls/k q
+E.
+
+t,
+a
+a
+Fage 3 of3
+ffi. No.0519-18
+APPROYIED
+AUG I. E 2018)
+20ra
+aGvry
+ATTETED: W
+ATTY, a,LEII(AT{LOPEZ.
+OtyA&r*niffi'
+)
+a

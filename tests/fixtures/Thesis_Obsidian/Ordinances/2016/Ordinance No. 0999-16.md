@@ -1,31 +1,29 @@
 ---
-title: "Ordinance No. 0999-16"
 ordinance_number: "0999-16"
-aliases: ["Ordinance No. 0999-16", "0999-16"]
-corpus_year: 2016
+title: "Ordinance No. 0999-16"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0999-16.pdf"
+section_count: 0
+verification_status: "unverified"
 folder_year: 2016
 resolved_year: 2016
-enactment_date: null
-approval_date: null
-series_year: null
-council_term: null
-session: ""
-sponsor: ""
-approving_mayor: ""
-presiding_officer: ""
+corpus_year: 2016
 temporal_status: "unresolved"
 confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2016
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
 resolution_source: "consensus"
-manually_verified: false
-included_in_corpus: false
-extraction_method: "Digital"
-page_count: 1
-word_count: 0
-section_count: 0
-whereas_count: 0
-source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\tests\\fixtures\\data\\raw\\2016\\Ordinance No. 0999-16.pdf"
-sha256: "339abc69896ddcd2"
-indexed: "2026-09-08"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
 tags: [ordinance, davao, year/2016, status/unresolved]
 ---
 

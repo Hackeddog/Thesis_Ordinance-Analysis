@@ -1,0 +1,198 @@
+---
+ordinance_number: "0521-21"
+title: "AN ORDINANCE GRANTING THE APPLTCATION OF BAMBOO HOMEOWNER'S ASSOCIATION' INC., FOR RECLASSIFICATION OF PROPERTY FROM PRIME AGRICULTURAL LAND SUB.ZONE (APR) AND WATER RESOURCE ZONE (WRZ) TO SOCIALIZED HOU-SING ZONE (SHz), FoR THE DEVELOPMENT OF A RELOCATION SITE LOCATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, DAVAO CITY"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0521-21.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2021.0
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/granting, topic/appltcation, topic/bamboo, topic/homeowner, topic/association, topic/reclassification]
+---
+
+# Ordinance No. 0521-21
+
+> AN ORDINANCE GRANTING THE APPLTCATION OF BAMBOO HOMEOWNER'S ASSOCIATION' INC., FOR RECLASSIFICATION OF PROPERTY FROM PRIME AGRICULTURAL LAND SUB.ZONE (APR) AND WATER RESOURCE ZONE (WRZ) TO SOCIALIZED HOU-SING ZONE (SHz), FoR THE DEVELOPMENT OF A RELOCATION SITE LOCATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, DAVAO CITY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2021 |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+City of Davab
+19th City Council
+l2th Regular Session
+SERIES of 202t
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Sebastian Z. Dutefte
+Bonifacio E. Militar
+- Temporary Presiding Officer
+- On Leave
+- On Domestic Emergency Leave
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT
+Vice Mayor
+Councilor
+ORDINANCE NO. 0521.21
+SERIES of 2O2L
+AN ORDINANCE GRANTING THE APPLTCATION OF BAMBOO
+HOMEOWNER'S ASSOCIATION' INC., FOR RECLASSIFICATION OF
+PROPERTY FROM PRIME AGRICULTURAL LAND SUB.ZONE (APR)
+AND WATER RESOURCE ZONE (WRZ) TO SOCIALIZED HOU-SING
+ZONE (SHz), FoR THE DEVELOPMENT OF A RELOCATION SITE
+LOCATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, DAVAO
+CITY
+
+Ord. No. 052L-21
+that:
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembted,
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE APPLICATION OF BAMBOO HOMEOWNER'S ASSOCIATION,
+INC., FOR RECLASSIFICATION OF PROPERTY FROM PRIME AGRICULTURAi
+LAND SUB-ZONE (APR) AND WATER RESOURCE ZONE (WRZ) TO SOCTALTZED
+HOUSING zoNE (SHz) FOR THE DEVELOPMENT OF A nEloCnrron SrTE
+LOCATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, DAVAO CITY'.
+SECTION 2. COMMON REGULATIONS FOR GENERAL ZONES - Article V of
+the Comprehensive Zoning Ordinance of Davao City provides Conrrnon negulations for
+General Zones, as follows:
+SECTION 1. REVIEW OF GENERAL ZONES - General zones are subject to review
+by the Zoning Review Committee every five (5) years from the Lnactment of
+this Ordinance. Any amendment thereof as recommended by the committee
+shall be in accordance with the provision of Article XIV, SECTION 14.
+SECTION 2. RECI-ASSIFICATION AND CHANGE OF ZONE REeUIREMENT - Any
+reclassification of agricultural land to non-agricultural use must be in
+consultation with Department of Agriculture (DA) and the Depaftment of
+Agrarian Reform (DAR) and the DAR requirement for conversion of agricultural
+land to other zones, and SECTION 20 of Republic Act No. 7L60, othenrrise known
+as the Local Government Code of 1991, limiting reclassiflcation to a maximum
+of the percentage of the total agricultural land of a city to fifteen percent (15%)
+for highly urbanized cities and must strictly comply with the provisions oi:oint
+Memorandum Circular No. 54 of the Housing and Land Use Regulatory Board
+(HLURts), Department of Agriculture (DA) and Depaftment of the Inteiior and
+Local Government (DILG). Reclassification from agricultural zone to nonagricultural use and any change from one general zone to another general zone
+must be approved by three-fourths (3/4) vote of all the members of the
+SANGGUNIANG Panlungsod through a resolution and an ordinance. Any change
+of general zone shall be considered as amendment of the Zoning Ordinanie
+and must comply with the provision of Article XIV, SECTION 14 herebf.
+ARTICLE XIV, SECTION 14. AMENDMENTS TO THE ZONING ORDINANCE.
+Changes in the Zoning Ordinance as a result of the review by the Local Zoning
+Review Committee shall be treated as amendment, provided that ani
+amendment to the Zoning Ordinance or provision thereof shall be subject to
+public hearing and sectoral consultation to be conducted by the Local 2oning
+Review Committee and review evaluation of the said Local Zoning Revieri
+Committee and shall be carried out through a resolution/ordinance upon threefoutths majority votes of all the members of the SANGGUNIANG panlungsod.
+SECTION 3. COVERAGE - This Ordinance shall cover the grant of the application
+of Bamboo Homeowner's Association, Inc., for reclassification oi propefi from prime
+Agricultural Land Sub-zone (APR) and Water Resource Zone (WRZ) to Sociaiized Housing
+Zone (SHz) for the development of a relocation site located in'Barahgay Tacunan, Tugbo-k
+District, Davao City.
+
+Page3oT3
+, ,
+.
+orb. No. oszl-zL
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+which are not affected thereby, shall continue to be in full force and effect.
+SECTION 5. EFFECTMW - This Ordinance shall take effect upon approval.
+ENACTED, March 23,202L, by 3la votes of all the Members of the Sanggunian,
+there being a quorum.
+CERTIFIED CORRECT:
+d,t&t6-)"+ffi,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head[I)
+ATTESTED:
+ATTESTED:
+E
+President
+Temporary Presiding Officer
+cns/ray
+APR 1 6 2021
+APPROVED:
+2021;
+e City Mayora
+ATTY.
+ULEIKA T.
+City Admini
+AN ORDINANCE GRANTING THE APPLICATION OF BAMBOO HOMEOWNER'S ASSOCIATION, INC., FOR
+RECLASSIFICATION OF PROPERTY FROM PRIME AGRICULTURAL LAND SUB-ZONE (ApR) AND Wnren
+RESOURCE ZONE (WRZ) TO SOCIALIZED HOUSING ZONE (SHZ), FOR THE DEVELOPMENT OF A
+RELOCATION SITE LOCATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, DAVAO CITY

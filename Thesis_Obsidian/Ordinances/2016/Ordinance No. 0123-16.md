@@ -1,0 +1,358 @@
+---
+ordinance_number: "0123-16"
+title: "Ordinance No. 0123-16"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0123-16.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.15
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2015.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid]
+---
+
+# Ordinance No. 0123-16
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2015 |
+| Approval date | - |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,678 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2016\Ordinance No. 0123-16.txt`*
+
+18F City Comcil
+23'd RegularSeesion
+SERIES of 2015
+PRESENT
+Cdficth
+Coulclb
+Cqffib
+Cqncih
+Cflrrcilor
+Corrrcib
+Cqrrcab
+Comcih
+Cofficllor
+Cs.ncih
+Cq.ncib
+CqrEih
+Cotnclh
+f.otncib
+Courlh
+Comclls
+C-qrEilor
+Comcib
+Cotrtcllor
+Courlh
+Cdrtcib
+ABSENT:
+\fre lvlaya
+Cflncih
+Corncllor
+Cq.ncih
+Cqrrcib
+Carncih
+lvla. Clury Arn tvl. BcrgUyan
+Flllo M. Abclhra .}.
+VW'n Belen S. Arosta
+\riftorio U. AdYiTUh .}.
+Bernrd E. Al.rg
+Al Ryan S. Alelmde
+DanE L Apocbl Sr.
+Corrado C. Balran
+Pflr C. Bragr
+Danih C. tlayarEhiang
+Agt llirrr'n C. Dayap
+Jirmy G. Dueza
+Edgrr P. Ibuyan l.
+Diocdado Angelo A. Mahir.ts Sr.
+Avegayh Dabdo OrtE
+Anoherc G. Bhcpe-Castrodes
+J. lvlekhor 8. Quitah .}.
+I'larissa P. Salvads -Abelh
+f'hllh Y. S*dagnr
+tvlary .Imlle D. lfllhftrrtc
+Jes-s lmph P. Zozobrado m
+Faoh Z. DtfterE
+Jmrne M. Bonei.ryan-QUilos
+Jrrury N. Dttere
+Leah A. t-brado-Yap
+Rem Elhs C. Lopez
+Bonifacio E. Militar
+Tcnpuary HesHhU Offlcer
+On Vacation teave
+On Maternity Leave
+Or Vacatlon L:ave
+On Vacatilxr leave
+On Si* lcave
+01 Si*, Leave
+oRDIilAITCE ilO. O1Z3 -16
+Sedea of 2016
+A]T ORDIilATCE GRAflTI]IG 1EGtrILATIYE AUTHORITT TO THE CITT
+llAYoR TO EI|TER II{TO AilD SIGil, FOR AilD Iil BEHAIf OF THE CITY
+GOyERill.lEllT OF DAYAO, THE l,tEllORAllDUl,l OF AGREEl,lEllT (l,lOA)
+TO BE E]ITERED I]ITO BY A]ID BETWEE]I THE PTITIJPPIilE AIIIUSEI,IEI{T
+AIID GAIIIIIG OORPORATIOII (PAGCOR) AilD mE CITY GoYERtIi,lEilT
+OF DAYAO REI.ATIYE TO THE FOR}IERS GRA]IT OF FIIIAI{CIAL
+ASSE}TAilCE TO THE CTTT GOYERilI'IEI{T I]I THE TOTAL AI'IOUNT OF
+FM i,lILJ-IOll PESOS (P5,OOO,0OO.0O) THAT SHAII- ACCRUE TO THE
+GE]IERAL FU]ID OF T}IE CITY GOYERil]IIENT OF DAYAO TO BE UTILTZED
+FOR HCPTTA|- ltEDrCIilE, FUilERAL Al{D BURIAT EXPEI|SES
+ATIE]IDAilT TO THE VICTII,IS OF THE DAYAO CITY ]IIGHT IIIARXET
+BOllBIllG, IITCLUDIilG THEIR EXPET{SHI FOR R RTHER
+HOS PITAIJZATIOil, LIYELIHOOD PROG RAIri, EDUCATIOilAL EX PEIIS ES
+oF THE YrCTIltS', CHILDREN, AilD OTHER EXPEilSES TI{AT THE CITY
+GOYER]I]IIEI{T I'IAY DEEII BEHEFICIAL FOR THE YICTII'TS Al{D THEIR
+FAI,IILIS
+
+Page 2of3
+Ord. No. 0123-16
+B€ it ordained by the SANGGUNIANG hnlungsod of Davao City in sssion
+asembled that:
+SECTIOII l. TITLE - This Ordinance shall be known as oAil oRDIilAlrtcE
+GRA]ITI]IG LEGISLATilE AUTHORITY TO THE CITY I,IAYOR TO EilTER I]ITO AND
+slGll, FoR At{D r]r BEHALF OF THE CITY GOYERI$rtEflT OF DAYAO, THE
+IIIE}IORATIDU]Ii OF AGREEITIEITT (IIOA} TO BE EilTERED ITTTIO BY AITD BETWEE]T THE
+PIIIUPPIilE AT,IUSEI'IEf{T A]{D GAI,IIilG CORPORATIOI{ (PAGCOR} AilD ITIE CITY
+€OVERITITT'IETTT OF DAYAO RE1ATIVE TO THE FORTIIER,$ GRA]IT OF FI]IAT{CIAL
+ASgtrITA]tICE TO THE CI|rY GOYERT{I'iEilT I]I THE TOTAL AIJIOUilT OF FIYE IT{ILLIOil
+PCSOS (P5pOO,O0O.0O) THAT SHATL ACCRUE TO THE GEI{ERAL FUilD OF THE CITY
+GOYERilitEt{T OF DAYAO TO BE UTTUZED FOR HOTPITAL t'tEDrcrilE, FUHERAL
+AIID BURIAL ETFETTISES ATTE]IDATIT Ttr THE YICTI]IIS OF THE DAYAO CITY I{I6HT
+I',IARIGT 80]T181116, I]ICLUDI]IG THEIR EIPEIISEI FOR FURTHER
+HOSPTTAI-EATIOI|, UYEUHOOD PROGRAH, EDUCATIOITAL EXFEilSES OF TltE
+YrcTrlls' cHrlIlREt{, AHD orHER EXpEilSEt THAT THE CITr GOVERi{HEf{T tr{AY
+DEE]II BE]TEFICIAL FOR THE YICTI].I3 AilD THEIR FAHIIJES.i
+SECTIOII 2" DECIIRATIOII OF FOIICV - SECTION 455, (b) (l) (v{ of R-4.
+?160, otherurise knourn as the Local Goverrmsrt Code of 1991, provides:
+"For efficient, effective and eonomical govemance the purpose of
+which is the general wdfare of the city and its inhabitants pursuant
+to SECTION 16 of ttris Code, the city mayor shall:
+(vi) Represent the city in all its business hansxtions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+purcuant b law or ordinance";
+StrTIOt 3, AIIIUOEIIf - The Crty f,layor is hereby granH Bidative
+autfiority to enter into and sign, fnr and in behalf of the City Govemment of Davm tfie
+Memorandum of Agrement betnen flre Philippine Amu*ment and Gaming
+Corporation and the City Govemment of Davao relative b the furme/s grant of financial
+mistance to the City Government in the btd amount of Five Million Pesc
+(P5,000,000.00) that shall €rccrue to the gener:al fund of the City Goyernment of Davao
+b be utilired for hospital, rnedicine, funeral and burial expenses atendant to the
+victims of the Daym City night market bomtring, including thdr expenses for further
+hwpitalization, livelihmd prcgram, educational expenses of $e victims' childrcn, and
+other expenss that the city government may deem berreficial for the victims and their
+families;
+SBCTIOil /L SEPARABIUTY CLTUSE - If for any re€Ison, any SECTION or
+provision of this Ordinance is declared unconsttutional or invalid, odrer ections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effec!
+sBcTIOil 5,
+approval;
+- This Odinance shall take eflect immediatdy upon
+
+Page 3 of3
+Ord. No. 0123-16
+EIIACTED, December 13, 2015, by a unanimous voE of all the Members of *re
+Sanggunian present there tHng a guorum.
+CERTIEIED CORRECT:
+^U,urn l,
+CHARITO ]I.
+Secretary to the
+Panlungsod
+(City frovernment Depaffnent l{ed rt)
+ATTESTED:
+ATTESTED:
+lilAm. BoilGuYAl{
+Councilor
+Temporary Presiding Officer
+cns/cld
+JAN 2 0 20r?
+2017
+2.
+ci/trf tqayflr
+fl/wf
+ATTY. ZUI.EIKA T. U}PEI
+City Administrabr P
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANTUNGSOD
+3rd Endorsement
+January 30,2017
+Respectfully forwarded to MS. ANDREA D. DOMINGO, Chairman and Chief
+Executive Officer, Philippine Amusement and Gaming Corporation, PAGCOR Executive
+Office, 5th Floor New World Manila Bay Hotel, 1588 M. H. Del Pilar corner Pedro Gil Sts.,
+Malate, Manila, THRU: MR. DARIO V. CORDERO, General Manager, PAGCOR Davao,
+Grand Regal Hotel, Lanang, Davao City, the herein documents relative to City Ordinance
+No. 0123-16, SERIES of 2016, entitled "AN ORDINANCE GRANTING LEGISI-ATIVE
+AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE
+ENTERED INTO BY AND BETWEEN THE PHILIPPINE AMUSEMENT AND GAMING
+CoRPoRATION (PAGCOR) AND THE CITY GOVERNMENT OF DAVAO RELATTVE TO TirE
+FORMER'S GRANT OF FINANCIAL ASSISTANCE TO THE CITY GOVERNMENT IN THE
+TOTAL AMOUNT OF FIVE MILLION PESOS (p5,000,000.00) THAT SHALL ACCRUE TO
+THE GENERAL FUND OF THE CITY GOVERNMENT OF DAVAO TO BE UTILIZED FOR
+HOSPITAL, MEDICINE, FUNERAL AND BURIAL EXPENSES ATTENDANT TO THE VICTIMS
+OF THE DAVAO CITY NIGHT MARKET BOMBING, INCLUDING THEIR EXPENSES FOR
+FURTHER HOSPITALIZATION, LIVELIHOOD PROGRAM, EDUCATIONAL EXPENSES OF
+THE VICMMS'CHILDREN, AND OTHER EXPENSES THAT THE CITY GOVERNMENT MAY
+DEEM BENEFICIAL FOR THE VICTIMS AND THEIR FAMILIES", duly signed by the City
+Mayor Sara Z. Duterte-Carpio, to facilitate the signing of other pafi to the MOA and to
+return the same to the undersigned after everything has been complied with.
+\r,\"\rs
+Thank you.
+LL. A
+-l a
+,A/rwrnnt )r, fu{
+cHARrro N. s4NTos
+\Y0
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+cns/lnta
+0z
+t7
+
+MEMORANDUM OF AGREEMENT
+This IVIEN/IORANDUi\n OF AGREETVIENT (hereinafter referred to as the
+"Agreement" for brevity) is made and executed this
+the City of N/anila by and between:
+tn
+THE PARTIES:
+PHII.IPPINE AMUSEMENT AI{D GAMING CORPORATION, A
+government-owned and controlled corporation duly organized and
+existing pursuant to Presidential Decree lVo. 1869, as amended, with
+address at PAGCOR Executive Office, Sth Floor New World tVlanila
+Bay Hotel, 1588 M. H. Del Pilarcorner Pedro Gil Sts., lVlalate, Manila,
+herein represented by its Chairman and Chief Executive Officer,
+ANDREA D. DON/IlNGO, hereinafter referred to as "PAGCOR";
+and
+CITV GOVERNMENT OF DAVAO, duly organized and existing by
+virtue of the Philippine Laws, with office address at the 2nd Floor, City
+Hall Building, San Pedro St., Davao City, herein represented by its
+City tVlayor, SARA DUTERTE-CARPIO, hereinafter referred to as the
+.CITY GOVERNIVIENT OF DAVAO".
+RECITALS
+WHEREAS, PAGCOR, through its Board of Directors, in compliance with
+pertinent laws, is authorized to allocate and distribute the earnings of PAGCOR
+earmarked to finance infrastructure, socio-civic and social impact projects, such
+as, but not limited to, flood control programs, beautification, sewerage and
+sewage projects, nutritional and population control programs, health and medical
+projects, the restoration of damaged or destroyed facilities due to calamities and
+such other essential public services;
+WHEREAS, PAGCOR may also perform such other powers, functions and
+duties as may be directed and authorized by the President of the Philippines;
+WHEREAS, PAGCOR, in attaining its mandate under its Charter,
+Presidential Decree 1869, as amended, is willing to entrust public funds to
+qualified institutions to aid in the delivery of social welfare and development
+programs and services, in accordance with law;
+WHEREAS, the CITY GOVERNI\ilENT OF DAVAO is willing and able to
+manage public funds transferred from PAGCOR in pursuit of its mandate, subject
+to liquidation, as provided for by law;
+NOW, THEREFORE, in view of the foregoing premises, and subject to the
+undertakings hereinafter provided, the Parties hereto have agreed, as follows:
+1. PAGCOR, in compliance with the relevant government accounting and
+auditing rules and regulations and pertinent laws, grants by way of
+trnancial assistance to clrY GovERNIMENT oF DAVAO, the totat
+amount of FIVE lvllLL|ON PESOS (Php5,000,000.00) (hereinafter
+referred to as Grant).
+
+6. PAGCOR may, on its own, revoke, rescind or decrease the Grant, at
+anytime for any cause;
+7. lf any provision hereof is prohibited or made unenforceable under any
+applicable law, or by a competent court of authority, the same shall not
+affect any other provision of this Agreement, which are othenryise valid
+and enforceable.
+8. No terms and conditions of this Agreement shall be deemed waived
+and no breach or default excused unless such waiver or excuse shall
+be in writing and signed by the party atfected.
+9. The parties, waiving for this purpose any other venue, hereby agree
+that the courts of the City of N/lanila shall be the exclusive venue of any
+and all actions or suits between them, to the exclusion of all other
+courts and venues. This exclusive venue provision shall apply even in
+cases for declaration of nullity of this Agreement in its entirety or in part
+and in cases arising after or by reason of the declaration of nullity of
+this Agreement in its entirety or in part.
+10. The CITY GOVERNIVIENT OF DAVAO shall indemnify, defend and
+hold PAGCOR free from any claim, cause of action, liability,
+responsibility and suit, relative to the Project.
+lN WITNESS WHEREOF, the PARTIES have hereunto signed this
+lt/emorandum of Agreement on this
+lVlanila.
+in the City of
+PHILIPPINE AMUSEMENT AND
+GAI[/!ING CORPORATION
+T.l.N.- 000-887-972
+EY:
+AhIDREA D. DOMINGO
+Chairman and Chief Executive Officer
+T.t.N.- 122-841-833
+BY:
+SIGNED IN TFIE PRESENICE OF:
+CITY GOVERNMENT OF
+DAVAO
+T. t. N.-
+OUTERTE.CARPIO
+,;t'"
+r1'vo/
+
+ACKhIOWLEDGEMENT
+REPUBLTC OF THE PHtLtPPtNES)
+crTY oF tvtANtLA
+) S.S
+BEFORE ME, a Notary Public, for and in the City of N/lanila, on this
+day of
+, 2016 personally appeared:
+NAME
+AI{DREA D. DOTVIINGO
+GOVERNIVIET\,XT ID
+Passport No. ECO241404
+lssue Date: February 7,2014
+Place of lssue: DFA N/lanila
+Validity Period: February 6, 2019
+known to me and to me known to be the same person who executed the
+foregoing instrument and slre acknowledged to me that the same is her voluntary
+act and deed as well as that of the corporation she represents.
+This instrument refers to a lVlemorandum of Agreement, which consists of
+five (5) pages, including the page whereon this Acknowledgement is written, and
+which the parties and their instrumental witnesses have signed on each and
+every page thereof.
+WITNESS IVIY HAND AND NOTARIAL SEAL on the date and place first
+above written.
+Doc. No.
+Page No._
+Book No.--
+SERIES of 2016.
+
+ACKNOWLEDGEMENT
+REPUBLTC OF THE PHTLTPPTNES)
+CITY OF
+)SS
+BEFORE fi/lE, a Notary Public, for and in the C

@@ -1,0 +1,185 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING AND GIVING AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF SALE FOR THE LOT UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SIR) PROJECT, NAMELY: NEW MATINA SITES AND SERVICES PHASE rI, IN FAVOR OF AMPARO M. LUMBRE, LOCATED AT BLOCK L24t LOT 16, NEW MATINA, PHASE II, CoNSISTING AN AREA OF ONE HUNDRED FrVE (10s"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000710-21.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/giving, topic/authority, topic/mayor, topic/enter, topic/sign]
+---
+
+# Ordinance No. 000710-21
+
+> AN ORDINANCE AUTHORIZING AND GIVING AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF SALE FOR THE LOT UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SIR) PROJECT, NAMELY: NEW MATINA SITES AND SERVICES PHASE rI, IN FAVOR OF AMPARO M. LUMBRE, LOCATED AT BLOCK L24t LOT 16, NEW MATINA, PHASE II, CoNSISTING AN AREA OF ONE HUNDRED FrVE (10s
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+34th Regular Session
+SERIES of 202L
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+Sebastian Z. Duterte
+Richlyn N. Justol-Baguilod
+- On Official Business
+- On Special Privilege Leave
+ORDINANCE NO. O7LO.2L
+SERIES of 2O2L
+AN ORDINANCE AUTHORIZING AND GIVING AUTHORITY TO
+THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF
+SALE FOR THE LOT UNDER THE SLUM IMPROVEMENT AND
+RESETTLEMENT (SIR) PROJECT, NAMELY: NEW MATINA SITES
+AND SERVICES PHASE rI, IN FAVOR OF AMPARO M. LUMBRE,
+LOCATED AT BLOCK L24t LOT 16, NEW MATINA, PHASE II,
+CoNSISTING AN AREA OF ONE HUNDRED FrVE (10s) SQUARE
+METERS, MORE OR LESS
+
+Ord. No. 07t0-2L
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. E![-
+This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING AND GIVING AUTHORITY TO THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE
+DEED OF SALE FOR THE LOT UNDER THE SLUM IMPROVEMENT AND
+RESETTLEMENT (SIR) PROJECT, NAMELY: NEW MATINA SITES AND SERVICES
+PHASE II, IN FAVOR OF AMPARO M. LUMBRE, LOCATED AT BLOCK 124, LOT
+16, NEW MATTNA, PHASE IIr CONSISTING AN AREA OF ONE HUNDRED FrVE
+(105) SQUARE METERS| MORE OR LESS".
+SECTION 2. AUTHORITY - The City Mayor is hereby authorized to enter into
+and sign, for and in behalf of the City Government of Davao, the Deed of Sale for the lot
+under the SLUM IMPROVEMENT AND RESETTLEMENT (SIR) PROGRAM,
+NAMELY: NEW MATINA SITES AND SERVICES PHASES I and II, pafticularly
+located at Block L24, Lot 16, New Matina Phase II, in favor of Amparo M. Lumbre.
+SECTION 3.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 4.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, September t4, 2021, by a unanimous vote of all the Members of the
+Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+drMil.,k-,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head If]
+ATTESTED:
+EDGAR P
+JR.
+President Pro Tempore
+Temporary Presiding Offi cer
+cns/ray
+I
+
+t
+a
+Ord. No. 07L0-2L
+1rY
+APPROVED
+JAN 1 2 2l,22
+2021
+l,,l
+SARA Z. DUTERTE
+.s civ Mayorv
+ATTESTED:
+ATTY
+T
+Admin
+-
+AN ORDINANCE AUTHORIZING AND GIVING AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF SALE FOR THE LOT
+UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SIR) PROJECT, NAMELY: NEW MATINA SITES
+AND SERVICES PHASE II, IN FAVOR OF AMPARO M. LUMBRE, LOCATED AT BLOCK L24, LOT 16, NEW
+MATINA, PHASE II, CONSISTING AN AREA OF ONE HUNDRED FIVE (105) SQUARE METERS, MORE OR
+LESS
+F,/.

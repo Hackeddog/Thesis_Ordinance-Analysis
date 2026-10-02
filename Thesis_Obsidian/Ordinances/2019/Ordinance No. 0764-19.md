@@ -1,0 +1,299 @@
+---
+ordinance_number: "0764-19"
+title: "AN ORDINANCE GRANTING THE REQUEST OF PHILIPPINE HAI-AL TRADE AND TOURISM D(PO FOR EXEMPNON FROM THE PAYMENT OF SPECIAL MAYOR'S PERMIT FEE AND FEES UNDER THE SIGNAGE ORDINANCE (oRDTNANCE No. 092, SERIES OF 2000) FOR ITS 4rH ANNUAL pHILIppINE HAI-AL TRADE AND TOURISM E(PO ON MAY 3.5, 2019 AT ABREEZA AYAI.A MALL, ].P. LAUREL AVENUE, THIS CffY\", for your information and appropriate action. tur the Cit"
+date_enacted: null
+approval_date: "2019-05-07"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0764-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/request, topic/philippine, topic/trade, topic/tourism, topic/exempnon]
+---
+
+# Ordinance No. 0764-19
+
+> AN ORDINANCE GRANTING THE REQUEST OF PHILIPPINE HAI-AL TRADE AND TOURISM D(PO FOR EXEMPNON FROM THE PAYMENT OF SPECIAL MAYOR'S PERMIT FEE AND FEES UNDER THE SIGNAGE ORDINANCE (oRDTNANCE No. 092, SERIES OF 2000) FOR ITS 4rH ANNUAL pHILIppINE HAI-AL TRADE AND TOURISM E(PO ON MAY 3.5, 2019 AT ABREEZA AYAI.A MALL, ].P. LAUREL AVENUE, THIS CffY", for your information and appropriate action. tur the Cit
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OF THE CITY I\{AYOR
+N
+p
+C aY'
+rE0
+$b
+Si
+(Jrzi
+:r\
+.--sa6iii#
+Ref.llo. r;,#28r9{!7gZ
+2Nd IT{DORSEMENT
+May 28, 2A19
+Respectfully returned to Ms. Charib ll. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within duly signed and approved Ordinance No. 0764-19,
+SERIES of 2019 entitled, "AN ORDINANCE GRANTING THE REQUEST OF PHILIPPINE
+HAI-AL TRADE AND TOURISM D(PO FOR EXEMPNON FROM THE PAYMENT OF
+SPECIAL MAYOR'S PERMIT FEE AND FEES UNDER THE SIGNAGE ORDINANCE
+(oRDTNANCE No. 092, SERIES OF 2000) FOR ITS 4rH ANNUAL pHILIppINE HAI-AL
+TRADE AND TOURISM E(PO ON MAY 3.5, 2019 AT ABREEZA AYAI.A MALL, ].P.
+LAUREL AVENUE, THIS CffY", for your information and appropriate action.
+tur the City Mapr:
+ATTY. TRISTAN
+Assistant
+oTr urnatSoFFrcE
+coxiEsx)t{oEtac! rx! i,Ecoios Drv
+RELEASED
+MAY 2 J ?}13
+.*r^Qiuo
+- rourxrsruiiYE
+^rDr w ll:Vt
+@
+LIFE IS HERE
+4cg
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao CitX
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.com
+
+OFFICE OF THE CITY TEGAL
+Tel. No.298-6970
+-bv
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+Ref. No. CLO-2019-0001194
+LEGAL OPINION NO. ?9&",
+L:" i . ',.. '-.:..-. *'ii.:f;
+i)r"_;;._i :.,r',i . t,
+.""!-i'i:fri,;i
+,)i,n,r d
+RE:oRDINANcENo.0764-L9,Seriesof2019entitled*A}l
+ORDINANCE GRANTING THE REQUEST OF PHIUPPINE HAI-AL '1 t! tt'" 'ra,n-.2ffi.q)o7
+TRADE AND TOURISM EXPO FOR EXEMPION FROM THE
+1," $ f ,^r
+PAYMENT OF SPECIAL MAYOR'S PERMIT FEE AND FEES UNDER
+THE SIGNAGE ORDINANCE (ORDINANCE NO. A92, SERIES OF
+2OOO) FOR ITS ANNUAL PHILIPPINE HALAL TRADE AND TOURISM
+EXPO ON MAY 3-5, 2019 AT ABREEZA AYALA MALL, J.P. I.AUREL
+AVENUE, THIS CTTY'
+ISTINDoRSEMENT
+May 7,2019
+Respectfi.rlly furwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that the
+grant of exemption is well within the powers of the SANGGUNIANG Panlungsod, per
+SECTION I92 of RA 7160, otherwise known as the Local Government Code of 1991, to
+quote:
+"SECTTON 192. Authori| to Grant Tax Exemption
+Privileges. - Local government units may, through ordinances duly
+approveQ grant tax exemptions, incentives or reliefs under such
+terms and conditions as they may deem necessary'i 6FFIGE nrfr+Frnjff.&?fiuptsTqAT0,q.
+Hence, it is recommended that the ordinance be approved.
+RECEIVED BY
+DATEI
+TIME:
+ATTY. MATffi;GALLo, Rsw
+Acting ns"st. City Legal Officer
+Approved by: .-@
+ATTY. OSUUn/O P. VILIANUEVA, JR.
+OIC-Acting City Legal Officer
+\
+\i
+f I
+A,
+{8t
+Date Approved: May 7,2019
+ord| 7 6 4 4 9_ t aa+ ryntry tio n_fi a[al_2 0 1 9400 1 1 94 _ i - z - I 9
+odee
+aB-1'1s
+(.1 I I'
+R
+
+>
+jacijrc
+Aprll29,2079
+eq!)hSARA Z. DUTERTE
+City Mayor
+Madam
+cuJotq.tutlq{ P.le{
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+03227-19 and Ordinance No. 0764-19, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, ,for your information, guidance and appropriate action.
+Very truly yours,
+d.#mlaJrrfu
+Secretary to the Sanggunian$ Panlungsod
+(City Government Department Head II)
+CITY MAYOR'S OFFICE
+CORRESPONDENCE AND RECORDS DIV
+REGEIVED
+APR 3 0 2019
+MARY ANN
+AIDE IV
+r.75
+
+18th City Council
+15th Regular Session
+SERIES of 2019
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Offtce of the SANGGUNIANG Panlungsod
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Jesus Joseph P. Zozobrado III
+Victorio U. Advincula Jr.
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Presiding Officer
+- On Sick Leave
+- On Domestic Emergency Leave
+- OB-Officer-in-Charge, City Mayor's
+Office
+Councilor Mary Joselle D. Villafuerte
+ORDINANCE NO. 0764-19
+SERIES of 2019
+AN ORDINANCE GRANTING THE REQUEST OF PHILIPPINE
+HALAL TRADE AND TOURISM EXPO FOR EXEMPTION
+FROM THE PAYMENT OF SPECIAL MAYOR'S PERMIT FEE
+AND FEES UNDER THE SIGNAGE ORDINANCE
+(oRDINANCE NO. O92, SERTES OF 2000) FOR ITS 4rH
+ANNUAL PHILIPPINE HALAL TRADE AND TOURISM EXPO
+oN MAY 3-5, 2019 AT ABREEZA AYALA MALL, J.p. LAUREL
+AVENUE, THIS CITY
+I
+
+Ord. No. 0764-L9
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST OF PHILIPPINE HALAL TRADE AND TOURISM EXPO
+FOR EXEMPTION FROM THE PAYMENT OF SPECIAL MAYORS PERMIT FEE AND
+FEES UNDER THE SIGNAGE ORDINANCE (ORDINANCE NO. 092, SERIES OF 2OOO)
+FOR ITS 4TH ANNUAT PHILIPPINE HALA| TRADE AND TOURIsM Expo ON MAy 35, 2019 AT ABREEZA AYALA MALL, J.P. tAUREt AVENUE, THIS cril,,.
+SECTION 2. COVERAGE - The exemption solely refers to the payment of local
+taxes and fees on the Special Mayor's permit and signage ordinance.
+sEcrroN 3. PERTOD - The exemption shall be from May 3-5, 2019 only.
+SECTION 4. CONDITIONS
+a. For the safety of the pedestrians /commuters/motorists,
+close coordination should be done with the Department oi
+Public Works and Highways, City Engineer,s Office and
+Davao Light and power company during the installation of
+banners;
+b. No print materials shall obstruct the view of the
+pedestria ns/com m uters/motorists;
+c. The city Government of Davao shall be recognized as event
+partner in all programs and print materials;
+d. All print materials shall be immediately removed at no cost
+to the City Government of Davao on May 5,2019;
+e. In no case shall the organizers be exempt from compliance
+with the other provisions of the "special Mayor's permit and
+signage ordinance of Davao city" and other applicable laws
+and ordinances.
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, dfly SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMW- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 23'd day of April, 2OLg, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+b,!MoJ,#06,
+Secretary to the SANGGUNIANG panlungsod
+(City Government Depaftment Head II)
+RNARD E.
+Vice
+Presiding Officer
+cns/kjtq
+V
+ATTESTED:
+
+!
+I
+Ord. No. 0764-19
+APPROVED
+2 0 l,lAY 20lg
+2019
+Z. DUTERTE
+cirv ttaul1
+ATTESTED:
+ATTY.
+City Admin
+LOPEZ
+,

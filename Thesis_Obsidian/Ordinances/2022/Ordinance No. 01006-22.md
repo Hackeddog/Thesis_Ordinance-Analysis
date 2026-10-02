@@ -1,0 +1,199 @@
+---
+ordinance_number: "01006-22"
+title: "Ordinance No. 01006-22"
+date_enacted: "2022-06-28"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 01006-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 0.9
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid]
+---
+
+# Ordinance No. 01006-22
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | - |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th city Councit
+24s Regular Session
+SERIES of 2022
+i-.
+Republic orfhe PhiliPPines
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Sebastian Z. Dutefte
+Bonifacio E. Militar
+- Temporary Presiding fficer
+- OB-Acting City Mayor
+- On Sick Leave
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+ORDINANCE NO. 01006-22
+SERIES of 2022
+AN ORDTNANCE AUTHORTZTNG THE CrTY MAYOR TO SrGN, FOR
+AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND AMONG THE
+DEPARTMENT OF AGRTCULTURE - RFO Xr, THE CITY OF DAVAO
+AND BIAO AGRARIAN REFORM BENEFICIARIES COOPERATIVE
+(BARBCO), RE|-ATM TO THE IMPLEMENTATION OF THE
+INTEGRATED ilATIONAL SWINE PRODUCTION IilITIATIVE
+TO RECOVERY AND EXPANSTON (INSPTRE) PROGRAM -
+swINE CIUSTERTNG, AMOUNTTNG TO FrVE MTLLION FrVE
+HUNDRED THOUSAND PESOS (PHP 5,5OO.OOO.OO)
+*
+
+I
+Ord. No. 01006-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. E!!
+- This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY
+OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND
+AMOilG THE DEPARTMENT OF AGRICULTURE - RFO Xr, THE CITY OF DAVAO
+AilD BIAO AGRARTAN REFORM BENEFTCTARTES COOPERATTVE (BARBCO),
+RELATIVE TO THE IMPLEMENTATION OF T}IE INTEGRATED NATIONAT SWINE
+PRoDUCTTON rNrrrATrVE TO RECOVERY AND EXPANSTON (TNSPTRE)
+PRoGRAM SWrilE CLUSTERING, AMOUNTING TO FM MILLTON FrVE
+HUNDRED THOUSAND PESOS (PHP 5,500.000.00).
+sEcTIoN2..Sections25(b)and455,(b)(1)(vi)of
+Republic Act 7150 or the Local Government Code of 1991 provides, to wit:
+"SECTION 25. National superuision over Local Government Units.-
+(b) National agencies and offices with project implementation functions shall
+coordinate with one another and with the local government units concerned in the
+discharge of these functions. They shall ensure the participation of Iocal
+government units both in the planning and implementation of said national
+projecb.
+SECTION 455. Chief Executive: Powers, Duties and Compensation.-
+(b) For efficient, effective and economical governance the purpose of which is
+the general welfare of the city and its inhabitants pursuant to SECTION 16 of this
+Code, the City Mayor shall:
+(1) Exercise general supervision and control over all programs, projects, and
+activities of the city government, and in this connection, shall:
+(vi) Represent the city in all its business transactions and sign in its behalf all
+bonds, contracts, and obligations, and such other documents upon authority of
+the SANGGUNIANG panlungsod or pursuant to law or ordinance."
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative authority
+to sign, for and in behalf of the City of Davao, the Memorandum of Agreement to be
+entered into by and among the Department of Agriculture- Regiona! Field Office )G, Biao
+Agrarian Reform Beneficiaries Cooperative (BARBCO), and the City of Davao, relative to the
+implementation of the Integrated National Swine Production Initiative for Recovery and
+Expansion (INSPIRE) Program - Swine Clustering, amounting to Five Million Five Hundred
+Thousand Pesos (Php 5,500,000.00).
+SECTIOil 4. SEPARABILIW CLAUSE - If, any paft of this Ordinance is
+declared unconstitutional, the remaining paft unaffected shall continue to remain valid and
+in effect.
+sEcTIoI{5.EEEE!9ffi,Thisordinanceshalltakeeffectuponitsapproval.
+
+Ord. No. 01006-22
+ENACTED, June 28, 2022, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+.,{^{1?oL}rffi
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head IU/
+ATTESTED:
+EDGAR P
+President
+Temporary Presiding Officer
+cns/ray
+APPROVEDt tUL 1 A ?fi?? .2022
+SARA Z. DUTERTE
+Citv t4aVyr
+City
+ATTESTED:
+ATTY.
+Acting
+ATTY. ZULEII(A Tr
+City Admini
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE MEMORANDUM OF AGREEMENTTO BE ENTERED INTO BY AND AMONG THE DEPARTMENT
+OF AGRICULTURE _ RFO XI, THE CITY OF DAVAO AND BIAO AGRARI,AN REFORM BENEFICIARIES
+COOPERATIVE (BARBCO), RELATIVE TO THE IMPLEMENTATION OF THE INTEGRATED NATIONAL
+SWINE PRODUCTION INMATIVE TO RECOVERY AND EXPANSION (INSPIRE) PROGRAM - SWINE
+CLUSTERING, AMOUNTING TO FIVE MILUON FIVE HUNDRED THOUSAND PESOS (PHP5,500,000.00)
+o

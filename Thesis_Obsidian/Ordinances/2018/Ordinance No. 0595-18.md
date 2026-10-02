@@ -1,0 +1,286 @@
+---
+ordinance_number: "0595-18"
+title: "AN ORDINANCE FoR THE TEMpoRARy cLosuRE To VEHICULAR TRAFFIC ALONG BOLTON EffENSION, ETHTNO RIZAL PARK AGIIT STAGE, THIS CITY, ON NOVEMBER 22., 2A18, iNOrq 8:OO A.M. TO 12:OO MIDNIGHT IN CONNECTION WITH THE DAN-AC pnsro \"oPENING OF PASKO FIESTA m18* wth the informatfon that since the acffvlty had been done, thereby no executive action is necessary on the matter and the same is rendered moot, for yo"
+date_enacted: "2018-11-20"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0595-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/along, topic/bolton]
+---
+
+# Ordinance No. 0595-18
+
+> AN ORDINANCE FoR THE TEMpoRARy cLosuRE To VEHICULAR TRAFFIC ALONG BOLTON EffENSION, ETHTNO RIZAL PARK AGIIT STAGE, THIS CITY, ON NOVEMBER 22., 2A18, iNOrq 8:OO A.M. TO 12:OO MIDNIGHT IN CONNECTION WITH THE DAN-AC pnsro "oPENING OF PASKO FIESTA m18* wth the informatfon that since the acffvlty had been done, thereby no executive action is necessary on the matter and the same is rendered moot, for yo
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+'
+Repubtic of the tirippines.
+OFFICE OF THE CITY NAYON
+t
+2nd fndorsement
+November 29, Z}tg
+Respectfuily returned to Ms. charito N. santos, secretary to the
+sangguntang panfungsod, this cny, the herein ordfnant" mo. bbgs-ts,
+*.t,r of 2o18, entitled "AN ORDINANCE FoR THE TEMpoRARy cLosuRE To
+VEHICULAR TRAFFIC ALONG BOLTON EffENSION, ETHTNO RIZAL PARK AGIIT
+STAGE, THIS CITY, ON NOVEMBER 22., 2A18, iNOrq 8:OO A.M. TO 12:OO
+MIDNIGHT IN CONNECTION WITH THE DAN-AC pnsro "oPENING OF PASKO
+FIESTA m18* wth the informatfon that since the acffvlty had been done,
+thereby no executive action is necessary on the matter and the same is
+rendered moot, for your information and abpropriaie action.
+By Authoriity of ttre Crty Mayor
+per Executive Order No. 06
+dated August t,20L6:
+pln
+ATTY. UW(rrtCr-D. BAIIITIDTTG
+Asst. City Administrato(Operations)
+J
+N-1-/ (
+RETEASED
+CMO.CRD
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmait.com
+Brw,@
+a
+LIFE IS HERE
+
+City of Davpo
+OFFICE OF THE CITY LEGAT OF
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc
+o0o
+Ref. No. 1131-18-0220
+lst INDORSEMENT
+November 23,2018
+Respectfrtlly forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0595-18,
+SERIES of 2018 entitled ,AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC ALONG BOLTON EXTENSION, BEHIND RIZAL PARK AGILA
+STAGE, THIS Cffi, ON NOVEMBER 22, 2018, FROM 8:00 A.M. UP TO 12:00
+MIDNIGHT IN CONNECEON WITH THE DAN.AG PASKO *OPENING OF PASKO
+FIESIA 2018', informing your end that no executive action is needed on the
+matter, it appearing that the activity had been done, thereby rendering the
+measure moot.
+ATTY.
+GALLO, RSW
+Legal Officer
+Acting Asst.
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA" JR.
+OIC, Acting City Legal Officer
+Date approved: November 26,20L8
+ord| 5 9 5 - 1 8_c fos ure*opening-p as ftg_noot_l E-0 2 20_1 I - 2 3- 1 E
+@dze
+LEGAL oPrNroN *o. b14
+SERIES OF 2018
+NU
+MARY ANN
+l:
+VA
+AI'
+RAOO
+0D
+IV
+*i-r'
+rb{-lqA-aq
+,6.
+tlrl,k I
+
+- R..pq![g
+_o { Sf P!
+1r inp inEs
+. CITY OF DAVAO
+November 21, Z}tB iltn g _ /5}
+SARA Z. DUTERTE
+City Mayor
+CORSESPON DENCT & RECO8DS
+R E c E I V E D
+N0v 21 ?018
+MAPV A
+AI-VARADO l ;lt0
+IV
+\b
+L/'}
+Madam:
+*$-aqo p.tb)
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7760, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02601-18 and Ordinance No. 0595-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, for your information, guidance, and appropriate action.
+For and in the absence of the Secretary
+Tlnah
+NILDA C.dlAeUO
+Acting Secretary to the SANGGUNIANG Panlungsod *
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+\r*
+t
+\
+,l
+.t
+
+v Republic of the Philippines \/
+Offie of the SANGGUNIANG Panlungsod
+t8th City Council
+43'd Regular Session
+SERIES of 2018
+PRESENT:
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Bonifacio E. Militar
+Avegayle Dalodo Oftiz
+Antoinette G. Principe-Castrodes
+L Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Presiding Officer
+- OB- Attended the State Dinner in
+Honor of President Xi Jinping, People's
+Republic of China, at Malacafrang
+- OB-Attended the Training Program on
+Solid Waste Management in
+Kitakyushu, Japan
+- OB-Attended the Community
+Emergency Response Team Training
+Batch 3 in Malagos, this City
+Councilor April Marie C. Dayap
+Councilor Edgar R. Ibuyan Sr,
+Councilor laffar U. Marohomsalic
+ORDINANCE NO. 0595-18
+SERIES of 2018
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG BOLTON EXTENSION, BEHIND
+RIZAL PARK AGrLA STAGE, THrS CITY, ON NOVEMBER 22,
+2018, FROM 8:00 A.M. UP TO 12:00 MIDNIGHT IN
+CONNECTION WITH THE DAN-AG PASKO *OPENING OF
+PASKO FIESTA 2OL8"
+
+ATTESTED:
+ERN
+E.
+AG
+Vice
+Presidi
+Officer
+I
+I
+Ord. No. 0595-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE FOR THE
+TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG BOLTON EXTENSION,
+BEHIND RIZAL PARK AGILA STAGE, THIS CITY, ON NOVEMBER 22, 2OL8, FROM
+8:OO A.M. UP TO 12:OO MIDNIGHT IN CONNECTION WITH THE DAN.AG PASKO
+*OPENING OF PASKO FIESTA 2018".
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Republic Act No.
+7t60, otherwise known as the Local Government Code of 1991, provides that "any national
+or local road, alley, park or square may be temporarily closed during an actual emergency,
+or fiesta celebrations, public rallies, agricultural or industrial fairs..."
+SECTION 3. TEMPORARY CLOSURE - The street along Bolton extension (behind
+Rizal Park Agila Stage) will be temporary closed to vehicular traffic from B:00 a.m. up to
+12:00 midnight on November 22, 2018 in connection with the Dan-ag Pasko "Opening of
+Pasko Fiesta 2018"'
+SECTION 4. SEPARABILITY CLAUSE- If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMW- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 20th day of November, 2018, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+NIL;fr:ffIGNO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG panlungsod)
+ncm/kjtq
+
+l,
+I
+ATTESTED:
+APPROVED
+Ord. No. 0595-18
+2018
+SARA Z. DUTERTE
+City Mayor
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+I

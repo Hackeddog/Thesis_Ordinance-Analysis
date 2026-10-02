@@ -1,0 +1,457 @@
+---
+ordinance_number: "0514-21"
+title: "AN ORDINANCE GRANTING THE REQUEST OF THE NATIONAL HOUSING AUTHORTTY (NHA) FOR THE RECI-ASSTFTCAION OF ITS TWO (2) PROPOSED PROIECT SITES IN BATiANcAY SILTNGAENG AND BARANGAY BIAO ESCUEI.A, BOTH LOCATED IN TUGBOK DISTRICT, THIS CITY, FROM PRIME AGRICULTURAL LAND SUB'ZONE TO HIGH DENSITY RESIDENTIAL ZONE\", for your information and appropriate action' For the City Mayor: ATTY. TRISTAN DOMINGO Assista"
+date_enacted: "2021-04-21"
+approval_date: "2021-04-21"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0514-21.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/granting, topic/request, topic/national, topic/housing, topic/authortty, topic/reci]
+---
+
+# Ordinance No. 0514-21
+
+> AN ORDINANCE GRANTING THE REQUEST OF THE NATIONAL HOUSING AUTHORTTY (NHA) FOR THE RECI-ASSTFTCAION OF ITS TWO (2) PROPOSED PROIECT SITES IN BATiANcAY SILTNGAENG AND BARANGAY BIAO ESCUEI.A, BOTH LOCATED IN TUGBOK DISTRICT, THIS CITY, FROM PRIME AGRICULTURAL LAND SUB'ZONE TO HIGH DENSITY RESIDENTIAL ZONE", for your information and appropriate action' For the City Mayor: ATTY. TRISTAN DOMINGO Assista
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+w
+2 7 APR,2t2t
+l^/I'rn e$
+G)
+o$
+
+RePubtic of the Phili-oltes
+OFFICE OF THE CITY IVIAYOR
+'5acrsl
+!r'
+D:
+s
+.1.
+;j
+Ref. No. CAdO-2021-01070
+dFrf}. C|TY MAYOtrS OFFICE
+f.tslBovnspouDEmr AilD nEmff]s Dw
+-\&r RELEASED
+01 -0t
++i)ii 2 6 lfil,/\
+MAR'A eu*&urkil*
+ADLi I ;IISTRATIVE AIDE VI
+(rm oilnfi * 2{1-1tD m 25si66. D956t99rrn
+\,r
+2Nd INDORSEMENT
+April22,202l
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+panlungsod, this tity, tne within Legal Opinion No. 364, SERIES of 202L dated April 7,
+2021 from the City legal Office, redtive to the Ordinance No. 0514-21, SERIES of 202L,
+CNtitICd, *AN ORDINANCE GRANTING THE REQUEST OF THE NATIONAL HOUSING
+AUTHORTTY (NHA) FOR THE RECI-ASSTFTCAION OF ITS TWO (2) PROPOSED PROIECT
+SITES IN BATiANcAY SILTNGAENG AND BARANGAY BIAO ESCUEI.A, BOTH LOCATED IN
+TUGBOK DISTRICT, THIS CITY, FROM PRIME AGRICULTURAL LAND SUB'ZONE TO HIGH
+DENSITY RESIDENTIAL ZONE", for your information and appropriate action'
+For the City Mayor:
+ATTY. TRISTAN
+DOMINGO
+Assistant
+istration)
+4NbV
+(
+l1g- ot-il:t1
+Second Floor, City Hall Building, City Hall Drive'
+(082) 224'3004 o (082) 241-1000 loc' 265 '
+San Pedro St., Davao.CitY Bffi@
+davaocitymayor@gmail.com r-rrs rs HERE
+
+OFFICE OF THE CITY LEGAL OF
+Tel. No.298-6970
+Trunk Une No. 241-1000 L&,2:67*225*234
+davaocitylegal@gmail.com
+ctEMEf$ClO
+ADMINISTRATIVE OFFICER I
+Ref. No. CLO-2021-00L262
+LEGAL OPINION NO. Ob'I
+SERIES OF 2021
+lst INDORSEMENT
+April 7, 2021
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the herein attached Ordinance No. 051421, SERIES of 2021, entitled *AN ORDINANCE GRANTING THE REQUEST OF THE
+NATIONAL HOUSING AUTHORITY (NHA) FOR THE RECI-ASSIFICATION OF rrs
+TWO (2) PROPOSED PROJECT SrrES IN BARANGAY BALENGAENG AND
+BARANGAY BIAO ESCUEIA, BOTH LOCATED IN TUGBOK DISTRICT, THIS CITY,
+FROM PRIME AGRICULTURAL IAND SUB-ZONE TO HIGH DENSITY RESIDENTIAL
+ZONE", informing your end that this office finds the same free from legal
+infirmity pursuant to SECTION 458 (2) (viii) of Republic Act 7160, otherwise known
+as the Local Government Code of 1991, which states that:
+SECTIOIT 458, Powerc, Duties, Functions and
+Comrynstion, (a) The SANGGUNIANG panlungsod, as the
+legislative body of the cifu shall enact ordinances, approve
+resolutions and appropriate funds for the general welfare of the city
+and its inhabitanB purcuant to SECTION 16 of this Code and in the
+proper exercise of the corporate powes of the city as provided for
+under SECTION 22 of this Code, and shall:
+)ffi(
+)oa
+(2) Generate and maximize the use of resources and revenues
+for the development plans, program objectives and priorities of the
+city as provided for under SECTION 18 of this Code, with particular
+attention to agro-indu$rial development and city-wide growth and
+progressl and relative theretq shall:
+n(x
+w(
+)oo(
+(viii) Reclassify land within the jurisdidion of the city, subject to
+the pertinent provisions of this Code;
+)oo(
+IN VIEW THEREOF, this Office recommends the approval of the same.
+RESPECTFU LLY SU BM ITTED.
+ATTY. OSMUN
+P.
+EVA, JR.
+Asst. City
+I Officer
+Officer-In-Charge
+Date of approval: April T, 2021
+rtjk
+UJ
+"l:-;,
+.1* -.t
+DIV
+R
+)od
+)ffi(
+/Wam
+OrdNo. 0514-21
+GFHIUE SF'W9S fl.TT
+g?i' t:tj.l.
+-,q,ss$rsr$B&.mm
+\
+RffifiE
+201\. olblo
+(l:
+ilc{b-rf
+
+CITY MAYOR'S O
+E
+For
+From
+City Legal Office
+Correspondence & Records Div.
+Subject : SP Res, No,Oil,hkA ord' No'
+fl"
+MARI G&iK*rn
+I
+Date
+Due
+Officer-ln-C
+
+Republic of tne e[ilippines
+CITY OF DAVIO
+Office of the Sangguntq Panlungsod
+March 30,2021
+(r4
++
+SARA Z. DUTERTE
+City Mayor
+/,..L
+i
+t
+Madam:
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, ntle Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+02164-21 and Ordinance No. 0514-21, both SERIES of 2021 of the SANGGUNIANG
+Panlungsod, granting the request of the National Housing Authority (NHA) for the
+reclassification of its two (2) proposed pQect sites in Barangay Balengaeng and
+Barangay Biao Escuela, both located in Tugbok District, this City, from Prime
+Agricultural Land Sub-Zone to High Density Residential Zone, for your information,
+guidance and appropriate action.
+Very truly yours,
+2020
+$
+^ gil6, \.k
+CHARITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Govemment Department Head II)
+DrvtstoN
+ffi
+MARY
+o. ALVARADO
+A
+IV
+AIDE
+cMo CONIACI [:
+loc.
+t'lAR 3 02021
+RE
+ED
+Ll:r{
+
+tar,ltslt'
+.E
+>
+Republic of the Philiopines i
+City of 'Davao
+19th City Council
+11th Regular Session
+SERIES of 2021
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Sebastian Z. Duterte
+- presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Councilor Richlyn N. Justol-Baguilod
+- OB- Attended a meeting for
+Local Council for the Protection
+of Children
+- On Domestic Emergency Leave
+Councilor Bonifacio E. Militar
+ORDINANCE NO. 0514-21
+SERIES ol2O2L
+AN ORDINANCE GRANTING THE REQUEST OF THE NATIONAL
+HOUSING AUTHORITY (NHA) FOR THE RECLASSIFICATION OF
+rTs Two (2) PROPOSED PROJECT SITES rN BARANGAY
+BALENGAENG AND BARANGAY BIAO ESCUEI.A, BOTH LOCATED
+IN TUGBOK DISTRICT, THIS CITY, FROM PRIME AGRICULTURAL
+LAND SUB.ZONE TO HIGH DENSITY RESIDENTIAL ZONE
+
+'t
+'
+19th City Council
+llh Regular Session
+SERIES of 202L
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor Bonifacio E. Militar
+- OB- Attended a meeting for
+Local Council for the Protection
+of Children
+- On Domestic Emergency Leave
+Sebastian Z. Duterte
+- Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Princi pe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor Richlyn N. Justol-Baguilod
+ORDINANCE NO. 0514.21
+SERIES of 2O2L
+AN ORDINANCE GRANTING THE REQUEST OF THE NATIONAL
+HOUSTNG AUTHORTTY (NHA) FOR THE RECTASSTFTCATTON OF
+rTs Two (2) pRoposED pRoJEcT SrTES rN BARANGAY
+BALENGAENG AND BARANGAY BIAO ESCUELAI BOTH LOCATED
+IN TUGBOK DISTRICT, THIS CITY, FROM PRIME AGRICULTURAL
+LAND SUB.ZONE TO HIGH DENSITY RESIDENTIAL ZONE
+
+Ord. No. 05L4-2L
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+sEcrroN 1. TrrLE - This ordinance shail be known as ..AN
+ORDINANCE GRANTING THE REQUEST OF THE NATIONAL HOUSING
+AUTHORITY (NHA) FOR THE RECLASSIFTCATION OF ITS TWO (2)
+PROPOSED PROJECT SITES IN BARANGAY BALENGAENG AND BARANGAY
+BIAO ESCUELA, BOTH LOCATED IN TUGBOK DISTRICT, THIS CITY, FROM
+PRIME AGRICULTURAL LAND SUB-ZONE TO HIGH DENSITY RESIDENTIAL
+zoNE".
+SECTION 2. COMMON REGULATIONS FOR GENERAL ZONES - Article V
+of the Comprehensive Zoning Ordinance of Davao City, provides Common Regulations
+for General Zones.
+SECTION 1. REVIEW OF GENERAL ZONES - General zones
+are subject to review by the Zoning, Review Committee every five
+(5) years from the enactment of this ordinance. Any amendment
+thereof as recommended by the committee shall be in accordance
+with the provision of Article XIV SECTION 14.
+SECTION 2. RECLASSIFICATION AND CHANGE oF zoNE
+REQUIREMENT- Any reclassification of Agricultural Land to
+Non-Agricultural use must be in consultation with Department of
+Agriculture (DA) and Depaftment of Agrarian Reform (DAR) and the
+DAR requirement for conversion of agricultural land to other zones,
+and SECTION 20 of RA 7160, otherwise known as the Local
+Government code of 1991, limiting reclassification to a maximum of
+the percentage of the total agricultural land of a city to fifteen percent
+(15olo) for highly urbanized cities and must stricty compry with the
+provisions of the Joint Memorandum circular No.54 of the Housing
+and Land Use Regulatory Board (HLURB), Department of Agriculture
+(DA) and Department of the Interior and Local Government (DILG).
+Reclassification from agricultural zone to non-agricultural use and
+any change from one general zone to another general zone must be
+approved by three-foufths (314) vote of all the members of the
+SANGGUNIANG Panlungsod through a resolution and an ordinance. Any
+change of general zone to another zone shall be considered as
+amendment of the zoning ordinance and must comply with the
+provision of Afticle XIV, SECTION 14 hereof.
+Article XIV. Administration and Enforcement
+SECTION 14. AMENDMENTS TO THE zoNING ORDINANCE.
+changes in the Zoning ordinance as a resurt of the review by the
+Local Zoning Review committee shall be treated as amendment,
+provided that any amendment to the Zoning ordinance or provision
+thereof shall be subject to public hearing and sectoral consultation to
+be conducted by the Local Zoning Review committee and review
+evaluation of the said Local Zoning Review Committee and shall be
+carried out through a resolution/ordinance upon three fourth majority
+votes of all members of the SANGGUNIANG panlungsod.
+
+Ord. No. 05t4-21
+SECTION 3. COVERAGE - This Ordinance shall cover the grant of the
+application of the National Housing Authority (NHA) for the reclassification of its two
+(2) proposed project sites in Barangay Balengaeng and Barangay Biao Escuela, both
+located in Tugbok District, this City, from Prime Agricultural Land Sub-Zone to High
+Density Residential Zone.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, other sections or provisions which
+are not affected thereby, shall continue to be in full force and effect.
+SECTION 5.
+- This Ordinance shall take effect upon approval.
+ENACTED, on the 16th day of March 2021, by three-fourths (3t4) majority
+votes of all the Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+n\hnnh '\ '/r^{
+cHARrro-lrt. sftftos
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II
+\
+ATTESTED:
+ATTESTED:
+Z. DUTERTE
+Vice Mayor I
+Presiding Officer
+cns/ray
+SE
+APPROVED.APR 122021
+2021
+Z. DUTERTE
+7 city tutT
+LEIKA
+EZ
+City Ad
+AN ORDINANCE GRANTING THE REQUEST OF THE NATIONAL HOUSING AUTHORITY (NHA) FOR THE
+RECI.ASSIFICATION OF ITS TWO (2) PROPOSED PROJECT SITES IN BARANGAY BALENGAENG AND
+BARANGAY BIAO ESCUELA, BOTH LOCATED IN TUGBOK DISTRICT, THIS CITY, FROM PRIME
+AGRICULTURAL I.AND SUB-ZONE TO HIGH DENSITY RESIDENTIAL ZONE
+ATTY.
+1O

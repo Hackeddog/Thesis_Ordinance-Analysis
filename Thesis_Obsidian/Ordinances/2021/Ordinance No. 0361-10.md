@@ -1,0 +1,238 @@
+---
+ordinance_number: "0361-10"
+title: "AN ORDINANCE AMENDING CITY ORDINANCE NO. 0361-10, SERTES OF 2Ol0 TNTRODUCING A *NO CONTEST PROVISION\" AND FOR OTHER PURPOSES - On Official Business - On Domestic Emergency Leave"
+date_enacted: "2021-10-25"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000706-21.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.48
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2010.0
+detected_series_year: 2021.0
+detected_approval_year: 2010.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, type/amendatory, topic/sertes, topic/tntroducing, topic/contest, topic/provision, topic/official, topic/business]
+---
+
+# Ordinance No. 0361-10
+
+> AN ORDINANCE AMENDING CITY ORDINANCE NO. 0361-10, SERTES OF 2Ol0 TNTRODUCING A *NO CONTEST PROVISION" AND FOR OTHER PURPOSES - On Official Business - On Domestic Emergency Leave
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2010 |
+| Series header | 2021 |
+| Approval date | 2010 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republrc of th€ Philippines
+19th city Council
+34fr Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Sebastian Z. Duterte
+Richlyn N. Justol-Baguilod
+ORDINANCE NO. O7O6-2L
+SERIES of 2O2L
+AN ORDINANCE AMENDING CITY ORDINANCE NO.
+0361-10, SERTES OF 2Ol0 TNTRODUCING A *NO
+CONTEST PROVISION" AND FOR OTHER PURPOSES
+- On Official Business
+- On Domestic Emergency Leave
+
+Ord. No. 0706-2L
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE. This Ordinance shall be known as "An Ordinance Amending
+City Ordinance No. 0361-10, SERIES of 2010, Introducing a "No Contest Provision" and
+for Other Purposes".
+SECTION 2. AMENDMENT. SECEONS 45 and 48 of City Ordinance No. 036110, SERIES of 2010, are hereby amended to read as follows:
+A, SECTION 45, PENALTIES,
+a) Any person who violates Sec. 44 pars. (l), (2), (3) and (16), shall,
+upon conviction, be punished with a fine of not less than One Thousand Pesos
+(P1,000.00) but not more than Five Thousand Pesos (P5,000.00) and/or
+community service for not less than one (1) day to not more than fifteen (15)
+days, at the discretion of the court;
+b) Any person who violates Sec. 44 pars. (4), (5), (6) and (7), shall, upon
+conviction, be punished with a fine of not less than Two Thousand Pesos
+(P2,000.00) but not more than Five Thousand Pesos (P5,000.00) and/or
+imprisonment of not less than one (1) day but not more than fifteen (15) days,
+at the discretion of the couft;
+c) Any person who violates Sec. 44 pars. (8), (9) and (12), shall, upon
+conviction, be punished with a fine of not less than Three Thousand (P3,000.00)
+but not more than Five Thousand Pesos (P5,000.00) and/or imprisonment of not
+less than fifteen (15) days but not more than six (6) months, at the discretion of
+the court;
+d) Any person who violates Sec. 44 pars. (10, (11), (13), (14) and (15),
+shall, upon conviction, be punished with a fine of not less than Four Thousand
+Pesos (P4,000.00) but not more than Five Thousand Pesos (P5,000.00) and/or
+imprisonment of not less than one (1) month but not more than six (6) months,
+at the discretion of the court;
+If the violation of this Ordinance be deemed to have been committed by a
+corporation, partnership, or other juridical entity duly recognized in accordance
+with law, the chief executive officer, president, genera! manager, managing
+paftner or such other officer-in-charge, if known, shall be liable for the
+commission of the offense penalized under this Ordinance.
+In addition to the penalty provided for above, business permits of
+establishments shall be suspended or cancelled by the City Mayor.
+B. SECTION 48, C|TATION TICKET,
+A citation ticket shall be issued to violators of the provisions of this
+Ordinance. The citation ticket shall state, among others, the name and
+address of the violator, the specific violation committed, and the
+corresponding fine or penalty, including the substance and the options
+under the "No Contest Provision" of this Ordinance.
+
+Ord. No. 0706-2L
+SECTION 3. NO CONTEST PROVISION. City Ordinance No. 0361-10, SERIES
+of 2010 is fufther amended to include a new SECTION ,E-A to read as follows:
+SECTION 48-A. NO CONTEST PROVISION. - Any person cited for violation of
+this Ordinance who does not wish to contest the citation and shall voluntarily pay
+the following amount or in case of inability to pay the amount, is willing to
+voluntarily render community service and, in either case, attend the orientation
+detailing the provisions of this Ordinance, such person may be allowed to pay the
+following amount with the City Treasurer or render community service as
+settlement for the citation;
+FIVE HUNDRED PESOS (Php500.00) or FOUR (4) working hours of community
+seruice for FIRST TIME OFFENDERS of any of the prohibited acts mentioned
+under SECTION 44 paragraphs (1), (2), (3), (4), (5), (6), (7), (8), (9), (12), and
+(16);
+ONE THOUSAND PESOS (Php1,000.00) or EIGHT (B) working hours of
+community seruice for REPEAT OFFENDERS of any of the prohibited acts
+mentioned under SECTION 44 paragraphs (1), (2), (3), (4), (5), (6), (7), (B), (9),
+(12), and (16);
+For the purpose of determining repeat offenders under this SECTION, the
+prohibited acts mentioned under SECTION 44 paragraphs 1), (2), (3), (4), (5), (6),
+(7), (8), (9), (L2), and (16) are classified as a single class of violation.
+FWE THOUSAND PESOS (Php5,000.00) for every violation of SECTION 44
+paragraphs (10), (11), (13), (L4) and (15);
+The violator shall make known his/her availment of the *NO CONTEST
+PROVISION" within SEVEN (7) working days from issuance of the Citation ticket.
+CENRO shall provide the procedure for the availment and compliance of the "NO
+CONTEST PROVISION" and may allow the Barangay to monitor compliance with
+the voluntary community seruice.
+The City Treasurer is hereby authorized to receive the amount under this
+Ordinance.
+In case the violator opts to voluntarily render community seruice, he/she may be
+assigned to a community seruice including, but not Iimited to, clean up activity,
+greening and tree planting activity, solid waste management activity, wastewater
+management activity, or Materials Recovery Facility (MRF) seruice.
+A monthly repoft of violations of this Ordinance, including a copy of official
+receipts for payments or certificates of completion for community seruice issued
+in relation to this Ordinance shall be furnished to the City Lega! Office.
+Any qualified person who successfully avails of the *NO CONTEST PROVISION"
+and had complied with the provisions hereof shall be exempted from liability for
+violation of this Ordinance.
+
+Ord. No. 0706-2t
+SECTION 4,
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. rc
+- Al Ordinances, resolutions, rules or
+regulations which are inconsistent with or contrary to the provisions of this Ordinance
+are hereby repealed, amended or modified accordingly.
+SECTION 6. EEEEQT- The provisions of this Ordinance shall take effect
+fifteen (15) days after publication.
+ENACTED, on the 14th day of September 202L, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cAtM-)rh",
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+ATTESTED:
+ATTESTED:
+EDGAR P.
+IR.
+President Pro Tempore
+Temporary Presiding Officer
+cns/johanna
+ocT 25 2021,
+APPROVED:
+202L
+City MayorP
+T.
+City Administrator z
+AN ORDINANCE AMENDING CITY ORDINANCE NO. 0361-10, SERI6 OF 2010, INTRODUCING A
+"NO CONTEST PROVISION"AND FOR OTHER ruRPOSES
+ATTY.
+I
+il

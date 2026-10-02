@@ -1,0 +1,179 @@
+---
+ordinance_number: "0997-22"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND srGN, FOR AND rN BEHATF OF THE CITY OF DAVAO, THE DEEDS OF SALE INVOLVING THE LOTS UNDER THE SIUM IMPROVEMENT AND RESETTLEMENT (SrR) PROJECT rN FAVOR OF THE AWARDEES NAMETY: DENNIS M. GUBALANE CRAIG JOHN CASTAftEDA NENIET AND PABLITA C. DUMDUM"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0997-22.pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/srgn, topic/behatf, topic/deeds]
+---
+
+# Ordinance No. 0997-22
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND srGN, FOR AND rN BEHATF OF THE CITY OF DAVAO, THE DEEDS OF SALE INVOLVING THE LOTS UNDER THE SIUM IMPROVEMENT AND RESETTLEMENT (SrR) PROJECT rN FAVOR OF THE AWARDEES NAMETY: DENNIS M. GUBALANE CRAIG JOHN CASTAftEDA NENIET AND PABLITA C. DUMDUM
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+CiW of Davao
+Ofrice of the SANGGUNIANG Panlungsod
+19th City Council
+24th Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Cotrrcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councitor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Courrcitor
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Bai Hundra C:ssandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. lustol-Baguilod
+Fameta A. Librado-Moruta
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+]esus Josep'tt P. Zozobrado III
+-Temporary Presiding Officer
+-On Official Business
+-On Sick Leave
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+Councilor Bonifacio E. Militar
+ORDINANCE NO. 0997-22
+SERIES of 2O22
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND
+srGN, FOR AND rN BEHATF OF THE CITY OF DAVAO, THE DEEDS OF SALE
+INVOLVING THE LOTS UNDER THE SIUM IMPROVEMENT AND
+RESETTLEMENT (SrR) PROJECT rN FAVOR OF THE AWARDEES NAMETY:
+DENNIS M. GUBALANE CRAIG JOHN CASTAftEDA NENIET AND PABLITA
+C. DUMDUM
+
+Ord. No. 0997-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TfTLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AilD SIGN, FOR AND IN
+BEHALF OF THE CrTy OF DAVAO, THE DEEDS OF SALE TNVOLWNG THE IOTS
+UNDER THE SLUM IMPROVEMENT AND RESETILEMENT (SIR) PROJECT IN
+FAVOR OF THE AWARDEES NAMELY: DENNIS M. GUBAIANE, CRAIG JOHN
+CASTAIIEDA ilENIEL AND PABLITA C. DUMDUM".
+SECTION 2. AUIHQBIE - The City Mayor is hereby authorized to enter into
+and sign, for and in behalf of the City of Davao, the Deeds of Sale involving the lots under
+the Slum Improvement and Resettlement (SIR) Project in favor of the awardees namely:
+Dennis M. Gubalane, Craig John Castafieda Neniel, and Pablita C. Dumdum;
+SECTIOI{ 3. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 4. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 28s day of June 2022, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cHfrk{l/ffJ.,o,
+Secretary to the Sangguirlang Panlungsod
+(City Government Depatunent Head II)
+ATTESTED:
+R.
+E
+Temporary
+Officer
+cns/kjtq
+. IBUYAN
+
+ti
+t
+Ord. No. 0997-22
+APPROVED:
+AU6 t 8 2022
+2022
+SARA Z.
+City
+DUTERTE
+*ury,
+ATTESTED:
+Z. DTJTERTT
+ATTY.
+H.I.AYOG
+City Mayor
+Davao Clty
+Acting
+ATTY. ZUTEIKA
+City
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE DEEDS OF SALE INVOLVING THE LOTS UNDERTHE SLUM IMPROVEMENT AND
+RESETTLEMEfiIT PROIECT (SIR) PROJf€T II\t FA\IOR OFTHEA'WAflDEES NAt-tEtY: DEt{tfiS M. GUBALANE,
+CRAIG JOHN CASTANTOI NENIEL AND PABLITA C. DUMDUM

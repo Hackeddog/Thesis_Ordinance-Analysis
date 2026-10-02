@@ -1,0 +1,200 @@
+---
+ordinance_number: "0217-23"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF THE CITY OF DAVAO, THE DEED OF usuFRUcT (DOU) TO BE EXECUTED BY AND BETWEEN THE CITY OF DAVAO AND THE BUREAU OF FIRE PROTECTTON, RELATM TO A 521 sQ.M. poRTroN oF A CITY-OWNED PARCEL OF LAND LOCATED IN BARANGAY MA-A, TALOMO DISTRICT, DAVAO CITY, COVERED BY TRANSFER CERTTFTCATE OF TITLE NO. 146-T-LL2745, TO BE USED AS "
+date_enacted: "2023-05-16"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0217-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/deed]
+---
+
+# Ordinance No. 0217-23
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF THE CITY OF DAVAO, THE DEED OF usuFRUcT (DOU) TO BE EXECUTED BY AND BETWEEN THE CITY OF DAVAO AND THE BUREAU OF FIRE PROTECTTON, RELATM TO A 521 sQ.M. poRTroN oF A CITY-OWNED PARCEL OF LAND LOCATED IN BARANGAY MA-A, TALOMO DISTRICT, DAVAO CITY, COVERED BY TRANSFER CERTTFTCATE OF TITLE NO. 146-T-LL2745, TO BE USED AS 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Trisha Ann J. Villafuerte
+Lorenzo Benjamin D. Villafuefte
+Jesus Joseph P.Zozobrado III
+ORDINANCE NO. O2L7.23
+SERIES ol2023
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF THE CITY OF DAVAO, THE DEED OF
+usuFRUcT (DOU) TO BE EXECUTED BY AND BETWEEN THE CITY OF
+DAVAO AND THE BUREAU OF FIRE PROTECTTON, RELATM TO A 521
+sQ.M. poRTroN oF A CITY-OWNED PARCEL OF LAND LOCATED IN
+BARANGAY MA-A, TALOMO DISTRICT, DAVAO CITY, COVERED BY
+TRANSFER CERTTFTCATE OF TITLE NO. 146-T-LL2745, TO BE USED
+AS SITE FOR FIRE STATION
+20th City Council
+19th Regular Session
+SERIES of 2023
+
+that
+Ord. No. 0217-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. IIru - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF THE CITY OF DAVAO, THE DEED OF USUFRUCT (DOU) TO BE EXECUTED
+BY AND BETWEEN THE CITY OF DAVAO AND THE BUREAU OF FIRE PROTECTION,
+RELATM TO A 521 SQ.M. PORTTON OF A CITY-OWNED PARCEL OF LAND
+LOCATED IN BARANGAY MA-A, TALOMO DTSTRTCT, DAVAO CITY, COVERED BY
+TRANSFER CERTIFICATE OF TITLE NO. 146-T-112745, TO BE USED AS SITE FOR
+FIRE STATION'.
+SECTION 2. nECLARATION OF POLICY- Sections 22 (a) (5) and (c) and 455 (b)
+(1) (vi) of Republic Act No. 7160 or the Local Government Code of 1991 provide that:
+"SECTION 22. Corporate Powers.
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless othenryise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall."
+"SECTION 455. Chief Executive; Powers, Duties and
+Compensation.
+(b) For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government and in this
+connection, shall:
+(vi) Represent the city in all its business transactions and sign in
+its behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORIW- The City Mayor is hereby granted legislative authority
+to enter into and sign, for and in behalf of the City of Davao, the Deed of Usufruct (DOU)
+to be executed by and between the City of Davao and the Bureau of Fire Protection, relative
+to a 521 sq.m. portion of a city-owned parcel of land located in Barangay Ma-a, Talomo
+District, Davao City, covered byTransfer Ceftificate of Title No. 146-T-tt2745, to be used
+as site for fire station.
+
+Ord. No. 0217-23
+sECTIoN4.rc-If,foranyreaSon,anysectionorprovision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5.
+approval.
+This Ordinance shall take effect immediately upon
+ENACTED, on the 16th day of May 2023, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ 0),u^r61' - 4'^t
+cHhRrro N. sANros
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)g
+ATTESTED:
+E
+R.
+President
+Temporary Presiding Officer
+cns/josh
+APPROVED: JUN 2g7t,?3
+2023
+Z. DUTERTE
+Mavor X
+SE
+v
+ATTESTED:
+ATTY. FRA
+H. LAYOG
+Acti
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF THE
+crry oF DAVAO, THE DEED OF USUFRUCT (DOU) TO BE EXECUTED BY AND BETWEEN THE CrrY OF DAVAO
+AND THE BUREAU OF FrRE PROTECTTON, RELATTVE TO A 521 SQ.M. PORION OF A CrTY-OWNED PARCEL
+OF LAND LOCATED IN BARANGAY MA-A, TALOMO DISTRICT, DAVAO CITY, COVERED BY TRANSFER
+CERTIFICATE OF TITLE NO. 146-T-112745, TO BE USED AS SITE FOR FIRE STATION

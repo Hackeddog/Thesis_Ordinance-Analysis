@@ -1,0 +1,229 @@
+---
+ordinance_number: "0635-21"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND rN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT BY AND AMONG THE CITY OF DAVAO, THE DEPARTMENT OF puBLrc woRKs AND HTGHWAYS (DPWH) DAVAO CrTY 2ND DTSTRTCT ENGTNEERTNG OFFTCE, AND THE BARANGAY COUNCTLS OF LOS AMTGOS, MANAMBULAN, MANUEL GUIANGA, NEW CARMEN, NEW VALENCIA, TAGAKPAN, TAI.ANDANG, AND ANGALAN, ALL IN TUGBO"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0635-21.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2021.0
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 0635-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND rN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT BY AND AMONG THE CITY OF DAVAO, THE DEPARTMENT OF puBLrc woRKs AND HTGHWAYS (DPWH) DAVAO CrTY 2ND DTSTRTCT ENGTNEERTNG OFFTCE, AND THE BARANGAY COUNCTLS OF LOS AMTGOS, MANAMBULAN, MANUEL GUIANGA, NEW CARMEN, NEW VALENCIA, TAGAKPAN, TAI.ANDANG, AND ANGALAN, ALL IN TUGBO
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2021 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic oi tne enitippines
+Clty of Davao
+tl
+19th City Council
+25th Regular Session
+SERIES of 2O2L
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Codncilor
+Councilor
+Councillor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+Sebastian Z. Dutefte
+Jaffar U. Marohomsalic
+- On Official Business
+- On Sick Leave
+ORDINANCE NO. 0635.21
+SERIES ol2O2l
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN
+FOR AND rN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+AGREEMENT BY AND AMONG THE CITY OF DAVAO, THE DEPARTMENT OF
+puBLrc woRKs AND HTGHWAYS (DPWH) DAVAO CrTY 2ND DTSTRTCT
+ENGTNEERTNG OFFTCE, AND THE BARANGAY COUNCTLS OF LOS AMTGOS,
+MANAMBULAN, MANUEL GUIANGA, NEW CARMEN, NEW VALENCIA,
+TAGAKPAN, TAI.ANDANG, AND ANGALAN, ALL IN TUGBOK DISTRICT, RELATIVE
+TO THE CONSTRUCTION AND IMPLEMENTATION OF INFRASTRUCTURE
+PROJECTS UNDER THE LOCAL GOVERNMENT SUPPORT FUND TO THE
+BARANGAY DEVELOPMENT PROGRAM (LGSF.BDP) OF THE NATIONAL TASK
+FORCE TO END LOCAL COMMUNTST ARMED CONFLTCT (NTF-ELCAC) PURSUANT
+TO EXECUTTVE ORDER NO. 7O, SUBJECT TO GOVERNMENT BUDGETTNG,
+ACCOUNTING, AND AUDITING RULES AND REGULATIONS OF THE
+DEPARTMENT OF BUDGET AND MANAGEMENT, THE COMMISSION ON AUDIT,
+THE PROCUREMENT LAW AS WELL AS OTHER APPLICABLE LAWS
+
+Ord. No. 0635-21
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as *AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+CTry OF DAVAO, THE MEMORANDUM OF AGREEMENT BY AND AMONG THE CITY OF
+DAVAO, THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS (DPWH) _ DAVAO CITY
+zND DISTRICT ENGINEERING OFFICE, AND THE BARANGAY COUNCILS OF LOS AMIGOS,
+MANAMBULAN, MANUEL GUIANGA, NEW CARMEN, NEW VALENCIA, TAGAKPAN,
+TALANDANG, AND ANGALAN, ALL IN TUGBOK DISTRICT, REI.ATIVE TO THE
+CONSTRUCTION AND IMPLEMENTATION OF INFRASTRUCTURE PROJECTS UNDER THE
+LOCAL GOVERNMENT SUPPORT FUND TO THE BARANGAY DEVELOPMENT PROGRAM
+(LGSF-BDP) OF THE NATTONAL TASK FORCE TO END LOCAL COMMUNTST ARMED
+CoNFLICT (NTF-ELCAC) PURSUANT TO EXECUTIVE ORDER NO. 70, SUBIECT TO
+GOVERNMENT BUDGETING, ACCOUNTING, AND AUDMNG RULES AND REGULATIONS OF
+THE DEPARTMENT OF BUDGET AND MANAGEMENT, THE COMMISSION ON AUDIT, THE
+PROCUREMENT LAW AS WELL AS OTHER APPLICABLE I.AWS."
+SECTION 2. DECLARATION OF POLICY - SECTION 22 (a) (5) and (c); and SECTION
+455 (b) (1) (vi) of Republic Act No. 7160, or the Local Government Code of 1991 provides
+as follows:
+SECTION 22. Corporate Powers. (a) Every local government
+unit, as a corporation, shall have the following powers:xrA'
+(5) To enter into contracts; and xxx
+(c) Unless othennrise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A tegible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal
+or barangay hall.
+SECTION 455. Chief Executive: Powers, Duties and
+Compensation.xxx
+(b) For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government and in
+this connection, shall:
+WWXM
+(vi) Represent the city in all its business transactions and sign
+in its behalf all bonds, contracts, and obligations, and such
+other documents upon authority of the SANGGUNIANG
+Panlungsod or pursuant to law or ordinance.
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative authority
+to enter into and sign, for and in behalf of the City of Davao the Memorandum of
+Agreement, by and among the City of Davao, the Department of Public Works and
+Highways (DPWH)- Davao 2nd District Engineering Office, and the Barangay Councils of Los
+Amigos, Manambulan, Manuel Guianga, New Carmen, New Valencia, Tagakpan, Talandang,
+a
+
+i
+Page3of3
+, i
+Ord. No. 0635-21
+and Angalan, all in Tugbok District, relative to the construction and implementation of
+infrastructure projects under the Local Government Suppoft fund to the Barangay
+Development Program (LGSF-BDP) of the National Task Force to End Local Communist
+Armed Conflict (NTF-ELCAC) pursuant to Executive Order No. 70, subject to Government
+Budgeting, Accounting, and Auditing Rules and Regulations of the Department of Budget
+and Management, the Commission On Audit, the Procurement Law as well as other
+applicable laws.
+SECTION 4. SEPARABILITY CLAUSE- If for any reason, dfly SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMW - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 6th day of July 202t, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ Wrt,vlL , {**
+cHARrro N. s4r{Tos
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II),
+ATTESTED:
+ATTESTED:
+E
+President
+Temporary Presiding Officer
+cns/joy
+APPROVED: AU624 7021 ,202,.
+Z. DUTERTE
+a City Mayor 2
+LEIKA
+LOPEZ
+City Admin
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND IN BEHALF OF THE CITY OF DAVAO,THE
+MEMORANDUM OF AGREEMENT BY AND AMONG THE CITY OF DAVAO,THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS
+(DPWH) - DAVAO CITY 2ND DISTRICT ENGINEERING OFFICE, AND THE BARANGAY COUNCILS OF LOS AMIGOS, MANAMBULAN,
+MANUEAL GUIANGA, NEW CARMEN, NEW VALENCIA, TAGAKPAN, TALANDANG, AND ANGALAN, ALL IN TUGBOK DISTRICT,
+RELATIVE TO THE CONSTRUCNON AND IMPLEMENTATION OF INFRASTRUCTURE PROJECTS UNDER THE LOCAL GOVERNMENT
+SUPPORT FUND TO THE BARANGAY DEVELOPMENT PROGRAM (LGSF-BDP) OF THE NATIONAL TASK FORCE TO END LOCAL
+COMMUNIST ARMED CONFLICT (NTF-ELCAC) PURSUANT TO EXECUTIVE ORDER NO, 70, SUBJECT TO GOVERNMENT BUDGETING,
+ACCOUNTING, AND AUDMNG RULES AND REGULATIONS OF THE DEPARTMENT OF BUDGET AND MANAGEMENT, THE
+COMMISSION ON AUDIT, THE PROCUREMENT t.AW AS WELL AS OTHER APPLICABLE LAWS
+ATTY.
+-

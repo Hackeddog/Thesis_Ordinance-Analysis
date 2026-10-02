@@ -1,0 +1,318 @@
+---
+ordinance_number: "0744-19"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUIAR TRAFFIe OF THE FOLLOWING SPECIFIED STREETS, TO WIT: 1. SAN PEDRO SIREET, FROM CORNER CITY HALL DRIVE TO CORNER ANDA STREET; 2. PONCIANO REYES srREET, FROM CORNER RIZAL STREET TO CORNER SAN PEDRO SrREFI AND 3. BOLTON STREET, FRON CORNER RIZAL STREET TO SAN PEDRO STREET, FROM 12:01 A.M. oN MAY 1, zalg uP To 6:00 A.M. oN MAY 2, 2aL9 To SERVE As VENU"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0744-19 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/temporary, topic/closure, topic/vehicuiar, topic/traffie, topic/following, topic/specified]
+---
+
+# Ordinance No. 0744-19
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUIAR TRAFFIe OF THE FOLLOWING SPECIFIED STREETS, TO WIT: 1. SAN PEDRO SIREET, FROM CORNER CITY HALL DRIVE TO CORNER ANDA STREET; 2. PONCIANO REYES srREET, FROM CORNER RIZAL STREET TO CORNER SAN PEDRO SrREFI AND 3. BOLTON STREET, FRON CORNER RIZAL STREET TO SAN PEDRO STREET, FROM 12:01 A.M. oN MAY 1, zalg uP To 6:00 A.M. oN MAY 2, 2aL9 To SERVE As VENU
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+/;"*4.
+els,,$
+'Republic of the Philippines
+OFFICE OF THE CITY IVIAYOR
+s,tcrsFo
+Ref. No. CAdO-2019-01458
+2"d IilDORSEII{ENT
+May 30, 2019
+Respectfully returned to lrls. Charito N, Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 278, SERIES of 2019 dated Apr.il 23,
+2019 of the City Legal Office, relative to the attached Ordinance No. 07.14-19, SERIES of
+2019 entitled, "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUIAR
+TRAFFIe OF THE FOLLOWING SPECIFIED STREETS, TO WIT: 1. SAN PEDRO SIREET,
+FROM CORNER CITY HALL DRIVE TO CORNER ANDA STREET; 2. PONCIANO REYES
+srREET, FROM CORNER RIZAL STREET TO CORNER SAN PEDRO SrREFI AND 3.
+BOLTON STREET, FRON CORNER RIZAL STREET TO SAN PEDRO STREET, FROM 12:01
+A.M. oN MAY 1, zalg uP To 6:00 A.M. oN MAY 2, 2aL9 To SERVE As VENUE FoR
+HUGPONG NG PAGBABAGO (HNP) SENATORIAL CAMPAIGN CARAVAN', with the
+information that no executive action was taken on the subject measure since the
+Ordinance has already lapsed into law, for your approoriate action.
+For the City Mayor:
+ATTY.
+DOMINGO
+Assistant
+RELEASE
+MAY 3 0 20,19
+,o,rrl'no*o
+CITY
+CORRESPONDEilCq,
+d;a0
+AIDE IV
+-3:fi
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao CitV,.,
+(082) 224-3OO4 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com'
+LIFE IS HERE
+',::,1
+
+p{C;i
+2'Ln- 2s
+orY
+orl(t
+AND
+Republic of the Philippi
+RECEI
+OFFICE OF THE CITY
+QFFICER
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc
+o0o
+MARY ANN
+Ref. No. CLO-2019-0001055
+SERIES OF
+lst INDORSEMENT
+April 23, 2019
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0744-19,
+SERIES of 2019 entitled ,,AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUTAR TRAFFIC OF THE FOLLOWING SPECIFIED STREETS, TO WIT: 1. SAN
+PEDRO STREET, FROM CORNER CTTY HALL DRIVE TO CORNER ANDA STREET;
+2. PONCIANO REYES STREET, FROM CORNER RIZAL STREET TO CORNER SAN
+PEDRO STREET; AND 3. BOLTON STREET, FROM CORNER RIZAL STREET TO
+SAN PEDRO STREET, FROM 12:01 A.M. ON MAY 1, 2019 UP TO 6:00 A.M. ON
+MAY 2, 2019 TO SERVE AS VENUE FOR HUGPONG NG PAGBABAGO (HNp)
+SENATORLAL CAMPAIGN CARAVAN", informing your end that the same is free
+ftom legal infirmity citing RA 7160, otherwise known as the Local Government
+Code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A
+local government unit may, purcuant to an ordinance, permanently
+or temporarily close or open any local roa4 alley, parlt or square
+falling within iB jurisdiction: ProvideQ however, That in case of
+permanent closure, such ordinance must be approved by at least
+two-thirds (2/3) of all the memberc of the sanggunian, and when
+necessaryl an adequate substitute for the public facility that is
+subject to closure is provided.
+XW
+(c) Any national or local road, alley, parlt or square may be
+temporarily closed during an actual emergenq, or fiesta
+celebrations, public rallies, agricultural or industrial fai6 or an
+undertaking of public works and highways, telecommunications, and
+waterwork prole(B, the duration of which shall be specified by the
+local chief executive concerned in a written order: ProvideQ
+however, That no national or local roa4 alley, parlt or square shall
+be temporarily closed for athletiq cultural, or civic activities not
+officially sponsored, recognized, or approved by the local government
+unit concerned'i
+IN VIEW THEREOF, it is recommended that the Ordinance be approved.
+ATTY. umffi. cALLo, Rsw
+Acting Asst. City Legal Officer
+Approved by:
+ATTY. OSMU
+P. VILLANUEVA, JR.
+OIC-Acting City Legal Officer
+Date Approved: April 24,20L9
+ord| 74 4- 1 9_c bsrc_* ruuviat<anp44 2U g.AN 1 0 5 5 _4 -24 - 1 9
+@&e
+APR 7OI .\
+v1
+?
+J 41,f*
+Je14. e,tdss
+tig- q - +a
+
+Republic bf the, ?hilippir.,' '
+Apnl 17,2079
+tYqTtt h
+SARA Z. DUTERTE
+City Mayor
+o
+o
+t
+ir
+Madam:
+ot^o-AWm|M-g f
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+03191-19 and Ordinance No. O744-L9, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+t ['t''u"'fr a {"d
+CHARITO N.-SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+CITY MAYOR'S OFFICE
+CORRESPONDENCE AND RECOROS DIV
+REGETVED
+MARY
+q'.
+AI.VARADO
+IV
+AIDE
+)ct
+APR 22 2019
+
+18th City Council
+14th Regular Session
+SERIES of 2019
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+l. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Jesus Joseph P.Zozobrado III
+Joanne M. Bonguyan-Quilos
+Carmelo J. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Leah A. Librado-Yap
+Bonifacio E. Militar
+Presiding Officer
+- On Domestic Emergency Leave
+- On Domestic Emergency Leave
+- On Domestic Emergency Leave
+- On Domestic Emergency Leave
+- OB-Officer-in-Charge, City Mayor's
+Office
+- On Domestic Emergency Leave
+Councilor Mary Joselle D. Villafuerte
+ORDINANCE NO. O744.I9
+SERIES of 2019
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF THE FOLLOWING SPECIFIED
+STREETS, TO WIT: 1. SAN PEDRO STREET, FROM CORNER
+CITY HALL DRM TO CORNER ANDA STREET; 2.
+PONCIANO REYES STREET, FROM CORNER RIZAL STREET
+TO CORNER SAN PEDRO STREET; AND 3. BOLTON STREET,
+FROM CORNER RIZAL STREET TO SAN PEDRO STREET,
+FROM 12:01 A.M. ON MAY \ 2OL9 UP TO 6:00 A.M. ON
+MAY 2, 2019 TO SERVE AS VENUE FOR HUGPONG NG
+PAGBABAGO (HNp) SENATORTAL CAMPATGN CARAVAN
+aUnr-tl
+
+Ord. No. 0744-19
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE FOLLOWING
+SPECIFIED srREETs, To WIT: 1. sAN PEDRO srREET, FRoM coRNER cITy
+HALL DRM TO CORNER ANDA STREET; 2. PONCIANO REYES STREET, FROM
+coRNER RrzAL STREET To coRNER sAN pEDRo sTREET; AND 3. BoLToN
+srREET, FROM CORNER RIZAL STREET TO SAN PEDRO STREET, FROM 12:01
+A.M. oN MAY \ 2oI9 uP To 6:00 A.M. oN MAy zt 2otg To sERvE As vENUE
+FOR HUGPONG NG PAGBABAGO (HNp) SENATORIAL CAMPATGN CARAVAN".
+SECTION 2. DECLARATION OF POLICY - SECTION 21 (c) of Republic Act No.
+7L60, otherwise known as the Local Government code of 1991, provides:
+"Any national or local road, alley, park or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial fairs
+or an undeftaking of public works and highways,
+telecommunications and watenruorks projects...,,;
+SECTION 3. TEMPORARY CLOSURE -The following road will be temporarily
+closed to vehicular traffic from 12:01 A.M. on May l, zotg up to 6:00 A.M. on'May 2,
+2019, to serye as venue for Hugpong ng Pagbabago (HNP) senatorial campaign caravan,
+to wit:
+1. San Pedro Street from corner City Hall Drive to corner Anda Street;
+2. Ponciano Reyes Street, from corner Rizal Street to corner San pedro Street; and
+3. Bolton street from corner Rizal street to san pedro street;
+SECTION 4. SEPARABILIW CLAUSE- If , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 10th day of April, z}tg, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+- ci{k*ul,hro,
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head II|
+Vice M
+Presiding
+ATTESTED:
+cns/kjtq
+
+Ord. No. 0744-t9
+APPROVED
+2019
+SARA Z. DUTERTE
+cirv Mavy'
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administratof
+OEEMAPPRCN'EOATTER ITIE LAPSE OF

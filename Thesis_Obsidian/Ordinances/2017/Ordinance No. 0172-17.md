@@ -1,0 +1,324 @@
+---
+ordinance_number: "0172-17"
+title: "a ORDINANCE NO. OL72.L7 Series of 2OL7 AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTION OF THE ROAD ALONG CORNER QUEZON BOULEVARD AND CORNER PAG.ASA FATIMA STREET INCLUDING CORNER suAzo AND AURORA STREETS, BARANGAY 25-C, POBLACION DISTRICT, THIS CITY, FROM 1:30 A.M. ON APRIL 15, 2OL7 TO 8:30 A.M. ON APRIL 16, 2017, FOR THE HOLY WEEK ACTIVITIES OF OUR LADY OF FATIMA PARISH"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0172-17.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2017.0
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/portion, topic/road]
+---
+
+# Ordinance No. 0172-17
+
+> a ORDINANCE NO. OL72.L7 Series of 2OL7 AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTION OF THE ROAD ALONG CORNER QUEZON BOULEVARD AND CORNER PAG.ASA FATIMA STREET INCLUDING CORNER suAzo AND AURORA STREETS, BARANGAY 25-C, POBLACION DISTRICT, THIS CITY, FROM 1:30 A.M. ON APRIL 15, 2OL7 TO 8:30 A.M. ON APRIL 16, 2017, FOR THE HOLY WEEK ACTIVITIES OF OUR LADY OF FATIMA PARISH
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | 2017 |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+ffi,+li
+OFFICE OF THE CTTYMAYOR
+t
+^
+l{t:tEiuilD
+EY. Air/',,.
+,^;,;IE-,I2il Indorcement
+April 19, 20t7
+T!H:
+0r
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this city, the herein Ordinan@ No. OL72-17,
+SERIES ot 2Ol7 entitled "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICU|-AR TRAFFIC OF A PORTION OF THE ROAD ALONG CORNER QUEZON
+BOULEVARD AND CORNER PAG.ASA FATIMA STREET INCLUDING CORNER
+suAzo AND AURORA STREETS, BARANGAY 25-C, POBLACION DISTRICT, THIS
+Cffi, FROM 1:30 A.M. ON APRIL L5,20L7 TO 8:30 A.M. ON APRIL L6,20L7,
+FOR THE HOLY WEEK ACTIVffiES OF OUR IADY OF FATIMA PARISH", duly
+reviewed by the Office of the City Legal Officer, this city, with the information
+that the same is free from legal infirmity. Fufther, no executive action is
+necessary on the matter since the same has already lapsed into law, for your
+information and appropriate action.
+By Authority of the City Mayor
+per Executive Order No. 06
+dated August 1, 2016:
+pa
+ATTY. t lwCrrcE-D. BANTTDTNG
+Asst. City Administrator(Operations)
+lte -e -rt
+RELEASED
+CMO. CRD
+Nq
+*v
+i]]i
+Second Floor, City Hall Building, San Pedro St., Davao City
+)so - *o('Vl
+(082) 227-2577 . (082) 224-5878. davaocitymayor@gmail.com
+Oq-oS3
+
+sFFrcE oF rHE crwtr.f,l
+Ref. No. 1131-16
+LEGAL OPINION NO.
+SERIES OF 2017
+l"t INDORSEMENT
+April 10,2017
+Respectfully fonruarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the atr{qg ordinance No' aL72'L7,
+SERIES of 2016 entitled ;ln OROINANCE FOR THE TEMPORARY CLOSURE
+TO VEHICUIAR TRAFFIC OF A PORTION OF THE ROAD ALONG CORNER
+QUEZON BOTLEVARD AND CORNER PAG-ASA FATIMA STREET
+rNcLuDINc connER suAzo AND AURoRA srREETs, BARANGAY 25'c,
+poBt-AcION DISTRICT, THIS CITY, FROM 1:30 A.M. ON APRIL 15' 2OL7
+To 8:30 A.M. sN APRIL rO, 2AL7, rOn THE HOLY gEEK ASTIyITIES oF
+OUR IADY OF FATIMA PARISH', informing your end that this office
+interposes no objection to the enactment of the ordinance.
+VIEWED for foregoing, it is recommended that the ordinance be
+approved.
+ATTY uo*d$AtftALLo, Rsw
+AttBrneY lV
+Approved by:
+rdnn injs h-
+llr'
+1l
+ATTY, OSM
+Assistant CitY
+P, VTLIANUEVA,lR.
+Officer, OIC
+'l'l.
+I.'(
+I :rl
+tI
+,I
+\-:t tg-n
+\
+oATi
+LiJ
+, '(r.
+q: t4
+_r_.
+-.J._
+T*:E
+GT
+rU
+CMO " CRD
+ffi
+ffi
+C ffi
+V
+Hu
+ffi m
+,t1
+ffr. -f,
+Date approved: APril 10, AAU
+n>- ry -7/
+.\.t.
+'1,\
+o*{i?e
+
+Republic oi tne Philippines
+City of Davao e''l
+April7,2017
+r)
+\
+v-)D
+ofr
+P
+(
+SARA Z. DUTERTE
+City Mayor
+Madam:
+cns/nta
+%
+F#lV-ildp. loo
+CMO. CRD
+RECHIVHM
+tl9 fr^"ffi,
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenruise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0766-17 and Ordinance No. Ot72-!7, both SERIES of 20t7 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+u?^kw6,t: ,ftir",
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+
+April7,2017
+SARA Z. DUTERTE
+City Mayor
+Madam:
+CMO. CRD
+RECEfiVED
+I
+-fti1
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0766-17 and Ordinance No. OL72-L7, both SERIES of 2017 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+\)f
+r\D ,Ou*(
+Very truty yours, {*9,'f,
+U."
+o,##ro\.frro,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+cnslnta
+APR
+
+l8th City Council
+13th Regular Session
+SERIES of 2017
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+'
+Republic cf the Philippines
+Cir"y cf Davao
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Oftiz
+J. Melchor B. Quitain Jr.
+Halila Y. Sudagar
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+- MHO/CHO Summit, Royal Mandaya
+Hotel
+- On Vacation Leave
+- On Vacation Leave
+- On Sick Leave
+- On Vacation Leave
+- On Maternity Leave
+- On Sick Leave
+ON OFFICIAL BUSINESS:
+Councilor Mary Joselle D. Villafuerte
+ABSENT:
+Vice Mayor Paolo Z. Dutefte
+Councilor Pilar C. Braga
+Councilor January N. Dutefte
+Councilor Leah A. Librado-Yap
+Councilor Antoinette G. Principe-Castrodes
+Councilor Marissa P. Salvador-Abella
+ORDINANCE NO. OL72.L7
+SERIES of 2OL7
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF A PORTION OF THE ROAD
+ALONG CORNER QUEZON BOULEVARD AND CORNER
+PAG.ASA FATIMA STREET INCLUDING CORNER
+suAzo AND AURORA STREETS, BARANGAY 25-C,
+POBLACION DISTRICT, THIS CITY, FROM 1:30 A.M.
+ON APRIL 15, 2OL7 TO 8:30 A.M. ON APRIL 16, 2017,
+FOR THE HOLY WEEK ACTIVITIES OF OUR LADY OF
+FATIMA PARISH
+
+t
+Ord. No. 0t72-t7
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTION OF THE
+ROAD ALONG CORNER QUEZON BOULEVARD AND CORNER PAG-ASA FATIMA
+STREET TNCLUDTNG CORNER SUAZO AND AURORA STREETS, BARANGAY 25C, POBLACION DISTRICT, THIS CITY, FROM 1:30 A.M. ON APRIL 15, 2Ol7 TO
+8:30 A.M. ON APRIL L6,2OL7, FOR THE HOLY WEEK ACTMTIES OF OUR LADY
+OF FATIMA PARISH";
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Republic Act No. 7160,
+otherwise known as the Local Government Code of 1991, provides that:
+"Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies and agricultural or industrial fairs
+or an undertaking of public works and highways,
+telecommunications and water works projects...";
+SECTION 3. TEMPORARY CLOSURE- The portion of the road along corner Quezon
+Boulevard and corner Pag-Asa Fatima Street including corner Suazo and Aurora Streets,
+Barangay 25-C, Poblacion District, this City, shall be temporarily closed to vehicular traffic on
+April 15, 2077 from 1:30 p.m. to B:30 a.m. on April 16, 20t7 in relation of the Holy Week
+activities of Our Lady of Fatima Parish;
+SECTION 4. SEPARABILIW CLAUSE- If for any reason, df,y SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect;
+SECTION 5. EFFECTIVIW- This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on the 4th day of April, 2077, by a unanimous vote of all the Members of
+the Sanggunian present,there being a quorum.
+CERTIFIED CORRECT:
+A Tr(tur,i )1 , ,l,rr,.o
+CHARITO N. SANTOS
+Secretary to the SangguniJng Panlungsod
+(City Government Department Head Il),_
+ATTESTED:
+RD E.
+Acting Vice M
+Temporary Presiding Offlcer
+cns/kjtq
+
+E
+Ord. No. 0772-17
+ciV rtauyr
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+DEEMEDAPPROVEDAFTERT}IE LAPSE OF
+R.A.7r€O

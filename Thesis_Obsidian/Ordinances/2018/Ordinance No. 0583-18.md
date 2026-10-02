@@ -1,0 +1,372 @@
+---
+ordinance_number: "0583-18"
+title: "AN ORDINANCE FAVORABLY APPROVING THE REQUEST OF ROMEL T. BERNARDINO, MANAGER, ECOI.AND PROPERTIES DEVELOPMENT CORPORATION, FOR EXEMPTION FROM THE PAYMENT OF IDLE LAND Tfu\\ ON SOME OF THEIR PROPERTIES BEING OCCUPIED BY INFORMAL SETTLERS, AS PROVIDED UNDER SECTION 31 OF ORDINANCE NO. 029t-L7, SERIES OF 20L7\", for your information and appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assista"
+date_enacted: "2018-11-06"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0583-18.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/favorably, topic/approving, topic/request, topic/romel, topic/bernardino, topic/manager]
+---
+
+# Ordinance No. 0583-18
+
+> AN ORDINANCE FAVORABLY APPROVING THE REQUEST OF ROMEL T. BERNARDINO, MANAGER, ECOI.AND PROPERTIES DEVELOPMENT CORPORATION, FOR EXEMPTION FROM THE PAYMENT OF IDLE LAND Tfu\ ON SOME OF THEIR PROPERTIES BEING OCCUPIED BY INFORMAL SETTLERS, AS PROVIDED UNDER SECTION 31 OF ORDINANCE NO. 029t-L7, SERIES OF 20L7", for your information and appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assista
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Cites or amends
+
+- [[Ordinance No. 0291-17]]
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFF TCE OF THE CTTY /VIAYOR
+a
+o
+J
+CAdO-Ref. No. 2019-00179
+tg
+2nd Indonsement
+January 18, 2019
+Respectfully forwarded to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0583-18,
+SERIES of 2018, entitled "AN ORDINANCE FAVORABLY APPROVING THE REQUEST OF
+ROMEL T. BERNARDINO, MANAGER, ECOI.AND PROPERTIES DEVELOPMENT
+CORPORATION, FOR EXEMPTION FROM THE PAYMENT OF IDLE LAND Tfu\ ON SOME OF
+THEIR PROPERTIES BEING OCCUPIED BY INFORMAL SETTLERS, AS PROVIDED UNDER
+SECTION 31 OF ORDINANCE NO. 029t-L7, SERIES OF 20L7", for your information and
+appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+INGO
+Assistant
+)
+)
+RELE/T SED
+CMO.CRD
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 255 o davaocitymayor@gmail.com
+N- 7'/7
+PAre:.@
+LIFE
+IS HERE
+t
+
+jkcis
+neputilic of the Philippines
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+Ref. No. 1131-18-0283
+LEGAL OPINION 11s. J1o ,
+SERIES OF 2018
+RE: ORDINANCE NO. 0583-18, SERIES of 201g entitted *AN
+ORDINANCE FAVORABLY APPROVING THE REQUEST OF ROMEL T.
+BERNARDINO, MANAGER, ECOLAND PROPERTIES DEVELOPMENT
+CORPORATION, FOR E(EMPTION FROM T]IE PAYMENT OF IDLE
+I.AND TAX ON SOME OF THE THEIR PROPERTIES BEING
+OCCUPIED BY INFORMAL SETTLERS, AS PROVIDED UNDER
+SECI]ON 31 OF ORDINANCE NO. A29L-L7, SERIES OF 2OL7'.
+rsr INDoRsEMENT
+December 2L,2AL8
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing iour end that while
+the grant of tax exemption (Idle Land Tax) is well within the powers of the
+SANGGUNIANG Panlungsod citing SECTION 31 of Ordinance No. 0291-17 known as the
+20L7 Revenue Code of the City of Davao, which states that:
+"SECTION 31. Evemption-the idle land tax shail not appty to idle
+lands wherein the landowner is physically or tegalty prevented from
+improving utilizing or cultivating the same by reason of force majeurq
+civil disturbance, natural calamity, tegal dispute or any justifiable cause
+or circumstances.
+Any percon hauing legal interest on the land desiring to avail of
+the exemption under this SECTION shatl fite the corresponding apptication
+with the SANGGUNIANG Panlungsod. The application shatt state the ground
+(s) under which the exemption is being claimed.,,
+. As gleaned from Resolution No. 02411-18, it appears that there is a legat dispute
+(recovery of possession) filed by the owner against'the 162 informal settlers found
+therein, thus, falling under the aforestated ordinance No. ozgl-L7.
+Viewed therefrom, this office recommends approval of the ordinance.
+ATTY.
+OIC-Acting City Legal Officer
+Date approved: December 21, Z}Lg
+od| 5 E 3 - 1 8_expnption_il{e- fond_enhal-popenies_
+1 E -02 3 B_ 1 Z - I Z- 1 I
+@tee
+A. GALLO, RSW
+Acting Asst. City Legal Officer
+Approved by:
+ATTY. OSMU
+P. VTLIANUEVA, JR
+lt7-t stltultq
+[YrL@
+;
+s$rflffi sF
+rt/":u't'EllBt
+,,;)?: 1 B
+otL/
+iolq - oollq
+rT
+i4l
+C|'l )
+']..rr.'ill', r t
+, --IT-
+?,7
+I
+ur i'
+L
+RECEIVED SY
+
+OFFICE OF THE CITY LEGAT OFFICER
+Tel, No.298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+Ref. No. 1131-18-0283
+LEGAL OPINION No. J?o,
+SERIES OF 2018
+RE: ORDINANCE NO. 0583-18, SERIES of 2018 entitled *AN
+ORDINANCE FAVORABLY APPROVING THE REQUEST OF ROMEL T.
+BERNARDINO, MANAGER, ECOLAND PROPERTIES DEVELOPMENT
+CORPORATION, FOR EffiMPNON FROM THE PAYMENT OF IDLE
+LAND TAX ON SOME OF THE THEIR PROPERTIES BEING
+OCCUPIED BY INFORMAL SETTLERS, AS PROVIDED UNDER
+SECTION 31 OF ORDINANCE NO. O29L-17, SERIES OF 2OT7'.
+1s INDoRSEMENT
+December 2L,20LB
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the subject Ordinance, informing your end that while
+the grant of tax exemption (Idle Land Tax) is wel! within the powers of the
+SANGGUNIANG Panlungsod citing SECTION 31 of Ordinance No. 0291-17 known as the
+2017 Revenue Code of the City of Davao, which states that:
+"SECTION 31. Exemption-the idle land tax shall not appty to idle
+lands wherein the landowner is physically or legally prevented from
+improving, utilizing or cultivating the same by reason of force majeure,
+civil disturbance, natural calamity, legal dispute or any justifiable cause
+or circumstances.
+Any percon having legal interest on the land desiring to avail of
+the exemption under this SECTION shall file the coresponding apptication
+with the SANGGUNIANG Panlungsod. The application shall state the ground
+(s) under which the exemption is being claimed."
+As gleaned from Resolution No. 02411-18, it appears that there is a lega! dispute
+(recovery of possession) filed by the owner against the 162 informal settlers found
+therein, thus, falling under the aforestated Ordinance No. IzgL-Ll.
+viewed therefrom, this office recommends approval of the ordinance.
+ATTY.
+A. GALLO, RSW
+Acting Asst. City Legal Officer
+Approved by:
+ATTY. OSMUN
+P. VTLLANUEVA, JR
+OIC-Acting City Legal Officer
+Date approved: December 27, 20L8
+oil05 8 3 - 1 8_ex?r,tption_ille-tant_ecoha[-p opeties_ 1 I -02 3 8_ 1 2 - I Z- 1 I
+@lee
+z 1
+Lr,
+2010
+
+'iz'
+iE,
+(},zl
+sacisrc
+DNG
+Republic of tt e Pt itippines
+SARA T. I}iTTERTE
+fity Mayct
+City af Dasiao
+bt3lf -tL
+ctil
+CORRESPONDENCE & RECORDS DIVISICN
+RECEIVETi
+Ptk
+,t// #-
+MARYANN d Rwnnaoo
+AIDE IV
+lular-ianr
+pursuxrt tc 311,+stjcr1 I, kra3raph f., Suflon 469, Artjcle r-]ne, Titie FiVe,
+Chapter i, Book itr arEJ Ser-tion 54 of Book I Retuhlir Art trlo. 71f'8, afteruuise knr-rr*n
+x tte Local Gover*nrent fode *f 1'81, l#E ffe furnishing Yau a ropry of Res$luuitr ltlr'r'
+it?"t? 1-1S ard O,rCin=r't* !q*' 0583-18, Ldh Seriffi of 2018 r'f the S*tggLtt'riarq
+Panlungmd, ilris tily fur yalr infarmatictt, guidance and 4't'ro['riatr artiorr'
+f
+DI
+r*
+om
+*
+rQ
+F*r and in the absnre cf the ser:rehry:
+**^Wra4fuib,
+Actinr=t '.:ecrctary to Sre Sanrl,luni#t=t hniunEs+j
+i.q-qistant SerretalY to the 5;n'=tgxnianl Fsrluntrsadi
+\\(; llt
+t
+
+ReplUk of thb Philiffirres
+Gty of Davad
+Offie of the SANGGUNIANG hnlungsod
+l8th City Council
+41tt Regular Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Victorio U. Advincula Jr,
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo l. Clarion
+Danilo C. Dayanghlrang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G, Principe-Castrodes
+J. Melchor B. Quitain Jr,
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Maria Belen S. Acosta
+Edgar R, Ibuyan Sr.
+- Presiding Officer
+- On Vacation Leave
+- OB- Attended the National OathTaking of the Liga ng Barangay
+- On Sick Leave
+Councilor Jesus Joseph P. Zozobrado III
+ORDINANCE NO. 0583.18
+SERIES of 2018
+AN ORDINANCE FAVORABLY APPROVING THE REQUEST
+oF ROMEL T. BERNARDTNO, MANAGE& ECOLAND
+PROPERTTES DEVELOPMENT CORPORATTON, FOR
+EXEMPTION FROM THE PAYMENT OF IDLE LAND TAX
+ON SOME OF THEIR PROPERTIES BEING OCCUPIED BY
+TNFORMAL SETTLERS, AS PROVTDED UNDER SECTION
+31 OF ORDTNANCE NO. O29L-L7, SERTES OF 2017
+
+Ord. Nol 0583-18
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+FAVORABLY APPROVING THE REQUEST OF ROMEL T. BERNARDINO, MANAGE&
+ECOLAND PROPERTTES DEVELOPMENT CORPORATION, FOR EXEMPTION FROM
+THE PAYMENT OF IDLE LAND TAX ON SOME OF THEIR PROPERTIES BEING
+occuprED By INFORMAL SEfiLERS, AS PROVIDED UNDER SECTION 31 OF
+ORDINANCE NO. O29L-I7, SERIES OF 2OT7".
+SECTION 2. DECLARATION OF POUCY - SECTION 192 0f the Local
+Government Code, states that "Local government units may, through ordinances duly
+approved, grant tax exemptions, incentives or reliefs under such terms and conditions
+as they may deem necessary";
+SECTION 3. EXE!\IPIIQNS - SECTION 31 of Ordinance No. 0291-17, SERIES of
+2017 states that:
+"SECTION 31. Exemption - The idle land tax shall not apply to idle
+lands wherein the landowner is physically or legally prevented from
+improving, utilizing, or cultivating the same by reason of force
+majeure, civil disturbance, natural calamity, legal dispute, or any
+justlfiable cause of circumstance.
+Any person having legal interest on the land desiring to avail of
+the exemption under this SECTION shall file the corresponding
+application with the SANGGUNIANG Panlungsod. The application shall
+state the ground(s) under which the exemption is being claimed".
+SECTION 4. PERIOD - This Idle Land Tax exemption is valid only for
+Calendar Year 2018;
+SECTION 5. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 6. EFFECTIVITY - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on November 6, 2018, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+chmfiLJ,k,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+j,
+
+!
+t
+Ord. No. 0583-18
+ATTESTED
+ATTESTED:
+E. AL-AG
+Vice Mayor
+Presiding Officer
+cns/jsdam
+APPROVED: 2 7 DEr 2018
+2018
+,
+Mavor7
+City
+ATTY.
+T
+City Admin
+a

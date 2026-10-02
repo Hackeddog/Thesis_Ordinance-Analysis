@@ -1,0 +1,174 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE GRANTING LEGISTATIVE AUTHORIW TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW PERCENT (30olo) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AilD MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023 IN THE AMOUNT OF THREE HUNDRED THOUSAND PESOS (P3O0,OOO.0O) AS FII{ANCIAL ASSTSTANCE TO THE MUNICIPALITY OF GANDARA,"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000152-23 (2).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.75
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: null
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legistative, topic/authoriw, topic/mayor, topic/utilize, topic/portion]
+---
+
+# Ordinance No. 000152-23 (2)
+
+> AN ORDINANCE GRANTING LEGISTATIVE AUTHORIW TO THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW PERCENT (30olo) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AilD MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023 IN THE AMOUNT OF THREE HUNDRED THOUSAND PESOS (P3O0,OOO.0O) AS FII{ANCIAL ASSTSTANCE TO THE MUNICIPALITY OF GANDARA,
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | - |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+2d Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor J. Melchor B. Quitain Jr.
+- Presiding Officer
+Councilor Marissa S. Abella
+Councilor Nilo M. Abellera Jr.
+Councilor Luna Maria Dominique S. Acosta
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Bernard E. Al-ag
+Councilor Wilberto E. Al-ag
+Councilor Al Ryan S. Alejandre
+Councilor Dante L. Aposto! Sr.
+Councilor Conrado C. Baluran
+Councilor Jessica M. Bonguyan
+Councilor Louie John J. Bonguyan
+Councilor Pilar C. Braga
+Councilor Augusto Javier G. Campos III
+Councilor Jonard C. Dayap
+Councilor Edgar P. Ibuyan Jr.
+Councilor Edgar R. Ibuyan Sr.
+Councilor Richlyn N. Justol-Baguilod
+Councilor Diosdado Angelo Junior R. Mahipus
+Councilor Rodolfo M. Mande
+Councilor Jaffar U. Marohomsalic
+Councilor Bonz Andre A. Militar
+Councilor Temujin B. Ocampo
+Councilor Myrna G. L'Dalodo-Oftiz
+Councilor Albefto T. Ungab
+Councilor Lorenzo Benjamin D. Villafuefte
+Councilor Trisha Ann J. Villafuefte
+Councilor Jesus Joseph P. Tozobrado III
+ORDINANACE NO. 0T52.23
+SERIES of 2O23
+AN ORDINANCE GRANTING LEGISTATIVE AUTHORIW TO THE
+CITY MAYOR TO UTILIZE A PORTION OF THE THIRW PERCENT
+(30olo) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE
+PERCENT (5olo) DISASTER RISK REDUCTION AilD
+MANAGEMENT FUND (CALAMITY FUND) OF THE CITY
+GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2023 IN THE
+AMOUNT OF THREE HUNDRED THOUSAND PESOS
+(P3O0,OOO.0O) AS FII{ANCIAL ASSTSTANCE TO THE
+MUNICIPALITY OF GANDARA, SAMA& DECLARED UNDER A
+STATE OF CALAMITY DUE TO DISASTER OCCURRENCES
+
+Ord. No. A$2-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled,
+that:
+SECTIOil 1. TITLE. - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISIATIVE AUTHORITY TO THE CITY MAYOR TO UTILIZE A
+PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT
+OF THE FM PERCEilT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT
+FUND (CALAMTTY FUND) OF THE CrTy GOVERNMENT OF DAVAO FOR CALENDAR
+YEAR 2023 IN THE AMOUT{T OF THREE HUNDRED THOUSAND PESOS
+(P300,000.00) As FrNAr{crAL ASSTSTANCE To THE MUNICIPALTTY OF
+GANDARA, SAMA& DECLARED UNDER A STATE OF CAIAMITY DUE TO DISASTER
+occuRRE[fcEs".
+SECTION 2. DECLARATIOil OF POIICY. - It is the policy of the City Government
+of Davao to adopt measures and adhere to the national principles and standards of
+humanitarian assistance in response to risk reduction and declares as its policy to judiciously
+utilize its resources and put the same to proper use.
+sEcTIoN3.rc.-TheMunicipalityofGandara,Samar,whichwas
+declared under a State of Calamity, is hereby declared as beneficiary of the financia!
+assistance in the amount of Three Hundred Thousand Pesos (300,000.00).
+SECTION 4. E@_E4EIS. - SECTION 324 (d) of Republic Act No. 7160 or the Local
+Government Code of 1991, as amended by Republic Act No. 8185, states that five percent
+(5olo) of the estimated revenue from regular sources shall be set aside as annual lump sum
+appropriations for relief, rehabilitation, reconstruction, and other works or services in
+connection with calamities which may occur during the budget year. Provided, however,
+that such fund shall be used only in the area, or a poftion thereof, of the local government
+unit or other areas affected by a disaster or calamity, as determined and declared by the
+local sanggunian concerned.
+SECTION 2L of Republic Act No. 10121 likewise provides that of the amount
+appropriated for LDRRMF, thirty percent (30o/o) shall be allocated as Quick Response Fund
+(QRF) or stand-by fund for relief and recovery programs in order that situation and living
+conditions of people in communities or areas stricken by disasters, calamities, epidemics, or
+complex emergencies, may be normalized as quickly as possible. Further, upon the
+recommendation of the LDRRMO and approval of the sanggunian concerned, the LDRRMC
+may transfer the said fund to support disaster risk reduction work of other LDRRMCS which
+are declared under the state of calamity.
+SECTION 5.
+. - The amounts herein appropriated shall
+be used specifically for such item and expenditure approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of funds shall be subject to the existing
+government budgeting, accounting, and auditing rules and regulations of the Department
+of Budget and Management (DBM), the Commission on Audit (COA), the Procurement Law
+(RA 9184), as well as other applicable laws, ordinances and Presidential directives.
+SECTION 6. EFFECTMTY. - The provisions of this Ordinance shall take effect
+upon approval.
+
+Ord. No. 0L52-23
+ENACTED, January L7, 2023, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+n \tMrtt,{4
+CHARTTO N. SIilTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head
+CNS/ebge
+,rh
+ATTESTED:
+/
+J. MELgHOR B. QUTTATN
+'R.
+Presiding Officer
+Vice Mayor
+(*w
+APPROVED:
+FEB 2? NN
+2023
+Z. DUTERTE
+ciV Mavy,,
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+istrator
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORTTY TO THE CITY MAYOR TO UTILIZE A PORNON OF THE
+THIRTY PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (50/o) DISASTER RISK
+REDUCTION AND MANAGEMENT FUND (CAI.AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 2023 IN THE AMOUNT OF THREE HUNDRED THOUSAND PESOS (P300,000.00) AS
+FINANCIAL ASSISTANCE TO THE MUNICIPAUTY OF GANDARA, SAMAR, DECI.ARED UNDER A STATE OF
+CAI.AMITY DUE TO DISASTER OCCURRENCES

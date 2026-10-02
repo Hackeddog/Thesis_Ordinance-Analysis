@@ -1,0 +1,287 @@
+---
+ordinance_number: "0470-18"
+title: "AN ORDINANCE AMENDING SECflON 3 (A) OF ORDINANCE NO. O41O-10, CTHERWISE KNO\\{/N S THE *NE\\ry DAVAO CITY TRICYCLE FOR HIRE (TFH) FRANCHTSTNG AND REGUTATORY CODE OF 2010\" AMENDING CITY ORDINANCE NO. 1692, SERIES OF 1994\", for your information and appropriate action. For the City Mayor: ATTY. TRISTAil Assistant cMo. cRo RELEASED y'J )Er Nv-w ) \")/rua-t-8 Second Floor, City Hall Building, City Hall Dr"
+date_enacted: "2018-08-29"
+approval_date: "2018-08-29"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0470-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, type/amendatory, topic/secflon, topic/ctherwise, topic/tricycle, topic/hire, topic/franchtstng, topic/regutatory]
+---
+
+# Ordinance No. 0470-18
+
+> AN ORDINANCE AMENDING SECflON 3 (A) OF ORDINANCE NO. O41O-10, CTHERWISE KNO\{/N S THE *NE\ry DAVAO CITY TRICYCLE FOR HIRE (TFH) FRANCHTSTNG AND REGUTATORY CODE OF 2010" AMENDING CITY ORDINANCE NO. 1692, SERIES OF 1994", for your information and appropriate action. For the City Mayor: ATTY. TRISTAil Assistant cMo. cRo RELEASED y'J )Er Nv-w ) ")/rua-t-8 Second Floor, City Hall Building, City Hall Dr
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+q
+iEni>
+Repubhc of the Philippines
+OFFICE OF THE CITY I\{AYOR
+{ctslo
+a
+z1?
+Ref. lrlo. CAd$2018-06153
+1B
+2Nd INDORSEMENT
+September 2A,20LB
+Respectfully forwarded to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsd, this City, the attached duly signed and approved Ordinance
+No. 0470-18, SERIES of 2018 entitled "AN ORDINANCE AMENDING SECflON 3 (A) OF
+ORDINANCE NO. O41O-10, CTHERWISE KNO\{/N S THE *NE\ry DAVAO CITY TRICYCLE
+FOR HIRE (TFH) FRANCHTSTNG AND REGUTATORY CODE OF 2010" AMENDING CITY
+ORDINANCE NO. 1692, SERIES OF 1994", for your information and appropriate action.
+For the City Mayor:
+ATTY. TRISTAil
+Assistant
+cMo. cRo
+RELEASED
+y'J )Er Nv-w
+)
+")/rua-t-8
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+BW-"',@
+I
+LIFE Ig HERE
+t
+
+OFFICE OF THE CITY LEGAL O
+Tel. No.298-6970
+Trunk Line No.241-1000 Loc267l22
+o00
+\r/
+Ref. No. 1131-18-0160
+LEGAL OPINION No.
+SERIES OF 2018
+kI_
+ORDINANCE NO. 0470-18, SERIES of 2018 entitled 'AN
+oRDTNANCE AMENDING SECTION 3 (A) OF ORDINANCE NO.
+O41O-10, OTHERWISE KNOWN AS THE 'NEW DAVAO CITY
+TRICYCLE FOR HIRE (TFH) FRANCHISING AND
+REGUI.ATORY CODE OF 2010" AMENDING CITY ORDINANCE
+NO. 1692, SERIES AF 1994"
+1ST INDORSEMENT
+August 29,20L8
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance informing your
+end that this office finds the enactment of the ordinance free from lega! infirmity.
+Hence, it is recommended that the Ordinance be approved.
+ArrY. unfficALLo, Rsw
+OIC-Acting Asst. City Legal Officer
+Date approved: August 29, 2018
+o d04 7 G 1 8 _, ticy [c -for- hin _ 1 I 4 1 60 _ I - 2 9- 1 8
+@f,ee
+. ,:IGE OF IHE qTY ADMINISTRATC?
+CITY HAI,LOFFIGT
+\
+TEGLI
+rlt1
+tilL
+D
+VED BY
+oAVAo Cl]
+'tsg- hn-)a
+i
+ffiffif;
+lj tulut q'.?Jl
+
+ncm/nta
+August 24,20L8
+SARA Z. DUTERTE
+City Mayor
+Madam
+G
+(
+>bLg ts- l5
+*
+Pursuant to Sub-SECTION 3, Parag
+469, Afticle One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenruise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 02197-18 and Ordinance No. 0470-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, City of Davao, for your information, guidance, and
+appropriate action.
+For and in the absence of the Secretary:
+NILDA C.
+NO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+RECEIVED
+CMO. CRD
+O
+
+Gty of hmo
+Offie of the SANGGUNIANG Panlungsod
+tf, citr cu.rril
+Z3'd RqlularSession
+5erkr sf 2018
+PRESEHT
+Vice Mayor
+Counr-ilor
+Counrilor
+Councilor
+Councilor
+founcilor
+founcilor
+Councilor
+Councilor
+Cotincilor
+Counrilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bemard E. Alq
+Maria Belen S. Acosta
+Virtorio U. Arjvincula lr.
+A Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrdo C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Brqa
+Apni Marie C. Dayap
+Edgar P. Ibufan lr.
+Rene Elix C. Loprez
+Diosdado Angelo A. Mahipus Sr.
+Bonifxio E. Militar
+Antoinette G. Ptincipe{utrodes
+l. Melchor B. Quitain lr.
+Marissa P. Salvador-Abella
+Mary Joselle D. Villafuete
+lesus loseph P. Zozohrado Itr
+Presiding Officer
+oE- AtkrH the philiryie Corrrihs League
+r-18- Atbenfu dE Philippie Csrrihs Le4ue
+OB- Atffi
+SE Fhili+iE csrrihrs Leagr.re
+OB- Attended tp philppiE Corrrihrs Leagi-E
+OA- Bararqay Confererre
+On 5**, Leave
+OE- Attended *te PhilFpte Coruihrs League
+ASSEHT:
+Counr-ilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDIHAIICE HO. O47O-1S
+SERIES of 2OlS
+Alr oRDIlrAilcE A]lEllDI]lG SECTTOII 3 (A) OF
+oRDIltAllCE ll(}. O4r.O-rO, OTHERUTSE l$ltlull AS
+THE .TIEH DAYTT} CITY TRICYICLE FOR HIRE (II+T}
+FRA}ICHI$I}IG AIID RBtrULATORY CODE OF 2O1O-,
+AFTEHDIHG CfrY ORDrilAllf,E ll(}- 169e SERIES OF
+I:994
+E€ it ordained by the SANGGUNIANG Panlungsod of Daym City, in session
+membled that:
+SECTIOiI 1. TITLE - This Ordinance shall be known E 'All OROIIIAIICE
+AIttEflDIflG SECTIOH 3 (A) OF ORDIIIAIICE llt}. O41O-1O, OTHERWXSE
+t$toHlt As THE -llFW DAVTO CITY TRIf,YCLE FOR HIRE (TF+l)
+FRAHCHISITIG AI{D REGUTATORY ffiDE OF 2O1O-, AIIIE}IDI]IG CITY
+oEDrHAllcE llo. L69.2"SERIES OF 1994-.
+Nilo M. Abellera lr.
+loanne M. Bonguyan-Quilos
+Carmelo l, Clarion
+Danilo C. Dayanghir:ang
+limnry G. Dureza
+January N. Duterte
+Leah A, Libndo-Yap
+Auegayle Dalodo Ortiz
+
+r
+He2of3
+ord. frto.0470-18
+SECTIOII e OEIEtrTIIE - This amendment of the Ordinance aims to grant
+new applications fur Uicyde Fanchise.
+SECTIAil I. fitlEHBltEtIT - Sertion 3 {a} of Ordinanre }to. 041*-10,
+otherwise known a ttre *New Davao Citf Tricfrle for Hire {TFH} ftanchsing and
+Rqul*orY Code cf Z0trCI", amending Citf Ordinance frlo. lSgZ, SERIES of 1994.
+Frnrn:
+$mtitrn 3 tal Definitilrn rf Temrc
+{a}Motorizd Tticycle. for Hire {MTH] - A motor rehicle
+romgceed of a mstorcfcle fittd wi& a sinqle wheekd
+side cab, or with center cah opated to render
+seruics to &e general public for a fue;
+To:
+$ectitrn 3 (s) Definition af Tenrr
+{aiMotorized Trirfde Far Hire {MTH} - A motor vehicle
+comrcd of a motorryde fittd with a single wheeled
+side cab ar wi*r renter cab or rnf ffm-conru*tftrnal
+tfre 3-wheeH nehich operatd to render seruics to
+the ge.rreral Fuhlic, for a fee;
+SECTICISI +. SEPAft,*EILITY CLIUSE - If, for aty re;ison, any euti+n or
+Ftituision of fftis Otdinance is dedared uncoftstitutional or invalid, o'Ster ffiions or
+provieionr not afusj hy such rjeclaration shall continue to te in full fute and effhct.
+sf{Tlail 5.
+-This Ordinance shall hke ek immdiatelf
+fifteen {15} davs after pubticatio* on lteneral circulation.
+EllItrTED, June 19, 2018, fu a unanimrus vote of all the Hembers of the
+Satrggunian, there king a quorum.
+CEF.TTFIED COF.F-ECT:
+^ Ul,urr|\ 'l'rr"{
+cHARfro fi- fiAfir(E
+Hretary to $e SANGGUNIANG hnglungsd
+(City Governnrenf treparilnent Hed $L,,
+ATTESTEII;
+E. TL-fiG
+Vice Maycr
+Prreiding 0ffir-er
+rn*/nrhard
+a
+
+I
+0 AUG 2018
+r
+Paqe 3 of3
+CIrd. No.0470-18
+2018
+a
+,tl
+{
+Y
+L
+- city Mayor
+ATTESTED;
+ATTV. IUT.EIKA
+City AdntinisEator z

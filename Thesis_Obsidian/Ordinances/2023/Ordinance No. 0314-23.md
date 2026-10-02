@@ -1,0 +1,205 @@
+---
+ordinance_number: "0314-23"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE SUPPLEMENTAL MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORIW REGIONAL OFFICE XI, TO PROVTDE THE LEGAL BASIS FOR THE 2ND TRANCHE FUND RELEASE ON THE FORMULATION OF THE METROPOLITAN DAVAO PUBLIC SAFETY AND SECURTW M"
+date_enacted: "2023-10-17"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0314-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/supplemental]
+---
+
+# Ordinance No. 0314-23
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE SUPPLEMENTAL MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORIW REGIONAL OFFICE XI, TO PROVTDE THE LEGAL BASIS FOR THE 2ND TRANCHE FUND RELEASE ON THE FORMULATION OF THE METROPOLITAN DAVAO PUBLIC SAFETY AND SECURTW M
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+2oth city Council
+39h Regular Session
+SERIES of 2023
+Office of the Sdngguniang Panlungsod
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Luna Maria Dominique S. Acosta
+Edgar R. Ibuyan Sr.
+Presiding Officer
+- On Maternity Leave
+- OB- Attended to some important
+matters in the Barangay
+- On Domestic Emergency Leave
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+ORDINANCE NO. 0314-23
+SERIES ol2023
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE SUPPLEMENTAL MEMORANDUM OF AGREEMENT
+TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO
+AND THE NATIONAL ECONOMIC AND DEVELOPMENT
+AUTHORIW REGIONAL OFFICE XI, TO PROVTDE THE LEGAL
+BASIS FOR THE 2ND TRANCHE FUND RELEASE ON THE
+FORMULATION OF THE METROPOLITAN DAVAO PUBLIC
+SAFETY AND SECURTW MASTER PLAN (MDPSSMP)
+
+Ord. No. 03L4-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHATF OF THE CITY OF DAVAO, THE SUPPLEMENTAL MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO
+AND THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORIW
+REGIONAL OFFICE XI, TO PROVIDE THE LEGAL BASIS FOR THE 2ND
+TRANCHE FUND RELEASE ON THE FORMULATION OF THE METROPOLITAN
+DAVAO PUBLIC SAFEW AND SECURITY MASTER PLAN (MDPSSMP)".
+SECTION 2. DECLARATION OF POLICY - Sections 22 (a) (5) (c) and 455
+(b) (1) (vi) of Republic Act No. 7t60, otherwise known as the Loca! Government Code
+of 1991 provide that:
+"SECTION 22. Corporate Powers.-
+(a) Every local government unit, as a corporation, shall
+have the following powers:
+5) To enter into contracts;
+(c) Unless otherwise provided in this Code, no contract
+may be entered into by the local chief executive in behalf
+of the local government unit without prior authorization by
+the sanggunian concerned. A legible copy of such contract
+shall be posted at a conspicuous place in the provincial
+capitol or the city, municipal or barangay hall."
+"SECTION 455. Chief Executive: powers, Duties and
+Compensation.
+(b) For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the City
+Mayor shall:
+(1) Exercise general supervision and control over all
+programs, projects, and activities of the city government,
+and in this connection, shall:
+(vi) Represent the city in all its business transactions and
+sign in its behalf all bonds, contracts, and obligations, and
+such other documents upon authority of the
+SANGGUNIANG panlungsod or pursuant to law or ordinance.,,
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City of Davio, the
+Supplemental Memorandum of Agreement to be entered into by and between the
+City of Davao and the National Economic and Development Authority Regional
+Office XI, to provide the legal basis for the 2nd Tranche Fund Release on the
+formulation of the Metropolitan Davao Public Safety and Security Master plan
+(MDPSSMP).
+
+Ord. No. 0314-23
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force
+and effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on the 17th day of October 2023, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+ua. rxenffnEyEs
+Acting Secretary to the SANGGUNIANG panlungsod
+(Assistant Secretary to the SANGGUNIANG panlungsod)
+ATTESTED:
+J. MELI#a. eurrArN JR.
+/Vice Mayor
+Presiding Officer
+cns/ray
+APPROVED: IIFC 19 2023.2O2s
+SE
+ATTESTED:
+ATTY. F
+ARK H. I.AYOG
+Acti
+ministrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+gryY OF DAVAO, THE SUPPLEMENTAL MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND
+BETWEEN THE CITY OF DAVAO AND THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY
+REGIONAL OFFICE XI, TO PROVIDE THE LEGAL BASIS FOR THE 2ND TRANCHE TUT'TO NTTCNSE ON THE
+FORMULATION OF THE METROPOUTAN DAVAO PUBLIC SAFETY AND SECURTry MASTER pt-AN (MDPSSMP)

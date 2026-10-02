@@ -1,0 +1,415 @@
+---
+ordinance_number: "0550-21"
+title: "AN ORDINANCE AUTHORIANG THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF UNDERSTANDING BY AND BETWEEN THE CITY OF DAVAO AND INTERFACING DEVELOPMENT INTERVET{TIONS FOR SUSTAINABIUTY (IDIS), INC., RE|_ATIVE TO THE ADMINISTRATION AND IMPLEMET'.ITATION OF THE CITY OF DAVAO'S BANTAY BUKTD PROGRAM\", for your information and appropriate actio"
+date_enacted: "2021-04-20"
+approval_date: "2021-09-07"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0550-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: 2021.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authoriang, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/renewal]
+---
+
+# Ordinance No. 0550-21
+
+> AN ORDINANCE AUTHORIANG THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF UNDERSTANDING BY AND BETWEEN THE CITY OF DAVAO AND INTERFACING DEVELOPMENT INTERVET{TIONS FOR SUSTAINABIUTY (IDIS), INC., RE|_ATIVE TO THE ADMINISTRATION AND IMPLEMET'.ITATION OF THE CITY OF DAVAO'S BANTAY BUKTD PROGRAM", for your information and appropriate actio
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2021 |
+| Series header | 2021 |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 20,096 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2021\Ordinance No. 0550-21.txt`*
+
+;a-.
+i--
+., lt l,Au6 &r,
+J
+0nl^
+i\
+t
+I
+f,t
+o6
+
+^o*,l
+.-,,l{si
+\'l r. I. ''t'
+n, Republic of the Philippines
+OFFICE OFTHE CITYMAYOR
+R€f. t{o. CAdO202r-02179
+2Nd INDORSEMENT
+August I1,2021
+Respectftrlly returned to Ms. Chartto I{. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 752, SERIES of 2021 dated Tuly 29,
+2021ftom the City Legal ffice, relative to the Ordinance No. 0550-21, SERIES of 2021,
+entitled, "AN ORDINANCE AUTHORIANG THE CITY MAYOR TO ENTER INTO AND SIGN,
+FOR AND IN BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM
+OF UNDERSTANDING BY AND BETWEEN THE CITY OF DAVAO AND INTERFACING
+DEVELOPMENT INTERVET{TIONS FOR SUSTAINABIUTY (IDIS), INC., RE|_ATIVE TO THE
+ADMINISTRATION AND IMPLEMET'.ITATION OF THE CITY OF DAVAO'S BANTAY BUKTD
+PROGRAM", for your information and appropriate action.
+For the Oty Mayor:
+ATTY. TRISTAI{ D
+MINGO
+Assistant City
+r
+(Administration)
+{1q10
+@
+CTTY MAYOtrS OFFICE
+oRRtSPot{DtilG AllD RTORDS I)lV
+RELEASED
+AUO I2
+8.s,4
+/l!bL
+MARIA EUI{A
+ADMINISTRATIVE AIDE VI
+o.0oilufiIrlmtfi.
+0e95E3rro
+l - zolt
+Second Floor, City Hall Building, City Hall Erive, Sqn Pedro St., Davao City
+(082)224-3094 o (082) 241-10OOloc. 265 o davaocityrnayor@gmail.com4
+AWA@
+LIFE IS HERE
+
+t
+Republic'of Hre ehilippines
+19u'City Council
+15s Regular Session
+SERIES of 2021
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Danilo C. Dayanghirang
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D, Villafuefte
+Jesus Joseph P. Zozobrado III
+Sebastian Z. Duterte
+Jonard C. Dayap
+ORDINANCE NO. O55O-21
+SERIES ol2O2!
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE RENEWAL OF THE MEMORANDUM OF UNDERSTANDING
+BY AND BETWEEN THE CITY OF DAVAO AND INTERFACING
+DEVELOPMENT INTERVENTIONS FOR SUSTAINABILITY
+(rDrs), rNc., RELATTVE TO THE ADMTNTSTRATTON AND
+IMPLEMENTATION OF THE CITY OF DAVAO'S BANTAY BUKID
+PROGRAM
+- On Official Business
+
+Ord. No. 0550-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF
+UNDERSTANDING BY AND BETWEEN THE CITY OF DAVAO AND INTERFACING
+DEVELOPMENT TNTERVENTTONS FOR SUSTAINABTLTTY (rDrS), rNC.,
+RETATIVE TO THE ADMINISTRATION AND IMPLEMENTATION OF THE CITY OF
+DAVAO'S BANTAY BUKID PROGRAM".
+SECTION 2. DECLARATION OF POLICY - SECTION 35 of the Local Government
+Code provides:
+SECTION 35. Linkages with Peopleb and Non-governmental Organizations. -
+Local government units may enter into joint ventures and such other
+cooperative arrangements with people's and non-governmental
+organizations to engage in the delivery of ceftain basic seruices, capabilitybuilding and livelihood projects, and to develop local enterprises designed to
+improve productivity and income, diversiff agriculture, spur rural
+industrialization, promote ecological balance, and enhance the economic and
+social well-being of the people.
+SECTION 3. AUTHORITY -The City Mayor is hereby granted legislative authority
+to enter into and sign, for and in behalf of the City of Davao, the Renewal of the
+Memorandum of Understanding by and between the City of Davao and Interfacing
+Development Interventions for Sustainability (IDIS), Inc., relative to the Administration
+and Implementation of the City of Davao's Bantay Bukid Program.
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+efFect.
+SECTION 5. EFFE
+- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, April 20, 2021, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ (,burS \r^ {^"(
+CHNRITO N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head IIf
+
+ir-
+ir
+DAilILO C.
+G IRAilG
+City
+lor
+Tempora ry Presiding fficer
+cns/ray
+Ord. No.0550-21
+APPROVED: AUG 0 2 2S2{' .2621
+z.
+UTERTE
+I City M"yy
+ATTESTED:
+ATTESTED:
+ATTY.
+ci
+LEIKAT
+PEZ
+ty Admin
+fAN ORDINANCE AUTI{ORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF UNDERSTANDING BY AND BETWEEN
+THE CITY OF DAVAO AND INTERFACING DEVELOPMENT INTERVENTIONS FOR SUSTAINABIUTY (IDIS),
+INC., REI.ATIVE TO THE ADMINISTRATION AND IMPLEMEI.ITATION OF THE CITY OF DAVAO'S BANIAY
+zuKID PROGRAM
+
+MEMORANDUM OF UNDERSTANDING
+KNOW ALL MEN AND WOMEN BY THIS PRESENTS
+This Memorandum of Understanding (MOU) is entered into by and between
+CITY OF DAVAO, a local government unit organized and existing under and by virtue of the
+laws of the Republic of the Philippines, with office address at City Hall of Davao, San Pedro Street,
+Davao City, represented herein by MAYOR SARA Z. DUTERTE, hereinafter referred to as the "First
+Party";
+-and -
+INTERFACING DEVELOPMENT INTERVENTIONS FOR SUSTAINABILITY (IDIS), INC., a non.
+profit environmental agency, with office address at 2nd floor. Almacen Bldg., Km. 11, DavaoBukidnon Road, Catalunan Pequefro, Davao City represented by its Executive Director ATTY.
+MARK PENALVER, hereinafter referred to as the "second Party".
+WITNESSETH
+WHEREAS, SECTION 15, Article II of the 1987 Constitution states that the State shall protect
+and promote the right to health of the people and instill health consciousness among them;
+WHEREAS, SECTION L6, Article II of the 1987 Constitution states that the State shall protect
+and advance the right ofthe people to a balanced and healthful ecology in accord with the rhythm
+and harmony of nature;
+WHEREAS, SECTION 3 of the Local Government Code of 1991, provides for the participation
+o
+e pnvate sector in local governance to ensure the viability oflocal autonomy as an alternative
+egy for sustainable development;
+WHEREAS, the "First Party", initiates the Bantay Bukid Progra m in 2017 , providing support .
+to the deputized Bantay Bukid volunteers, to fully implement the Watershed Protection,
+Conservation and Management Ordinance of 2007 also known as the Watershed Code of Davao
+City;
+WHEREAS, the "First Party", through Ordinance No
+has allocated Three
+Hundred Thousand Pesos (Php 300,000.00) intended for use of the "Second Party" for the
+implementation of the Bantay Bukid Program.
+WHEREAS, the "Second Party", as the non-government organizations' representative to the
+Watershed Management Council and is involved in organizing, capacity building and monitoring of
+the Bantay Bukid volunteers in Brgys. Gumalang, Tambobong, Tawan-tawan, Tamugan, Wines, and
+Carmen, is willing to support and become an effective partner in the implementation of the Bantay
+Bukid Program;
+NOW THEREFORE, for ind in consideration of the foregoing premises by the terms and conditions
+hereunder enumerated, the parties have hereto agreed as they do hereby agree as follows:
+I. SCOPE
+-
+This understanding shall govern the duties and responsibilities of the parties and in the
+{dETisJtation and implementation of the City Government oIDavao's Bantay Bukid Program.2
+
+II. PROIECTIMPLEMENTATION
+The Program, as implemented under this M0U, shall be directly administered by the First
+Party, through its duly designated representative with support from the Second Party.
+III. RESPONSIBILITIES OFTHE FIRST PARTY
+The First Party shall have the following responsibilities;
+3.1. Provide annual financial assistance to the Second Party in relation to the Bantay Bukid
+Program implementation;
+3.2. Deputize additional Bantay Bukid volunteers after due evaluation of their qualification;
+3.3. Ensure the conduct of the annual general assembly of the Bantay Bukid Volunteers;
+3.4 Ensure sustainable financial support for the Bantay Bukid Volunteers;
+IV. RESPONSIBILITIES OFTTIE SECOND PARTY
+The Second Party shall have the following responsibilities;
+4.1 Hire a person that will ensure the implementation of tasks assigned to the Second Party
+under the Bantay Bukid Program;
+4.2 Coordinate with the Watershed Management Council (WMC), Public Safety and Security
+Command Center (PSSCC), Philippine Eagle Foundation (PEF) and the Ciry Mayor's
+Office on matters concerning the Bantay Bukid Program;
+4.3 Coordinate and support the Bantay Bukid volunteers in areas covered by the Second
+. Party;
+4.4 Coordinate with the Bantay Bukid volunteers to ensure regular conduct of watershed,
+rivers, biodiversity and hazard prone areas monitoring and submission of reports;
+4.5 Ensure submission of the Bantay Bukid monthly and quarterly reports to the concerned
+agencies;
+4.6 Facilitate the conduct of quarterly capacity building sessions andf or learning visits; and
+4.7 Assist in training and deputizing additional Bantay Bukid volunteers in the city.
+V. EFFECTIVITY, TERMINATION AND RENEWAL CLAUSE
+This Memorandum of Understanding shall be effective upon the signing of the parties
+herein and shall remain valid until revoked in writing.
+s Llq#rlf _
+IN WITNESS WHEREOF, the parties hereto signed this agreement th
+2027,in the Ciry of Davao Philippines.
+For and In Behalfof;
+FoIithe City of Davao
+For the In
+ing Develo ment Interventions
+for
+Sustain bility, Inc
+Z.D
+ALVER
+City Ma
+/
+vor
+"fr/
+UTEIKA T. LOPEz
+Admlnlstrator
+Clty
+Witnesses
+A
+Ex
+ve
+rector
+
+Republic of the Philippines)
+City of Dovoo.. .......)S.S
+B
+doy of
+EFORE ME, A N
+0 7 sEP 2Ul
+ACKNOWI.EDGEMENT
+otory Public for ond in Dovoo City, this
+2421, personolly oppeored:
+NAME
+COMPETENT EVIDENCE
+OF IDENTITY
+DATE/PIACE TSSUED
+SARA Z. D\NERTE
+ftirlHcolth No . !, -o2526erlo, - L
+MARK T. PENALVER
+P48623138
+Feb. l9,2O2O/ DFA
+Dovoo City
+Known to me ond to me known to be the some personswho executed
+the foregoing instrument, ond they ocknowledged to me thot the
+some is their own free qnd voluntory oct ond deed os well os the free
+ond voluntory oct ond deed of the institutions represented therein,
+qnd thot they ore duly outhorized to sign the some.
+This instrument refers to the Memorondum of Understonding (MOU),
+which consists of
+poges, including the poge whereon this
+Acknowledgement is written, ond which is signed by the porties ond
+their instrumentolwitnesses on eoch ond every poge thereof.
+WITNESS MY HAND AND SEAI on the dote ond ot the ploce first
+obove-written.
+Doc. No. t0 ;
+Poge No. 31 ;
+Book No. 'lv
+;
+SERIES of 2021.
+543,1
+B
+L Fi-a
+,i. rl
+K0l 'tt ftttorney No. ;0,i
+ryfu lic for Davao City, I
+nes
+lDecemb
+11, 1021 ;Serirl No, 202
+2021
+City L
+office, City Hall, Davao CitY
+IBP 0.R. No.
+38375 ; 01.05.2021; D,C ltor 2021)
+oTR 0.R. N0.47915931 12.15.7n20t D,C lfor 20?1
+W
+
+CITY MAYOR,S OFFICEJur 2t
+),o Ll
+Date
+To: Citylegal Office
+Froni: Correspondince & Records Division
+Subject: SP *es. No. 0Lt31 ord. No. DJI1
+Seri6s of 20 2l
+Mt7., i\rnz6,.[ - LuA I lDtJ - ts^^ta
+ox.i4 era
+Due Date: Au(o . f , .to t1
+.
+t__------;
+nlft Cnace P. NnBor{G
+Officer-in-Charge
+Lal,r-J
+
+July 23, 2021
+>tlr?.t..rO
+CMO - CRD
+RECEIlIED
+SARA Z. DUTERTE
+City Mayor
+Madam:
+Pursuant to Sub-sectlon 3, Paragraph C, Sectlon 469, Aftlcle One, Title Flve,
+Chapter 3 Book III and SECTION 54 of Book I of Republic Act No. 7160, othenruise
+known as the Local Government Code of 1991, we are fumi

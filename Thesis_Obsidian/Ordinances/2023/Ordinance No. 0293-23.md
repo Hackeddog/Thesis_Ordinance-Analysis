@@ -1,0 +1,188 @@
+---
+ordinance_number: "0293-23"
+title: "AN ORDINANCE GRANTING FUIL EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX TO TEODORA ALOI{SO CHAPTER NO. 4, ORDER OF THE EASTERN SfA& ON THE PROCEEDS OF THE BTOCK SCREEilING OF *THE MARVEIS\" TO BE HELD ON NOVEMBER 8, 2023,7zOO P.M. AT CINEMA 6, SM TANANG PREMIE& DAVAO CITY"
+date_enacted: null
+approval_date: "2023-11-08"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0293-23 (2).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/fuil, topic/exemption, topic/payment, topic/amusement, topic/teodora]
+---
+
+# Ordinance No. 0293-23
+
+> AN ORDINANCE GRANTING FUIL EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX TO TEODORA ALOI{SO CHAPTER NO. 4, ORDER OF THE EASTERN SfA& ON THE PROCEEDS OF THE BTOCK SCREEilING OF *THE MARVEIS" TO BE HELD ON NOVEMBER 8, 2023,7zOO P.M. AT CINEMA 6, SM TANANG PREMIE& DAVAO CITY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20trr City Council
+35tr Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+C.ouncilor
+6uncilor
+Councilon
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B, Ocampo
+Myma G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Augusto Javier G. Campos III
+Edgar R. Ibuyan Sr.
+- Presiding Officer
+- On Sick Leave
+- On Offidal Business
+- On Official Business
+ORDINANCE NO. 0293.23
+SERIES of 2023
+AN ORDINANCE GRANTING FUIL EXEMPTION FROM THE
+PAYMENT OF AMUSEMENT TAX TO TEODORA ALOI{SO
+CHAPTER NO. 4, ORDER OF THE EASTERN SfA& ON THE
+PROCEEDS OF THE BTOCK SCREEilING OF *THE MARVEIS"
+TO BE HELD ON NOVEMBER 8, 2023,7zOO P.M. AT CINEMA
+6, SM TANANG PREMIE& DAVAO CITY
+
+tt
+Ord. No. 0293-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao Crty, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRAI{TI]TG FULL EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX TO
+TEODORA AtOilSO CHAPTER NO. 4, ORDER OF THE EASTERN STA& ON THE
+PR(rcEEDS OF THE BTOCI( SCREET{IIIG OF 'THE MARVELS" TO BE HETD OT{
+NOVEMBER & 2023" 7:00 P.M. AT CINEMA 6, SM tAilAilG PREMIER" DAVAO
+cfw".
+SECTIOil 2. DECTARATION OF FOLICY - Sections 192 and 458 (a) (2) (xi:)
+of Repubtic Act No. 7160, otherwise known as the Local Gorrernment Code of 1991,
+provides that Local Government Units, through an ordinance duly approved, grant tax
+exemptions, incentives or relief under such terms and conditions as they may deem
+necessary.
+SECTIOT{ 3. E9UEUICE - The aforementioned exemption shatl be based on
+the system of computation adopted by the Business Tax and License Division of the
+City Treasurer's Office and their projected income statement, as herein enumerated:
+NO. OF TICKETS
+AMOUNT
+TOTAT
+tOolo TAX
+P240.00
+P79,200.00
+P7,920.00
+SECTION 4. TRANSMITTAL The Office of the Secretary to the
+SANGGUNIANG Panlungsod is hereby directed to transmit a copy of the said Ordinance
+to the Executive Department immediately upon its approval.
+SECTIOII 5. W
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 6. EEEEQ[IVIT![ - This Ordinance shall take effect immediately
+upon approval.
+EI{ACTED, on the fgn day of September 2O23, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+MA THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsofl
+wv
+
+Ord. No. 0293-23
+2023
+APPROVED:
+ncT r I 20n.
+cU ruavE
+ATTESTED:
+ATTESTED:
+J. jrELcWd.B. eurrAr Jr J R.
+Shce Mayor
+P/esiding fficer
+mtar/ray
+z.
+I
+ATTY.
+H. LAYOG
+Acting City
+AN ORDINANCE GRANTING FULL DGMPTION FROM THE PAYMENT OF AMUSEMENT TN( TO
+TEODORA ALONSO CHAPTER NO. 4, ORDER OF THE EASTERN STAR, ON THE PROCEEDS OF
+THE BLOCK SCREENING OF "Tl{E MARVEIS'TO BE HELD ON NOVEMBER 8, 2023, 7:00 P.M.
+AT CINEMA 6, SM LANANG PREMIE& DAVAO CITY

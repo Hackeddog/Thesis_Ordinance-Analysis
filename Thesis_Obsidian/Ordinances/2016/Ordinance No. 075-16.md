@@ -1,0 +1,310 @@
+---
+ordinance_number: "075-16"
+title: "Ordinance No. 075-16"
+date_enacted: null
+approval_date: "2016-11-25"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 075-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: null
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid]
+---
+
+# Ordinance No. 075-16
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | - |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Repdolic of the PhiliPPines
+CltY sf O.v.o
+Al Rfan S. Alejandre
+Faolo Z. DuE te
+Nilo M. Abellen Jr.
+Maria Belen S. Accte
+Vicblic U. Mvincula Jr.
+Bemard E. Al-ag
+Dante L, Apcbl Sr.
+Conrado C, Baluran
+Ma. Cheny Ann M, Bonguyan
+Pllar C. Braga
+Danilo C. Dayanghinng
+April Marie C. Dayap
+Jimmy G, Dureza
+Hgar P. Ibuyan Jr.
+LEah A. Lihado-Yap
+Rene Elir C. Lopez
+Dicdado Angelo A. Mahipue Sr.
+Eonituio E. Militar
+Anbinette G. Principe{etrodc
+J. Mekhor B. Quitain Jr.
+Halila Y. Sudryar
+Mary Jmelle D. VillafuerG
+Temporary Preidi ng Offi cer
+- On Sick Leave
+- On Domstic Emery ncy
+Leave
+- On V*ation Leave
+- On Sick Leare
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C-ouncilor
+Councilor
+C-ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Marissa P. Salvdor-Abella
+Jesus Joseph P. Zozobrado trI
+oRITIilAItCE ilO.075-15
+Scric of 2016
+AII OR.DIIIAI'CE GRAIITI]IG tEGtrtLATTUE AUTHORITY
+TO IHE CITY l,lAYOR rO FILE AII EIECTIIEilT AISE
+IGAII|ST IHE F(XiSESSORS OF I-oT 6, BtOCr +
+LOCATED AT BARRIO OBRERO, FOB[itCIOta DISTRTCT,
+THIS CITY
+Be it ordained by the SANGGUNIANG hnlungsd of Davm City in sesion wemHed
+that:
+sEcrroll l. rrlLE.- This ordinance shall be known c 'Ai onDrllAllcE
+GRATITIIIG 1EGISIITTYE AUTHORITY TO THE GITY IIIAYOR. TO FII.E ATI
+ElEcTllEtlT clsE AG IIfST THE FGlsEslsoRs oF LoT 6, BLocK 3, L(rcATED AT
+BARRIO OBRERO, FOB1.ACIOil DISTRICT, THIti CITY';
+=t"l: '
+ffiffi
+18h city council
+136 Rcgubr Scrcion
+Serles of z)16
+PRESET{T:
+ABSElIT:
+January N. Duterte
+Sanne M. BonguyanQuilc
+Avegayle Dahdo Ortiz
+
+Page 2 of2
+d. No. 075-16
+AL
+-
+sE!.ngf, z 9EcLr!4fIo[ oF FqUcy. - Subparasraph 3 (viii), hrqraph b,
+SECTION 455 of Rewblic M.7l6o, odreruie knourn a the t-ocaicovernni"ni'oae-origgr,
+prDvites:
+an*ibrte or cruse to be instibEd adminiffiive or
+jndicid Foceedings for virJ*ion of odinances in the
+collectbn of tares, Ees or charg€s, and fur the
+fcovqy of furds and popa.ty; and carse the city to
+be defunded against all suits bo ensure drat its
+interests, re$urces and rights shall be ad€Cldy
+proEcEd";
+. .SECTI{)I 3. At .fiORlry. -
+The City ilayor is hereby grilH legid*rve
+ltrotitv_!.fih an @fnent cee against sre p6*s* of Lot 6, Bk;k 3, l".Ed at Banb
+OLrrero, hblrion Crisbict, tltis Gty;
+EECmfi + $EIIITIIIIY gllrSE - If br any re:Eorr, any s*tbn tr
+ptwisbn of tiis Grdinance is declaed urmnstitut*mat or invalkJ, cntrer'sectrns *
+prwiaions igef rfi aftcted by $rch dchation shal @ntinuc m'ue in nrli rprce and
+eftc!
+_sEcrror 5. Efficnwil cLNrsE.- This frinance shall take eftct
+immedately upon ryrwal;
+_
+HIICIB, Otuber 4, 20L6, h a majodty vG of dl the l,lembsrE of ths
+Sanggunian pesent.
+CERTIFIED CORRECT:
+For and in the absence ofthe Secretary:
+*r^r*flt*
+_ Acting Strr€Hy b dre Sangguniilg patlungd
+(Assistant Seretary b the SANGGUNIANG Fantungsod;,
+ATTESTED:
+Courcilor
+Presiding Officer
+rcm/ridqd
+APPROI/ED: BEe g I Zutr, .2016
+Z. DUTERTE
+cityMT
+Tl."*e
+ATTY. ZUIEII(A T. IOPEZ
+City Adminisffir
+ATTBTED:
+
+€,@9
+v
+EO!
+s"
+s4crsro
+o
+abx
+r)
+Lnz
+, '. .K:t1ta
+c
+2"d INDoRsEMENT
+December 6,2016
+_
+Respectfurry returned to Ms. charito N. santos, secretary to the
+lTgg!.ni9nS Pantungsod, this City, the herein duly signed uni'upiroira
+oRDTNANCE NO. 075-16, SERIES OF 2016, entiflad "AN ORDIi\ANCE
+GRANTING LEGISLATIVE AUTHORTTY TO THE irNr UAYON rO ruIE NI,I
+EJECTN4ENT AGAINST THE POSSESSORS OF LOT 6, BLOCK :, I-OCATEO NT
+BARRIO OBRERO, POBLACION DISTRICT, THIS Cffy," for your information anO
+appropriate action.
+INGO
+For the City Mayor:
+ATTY. TRISTAN DW
+Assistant City Administrator
+(Admin istration)
+CMO. CRD
+RELETqSE,D
+fi,^-",
+k: l.t
+Second Floor, City Hall Building, San Pedro 5t., Davao City
+(082) 227 -257 7 . (O82) 224-587 8. davaocitymayor@g ma il.com
+a
+rtr
+;
+'
+"nepublic of the Philippines '
+OFFTCE OF THE CITY MAYOR
+Vz-01,0
+' V/'?ac <4
+
+AHCffi: BVED
+NOl/ 2 B 2BIO
+cl\to - cRD
+Office of the City tegal Officer
+City of Davao rr,o
+Ref. No. 1131-16
+LEGAL oPINIoN No. {5,
+SERIES OF 2016
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+City Administrator, both this City, the herein attached documents relative to the
+Ordinance No. 075-16 SERIES of 2016 entitled 'AN ORDINANCE GRANTING
+LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO FILE AN EJECTMENT
+AGAINST THE POSSESSORS OF LOT 6, BTOCK 3, LOCATED AT BARRIO
+OBRERO, POBLACIOI{ DISTRICT, THIS CITY" with the information that the grant
+of authority is well within the power of the SANGGUNIANG Panlungsod citing SECTION 481
+of RA 7160, otherwise known as the Local Government Code of 1991, to quote;
+SEC, 487. Qualiftcations, Terms, Powers and Duties- (b)
+The legal officer, the chief counsel of the local government unit
+shall take charge of the office of legal seruices and shall:
+XXX
+XXX
+XXX
+(3) In addition to the bregoing duties and fundiont the legal
+ofrcer shall:
+XXX
+XXX
+XXX
+(i) Represent the local government unit in all civil actions and
+special proceedings wherein the local government unit or any
+official thereof, in his oflTcial capaci$ is a party: Provided, Thal
+in actions or proceedings where a component city or municipality
+is a pafty adverce to the provincial government or to another
+component city or municipality, a special legal officer may be
+employed to represent the adverce paffy;"
+RESPECTFULLY SUBMITTED.
+ATTY,
+A. GALLO, RSW
+Approved by:
+ATrY. OSMU
+IIANUEVA,, IR.
+Asst. City Leg
+cer, OIC
+Date of approval: November 25, 2016 ,rt,'., ,
+^.-V ^IMINISTRAI
+,1;E
+c"';
+ADM:i\il;
+A
+rney IV
+.,.- i.lt Y
+ctrY r6t1 OFFICE
+DAVAO
+RECEIVED B
+-\ATE
+Tlt.rt:
+CITY /4 A,,l
+lE.
+N0r
+?>v->o- 6s
+J:/d,tr.
+'oTNDoRSEMENT
+November 24,20t6
+: .rt' .t,
+
+'nepublika ng Piiipinas
+TANGGAPAN NG SAI\TGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW.7,g
+November 21,2016
+c
+SARA Z. DUTERTE
+City Mayor
+Madam:
+cns/lnta
+\
+r
+tt-N-lh
+4,b.
+Rri
+,';J I
+trao&s /.ro
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenruise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0188-16 and Ordinance No. 075-16, both SERIES of 2016 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+I
+,Uranrrl^ l.r- W
+CHARTTO N.FANTOS
+Secretary to the Sangglniang Panlungsod
+(City Government Department Head II)
+,ry- /r -cr
+RHCfrIVED
+)

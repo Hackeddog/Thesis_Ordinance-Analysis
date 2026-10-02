@@ -1,7 +1,7 @@
 # Legal NLP EDA & Temporal Audit Report: 2017
 *Generated automatically by `src/ordinance_eda_pipeline.py`*
 
-Study window: 2016-2024 | confidence bar for misfiling: 0.45 | for relocation: 0.60
+Study window: 2016-2025 | confidence bar for misfiling: 0.45 | for relocation: 0.60
 
 ## 1. Executive summary and file inventory
 
@@ -9,21 +9,21 @@ Categories below are mutually exclusive, so the percentages sum to 100%.
 
 | Classification | Count | Percentage |
 |---|---|---|
-| **Total documents scanned** | 216 | 100.0% |
-| Temporally valid (matches folder) | 193 | 89.4% |
+| **Total documents scanned** | 204 | 100.0% |
+| Temporally valid (matches folder) | 196 | 96.1% |
 | Misfiled (in-window, wrong folder) | 0 | 0.0% |
 | Out-of-scope year | 0 | 0.0% |
-| Flagged for manual review | 23 | 10.6% |
+| Flagged for manual review | 8 | 3.9% |
 | Unresolved (no year signal) | 0 | 0.0% |
 
 | Extraction | Count | Percentage |
 |---|---|---|
-| Digital | 209 | 96.8% |
-| Hybrid | 7 | 3.2% |
+| Digital | 198 | 97.1% |
+| Hybrid | 6 | 2.9% |
 | OCR | 0 | 0.0% |
-| Pages OCR'd in total | 7 | - |
+| Pages OCR'd in total | 6 | - |
 
-Mean consensus confidence: **0.42** (median 0.35). Documents resolved on a single signal: 44 (20.4%).
+Mean consensus confidence: **0.43** (median 0.35). Documents resolved on a single signal: 46 (22.5%).
 
 ## 2. Duplicate analysis
 
@@ -35,26 +35,26 @@ Mean consensus confidence: **0.42** (median 0.35). Documents resolved on a singl
 
 | Component signal | Extracted | Coverage |
 |---|---|---|
-| Enactment date | 43 / 216 | 19.9% |
-| Ordinance number | 216 / 216 | 100.0% |
-| Series header | 109 / 216 | 50.5% |
-| Approval date | 195 / 216 | 90.3% |
+| Enactment date | 47 / 204 | 23.0% |
+| Ordinance number | 204 / 204 | 100.0% |
+| Series header | 95 / 204 | 46.6% |
+| Approval date | 182 / 204 | 89.2% |
 
-Ordinance number source: filename 216/216, filename and header agree on 122. Citation-style references rejected before they could hijack the signal: **2**.
+Ordinance number source: filename 204/204, filename and header agree on 113. Citation-style references rejected before they could hijack the signal: **2**.
 
-> **Parser health warning.** Enactment-date coverage is 19.9%. An enactment clause appears in virtually every enacted ordinance, so a low rate here is a parsing failure, not a corpus property. Run `--debug-headers` on this folder and tune `ENACT_ANCHOR_RE` / `DATE_PATTERNS` against the real layout before treating any temporal verdict in this report as final.
+> **Parser health warning.** Enactment-date coverage is 23.0%. An enactment clause appears in virtually every enacted ordinance, so a low rate here is a parsing failure, not a corpus property. Run `--debug-headers` on this folder and tune `ENACT_ANCHOR_RE` / `DATE_PATTERNS` against the real layout before treating any temporal verdict in this report as final.
 
 ## 4. Corpus text characteristics
 
 | Metric | Value |
 |---|---|
-| Mean characters | 21,449 |
-| Median characters | 14,783 |
-| Mean words | 3,467 |
-| Shortest document | 3,460 chars |
+| Mean characters | 21,743 |
+| Median characters | 14,751 |
+| Mean words | 3,518 |
+| Shortest document | 3,319 chars |
 | Longest document | 607,712 chars |
-| Mean pages | 14.4 |
-| Mean characters per page | 1,346 |
+| Mean pages | 14.5 |
+| Mean characters per page | 1,356 |
 | Suspected incomplete (<300 chars) | 0 files |
 | Low text density (<100 chars/page) | 0 files |
 
@@ -69,23 +69,8 @@ No confidently misfiled or out-of-scope ordinances detected.
 | `Ordinance No. 0152-17.pdf` | 1991 | 0.28 | 1/3 | enacted 1991 vs approved 2017 |
 | `Ordinance No. 0157-17.pdf` | 1991 | 0.28 | 1/3 | enacted 1991 vs approved 2017 |
 | `Ordinance No. 0166-17.pdf` | 1991 | 0.28 | 1/3 | enacted 1991 vs approved 2017 |
-| `Ordinance No. 0170-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0177-14.pdf` | 2014 | 0.25 | 1/1 | mismatch below confidence bar |
 | `Ordinance No. 0212-17.pdf` | 1991 | 0.28 | 1/3 | enacted 1991 vs approved 2017 |
 | `Ordinance No. 0223-17.pdf` | 1991 | 0.28 | 1/3 | enacted 1991 vs approved 2010 |
-| `Ordinance No. 0249-17.pdf` | 2008 | 0.17 | 1/4 | enacted 2008 vs approved 2017; series 2018 vs ord-no 2017 |
-| `Ordinance No. 0262-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0319-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0320-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0326-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0327-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0328-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0329-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0333-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0361-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0369-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0370-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0371-17.pdf` | 2018 | 0.43 | 2/3 | mismatch below confidence bar |
-| `Ordinance No. 0375-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0376-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
-| `Ordinance No. 0380-17.pdf` | 2018 | 0.18 | 2/3 | series 2018 vs ord-no 2017 |
+| `Ordinance No. 033-16.pdf` | 1991 | 0.28 | 1/3 | enacted 1991 vs approved 2017 |
+| `Ordinance No. 034-16.pdf` | 1991 | 0.17 | 1/4 | enacted 1991 vs approved 2017 |
+| `Ordinance No. 040-16.pdf` | 1991 | 0.28 | 1/3 | enacted 1991 vs approved 2016 |

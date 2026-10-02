@@ -1,0 +1,187 @@
+---
+ordinance_number: "0644-24"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF A PORTIOil OF THE ROAD ALOTIG coAsrAr RoAD - ROTUI{DA AS STARTTITG FOINT (HALF-tAilE PARTTAL ROAD CTOSURE ONLY) OF THE FUN RUN ON OCTOBER 27, 2024 FROM 4:OO AM TO 6:OO AM, IN CONNECTION WITH THE REQUEST OF JUDGE RETRINA A. FUEITTES, EXECUTTVE JUDGE, RTC (CONVENOR OF DAVAO crrY rusTrcE zoNE) FoR THErR ADVOCACY'FUN RUN FOR. A CAUSE 2024\""
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0644-24 (1).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/temporary, topic/closure, topic/vehicutar, topic/traffic, topic/portioil, topic/road]
+---
+
+# Ordinance No. 0644-24
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF A PORTIOil OF THE ROAD ALOTIG coAsrAr RoAD - ROTUI{DA AS STARTTITG FOINT (HALF-tAilE PARTTAL ROAD CTOSURE ONLY) OF THE FUN RUN ON OCTOBER 27, 2024 FROM 4:OO AM TO 6:OO AM, IN CONNECTION WITH THE REQUEST OF JUDGE RETRINA A. FUEITTES, EXECUTTVE JUDGE, RTC (CONVENOR OF DAVAO crrY rusTrcE zoNE) FoR THErR ADVOCACY'FUN RUN FOR. A CAUSE 2024"
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | - |
+| **Resolved** | **2024** |
+
+## Cites or amends
+
+- [[Ordinance No. 0544-24]]
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+2out
+Council
+37h Regular Sesion
+SERIES of 2024
+PR.ESGNT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councibr
+Councilor
+Councilor
+Councilor
+Councilor
+Courrcilor
+Councilor
+Courrcilor
+Courrcilor
+Councilor
+Councflor
+Councilor
+Councilor
+Councilor
+Councilor
+Corrcitor
+Councilor
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bemard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myma G. L Dalodo€rtiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann ]. Villafuerte
+Jesus Joseph P. Zozobrado III
+I'larissa S Abella
+Bai Hundra Cassandra Dominique N. Advincula
+Jessica M. Bonguyan
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Richlyn N. lustol-Baguilod
+Kristine May John Abdul Mercado
+- Presiding fficer
+- On VacaUon Leave
+- On Domestic Emergency Leave
+- On Maternity Leave
+- On ffiicial Business
+- On Domestic Emergency Leave
+A3SENT:
+Counciltx
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0544-24
+SERIES oJ 2024
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUTAR TRAFFIC OF A PORTIOil OF THE ROAD ALOTIG
+coAsrAr RoAD - ROTUI{DA AS STARTTITG FOINT (HALF-tAilE
+PARTTAL ROAD CTOSURE ONLY) OF THE FUN RUN ON
+OCTOBER 27, 2024 FROM 4:OO AM TO 6:OO AM, IN
+CONNECTION WITH THE REQUEST OF JUDGE RETRINA A.
+FUEITTES, EXECUTTVE JUDGE, RTC (CONVENOR OF DAVAO
+crrY rusTrcE zoNE) FoR THErR ADVOCACY'FUN RUN FOR. A
+CAUSE 2024" II{ SUPPORT TO THE DAVAO CITY JAIL.FEMATE
+DORMITORYS'ADOPT A COTTAGE PROJECT"
+
+Ord No. 0644-24
+that:
+Be it dained ry tle sargsrniar€ mngpod tr Darao cty, in essitrr et$Emblgd,
+SECTION l. IIIE - This Ordinance shall be known as "AJ{ ORDINANCE FOR
+THE TEIIPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTIOI{ OF THE
+ROAD AtOllG GOASTAL ROAD - ROTUTTDA AS STARTTNG FOiltr (HALF-IANE
+P*RTI/tt RIIAD CtOSttRE OIIIY) OF THt Ft il Rtttr Ofi OCTOSEiI 27, Z1p;1r4
+FROM 4:oo AM To 6:0o AM, rN GoililEcrroil wrrH THE REeuEsr or lluoce
+RETRINA A. FUENTE+ EXECUTIVE JUDGE, RTC (COIIvENOR br oavnO CITV
+Jt srrcE zoNE) FOR THErR ADVOCACY *FUil RUil FOR A CAUSE 2024. ril
+ST'PPORT TO THE DAVAO CITY JAIL-FEMALE DORMITORY'S 'ADOPT A
+GOTTAGE PROJ}ECT'.
+SECTION 2. DECLARATION OF POLICY - SECTION 21 (c) of Republic Act No. t1ffi,
+othenrise known as the Local Government Code of 1991, provides that "any national or local
+road, all€Y, parlq or sguare may be temporarily cbsed during an actual ernergency, or fis
+celebrations, public rallies, agricultural or industrial fairs no<".
+SECTION 3. TEMPORARY CLOSURE - In connection with the upcoming even! as
+requested by Judge Retrina A. Fuentes, Davao RTC Judge, there witl be a temporary closure
+to vehicular traffic of a portion of the road along Costal Road - Rotunda as Starting point
+(half-lane partial road closure only) of the "Fun Run for a Guse 2024' on Octobe r 27, 2024
+from 4:00 am to 6:00 am.
+SECTIOil 4. SEPARABITITY CLAUSE - If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by zuch declaration shall continue to be in ful! force and effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approva!.
+Et*rcTED, on the 1o day of October ?0i?ts', by a tmanirnous voteof all the $4ernbers
+of the Sanggunian, therc being a quorum.
+CERTIFIED CORR.ECT:
+*kik:.k
+(Secretary to the SANGGUNIANG Panlungsod)
+City Government Departnent Head II
+ATTESTED:
+t. tttttcydt eurrlr*,R
+/ Vice Mayor
+Presiding Officer
+or/ma*
+
+Ord No. 4644-24
+APFROVED:
+ocT 2 | 2024
+2024
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHIO.'LAR TRAFFIC OF A PORTION OF THE ROAD
+ALONG COASTAL ROAD - ROTT NDA AS STARTTNG POrNT (H LF-|-ANE PARTIAL ROAD CLOSURE O$ILY)
+OF THE RJN RUN ON OCTOBER 27, 2024 FROM 4:00 AM TO 6:00 AM, IN CONNECTION WITI{ THE
+REQtJEST Of XIDGE RETRTI|A A. Ft ENTES, EXECITnVE ruDGE, RTC (CONVENOR OF DAVAO CITY
+JUSTTCEZONE) FORTHEIRADVOCACY*FUN RUN FORACAUSE 2024', IN SUPPORTTOTHE DAVAOCXTY
+JAIL-FEMALE DORMITORY'S "ADOPT A COTTAGE PROJECT'
+I

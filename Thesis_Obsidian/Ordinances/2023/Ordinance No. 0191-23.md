@@ -1,0 +1,211 @@
+---
+ordinance_number: "0191-23"
+title: "AN ORDINANCE AMENDING ORDIilANCE NO. O29L-I7, SERTES OF 2OL7, OTHERWTSE KNOWI{ AS THE 2017 REVENUE coDE oF DAVAO CrTY, PARTTCUIARLY SECTTON 383, PARAGRAPH (G) THEREOF"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0191-23 (2).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, type/amendatory, topic/ordiilance, topic/sertes, topic/otherwtse, topic/knowi, topic/revenue, topic/code]
+---
+
+# Ordinance No. 0191-23
+
+> AN ORDINANCE AMENDING ORDIilANCE NO. O29L-I7, SERTES OF 2OL7, OTHERWTSE KNOWI{ AS THE 2017 REVENUE coDE oF DAVAO CrTY, PARTTCUIARLY SECTTON 383, PARAGRAPH (G) THEREOF
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Cites or amends
+
+- [[Ordinance No. 0291-17]]
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+136 Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+C,ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C,ouncilor
+C,ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Offtcer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. AI-ag
+Wilberto E. A!-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo-Oftiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Conrado C. Baluran
+Richlyn N. Justol-Baguilod
+- On Domestic Emergency Leave
+- OB- Attended a meeting of the
+Davao City Public Hospital
+ORDINANCE NO. 0191.23
+SERIES of 2O23
+AN ORDINANCE AMENDING ORDIilANCE NO. O29L-I7,
+SERTES OF 2OL7, OTHERWTSE KNOWI{ AS THE 2017 REVENUE
+coDE oF DAVAO CrTY, PARTTCUIARLY SECTTON 383,
+PARAGRAPH (G) THEREOF
+
+Ord. No. 0191-23
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. TfTLE - This Ordinance shall be known as "AI{ ORDINANCE
+AMENDTNG ORDTNANCE NO. 0291-17, SERTES OF 2OIT,OTHERWrSE KNOWN AS
+THE 2OA7 REVENUE CODE OF DAVAO CrTY, PARTTCULARLY SECTTON 383,
+PARAGRAPIT (G) THEREOF".
+SECTION 2. DECLARATIOI{ OF POLICY - It is the policy of the City
+Government of Davao to adopt measures and adhere to the national principles and
+standards in relation to the creation of its sources of revenues and to levy taxes, fees,
+and charges consistent with the basic policy of local autonomy.
+SECTION 3. AMENDMENTS - SECTION 383, Paragraph (G), Article Two,
+Chapter Two of Ordinance No. 0291-17, otherwise known as the 20L7 Revenue Code of
+Davao City is hereby amended to read as follows:
+(g) Other Fees and Charges -
+(4) For the use of the Cold Storage Facilities at Malagos \rAA"
+Slaughterhouse, the following fees and charges shall be collected by the City
+Treasurer:
+a
+)oo(
+4.1 For the use of equipment in the operations area, the City Treasurer
+shall collect the following fees and charges:
+a. Weighing Scale for Live Hogs
+b. Electronic/Computerized Weighing
+Scale fur Carcasses
+P10.00 per head
+P10.00 per carcass
+4.2 T\e City Treasurer shall likewise collect the following fees and
+charges for the use of the meat-cutting equipment:
+a. Chilling
+b. Blasting
+c. Cold Storage
+a. Bone Saw Stand Type
+b. Meat Grinder
+c. Meat Slicer
+d. Meat Bowl Cutter
+e. Sausage Filler
+t. Meat Mixer
+P100.00 per Carcass
+P5.00 per kilo
+P0.40 per kilo
+P10.00 per kilo
+P10.00 per kilo
+P10.00 per kilo
+P10.00 per kilo
+P10.00 per kilo
+P10.00 per kilo
+
+Ord. No. 0191-23
+SECTIOil 4. SEPARABILITY CLAUSE - The provisions of these Rules are
+hereby declared separable, and in the event that any one or more of such provisions
+are declared invalid, the validity of all other provisions shall not be affected thereby.
+SECTIOil 5. rc
+- Al ordinances, resolutions, rules or
+regulations which are inconsistent with or contrary to the provisions of this Ordinance
+are hereby repealed, amended, or modified accordingly.
+SECTION 6.
+- This Ordinance shall take effect fifteen (15) days
+after its publication in a newspaper of general circulation.
+ENACTED, on the 4th day of Aprit 2023, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^0/'i\'k
+clrARrTo N. S4NTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II).
+ATTESTED:
+J.Me,.do*B. eurrArN rR.
+/
+vice Mayor
+Presiding Officer
+cns/ray
+APPROVED:
+0 202I
+2023
+APR 2
+Z. DUTERTE
+Mayor t
+/
+ATTESTED:
+ATTY.
+H. LAYOG
+ministrator
+AN ORDINANCE AMENDING ORDINANCE NO. O29I-T7, SERIES OF 20T7, OTHERWISE KNOWN AS THE
+2017 REVENUE CODE OF DAVAO CITY, PARTICUTARLY SECTION 383, PARAGRAPH (G) THEREOF

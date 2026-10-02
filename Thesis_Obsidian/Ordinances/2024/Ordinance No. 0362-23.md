@@ -1,0 +1,193 @@
+---
+ordinance_number: "0362-23"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE EXECUTED BY THE CITY OF DAVAO IN FAVOR OF THE DEPARTMENT OF HUMAN SETTLEMENTS AND URBAN DEVELOPMENT (DHSUD)-REGION XI, INVOLVING ONE (1) UNIT MOTORCYCLE FOR tXE USE OF THE LATTER"
+date_enacted: "2024-01-09"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0362-23 (2).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.33
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/authorizing, topic/mayor, topic/sign, topic/behalf, topic/deed, topic/donation]
+---
+
+# Ordinance No. 0362-23
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE EXECUTED BY THE CITY OF DAVAO IN FAVOR OF THE DEPARTMENT OF HUMAN SETTLEMENTS AND URBAN DEVELOPMENT (DHSUD)-REGION XI, INVOLVING ONE (1) UNIT MOTORCYCLE FOR tXE USE OF THE LATTER
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th city Council
+47th Regular Session
+SERIES of 2023
+PRESENT:
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Presiding Officer
+- On Forced Leave
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor
+Councilor
+Luna Maria Dominique S. Acosta
+Jonard C. Dayap
+ORDINANCE NO. 0362.23
+SERIES of 2023
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE
+EXECUTED BY THE CITY OF DAVAO IN FAVOR OF THE DEPARTMENT OF
+HUMAN SETTLEMENTS AND URBAN DEVELOPMENT (DHSUD)-REGION
+XI, INVOLVING ONE (1) UNIT MOTORCYCLE FOR tXE USE OF THE
+LATTER
+
+Ord. No. 0362-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE
+clw oF DAvAo, THE DEED oF DONATTON To BE EXECUTED BY THE crw
+OF DAVAO IN FAVOR OF THE DEPARTMENT OF HUMAN SETTLEMENTS
+AND URBAN DE!/E_L9PMENT (DHSUD) REGTON Xr, rNvoLvrNG ONE (1)
+UNIT MOTORCYCLE FOR THE USE OF THE LATTER-.
+sEcrIoN ?. pECLARATION oF polrcy - sections 22 (a) (5) and (c) and
+455 (b) (1) (vi) of Republic Act No. 7160 or the Local Government CoOe ot'rggr
+provide that:
+"SECTION 22. Corporate powers.-
+a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this code, no contract may be
+entered into by the local chief executive in behalf of the iocal
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or city, municipal or
+barangay ha!1."
+"SECTION 455. chief Executive; powerq Duties and compensation,-
+(b) For efficient, effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the city mayor shail:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government, and in this
+connection, shall:
+x)o(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORITY - The City Mayor is hereby granted tegislative
+authority to enter into and sign, for and in behalf of the City of Dlvao, the beed of
+Donation to be executed by the City of Davao in favor of the Department of Human
+Settlements and Urban Development (DHSUD)-Region XI, involving one (1) unit
+motorcycle for the use of the latter.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in fuil force
+and effect.
+
+Ord. No. 0362-23
+SECTION 5. EFFECTMW - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on the 11h day of December 2023, by a unanimous vote of all
+the Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ 01n6 t, 1,,--
+CHARITO NJ SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head ll)t4
+ATTESTED:
+ATTESTED:
+L*#8. eurrArN JR.
+,/ viceMayor
+Presiding Officer
+cns/ray
+J. ME
+ATTY. F
+APPRovEo: JAN 09 2024,2023
+Z. DUTERTE
+citv Mavy t
+SE
+Acti
+MARK H. LAYOG
+Administrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CTry OF
+DAVAO, THE DEED OF DONATION TO BE EXECUTED BY THE CITY OF DAVAO IN FAVOR OF THE
+DEPARTMENT OF HUMAN SETTLEMENTS AND URBAN DEVELOPMENT (DHSUD)- REGION XI,
+INVOLVTNG ONE (1) UNrT MOTORCYCLE FOR THE USE OF THE LATTER

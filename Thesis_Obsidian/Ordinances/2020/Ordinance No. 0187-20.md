@@ -1,0 +1,321 @@
+---
+ordinance_number: "0187-20"
+title: "AN ORDINANCE GRANTING THE APPUCATION OF GLOBE TELECOM INC., THROUGH BSPT CONSTRUCTION CORPORATION, FOR ADDMONAL ALLOWABLE USE FOR THE CONSTRUCNON OF A 4O.O.METER HIGH, 3.TEGGED SELF.SUPPORT TOWER SMJATED AT THE UNIVERSITY OF MINDANAO (UM)-MANNA, BARANGAY MA.A, TALOMO DISIRICI, THIS CITY\", for your infonnation and appropriate action. For the City Mayor: ATTY. P. DOMINGO LIFE IS HERE ar Second Floor"
+date_enacted: "2020-02-24"
+approval_date: "2020-02-28"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0187-20.pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/granting, topic/appucation, topic/globe, topic/telecom, topic/through, topic/bspt]
+---
+
+# Ordinance No. 0187-20
+
+> AN ORDINANCE GRANTING THE APPUCATION OF GLOBE TELECOM INC., THROUGH BSPT CONSTRUCTION CORPORATION, FOR ADDMONAL ALLOWABLE USE FOR THE CONSTRUCNON OF A 4O.O.METER HIGH, 3.TEGGED SELF.SUPPORT TOWER SMJATED AT THE UNIVERSITY OF MINDANAO (UM)-MANNA, BARANGAY MA.A, TALOMO DISIRICI, THIS CITY", for your infonnation and appropriate action. For the City Mayor: ATTY. P. DOMINGO LIFE IS HERE ar Second Floor
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OF THE CITY IVIAYOR
+sacisrt
+A
+a
+,9 N
+(,z9
+it0ibs,
+i+\
+R€f.l{io. c/|do-2020il727
+t$fiteq
+co*' rsrtlJtil3i I 8ff l'f.o * or r,,
+RELEASED.
+r:li c6 2c20
+ao,rrduo*o r. !^
+nourmrsrnXnvE AIDE rv l.s'
+2Nd IilDORSEMEI{T
+March 5,2AZA
+Respectfully returned to Ms. Charito Il. Santos, Seoetary to the SANGGUNIANG
+Panlungsod, this Gty, the within Legal Opinion No. 177, SERIES of 2020 dated February
+2L,2020 from the City Legal ffice, relative to the Ordinance No. 0187-20, SERIES of 2020
+enUtled, "AN ORDINANCE GRANTING THE APPUCATION OF GLOBE TELECOM INC.,
+THROUGH BSPT CONSTRUCTION CORPORATION, FOR ADDMONAL ALLOWABLE USE
+FOR THE CONSTRUCNON OF A 4O.O.METER HIGH, 3.TEGGED SELF.SUPPORT TOWER
+SMJATED AT THE UNIVERSITY OF MINDANAO (UM)-MANNA, BARANGAY MA.A,
+TALOMO DISIRICI, THIS CITY", for your infonnation and appropriate action.
+For the City Mayor:
+ATTY.
+P. DOMINGO
+LIFE IS HERE
+ar
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.com.,
+@
+
+Refublic of the Philippines
+-' OFFICE OF THE CITY LEGAL
+Tel. No. 298-5970
+Trunk Line No. 241-1000 Lcr,267*225*230
+Ref. No. CLO-2020-00916
+LEGAL OPINION No
+SERIES OF 2O2O
+ORDINANCE NO. OL87-2O, SERIES of 2O2O entitled "AN
+ORDINANCE GRANTING THE APPLICATION OF GLOBE
+TELECOM INC., THROUGH BSPT CONSTRUCTION
+CORPORATION, FOR ADDITIONAL ALLOWABLE USE FOR
+THE CONSTRUCTION OF A 4O.O-METER HIGH, 3-LEGGED
+SELF-SUPPORT TOWER, SITUATED AT THE UNIVERSITY OF
+MINDANAO (UM)-MATINA, BARANGAY MA-A, TALOMO
+DISTRICT, THIS CITY"
+1ST INDORSEMENT
+February 21,2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance, informing your
+end that this office finds the enactment of the ordinance free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved.
+ATTY. MAR
+A. GALLO, RSW
+Acting Asst
+Legal Officer
+Approved by:
+ATTY. OSMUN
+P. VILLANUEVA, JR.
+i
+OIC-Acting City Legal Officer
+Date approved: February 24,2020
+o riftt t 8 ; -.] lt o [[o t,o 6[a a fotta - u n )0 ) 0- 009 1 6 - ). ) l, ) 0
+C)
+fTnr^
+I t.ti I
+; lt;-"'' '; ir:
+A
+; "-1+:
+I
+2'..o
+{"oro- @+27
+{J9956299702
+& RECORDS DrvtstoN
+ADO 8',9r)
+AIDE IV
+VEt)
+ktL{tL
+zta-1-)Q
+fn
+\
+I
+ffi
+
+CITY MAYOR'S OFFICE
+For
+From
+City LegalOffice
+'FEB IB2|,2[-'
+Date
+& Records Div.
+ord' No' olrl
+Subject: SP Res. No.
+SERIES of 20
+o4r{
+Lig,6, -th6^ - l^lt I Arto.a-tt _ tJtu - lcd*afoh
+t atir.n
+v
+Du*.-ate: FFB?f,?R?nMIArtffi. NABoNG
+Officer-ln-Charge
+
+DNc
+saCisrc
+C,
+Z:
+Y.
+\6
+i>
+February t7,2020
+g
+,Sp
+SARA Z. DUTERTE
+City Mayor
+Madam:
+.?0wwl6 pln
+pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I of Republic Act No. 7160, othenryise
+known as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0924-20 and Ordinance No. OL87'2O, both SERIES of 2020 of the
+SANGGUNIANG panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+c,w,{il#6",
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+.k*r
+i[j,rij
+cMo
+RtcoR0s DtvtstoN
+IVED
+MARY
+ALVARADO
+Atoe IV
+t::er.tmd,
+FEB 1 8 2rJ20
+oFFrcE oF rHE9JffiJtR?K8 PANLUNG s oD
+t
+
+Republic of'the' Philippines
+19th City Council
+2nd Regular Session
+SERIES of 2020
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Albefto T. Ungab
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+Sebastian Z. Dutefte
+- On Official Business
+Bai Hundra Cassandra Dominique N. Advincula - On Domestic Emergenry Leave
+Danilo C. Dayanhirang
+- OB- Attended the Comparative
+Studies and Cultural Exchange
+Program in Bangko( Thailand
+J. Melchor B. Quitain Jr.
+- On Official Business
+ORDINANCE NO. 0187.20
+SERIES of 2020
+AN ORDINAilCE GRANTING THE APPLICATION OF GTOBE
+TELECOM INC., THROUGH BSPT CONSTRUCTION CORPORATTON,
+FOR ADDITIONAL ALTOWABLE USE FOR THE CONSTRUCTION OF
+A 40.0-METER HIGH, 3-LEGGED SELF-SUPPORT TOWER
+SITUATED AT THE UNIVERSITY OF MINDANAO (UM).MATINA,
+BARANGAY MA-A, TALOMO DISTRTCT, THIS CrTy
+
+Ord. No.0187-20
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION I.IEE - This Ordinance shall be known as 'AN ORDINANCE
+GRANTING THE APPLICATION OF GLOBE TELECOM INC., THROUGH BSPT
+CoNSTRUCTION CORPORATION, FOR ADDITTONAL ALLOWABLE USE FOR THE
+coilsTRucrroN oF A 4o.o-METER HIGH, 3-LEGGED SELF-SUPPORT TOWER
+SITUATED AT THE UNIVERSITY OF MINDAilAO (UM).MATINA, BARANGAY MA.A,
+TALOMO DTSTRTCT, THIS CrrY".
+SECTION 2. DECIARATION OF POLICY - Afticle KI, SECTION 1 of the
+Comprehensive Zoning Ordinance of Davao City (2013-2022) provides for requests for
+additional allowable use, which reads:
+"The uses enumerated in the preceeding afticles on general and all sub-zones
+are not exhaustive nor al!-inclusive. The SANGGUNIANG Panlungsod, upon
+application of the project proponent and upon favorable recommendation by
+the Local Zoning Board of Adjustment and Appeals (IZBAA) may allow other
+uses not enumerated therein as it may deem fit and proper including, but not
+limited to, the following projects which are socio-economic and environmental
+significance and/or national interest by a t/+ majority vote of all the Members
+of the SANGGUNIANG Panlungsod through resolution and ordinance )oo(".
+SECTION 3.
+-The requestforAdditionalAllowable Use
+of Globe Telecom Inc., through BSPT Construction Corporation, for the construction of a
+40.0-meter high, 3-legged self suppoft cell site tower situated at fie University of
+Mindanao (UM)-Matina, Barangay Maa, Talomo District, this City, is hereby approved.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTIOI{ 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, January 14, 2020, by three-fourths (314) majority vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+.71-y
+MA. THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Local Legislative Officer Staff IV)
+t:
+
+Ord. No.0187-20
+ATTESTED:
+ATTESTED:
+Temporary
+UNGAB
+Vice Mayor
+Presiding Officer
+cns/bern
+ZULEIKA
+City
+APPROVED: 28 FEB 2020 ,2020
+" city M"yhy
+z.
+e

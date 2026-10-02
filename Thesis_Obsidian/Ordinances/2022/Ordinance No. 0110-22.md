@@ -1,0 +1,192 @@
+---
+ordinance_number: "0110-22"
+title: "AN ORDINANCE GRANTTNG THE REQUEST OF MR. RICO RADOC FOR ADDITIONAL ALLOWABLE USE FOR THE OPERATION OF EARTHFILL QUARRY, LOCATED AT LUAC, BARANGAY BAYABAS, TORIL DISTRICT, DAVAO CITY !"
+date_enacted: "2022-11-29"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0110-22.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/granttng, topic/request, topic/rico, topic/radoc, topic/additional, topic/allowable]
+---
+
+# Ordinance No. 0110-22
+
+> AN ORDINANCE GRANTTNG THE REQUEST OF MR. RICO RADOC FOR ADDITIONAL ALLOWABLE USE FOR THE OPERATION OF EARTHFILL QUARRY, LOCATED AT LUAC, BARANGAY BAYABAS, TORIL DISTRICT, DAVAO CITY !
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Council
+20th Regular Session
+SERIES of 2022
+PRESENT:
+Office of the San'girtrniang Panlungsod
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. lustol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Conrado C. Baluran
+- Presiding Officer
+- On Sick Leave
+- OB- Represented the City Mayor
+in an activity sponsored by the
+Depaftment of Agriculture
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+ORDINANCE NO, OLLO-22
+SERIES ol 2022
+AN ORDINANCE GRANTTNG THE REQUEST OF MR. RICO RADOC FOR
+ADDITIONAL ALLOWABLE USE FOR THE OPERATION OF EARTHFILL
+QUARRY, LOCATED AT LUAC, BARANGAY BAYABAS, TORIL
+DISTRICT, DAVAO CITY
+!
+
+Ord. No. 0lt0-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST OF MR. RICO RADOC FOR ADDMONAL ALLOWABLE USE FOR
+THE OPERATION OF EARTHFILL QUARRY, LOCATED AT LUAC, BARANGAY BAYABAS,
+TORIL DISTRICT, DAVAO CTry"
+SECTION 2.
+- Article XII, SECTION 1 of the
+Comprehensive Zoning Ordinance of Davao City provides for requests for additional
+allowable use which reads:
+"The uses enumerated in the preceding articles on general zone and allsub-zones are not exhaustive nor all- inclusive. The SANGGUNIANG
+Panglungsod, upon application of the prolect proponent and upon
+favorable recommendation by the Local Zoning Board of Adjustment and
+Appeals (LZBAA) may allow other uses not enumerated therein as it may
+deem fit and proper including, but not limited to, the following projects
+which are socio-economic and environmental significance and/ar national
+interest by a 3A majority vote of all Members of the SANGGUNIANG
+Pa n lungsod th ro ug h resol ution a nd ordina nce'i
+SECTION 3. APPROVAL OF REOUEST - The application of Mr. Rico Radoc
+peftains to Additional Allowable Use for the proposed Commercial Eafthfill Quarry, located
+at Luac, Barangay Bayabas, Toril District, Davao City. The subject property within the
+Medium Density sub-zone (R-2) with a total area of Six Thousand Six Hundred TwentyThree (6,623) square meters covered under Transfer Ceftiflcate of Title No. CL-2594 is
+hereby APPROVED.
+SECTION 4. MANDATORY REVIEW - This Ordinance shall be subjected to
+mandatory review by the SANGGUNIANG Panlungsod after a period of Three (3) years from
+its effectivity and every Three (3) years thereafter. The grant for Additional Allowable Use
+is deemed in effect unless this Ordinance is amended, repealed, modified or revoked
+accordingly. Notwithstanding the foregoing, the SANGGUNIANG Panlungsod may review
+this Ordinance before the expiration of the Three (3) year period herein provided.
+SECTION 5. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of the Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof are not affected by such declaration and shall continue to be in full
+force and effect.
+SECTION 6. EFFECTMW CLAUSE- This Ordinance shall take effect
+immediately upon approval.
+ENACTED, on the 29th day of November 2022, by a unanimous vote of all the
+Members of the Sanggunian present.
+t
+
+^ %l^fr ). l,^-
+CHARTTO'N. qANTOS
+Secretary to the Sangguhiang Panlungsod
+(City Government Department Head II)
+Ord. No. 0tt0-22
+CERTIFIED CORRECT:
+, j,,:i.rrr..r) Affis.vSFAFTFft TFIE LAffi. QF
+l,
+APPROVED
+2022
+ATTESTED:
+J. ME
+P}
+LCHpR B. QUrrArN JR.
+1\tice Mayor
+Presiding Officer
+cns/malvin
+i
+T t;{,r
+SEBASTIAN Z. DUTERTE
+City Mayo1, t
+fi
+ATTESTED:
+ATTY. FRANCIS MARK H. LAYOG
+Acting City Administrator
+AN ORDINANCE GRANTING THE REQUEST OF MR. RICO RADOC FOR ADDITIONAL ALLOWABLE USE FOR THE
+OPERATION OF EARTHFILL QUARRY, LOCATED AT LUAC, BARANGAY BAYABAS, TORIL DISTRICT, DAVAO CITY

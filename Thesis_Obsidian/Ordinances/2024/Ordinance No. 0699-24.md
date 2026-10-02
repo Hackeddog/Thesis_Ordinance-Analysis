@@ -1,0 +1,256 @@
+---
+ordinance_number: "0699-24"
+title: "Ordinance No. 0699-24"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0699-24 Amendment UAV (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.2
+detected_enactment_year: null
+detected_ordinance_number_year: 2024.0
+detected_series_year: null
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0699-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2024 |
+| Series header | - |
+| Approval date | 2020 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+, Repirblic of the Philippines
+20tr'City Council
+44s Regular Session
+Seriesof U0f24
+PRESE]IT;
+Vice Mayor
+Councilo,r
+Councilor
+Cqncllor
+Councilor
+Councilor
+Councilor
+Courrcitor
+Councibr
+Councilor
+Councilo,r
+C,ouncilor
+Councilor
+Courcilor
+Councilor
+Councilor
+Councilor
+Conncihr
+Councitor
+Councilor
+Councilor
+Councilor
+Courctlor
+Councllor
+J. tvlelchor B. Quitain Jr.
+Marissa S. Abella
+Bai Hundra Cassandra Dominique N. A&innda
+eer*erO E. il-aE
+wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostolsr.
+Conrado e Bakran
+les$e M. Bo$gr$qilI
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+E@tr P. Ihry*n Jr,
+Richlyn N. Justol-Baguilod
+Diosdado Angelo lunior R. Mahipus
+Rodotfo M. Mande
+Kristine $4ayJotm Ahdul Mercado
+Btrrz Andre A. ttti&ar
+Temujin B. Ocampo
+Myma G. LDalodo€rtiz
+Albefto T. Urgab
+Lsenzo Asgarnin D. Vifl#rerte
+leuls Josptr P, Zffiratlo EI
+Nib i4 Abellera Ir.
+Luna Maria Dominigue S. Acmta
+January N. Duterte
+- Presiding fficer
+- On Dorn$ic Ernergency Leave
+- Oe l-Day Posithe Life Skills
+Sem.inar qf the ECrc
+- oB-Attended $te 4E erarter
+National Council Rssembly
+(Year-End Assessment)
+ABSENT:
+Councilor
+C.ourrcilor
+Councilor
+Councilor Trtsha Ann J. Villafuerte
+oRDTNAI{CE ItO. 0699-24
+SERIES at ZAiLA
+Ail ORDIITAIT|CE AttErrDrNG oRDIITTUTCE IrO. O4t9-2O, SERTES OF
+2O2O, EIITITLED oAIf ORDIllAllC,E REGULATING UIIMANTTED
+AERTAI vEHrcLEs (UAVs), REMoTELY PrtoTED AERHL Ur{rrs
+(RPAIE), OR AIM nel{OretY PILOTED AERIAT SYSIEI| (RPAS] Itt
+T}IE CITY OF DAVAO" AI.S(O KM)WN AS THE ODROil\IE RBGULATIOII
+ffitrIrru$cE oF DAVAO Crrr "o
+il$crt Dt pRorfiSrolst ABffrr
+PEIIALTIES, IIO GONTEST PROVISIOil, AIID CIIATIOI| TIC|GI!;
+
+Ord. No. A699-24
+Be I ordained by the SANGGUNIANG Panlungsod of Davao City, in sesion
+assembled, that:
+SECTIOil 1. TITLE - This Ordinance shall be known as'AN ORDINANCE
+AIIENDTI{G ORDrI{AITCE N(} O419-2O, SERTES OF 2O2q EilTrrtED *AI{
+ORDI}IAIICE REGULATIIIG UilHA}rilED AERIAT yeucr.rs (UAVs),
+REItlorE[Y PILOTED AERTAL uI{ITs (RPAUs), oR Atty REMorEty
+PILOTED AERIAT SYSTEM (RPAS) IN THE CITY OF DAVAO- ALSO KNOWN
+AS THE *DRONE REGULATIOil ORDINANCE OF DAVAO CITY- TO IilCtUDE
+PROVISIO]IS AB0'T PENALTIES, ilO CONTEST PROVISIOil, AT{D
+CITATIO}T TICI(ETS".
+SECTION 2. OBIECTM - This Ordinance aims to include additional
+provisions on the penalties under Ordinance No. 0419-2Q Serbs of 2020, for
+proper implementation and enforcement of the Publh Safety and Security Office
+(PSSO), its tryefl as the mernhrs of the Safery and
+-security
+Auster for
+apprehensions.
+sEcrroN 3. AMEilDMEilT - SECTION g (penalty) of ordinance No.
+Mt9-2A, SERIES of 2A20, otherwise known as the "Drone Regulation Ordinance of
+Davao Oty'sha$ be arnerided as follorcrs:
+SECTION 9 (Penalty)
+Any violation of the provisions of this Ordinance shall be punished as follows:
+a For l{m-registration, oF transf,er, or fdsifiration, or dterdbn of
+issued registration:
+1st Offense . fine of P3,000
+2nd Offense - Confiscatlon d Drone and a fine of P5,000
+b. For operating in No-fly zones or Prohibited or Restricted Airspaces:
+Irnnrediate confiscation of Drone and a fine of P5,000.
+Providd that Ure operdion of a non-registered *one over
+prohibited/re*rkted airspace of a no-fly zone, shall constitute two separde
+offienses under this Ordinance.
+Provided that the Public Safety and Security Office (PSSO), Davao City Police
+Offtce (DCPO), Task Force Davao ffFD), or any other law enforcernent agency
+shall be altou,ed to use any tawful and reasoqlable meilns necessry to
+neutralize any drone determined to be imminenty dangerous to the general
+welfare of the people, and to obtain possession of, or confiscate any drone
+that has been neutralized and/or found within the prohibited/restricted or
+no-fly zones.
+Provided further, that prosecuUon under this Ordinance for non-registration of
+the drone or the operation of drones in prohibited/restricted areas or no-fly
+zones, shall not be a bar to fufther prosecution for other offenses under the
+Philippine laws.
+
+Ord. No. 0G99-24
+SECTIOIT 4' ADDET{DUII| - Two (2) zucceeding separate sections shall be
+included after the provision of SECTION 9 of Ordinance No. O4Lg-20, SERIES af 2020,
+othenafise known as the "Drone Regulation Ordinance of Davao CiFl', to be refened
+and statecl as follows:
+sectlon 9-A. (ordinance viotaflon Receipvcitation Ticket)
+An ordinance violation Receip! otherwise known as a CITATION
+TICKET, shall be issued to violators of this Ordinance. The citation ticket shall
+state the name, address of the v[qlator, address where the violation was
+cornrnitted, dated and tirne, Ble speciflc violation cornmitted, a$d the
+provisions of the succeeding SECTION, "no-contest provision."
+The PSSO and such other appropriate enforcers, as rnay be deputized
+by the City Mayor, shall have the power to apprehend viotators of this
+Ordinance and issue citation ticketsThe City Mayor may deputize Barangay fficials or representatives of
+the private sector, non-government organizations and government
+organizations in the strict implementation and enforcement of this Ordinance,
+as the need aris.
+SECTION 9-8. (Settlement and No Contest provision)
+Any first tirne violator of this Ordinance who does not wish to contest
+Bte same and is willing to pay voluntarily within seven (7) working days Bre
+fine imposed under this Ordinance before the filing of a complaint before trre
+ffice of the city Prosecutor shall be allowed to do so, and shall pay the
+corresponding administrative fine as cited in Sction 9 at the City Treasure/s
+ffice (CfO). Availment of the no-contest provision shall exempt a person
+from criminal liability under this Ordinance.
+The Clty Legal Office (CLO) and the CEy Treasurer's Office shall provide
+for the prccedure for the availment of the "No-Contest Provision" and establish
+a c:lse inventory and recording system of all violators of this Ordinance.
+All proceeds from the payment of the herein imposed fine shall be
+apportioned as follows:
+1. sixty percent (600/o) of the amount collected per apprehension shall
+accrue to the apprehending barangay; and
+2. Forty percent OAalo) shall accrue to the General Fund of the Cilfy.
+SECTIOH 5. DROiIE NEUTRALIZATION - The enforcernent group and
+deputized agents of the Civil Aviation Authority of the Philippines (CAAP) included
+under the Tedtnical Wo*ing Group ffWG) of this Ordinance, headed by PSSO, shafl
+proctlre a drone neutralizatlon device/sySem intended to phy$cally disable and jam
+any furms of UAVs. They shall likewise create methods and/or protocols fior
+neutralization including physical measures and electonic counter measures.
+SECTION 6. EIIFORCEITIENT PROCEDURE - The enforcement group and
+Ute deputized agents of CAAP as headed by PSSO shall create methorts of
+enforcement prccedures in apprehending violators of this Ordinance. The same
+meffiod should be uniform and be followed accordingly by the concerned agencies.
+
+,
+Ord. No.0699-24
+SECTION 7. REPEAIING CLAUSE - All other ordinances, local rules, and
+regulations that are inconsistent with the provisions of this Ordinance are hereby
+rcpealed, amended, or modified accordingly.
+SECTIOII & SEPARABILITY CTAUSE - If, for any reason, any sectlon or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force
+and effect.
+SECfrOil 9. EFFECTIYTFY - This Ordinance shatt take effect irnnrediately
+upon approval.
+EIIACTED, on the 26h day of Novernhr 2024, by a unanimous vote of all
+the Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ Ar,,*a1.'hCHARITO N. SANTOS
+City Government Department Head II
+(Secretary to &e SANGGUNIANG Panlungsod)w
+ATTESTED:
+I.
+DEC 1 g 202{
+APPROVED:
+2424
+DUTERTE
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDINANCE AMENDING
+NO. A4t9-2A, SERIES OF 2020, ENTILED .AN
+ORDINANCE REGUIATING UNMANNED AERIAL VEHICLES (UAVs), REMOTELY PILOTED AERIAL
+UNITS (RPAUS), OR ANY REMOTELY PILOTED AERIAL SYSTEM (RPAS) IN THE Crry OF DAVAO"
+ALSO KNOWN AS THE 'DRONE REGUTATION ORDINANCE OF DAVAO C[TY" TO INCLUDE
+PROVISIOf{5 ABOLrr PEilALTIES, NO CONTEST pROtlSIOtt, AilD CITATION TI€KET]S
+b/-
+irErcrroR B. QUfiAIT{ JR.
+/vire Mayor
+Presiding Officer
+cns/ray
+SE
+cty
+!
+ctv

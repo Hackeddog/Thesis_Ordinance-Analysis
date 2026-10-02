@@ -1,0 +1,189 @@
+---
+ordinance_number: "0635-24"
+title: "Ordinance No. 0635-24"
+date_enacted: null
+approval_date: "2024-09-28"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0635-24 (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.7
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2026.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0635-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2026 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+t
+20u,
+ncil
+34s Regular Sssion
+SERIES 6 20,24
+PRESENT:
+RepuUlic of the Philippines
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo+4. Abellera lr,
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Pilar C. Braga
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+Rutrolq lqan&
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo€rtiz
+Ahefto T. lJngab
+Lorcnzo Benjamin D. Villafuerte
+Trisha Ann J. Viltafuerte
+Jesus Joseph P. Zozobrado III
+- Presiding fficer
+- On Special Privilege leave
+- On Special Privilege Leave
+- On Maternity Leave
+- On Vacation Leave
+' On Vacation Leave
+- OB- Attended ttre 2024 Liga
+ng mga Barangay Davao City
+Chapter Congress
+Vice Mayor
+Councilor
+&ur"dor
+Courrcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Carrcih
+Councilor
+Councilor
+Councilor
+Councilor
+C,guncilor
+Councilor
+Councilor
+Councilor
+AESmfIiCouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Luna Maria Dominique S. Acosta
+Wilberto E. Al-ag
+lessica M. Bonguyan
+Louie John J. Bonguyan
+Augusto Javier G. Campos III
+January N. Duterte
+Councilor Richlyn N. lustol-Baguilod
+ORDINANCE NO. 0635-24
+SERIES of 2026
+AilI ORX'IilAilICE FOR TI{E TSIFORARY CTOSUNE TO VEI{ICTTLAft
+TRAFFIC A PORTIOT OF THE COASTAT R(}AD (HALF L*TIE Oi$LY} ON
+SEPTEIIBER 28, zo2{., FRoll 8:fl) Pl,l uP To l2:fl) ilil)I{rcHT FoR
+THE PREPARATIOT{ AND SET-UP, AND oN SEPTEMBER 29, 2024,
+FROM 12:O1AM UP TO 8:fi} AM ONIY FOR THE El,ENTs PROPE& IN
+COHilECIIOil WIIH THE REQUFST OF DR" ERltM t{- FALLER,
+PRESISflT OF TTIE PHITIPPN|E PHAR}IACISTS ASSOCIATIOHDAVAO CITY C}IIPTER IN THEIR UPCOMI]IG ET'ENT DUBBED AS,
+"PHARMA RUN 2024:RUN FoR HEALTH,, TN CELEBRATTON oF THE
+WORLD PHARMACISTS DAY 2024
+
+Ord No. 0635-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled,
+that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDII{AI{CE FOR T}lE
+TETIPOR,TRY CTOST'RE TO VEHTCUIAR TR'IFETC A FORTN'IT OF TTTE OOASIAI
+ROAD (HALF LANE ONIY) Oil SEPTEMBER 28, 2024, FROM 8:fl1 PM Up TO 12:(Xl
+MrDttrGHT FOR THE PREPARATTON AND SET-UP, AND ON SEPTEMBER 29,2O24r
+FROM 12:01 AM UP TO 8:00 AM ONLY FOR THE A/ENTS PROPE& IN CONNECTION
+wrrH THE REQUEST OF DR. ERWrN M. FALLE& PRESTDENT OF TltE pHrlrppflrE
+?Ti*Ril'IACISTS ffi,CTATX}Tt{}AYftO CITY CIIAPIER II{ TI{EIR t,FCOO,fiilG
+EVENT DUBBED AS, .PHARMA RUN 2O24:RUN FOR HEAITH", IN CELEBRATION OF
+THE WOR.TD PHAR,}IACISTS DAY 2024"
+SECTION 2. DECLARATIOI{ OF PTOLICY - SECTION 21 (c) of RepublicAct No. 7L60,
+otheftrise known as the tocat Govemnent Code of L99t, provides that "any national or local
+mad alley, parlq or square may be temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial fairs loo<'.
+SECTION 3, fEMPORARY CLOSURE - In connection with the upcoming "PHARII4A
+Rt N 2024: RUN FOR HEALTH* in celebration of tfie Wortd Pharmaci$s Day 2A24, Dr. Erwin
+M. Faller requested for a temporary road closure.
+SECTION 4. SEPARABITITY CLAUSE - If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hercof
+not affected by such declaration shafl continue to be in full force and effect.
+SECTIOH 5. EEfElgf$lry - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 10h day of Septemtrr 2024, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+w
+MA. THERES A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(City Government Assistant Depaflrnent Head IIf
+ATTESTED:
+,. MEL#[B. eurrArN rR
+/ Vice Mayor
+Presiding Officer
+or/mak
+
+l
+r
+H. LAYOG
+Ord No. 0635-24
+APPROVED:
+sEP 2 { 2Ci4
+Z. DUTERTE
+t
+2024
+crty Mryrd
+ATTESTED:
+ATTY.
+City
+AN ORDINANCE FOR THE TEMPORARY CLOSI.,,RE TO VEHICI.,IAR TRAFFIC A PORTION OF THE COASTAL
+ROAD (HALF l-AtlE ONLY) ON SEPTEMBER 28, 2024, FROM 8:@ PM UP TO 12:([ MIDNIGHT FOR THE
+PREPARATION AND SET-UP, AND ON SEPTEMBER 29,2024, FROM 12:01 AM UPTO 8:00 AM ONLY FOR
+THE EVEi{T5 PROPE& rN CONNECIION vYrTH THE REQUEST OF DR. ERWrN M. FAIrE& PRESIDENT OF
+THE PHIUPPINE PHARMACISTS ASSOCIATION-DAVAO CITY CHAPTER IN THEIR UPCOMING B/ET.IT
+DUBBED AS, *PHARMA RUN 2024:RUN FOR HEALTH", IN CELEBRATION OF THE WORTD PHARJ.4ACISTS
+DAY 2024

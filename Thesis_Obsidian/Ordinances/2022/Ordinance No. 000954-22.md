@@ -1,0 +1,253 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AMENDING ORDTNANCE NO. 0105-19, SERIES oF 2019, ENTITLED *AN ORDTNAI{CE GRANTING ANNUAL FrilANCrAr ASSTSTANCE TO ALr QUALTFIED SENTOR CrrrZEIrlS OF DAVAO CITY\""
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000954-22.pdf"
+section_count: 13
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 0.3
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, type/amendatory, topic/ordtnance, topic/entitled, topic/ordtnai, topic/granting, topic/annual, topic/frilancrar]
+---
+
+# Ordinance No. 000954-22
+
+> AN ORDINANCE AMENDING ORDTNANCE NO. 0105-19, SERIES oF 2019, ENTITLED *AN ORDTNAI{CE GRANTING ANNUAL FrilANCrAr ASSTSTANCE TO ALr QUALTFIED SENTOR CrrrZEIrlS OF DAVAO CITY"
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+tgth city Council
+18h Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councillor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Alberto T. Ungab
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+On Leave
+On Sick Leave
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Danilo C. Dayanghirang
+Councilor Bonifacio E. Militar
+ORDINANCE ilO. 0954.22
+SERIES of 2O22
+AN ORDINANCE AMENDING ORDTNANCE NO. 0105-19, SERIES
+oF 2019, ENTITLED *AN ORDTNAI{CE GRANTING ANNUAL
+FrilANCrAr ASSTSTANCE TO ALr QUALTFIED SENTOR CrrrZEIrlS
+OF DAVAO CITY"
+
+Ord. No. 0954-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+ARTICLE I - TITLE, SCOPE, PRTNCIPLES AND POLICIES
+SECTION 1. EtE - This Ordinance shall be known as "THE AMENDED
+ANNUAL FIilANCIAL ASSTSTANCE TO ALL QUALTFTED SENIOR CrTIZENS
+ORDINANCE OF DAVAO CIil."
+SECTION 2. DECLARATION OF POLICIES. Article XV, SECTION 4 of the 1987
+Philippine Constitution declares that it is the duty of the family to take care of its elderly
+memberc while the State may design programs of social security for them. In addition
+to this, SECTION 10 in the declaration of Principles and State poliry provides that the
+State shall promote social justice in al! phases of national development. Fufther, Afticle
+XIII of the Constitution provides that the "State shall adopt an integrated and
+comprehensive approach to health development which shall endeavor to make essential
+goods, health and social seruices available to all people at affordable cost. There shal!
+be a priority for the needs of the elderly."
+SECTION 3. PURPOSE. This Ordinance aims to suppoft Senior Citizens in the
+cost of their maintenance for medicines and other expenses relative to their health.
+SECTION 4. AMOUNT OF FINAilCIAL ASSISTAilCE. Qualified Senior
+Citizens shall be entitled to a financial assistance in the minimum amount of One
+Thousand Five Hundred Pesos (P1,500.00) annualy.
+SECTION.5.@Theapp!icantmustpossesallthefollowing
+qualifications, to wit:
+a. Must be at least, sixty (60) years old within the calendar year starting
+2422;
+b. Must be a holder of an original Senior Citizens Identification Card
+issued by the Office of Senior Citizens Affairs (OSCA) of Davao City;
+c. Must be a registered voter of Davao City as evidenced by the list of
+registered voters issued by the Commission on Elections (COMELEC),
+except:
+1) Those senior citizens aged 75 years old and above who are not
+registered voters, provided that they have a certificate of
+residenry of at least five (5) years issued by the barangay where
+they are residing;
+2) Those senior citizens with disability who are not registered
+voters, provided that they have a valid PWD I.D.;
+d. Must be a member of a duly recognized Senior Citizens Organization
+recognized by OSCA and City Social Welfare and Development Office
+(CSWDO). Provided that no financial contribution shall be a
+requirement for their qualification to receive financia! assistance
+under this Ordinance;
+I
+
+Ord. No. 4954-22
+e. In case of permanent bedridden senior citizen due to illness, who is
+not a registered voter, he/she must present a ceftification from
+CSWDO assigned in the barangay as to his/her condition.
+SECTION 6.
+.
+1. Composition - The Grievance Committee shall be composed of the
+following:
+a. OSCA Head or an authorized representative
+b. CSWDO Head or an authorized representative
+c. Davao City DILG Director or an authorized representative
+d. Chairperson, Committee on Social Services of the SANGGUNIANG
+Panlungsod or any member in case of his absence;
+2. Functions - The Grievance Committee will settle any qualification
+issue duly referred to it through a written complaint within the
+period of three (3) working days from receipt thereof.
+SECTION 7. ENETEEENf. - The Office of Senior Citizens Affairs (OSCA) of
+Davao City, the City Social Welfare and Development Office (CSWDO) and the CityDepartment of the Interior and Local Government (City-DILG) shall enforce this
+Ordinance.
+CSWDO shall take charge in the processing of the application and shall prepare
+the payroll of the qualified applicants.
+Recipients of the financial assistance shall be given ten (10) days to claim the
+benefit from the Barangay from the date of notice of distribution after which the
+unclaimed amount will be returned to the City Treasurer.
+SECTION 8. FINANCIAL ASSISTANCE DISTRIBUTION. - The annual
+financial assistance to all qualified senior citizens of Davao City who have been
+receiving the financial assistance since 2020 shall be given every second week of
+November while those senior citizens who are 60-64 years old will staft receiving
+financial assistance every second week of November each year stafting 2022 if funds
+are available, if not, it will take effect in 2023. The financial assistance shall be directly
+downloaded to the barangay and be distributed by the barangay officials to be led by
+the barangay treasurer, in coordination with the City Social Welfare and Development
+Office (CSWDO).
+SECTION 9. BUDGETARY ALTOCATION, - The budgetary requirement for the
+annual financial assistance to senior citizens shal! be included in the annual budget of
+the City subject to the usual auditing and accounting rules and procedures.
+SECTIOil 10. FINANCIAT ASSISTANCE FROM THE BARANGAY. - The
+Barangay may likewise grant the same benefits to its senior citizens with funds to be
+taken from its Real Property Taxes (RPI) subject to the availability of funds.
+
+Ord. No. 0954-22
+SECTION 11. AMENDMENT CLAUSE. - This Ordinance shall be subject to
+review every two (2) years by the SANGGUNIANG Panlungsod and any amendment
+thereof shall be done after two (2) years from the approval of this Ordinance.
+SECTION 12. PENALTY. - Any Barangay Captain who shall wrongfully issue a
+ceftificate of residency shall be administratively and criminally charged for falsification
+of a document under any applicable existing law.
+SECTION T3. IMPLEMENTING RULES AND REGULATIONS. _ The
+implementing unit shall formulate and adopt the Implementing Rules and Regulations
+within 90 days after the approval of this Ordinance.
+SECTIOT{ 14. REPEALING CIAUSE. - All ordinances, resolutions, rules and
+regulations whose provisions are inconsistent with this Ordinance are hereby repealed,
+amended or modified accordingly.
+SECTION 15. APPLICABILITY CIAUSE. - The provisions of existing
+ordinances, resolutions or executive orders which are not contradictory with this
+Ordinance are hereby adopted as an integral part thereof.
+SECTION 16. SEPARABILITY CIAUSE. - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected thereby shall continue to be in full force and effect.
+SECTION 17. EFFECTMTY. - This Ordinance shall take effect upon its
+approval.
+EilACTED, on the 17s day of May 2A22, by a unanimous vote of all the
+Memmbers of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cfrWM.Jrr,*n
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaffient Head II)
+ATTESTED:
+rur{
+4ZBERrO0. UNGAB
+/ Acting Vice Mayor
+Temporary Presiding Officer
+cns/mjb
+
+i
+i
+a
+ATTESTED:
+Ord. No. 0954-22
+1o)E n
+APPROVED:
+JUN fi g 2022,2022
+SARA Z. DUTERTE
+-
+C1W Mavol,
+ATTY. ZULEIKA T. LOPEZ
+City Administrator t
+IIII.IRISTAII
+Adhg
+Z. DUTERTE
+Acting City Mayor tr
+AN ORDINANCE AMENDING ORDINANCE NO. O1O5-19, SERIES OF 2019, ENTITLED *AN ORDINANCE
+GRAI.TTING ANNUAL FINANCIAL ASSISTANCE TO ALL QUALIFIED SENIOR CITIZENS OF DAVAO CITY"

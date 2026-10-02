@@ -1,0 +1,489 @@
+---
+ordinance_number: "0324-17"
+title: "AN ORDINANCE GRANTING IfGI$XTTVE AIJNTORITY TO THE CITY IVIAYOR TO ENTER INTo AND SIGN, roR AND IN grFlAl-r oF THE CITY GoVERNMENT oF DAVAo, THE MEMoRANDUMoFAGREEMETwtmontToBEENTE-REDINToBYANDBETWEENTHE CITY GOVERNMENT OF DAVAO NT*TO TTOUV CHITD OF DAVAO COTLEGE RELATIVE TO rrs ENGAGEMETw IN THE nrrrncnnr pRoGRAM FoR DRUG REF0RMIST\", duty signed and notarized, for your appropriate action ATTY. For"
+date_enacted: "2017-11-07"
+approval_date: "2018-01-09"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0324-17.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.65
+detected_enactment_year: 2017.0
+detected_ordinance_number_year: 2017.0
+detected_series_year: null
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/granting, topic/ifgi, topic/xttve, topic/aijntority, topic/iviayor, topic/enter]
+---
+
+# Ordinance No. 0324-17
+
+> AN ORDINANCE GRANTING IfGI$XTTVE AIJNTORITY TO THE CITY IVIAYOR TO ENTER INTo AND SIGN, roR AND IN grFlAl-r oF THE CITY GoVERNMENT oF DAVAo, THE MEMoRANDUMoFAGREEMETwtmontToBEENTE-REDINToBYANDBETWEENTHE CITY GOVERNMENT OF DAVAO NT*TO TTOUV CHITD OF DAVAO COTLEGE RELATIVE TO rrs ENGAGEMETw IN THE nrrrncnnr pRoGRAM FoR DRUG REF0RMIST", duty signed and notarized, for your appropriate action ATTY. For
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2017 |
+| Series header | - |
+| Approval date | 2018 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 18,762 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2017\Ordinance No. 0324-17.txt`*
+
+OFFTCE OFTHE CTTYMAYOR
+t
+E
+crsA
+Z,pl:
+Ref. No. C&G2018-05//2
+6s tttooRsEMENT
+Augttst 30.2018
+tt
+1'll a.*t
+t?tngY5O-.'
+Respectfully returned to Ms. Charito N' Santos, secretary to the SANGGUNIANG
+panlungsod, this city, the hqgl EndorsenrenvRecom'mendation No' 199' SERIES of
+2O1g dated August 23,zl[gor attv. iniique lunior A. Bonocan, Attorney IV, city Legal
+office, rerative to the attacfred ordinancl No. 0324-17, SERIES of 20t7 entitled, "AN
+ORDINANCE GRANTING IfGI$XTTVE AIJNTORITY TO THE CITY IVIAYOR TO ENTER
+INTo AND SIGN, roR AND IN grFlAl-r oF THE CITY GoVERNMENT oF DAVAo, THE
+MEMoRANDUMoFAGREEMETwtmontToBEENTE-REDINToBYANDBETWEENTHE
+CITY GOVERNMENT OF DAVAO NT*TO TTOUV CHITD OF DAVAO COTLEGE RELATIVE TO
+rrs ENGAGEMETw IN THE nrrrncnnr pRoGRAM FoR DRUG REF0RMIST", duty signed
+and notarized, for your appropriate action
+ATTY.
+For the CitY MaYor:
+Assistant
+DOMINGO
+?
+RELEASED
+hw,.
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+pAw @
+LIFE
+IS HERE
+O -L-B
+
+OFFICE OF THE CITY'LEGAL OFFICER
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc26712251230
+o0o
+-jLj-l!L.
+r
+fiEilIN,4IiI{E i'f{i S3I4-1I. 5EFJE3 {}F t$lt EF;TITLEI} "-i.i..
+GIISII-"I"4I-,i{-1E GH.nJ,iTiF;L; LEitri5L.&TI-vE,+T_iTHi}HITt' T{i THE
+[.IT1', ]...L$.t,_R T* E].iTEE i]..IT* AI-.IE 5i*I{, F*E iiHIr ii"+
+BEHALF *F TFIE tITr- &.}t'[,1i1git"'gi-;''1' Lff 1iAr*'.s'*, T5gE
+II'I81,:'fL:ICA-?IIDL!-&.{ fI_''F .TIfIT'EE}:".IEF{T {h{C'AJ TL] EE E+,ITEITET'
+I}JTL] EY "8ffT3 EETI.IJEEI\ TFiE CITA't]f,iT"'EEJrih"IM'iT C'F IiAT,,'AL-'i
+.q]TE H{}LY T}fiLL} {}F I}*.10"8.L1 C{}LLEIGE I{ELATIIIE Tt} iT5
+E}.J{],TGE}N"SE}{T I}."J TF{E,+FTEF{C,AJPJ FRL-'t{fF*TJ!{ F,_=F, I}F;LA]
+IrEEr-}If?-,.fTqf'
+lall
+Lrl-d9gE,l
+5Ti{ Inii.srsement
+i._.
+j t:-!qLsL
+!9
+tr_.
+Resl:ectr'ully retts=red t* the {}ffice *f tfie C-rry i'"tayar. tlir*u.gh ntt-5
+Tr*tan ltr.a'iEht F n*nrirrgc, A:,ri*tartt'*firI Aiisfti$istrat,rr iA,i:ti-:rut'atior*, ?:+drtliis tity, the ai:orr* *ui:iert 311&ffer', t'rgrther t'i{h s*.*r pe-iti:i*nt ,j{r':,.ur-rc-E-its
+rei.ate.J thei'*t,:, i{uly n*tarteed ar: i'eif-1gst-gd
+r .-.?
+fta
+.ffffif--
+a-'Hta-jHI
+I ili
+il
+,
+_:j qr
+I_r!s.I
+L:-.
+ii
+.-j!4
+i
+LjLjgllgi
+iLLj
+.{TTY EFJFJLILIE fLiI-JIL-iF; .q ELfr.,iCt{:.AhI
+AttarrrtY Ir'i
+ri- EJ lJ l=,1 ! !,. E+. I -r
+1.r:t
+t
+ai_-.ir
+lH'r.ra
+!r_r
+?llili
+UELJ!
+ri
+lr
+li_a.
+.r --r
+-.:-'a-l ? - - -7.-.ii-'----
+---r--
+:'Ll;l;L. 'r'1L_1. LtEifl L.ill.l{-tI. L.fi'-
+. .;lct oF IHb ('Ty Ao,rflNtsTRArs
+ctTY t{Ar.I $
+ITGLIVED 8Y:
+tA-!-.
+IML.
+SERIES
+No.
+rak_ 0C7.11
+r.r-€,'..'tl:';
+
+i RepublicofthePhiliPPinesg' '
+OFFICE OF THE. CITY MTilYOR
+t7
+Ref. No. CAdO-2018-05772
+TDPDlchih
++s tttooRsEMENT
+August 15, 2018
+o
+rn
+C)
+*
+*
+Respectfully fc,rwarded to Atty. Osmundo P. Villanueva, lr., Officer-InCharge, City LeEal Of-flce, this city, the errclosed documents relative to Ordinance No.
+0324-L7, SERIES of 20L7, entitled, "AN ORDINANCE ' GRANTING LEGISI-ATIVE
+AUTHORITY TO THE I:ITY MAYOR TO ENTER INTO AND SIGN, ffiR AND IN BEHALF OF
+THE CMY GOVERNMENT OF DAVAO, THE I\,1EI\4ORANDUM OF AGREEMENT (MOA) TO
+BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND HOLY
+CHILD OF DAVAO C.)LLEGE REI.ATIVE TO IT5 ENGAGE}4ENT IN THE AFTERCARE
+PROGRAM FOR DRIrG REFORMIST", with the herein attached Memorandum of
+Agreernent duly signeil by both pafties, for notarization.
+for the City Mayor:
+ATTY,
+P. DOMINGO
+i)
+EMO - ERD
+RELEASED
+.16 AUU ZU1U q"0[ A
+{
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City.,
+(082) ],24-3004 o (082) 2,r1-1000 loc. 255 o davaocitymayor@gmail.comr
+LIFE
+IS HERE
+po;,oSZA@
+*
+*
+
+a\.
+Republic of tfre Philippirres
+Gty of Davao
+Offiae of fte SANGGUNIANG Panlungsod
+OFFICE OF TI4E ctw qrlHlIIlSTR,AToR
+CIT\ flru-u Of f:tCe
+RECEIVED BY:
+DAVAO crTY ha/ow
+3rd Indorsement
+July 2,2018
+DATE:
+TIME:
+Respectfully forwarded to SARA Z. DUTERTE, City Mayor, Davao City,
+thru: MS. MARI GRACE P. NABONG, Officer-In-Charge, Correspondence and Records
+Division, the herein documents relative to City Ordinance No. O324-L7, SERIES of
+20T7, entitled "AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY
+MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT
+OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN THE CITY GOVERNMENT OF DAVAO AND HOLY CHILD OF DAVAO COLLEGE
+RELATIVE TO ITS ENGAGEMENT IN THE AFTERCARE PROGRAM FOR DRUG
+REFORMIST, duly corrected, for your information, guidance, and appropriate action.
+Thank you.
+94,
+Supe
+ng Administrative Om$r
+JOS
+LMER M. CABALI
+,IUE UF THh (JFY AOMINISTRATO.
+clTv r{Ali OFFIC
+&AVA,.' GIi \
+(ECIIVED BY:
+,l*t.
+'r i.
+jmclnta
+RECEIVEE
+CA/O " CRD
+l*- AJt
+
+.
+! REPdBLIC OF T.HE PITILIPPINES
+() ",' (:;OVEI'lNlil EN i- OF DAVri(t
+CITY
+.DRUG ABUSE CO UNCIL
+cl'r\' \1,\\'oR's oFF IC 11.
+Almendr$s Gyrn. Oumpo Blvd., Oav.o Cily
+E-rnarl: ccdocriavao'Ogmcil.coro . Tel. No: (0821 225'0102 .' 10831 235' t216
+,111,
+Y
+Second Endorsement
+May 7,2018
+Respectfully forwarded to MS. CHARITO N. SANTOS, Secretary to
+SANGGUNIANG Panglungsod, the herein documents relative to the CORRECTED
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE
+GOVERNMENT OF DAVAO AND TARA NA CBRAP PARTNERS.
+For the CADAC Action Officer:
+CONCE
+RN/ MAN
+nical Adviser
+Drug Prevention and Rehabilitation
+' tiiY+F
+CITY
+v
+i
+,,,T;*[3
+, t;l
+Zf.-r't
+/ al-e*[B
+
+iG= 'G 'Reputflic'ofthePhilippines ;
+,
+:
+-i
+OFFICE OF THE"CITY MAYOR
+City of Dav'ao
+6.
+COR RESPON DENCE AN D RECORDS DTVISION
+tauhVd\ tb@
+3td rndorsement
+March 15, 2018
+Respectfully returned to Mr. Michael Denton P. Apoftadera, OfficerIn-Charge, City Anti-Drug Abuse Council, this City, the herein Ordinance nos.
+a3L9-L7, 0320-L7, 0322-L7, 0324-L7, 0325-t7, 0326-t7, 0327-L7, 0328-L7,0329t7, 0330-17, 0331-17, 0332-L7,0333-17, 0335-17, 0379-L7 all SERIES of ZAfl of
+the SANGGUNIANG Panlungsod, with the request to comply recommendation stated
+under Legal Opinion no. 13 SERIES of 2018.
+MARI
+Officer-I
+,KHLffiA5Hffi
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227-2577 . (082) 224-5878 ' davaocitymayor@gmail.com
+*
+:lb
+tlv.
+
+/
+,
+Repqb_[g o!$qPlilippines
+OFFICE OF TIIE SANGGUNIANG PANLUNGSOD
+2nd Indorsement
+March 7,2018
+Respectfully forwarded to SARA Z. DUTERTE, City Mayor, Davao City, Thru:
+MS. MARI GRACE P. NABONG, Officer-In-Charge, Correspondence and Records, 2F
+Room 203, City Hall, this City, the herein documents relative to City
+Ordinance No. O324-l7t SERIES of 20L7, entitled "AN ORDINANCE GRANTING
+LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND
+IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT
+OF DAVAO AND HOLY CHILD OF DAVAO COLLEGE RELATIVE TO ITS ENGAGEMENT IN
+THE AFTERCARE PROGRAM FOR DRUG REFORMIST, duly signed by the other parties,
+for your information, guidance, and appropriate action.
+Thank you.
+For and in the absence of the Secretary:
+nwnn^*r
+NILDA C. M6hNO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+cns/nta
+IVED
+CMO. CRD
+
+,lEPUBtlC OF Iiif Pi'liLrt)Pll{:S
+,,.\i:':,,
+CITY ANTI-DRUG ABUSE COUNCIL
+('t I \' \t .\ \'o tt 's o tjl:l('l:
+Almerorrs G,/r:r. Curulilo Biv4. Df,vJo Crr.,,
+[-r]f,rl: c14i(:.lo'.,io,j{)rrirl.cofi'
+Tqi. llir:iori!r?3i.010:
+r0E:t ::5.12i4
+First Endorcement
+March 1, 2018
+Respectfully forwarded to MS. CHARfTO N. SANTOS,
+SANGGUNIANG Panglungsod, the herein documents relative to the AM
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND
+GOVERNMENT OF DAVAO AND TARA NA CBRAP PARTNERS.
+For the CADAC Action Officer:
+CONCE
+RN, MAN
+City
+rug Abuse Council
+c.a.D.A.c.
+,,i;,
+to
+b
+IB
+>ttt
+i^' -,
+,'dbf ' /'tt
+
+OFFICE OF THE SANGGLINIANG PANLUNGSOD
+V
+3rd Indorsement
+January 22,2018
+Respectfully forwarded to MR. MICHAEL DENTON P. APORTADERA,OIC, City
+Anti Drug Abuse Council, Davao Clty, the herein documents relative to City Ordinance
+No. 0324-17, SERIES of 2017, entitled "AN ORDINANCE GRANTING LEGISLATIVE
+AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO
+BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND HOLY
+CHILD OF DAVAO COLLEGE RELATIVE TO ITS ENGAGEMENT IN THE AFTERCARE
+PROGRAM FOR DRUG REFORMIST, inviting at[ention to Legal Opinion No.14, SERIES of
+2018, from City Legal Office, this city, and to return the same to the undersigned after
+everything has been complied wlth.
+Thank you
+.ufr\rn
+d\,,),s
+^ Ur*f,) '1,,,,t
+CPIARITO N.'SANTOS
+Secretary to the Sangguniahg Panlungsod
+(City Government Department Head il)1r'
+cns/psm
+u6
+prrd( dCD : t/h *ll'4
+.ttf-'Ol 0L
+l/z \
+otir4sual, wYtu d [diw,tu-Wil
+u
+0\ut\o0tf\&
+ol''u-'tK
+U0Nwu,
+yy-/.lg
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail,com
+&nbffij @
+LIFE
+IS HERE
+f
+
+2nd Indorsement
+January 15, 2018
+Respectfully'returned to the Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein Legal Opinion No. 14, SERIES of 2018 from
+the Office of the City Legal Officer, relative to Ordinance No. 0324-t7 and the
+Memorandum of Agreement with Holy Child of Davao College, for your appropriate action.
+For the City Mayor:
+ATTY, TRISTAN
+Assistant
+Administrator
+(Administration)
+IDMEEq
+RTE.r,A5H
+CMO.CRD
+f;\
+tLlP
+" 1) n?,,
+yy- l.lg
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+B-.,W,, ,,@
+LIFE
+IS HERE
+lll ':
+
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao 4F
+Ref. No. 1131----
+Legal Opinion
+SERIES of 20
+1't INDoRSEMENT
+January 9, 20tB
+Respectfully fonruarded to the Office of the City Mayor, through the Office of the
+Administrator, this city, the herein ordinance No. 0324-17 entitled * AN ORDINANCE
+GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND, IN BEHALF OF THE CITY GOVERNMENT OF DAVAO' THE
+MEMORANDUM OFAGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE
+CITY GOVERNMENT OF DAVAO AND HOLY CHILD OF DAVAO COLLEGE RELATIVE TO
+ITS ENGAGEMENT IN THE AFTERCARE PROGRAM FOR DRUG REFORMIST"' iNfOTMiNg
+your end that the said measure is free from legal infirmity.
+However, a correction shall be made on the name of the first party from
+*DAVAO CITY MAyoR,s oFFICE, trough the city Anti-Drug Abuse council {ommunity
+Based Rehabilitation and After care program (GBRAP)" to *crrY oF DAVAO" for the
+former has no personality separate from the later to enter into any agreements'
+Fufther, in page 2 of the MOA, the name * CITY OF DAVAO" should be reflected
+as one of the contracting parties represented by Sara Z' Dutefte-Carpio'
+Hence, it is recommended that the Ordinance be approved and the Memorandum
+of Agreement be executed after its corrections as stated above'
+ATTY.
+A. GALLO, RSW
+rney lV
+Approved
+OSMUI
+Acting
+A, JR
+Legal Officer
+Date Approved: January 9, 2018
+Mn i, 3(, fik t*tc { fu
+ObUxU*n a / rur-7a+.nt+dqtirz,a
+hrdtt, lD tV s. eD {d
+4f
+- .:lcb OF T!.lF r.!-i.r +,.,i{jrr"itsTRAr0}
+(hfit
+til'r'
+tfijl;.'
+l!x' ttog?
+R H fr.tr-E.V-E".M
+CMC - CBD
+l0 frn,
+dirr
+AAq - <A*+2
+lJ,,J
+i.iir
+
+b&
+Republic of the Philipp;nes
+CITY OF'DAVAO
+. OFFICE OF THE SANGGUNIANG PANLUNGSOD
+1SG P-1
+'i
+December 21,2017
+SARA Z. DUTERTE
+City Mayor
+CMO . CRD
+Fd^
+1_U
+f1
+&*.r,
+ro-tt
+ffi$VE
+Madam
+of tg _00a f.M
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469,'Artfcle One, Tile Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government code of 1991, we are furnishing you a copy of
+Resolution No. 01512-17 and Ordinance No. O324-L7, both SERIES of 2017 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+e,W#AJ=k,
+cns/nta
+s
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head II)
+r'
+r/ot - q - /
+
+Repubth of the philippines
+.
+Offie of the Sanggunialg panluqgsod
+-l
+Councilor
+Councilor
+Councilor
+Counc

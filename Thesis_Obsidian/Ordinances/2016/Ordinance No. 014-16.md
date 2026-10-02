@@ -1,0 +1,388 @@
+---
+ordinance_number: "014-16"
+title: "AN ORDINANCE GRANNNG THE REQUEST OF MINDANAO TRADE EXPO FOUNDATION, INC., FOR EXEMPTION FROM PAYMENT OF MAYOR'S PERMIT FEE IMPOSED ON DAVAO- BASED MICRO, SMALL AND MEDIUM ENTREPRENEURS DURING THE MINDANAO TRADE EXPO TO BE HELD ON AUGUET T2.2I, 2OL6 AT ABREEZA AYALA MALL, THIS CffYl for your appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assistant City Ad mi nistrator- (Administration) "
+date_enacted: null
+approval_date: "2016-08-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 014-16.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: null
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/grannng, topic/request, topic/mindanao, topic/trade, topic/expo, topic/foundation]
+---
+
+# Ordinance No. 014-16
+
+> AN ORDINANCE GRANNNG THE REQUEST OF MINDANAO TRADE EXPO FOUNDATION, INC., FOR EXEMPTION FROM PAYMENT OF MAYOR'S PERMIT FEE IMPOSED ON DAVAO- BASED MICRO, SMALL AND MEDIUM ENTREPRENEURS DURING THE MINDANAO TRADE EXPO TO BE HELD ON AUGUET T2.2I, 2OL6 AT ABREEZA AYALA MALL, THIS CffYl for your appropriate action. For the City Mayor: ATTY. TRISTAN INGO Assistant City Ad mi nistrator- (Administration) 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | - |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.r^.t*.o
+illpjls
+"t.{r;ts:.('
+.{1
+?
+*
+AdminAfDO/sEph
+3'd TNDoRSEMENT
+August 30, 2016
+iMRespectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the attached duly signed and approved
+ORDINANCE NO. 014-16, SERIES OF 2OL6, entitled "AN ORDINANCE
+GRANNNG THE REQUEST OF MINDANAO TRADE EXPO FOUNDATION, INC., FOR
+EXEMPTION FROM PAYMENT OF MAYOR'S PERMIT FEE IMPOSED ON DAVAOBASED MICRO, SMALL AND MEDIUM ENTREPRENEURS DURING THE MINDANAO
+TRADE EXPO TO BE HELD ON AUGUET T2.2I, 2OL6 AT ABREEZA AYALA MALL,
+THIS CffYl for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+INGO
+Assistant City Ad mi nistrator-
+(Administration)
+RE tEASEffi
+to
+au-
+-a-lb
++LL- Wc- hl
+o("Oor
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224- 587 8 . d ava oc itym ayo r@ g m a i l.co m
+D
+l
+OFFTCE OF THE CTTYMAYOR
+
+'ro*o
+flt#s
+Republic.of the Philippines
+OFFICE OF THE CIryMAYOR
+saoislto
+2nd Indorsement
+August 24,20L6
+Respectfully forwarded to the Office of the City Mayor, this City, the
+herein ordinance No. 014-16 SERIES of 2o16, "AN ORDINANCE GRANING
+THE REQUEST OF MINDANAO TRADE EXPO FOUNDATION, INC., FOR EXEMPTION
+FROM PAYMENT OF MAYOR'S PERMIT FEE IMPOSED ON DAVAO-BASED MICRO,
+SMALL AND MEDIUM ENTREPRENEURS DURING THE MINDANAO TRADE EXPO TO
+BE HELD ON AUGUET L2-2I, 20T6 AT ABREEZA AYAI.A MALL, THIS CITY", dUIY
+reviewed by the Office of the City Lega! Officer, this City, with the information
+that the same is free from any legal infirmity and has favorably recommended the
+approval of the said Ordinance.
+Thus, the same is now ripe for the City Mayort consideration.
+ATTY. TRIST
+DOMINGO
+Assistant City Administrator
+(Administration)
+l
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . @82) 224-587 8 . d ava oc itym ayo r@ g m a i l.co m
+?b
+{
+.a
+
+RECEIVED
+laal
+tlEcLlvr. '
+DATEI
+TIMEr
+OFFICE OF THE CITY LEGAI- OFFICE
+City of Davao ry.oo
+Ref. No. 1131-16
+LEGAL OPTNION NO. uL, SERIES
+oF 2015
+RE: ORDINANCE NO. 01,+-16, SERIES of 2016 entitled *AN
+ORDINANCE GRANTING THE REQUEST OF MINDANAO TRADE
+EXPO FOUNDATION, INC., FOR EXEMPTION FROM THE PAYMENT
+OF MAYOR'S PERMIT FEE IMPOSED ON DAVAO.BASED MICRO,
+SMALL AND MEDIUM ENTREPRENUERS DURING THE MINDANAO
+TRADE EXPO TO BE HELD ON AUGUST 12-21, 2016 AT ABREEZA
+AYALA MALL, THIS CITY
+1't INDORSEMENT
+AUGUST t7,2QL6
+Respectfully fonnrarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject Ordinance, informing your
+end that the grant of tax exemption is well within the powers of the SANGGUNIANG
+Panlungsod citing the herein provision of RA 7t60, othenrrrise known as the Local
+Government Code of 1991, to quote:
+"SECTTON 192. AuthoriU to Grant Tax Exemption
+Privilqes. - Local government unib may, through ordinances
+duly approvd, grant bx exemptions, incentives or reliefs under
+such terms and conditions as they may deem necessary'i
+Hence, it is recommended that the subject ordinance be approved.
+0FFlt t 0t l'i ;.
+JATE.
+-ritE:
+, " ""MINISTRATOi
+OFFICE CF
+E
+Ai .r.! i,
+ArrY. "^m
+l:JrLLo,
+Rsw
+Approved
+OSM
+UEVA, JR.
+Acting
+itv Legal Officer
+.RECEIVED
+cMo " cnn
+lU6 T3-fuu1 .; c," p
+Date approved: August L7,20t6
+.-- )6*- p-t-u
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW ry.o.1
+August 15, 2016
+SARA Z. DUTERTE
+City Mayor
+A
+\i
+h
+Madam:
+wr6-0/da f.{8
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+O79-LG and Ordinance No. 014-16, both SERIES of 2016 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+o.dlrwr$ ),. '/*
+CHARITO N. SANTOS
+Secretary to the Sanggun/ang Panlungsod
+(City Government Department Head II)
+RECE;VED
+CMO. CRD
+Ari(; I 6 2016
+1: lo )vt
+cns/nta
+)/k-t--06
+r
+
+-l t;rg L-liir L:ouflcil
+6th.Eegrrlar Seesio*
+{lryiar.
+^f '}n 1E
+ft=F4F!?+--
+a t_1L_L'Lra!
+.- u u.ttL rJ-r-'L
+rfj----- !tit--,---
+r-'nr rar'ilrrr
+L. L? LI.l.l TJ.l L'I
+r' *= -- --11 *-
+L-'.r Lll.t,-.-l-tul
+, ri-.-^-lsr
+lJ rJ tt Ltrr ttrJ L
+r.-----:7--
+r--u,ltrl.Avr
+f'n::n-q'lar
+r_-rJ 1l!-.4i_rt
+ii'*tzar-ilar
+'t
+t-. rJ Lll'l' L.It,Jl
+r. *- - ^ *1 ----
+i-'m:nriin*
+r- rJ rl_LtL ltu L
+r* -=..-
+^-il---
+frnr r*-r r'ilrrr
+'t
+{-.trLll.tt.llt-rl
+-^^.--*:t--
+1_-ULrtr,--l-luL
+f'mrnrilnr
+'JOtitlcltof
+,- ^.. ^ ^.; i *-
+L:Ouflr'JlO:r
+r. --..* ---i1---
+f - m1nat1ft?
+r(efle tr,.la-s t-. LopEE
+D,anlrr T n:rf FrtF
+.Ir.do M. F^belis.e -ir.
+Id.tria Eelen 3. -fi.c*sta
+Vi+toric' 1-1. Adurfi,:u1a Jr.
+Berzra:d E. Al-a-r.,
+A1 E_rarr 3. rlIqs.:-rdre
+Ssrrte t. Ap+stol *r.
+{-: crr:r.tri.r c . B *Iur,srr
+.rs ftriff e Id. E on,gu;rftft -Lf uii o s
+lll*. f.herfL{ .&:rrt }&. Eaa-qir;,"arr
+Itl.:g C.. Br"=g,a
+Aptii l.i[srie C. Dayap
+Jimmy Li. Dursa
+Edg.rrr P. IbrJ;..;uI .Ir .
+Eiosdado Angeio A. Mahipus -tr.
+.P-'"'ry.t-$e Dslod',r flrtiz
+Arrisinette i3. Princip e-C.astr sdes
+,i. Id.elchor E. Qu.itair:..Jr.
+Fr{.:lies.a P. 3*l.nrdr;r -AbeIIailalils Y. Sud;rg.tr
+?ri[;Lf]rr J,*s e11* E . ..Jill.rfu erte
+Jes.rrs.I*seph F. E*zabred* III
+Teop or ar-+ trr esirlifiE, *.-'ffi-c er
+- Meetii:g ai:.d. Asumsf,s.Hit sf
+ttre Dav.tf; tiQ.' AIBB C.t".rurrt-,i1.
+Ilnr'aeie tlotel
+- r-}fl Pirtrr l-.*:=.:re
+f, ti
+-F=FFi-+?
+-l ?
+-tT:ar!?F.a-.
+a_r!!
+aji
+r !rjti&.
+su
+!_r!i?ulrlrr
+i 1+.-r-^rl-lr
+'4
+Iianil a i:. I) a.1ra*g,hiran.{
+J;trtuar;,. H. Iiuig-te
+*
+{
+-l
+,
+{
+r t
+LE,rlt
+t!|.
+trtrJt sa-(au- L ,_P
+Et*-;f^------
+r
+r.dr-i+^-
+iuuutl
+! r
+t1.+r!-^,i4!
+rJ rJ rlll1-- lLrJ L
+i-n'r'l+.rril.+l.
+ilREIIgAi{CE I{O. f,J14-i6
+SERIES o[ 2t]16
+n$ *trEII{AECE GtrAHT'IHG T'HE REQITEST *F IIII$BAI{A{}
+'TE{.,iSE E}JFC g;'g{ffitf-r.{Tl{}ff tHC., F'CE EEE*IF"rIGIr rEOEt 'rrIE
+F,+-i*iEI5? ilF Itr?AY{iEtS FERiEIT FEE fikIFtfREtr O]li IIAV.IIOE"q.3Etr HIICES, SIIIIALL AISE HIEBIUH E?qTEESFTEISEEES trUEiilG
+THE. I€IHS,LI{JT* TEj\DE E-]{PO TO BE HEL.E +]E ,\UGUBT T?-?1,
+3*16 ,tT' fiBREEZiL AYALA HI.aJ.L, THIS CIT'Y
+I
+
+'lt^
+(\ 1 n
+a {
+Ee it srd.aiaed b.-1. :he -.3arls.p.-.1flia:le Fff:rluagsad of Ea',rac. '.fit:i in' sessi*$.
+---. -. --*Ll
+---* +1* --+.
+gEC'T'i-=g i.- TE"LE,-- Th1e rfzrii=r,sflre s'h.=li '*e krac'..".rr e-c "A-E
+*tr-EIIEAECE ,=trJtS?IIIG THE REt{IEST *F HIgtr,Lii,L* TE,+EE EHf*
+F8T-THtrATT*E{ TEIL],= FOE EEEIHFTIGi{ FE*TE TE{E- F.TYEIEE{T *F II[.{":.*.[E'E
+FEEBTT FEE II?EPff,-qEE #TT I},{I.Tg#-EA-q.8tr HICEG. =Sj'f.I. l='FTf,I IIE'ET-IIB-H
+EETtr-EFEEIS-EIiEE Ii[IEeiHG THE HiigE,qH.E'* TE,{E}E- Ei{Fi} ?'* EE iiEtE {iH
+s-uLiu='r iE-El, irjib .lli' it:jb:r-fla'l. .{ts,c1-& gt.ql.i,, 'f tLLiS ut't'E"'.
+EECTI*I{ =- *if1,rEE.{{}E. - The exeaptio:e ag5rii* .;n11'ta tire Ea-'.'a-+-
+!:--+*,.1 *vhihitr-:;--r r<fi;{ +nI=!:. t*{*r*
+trr the fr-?1,-.rrrFfit ,tf Ff-=:1..:r-"+ Fs--r-if
+Fp*:l;r.-{:-r
+.ri.fdcie !6- .sectir:rr P.f i rrsr,qr=renh i,fi '::f rhe ?*t?.5 E;rrr.=nrre {-'r:rle r:f ihr: f:itt. ni
+la.r
+s4
+,--r-H{{{{r
+J:L
+aiL.s
+cEliF-tL.s
+4aau
+-Eta!-i.fl-r-:-.-J:l-
+-
+iLaE
+r=Ja.=1[ufutl
+]iil3an.
+ri=
+-L'lli
+=ir,=,ii rJre +rg.=uerds tle rH€ru.pt ltr-,81 r'-:sa1E!i.asr+e =..r,,'1th tti*- -*t-Lif, pr+rari+*s *f
+ttLg " !',]fi$ E*.r-r*r:-e {_:gd* €.f t&.e i_lj1r,r r-rf f-:g-1r5-g.." sgd *ti3rf .s-e.*ii*.tt!i* i.ej{,-.S .rf-rd
+-'-l.r--
+-- Ji- -- ---. .
+Ul' (l-ttll'l-lll.'E*.-
+t
+EEACT'EI3. A:rgust q. =*i.i. b-r' a a.aj':r'iit' '"'=ote oi aii tr.e &{em-'uers, .:f *.tr-e
+f-'"1i:-F*pjlitil=.ilpf +s*frt.tir+tefo eiagii-,.f,if ,if rJf-i.
+f: r
+-!f-?F?r-
+---' :--. -: -' F- f: -T-
+:4. j it
+3!, !-.
+:_-r_!!air_!r:_,3
+"""f 1'l Y
+€ru
+a iug
+l:E
+.L I:L
+t_:_+
+i:n ;r': +r{i rlf E!? i : : r: r-r{r i:+ frfrr fi r r:? f
+!a1
+fi
+,
+EEEF
+t!L.
+r-:r
+!_Ut
+S&'
+,-1 ^-. - --t ^-
+t-. -:-, Ltll L"tl Lrl
+T---- s ----- ---=. .fu *-.: .5;- ---- rri+1 -- --..-
+r:l= i nrlr.rtrri
+i1-i-l't-
+-t-iiI
+i"'rti','i
+^v$nnk hk
+,IH,g,E iT ii F;. EfrHT' * S
+.: ^iE+ E'*-
++ ^ +1- r. = 4-1 --*,
+-. i .-^ -, rr--*-l.
+- ^ --.--., --- J
+r-.Er-l L-ir=_t i- L!-. t_.:_i.= --r:r_lL.=-F.j-ri:-i-ir7:Ls-- f;r:il!-L1c--::ia;ai
+i rt i t-: r iai-i','-r-r ;'i -, ;'; *t-r i !-1 ;=-, :.= ; t -:-i-i *-; i Ff r=.*,'i t f i
+=-a
+'
+{
+J
+{
+lag=
+'JlUlb-L'--=
+=rL=-EtrrAE
+=EELL
+AFFE'-IVEE.A[I[i 2 L 2016'
+*^J,Jrt
+== -.- *= =
+-: .-=r-r--_:?r=q.--
++ry-r-a ,i:-. LF U 1.i:-!-; 3 .i--
+,
+|
+,11-a-i
+ir-J!.=!i.-::
+I -"',"*"j
+i*f 'rt ;1 O*'rf::* tf i;t:L=Ji @

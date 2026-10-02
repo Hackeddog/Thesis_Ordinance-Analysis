@@ -1,0 +1,402 @@
+---
+ordinance_number: "0795-25"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUIAR TRAFFIC OF THE PORTION OF MAGSAYSAY ST., CALINAN PROPER, DAVAO CITY, FOR THE CONDUCT OF HUGPONG SA TAWONG LUNGSOD MEGA RALLY TO BE PARTICIPATED BY 19 BARANGAYS COMPRISING CALINAN DISTRICT ON APRIL 16, 2025 FROM 9:00 AM TO 10:00 PM\", for your information and appropriate action. For the City Mayor: Oigitally signed by Layog 5 + rB @[ffi:*ff:: hl6 d"
+date_enacted: null
+approval_date: "2025-04-25"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0795-25.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2025
+resolved_year: 2025
+corpus_year: 2025
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2025.0
+detected_series_year: 2025.0
+detected_approval_year: 2025.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2025, status/valid, topic/temporary, topic/closure, topic/vehicuiar, topic/traffic, topic/portion, topic/magsaysay]
+---
+
+# Ordinance No. 0795-25
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUIAR TRAFFIC OF THE PORTION OF MAGSAYSAY ST., CALINAN PROPER, DAVAO CITY, FOR THE CONDUCT OF HUGPONG SA TAWONG LUNGSOD MEGA RALLY TO BE PARTICIPATED BY 19 BARANGAYS COMPRISING CALINAN DISTRICT ON APRIL 16, 2025 FROM 9:00 AM TO 10:00 PM", for your information and appropriate action. For the City Mayor: Oigitally signed by Layog 5 + rB @[ffi:*ff:: hl6 d
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2025 |
+| Series header | 2025 |
+| Approval date | 2025 |
+| **Resolved** | **2025** |
+
+## Context
+
+- Year index: [[_Index 2025]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OFTHE CITY MAYOR
+Ref. No. CAdO-042425-109
+2Nd INDORSEMENT
+June 9, 2025
+Respectfully returned to Ms, Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 309, SERIES of 2025 dated April 25,
+2025, from the City Legal Office, relative to the attached duly signed and approved
+Ordinance No. A795-25, SERIES of 2025 entitled, *AN ORDINANCE FOR THE
+TEMPORARY CLOSURE TO VEHICUIAR TRAFFIC OF THE PORTION OF MAGSAYSAY ST.,
+CALINAN PROPER, DAVAO CITY, FOR THE CONDUCT OF HUGPONG SA TAWONG
+LUNGSOD MEGA RALLY TO BE PARTICIPATED BY 19 BARANGAYS COMPRISING
+CALINAN DISTRICT ON APRIL 16, 2025 FROM 9:00 AM TO 10:00 PM", for your
+information and appropriate action.
+For the City Mayor:
+Oigitally signed by Layog
++
+rB @[ffi:*ff::
+hl6 dodmBnt.
+ATTY. FRANCIS MARK H. I-AYOG
+City Administrator
+)1?
+q 0-0
+r/0
+BAY.@
+2nd Floor, City HallBuilding, San Pedro St., Davao City
+a 241-1000 !
+cmo@davaocity.gov.ph
+u44't?tag
+UN II
+M4
+a
+TlltGr
+ic s9
+R
+r,ho J
+lr,Q
+ffi
+Ltlc
+ta fltiI
+It
+.
+!
+-
+'firc'
+
+Office of ttre City Legal
+LEGAL
+Ref. No. CLO-2025-L445
+Approved by
+ATTY. OSMU
+Acting City Legal Officer
+Date of approval: April 25, 2025
+J
+l"t INDORSEMENT
+April 25, 2025
+Respectfully furwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0795-25,
+SERIES of 2025 entitled *AN ORDINANCE FOR THE TEMPORARY CLOSURE
+TO VEHICULAR TRAFFIC OF THE PORTION OF MAGSAYSAY ST.,
+CALINAN PROPE& DAVAO CITY, FOR THE CONDUCT OF HUGPONG SA
+TAWOITIG TUNGSOD MEGA RALLY TO BE PARTICIPATED BY 19
+BARANGAYS COMPRTSTI{G CALTNAN DTSTRTCT ON APRrL L6, 2025
+FROM 9:00 AM TO 10:00 PM', informing your end that the subject measure is
+in accord with SECTION 21 of Republic act 7L60, otherwise known as the Local
+Government code of 1991 to quote:
+'SECTION 21,
+Closurc and Opnitg of Ruds. - (a) A
+local government unit may, purcuant to an ordinancq permanently or
+temporarily close or open any local road, alley, parlg or square falling
+within ib jurisdidion: Provided, however, That in case of permanent
+closure, such ordinance must be approved by at least two-thirds (2/3) of
+all the members of the sanggunian, and when necessary, an adequate
+substitute for the public facility that is subject to closure is provided.
+(c) Any national or local roaQ alley, parlg or square may be
+temporarily closed during an adual emergenq, or fiesta celebrations,
+public rallies, agricultural or industrial fairc, or an undertaking of public
+work and highways, telecommunications, and waterworks projecB, the
+duration of which shall be specified by the local chief executive concerned
+in a written order: Provided, however, That no national or local roa4
+alley, parlg or square shall be temporarily closed for athletic, cultural, or
+civic adivities not officially sponsoreQ recognized, or approved by the
+local government unit concerned'i
+In view thereof, this office recommends the approval of the subject
+ordinance.
+RESPECTFULLY SUBMITTED.
+Jr
+EVA, JR.
+IE G.
+ru
+CITY OF DHV,,.C)
+CITY LEGAL OFFICE
+RELEASED
+DATE:
+rIME.
+'.taME:
+,fo
+21 2r'i25
+OF
+CONTACT NO.
+211-1000
+Room 24, City Hall Bdlg.. San Pedro St., Dayao City
+j
+ZcO-ogzo / 241-l0oo Loc. 267,225,230 E clo@davaocity.sov.ph
+i(I
+to@ttc
+Mrtrr eirtr ffuranrO0
+t,rrf**B'Y-Y2[
+tsAv o
+.rits
+rs
+xtla
+
+Office of ttre City Legd Officer
+SERIES OF 2025
+lst INDORSEMENT
+April 25, 2025
+Respectfully forwarded to the Offtce of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0795-25,
+SERIES of 2025 entitled "AN ORDINANCE FOR THE TEMPORARY CLOSURE
+TO VEHICUTAR TRAFFIC OF THE PORTION OF MAGSAYSAY ST.,
+CALTNAN PROPE& DAVAO CrrY, FOR THE COilDUCT OF HUGPONG SA
+TAWONG LUNGSOD MEGA RALLY TO BE PARTICIPATED BY 19
+BARANGAYS COMPRTSIilG CALTNAN DTSTRTCT ON APRIL 16, 2025
+FROM 9:00 AM TO 10:00 PMi informing your end that the subject measure is
+in accord with SECTION 21 of Republic act 7L60, otherwise known as the Local
+Government code of 1991 to quote:
+"SECTIOw 27.
+Closurc and Opning of Reds. - (a) A
+local government unit may, purcuant to an ordinancq permanently or
+temporarily close or open any local roaQ alley, park, or square falling
+within its juisdiction: Provided, however, That in case of permanent
+closurq such ordinance must be approved by at least two-thirds (2/3) of
+all the members of the sanggunian, and when necessaryl an adequate
+substitute for the public facility that is subject to closure is provided.
+XW
+(c) Any national or local roaQ alley, park, or square may be
+temporarily closed during an adual emergenryl or fiesta celebrations,
+public rallies, agricultural or industrial fairs, or an undertaking of public
+works and highways, telecommunications, and waterworks projecb, the
+duration of which shall be specified by the local chief executive concerned
+in a written order: Provided, however, That no national or local road,
+alley, parlg or square shall be temporarily closed for athletiq cultural, or
+civic adivities not officially sponsored, recognized, or approved by the
+local government unit concerned'l
+In view thereof, this office recommends the approval of the subject
+ordinance.
+RESPECTFULLY SUBMITTED.
+Ref. No. CLO-2025-L445
+Approved by:
+ATTY. OSM
+Acting City Legal Officer
+Date of approva!: April 25, 2A25
+LEGAL OPII{ION NO.
+ATTY.
+CITY OF DHVI+O
+CITY LEGAL OFFICE
+LIANUEVA, JR.
+RELEASED
+i
+G.
+DATE:
+TIME.
+^'IAME:
+{
+tsA\y O
+,,(r
+3c@ttc
+Room 24, City Hall Bdlg., San Pedro St., Davao City
+3 zca-oslo / 241-l0oo Loc. 267,225,230 E clo@davaocity.sov.ph
+Lrtt
+rs
+Hf rE
+
+J'
+.,t-\
+Reg-d:lic of tle Philipires
+Apnl 24,2025
+CITY OF DHVnO
+SEBASTIAJ{ Z. DUTERTE
+City Mayor
+Sir:
+'pq
+CITY LEGAL
+FICE
+REffiHfl
+DATE:
+TIME.
+NAME:
+t
+JI
+,:l I
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book 1 of Republic Act No. 7160, otherwise known as
+the Loca! Government Code of 1991, we are furnishing you a copy of Resolution No.
+Ut248-25 and Ordinance No. O7g5-25, both SERIES of Z92L of the SANGGUNIANG
+Panlungsod, City of Davao, entitled *AN ORDINANCE FOR THE TEMPORARY CTOSURE
+TO VEHTCU!-AR TRAFFTC OF THE PORTTON OF MAGSAYSAY ST., CALTNAN PROPE&
+DAVAO CrTy, FOR THE CONDUCT OF HUGPONG SA TAWONG LUNGSOD MEGA
+RALLY TO BE PARTICIPATED BY 19 BARAT{GAYS COMPRISING CALINAN
+DISTRICT ON APRIL 16, 2025 FROM 9:O0 AM TO 1O:0O PM", for your information,
+guidance and appropriate action.
+Very truly yours,
+nQurri \ fu
+CHARTTO I|.FANTOS
+City Government Depaftment Head II
+(Secretary to the SANGGUNIANG Panlungsod)
+/
+MARI ANil OTXT,VANEOO
+ADu|N|6TRAT1YE AOE/r. r
+TruE:
+-
+:
+A:i 2t 2i?5
+Fffi}
+CONTACT NO.
+241-'.r000 LOC.222
+DAV O
+3F, Sangguniaq Padungsod, Srn Fr*o St, Dtireo City 8000
+3 zzz-oass ll a@darraocity,go,ph
+,o
+@ra(
+I trt 's xrtl
+
+20u'City Council
+14h Regular Session
+SERIES of 2025
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Demetrio B. Bolo Sr.
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. C-ampos III
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Kristine t"lay John AMul Mercado
+Bonz Andre A. Militar
+Tmrujin B. Ocampo
+Myma G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Mllafuerte
+Trisha Ann J. Villafuerte
+Jesus Josph P. Zozohado III
+- Presiding Officer
+Marissa S. Abella
+- On Sick Leave
+Luna Maria Dominique S. Acosta
+- On Sick Leave
+Bai Hundra Cassandra Dominigue N. Advincula - On Domestic Emergency
+Leave
+Wilberto E. Al-ag
+January N. Duterte
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+- OB - Attended the 73rd
+Closing Exercisefof Catalunan
+Grande Elementary School
+oRDrI{AI{CE I{O. O7g5-25
+SERIES of 2025
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUIAR TRAFFIC OF THE PiORTION OF MAGSAYSAY ST.,
+cAlJilAr{ PROPE& DAYAO CITY, FOR THE CONDUCT OF
+HUGPONG SA TAWOT{G LUNGSOD MEGA RATLY TO BE
+PARTICIPATED BY 19 BARANGAYS COMPRTSING CALINAN
+DISTRICT ON APRIL 16, 2025 FROM 9:00 AM TO l0:fil PM
+
+Page 2 ot 3
+Ord. No.0795-25
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "All ORDIIIAI{CE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF THE PIORTION OF
+MAGSAYSAY ST., CALINAN PROPE& DAVAO CITY, FOR THE CONDUCT OF
+HUGPO]IG SA TAWONG LUNGSOD TtiEGA RALLY TO BE PARTICTPATED BY 19
+BARANGAYS COMPRISII{G CAUNAN DISTRICT Oil APRIL 16, 2025 FROM
+9:OO All TO lO:(Xl PM-.
+SECTION 2. DECLARATION OF POUCY- SECTION 21 (c) of RepublicAct zLGO,
+othenrlse known as the Local Government Code of 1991, provides that "any national or
+local road, alley, park, or square may be temporarily closed during an actual emergensy,
+or fiesta celebration, pubtic ralties and agriculturd or industrial fatrs';
+SECTION 3. TEMPORARY CLOSURE - In connection with the upcoming mega
+rally of Hugpong sa Tawong Lungsod, PB Pedrtto C. Angco requested fur a road closure
+on specified date and time mentioned herein;
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+povisions hereof not affected by such declarati,on sfrall continue b h in full force and
+effect.
+SECTION 5. EFFECTMTY-This Ordinance shalltake effect immediately upon
+approval.
+ENACTED, on the 15h day of April 2A25, by a unanirrlous vote of all the Members
+of the Sanggunian, thwe being a quorum.
+CERTIFIED CORRECT:
+cHA&lfdN\s(frfos
+Cty Government Department Head tr
+(Secretary to the SANGGUNIANG Panlungsod)
+ATTESTED:
+B. QUITAIN JR.
+Vie Mayor
+fficer
+I.
+cns/king
+
+Page 3'of 3
+Ord. No.0795-25
+APPROVED:
+APR 2 g 2025
+2025
+Z. DUTERTE
+City Mavor.
+t
+ATTESTED:
+H. LAYOG
+Gtv
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC OF THE PORTION OF
+MAGSAYSAY 5T., CALIT{AN PROPE& DAVAO CITY, FOR THE CONDUCT OF HUGPONG SA TAWONG
+LUNGSOD MEGA RALLY TO BE PARTICIPATED BY 19 BARANGAYS COMPRISING CAUNAN DISTRTCT
+OIT APRIL T6, NE FROM 9:ffi AM TO 1O:OO PFI
+ATTY.

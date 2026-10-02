@@ -1,0 +1,194 @@
+---
+ordinance_number: "0647-24"
+title: "AN ORDINANCE AUTHORTZING T}IE CITY MAYOR TO SIGN, FOR AI|D rI{ BE}rArF OF THE CrTy OF DAVAO, T}lE STSTER EITY AGREEMENT TO BE ENTERED INTO BY ATTID BETWEEN THE CITY OF DAYAO, PHILIPPil{ES AilD THE CITY OF HAI|AmATSI,, SflIZtN)t(A PRETECTURE, TAPAN ABSETT: Councilor Councilor Councilor Councilor Councilor Councilor Councilor"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0647-24 Sister City Agreement Hamamatsu, Japan (1).pdf"
+section_count: 2
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: null
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/authortzing, topic/mayor, topic/sign, topic/rarf, topic/crty, topic/stster]
+---
+
+# Ordinance No. 0647-24
+
+> AN ORDINANCE AUTHORTZING T}IE CITY MAYOR TO SIGN, FOR AI|D rI{ BE}rArF OF THE CrTy OF DAVAO, T}lE STSTER EITY AGREEMENT TO BE ENTERED INTO BY ATTID BETWEEN THE CITY OF DAYAO, PHILIPPil{ES AilD THE CITY OF HAI|AmATSI,, SflIZtN)t(A PRETECTURE, TAPAN ABSETT: Councilor Councilor Councilor Councilor Councilor Councilor Councilor
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | - |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+s
+z2
+cls
+ONG
+Office of the Sangffuniang Panlungsod
+20u,
+Council
+37h Regular Session
+SERIES of 2A24
+PRESEilT:
+Vice Mayor
+Cemcilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Courrcilor
+Courrcilor
+Councilor
+Councilor
+Cqrrcibr
+Councilor
+Councitor
+Councilor
+Councilor
+Councilor
+Co{Jncilor
+Courrcilor
+Councilor
+J. MelcholB. Quitain Jr.
+Nilo M. Abellera lr.
+Luna lvlaria Dom'n'que S. Acg$a
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Aposto! Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. C.ampos III
+Jonard C. Dayap
+Diosda& Angeb Junior R. l4ahipus
+Rodoffo M. Mande
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo€rtiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann l. Mltafuerte
+Jesus Joseph P. Zozobrado III
+- Presiding fficer
+Marissa S. Abella
+- On Vacation Leave
+Bai Hundra Cassandra Dominique N. Advincula - On Domestic Emergency Leave
+Jessica M. Bonguyan
+- On Maternity Leave
+January N. Duterte
+- On ffiidal Business
+Edgar P. Ibuyan Jr.
+- On Domestic Emeryency Leave
+Richlyn N. Justol-Baguilod
+Kristine May John AMul Mercado
+oRDINIU{CE Mr.054r-24
+SERIES of 2O24
+AN ORDINANCE AUTHORTZING T}IE CITY MAYOR TO SIGN,
+FOR AI|D rI{ BE}rArF OF THE CrTy OF DAVAO, T}lE STSTER
+EITY AGREEMENT TO BE ENTERED INTO BY ATTID BETWEEN
+THE CITY OF DAYAO, PHILIPPil{ES AilD THE CITY OF
+HAI|AmATSI,, SflIZtN)t(A PRETECTURE, TAPAN
+ABSETT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+
+Ord No. 0647-24
+Be it orffi
+by the Sanggufiiang ffiungsod ff Dalao Crty, in session assembH,
+that:
+SECTION l. TfTLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE SISTER CITY AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE
+CITY OF DAVAO, PIIIUPPIfIES At$D THE CITY OF HAI'IAMATSU, SHIZT'OIG
+PREFECTURE, JAPAN".
+SECTION 2. DECLARATTON OF POLICY - SECTION 22 (a) (5) and (c) and SECTION
+455 (b) (1) (vi) of Republic Act No. 7160 or the Local Government C-ode of 1991 provide that:
+SECTION 22, Csryrate furye$-
+(a) Every local government unit as a corporation, shall have the
+following powers;
+(5) To enter into contracE; and
+(c) Unless otherwise provided in this Code, no contract may be entered
+into by the local chief executive in behalf of the local government unit
+without prior authorization by the sanggunian concemed. A legible copy
+of such contract shall be psted at a corspicuous place in the Brovir+cial
+capitol or the city, munkipal or barangay hall.
+SECTION #i5. Chief Executiue; Powerc, Duties and Compnsation.
+(b) For efficient, effective and economical governance the purpose of
+whkh is tfre general welfare of the ctty and its inhabitants pursuant to
+sectton 16 of this code, the fi mayor shall:
+(1) Exercise general superuision and control over all programs, projects,
+services, and activities of the city government, and in connection, shall:
+(vi) Represent tt'rc cfi iri all its hJsiness transactions and sgn in its
+behalf att bonds, contracts and obtigations, and such other documents
+upon authority of the SANGGUNIANG panlungsod or pursuant to law or
+ordinance.
+SBCTIOil 3. IUI!!$IIE - The City Mapr is herery grar*ed legislatirc au$or+ty
+to enter into and sign, for and in behatf of the Ctty Gorcmment of Drvao the Sister Clty
+Agreement by and between the City of Davao, Philippines and the City of Hamamatsu,
+Shizouka Prefecture, Japan.
+SECTIOil 4. SEHR*BILITY CI-*lrSE - lf , tu any reilsoa, any SECTION or prodsion
+d this ffiinance is dectared unconstihrttonat or irnatid, other sections or prwisions hereof
+not affected by such declaration shall'continue to be in full force and effect.
+SBCTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approrlal.
+ENACTED, on the lst day of October 2024, by a unanimous vote of all the Memberc
+of the Sanggunian, there being a quorum.
+
+Ord No. 0647-24
+CERTIFIED OORRECTI
+APPROVED:
+ocT 2 3 2g2l
+2024
+Z. DUTERTE
+cnI6MJ,&f*'
+(Secretary to the SANGGUNIANG Panlungsod)
+City Govemnrent Department Head lI yt
+ATTESTED:
+I. MELcHgfr6. eurrAm fR
+/vir" Mayor
+y'residing fficer
+cns/mart<
+Mayor, U
+/r'
+ATTESTED:
+ATTY.
+H. LAYOG
+AN ORDINANCE AUMOruZINGTHE CITY MAYORTO SIGN, FORAND IN BEHATT OFTHE CITY OF DAVAO,
+THE SISTER CITY AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO,
+PHIIIPPII{ESAt{D THE GTY OF HiAI{A}4/ATSU, SHIZUOKA PREFECTURE ]APAN

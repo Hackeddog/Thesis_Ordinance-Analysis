@@ -1,0 +1,317 @@
+---
+ordinance_number: "0130-19"
+title: "AN ORDINANCE GRANTING THE APPLICATION OF SMART COMMUNICATIONS, INC., THROUGH THE EGB ASSOCIATES, FOR ADDMONAL ALLOWABLE USE FOR THE INSTALLATION OF CELL SITE TOWERS IN 1) BARANGAY MAI.AMBA, MARILOG DISTRICT; 2) BARANGAY BATO, TORIL DISTRICT; AND 3) BARANGAY CATALUNAN GRANDE, TALOMO DISTRICT, ALL OF DAVAO CrrY\", for your information and appropriate action. For the City Mayor: ATTY. DOMINGO Assistan"
+date_enacted: "2020-01-31"
+approval_date: "2020-01-31"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0130-19 (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 0.62
+detected_enactment_year: 2020.0
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/granting, topic/application, topic/smart, topic/communications, topic/through, topic/associates]
+---
+
+# Ordinance No. 0130-19
+
+> AN ORDINANCE GRANTING THE APPLICATION OF SMART COMMUNICATIONS, INC., THROUGH THE EGB ASSOCIATES, FOR ADDMONAL ALLOWABLE USE FOR THE INSTALLATION OF CELL SITE TOWERS IN 1) BARANGAY MAI.AMBA, MARILOG DISTRICT; 2) BARANGAY BATO, TORIL DISTRICT; AND 3) BARANGAY CATALUNAN GRANDE, TALOMO DISTRICT, ALL OF DAVAO CrrY", for your information and appropriate action. For the City Mayor: ATTY. DOMINGO Assistan
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2020 |
+| Ordinance number suffix | 2019 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICEOFTHEC
+saCisr.o.,,
+Republlc of the P
+lippines
+MAYOR
+City of Da
+Drc
+-'f:tE
+Ref- No. CA&2020{0279
+f l!r,ED
+..,i e L.l,i
+l$
+';T
+1.t
+2ilD INDORSEMENT
+tubruary 5,2020
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 078, SERIES of 2020 dated January 21,
+2O2O from the City Legal Office, relative to the Ordinance No. 0130-19, SERIES of 2019
+entitled, "AN ORDINANCE GRANTING THE APPLICATION OF SMART COMMUNICATIONS,
+INC., THROUGH THE EGB ASSOCIATES, FOR ADDMONAL ALLOWABLE USE FOR THE
+INSTALLATION OF CELL SITE TOWERS IN 1) BARANGAY MAI.AMBA, MARILOG
+DISTRICT; 2) BARANGAY BATO, TORIL DISTRICT; AND 3) BARANGAY CATALUNAN
+GRANDE, TALOMO DISTRICT, ALL OF DAVAO CrrY", for your information and appropriate
+action.
+For the City Mayor:
+ATTY.
+DOMINGO
+Assistant
+trDEp
+CITY MAYOR's OFFICE
+CORRESPONOENCE AND RECORDS OIV
+R,EI.EASED.
+FEB 07 2t,2i
+rorxabeuo
+aoru r ru rstRatlvE At DE rv
+ddt)
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.com
+B)W,''@
+LIFE IS HERE
+Ar
+I
+
+t&Uss,fluo
+'rffir lm
+AIIC g!{r J0 tsrj*
+:314J'1
+aeA
+JO rt,rjo
+ozoz'zz Arenuer :po^oJdde e1e6
+raluJo le6at &D 6unrv
+Uf 'VA:lnN\nIA'd
+NNNSO
+pa^olddv
+aruJo le6al
+6unrV
+MSU ,
+.ALI-V
+'alupulprg aql Jo leloJdde oq] spuauuof,at alrJ[o slql 'uo4alaq] pamatn
+'ulaJaql firur.ruu; lP6al ou spuu a3u[o slr{} lew uoBeuiloJur
+aql qIM 'alueurp.r6 pe[qns aq] '&lf slrll rnoq 'ro1e:prururpy &tC eq] Jo
+allJJO aq1 qbnorql '.ro{ey1 &t3 aqf Jo arU[O aq] ot papremroJ {lqpadsaX
+AZ0Z'17 fuenue6
+TN3NISUOONI ts1
+'Auf ov^Vo Jo ttv 'lJru.Isto oNotvt'loNV9 NVNntvIVf
+VSNVUVS (E ONV jr:rU-StO rruOr 'O1V8 AV9NVUV8 Q
+jtltursro oortuvt,{ 'vgrdflvt,.t AVSNVUVS (r NI sulrt or :IIIS
+II]3 JO NOIflIVISNI ]HI UOJ ]SN ]]8VAAOIIV IVNOLUC]OV
+UOJ ,S:IIVIfOSSV 89] HSUOI{I ,'fNI ,SNOILVfINNNNO)
+I-UVNS JO NOttVfIlddV ]F{I 9NTINVU9 ]fNVNIOUO
+NV.. papBue 610z lo struts '5I-0€I0 'oN lfNVNIouo :lu
+'E-'oN uotutdg te6at
+ffiqtqtr- qh'oN'rau
+oe^e6 Jo lfp
+U]fIJJO IV9]I AtIf 3Hl JO ]3IJJO
+sau;dd11;q6 aql Jo rglqnday
+c
+o
+IVo
+tI
+0z0z 8A ilvr
+Ot/\,1
+h
+.#5d,,
+@
+-#^,trA,I
+:l
+V 'o
+U VhJ
+N
+l c l U
+I
+Jo sauas
+
+saqlsso
+It0
+i>
+ozl
+p_r
+3.NG
+i
+January 14,2020
+slo -tfd.
+SARA Z. DUTERTE
+City Mayor
+x
+f!
+Madam:
+w-uil^
+Sbction 469, Article One, Title Five,
+Pursuant to Sub-SECTION 3, Paragraph
+chapter 3, Book III and SECTION 54 of Book I Republic Act No' 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No'
+o423-Lg and ordinance No.0130-19, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action'
+Very truiY Yours,
+For and in the absence of the Secretary:
+o
+*
+MARIA THERESA A. REYES
+Acting Secretary to the Sanggunian-g Panlungsod
+(Local Legislative Staff Officer IV)
+ffi
+CORRTSPOND€NCT &
+RECE
+RECORDS DIVISION
+IVED
+MA RY A NN
+cMo
+VARADO frArlJt rv '1 'u
+JAI,I 1 6 ?r,Zrl
+
+19th City Council
+21* Regular Session
+SERIES of 2019
+PRESENT:
+Republic of tljg Philippines
+CitY -'tf Davao '-
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+lonard C. Dayap
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+- On Sick Leave
+- OB- Attended the Liga ng mga
+Barangay in Boracay
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+Councilor Edgar R. Ibuyan Sr.
+ORDINANCE NO. Ol3O.19
+SERIES of 2019
+AN ORDINANCE GRANTING THE APPTICATION OF SMART
+COMMUNICATTONS, rNC., THROUGH EGB ASSOCIATES, FOR
+ADDITIONAL ALLOWABLE USE FOR THE INSTALLATION OF CELL
+SITE TOWERS IN 1) BARANGAY MALAMBA' MARILOG DISTRICT;
+2) BARANGAY BATO, TORIL DISTRICT; AND 3) BARANGAY
+CATALUNAN GRANDE, TALOMO DISTRICT, ALL OF DAVAO CITY
+
+Ord. No. 0130-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that
+SECTION l. TfTLE - This Ordinance shall be known as 'AN ORDINANCE
+GRANTTNG THE APPLICATTON OF SMART COMMUNTCATTOilS, INC., THROUGH
+EGB ASSOCIATES, FOR ADDITIONAL ALLOWABLE USE FOR THE INSTALTATION
+OF CELI SITE TOWERS IN 1) BARANGAY MAIAMBA, MARILOG DISTRICT; 2)
+BARANGAY BATO, TORIL DISTRICT; AND 3) BARANGAY CATATUNAN GRAI{DE,
+TALOMO DTSTRTCT, AtL OF DAVAO CITY-.
+SECTION 2. DECIARATION OF POIICY - Article VII, SECTION 1 of the
+Comprehensive Zoning Ordinance of Davao City provides for requests for additional
+allowable use which reads:
+"The uses enumerated in the preceding articres on general and all
+sub-zones are not exhaustive nor all-inclusive, the SANGGUNIANG
+Panluingsod, upon application of the project proponent and upon,
+favorable recommendation by the Local Zoning Board of Adjustment
+and Appeals (LZBAA) may allow other uses not enumerated therein
+as it may deem fit and proper including, but not limited to, the
+following projects which are socio-economic and environmental
+significance and/or national interest by a z/+ majority vote of all
+Members of the SANGGUNIANG Panlungsod through resolution and
+ordinance".
+SECTION 3. APPROVAL OF REqUEST - The request of Smart Communications,
+Inc., through EGB Associates, for additional allowable use for the installation of cell site
+towers is hereby approved in:
+a) Rural Resettlement Area and Agri-Non Tillage for the proposed 53.5 meter high,
+3- legged self-suppoft tower in Barangay Malamba, Marilog District, this City.
+b) Floodway Mitigation Sub-zone and Water Resource Zone for the proposed 53.5
+meter high, 3 legged self-suppoft tower in Barangay Bato, Toril District, this
+City.
+c) Medium Density Residential Sub-zone and Water Resource Zone for the
+proposed 42 meter high 4-legged self-support tower in Barangay Catalunan
+Grande, Talomo District, this City.
+SECTION 4. SEPARABILITY CI.AUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+- This Ordinance shall take effect immediately upon
+ENACTED, December 3, 20L9, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+t
+
+l:i
+. ri
+Ord. No. 0130-19
+President
+Temporary
+cns/bern
+ATTY. ZULEIKA T.
+City
+CERTIFIED CORRECT:
+AppRovED: 31 JAN 2020 ,zorg
+Z. DUTERTE
+chlktfu.hnro,
+Secretary to the San$guniang Panlungsod
+(CiW Government Department HeadS)
+ATTESTED:
+ATTESTED
+" city *rtp
+-

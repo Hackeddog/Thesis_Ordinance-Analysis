@@ -1,0 +1,277 @@
+---
+ordinance_number: "0491-18"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTION OF ]. PALMA GIL STREET, IN BETWEEN C.M. RECTO AND C. BANGOY STREETS, ON SEPTEMBER 9, 2018 FROM 12:00 NOON Ut{-nL 12:00 MIDNIGHT IN CELEBRAION OF THE 2OTH YEAR ANNIVERSARY OF THE ROYAL MANDAYA HOTEL\", With thc iNfOTMAtiON that no executive action was taken on the subject measure since the Ordinance has already lapsed into law,"
+date_enacted: null
+approval_date: "2018-08-15"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0491-18.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/portion, topic/palma]
+---
+
+# Ordinance No. 0491-18
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTION OF ]. PALMA GIL STREET, IN BETWEEN C.M. RECTO AND C. BANGOY STREETS, ON SEPTEMBER 9, 2018 FROM 12:00 NOON Ut{-nL 12:00 MIDNIGHT IN CELEBRAION OF THE 2OTH YEAR ANNIVERSARY OF THE ROYAL MANDAYA HOTEL", With thc iNfOTMAtiON that no executive action was taken on the subject measure since the Ordinance has already lapsed into law,
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Repblb of the Philippines
+OFFICE OF. THE CITY I\{AYOR
+6',ii;6
+.1
+Ref. No. CAd+2!18-06075
+bt\L
+tloyn'
+2Nd INDORSEMENT
+September 7,2018
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached Ordinance No. 0491-18, SERIES of 2018 entitled "AN
+ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC OF A PORTION
+OF ]. PALMA GIL STREET, IN BETWEEN C.M. RECTO AND C. BANGOY STREETS, ON
+SEPTEMBER 9, 2018 FROM 12:00 NOON Ut{-nL 12:00 MIDNIGHT IN CELEBRAION OF
+THE 2OTH YEAR ANNIVERSARY OF THE ROYAL MANDAYA HOTEL", With thc iNfOTMAtiON
+that no executive action was taken on the subject measure since the Ordinance has
+already lapsed into law, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAT{
+GO
+Assistant City
+r)
+a.-
+tuJ
+y'ttt - 4-rt
+REI.EASED
+eft{B'
+P 201
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.coma
+B#.''.@
+a
+tIFE I$ HERE
+D
+
+OFFICE OF THE CITY TEGAL O
+Tel. No. 298-6970
+Trunk Line No. 241-1000 Loc267
+o0o
+Ref. No. 1131-18-0156
+LEGAL OPINION NO. Y?U
+SERIES OF 2018
+1't INDORSEMENT
+August 23,20L8
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0491-18,
+SERIES of 2018 entitled "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC OF A PORTION OF J. PALMA GIL STREFT, IN BETWEEN
+C.M. RECTO AND C. BANGOY STREETS, ON SEPTEMBER 9, 2018 FROM 12:OO
+NOON UNTIL T2:OO MIDNIGHT IN CELEBRATION C'F THE 2OTH YEAR
+ANNIVERSARY OF THE ROYAL MANDAYA HOTEL", informing your end that the
+same is free fuom legal infirmity citing RA 7160, otherwise known as the Local
+Government Code of 1991, to quote:
+"SECTION 21.
+Closure and Opening of Roads. - (a) A
+local government unit ma6 pursuant to an ordinancq permanently
+or temporarily close or open any local roa4 alley, pailt or square
+falling within ib jurisdiction: Prouided, however, That in case of
+permanent closurq such ordinance must be approved by at least
+two-thirds (2/3) of all the memberc of the sanggunian, and when
+necessary, an adequate substitute for the public facility that is
+subject to closure is provided.
+nd
+(c) Any national or local road, alley, parlt or square may be
+temporarily closed during an actual emergenryl or fiesta
+celebrations, public rallds, agricultural or industrial fairy or an
+undeftaking of public works and highways, telecommunications, and
+waterworl<s projaE, the duration of which shall be specified by the
+local chief executive concerned in a written order: ProvideQ
+however, That no national or local roa4 alley, parlt or square shall
+be temporarily cM for athletiq cultural, or civic activities not
+officially sponsored, rrcognized or approved by the local government
+unit concerned'i
+IN VIEW THEREOF, it is recommended that the Ordinance be approved.
+ATTY.
+A. GALLO, RSW
+Acting Asst. City Legal Officer
+Approved by:
+ATTY. OSMU
+P. VILLANUEVA, JR.
+t
+OIC, Acting City Legal Offtcer
+Date approved: August 23,20L8
+ort049 1 - 1 6_ctosure_rnattoln_ 1 Ur| 5 6_E- 2 ? 1 6
+@[ce
+' '1GE oFrrt ('TY ADillillslR r0
+ctTY t{Alt
+qA\ao clt \
+AY
+.'rr. . DB; O[Gf
+4,r/
+"t
+'{q4- 1A-+e
+og
+
+nerubric offiti$irdines
+August 15, 2018
+SARA Z. DUTERTE
+City Mayor
+GAL U
+'tO
+t
+Madam:
+Efls- 0tc6 Pirg
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7760, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02285-18 and Ordinance No. 0491-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+,AAk/a},K,
+Secretary to the Sangguniarfi Ranlungsocl
+(City Government Department Head I1) E
+I
+CORRESPONDENCE & RECORDS DIVISION
+RECEIVED
+AUG 16 2018
+l:ls
+MA.
+\
+
+RepuUic of the Philiffirres
+Gty of Davao
+(rffi@ of ile SANGGUNIANG Panlurqmd
+Courrcil
+Reguhr Sessbn
+SERIES of 2018
+PRESENT:
+ABSEl{T:
+Councrhr
+ftuncilor
+e+uncilsr
+Councilor
+Councihr
+l4aria kn 5. Acssta
+Dante L. Apstol Sr.
+Pilar C. Braga
+January N. Duterte
+l{arissa P. Salvador-Abella
+Preiding Sfficer
+- Official Eusinss
+- 0n Vacation Leave
+- 0n Siek teave
+- On Sick Leave
+- On Sisk lsave
+Vice ltlayor Bernard E. Al-ag
+Councilor t{ilo M. Abeilera Jr.
+Councilor ldctorio U, Advincula Jr.
+fpuncilor Al Ryan S. Alejandre
+fsuneilor eonrads e, Eafuran
+Counsilor Joanne Fl. f*nguyan{uilos
+Councilor l,!a. Cherry Ann F4. Eonguyan
+founcihr famrela J, flanon
+C.ouncilor Danilo C. Dayanghirang
+Councilor April Marie C. Datap
+Councilor Jimmy G. Dureea
+Councilor Edgar P. Ibuyan Jr.
+Councilor Leah A. Ubrado-yap
+Councilor Rene Elias C. Lopee
+Councilor Diosdado Angelo A, Mahipus Sr.
+Councilor Jaffar U. Flarohomsalic
+founcilor Bonifacio E, Militar
+Councilor Avegayle Daldo Ortiz
+Councilor Antoinette G, principe{astrods
+Councilor J. Melchor B. euitain Jr.
+Councilor MarT Jwelle D. Villafuerte
+Councilor Jesus Joaeph p. Zozobrado III
+ORDITIAHCE HO. &+gI-18
+sEHtrEs 0F 2{t1S
+Til ORDIH*NCE FOR TITE TE*IPORARY CLOSURE TO
+YEHICULAR TRAFFIC OF A PIORTIOT{ OF J. PALHA GIL
+STREEA ITg BETL{EEH C.}t. RECTT} Af{B C. BAT{GT}Y
+STREETS, SH SEPTEHBEE g, Z{!18 FHOH 13;80 HQSH
+uHTrt 12;oo llrtlHrGHT ilr CEIEEEATT0H oF THE rorH
+YEAR ATITTIVERSARY OF THE ROYAL MANDAYA HOTEL
+
+r
+Be lt odained by the Sanggunhng Panlungsod of Davao City in sessbn assembled
+Fage 2 of 2
+Ord. No.0491-18
+that:
+SECTIOI{ 1. TITLE - Thb Ordinarre shall be known a oAN ORDINAT{CE FOR
+THE TEIfORARY CLOSURE TO VEHICUI-AR TRAFFIC OF A PORTIOT{ OF J, PAL},IA
+GIL STR.EET, IN BETITI EEN C.lrl. RECTO AilD C. BAHGOY STREEI+ ON
+SEPTEMBER 9, 2OT8 FROM 12:OO NOON UilrtL 12;OO MIDNIGHT IN
+CELEBRATIOI{ OF THE zOIH YEAR ANHryERSARY OF THE R.OYAL M'INDAYA
+HOTEL'.
+SECTIOftI Z DECLARATION OF POLICY - SECTION 21 (c) of Republk Act No.
+7L60, othenrbe known as the Local Covemrnent Code of 1991, provkles that any nafional
+or local road, alley, pa*, or sguarc may be temporarily closed during an actualerrrcrgencl,
+or fEsta cehbratbns, publE rallhs, agrkuftural or lndusfidal falrs or an undertaklng of
+publh worts atd htghways, teEcommunkathns and wateruorlts prc,ffi.
+SECTIOH 3. TEITPORARY CLOSURE - In connecbn wlth Bre upcomlng il}ft Year
+Anniversary of Sre Royal Mardaya Hotel, a prthn of Palrna Gil Sheet, in betlreen C,M,
+Recto and C, Bangoy SFet shall he temporarily chaed to vehicular traffh on Septemher 9,
+il18 from 12:00 noon until 12:{E mitnfiht.
+SECTIOH 4. SEPARAEILITY CIAUSE - If, for any reason, any sx,tbn or
+pmvhhn of trtb Otdlnance E dechtH unconstffuthnal or lnvalH, otfrer ssffons or
+pmvbbns hercof not affecied by such declar:athn shall confinue to h ln full forte and
+effst.
+SECTION 5.
+approval.
+EFFECTryITY - Thb Odinane shall take effect imnrediately upon
+ENACTED, luly L7, 2018, by a unanirpus vote of all the Memberc of the
+Sanggunhn, there beirU a quorum.
+CERTIFIED CORRECT:
+Suretary to the
+Panlurgsod
+ATTESTED:
+E. AL.AG
+Vke Mayor
+Preskling Officer
+cns/clad
+(Clty Govemnent Dtparkrnnt nead U)
+LitF $rJ
+APPROYED:
+sl8
+ryI:'!:TfSPAPPROVEO A.FTHR TTiE LAT'SE OF
+rflJ {1(}! DqY$ FER $E$. S$ (
+SARA Z. DUTERTE
+ATTESTED:
+ATTY. ZULEIKA T. LOFEZ
+Clty AdminEFrakr/
+- crty *rW
+?
+r\t
+r'c P.q..

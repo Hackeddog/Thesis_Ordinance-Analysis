@@ -1,0 +1,221 @@
+---
+ordinance_number: "0109-22"
+title: "AN ORDINANCE GRAilTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE INDIVIDUAT DEED OF SALE EXECUTED BY THE CITY OF DAVAO, INVOLVING THE LOTS UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SrR) PROJECT AND THE BO. OBRERO SrTE PROJECT rN FAVOR OF THE AWARDEES, NAMELY: ROSARIO S. CAUZADA, REPRESENTED BY CET.SA CAUZADA MrASrS, CARMEITTA B. FELTCTANO, BENI"
+date_enacted: "2022-11-29"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0109-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/grailting, topic/legistative, topic/authority, topic/mayor, topic/srgn, topic/behalf]
+---
+
+# Ordinance No. 0109-22
+
+> AN ORDINANCE GRAilTING LEGISTATIVE AUTHORITY TO THE CITY MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE INDIVIDUAT DEED OF SALE EXECUTED BY THE CITY OF DAVAO, INVOLVING THE LOTS UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SrR) PROJECT AND THE BO. OBRERO SrTE PROJECT rN FAVOR OF THE AWARDEES, NAMELY: ROSARIO S. CAUZADA, REPRESENTED BY CET.SA CAUZADA MrASrS, CARMEITTA B. FELTCTANO, BENI
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+I
+I
+20u'City Council
+2Oh Regular Session
+SERIES of 2022
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Republic,of the Philippines
+J. Melchor B. Quitain Jr.
+-Presiding fficer
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Councilor
+Councilor
+Councilor Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Conrado C. Baluran
+- OB-Benchmarking on modern
+agriculture and farming in
+Cameron Highlands, Malaysia
+- On Sick Leave
+- OB-Represented the City
+Mayor in an activity sponsored
+by the Department of
+Agriculture
+ORDINANCE NO. 0109.22
+SERIES of 2O22
+AN ORDINANCE GRAilTING LEGISTATIVE AUTHORITY TO THE CITY
+MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE
+INDIVIDUAT DEED OF SALE EXECUTED BY THE CITY OF DAVAO,
+INVOLVING THE LOTS UNDER THE SLUM IMPROVEMENT AND
+RESETTLEMENT (SrR) PROJECT AND THE BO. OBRERO SrTE PROJECT rN
+FAVOR OF THE AWARDEES, NAMELY: ROSARIO S. CAUZADA,
+REPRESENTED BY CET.SA CAUZADA MrASrS, CARMEITTA B. FELTCTANO,
+BENITO J. TAMAYO JR., AND ROSARIO D. CAIAMBRO
+#
+t
+c
+
+Ord. No. 0109-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. IEE - This Ordinance shall be known as "AN ORDINANCE
+GRAT{TING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, ffiE INDMDUAL DEED OF SALE EXECUTED BY THE
+CITY OF DAVAO, INVOLVING THE LOTS UNDER THE SLUM IMPROVEMENT AND
+RESETTLEMENT (SIR) PROJECT AND THE BO. OBRERO SrrE PROJECT IN FAVOR OF
+THE AWARDEES, NAMELY: ROSARIO S. CAIJADA, REPRESENTED BY CELSA CALZADA
+MIASIS, CARMELTIA B. FELICIANO, BENITO J. TAMAYO JR., AND ROSARIO D.
+CAI.AMBRO'.
+SECTION 2. PERTINENT PROVISIONS UNDER THE LOCAL GOVERNMENT
+copE oF 1991
+oSection 16. General Welfare - Every local government unit shall exercise the
+power expressly granted, those necessarily implied therefrom, as well as powers
+necessary, appropriate, or incidental for its efftcient and effective governance,
+and those which are essential to the promotion of the general welfare. Within
+their respective territorial jurisdictions, local government units shall ensure and
+support, among other things, the preseruation and enrichment of culture,
+promote health and safety, enhance the right of the people to a balanced ecology,
+encourage and suppoft the development of appropriate and self-reliant scientific
+and technological capabilities, improve public morals, enhance economic
+prosperity and social justice, promote full employment among their residents,
+maintain peaae and order, and preserue the comfort and convenience of their
+inhabitants".
+*SECTION 455. Chief Executive; Powers, Duties and Compensation -
+(a) The city mayor, as chief executive of the city government, shall exercise such
+powers and peform such duties and functions as provided by this Code and other
+laws.
+(b) For efficient, effective and economical governance the purpose of which
+is the general welfare of the city and its inhabitants pursuant to SECTION 16 of
+this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs, projects, seruices,
+and activities of the city government and in this connection shall:
+)oo(
+)oo(
+)oo(
+(vi) Represent the city in all its business transactions and sign in its behalf
+all bonds, contracts, and obligations, and such other documents upon authority
+of the SANGGUNIANG panlungsod or purcuant to law or ordinance".
+SECTION 3. 9QYEBAGE-This Ordinance shallcoverthe grant of the legislative
+authority to the City Mayor to sign, for and in behalf of the City of Davao, the individual
+Deed of Sale to be executed by the City Government of Davao, involving the lots under
+the Slum Improvement and Resetflement (SIR) Project and Bo. Obrero Site Project of the
+City of Davao, in favor of the awardeeq: Rosario S. Calzada represented by Celsa Calzada
+Miasis, C-armelita B. Feliciano, Benito J. Tamayo Jr., and Rosario D. Calambro.
+a
+
+Page 3'of 3
+Ord. No. 0109-22
+SECTION 4. SEPARABILITY CIAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTIOil
+upon approval.
+5. EFFECTMTY - This Ordinance shall take effect immediately
+ENACTED, November 29, 2022, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+a,Mi;ffi'
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)y
+ATTESTED:
+J.M
+ATTESTED:
+P
+ELCHOR B. QUITAIN JR.
+/ vice Mayor
+/Presiding Officer
+cns/njb
+APPROVED: JAN IZNN
+2022
+SE
+Z. DUTERTE
+City Mayorfl ,
+ATTY.
+H. TAYOG
+Acting
+AN ORDINANCE GRANTING LEGISLANVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE INDIVIDUAL DEED OF SALE EXECUTED BY THE CITY OF DAVAO,
+INVOLVING THE LOTS UNDERTHE SLUM IMPROVEMENT AND RESETTLEMENT (SIR) PROJECT AND THE
+BO. OBRERO SITE PROJECT IN FAVOR OF THE AWARDEES, NAMELY: ROSARIO S. CAIZADA,
+REPRESENTED BY CELSA CAIZADA MIASIS, CARMELITA B. FEUCIANO, BENITO J. TAMAYO JR.; AND
+ROSARIO D. CALAMBRO

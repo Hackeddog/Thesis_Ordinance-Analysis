@@ -1,0 +1,180 @@
+---
+ordinance_number: "0347-23"
+title: "a ORDINANCE NO. 0347.23 Series of 2023 AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFTC FROM NOVEMBER 28, 2023 Up TO FEBRUARY 28, 2024 PARTICULARLY THE STREETS ALONG DAVAO CrTy COASTAL ROAD (TALOMO SECTTON)- DAVAO- BUKIDNON ROAD (CATALUNAN PEQUEfrO.MINTAL.CALINAN SECTION.BY PASS ROAD (VIADUCT) IN CONNECTION WITH THE DPWH PROJECT WITH CONTRACT NUMBER 2OLOO,.47"
+date_enacted: "2023-11-28"
+approval_date: "2023-11-28"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0347-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/temporary, topic/closure, topic/road, topic/vehicular, topic/trafftc, topic/november]
+---
+
+# Ordinance No. 0347-23
+
+> a ORDINANCE NO. 0347.23 Series of 2023 AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFTC FROM NOVEMBER 28, 2023 Up TO FEBRUARY 28, 2024 PARTICULARLY THE STREETS ALONG DAVAO CrTy COASTAL ROAD (TALOMO SECTTON)- DAVAO- BUKIDNON ROAD (CATALUNAN PEQUEfrO.MINTAL.CALINAN SECTION.BY PASS ROAD (VIADUCT) IN CONNECTION WITH THE DPWH PROJECT WITH CONTRACT NUMBER 2OLOO,.47
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic or in. Philippines
+Office of the Sangglrtiang Panlungsod
+2oth city Councit
+44th Regular Session
+SERIES of 2023
+PRESENT:
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Wilberto E. Al-ag
+Presiding Officer
+- On Domestic Emergency Leave
+- OB- Attended the launching
+ceremony of the Davao Public
+Tra nsport Modern ization Project
+- On Domestic Emergency Leave
+Councilor
+Councilor
+Councilor Pilar C. Braga
+ORDINANCE NO. 0347.23
+SERIES of 2023
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO
+VEHICULAR TRAFFTC FROM NOVEMBER 28, 2023 Up TO
+FEBRUARY 28, 2024 PARTICULARLY THE STREETS ALONG
+DAVAO CrTy COASTAL ROAD (TALOMO SECTTON)- DAVAOBUKIDNON ROAD (CATALUNAN PEQUEfrO.MINTAL.CALINAN
+SECTION.BY PASS ROAD (VIADUCT) IN CONNECTION WITH
+THE DPWH PROJECT WITH CONTRACT NUMBER 2OLOO,.47
+
+t
+j
+Ord. No. 0347-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. ElE - This Ordinance shall be known as "AN ORDINANCE
+FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC FROM
+NOVEMBER 28, 2023 Up TO FEBRUARY 2q 2024 PARTICULARLY THE
+STREETS ALONG DAVAO CrTY COASTAL ROAD (TALOMO SECTTON)-
+DAVAO-BUKTDNON ROAD (CATALUNAN PEQUEilO-MTNTAL-CALTNAN
+sEcTroN-BY PASS ROAD (VTADUCT) rN CONNECTTON WITH THE DPWH
+PROJECT WITH CONTRACT NUMBER 2OLOOI47O.
+SECTION 2. DECLARATION OF POUCY - SECTION 21 (c) of Republic Act
+No. 7160, othenruise known as the Local Government Code of 1991, provides that
+"any national or local road, alley, park, or square may be temporarily closed during
+an actual emergency, or fiesta celebrations, public rallies, agricultural or industrial
+fairs or an undeftaking of public works and highways, telecommunications and
+water works projects.
+SECTION 3. TEMPORARY CLOSURE - Mr. Rey H. Sucayan, Director of
+Gemma Construction Supply Inc., requested for the temporary closure of road on
+the specified dates herein mentioned.
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force
+and effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on the 28th day of November 2023, by a unanimous vote of all
+the Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cfle(1f81*1,k,
+Secretary to the Sanggunibng Panlungsod
+(City Government Depaftment Head II)
+ATTESTED:
+/
+J. VIEICHOR B. QUTTATN JR.
+Vice Mayor
+Presiding Officer
+cns/ray
+
+t'
+Ord. No. 0347-23
+APPRovED:[)EClg20?3
+2023
+SEBASTIAN
+City ,a"VY v
+ATTESTED:
+ATTY. FRAN
+Acting
+H. IAYOG
+inistrator
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICUI,AR TRAFFIC FROM
+NOVEMBER 28,2023 UP TO FEBRUARY 28,2024 PARTICULARLY THE STREETS ALONG DAVAO
+CITY COASTAL ROAD_(TALOMO SECTTON)- DAVAO-BUKIDNON ROAD (CATALUNAN peQUeNOMINTAL-CAUNAN SECnON-BY PASS ROAD (VTADUCT) rN CONNECTTON WITH THE DPWH
+PROJECT WITH CONTRACT NUMBER 2OLOO147

@@ -1,0 +1,210 @@
+---
+ordinance_number: "0532-24"
+title: "Ordinance No. 0532-24"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0532-24 (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0532-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | - |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Gty, of Davao
+2Ot'City Council
+22nd Regular Session
+SERIES of 2024
+PRESEilT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+AESEt{T:
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+lonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Trisha Ann J. Villafuerte
+Jesus Joseph P.Zozobrado III
+- Presiding Officer
+On Domestic Emergency Leave
+Nilo M. Abellera Jr.
+Lorenzo Benjamin D. Villafuefte
+oRDINANCE [rto, A5?2-24
+SERIES of 2024
+AN ORDINAilCE AUTHORIZING THE CITY MAYOR
+TO ENTER INTO AND SIGN, FOR AND IN BEHALF
+oF THE CITY OF DAVAO, THE MEUORANDUM OF
+AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN TOSE MARIA COLLEGE FOUNDATION
+rNc., AND THE CITY OF DAVAO REIATM TO THE
+FREE USE OF THE 1ATTER OF THE THESIS OWNED
+By THE FORMER, rI{ LINE WITH THE *DAVAO CrTY
+UNITY AWARDS"
+
+Ord. No. A532-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled
+that
+SECTIOil 1. TITLE - This Ordinance shall be knourn as "All ORDII{A}ICE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE Crry OF DAVAO, THE MEMORANDUM OF AGREEMENT (ilOA)
+TO BE ENTERED INTO BY AND BETWEEN JOSE MARIA COLLEGE FOUNDATION,
+INC. AND THE CITY OF DAVAO REI.ATTVE TO THE FREE USE OF THE LATTER OF
+THE THESTS OWNED By rHE FORME& rN LINE WITH THE *DAVAO CrTY UNrrY
+AWARI)S".
+SECTION 2.
+- Sections 22 (a) (5) (c) and 455 (b)
+(1) (vi) of Republic Act No. 7160 or the Local Government Code of 1991 provide that:
+'SECTION 22. Corryate Po$rcrs
+(a) Every local government unit, as a corporation, shall
+have the following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract
+may be entered into by the local chief executive in behalf
+of the local government unit without prior authorization
+by the sanggunian concerned. A legible copy of such
+contract shall be posted at a conspicuous place in the
+provincial capitol or the city, municipal or barangay hall".
+'SECTION 455. Chief Exrcutive; Powers, Duties and
+Compenation.
+)oo(
+(b) For efficient, effective and economicalgovernance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city
+mayor shall:
+(1) Exercise general supervision and control over all
+programs, projects, services, and activities of the city
+government and in this connection, shall:
+)oo(
+(vi) Represent the city in all its business transactions and
+sign in its behalf all bonds, contracts, and obligations, and
+such other documents upon authority of the SANGGUNIANG
+panlungsod or pursuant to law or ordinance."
+SECTION 3. AUTHORIW - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the City of Davao, the Memorandum
+of Agreement (MOA) to be entered into by and between Jose Maria College Foundation,
+Inc. and the City of Davao relative to the free use of the latter of the thesis owned by the
+former, in line with the "Davao City Unity Awards".
+)oo(
+)oo(
+
+Ppge 3 of 3
+Ord. No. 0532-24
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutisul or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEEGITVIT\I - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 1lh day of June2024,by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED OORRECTI
+For and in the absence of the Secretary:
+'*<c'/
+DIA, THERESA A, R,EYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+,l_i
+ATTESTED:
+t. MELeffi,B. eurrArN JR.
+/
+Vice Mayor
+Presiding Officer
+mbr/kjtq
+JUL 0 I 2024
+2424
+APPROVED
+SE
+Z. DUTERTE
+v
+Mavor.
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+ministrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AI{D SIGN, FOR A'T{D IN BEHAIF OF
+THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED TNTO BY AND
+BETWEEN JOSE MARIA COLLEGE FOUNDATION [NC., AND THE CITY OF DAVAO REIATIVE TO THE FREE
+USE OF THE I.ATTER OF THE THESTS OWNED BY THE FORMER, IN LINE WTTH THE'DAVAO CITY UNITY
+AWARDS"

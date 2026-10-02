@@ -1,0 +1,454 @@
+---
+ordinance_number: "081-16"
+title: "AN ORDINANCE GRANIING LEGISL{ITi'E AUIEORITY TO IEE CITY MAYOB TO ENTf,R INTO A$tD SIGN, TOR AND IN BEEAI.T OT IEE CITY GOVEf,NMINT OT DAVAO, TEX MEMORANDT]M OT AGBEEMENT Of DA}'AO AND TEf, NAIIONAL TOOD AUTEOBITY NTA} TOR TEE NTA PBOVINCTAL OTT'ICE TO SELL nICE ON CREDIT TO IEE rONMf,& TOR RELIET DISIRIBUIION OPERATIONS IN IIMIS OT CALAMITIES. 5th hdorgroent 19 Jauuy 2017 RESPECTFIII'LY STIEMITTM"
+date_enacted: null
+approval_date: "2016-11-16"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 081-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/graniing, topic/legisl, topic/auieority, topic/mayob, topic/entf, topic/sign]
+---
+
+# Ordinance No. 081-16
+
+> AN ORDINANCE GRANIING LEGISL{ITi'E AUIEORITY TO IEE CITY MAYOB TO ENTf,R INTO A$tD SIGN, TOR AND IN BEEAI.T OT IEE CITY GOVEf,NMINT OT DAVAO, TEX MEMORANDT]M OT AGBEEMENT Of DA}'AO AND TEf, NAIIONAL TOOD AUTEOBITY NTA} TOR TEE NTA PBOVINCTAL OTT'ICE TO SELL nICE ON CREDIT TO IEE rONMf,& TOR RELIET DISIRIBUIION OPERATIONS IN IIMIS OT CALAMITIES. 5th hdorgroent 19 Jauuy 2017 RESPECTFIII'LY STIEMITTM
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Cites or amends
+
+- [[Ordinance No. 082-16]]
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 16,052 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2016\Ordinance No. 081-16.txt`*
+
+Repu$lic of the PhlllPPines
+CftY of Olv.o
+Dante L. Apostql Sr.
+Iraob Z. Duterte
+Nilo M. Abellera Jr,
+Maria Belen S, Acosta
+Victorio U. Advincula Jr,
+Bemard E. Al-ag
+Al Ryan S. Alejandre
+Conrado C. Baluran
+Ma. Cherry Ann l,l. Bonguyan
+Pilar C. Braga
+Danilo C, Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+January N. Dubrte
+Edgar P. Ibuyan Jr.
+Dimdado Angelo A. Mahipus Sr.
+Bonifacio E. MiliEr
+Avegayle Dalodo 0rtiz
+J. Melchor B. Quitain Jr.
+Halila Y. Sudagar
+Mary Jwelle D, VillafuertB
+Jesus Jceph P. Zozobrado trI
+Temporary Presiding Offi cer
+Atbnded a Consultation on the
+Elease of Polltlcal Pftonets
+Attended a Policy Forum on
+Empbynrcnt and Skilb Strategy
+On Sick Leave
+On Vacation Leave
+On Vacation Leave
+18h City Council
+146 Regular Session
+SERIES of 2016
+PR.ESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+OlI OTfICIAI. BUSIIIESS:
+Councilor
+Councilor
+ABSEIIT:
+Councilor
+Councilor
+Councilor
+LEah A. Librado-Yap
+Antoinette G. Pri ncipe{astrodes
+Joanne M. BonguyanQuilos
+Rene Elias C. Lopez
+Marisa P. Salvador-Abella
+oR.DIlrAflCE ]tO. O8l-15
+Serle of 2Ol5
+AI{ ORDITIAIICE GRATITIIIG I.-EGISIITIVE AUTIIORITY
+TO THE CITY TTAYOR TO ETITER ITITO AflD $IGTI, FOR
+AIID III BEHAI.f OF THE CITY GOYER'IiIEIIT OF DAYAO,
+THE REIIEWAL OF THE IIIE],IORAIIDUI.I OF AGREEITIETIT
+(rrtoA) To BE EI|TERED rltTo By AilD BETWEEI{
+PARKLAIIE WEST ACADEtitY, IilC. AI|D THE CITY
+mvERI{t'tEilT OF DAVAO, FOR THE OI{-THE_JOB
+IRAIT{II|G (OJT) OF THE HEALTH CARE SERVICES ltc rr
+STUDETITS OF THE FORTTIER AT LII{GAP CETITER FoR
+MEilTAI.IY CHALLE T{GED CH ILDREI{
+St ,tffi
+
+Page 2 of3'
+0rd. No.08I 15
+Be it ordained by the SANGGUNIANG Panlungsod of Dava city in session assembld
+that.
+This Ordinance shall take eflect
+EtlgrED, october 11, 2015, by a majority vote of all the Members of the
+Sanggunian present.
+CERTIFIED CORRECT:
+sEcrlotl r' uI[E- This ordinance shall be known m 'AIl oRDrIlAficE
+GRATTITG I.EGISLITIYE AUTHORITY TO THE CITY
+',IAYOR
+TO ETITER IIITO A'ID
+SIGII, FOR AIID III BEHAI.f OF THE CITY GOVER.TIIIETIT OF DAYAO, l?IE
+REIlEryff- oF rHE l,lElrloR ItDUil oF AGREEI|EIT (itoA) To BE EilTERED fitro
+BY ArlD BETWEETI PARKI,iIIE WEST ICADEi,IY, iTTC, A'ID THE CITY
+GOUERTII{ETIT OF DAYAO, FOR THE OT{-THE-JOB TRAI]IIIIG (OJT) OF THE
+HEALTH CARE SERYICEIi lIC U STUDEIIIS OF I}IE FORHER rT lI'ilGri' CETITER
+FOR I,IEIITAI..LY CHAII.EIIGED CHII.DREII";
+_
+SECIIOil Z DECI.IS IIOil OF EOtIff. - Subparasraph (vi), parasraph (b),
+SECTION 455 ofRepublic Act 7160, othenrvi known as the Local c*vernment codL of 1991,
+provides:
+"fur efficient, effctive and eonqmical gwemance the
+puryose of which is the general uldfare of tfie city and its
+inhabitants pursuant to SECTION 16 of this Code, he city
+mayor shall represent the oty in all its busine*
+transacbons and sign In its behalf all bonds, contrats, and
+obligations, and such odrer documents upon authority of
+the SANGGUNIANG panlungsod or pursuant to law or
+ordinance";
+-
+sEcrlotl 3' lgllloBfrY- - The city Mayor is hereby granted auttoriry to sron,
+,'ui .:ii,i ir: t€li;lf L.l the city Government of Daver;, $e renev/al cf the Meri-roraridur, trf
+Alr,:rlx:nt i!1(lAi tr he enter-ed rnto by and lxFrvet:n parklane we* AcarJemy, Inc anc
+the c'ty (bvernr,rcnt of Davm, for the on-ttrelob training (o-tr) of the frrmer's Heal€r
+tire Serviee NC II shrdentg at ungap cerrter for Mentally chaileng€d children;
+SECTIOII 4. EEPABAESJII CIXUSE. - If for any relison, any sabon or
+proYision of Stis Ordinance is declared unconstitutional or invalid, o$tei'sections i;r
+Frovi8ionf [ersof nct affecied hy such declaraBon shall contnue bo be in full force and
+effect;
+sBcTroil s. EEEEgmnrY CLAUSE.
+irnmdiately upon approval;
+ak'l..&{*
+Secretary to the Sanggiunrang Fanlungsc#
+D
+t.
+sR.
+Councilor
+Tem porary Presiding Offi cer
+cns/rchad
+ATTESTED:
+(City Govemment Department Head tr,
+
+Ortl. No, O8l 16
+APPROVED: ilov I llutb_,201t1
+Z. DUTERTE
+City Mayor
+ATTESTED
+ATTY. ZUTEII(A
+LOPEZ
+City Administrator#
+g^...-
+
+KXOIY ALL IEII BY T}IESE PRESEI{TS:
+nlis El(nlff,Ifl OF AGiEE5I{T b rrB& ad ex€o$ed by ild bettmr
+PAnf,LATE f,E|fT ACAIEf, !G- an edrdixrd iutih.din ddy cga&Ed ad exi$ig ry vite d
+Ptf,ppineLasufhpr*x*dfficed5/2L.Ha.agees.Daec{y,reprcser*edbybpresireril
+mrc[Es
+IRIXUO A. TAtl" hereir#rctoredb as FRST PAlTf.
+AND
+IIE CITY G(wEnf*IfT Of DAY O lltt p.inird #Ess d Daym q iH Drive, Dara City
+rewsered h 0rb idare b, crY I^Ym slRA z q.trEmECAm, herei& retured as sEcoto
+PARW.
+XITESEIH:
+UIffAS' tP FIRST PARTY b rr ertrcdiod imfrfton fring I'l€affr Cae Seryixs ]6 lt (HCS NC tl) rg$dring
+flE sfrrd€rG b undergo a epmre ad fairiq in aff*d hedr cae I erfu# frdy;
+mffAll, he SECOIA PARTY sferit€s he opere*ns d a tldr Cae ffi
+Cilk ako krowr a
+LrlGAP CEilIER Fm EfrAlrY - clllLLEltcEl) ol.lnil, hcded d Dwiil sr., T'jgbok, klrdo city x,ht l
+pinarry ce n€d*d, *ildonod ild *rsd ,nc@dderrged rrCe dddEn zld dler dr$ften ne€&tg
+spa*tpreabn,
+HtmE^& sEcotlD PARTY egrBes b be e prtrer fti*u cerbr c, tre FRsr pARTy in he ddiyery d
+ard fadad tedt;ngs dniru fte fu
+orr fra Job Trd'riq:
+IIIAT he pdbs M rn*dt AH atd Grit G fu166:
+1. FreT PARTY dd trilib SECOiE) P^RTY b td dt*rees dle (l) * ke ranring fi,ls;
+2. SECOI{D PARTY gtC dfy 'o,pf triEes flr en&rsemer* lefrer hm HRSI pARTy , ryu,ed by fs
+Plogran Oiefr adcuffirrdty+iHC&t
+ffiucbe
+3. SECOilD P RTY *t Fr*b &e trtu= * generd cirrtdin d G prcgrans, servi-s, oa&r,s
+nfesr$ri*arE ad ESldiins.
+4. FHSf PARTYttus 4le b ffi tp re ad regddins dsE@i[) pAfify *dr$ h6 fte rirt b
+de*p a pnf.*n t*E b ofi{irp &e i**g fr ary *retx A:ned.
+5. TheFUISTPARTY!*EB$dte *Edbhandptted{d€n,stictbthedotriry nde3 :
+. Tr*rc aedrised U@0noffii*yof he hadeddanb.
+. Tr*tes assi{irg fte aiped derls drd &erre fry deonrn
+r Tripessltdcf*rtunttsip rEgriiruard&mivernzts dhr$loke dcrit€clcris
+dary&c,
+o lrkip bnrl#*denBaemsbshthn
+SECOND PARTY rcserves the (ff b blrrirde strdenfs #atin t6e tdnees H b csnpty
+dh ilyarfunb ard mgiddim staaed dore.
+OXEMRAfl TXfl OF AGREEf, EI{T
+/V
+..A \-.
+(
+
+2t
+6. FAST PARTY ad ls tim $d be iiQ lde h ary dilry ur h Fperry d SECOSO pARTy
+ad brary i*ry caEed bhe haldeddcrlb dri{ [E pqiodd!ii*rg;
+7. FBS.r PARIYddpriba Clri:t HrtrJpdrd be cb€*yspefliigtc pertunaed0re
+t*r6.
+8. Tr*Ees tl tu*ra d*rrrn ol ElGilT (8) lurs prrhy fr FIYE (e @s d on tc lob k*riq ;
+9. Fffif PARTYd issrac€r{iEdTrittrbb tripes &ompf*ndte rcqr,cd nnoend
+e{y hcrls, *rred by !n pogrrn hed d bilr pflieq
+Tlu fb{EebHtrroorC, $& i* {Ecdad H aryyiidin dary Ftdfib q,rgrEltd b
+sftbrilSfidfutc iEr# ffii
+dliscrfrt.
+ftb f*nradn d &tretllril $d Eh €ftct m Jau y 7. 2017 fur a Frbd d Tm fa Eas
+n H* itere& $cn Drtd 4rEtl€'t d he Fles lE eh, 'rh Erlitded by crE c, tE pali,s h f,rfi{,
+$rirFtrbndbe.
+lN WIINESS V$EREOF, EE pattss hac tEtgnto eed thet s{yrdrnes hb
+day d
+6 in Dara Cily, n*X*nes
+PARKLANE WEST ACADEMY, INC
+CITY @lERSilEiTT OF MVAO
+nepesaH!p
+Represer&Obf
+k""-M
+Ifl'OR SARA Z IX'IERIE{ARHO
+/ ."*t 8tlL*
+PresiJent
+urtEsiEs
+.EFF
+vt$!.I--'--
+IA. LIfiSA T. EERT'DO, ffi, Rfl
+Prog|-dn lbad ll
+REPI'BLIC OF THE PfIIUPPINES
+PROVII,ICE OF DAVAO DEL SUR }
+CITY OF DAVAO) S.S.
+IUTNESSHYIIANDSEAI-tSS dayd
+onlR . in Da,m City, Philipr*res.
+I {nErzqrDG.ih. Iq
+Pageilo. 4,
+Book i,lo. ry,t
+Sori€s d20,16
+Care
+TO$&III.EDGETENT
+BEFoRE [G, a notay pstc tu ard o *
+fl[llA0 Cl'[ I *oo* apeaed ]xtccs
+IRlC}lD A TAX ufi &mar of hbmd &rsrn lBffi l.D issnd s] JauryT-Zm bsued d Dam Cty
+krxr b rr ad to re bmt bmtp sanc persur dDtresarr pason nto emrtsd tn breg*A trtnlrrd
+c{ [E m,ANIX.fif OF AGmBENT, rt**r irfirl:ni cG*sG of {2) pEes, irddtg tte pqe m uti* tds
+l*naledgernrn b $he.t, nrd qFed dtte lefl m4ir d edt e\Eiy page tE paty emedtHtg ttb irsfrrrcnt ad
+fteir uiheses, and sealed rilh rry ndnid sed srd he s*t paties ac*noddged b n: tld tre sarc b tpk wr
+free volrilay deed.
+st#6":*
+r..
+.i.1lr,:tney No. 51942
+. .-.Jmbe. 31, 2016
+
+Republic oithe Philipprnes
+OMTCE OT TIIE CTTY LEGAL OTFICER
+-o0o_
+No,
+5th Indorsern a::
+19 Jmuai 20r 7
+RESPEC TFIII I Y S TTBMIIIED
+o
+Assir*t
+City Legal Ofticer, CIC
+c
+StiBJf,CT: AN ORDI]{{NCE GR,{NTING LIGISL.TTI}t AITIHORIT}' TO
+TEE CITY M.{YOE TO ENTER INTO A}M SIGN, TOR.{ND IN
+BEEALF OF TEE CITI' GO\iERIt{trtENT Of DAI'AO, TEE
+MEMOR{]IIDTII{ Or AGRI,EI\{EM OT' DAV.q,O AND- TIIE
+NAfiONAL TOOD AUIIIORITi' (I!TA} TOR IEE NI'A
+PRO'}IINCIAL OIT'ICE TO SELL RICE OIti CREDIT TO IH},.
+T'ORMER. trIOR RrI,rFT' DISIXIBTTIION OPf,R{IIONS iN
+IIMf,S OT CALA}IIITES.
+Ref CodeNo. 11-?1-17Scio cf
+)
+VA,JR.
+.
+Respec$rlll' rcturnedto th".gm"! of the Saggumag paolungsod. this City, the
+above sub-iec mdtrr, togdher with other pettineni -docrrn-ents reiited ther*to.' *rty
+notat ized as requested.
+A
+o
+a
+o
+tflE
+lr:
+RECE,t/ED
+1o
+OPli.OlM,"l,r
+a
+-t-/l
+
+Republic of the Philippia*
+OMTCE OT TEE CITY LEGALOII'ICEB
+City ofDavao
+-o0oRd CodeNo. lI3I-17Scicr of
+SIIBJECT: AN ORDINANCE GRANIING LEGISL{ITi'E AUIEORITY TO
+IEE CITY MAYOB TO ENTf,R INTO A$tD SIGN, TOR AND IN
+BEEAI.T OT IEE CITY GOVEf,NMINT OT DAVAO, TEX
+MEMORANDT]M OT AGBEEMENT Of DA}'AO AND TEf,
+NAIIONAL TOOD AUTEOBITY NTA} TOR TEE NTA
+PBOVINCTAL OTT'ICE TO SELL nICE ON CREDIT TO IEE
+rONMf,& TOR RELIET DISIRIBUIION OPERATIONS IN
+IIMIS OT CALAMITIES.
+5th hdorgroent
+19 Jauuy 2017
+RESPECTFIII'LY STIEMITTM.
+OSMUNDO P. }ILLANUEVA,, JB.
+Assistd City Legal Officer, OIC
+o
+N3:
+Respectfirlly rctumedto the 0ffice of ttr Sagguniag Pmluagsod, this City, the
+above subjed mdter-, togtther rffith cther pertiaetrt docrnests relded therdo., &ly
+aotarized as reqrrcsted.
+}.lo
+OPV:OPM:ryu
+a
+D
+t
+
+'
+Republika ng Pilipifibs
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+LUNGSOD NG DABAW :gO
+November 21,2016
+cM6J"CtiD
+SARA Z. DUTERTE
+City Mayor
+RECfi!\./EB
+,ri
+L
+Madam:
+ilu+po rr,
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Afticle One, TiUe Five,
+chapter 3, Book uI and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 0203-16 and ordinance No. 082-16, both SERIES of 2016 of the
+SANGGUNIANG Panlungsod, with seven (7) sets of copies of the Memorandum of
+Agreement to be entered into by and between the city Government of Davao and the
+National Food Authority (NFA), for the NFA provincial office to sell Rice on Credit to the
+former, for Relief Distribution operations in Times of calamities, for your information,
+guidance, and appropriate action.
+Very truly yours,
+u-uttt
+4,e8
+drforro\.&fros
+Secretary to the SANGGUNIANG panlungsod
+(City Government Department Head II)
+cns/nta
+/
+JtY- il4(
+tO
+tm
+
+ffiaacrsttG
+.:t
+a
+4th INDoRSEMENT
+December 19,2016
+L,
+'r)
+! g:')o '''
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein approved Ordinance No. 08116, SERIES ot 2OL6, entitled "AN ORDINANCE GRANTING LEGISLATIVE
+AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN
+PARKLANE WEST ACADEMY, INC. AND THE CITY GOVERNMENT OF DAVAO, FOR
+THE ON-THE JOB TRAINING (OJT) OF THE HEALTH CARE SERVICES NC II
+STUDENTS OF THE FORMER AT LINGAP CENTER FOR MENTALLY CHALLENGED
+CHILDREN," with the attached MEMORANDUM OF AGREEMENT (MOA) duly
+signed and notarized, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+MINGO
+RTLEASEE
+DEC2IiU
+10{iEr
+RES
+!I:
+I)A'I E;
+2/
+)" o -a -tc'
+Second Floor, City Hall Building, San Pedro St., Davao City
+(O82) 227 -257 7 . (082\ 224-587 8. dava ocitymayo r@g m a i l.co m
+)
+o
+T
+OFFICE OF THE CIry MAYOR
+Assistant City Admi nistrator
+(Administration)
+CMO ' CRD
+t
+
+r@
+Republii of the Philippines
+OTFIf,E OF THE CITY LEGAL OFFICER
+-oOooFFlcr ^r -'r': "
+tECtr'Ji. FF^
+lAr: ---Uiv-
+'lmE:----:- - '
+Reference Code Ho- 1131-15EE D{lEr EM EH-!,, F Eatr tl Fi I+ ii+iI.ii;
+,1{-1. fl,|
+="p_iE= +F isi+
+3td lndorsement
+l5 De{ember i016
+Repeid,-rJi:., r-eiu rl;ed to ATTY. TRISTAU DIiJIEHT F. DOMIITGO,
+As.listant

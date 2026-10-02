@@ -1,0 +1,187 @@
+---
+ordinance_number: null
+title: "Ordinance No. 000716-21"
+date_enacted: "2021-09-14"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000716-21.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid]
+---
+
+# Ordinance No. 000716-21
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+t!,
+t!}
+d:
+trd[ao
+'I
+2i
+b TTo
+Office of the€angguniang Panlungsod
+19th City Council
+34th Regular Session
+SERIES of 202L
+PRESENT
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. At-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Alberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+Sebastian Z. Dutefte
+Richlyn N. lustol-Baguilod
+- Temporary Presiding Officer
+ABSENT:
+Vice Mayor
+Councilor
+ORDINANCE NO. 0716-2I
+SERIES of 2O2L
+AN ORDTNANCE AUTHORTZING THE CITY MAYOR TO
+ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE
+crTY oF DAVAO, THE DEED OF SALE FOR THE LOT
+UNDER THE SLUM IMPROVEMENT AND
+RESETTLEMENT (SIR) PROGRAM NAMELY: PIAPI
+UPGRADING AREA AND PIAPI COMMERCIAL AREA;
+AND NEW MATINA SITES AND SERVICES PHASES 1
+AND 2, PARTICULARLY IDENTIFIED AS BLOCK 137,
+LOT 21, NEW MATINA SITES AND SERVTCES, PHASE
+II, DAVAO CITY, CONSTSTTNG OF SEVENTY-FM (75)
+SQUARE METERS, MORE OR LESS, IN FAVOR OF
+LORENZO C. MAGHANOY
+- On Official Business
+- On Special Privilege Leave
+
+Ord. No. 07L6-2t
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION 1. ELE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CrTY OF DAVAO, THE DEED OF SALE FOR THE LOT UNDER
+THE SLUM IMPROVEMENT AND RESETTLEMENT (SIR) PROGRAM NAMELY:
+PIAPI UPGRADING AREA AND PIAPI COMMERCIAL AREA; AND NEW MATINA
+SITES AND SERVICES PHASES 1 AND 2, PARTICULARLY IDENTIFIED AS
+BLOCK 137, LOT 21, NEW MATINA SITES AND SERVTCES, PHASE II, DAVAO
+cITy, coNsrsTrNc oF SEVENTY-FM (75) SQUARE METERS, MORE OR LESS,
+IN FAVOR OF LORENZO C. MAGHANOY".
+sEcTIoN2.W-TheCityMayorisherebyauthorizedtoenterinto
+and sign, for and in behalf of the City of Davao, the Deed of Sale for the lot in the Slum
+Improvement and Resettlement (SIR) Program namely: Piapi Upgrading Area and Piapi
+Commercial Area; and New Matina Sites and Services Phases 1 and 2, pafticularly
+identified as Block 137, Lot 21, New Matina Sites and Seruices, Phase II, Davao City,
+consisting of Seventy-Five (75) square meters, more or less, in favor of Lorenzo C.
+Maghanoy.
+SECTION 3. SEPARABILIW CLAUSE - lf , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 4. EFFECTIVITY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 14th day of September 2021, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+a*k*148,1, #ff-o,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Heaci II)
+ATTESTED:
+EDGAR P.
+R.
+President Pro Tempore
+Temporary Presiding Officer
+cns/bern
+t
+
+Ord. No.'07t6-2t
+APPROVED: licvlg20n
+202L
+SARA
+cz City Mayorv
+ATTESTED:
+. ZULEIKA
+LOPEZ
+City Administrator 7
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE DEED OF SALE FOR THE LOT UNDER THE SLUM IMPROVEMENT AND
+RESETTLEMENT (SIR) PROGRAM NAMELY: PIAPI UPGRADING AREA AND PIAPI COMMERCIAL AREA; AND
+NEW MATINA SITES AND SERVICES PHASES 1 AND 2, PARTICUI.ARLY IDENTIFIED AS BLOCK 137, LOT
+21, NEW MATINA SITES AND SERVICES, PHASE II, DAVAO CITY, CONSISTING OF SEVENTY-FIVE (75)
+SQUARE METERS, MORE OR LESS, IN FAVOR OF LORENZO C. MAGHANOY

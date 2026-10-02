@@ -1,0 +1,201 @@
+---
+ordinance_number: "0927-22"
+title: "AN ORDINANCE AUTHORIZII{G THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE EXECUTED BY AND BETWEEN THE CITY OF DAVAO AND THE PHILIPPINE NATIONAL POLICE, POLTCE STATTON 20 LOS AMIGOS, RELATTVE TO THE USE OF THE LATTER OF A PARCEL OF IAND LOCATED ALONG KM. 22, BARANGAY LOS AMTGOS, TUGBOK DTSTRTCT, THIS CITY"
+date_enacted: "2022-04-12"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000927-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/authorizii, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/deed]
+---
+
+# Ordinance No. 0927-22
+
+> AN ORDINANCE AUTHORIZII{G THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF USUFRUCT TO BE EXECUTED BY AND BETWEEN THE CITY OF DAVAO AND THE PHILIPPINE NATIONAL POLICE, POLTCE STATTON 20 LOS AMIGOS, RELATTVE TO THE USE OF THE LATTER OF A PARCEL OF IAND LOCATED ALONG KM. 22, BARANGAY LOS AMTGOS, TUGBOK DTSTRTCT, THIS CITY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+t4h Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councillor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Augusto Javier G. Campos III
+- Temporary Presiding Offtcer
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+- OB-Acting City Mayor
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Wilbefto E. Al-ag
+Councilor Bonifacio E. Militar
+- On Sick Leave
+Councilor Mary Joselle D. Villafuefte
+ORDINANCE NO. 0927-22
+SERIES ol2022
+AN ORDINANCE AUTHORIZII{G THE CITY MAYOR TO ENTER
+INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE DEED OF USUFRUCT TO BE EXECUTED BY AND BETWEEN
+THE CITY OF DAVAO AND THE PHILIPPINE NATIONAL POLICE,
+POLTCE STATTON 20 LOS AMIGOS, RELATTVE TO THE USE OF THE
+LATTER OF A PARCEL OF IAND LOCATED ALONG KM. 22,
+BARANGAY LOS AMTGOS, TUGBOK DTSTRTCT, THIS CITY
+
+Ord. No. 0927-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTION l. I[tE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AilD IN
+BEHALF OF THE CrTY OF DAVAO, THE DEED OF USUFRUCT TO BE EXECUTED
+BY AND BETWEEN THE CITY OF DAVAO AND THE PHILIPPIilE NATIONAT
+polrcE sTATroN 20 Los AMrGos, RETATTVE TO THE USE OF THE LATTER OF
+A PARCEL OF IAND LOCATED ALONG KM. 22, BARANGAY LOS AMTGOS,
+TUGBOK DTSTRTCT, THrS Cfil".
+SECTIOil 2. DECLARATION OF POLICY - SECTION 22 (a) (5) and (c) and
+SECTION 455 (b) (1) (vi) of Republic Act 7t60, otherwise known as the Local
+Government Code of 1991 provide:
+"SECTION 22, Cotryrate Powers.
+(a) Every local government unit, as a corporation, shall have the
+following powers: tr/(
+5) To enter into contracts: and ,uor
+c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the Sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal
+or barangay hall.
+SECTION 455. Chief Executive; Powerc, Duties and
+Compensation. no(
+(1) Exercise general superuision and control over all programs,
+projects, and activities of the City Government, and in this
+connection, shall:
+)00(
+rco(
+)Ofr
+(vi) Represent the city in al! its business transactions and sign in
+its behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the sanggunian panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORIW - The City Mayor is hereby granted legislative
+authority to enter into and sign the Deed of Usufruct to be executed by and between
+the City of Davao and the Philippine National Police Police Station 20 Los Amigos,
+(b) For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city mayor
+shall:
+
+Ord. No. 0927-22
+relative to the use of the latter of a parcel of land situated along Km.22, Barangay Los
+Amigos, Tugbok District, this City.
+SECTIOil 4. W
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effiect.
+SECTION 5. EEEEQru - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, this 12th day of April 2022, by a unanimous vote of all Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ Qlvw,i \. /"^
+CHARITO N. SAilTOS
+Secretary to the Sanggunia6g Panlungsod
+(City Government Department Head IQ./
+ATTESTED:
+ATTESTED:
+G.
+Cou
+Temporary Presiding Officer
+mbr/njb
+III
+lA^'l l3
+APPROVED: MAY I 3 IllN ,2022
+SARA Z. DUTERTE
+- Crty Mayor. ,r
+DUTIN;:
+T.
+Acting City Mayor I
+City
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CTTY OF DAVAO, THE DEED OF USUFRUCT TO BE EXECUTED BY AND BETWEEN THE CITY OF
+DAVAO AND THE PHILIPPINE NATIONAL POUCE STATION 20 LOS AMIGOS, REI.ATIVE TO THE USE OF
+THE LATTER OF A PARCEL OF t AND LOCATED ALONG KM. 22, BARANGAY LOS AMIGOS, TUGBOK
+DISTRICT, THIS CITY
+ATTY.
+-

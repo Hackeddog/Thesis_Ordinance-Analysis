@@ -1,0 +1,216 @@
+---
+ordinance_number: "0425-24"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE EXECUTED AMONG THE CrTy OF DAVAO, DAVAO CrTy RIC.IP WOMEN'S ASSOCIATION AND ATA WOMEN ASSOCIATION OF PAQUTBATO DTSTRTCT, RELATTVE TO THE DONATTON OF ErGHW-SEVEN (87) UNrTS OF HOUSEHOLD SEWTNG MACHTNES, TDENTTFIED AS tA2-2 SEWING MACHTNE WrTH PORTABLE PLASTTC CASE AND M"
+date_enacted: "2024-02-06"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0425-24 -Deed of Donation, RIC-IP Women (1).pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.85
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/deed]
+---
+
+# Ordinance No. 0425-24
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE EXECUTED AMONG THE CrTy OF DAVAO, DAVAO CrTy RIC.IP WOMEN'S ASSOCIATION AND ATA WOMEN ASSOCIATION OF PAQUTBATO DTSTRTCT, RELATTVE TO THE DONATTON OF ErGHW-SEVEN (87) UNrTS OF HOUSEHOLD SEWTNG MACHTNES, TDENTTFIED AS tA2-2 SEWING MACHTNE WrTH PORTABLE PLASTTC CASE AND M
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2021 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic,of th'e Philippines
+20th City Council
+5th Regular Session
+SERIES of 2024
+PRESENT
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Bernard E. Al-ag
+January N. Dutefte
+Presiding Officer
+- On Special Privilege Leave
+ORDINANCE NO. 0425-24
+SERIES of 2024
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF
+DONATION TO BE EXECUTED AMONG THE CrTy OF DAVAO, DAVAO CrTy
+RIC.IP WOMEN'S ASSOCIATION AND ATA WOMEN ASSOCIATION OF
+PAQUTBATO DTSTRTCT, RELATTVE TO THE DONATTON OF ErGHW-SEVEN
+(87) UNrTS OF HOUSEHOLD SEWTNG MACHTNES, TDENTTFIED AS tA2-2
+SEWING MACHTNE WrTH PORTABLE PLASTTC CASE AND MOTO& rN
+RECOGNITION AND SUPPORT TO THE WORK DONE TO EMPOWER THE
+BAGOBO TAGABAW& OBU MANUVU AND ATA INDIGENOUS CUTTURAL
+CoMMuNmES/INDIGENOUS PEOPLES (rCCS/rpS) AND ENHANCE THErR
+QUALIW OF LrFE AND ECONOMTC DEVELOPMENT
+
+Ord. No. 0425-24
+'
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATTON TO BE EXECUTED
+AMONG THE CITY OF DAVAO, DAVAO CITY RIC.IP WOMEN'S ASSOCIATION
+AND ATA WOMEN ASSOCIATION OF PAQUIBATO DISTRICT, RELATIVE TO
+THE DONATION OF EIGHTY.SEVEN (87) UNITS OF HOUSEHOLD SEWING
+MACHINES, IDENTIFIED AS JA2.2 SEWING MACHINE WITH PORTABLE
+PTASTIC CASE AND MOTO& IN RECOGNITION AND SUPPORT TO THE WORK
+DONE TO EMPOWER THE BAGOBO TAGABAWA, OBU MANUVU AND ATA
+TNDTGENOUS CULTURAL COMMUNTTTES/TNDTGENOUS PEOPLES (rCCS/rpS)
+AND ENHANCE THEIR QUALIW OF LIFE AND ECONOMIC DEVELOPMENT.'
+sEcrroN 2. DECLARATTON oF PoLrcy - sections 22 (a) (5) and (c) and
+455 (b) (1) (vi) of Republic Act No. 1760 or the Local Government Code of 1991
+provide that:
+"SECTION 22. Corporate Powerc.-
+a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the rocal
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or city, municipal or
+barangay hall."
+"SECTION 455. Chief Erecutive; Powers, Duties and Compensation.-
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant
+to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government, and in this
+connection, shall:
+no(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORIW - The City Mayor is hereby granted legislative
+authority to enter into and sign, for and in behalf of the city of
+Davao, the Deed of Donation to be executed among the City of Davao, Davao City RICIP Women's Association and Ata Women Association of Paquibato District, relative to
+the donation of eighty-seven (87) units of Household Sewing Machines, identified as
+JA2-2 Sewing Machine with Portable Plastic Case and Motor, in recognition and support
+to the work done to empower the Bagobo Tagabawa, Obu Manuvu and Ata Indigenous
+Cultural Communities/Indigenous Peoples (ICCS/IPS) and enhance their quality of life
+and economic development.
+a'
+
+Ord. No. 0425-24
+SECTION 4. SEPARABILIW CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force
+and effect.
+SECTION 5. EFFECTMW - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on the 6th day of February 2024, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cnkg*)r#fr,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II) {n
+ATTESTED:
+ATTESTED:
+J. MELCTI6R B. QUITAIN JR.
+/ Vice Mayor
+Presiding Oificer
+cns/ray
+APPROVED:
+SE
+FEB 2 I 2021
+DUTERTE
+Y
+2024
+H. LAYOG
+Acting
+nistrator
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE EXECUTED AMONG THE CITY
+OF DAVAO, DAVAO CITY RIC-IP WOMEN'S ASSOCIATION AND ATA WOMEN ASSOCIATION OF
+PAQUIBATO DISTRICT, RELATIVE TO THE DONATTON OF EIGHTY-SEVEN (87) UNITS OF
+HOUSEHOLD SEWING MACHINES, IDENTIFIED AS JA2.2 SEWING MACHINE WITH PORTABLE
+PLAfiC CASE AND MOTOR, IN RECOGNMON AND SUPPORT TO THE WORK DONE TO
+EMPOWER THE BAGOBO TAGABAWA, OBU MANUVU AND ATA INDIGENOUS CULTURAL
+COMMUNMES/INDIGENOUS PEOPLES (ICCS/IPS) AND ENHANCE THEIR QUALITY OF LIFE AND
+ECONOMIC DEVELOPMENT
+ATTY.

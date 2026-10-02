@@ -1,0 +1,433 @@
+---
+ordinance_number: "0590-18"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN AND ACCEPT, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE EXECUTED BY STEEL ASIA MANUFACTURING CORPORATION IN FAVOR OF THE CITY GOVERNMENT OF DAVAO RETATIVE TO THE INSTALT-ATION OF TWENTY (20) SETS OF STEEL PLANT BOXES TO BE INSTALLED AT THE BUHANGIN FLYOVER\", duly signed and notarized, for your appropriate action. For"
+date_enacted: "2018-11-13"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0590-18.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/authorizing, topic/mayor, topic/sign, topic/accept, topic/behalf, topic/government]
+---
+
+# Ordinance No. 0590-18
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN AND ACCEPT, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE EXECUTED BY STEEL ASIA MANUFACTURING CORPORATION IN FAVOR OF THE CITY GOVERNMENT OF DAVAO RETATIVE TO THE INSTALT-ATION OF TWENTY (20) SETS OF STEEL PLANT BOXES TO BE INSTALLED AT THE BUHANGIN FLYOVER", duly signed and notarized, for your appropriate action. For
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,964 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2018\Ordinance No. 0590-18.txt`*
+
+-tt*a
+ilsU!
+Republic of thd Philippines
+OFFICE OF THE CITY IVIAYOR
+rhctslt(
+Ref- ilo: cAd+2019t1591
+7H'INDORSEMENT
+May 6, 2019
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the herein Endorsement/Recommendation No. 96, SERIES of
+2019 dated May 6, 2019 of Atty. Luchie G. Sasing, Attorney III, City Legal Office,
+relative to the attached to Ordinance No. 0590-18, SERIES of 2018 entitled "AN
+ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN AND ACCEPT, FOR AND IN
+BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE
+EXECUTED BY STEEL ASIA MANUFACTURING CORPORATION IN FAVOR OF THE CITY
+GOVERNMENT OF DAVAO RETATIVE TO THE INSTALT-ATION OF TWENTY (20) SETS
+OF STEEL PLANT BOXES TO BE INSTALLED AT THE BUHANGIN FLYOVER", duly signed
+and notarized, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+)
+on *rso'fl#tlff i [5'[rto* or r,,
+RELEASED
+HaY o'7 i31t
+.o,r*6n^*o
+ADMrNlsrRATrvt erot y 2:fr
+4lJ-? - /q
+SecondFloor,CityHallBui!ding,CityHaIlDrive,SanPedroSt.,DavaoCityEffi@
+(082) 224-3OO4 o (082) 241-1OOO loc.265 . davaocitymayor@gmail.cotul iTir ii xene
+
+P.epub!ic of the phi!ippines
+OFFIGE OF THE GITY LEGAL OFFIGER
+Tel no, 227-57-q3 * 225-0183
+Trunk Line No. 241-1000 Loc.267
+afla
+-vvv
+Ref. No. CLO-2019-0001213
+EN DORSEFT ENT/RECOMMENDATTON
+NO. 96 , SERIES oF 2019
+66 tttooRsEMENT
+May 6, 2019
+Respectfully returned to ATTY. TRrsrAN DWIGHT p. DoMrNGo, the
+Assistant City Administrator for Administration, this City, the herein enclosed documents
+relative to City Ordinance No. 0590-18, SERIES of 2018, entitled *AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN AND ACCEPT, FOR AilD IN BEHALF
+OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE
+EXECUTED BY STEET ASIA MANUFACTURING CORPORATION IN FAVOR OF
+THE CITY GOVERNMENT OF DAVAO RELATIVE TO THE INSTALLATION OF
+TWENW (20) SETS OF STEEL PIANT BOXES TO BE INSTATLED AT THE
+BUHANGIN FLYOVER", with the attached copies of duly signed Deed of Donation
+which have been accordingly notarized, as requested.
+RESPECTFULLY SUBMTTTED
+Approved
+ATTY. OSMU
+Assistant City Legal Officer, OIC
+Date of Approval:
+A'
+ru6o P. VILLANt EvA, JR.
+oqffior Iilg 0rrY
+glIT l{r,l}i
+eiYi6
+sE$rsu$il
+:l>{*[
+FITEIITD Bt
+fff,t
+flIE$W
+
+L
+OrrICE. OF THE CITY naAYOn
+t- f*I
+cIsN
+Ref. Nc CAd+?01+0r492
+1' )i
+5th INDORSEMENT
+April 30, lALg
+Respectfully rerurned to Atty. Osmundo P. Villanueva, Jr., Officer-In-Charge,
+CiW Legal Office, this City, the enclosed documents relative to Ordinance No. 0590-18,
+SCr,iCS Of 2O1B entiti.:d ..AN ORDINANCE AUTHORIZING THE CMT MAYOR TO SiGN
+AND ACCEPT, FOR. ,IND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE
+DEED OF DONATI' )N TO BE EXECUTED BY STEEL ASIA MANUFACTURING
+COR.PORATION iN FI.VOR OF THE CTry GOVERNMENT OF DAVAO RELATiVE TO THE
+INSTALLATiON OF TI.VENTY (20) STTS OF STEEL PI-ANT BOXES TO BE INSTALLED AT
+Tl-iE tsUHANGIN FLY{ VER", with the herein attached Deed of Donation, duly signed by
+lioth parties, for nota ization.
+For the City Mayor:
+ATTY. TRIST
+. DOMINGCI
+Assistant
+)
+CITY MAYOR'5 OFfICE
+CORRESPONDENCE AND RECORDS DIV
+M,ELEASED
+li,o'f rlt;:iil$
+,o,rx(im.qo
+nourrursr*AnvE AtDE tv
+:9
+LIFE IS HERE
+Second Floor, City Hall Buri'.Cing, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 2, 1-1000 loc. 265 o davaocitymayor@gmail.com
+Bd'ffi*&
+
+Republic ofthe Philippines
+OFFICE OF THE SANGGUNIANG PANL
+^ \lnnn&
+cAnnrro
+UNGS
+0tlbtq -
+4th rndorsement
+April 15,2019
+DATE:
+TIME:
+Respectfully forwarded to SARA Z. DUTERTE, City Mayor, this City, the herein
+documents relative to City Ordinance No. 0590-18, SERIES of 2018, entitled *AN
+ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN AND ACCEPT, FOR AND IN
+BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE
+EXECUTED BY STEEL ASIA MANUFACTURING CORPORATION IN FAVOR OF THE CITY
+GOVERNMENT OF DAVAO RELATIVE TO THE INSTALLATION OF TWENTY (20) SETS OF
+STEEL PLANT BOXES TO BE INSTALLED AT THE BUHANGIN FLYOVER", duly signed by
+all parties, for your information, guidance and appropriate action.
+Thank you.
+Very truly yours/
+0?
+N
+Secretary to the SANGGUNIANG
+anlungsod
+(City Government Department Head II)
+oFFIGE nt
+I,+F,fiil'{BrnrN!5TftAToR
+DAVAS 01fi
+RECEIVED BY
+DATE:
+TIME:
+t,r\r
+REGETVED
+APR 16 2019
+AND RECORDS DIV
+MARY
+ATVARADO e 0b
+IV
+AIDE
+A-b
+Ft{- rr-+f
+
+!
+rl-i'l {
+M'HryffTTYU"
+jAH rl.i l*g$
+I'AET tTJry
+Alusrti*tl .rr*
+t$*
+.t
+fr'.t,,'.1 *
+r\
+- rrl
+r
+.L
+trfi
+
+,54c;;s
+z?
+DNG
+City Council
+41"t Regular Session
+SERIES of 2018
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Victorio U. Advincula lr.
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Pilar C. Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+J. Melchor B. Quitain Jr.
+Antoinette G. Principe-Castrodes
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P.Zozobrado III
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Ma. Cherry Ann M. Bonguyan
+April Marie C. Dayap
+Edgar R. Ibuyan Sr.
+Jaffar U. Marohomsalic
+- Temporary Presiding Officer
+- OB- Acting City Mayor
+- OB-Attended the Sisterhood Agreement
+Signing in China
+- OB-Attended the Sisterhood Agreement
+Signing in China
+- OB-Attended the Sisterhood Agreement
+Signing in China
+- OB-Attended a Solidwaste Management
+Training in Kitakyushu, Japan
+- OB-Attended a Community Emergency
+Response Team Training in Malagos, this
+City
+- OB-Attended the Sisterhood Agreement
+Signing in China
+- OB-Attended the 16th Pantukan Pasaka
+Festival
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Avegayle Dalodo Ortiz
+Marissa P. Salvador-Abella
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN AND
+ACCEPT, FOR AND rN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE DEED OF DONATION TO BE EXECUTED By STEEL
+ASIA MANUFACTURING CORPORATION IN FAVOR OF THE CITY
+GOVERNMENT OF DAVAO RELATIVE TO THE INSTALLATION OF
+TWENW (20) SETS OF STEEL PLANT BOXES TO BE INSTALLED
+AT THE BUHANGIN FLYOVER
+ORDINANCE NO. O59O-18
+SERIES of 2018
+
+Ord. No. 0590-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION l. TITLE- This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO SIGN AND ACCEpr, FOR AND IN BEHALF OF
+THE CITY GOVERNMENT OF DAVAO, THE DEED OF DONATION TO BE EXECUTED By
+STEEL ASIA MANUFACTURING CORPORATION IN FAVOR OF THE CITY
+GOVERNMENT OF DAVAO RELATM TO THE TNSTALLATION OF TWENTY (20) SETS
+OF STEEL PLANT BOXES TO BE INSTALLED AT THE BUHANGIN FLYOVER'.
+SECTION 2. DECLARATION OF POUCY - SECTION 455, (b) (1) (vi) of Republic
+Act No. 7L60, otherwise known as the Local Government Code of 1991, provides, to wit:
+t'For efficient, effective and economical governance
+the purpose of which is the general welfare of the
+city and its inhabitants pursuant to SECTION 16 of this
+Code, the city mayor shall represent the city in all its
+business transactions and sign in its behalf all
+bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG
+Panlungsod or pursuant to law or ordinance".
+SECTION 3. AUTHORITY- The City Mayor is hereby granted legislative authority
+to accept and sign,for and in behalf of the City Government of Davao, the Deed of Donation
+executed by the Steel Asia Manufacturing Corporation and the City Government of Davao
+relative to the installation of twenty (20) sets of steel plant boxes to be installed at the
+Buhangin Flyover.
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect
+SECTION 4. EFFECTMW- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 13th day of November, 2018, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cnf,CIY6 u\'&frios
+to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head "r/
+LA JR.
+VICTORI U.
+Acting Vice Mayor
+Temporary Presiding Officer
+cns/kjtq
+ATTESTED:
+
+ATTESTED:
+
+ATTY/ZULEIKA T.
+City Administrat
+
+PEZ
+
+Ord. No. 0590-18
+
+APPROVED 2° "AN 2019 a018
+
+i
+" City Ma
+
+Wy
+
+DEE,D OF DONATION
+This Deed of Donation, made and executed this
+-
+day of
+zot8, by and between:
+STEEL ASIA MANUFACTIIRING CORPORATION, A
+corporation duly organized and existing under and by virtue of the
+laws of the Republic of the Philippines, with principal office at 2nd
+Floor, Building z, Bonifacio High Street, Bonifacio Global City,
+Taguig ciqv, Philippines, and represented in this act by its Reside_nt
+Manager, Charlotte B. Concepcion, hereinafter referred to as the
+DONOR
+- in favor of -
+CITY GOVERNMENT OF DAVAO, a duly recognized local
+government unit of the Philippines, with address at City Hall _of
+bulruo, San Pedro Street, Davao City and represented in this act by
+the City Mayor, Hon. Sara Z. Duterte-Carpio, hereinafter called
+the DONEE
+WITNESSETH: That -
+WHEREAS, the DONOR is in the business of manufacturing and selling
+of steel rebars for construction, with plants in various locations in the Philippines
+including the District of Bunawan in Davao City;
+WHEREAS, the DONEE, as part of its beautification and greening of the
+city project, is in need of steel planter boxes to hold flower pots to be installed in
+the existing flyover structures in the City of Davao for the appreciation of both
+the local residents and visitors from other cities/provinces/countries;
+WHEREAS, from the DONOR, the DONEE is requesting for steel rebars
+to be used as building materials particularly twenty (zo) sets of steel planter
+boxes to be deployed at Dacudao and Agdao flyovers;
+WHEREAS, as part of its Corporate Social Responsibiliqv (CSR) program
+and as its contribution and support to the local government unit of the City of
+Davao, the DONOR agreed to provide the requested steel planter boxes for the
+purposes as stated bY the DONEE;
+NOW, THEREFORE, for and in consideration of the foregoing, the
+Parties herein agree to enter into this Deed of Donation subject to the following
+terms and conditions:
+1.
+The DONOR hereby donates to the DONEE twenty (zo) pieces fully
+- Jabricated steel planter boxes with materials and labor supplied2rfL'
+Yn/
+
+-Page22.
+The DONEE does hereby accept the Donation of the Donated Items
+and does hereby express its gratitude for the kindness and liberality of the
+DONOR.
+3.
+The DONEE shall not in any way sell, dispose, transfer, assign or
+otherwise alienate or encumber the Donated Items without the prior written
+consent of the DONOR.
+4.
+Any tax, if any, that may be charged in connection with this
+Donation shall be borne by the DONOR. Provided, in case of revocation of this
+Donation by the DONOR pursuant to SECTION 3 hereof, any and all taxes and
+expenses for reversion of the Donated Items shall be for the account of the
+DONEE.
+5.
+The DONEE hereby represents and warrants that it has the
+authority to receive the Donated Items; has obtained all necessary permits and
+approvals for the execution of this Deed of Donation; that the same is not in
+violation of any law; and that it would keep the DONOR free from any and all
+liabilities arising from the execution of this Deed of Donation; and that it would
+keep the DONOR free from any and all liabilities from the utilization of the
+donated items. The DONEE hereby agrees that should the Donation herein made
+be found to be in violation of the law, that the DONOR reserves the right to
+immediately revoke the Donation, rescind this Deed of Donation without need of
+further act or notice, and receive back the Donated Items.
+IN WITNESS
+F, the parties have set their hands and affixed
+their sienatures this
+Philippines.
+zor8 in
+STEEL ASIA MANUFACTURING CITY GOV

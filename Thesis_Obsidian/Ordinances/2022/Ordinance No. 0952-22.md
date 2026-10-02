@@ -1,0 +1,204 @@
+---
+ordinance_number: "0952-22"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE NATIONAL ECONOMTC DEVELOPMENT AUTHORTTY (NEDA) - REGTONAL OFFICE XI RELATIVE TO THE RELEASE OF FUNDS FOR THE FORMUI*ATION OF THE METROPOLITAN DAVAO PUBLIC SAFEW AND SECURIW MASTER PLAN (MDPSSMP)"
+date_enacted: "2022-05-04"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0952-22.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 0952-22
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE NATIONAL ECONOMTC DEVELOPMENT AUTHORTTY (NEDA) - REGTONAL OFFICE XI RELATIVE TO THE RELEASE OF FUNDS FOR THE FORMUI*ATION OF THE METROPOLITAN DAVAO PUBLIC SAFEW AND SECURIW MASTER PLAN (MDPSSMP)
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19u' city Council
+13s Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Republic of $e PhiliPPines
+Gity of Davao
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie lohn J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+- On Official Business
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Bonifacio E. Militar
+- On Sick Leave
+Councilor Albefto T. Ungab
+ORDINANCE NO. 0952.22
+SERIES of 2022
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY
+AND BETWEEN THE CITY OF DAVAO AND THE NATIONAL
+ECONOMTC DEVELOPMENT AUTHORTTY (NEDA) - REGTONAL
+OFFICE XI RELATIVE TO THE RELEASE OF FUNDS FOR THE
+FORMUI*ATION OF THE METROPOLITAN DAVAO PUBLIC SAFEW
+AND SECURIW MASTER PLAN (MDPSSMP)
+
+Ord. No. 0952-22
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled, that
+SECTION 1. IIIE, - This Ordinance shall be known as 'AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CrTY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO
+BE EilTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE NATIONAL
+ECONOMTC DEVELOPMENT AUTHORTTY (NEDA) - REGTONAL OFFICE Xr
+RELATIVE TO THE RELEASE OF FUNDS FOR THE FORMULATION OF THE
+METROFOLITAN DAVAO PUBLIC SAFETY AND SECURITY MASTER PIAN
+(MDPSSMP)".
+SECTION 2.
+- SECTION 22 (a) (5) (c) and SECTION 455 (b)
+(1) (vi) of Republic Act No. 7160 or the "Local Government Code of Lg9L" state that:
+"SECTION 22. Corporate Powers.
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall."
+"SECTION 455. Chief Executive: Powers, Duties and Compensation.-
+)ffi(
+)N(
+)ffi(
+(b) For efficient, effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government and in this
+connection, shall:
+)N(
+)ffi(
+)ffi(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG Panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative authority to
+enter into and sign, the Memorandum of Agreement (MOA) to be entered into by and between
+the City of Davao and the National Economic Development Authority (NEDA) - Regional ffice
+XI relative to the release of funds for the formulation of the Metropolitan Davao Public Safety
+and Security Master Plan (MDPSSMP).
+SECTION 4. SEPARABILITY CLAUSE - lf , for any reason, dny SECTION or provision of
+this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof not
+affected by such declaration shall continue to be in full force and effect.
+
+Ord. No. 0952-22
+SECTION 5. EFFECTMTY. This Ordinance shall take effect immediately upon
+approval.
+ENACTED, May 04,2022, by a unanimous vote of all the Members of the Sanggunian,
+there being a quorum.
+CERTIFIED CORRECT:
+*NIM*'"k'
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head 4)^r
+ATTESTED:
+President
+Temporary Presiding fficer
+cns/sr
+APPROVED
+Jdur rs
+JUN 2 8 2t22
+2022
+Z.
+Actrhg City
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator -
+AN ORDINANCE AUTHORIZING THE CTTY MAYORTO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN THE CITY OF DAVAO AND THE NATIONAL ECONOMIC DEVELOPMENT AUTHORITY (NEDA)
+REGIONAL OFFICE N RELATIVE TO THE RELEASE OF FUNDS FOR THE FORMUTATION OF THE
+METROPOLTTAN DAVAO PUBUC SAFETY AND SECURITY MASTER PLAN (MDPSSMP)
+.
+SARA Z. DUTERTE
+,',f;tql'- citv M"Y?
+ITII.
+IBUYAN I

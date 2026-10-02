@@ -1,0 +1,250 @@
+---
+ordinance_number: "0528-24"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC THE FOLTOWING STREETS WITH DATE AND TIME, AS SPECIFIED HEREIN, IN CONNECTION WITH THE CELEBRATION OF *DUAW DAVAO 2024'"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0528-24 (1).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/temporary, topic/closure, topic/vehicui, topic/traffic, topic/foltowing, topic/streets]
+---
+
+# Ordinance No. 0528-24
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC THE FOLTOWING STREETS WITH DATE AND TIME, AS SPECIFIED HEREIN, IN CONNECTION WITH THE CELEBRATION OF *DUAW DAVAO 2024'
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic'of the Philippines
+Offrce of the SANGGUNIANG Panlungsod
+20th City Counci!
+22nd Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- presiding Officer
+Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+January N. Dutefte
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdu! Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Trisha Ann J. Villafuefte
+Jesus Joseph P.Zozobrado III
+Nilo M. Abellera Jr.
+Lorenzo Benjamin D. Villafuefte
+- On Domestic Emergency Leave
+ORDINANCE NO. 0528.24
+SERIES of 2O24
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUI.AR TRAFFIC THE FOLTOWING STREETS WITH DATE
+AND TIME, AS SPECIFIED HEREIN, IN CONNECTION WITH
+THE CELEBRATION OF *DUAW DAVAO 2024'
+
+Page 2 cf 4
+Ord. 0528-24
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. HtE - This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC THE FOLLOWING
+STREETS WITH DATE AND TIME, AS SPECIFIED HEREIN, IN CONNECTION
+WITH THE CELEBRATION OF "DUAW DAVAO 2O24O.O
+SECTION 2. DECLARATION OF POLICY - SECTION 21 (c) of Republic Act 7160,
+othenruise known as the Loca! Government Code of 1991 provides that: "any national or
+local road, alley, park or square may be temporarily closed during an actual emergency or
+fiesta celebration, public rallies and agricultural and industrial fairs".
+SECTION 3. TEMPORARY CLOSURE - The following streets with specified
+date and time will be temporarily closed to vehicular traffic in connection with the
+celebration of "DUAW DAVAO 2024", as follows:
+DATE
+TIME
+REMARKS
+June22,2024
+From 8:00 AM up to 6:00 AM
+on June 24,2024
+No parking at the
+back of Agila stage -
+to be used as
+dressing and holding
+areas for peformers
+of Hugyaw Davao:
+Niqht of Fun & Colors
+)une 23,2024
+From 12:00 NN up to 8:00 PM
+Paftial road closure -
+Roxas Ext. Red Cross
+side; F. Bangoy St.
+(Ponciano Reyes St.)
+to Crooked Road left
+lane assisted parade
+/ stop & go on
+intersections of Pride
+Parade (Riza!-F.
+Bangoy St.)
+a
+Full road closure on
+Crooked Road (F.
+Bangoy St.) & San
+Pedro Square (CM
+Recto-San Pedro
+St./Rizal-Bolton Sts.)
+and City Hall Drive in
+between Riza! Park
+and Quezon Park
+June 26, 2024
+From 10:00 PM up to 1:00 AM
+on July t,2024
+a
+Paftia! road closure
+Bolton Elt.
+in
+between Rizal Park
+and SP Building
+lane beside Rizal
+Park to be used for
+Duaw Davao food
+trucks bazaar
+
+Ord.0528-24
+a
+Strictly no parking on
+lane SP Building side
+for passage of
+vehicles
+June27,2024
+From 1:00AM up to 12:00
+Midnight on June 29,2024
+Hauling and set up @
+San Pedro Square -
+back of Agila stage
+for Fiesta sa San
+Pedro
+a
+No Parking along
+Agila stage area till
+Quezon Park for
+installation of stage
+extension and
+canopy and railings
+a
+Rehearsals
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMW-This Ordinance shalltake effect immediately upon
+approval.
+ENACTED, on June LL,2024, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+w
+MA. THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod
+\
+ATTESTED:
+J. MELc/b{g. eurrArN rR.
+/
+Vice Mayor
+Presiding Officer
+cns/mjb
+
+I
+?T
+APPROVED:
+Page ,l of 4
+Ord.0528-24
+JUN 2 { 2t}21
+2024
+Z. DUTERTE
+v
+ciV vavy
+ATTESTED:
+ATTY.
+H. ]AYOG
+Acting
+nistrator
+AN OR,DINANCE FOR TI{E TEMPORARY CLOSURE TO VEHICUIIAR TRAFFIC THE FOLLOWING STREETS
+VWIH DATE AND TIME, AS SPECIFIED HEREIN, IN CONNECTION WTffi THE CELEBRATION OF "DUAW
+DAVAO 2024"
+tl

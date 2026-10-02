@@ -1,0 +1,184 @@
+---
+ordinance_number: "0312-23"
+title: "AN ORDINANCE FOR THE TEMPORARY ROAD CLOSURE TO vEHrcuLAR TRAFFTC ALONG AURORA QUEZON STREET FATIMA CORNER PAG.ASA STREET AND FATIMA BOULEVARD srREET, DAVAO CITY, ON OCTOBER 12, 2023 FROM 3:00 P.M. TO 10:00 P.M. AND OCTOBER L3, 2023 FROM 6:00 A.M. TO 1O:OO P.M. IN CELEBRATION OF THEIR 71ST PAROCHIAL FIESTA OF OUR LADY OF FATIMA PARISH"
+date_enacted: "2023-10-10"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0312-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.9
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/temporary, topic/road, topic/closure, topic/vehrcular, topic/trafftc, topic/along]
+---
+
+# Ordinance No. 0312-23
+
+> AN ORDINANCE FOR THE TEMPORARY ROAD CLOSURE TO vEHrcuLAR TRAFFTC ALONG AURORA QUEZON STREET FATIMA CORNER PAG.ASA STREET AND FATIMA BOULEVARD srREET, DAVAO CITY, ON OCTOBER 12, 2023 FROM 3:00 P.M. TO 10:00 P.M. AND OCTOBER L3, 2023 FROM 6:00 A.M. TO 1O:OO P.M. IN CELEBRATION OF THEIR 71ST PAROCHIAL FIESTA OF OUR LADY OF FATIMA PARISH
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | - |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+,o Nc
+cz
+65fr
+20th city Council
+38h Regular Session
+SERIES of 2023
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Jessica M. Bonguyan
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann l. Villafuerte
+Jesus Joseph P. Zozobrado III
+Luna Maria Dominique S. Acosta
+Jonard C. Dayap
+- Temporary Presiding Officer
+- On Maternity Leave
+- On Official Business
+ORDINANCE NO. O3L2.23
+SERIES of 2O23
+AN ORDINANCE FOR THE TEMPORARY ROAD CLOSURE TO
+vEHrcuLAR TRAFFTC ALONG AURORA QUEZON STREET
+FATIMA CORNER PAG.ASA STREET AND FATIMA BOULEVARD
+srREET, DAVAO CITY, ON OCTOBER 12, 2023 FROM 3:00
+P.M. TO 10:00 P.M. AND OCTOBER L3, 2023 FROM 6:00 A.M.
+TO 1O:OO P.M. IN CELEBRATION OF THEIR 71ST PAROCHIAL
+FIESTA OF OUR LADY OF FATIMA PARISH
+
+Ord, No. 0312-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDINANCE
+FOR THE TEMPORARY ROAD CLOSURE TO VEHICULAR TRAFFIC ALONG
+AURORA QUEZON STREET FATIMA CORNER PAG.ASA STREET AND FATIMA
+BOULEVARD STREET, DAVAO CITY, ON OCTOBER 12, 2023 FROM 3:00 P.M.
+TO 10:00 P.M. AND OCTOBER L3, 2023 FROM 6:00 A.M. TO 10:00 P.M. IN
+CELEBRATION OF THEIR 71SI PAROCHIAL FIESTA OF OUR LADY OF
+FATIMA PARISH.'
+SECTION 2.
+- SECTION 21 (c) of Republic Act
+No. 7L60, othenruise known as the Local Government Code of 1991, provides that
+any national or local road, alley, park, or square may be temporarily closed during an
+actual emergency, or fiesta celebrations, public rallies, agricultural or industrial fairs.
+SECTION 3. TEMPORARY CLOSURE - The roads along Aurora Quezon
+Street, Fatima corner Pag-asa Street and Fatima Boulevard Street, will be
+temporarily closed to vehicular traffic on October 12,2023 from 3:00 p.m. to 10:00
+p.m. and October L3, 2023, from 6:00 a.m. to 10:00 p.m. in connection with the
+71't Parochial Fiesta of Our Lady of Fatima Parish.
+SECTION 4. SEPARABILITY CLAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force
+and effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately
+upon approval.
+ENACTED, on the 10th day of October 2023, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^A,w6l'W
+CHARITO N,sANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+ATTESTED:
+\
+fur**,)
+rEssrcA li. lo'*cuYAN
+City Councilor
+Temporary Presiding Officer
+cns/ray
+
+Ord. No. 03L2-23
+APPRovEo: t)CT 20 2023.2023
+Z. DUTERTE
+City
+I
+tquyT[/
+ATTESTED:
+ATTY.
+H. LAYOG
+Acti
+inistrator
+AN ORDINANCE FOR THE TEMPORARY ROAD CLOSURE TO VEHICULAR TRAFFIC ALONG
+AURORA QUEZON STREET FATIMA CORNER PAG-ASA STREET AND FATIMA BOULEVARD
+STREET, DAVAO CITY, ON OCTOBER 12,2023 FROM 3:00 P.M. TO 10:00 P.M, AND OCTOBER
+L3,2023 FROM 6:00 A.M. TO 1O:OO P.M. IN CELEBRATION OF THEIR 71ST PAROCHIAL FIESTA
+OF OUR I.ADY OF FATIMA PARISH

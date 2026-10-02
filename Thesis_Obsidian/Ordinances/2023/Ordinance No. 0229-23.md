@@ -1,0 +1,195 @@
+---
+ordinance_number: "0229-23"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF SALE EXECUTED BY THE CITY OF DAVAO, INVOTVING A tOT UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SrR) PROJECT OF THE CrTY OF DAVAO, rN FAVOR OF THE AWARDEE, SANTOS M. ALDERTE"
+date_enacted: "2023-06-13"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0229-23 (2).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.9
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/sign, topic/behalf]
+---
+
+# Ordinance No. 0229-23
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF SALE EXECUTED BY THE CITY OF DAVAO, INVOTVING A tOT UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SrR) PROJECT OF THE CrTY OF DAVAO, rN FAVOR OF THE AWARDEE, SANTOS M. ALDERTE
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | - |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+t
+2oth city Councit
+22d Regular Session
+SERIES of 2023
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Albefto T. Ungab
+- Temporary Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. AI-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo-Ortiz
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Tozobrado III
+ABSENT:
+Vice Mayor J. Melchor B. Quitain Jr.
+Councilor Luna Maria Dominique S. Acosta
+Councilor Edgar R. Ibuyan Sr.
+-OB-Acting City Mayor
+-OB-Attended the Liga ng mga
+Barangay-Davao City Chapter
+Barangay Congress for 2023 held
+at the Waterfront Hotel, Cebu
+City
+Councilor Richlyn N. Justol-Baguilod
+ORDINANCE NO. 0229.23
+SERIES ol2022
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE
+CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF
+DAVAO, THE DEED OF SALE EXECUTED BY THE CITY OF DAVAO,
+INVOTVING A tOT UNDER THE SLUM IMPROVEMENT AND
+RESETTLEMENT (SrR) PROJECT OF THE CrTY OF DAVAO, rN
+FAVOR OF THE AWARDEE, SANTOS M. ALDERTE
+
+Ord. No. 0229-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CITY ],IAYOR TO SIGN, FOR
+AND rN BEHALF OF THE CITY OF DAVAO, THE DEED OF SAIE TO BE
+EXECUTED BY THE CrTY OF DAVAO, INVOwTNG A LOT UNDER THE SIUM
+TMPROVEMENT AND RESETTLEMENT (SrR) PROJECT OF THE CrTY OF DAVAO,
+IN FAVOR OF THE AWARDEE, SANTOS M. ALDERTE."
+SECTION 2. PERTIilENT PROVISIOilS UNDER THE LOCAL GOVERNMENT
+coDE oF 1991:
+SECTION 16. General Welfare.- Every local government unit shall exercise
+the power expressly granted, those necessarily implied therefrom, as well as
+powers necessry, appropriate, or incidental for its efficient and effective
+governance, and those which are essential to the promotion of the general
+welfare. Within their respective territorial jurisdictions, Iocal government units
+shall ensure and suppoft, among other things, the preseruation and
+enrichment of culture, promote health and safety, enhance the right of the
+people to a balanced ecology, encourage and support the development of
+appropriate and self-reliant scientific and technological capabilities, improve
+public morals, enhance economic prosperity and social justice, promote full
+employment among their residents, maintain peace and order, and preserve
+the comfort and convenience of their inhabitants.
+SECTION 455. Chief Executivel Powers, Duties and Compensation. -
+a) The city mayor, as chief executive of the city government, shal! exercise
+such powers and perform such duties and functions as provided by this Code
+and other laws.
+b) For efficient, effective and economical governance the purpose of which
+is the general welfare of the city and its inhabitants pursuant to SECTION 16 of
+this Code, the city mayor shall:
+rco(
+)oo(
+rco(
+(vi) Represent the city in all its business transactions and sign in its behalf all
+bonds, contracts, and obligations, and such other documents upon authority
+of the SANGGUNIANG panlungsod or purcuant to Iaw or ordinance;
+SECTION 3. COVERAGE - This Ordinance shall cover the grant of Legislative
+Authority to the City Mayor to sign, for and in behalf of the City of Davao, the Deed of
+Sale executed by the City of Davao, involving a lot under the Slum Improvement and
+Resettlement (SIR) Project of the City Government of Davao, in favor of the awardee,
+Santos M. Alderite.
+SECTION 6. SEPARABILITY CLAUSE - If for any reason, any SECTION of this
+Ordinance is declared unconstituUonal or invalid, other sections or provisions hereof
+which are not affected thereby, shall continue to be in full force and effect.
+SECTION 7. EFFECTMTY CLAUSE - This Ordinance shall take effect upon
+approval.
+
+Ord. No. 0229-23
+ENACTED, June 13, 2023, by a unanimous vote of all the Members of the
+Sanggunian Panlungsod, there being a quorum.
+CERTIFIED CORRECT:
+^ \hrrri \-'l'6
+CHARTTO Ni S|NTOS
+Secretary to the Sanggurliang Panlungsod
+(City Government Depaftment Head II),
+ATTESTED:
+Temporary Presiding Officer
+cns/ser
+Jot--/ 11
+APPROvEo: JUL I I 2023 . 2023
+Z. DUTERTE
+SE
+ciW Mavor, I
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE GRANTING LEGISI-ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE DEED OF SALE EXECUTED BY THE CITY OF DAVAO, INVOLVING
+A LOT UNDER THE SLUM IMPROVEMENT AND RESETTLEMENT (SIR) PROJECT OF THE CITY OF DAVAO,
+IN FAVOR OFTHE AWARDEE, SANTOS M. ALDERTE

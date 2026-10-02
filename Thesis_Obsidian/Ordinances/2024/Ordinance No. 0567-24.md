@@ -1,0 +1,422 @@
+---
+ordinance_number: "0567-24"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION MADE AND EXECUTED BY 8990 HOUSING DEVELOPMENT CORPORATION IN FAVOR OF THE CITY OF DAVAO, RELAT]VE TO THE DONATION OF ROAD LOTS, OPEN SPACES, AND IMPROVEMENTS OF DECA HOMES RESORT RESIDENCES PHASES 12, LOCATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, THIS CIW I. I"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0567-24 DOD 8990 Housing DHRR Ph 12 (1).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/authorizing, topic/mayor, topic/sign, topic/behalf, topic/deed, topic/donation]
+---
+
+# Ordinance No. 0567-24
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION MADE AND EXECUTED BY 8990 HOUSING DEVELOPMENT CORPORATION IN FAVOR OF THE CITY OF DAVAO, RELAT]VE TO THE DONATION OF ROAD LOTS, OPEN SPACES, AND IMPROVEMENTS OF DECA HOMES RESORT RESIDENCES PHASES 12, LOCATED IN BARANGAY TACUNAN, TUGBOK DISTRICT, THIS CIW I. I
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | - |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+'
+2OE'Cjity
+266 Regular Session
+SERIES of 2024
+PR,ESENT:
+Vice Mayor
+Courrcitor
+Cpurrcilor
+Cot ncilo'r
+Courrcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+&urrcilor
+Courrcilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S Abetla
+Nilo M. Abellera Jr.
+Lttna Maria Dominique S. Acosta
+Bernard E. AFag
+Wilberb E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John l. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. lustol-Baguilod
+Diosdado Angelo lunior R. Mahpus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo€rtiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+- Presiding fficer
+Bai Hundra Cassandra Dominique N. Advincula - On Domestic Emergency Leave
+Jesslca M. Bongqan
+- On DomeSic Emergency Leave
+Augusto Javier G. Campos III
+- On Vacation Leave
+January N. Duterte
+- On Vacation Leave
+oRDINANCE r{O. 0567-24
+SERIES of m24
+AII ORDIilATCE AUTIIORIZIIIG THE CITY MAYOR TO SIct{, FOR
+AtD IN BEHATF Of THE CrTy OF DAVAO, THE DEED OF
+DONATIOT{ MADE AND EXECUTED BY 8990 HOUSING
+DEVELOPITIE]IT CORFORATIO]I I]I FAvoR oF THE CITY oF
+DAVAO, RELATTVE TO THE IDilATION OF ROAD LOTS, OPEN
+sPACEs, AllD IMPROYEMEIITS oF DBCA HoMEs REsoRT
+RESIDETICES PHASE L2, L(rcATED I]T BARATIGAY TACU]IA]I,
+ruGBOK DTSTRTCT, THrS CrTY
+ABSEIIT:
+Councilor
+Councilor
+Councilor
+Councilor
+
+that
+Ord. No. A567-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDIilANCE
+AUTfiORIZTI{G THE CITY MAYOR TO SIGI{, FOR ArrD rr{ EEHALF OF TltE CITY
+OT DAVAO, THE DEED OF DOilATIOil MADE AND EXECUTED BY 89!XI HOUSIilG
+DEvEtOPtiEl{T CORPORATTON rN FAVOR OF THE Crry OF DAVAO, REIATTVE
+TO THE DOilIATNIII OF ROAD LOTS, OPEII SPACE+ AI{D IMPROVEITIEIITS OF
+DECA HOMES RESORT RESTDENCES PHASE 12, TOCATED ril BARAI{GAY
+TACUilAN, TUGBOK DISTRICT, THIS Cril".
+SECTION 2. DECLARATION OF POLICY - Rule VII, SECTION 33 of Batas
+PanrDansa Blg. 22O prwides for donations of rcads and open spaces, whffi reads:
+"The owner or prcject developer shall donate the rcads and open spaces found
+in the project to the local gwemment of the area after their completion had been
+certified to by the Commission and it shall be mandatory for the said local
+go\,ernment to accept such donations"
+oSections 22 (a) (5) (c) and 455 (b) (1) (vi) of the Local Government
+Code of 1991 provide, to wit:
+oSection 22. Cnrprate Powers.
+(a) Every local government unit, as a corporation, shall have the following
+poweE:
+(5) To enter into contracts; and
+(c) Unless otherwise prcvided in this Code, no contract may be entered into by
+the Iocal chief erecutive in behalf of the local government unit without proper
+authorization by the sanggunian concerned. A legible copy of such contract
+shall be posted at a conspicuous place in the provincial capitol or the city,
+municipal, or barangay hall."
+'SECTION 455. Chief Executive; Powers, Duties and Compensation
+@) For efficient, effective, and economicafgovernance the purpose of which is
+the general welfare of the city and its inhabitants pursuant to SECTION 16 of this
+Code, the city mayor shall:
+(1) Exercise general superuision and control over all program+ pCIects,
+seruies, and activities of the city goremment and in this connection, shall:
+)oo(
+(vi) Represent the city in all its business transactions and sign in its behalf all
+bond+ contracts, and obligations, and such other docurnents upon authority
+of the SANGGUNIANG Panlungsod or pursuant to law or ordinances."
+)oo(
+)oo(
+)oo(
+no(
+)oo(
+)oo(
+
+Ord. No. 0567-24
+SECTIOil 3.
+- This Ordinance shall cover the grant
+d afthority to the Cfi Maycr to sign, for and in behalf of the Crty'of Davaq the Deed of
+Donation made and executed by 8990 Housing Development Corporation in favor of the Cty
+Goremrnent of Davao, relative to the donation of road lots, open spaces, and improvements
+of Deca Ftcmes Resoft Residences Phases 12, located in Barangay Tacunan, Tugbok District,
+this City.
+SECTION 4. SEPARABILITY CIAUSE - If, for any reason, ary SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in fullforce and effect.
+SECIIOil 5. EFFECTryITY - This Odinance shall take etrect immediately upon
+approval.
+EilACTED, on the 16h day of July 2024, by a unanimous vote of all the Members of
+the Sanggunian, there being a guorum.
+CERrIEIED CORRECT:
+t
+^ And \. l'-
+CIIARITO il. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Govemment Departnent Head II)
+ATTESIED:
+QUITAIN IR
+Mayor
+Officer
+cns/mark
+APPR.OVED:
+AUG I g 2024
+2024
+City
+ATTESTED:
+ATTY.
+H, LAYOG
+Ctty
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE DEED OF DONATION MADE AND EXECUTED BY 8990 HOUSING DEVELOPMENT CORPORATION IN
+FAVOR OF THE CITY OF DAVAO, RELAT]VE TO THE DONATION OF ROAD LOTS, OPEN SPACES, AND
+IMPROVEMENTS OF DECA HOMES RESORT RESIDENCES PHASES 12, LOCATED IN BARANGAY TACUNAN,
+TUGBOK DISTRICT, THIS CIW
+I.
+I
+
+DEED OF DONATION
+KNOW ALL MEN BY TFTESE PRESENTS:
+This DEED OF DONATION, entered into by and between:
+8990 HOUSING DEVELOPMENT CORPORATION, a corporation drly
+organized in accordance with law, with office address at 8990 Corporate Center,
+E. Quirino Avenue, Davao City, and herein represented by MARY ANN M.
+TACAY, hereinafter called the'DONOR",
+and -
+CITY GOVERNMENT OF DAVAO, herein represented by its City Mayor,
+HON. SEBASTIAN Z. DUTERTE, hereinafter called the "DONEE".
+WTINESSETH:
+That the DONOR is the owner of the road lots, open spaces and their
+improvements of DECA HOMES RESORT RESIDENCES PHASE 12 located at
+Barangay Tacunan, Tugbok District, Davao City and more particularly described as
+follows:
+ROAD LOTS:
+ROAD LOT NO.
+TRANSFER CERTIFICATE OF TITLE NO.
+AREA(sqm)
+1,46-201101,6304
+1.,367
+1.46-2011016305
+L,211
+'1,46-20L101,6306
+1,,748
+1,4G201141,6307
+1,,728
+1,46-2011016308
+2,423
+TOTAL:
+8,477
+OPEN SPACE:
+BLOCK
+LOT
+TRANSFER CERTIFICATE OF TITLE NO.
+AREA (sqm)
+1.
+1.46-2011014&18
+11.,829
+TOTAL:
+7',..,829
+Total area to be donated is Twenty Thousand Three Hundred Six (20,306) square
+meters.
+By virtue of and in accordance with the provision of SECTION 23 of the Revised
+Rules and Standards for BP 220 on the project turnover, the DONOR by these presents,
+TRANSFERS and CONVEY9 by way of donation, unto the said DONEE the above
+described properties with all improvements therein, including the free complete use
+and control of the same subject to the terms and conditions contained in the Deed of
+Restrictions improvised by law and agreed upon by the DONOR and the individual
+homeowners.
+
+The DONEE does hereby accept the above-describe real properties.
+IN WITNESS I fHEREOF, the DONOR duly represented by MARY ANN M.
+TACAY, and the DONEE duly represented by the City Mayor of Davao, HON.
+SEBASTIAN Z. DUTERTE, have hereunto set their hands this
+8990 HOUSING DEVELOPMENT CORP.
+By'
+MARY
+M. TACAY
+General
+CITY GOVERNMENT OF DAVAO
+By:
+SEBAS
+Z. DUTERTE
+Mavor r t
+'(J
+Signed in the Presence of:
+ATTY.
+H. LAYOG
+Jr
+REPUBLIC OF THE PHILIPPINES)
+DAVAO CrTY
+) S.S.
+BEFORE
+a
+Public for and in Davao
+Name
+Competent Evidence of Identity
+Type of ID
+ID Number
+MARY ANN M. TACAY
+Drivor5 |7ic*r"ra,
+wT-10- ot{fl(,
+SEBASTIAN Z. DUTERTE
+llN
+lW-t*t'r-\QL-tn
+who represented to me that they are the same persons who executed the foregoing Deed
+of Donation and acknowledged to me that the same is their free and voluntary act and
+dee{ as well as that of the entities they represent.
+I further certify that ttre Deed of Donation consists of two (2) pages including this
+one and signed by the parties and their witresses.
+IN WTINESS WHEREOF, I affix my signature and notarial seal in Davao Crty this
+lcT 0 4 202L.
+Doc. Nq. ?lfu ,
+Page No. W ;
+Book Ns. J
+SERIES of 2024,
+ATTY.
+L. ROXAS
+Darao
+ilotary
+t{o.
+City, Philippines
+202+2t8-2025
+
+DEED OF DONATION
+KNOW ALL MEN BY TFTESE PRESENTS:
+This DEED OF DONATION, entered into by and between:
+8990 HOUSING DEVELOPMENT CORPORATION, a corporation drly
+organized in accordance with law, with office address at 8990 Corporate Center,
+E. Quirino Avenue, Davao City, and herein represented by MARY ANN M.
+TACAY, hereinafter called the'DONOR",
+and -
+CITY GOVERNMENT OF DAVAO, herein represented by its City Mayor,
+HON. SEBASTIAN Z. DUTERTE, hereinafter called the "DONEE".
+WTINESSETH:
+That the DONOR is the owner of the road lots, open spaces and their
+improvements of DECA HOMES RESORT RESIDENCES PHASE 12 located at
+Barangay Tacunan, Tugbok District, Davao City and more particularly described as
+follows:
+ROAD LOTS:
+ROAD LOT NO.
+TRANSFER CERTIFICATE OF TITLE NO.
+AREA(sqm)
+1,46-201101,6304
+1.,367
+1.46-2011016305
+L,211
+'1,46-20L101,6306
+1,,748
+1,4G201141,6307
+1,,728
+1,46-2011016308
+2,423
+TOTAL:
+8,477
+OPEN SPACE:
+BLOCK
+LOT
+TRANSFER CERTIFICATE OF TITLE NO.
+AREA (sqm)
+1.
+1.46-2011014&18
+11.,829
+TOTAL:
+7',..,829
+Total area to be donated is Twenty Thousand Three Hundred Six (20,306) square
+meters.
+By virtue of and in accordance with the provision of SECTION 23 of the Revised
+Rules and Standards for BP 220 on the project turnover, the DONOR by these presents,
+TRANSFERS and CONVEY9 by way of donation, unto the said DONEE the above
+described properties with all improvements therein, including the free complete use
+and control of the same subject to the terms and conditions contained in the Deed of
+Restrictions improvised by law and agreed upon by the DONOR and the individual
+homeowners.
+
+The DONEE does hereby accept the above-describe real properties.
+IN WITNESS I fHEREOF, the DONOR duly represented by MARY ANN M.
+TACAY, and the DONEE duly represented by the City Mayor of Davao, HON.
+SEBASTIAN Z. DUTERTE, have hereunto set their hands this
+8990 HOUSING DEVELOPMENT CORP.
+By'
+MARY
+M. TACAY
+General
+CITY GOVERNMENT OF DAVAO
+By:
+SEBAS
+Z. DUTERTE
+Mavor r t
+'(J
+Signed in the Presence of:
+ATTY.
+H. LAYOG
+Jr
+REPUBLIC OF THE PHILIPPINES)
+DAVAO CrTY
+) S.S.
+BEFORE
+a
+Public for and in Davao
+Name
+Competent Evidence of Identity
+Type of ID
+ID Number
+MARY ANN M. TACAY
+Drivor5 |7ic*r"ra,
+wT-10- ot{fl(,
+SEBASTIAN Z. DUTERTE
+llN
+lW-t*t'r-\QL-tn
+who represented to me that they are the same persons who executed the foregoing Deed
+of Donation and acknowledged to me that the same is their free and voluntary act and
+dee{ as well as that of the entities they represent.
+I further certify that ttre Deed of Donation consists of two (2) pages including this
+one and signed by the parties and their witresses.
+IN WTINESS WHEREOF, I affix my signature and notarial seal in Davao Crty this
+lcT 0 4 202L.
+Doc. Nq. ?lfu ,
+Page No. W ;
+Book Ns. J
+SERIES of 2024,
+ATTY.
+L. ROXAS
+Darao
+ilotary
+t{o.
+City, Philippines
+202+2t8-2025

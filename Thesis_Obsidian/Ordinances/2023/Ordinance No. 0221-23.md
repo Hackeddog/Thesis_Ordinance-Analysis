@@ -1,0 +1,215 @@
+---
+ordinance_number: "0221-23"
+title: "Ordinance No. 0221-23"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0221-23 MOU DSWD-RSCC (2).pdf"
+section_count: 3
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid]
+---
+
+# Ordinance No. 0221-23
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+\
+20t, City Council
+2Os Regtrlar Sesdon
+SERIES of 2023
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Coun€ilor
+Councilor
+Councilor
+Councilor
+Councilor
+Albefto T. Ungab
+Nilo M. Abellera Jr.
+Bernard E. Al-ag
+Wilberto E. A!-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Edgar P. Ibuyan Jr.
+Edgar R. trbuyan Sr.
+Richlyn N. lustol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Temuiin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Lorenzo Benjamin D. Viflafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+-Temporary Presiding fficer
+J. Melchor B. Quitain Jr.
+- OB -Acting City Mayor
+Marissa S. Abella
+- OB - Attended a meeting at
+Paquibato Distrkt
+Luna Maria Dominique S. Acosta
+- On Sick Leave
+Bai Hundra Cassandra Dominique N. Advincula - OB - On Official Business
+Louie John J. Bonguyan
+- On Official Business
+Jonard C. Dayap
+- On Official Business
+Bonz Andre A. Militar
+- On Official Business
+ORDINANCE NO. O22t.23
+SERIES ot 2O23
+ABSENT:
+Vice Mayor
+Councilor
+C-ouncilor
+Councilor
+Councilor
+Councilor
+C.ourrcilo,r
+AN ORDINAilCE GRANTI]IG TEGISLATIVE AUTHORITY TO
+TflE CITY UAYOR TO E|{TER rNTO AI{D SrGI{, FOR AI{D IN
+BEHALF OF THE CITY OF DAVAO, A MEMORANDUM OF
+UNDERSTANDIilG (MOU) WITH THE DEPARTMENT OF
+SOCIAL WETFARE AND DEVELOPMENT - RECEPTION AilD
+STUDY CENTER FOR CHITDREN (DSWD-RSCC), REGARDING
+THE EilROLLMENT OF CHILDREN IN THE EARLY CHITDHOOD
+CARE Al{D DEVETOPMENT (ECCD) PROGRAM OF THE CITy',S
+DAY CARE CENTER
+-!a
+
+J
+Ord. I.lo. A22l-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION l. IIILE - This Ordinance shall be known as 'AN ORDINANCE
+GRA]NTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER IilTO
+AND SrGN, FOR AND rN BEHALF OF THE CrTY OF DAVAO, A MEMORANDUM OF
+U]{DERSTANDTNG (MOU) WITH THE DEPARTMENT OF SOCTAL WETFARE AND
+DEVELOPMENT - RECEPTTON AND STUDY CENTER FOR CHTLDREN (DSWDRSCC), REGARDING THE ENROLLMENT OF CHILDREN IN THE EARTY
+CHILDHfi}D CARE AilD DEVET]OPMEilT (ECCD) PROGRAM OF TTIE CITY,S DAY
+CARE CEilTER"
+SECTION 2. nECLARATION OF POLICY - SECTION 22 (a) (5) (c) and SECTION
+455 (b) (1) (vi) of Republic Act No. 7160 or the Local Government Code of 1991 provide:
+"SECTION 22, Corporate Powerc'
+(a) Every local government unit, as a corporation, shall have the
+following powers: )otr )oo( )oo(
+5) To enter into contracts: and ,nx
+)N(
+)ffi(
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal
+or barangay hall."
+*SECTION 455. Chief Executive; Powets, Duties and
+Comrynstian. )&(
+(b) For efficient, effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the City Mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, and activities of the city government, and in this
+connection, shall:
+rcfr
+rcc(
+)oo(
+(vi) Represent the city in all its business transactions and sign in
+its behalf all bonds, contracb, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+I
+
+Ord. No. 0221-23
+SECTIOT{ 3. AUTHORIW - The City Mayor is hereby gnanted legistative
+authority to sign, for and in behalf of the City of Davao, the Memorandum of
+Understanding (MOU) to be entered into by and between the City of Davao and the
+Departnrent of Social Welfare and Development - Reception and Study Center fur
+Children (DSWD-RSCC), relative to the enrollment of children from the DSWD-RSCC to
+the Ci$s Day Care Center.
+SECTION 4, SEPARABILITY CIAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+-This Ordinance shall take effect immediately upon
+EI{ACTED, on May 23, 2023, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+&,[W1"trSecretary to the SANGGUNIANG Panlungsod
+(City Government Department Head tr),
+ATTESTED:
+ATTESTED:
+U]TGAB
+Mayor
+!
+Acting
+Temporary Presiding Officer
+cns/mjb
+APPROVED:
+*06 3
+Z. DUTERTE
+v
+2023
+MuYTl
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE
+LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN,
+FOR AND IN BEHALF OF THE CITY OF DAVAO, A MEMORANDUM OF UNDERSTANDTNG (MOU) WrrH THE
+DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT - RECEPTION AND STUDY CENTER FOR
+CHILDREN (DSWD-RSCC), REGARDING THE ENROLLMENT OF CHILDREN IN THE EARLY CHILDHOOD
+CARE AND DEVELOPMENT (ECCD) PROGRAM OF THE CrTy',S DAy CARE CENTER

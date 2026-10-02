@@ -1,0 +1,333 @@
+---
+ordinance_number: "0311-17"
+title: "Ordinance No. 0311-17"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0311-17.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.4
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2017.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid]
+---
+
+# Ordinance No. 0311-17
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | 2017 |
+| Approval date | 2018 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Repu.blic'of the Philippines
+OFFTCE OF THE CTTYMAYOR
+' City of Davao
+bNc
+s+6i'6t'c
+t
+s
+21{D INIX)RSEMENT
+January 03, 2018
+Respectfully returned to Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein attached documents relative to
+Ordinance No. O311-17, SERIES of 2017, entitled 'AN ORDINANCE AUTHORIZNG
+THE CITY MAYOR TO UTIUZE A PORTTON OF THE THIRTY PERCENT (30o/o0 QUICK
+RESPONSE FUND (QRF) OUT OF THE FIVE (5olo) DISASTER RISK REDUCTION AND
+MANAGEMENT FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR
+CALENDAR YEAR 20L7, IN THE TOTAL AMOUNT OF FIVE MILUON PESOS
+(P5,000,000.oo), To HffEND ASSISTANCE TO THE CITY GOVERNMENT OF MARAWI
+WHICH IS IN A STATE OF CALAMITY DUE TO DAMAGE CAUSED BY THE TERRORIST
+ATIACKS, SUBJECT TO THE E}GSTING GOVERNMENT BUDGENNG, ACCOUNTING
+AND AUDUTING RULES AND REGULATIONS", duly signed
+for your
+appropriate action.
+For the City Mayor:
+ATTY. LAwR4Ab. BANTIDING
+Assista nt City Administrator
+(Operation)
+CMO. CRD
+RELEASED
+JAN 0 4 2018-7. ,o A,..fh
+RHfiEi't'ffir}
+B?
+DA?EI
+o
+T
+|DPD/AIL
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 24.1-1000 loc. 265 o davaocitymayor@gmail.com
+2tU - l-/6
+BAW @
+LIFE
+IS HERE
+t
+t
+n
+
+(
+Republic of th€ Philippines
+City of Davao r'|f,.r
+OFFICE OF THE CITY TEGAL OFFICER
+Tel. No. 227-5793 x 225-0183
+Trunk Line No. 241-1000 Loc267
+o0o
+Ref. No. LL3t-tl
+LEGAL OPINION NO. O6L
+1St INDORSEMENT
+November 30,20L7
+Respeetfully furwarded to the Office of the City Mayor, through the Office
+of the City
+SEBIESOF
+ORDINANCE AUTHORIZNG THE CITY MAYOR TO
+Administrator, both this City, the attached Ordinance No. 0311-17
+20L7, entitled "AN
+UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONSE FUND
+(QRF) OUT OF THE FrVE PERCENT (5olo) DISASTER RISK REDUCTION AND
+MANAGEMENT FUND (CA|-AMITY FUND) OF THE CITY GOVERNMENT OF DAVAO
+FOR CALENDAR YEAR 20L7, IN THE TOTAL AMOUNT OF FIVE MILLION PESOS
+(P5,000,000.00), To EXTEND ASSISTANCE TO THE CITY GOVERNMENT OF
+MARAWI WHICH IS IN A STATE OF CAI.AMITY DUE TO DAMAGE CAUSED BY
+THE TERRORIST ATIACKS, SUB] ECT TO THE EXIfiNG GOVERNMENT
+BUDGETING, ACCOUNTING AND
+AUDMNG RULES AND REGUIATIONS
+informing your end that the same is free from Iegal infirmity citing RA 10121 in
+relation to RA 8185, otherwise known as An Act Amending Sec. 324 (d) of RA
+7L60, the Local Government Code of 1991
+,
+ATTY. OSMUN/O P. VTLLANUEVA, JR
+OIC- Asst. City Legal Officer
+Date approved: December t, Z0l7
+or{U 1 L r -cafamit2_l 7t0200
+odec
+a
+a
+o
+- .:lCL OF TUF rrrv 4r]r,llNlSTRArGF
+I.rrrrrri
+tEFtrl,E0 BY
+r ,l'-'E
+l,rb..-
+-.__-- ga. t39 1RHCffiHVHM
+CMO " CRD
+4h
+)Tb - Lfr -1't/
+l*
+nFf: tl 4 201
+(
+
+sai lsAG.
+I
+'
+SARA Z. DUTERTE
+City Mayor
+cns/nta
+eGA
+November 23,20t7
+flMO. CRE
+RHCffiEVEM
+",trrt
+o'
+lm
+Madam:
+llme
+tt- 60a00f. ltz
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01491-17 and Ordinance No. 0311-17, both SERIES of 20L7 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+For and in the absence of the Secretary:
+*
+-Wty,afr^
+NrLDA C. M40NO
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+tllvY-tt--7
+\\(, l'I
+
+1Bm
+Couniii
+41d Reguhr $*sskln
+SERIES of 2017
+TRESEHT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Counrilor
+Counrilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Vire Mafor
+Counrilor
+AB$EHT:
+Councilor
+Councilor
+Councilor
+Councilor
+kdo Z. Duterte
+A Rlran S. Aleiandre
+loanne M, BonguYan{uilos
+limmy G. Dureza
+Diosdado Angelo A. Mahipus Sr.
+Marissa P. Salvador-Alella
+Attended *re "World Travel Matt"
+in London
+- On Domstic Emetgency Leaue
+-
+On Sick Leave
+- On Vxation Leave
+- On Sick Leave
+OfEce of
+Avegayle Daldo 0rtiz
+Nilo M. Abellera lr.
+f,taria Belen 5, Acosta
+Victorio U. Advincula lr.
+Bemard E. Al-aq
+Dante L. Arctol5r.
+Cont'ado C. Baluran
+Ma. ChenyAnn Fl. Bonguyan
+Pilar C. Bruga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+lanuary N. Duterte
+Edgar P. IbuYan lr.
+Leah A. Librado-YaP
+Rene Elire C. LoPz
+Banifuio E. Militar
+Antoinette 6. RinciP{mBodes
+l. Mekhor B. Quitain lr.
+Halila Y. Sudagar
+Marl }oeelle D, Yillafuerte
+lesus loseph P. Zozobr#o Itr
+the SANGGUNIANG Panlungsod
+Tempomry kesiding Officer
+oRDillAflCE HO. 11311-17
+Serhs of 2O17
+frTI OEDIHfrIICE AUTHORIIIHG THE CITY HAYOR TO
+uTILITE A mRTIOll OF THE THIRTY PERCEIIT (30o/o)
+QUrCI( RESmHSE HIHD {QRF} OUT OfJIE FrtE
+PERCEIIT {se'/o} DISASTER RISI( REDUCTIOTI AHt}
+HAllAGEnfiUr Fuun (CALAHTTY HlllD) oF THE CrTlf
+mtERHHmT OF DAYm FOR CALEHDARYEAR 2$17, rH
+THE TOTAL AHOUHT TIF FITE HI1LIOH PEST}S
+{p5,0{lo,{ffi-00}, To ExTE}lD ASSTSTTHCE TO THE Crry
+EOTTNUTTEHT OF HARAWI WHICH IS IfI A STATE OF
+CALiHITY DUE TO DiHiG[ CTTISED EYTHE TERRORIST
+ITTACI€, SUB]ECT TO THE EXISTIHG ffiYERIIHEHT
+BUDGETIHG. frff,{IUHTITIG AHD AUDTTIHG RUI-ES A}ID
+REGUITTIOHS
+,r^-^ *nl
+OH OFFICIAL EUSIHESS:
+
+'a
+'Paqe 2 of 3
+CIrd. No.0311-17
+'
+BE it ordained by *re SANGGUNIANG Panlungsod of DaYao Cit?, in semiorr
+memhled that;
+SECTIOH L TITLI - This Ordirranre strall L,e knorr+n ff -til {]RDIHAI{CE
+AUTAffiRITIHG T*TE f,ITY HAYOR TO UTITIUE T trORTIOH OF TilE T}ITRTY
+ffiRCEI,IT (3tI%) QUICI{ RESFtIHSE FUHD {QEF} OUT OF THE EITE PEHCEF|T
+{5o+} DISASTEH RISI( REDUCTIOH AHD }4AHTGE}IENT FU}ID {CAII}{ITV
+F1IHS) $F THE CrTtr G$YERHHENT OF SwAO FtrR CALEHDTR VEAR ?:GL?,
+IF! TttE TIITAL AD{$UHT OF FttT HILLIOH FES&s (F5,t}OO,OOO"OO}, Tt}
+EXTTHT} ASSISTi.}ICE TO T+IE T* T1IE CITY ffiYERHIt{ElTT 8F HARAWI
+S'T'SCH IS IlI A ST*TE OF Ct'Tfi,}IITY DUE TS DAHAGE CAUSEE BV THE
+TEEftOfiIST TTTIf,X$. $LIB]ECT T{! THE EXISTI}TG tr{IIIERHHT$TT
+EU BEETIT{G, TTf,t}U BTTI}IG AFI S AU *ITtr}IG RULIG AH B REGU I.&TIS}IS-;
+SEtrTIOIl 2. DECLARtTICIH OF FOLIf,Y - In keeting witli its mandate and
+in rslpnse to the nee.ds of the tq*oErle, the Citf Government of Davao declares x iE
+poliry to -iudiciously uUlize rffiurctr and put the same to proper use;
+SECilOH 3. BEIIEFICIARIES - The City of Marawi, re specified under
+RsoluUon No. 60, ts h under a State of Calamity, will he the beneficiarT of the Citfk
+miffinre in the amount of Five Million Fesos {P5,000,000.00};
+SECTIOH 4. LECAI- BTSIS - frrrsuant to Republic AEt No. 81S5, otherwise
+known s *An Art Arnending SECTION 324 (d) of Republic Art Ho. 71fr8, otherwise
+kncwn m the Lor;l f*vemmentCode of 1991", it stat€s that "Five Fenent (5%) of the
+gstimatd revenue from regular sources shall k set side m annual lump sum
+apFrupriations for relief, rehabiliEtion, rwonstruction and other works or sewics in
+connection with calamities which may oc.ur duting the budgel year. Frovided,
+however, that such fund shall te used only in tte area, or a poftion therml of the
+local governnrent unit or other arp# affertsJ hy a dismter or ralamity, m'detetmineJ
+aild ds;lared by tfrs loralsarrggunian r*nr*med.";
+Fgrtfuer; Eepublir Art No. 10121 provides $e praper uUlizatisn of *re five generrt
+{59./Ei lrisxter Risk Reduction and Man4ement Fund {DRRMF} or falamity Fund
+wherein thirty penent {30Yo} of said funr-l shall be allmaterJ m Quick RmFonse Funtl
+tqFfl or stan'-1try fr:nd for relief and rerovery prcnlrlms, and the renraining seuenty
+pe.rrent t70o/s) shall Le usd f(,r preparer1ness, mitigation and rehabilihtion artivitis;
+SECTIOH 5. USE OF HIilDA - The amount herein appropriated shall be used
+sfsifically for such items and erpendihrres approud bV the SANGGUNIANG t'anlungsod.
+All dishursements and utilization of flinds shall te subiect to the eristing govemment
+hudgeting, rcounting and auditing rules and regulations of *re Departrnent of Budget
+and Management {DBM}, the Commision on Audit (COA}, the Governnrerrt
+Prorurcment Rehrm Act (R.A I{o. 9184), as well s other applicable laws, or
+ordi nancs and Prsidenfial di rs-tiyes;
+SECTIOII 6. EFFECTnrITY - The provisions of this Ordinance shall take effecturcn approval;
+I
+
+Page 3 of3
+Ord, No.0311-17
+ATTESTED;
+ATTESTED:
+City
+Tent gnmty Presidinq Offi cer
+nrm/nrhard
+ATTY. ZULEII(fr T. LI}PEI
+City Adrninisilatoro
+AITY. TIi|STAN
+Assistant City Admrnlst rator
+(Admtnistratton)
+DEC 0 4 ?01r
+2017
+c'ry t[aYfl
+EHICTEII, [rlovembe r 7 , 2817 , by a unaninrous vote of dl the $ltemhed of the
+Sangqunian pr#nt, there being a quorum.
+CERTIFTED CORRECT:
+For and in the atmnce of the SerreEry:
+al}rfitfuA^,
+HrulAc- *Isuo
+Arting SetretarY to the SANGGUNIANG Panglungsd
+{Asistant krctarY to Sre. SANGGUNIANG Hnlungmd}
+APFROVED'
+l-

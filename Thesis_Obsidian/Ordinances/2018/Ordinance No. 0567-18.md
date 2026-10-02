@@ -1,0 +1,295 @@
+---
+ordinance_number: "0567-18"
+title: "AN ORDINANCE GRANTING THE REQUEST FOR RECONSIDERATION OF PATRICIA I. CENITINALES, FOR HER APPLICATION FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF EARTHFILL QUARRY IN BARANGAY WAAN, BUHANGIN DISTRICT, THIS CffY\", for information and appropriate action. a ATTY. **#n#r. BANTTDTNG Assistant City Administrator (Operations) \\ RELEASED fMo \" *nD 3: lA,- * ,/ews -? -/K B,@ Second Floor, City Hall Buil"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0567-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/request, topic/reconsideration, topic/patricia, topic/cenitinales, topic/application]
+---
+
+# Ordinance No. 0567-18
+
+> AN ORDINANCE GRANTING THE REQUEST FOR RECONSIDERATION OF PATRICIA I. CENITINALES, FOR HER APPLICATION FOR ADDMONAL ALLOWABLE USE FOR THE OPERATION OF EARTHFILL QUARRY IN BARANGAY WAAN, BUHANGIN DISTRICT, THIS CffY", for information and appropriate action. a ATTY. **#n#r. BANTTDTNG Assistant City Administrator (Operations) \ RELEASED fMo " *nD 3: lA,- * ,/ews -? -/K B,@ Second Floor, City Hall Buil
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2018 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+\ '
+Republic of the Philippinqs'
+} OTFICE OF THE CITY I\{AYOR
+\=ja6r!rtc.
+p -!16=;
+2nd Indorsement
+November 23,20t8
+Respectfully forwarded to MS. CHARITO N. SAI{TOS, Secretary, SANGGUNIANG
+Panlungsod, this City, the herein set of documents relative to Ordinance No.
+0567-18, SERIES of 2018 entitled *AN ORDINANCE GRANTING THE REQUEST FOR
+RECONSIDERATION OF PATRICIA I. CENITINALES, FOR HER APPLICATION FOR
+ADDMONAL ALLOWABLE USE FOR THE OPERATION OF EARTHFILL QUARRY IN
+BARANGAY WAAN, BUHANGIN DISTRICT, THIS CffY", for information and
+appropriate action.
+a
+ATTY. **#n#r. BANTTDTNG
+Assistant City Administrator (Operations)
+\
+RELEASED
+fMo " *nD
+3:
+lA,- *
+,/ews
+-? -/K
+B,@
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1C00 loc. 265 o davaocitymayor@gmail.com
+LIFE IS HERE
+,^*zfrtst
+al,,
+I
+
+GIS
++
+.}4
+!'q
+o
+I
+NG
+=;f
+'1 frD
+LE
+a
+OFFICE OF THE CITY TEGAL
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc267,
+o0o
+tllogl,l -2,0o
+(rW
+Ref. No. 1131-18-0213
+LEGAL OPINION No.
+SERIES OF 2O1B
+ORDINANCE NO. 0567-18, SERIES of 2018 entitled 'AN
+ORDINANCE GRANNNG THE REQUEST FOR
+RECONSIDERATION OF PATRICIA I. CENTINALES, FOR HER
+APPLICATION FOR ADDMONAL ALLOWABLE USE FOR THE
+OPERATION OF EARTHFILL QUARRY IN BARANGAY WAAN,
+BUHANGIN DISTRICT, THIS CITY"
+1ST INDORSEMENT
+November L2,20L8
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance informing your
+end that this office finds the enactment of the ordinance free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved.
+ArrY. ro$kollo, Rsw
+Acting Asst. City Legal Officer
+Approved by: 6
+ATTY. OSMUND6 '.
+U"-*NUEVA, JR
+OIC-Acting City Legal Officer
+Date approved: November L2,20La
+ordl 5 67 - 1 8_ncowiterutiot_albw a6{c ue_centinak-i_1 S.O 2 1 j_ I 1 - 1 2- 1 I
+@dee
+OFFICE OF IHE CIIYABI'Iil|STRATOR
+Clry H/ALL OFFlCE
+RECEIVED BY:
+OAVAO CITY na/r't
+DATE:
+TIME:
+thkl
+Atyt)
+U
+CORR
+c
+MARY
+-ftT--77
+?.lt-bL4
+1'
+
+'
+OFFICE OF TI{E SA}IGGUNIANG PANLUNGSOD
+November B, 2018
+SARA Z. DUTERTE
+City Mayor
+Madam
+E*ts-oat4l.e@
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Afticle One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7t60, othenruise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 02483-18 and Ordinance No. 0567-18, both SERIES of 2018 of the
+SANGGUNIANG Panlungsod, for your information, guidance, and appropriate action.
+Very truly yours,
+lcn.Hr5-l\*ffi,
+Secretary to the Sanggur/iang Panlungsod
+(City Government Department Head II)
+CORRESPONDTNCE &
+RECE
+MARY
+1',s5
+ATVARADO
+RECORDS OIVISION
+IVED
+NU'/ 0 8 2018
+
+l>
+f,,
+4ct6
+z
+?-)r
+!o
+Ctty of Davao
+tSth City Council
+40th Regular Session
+SERIES of 2018
+PRESENT:
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Presiding Officer
+- OB- Attended the Executive Course
+on National Security at Camp
+General Emilio Aguinaldo
+- On Domestic Emergency Leave
+Councilor Maria Belen S. Acosta
+Councilor Pilar C. Braga
+ORDINANCE NO. 0567.18
+SERIES of 2018
+AN ORDINANCE GRANTING THE REQUEST FOR
+RECONSIDERATION OF PATRICIA I. CENTINALES, FOR
+HER APPLICATION FOR ADDITIONAL ALLOWABLE USE
+FOR THE OPERATION OF EARTHFILL QUARRY IN
+BARANGAY WAAN, BUHANGIN DISTRICT, THIS CITY
+
+Ord. No. 0567-18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING THE REQUEST FOR RECONSIDERATION OF PATRICIA I. CENTINALES,
+FOR HER APPLICATION FOR ADDITIONAL ALLOWABLE USE FOR THE OPERATION
+OF EARTHFILL QUARRY IN BARANGAY WAAN, BUHANGIN DISTRICT, THIS
+CITY'.
+SECTION 2. INNOVATM MODES OF DEVELOPMENT - Article XII, SECTION 1 of
+the Comprehensive Zoning Ordinance of Davao City provides for request for additional
+allowable uses. Stating that the uses enumerated in the preceding afticles on general and
+all sub-zones are not exhaustive nor all-inclusive, the SANGGUNIANG panlungsod, upon
+application of the project proponent and upon, favorable recommendation Oy tne Local
+Zoning Board of Adjustment and Appeals (LZBAA) may allow other uses not enumerated
+therein as it may deem fit and proper including, but not limited to, the following projects
+which are socio-economic and environmental significance and/or national interest by a zA
+majority vote of all Members of the SANGGUNIANG Panlungsod through resolution and
+ordinance".
+SECTION 3. APPROVAL OF REQUEST FOR RECONSIDERATION - The request
+of Ms. Patricia I. Centinales for the reconsideration of her application for the operation of
+commercial earthfill quarry extraction located in Barangay Waan, Buhangin District, this
+City, is hereby approved;
+SECTION 4. SEPARABILIW CLAUSE- If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 5.
+approval.
+EFFECTTVITY- This ordinance shall take effect immediately upon
+ENACTED, on the 23'd day of October, 20L8, by 3/+ vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+cffndf#f,nJ,o*i",
+Secretary to the SANGGUNIANG panlungsod
+(City Government Departme nt Head ll),
+E. AL.AG
+Vice Mayor
+Presiding Offlcer
+cns/kjtq
+ATTESTED:
+
+4,
+Ord. No. 0567-18
+APPROVED
+lg
+2018
+z.
+a
+City Mayor_
+ATTESTED:
+o',r.wril
+City Administra
+:cl8'

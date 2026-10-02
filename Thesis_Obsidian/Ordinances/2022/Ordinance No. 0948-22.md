@@ -1,0 +1,185 @@
+---
+ordinance_number: "0948-22"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHATF OF THE CITY OF DAVAO, THE AIRTIME AGREEMENT FOR THE PR.OGR.AM \"BYAHEilG DO3O\" TO BE ENTER,ED INTO BY AND BETWEEN THE CITY OF DAVAO AND GHA NETWORT(,It{C. MINDANAO FROM JAI{UARY t,2022 UNTrL DECEHBER 31, 2022 6"
+date_enacted: null
+approval_date: "2022-12-31"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0948-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/authorizing, topic/mayor, topic/sign, topic/behatf, topic/airtime, topic/agreement]
+---
+
+# Ordinance No. 0948-22
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHATF OF THE CITY OF DAVAO, THE AIRTIME AGREEMENT FOR THE PR.OGR.AM "BYAHEilG DO3O" TO BE ENTER,ED INTO BY AND BETWEEN THE CITY OF DAVAO AND GHA NETWORT(,It{C. MINDANAO FROM JAI{UARY t,2022 UNTrL DECEHBER 31, 2022 6
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+qt
+19th City Counci!
+17tr Regular Session
+SERIES of 2022
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Ralph O. Abella
+Nilo D. Abellera
+Luna Maria Dominique S. Acosta
+Wilberto E. AI-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Temporary Presiding Officer
+ABSENT:
+Vice Mayor Sebastian Z. Duterte
+Councilor Bai Hundra Cassandra Dominique N. Advincula
+Councilor Bonifacio E. Militar
+Councilor Albefto T. Ungab
+- On Offidal Business
+- On Sick Leave
+ORDIilANCE NO, 0948-22
+SERIES of 2O22
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND
+IN BEHATF OF THE CITY OF DAVAO, THE AIRTIME AGREEMENT FOR
+THE PR.OGR.AM "BYAHEilG DO3O" TO BE ENTER,ED INTO BY AND
+BETWEEN THE CITY OF DAVAO AND GHA NETWORT(,It{C. MINDANAO
+FROM JAI{UARY t,2022 UNTrL DECEHBER 31, 2022
+
+Ord. No. 0948-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTIOT{ 1. TITLE - This Ordinance shall be known as oAJ{ ORDINANCE
+AUTHORTZING THE CITY HAYOR TO SIGil, FOR AilD ltr BEHALF OF THE Crry OF
+DAVAO, THE AIR,TTME AGREEUEilT FOR THE PROGRAM 'BYAHENG DO30" TO BE
+ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO Al{D GMA NETWORK, INC.
+MINDANAO FROM JAilUARY \zAzzUNTrt DECEMBER 31, 2022o.
+SECTION 2.
+- SECTION 16 of Republic Act 7160 or
+the Local Government Code of 1991, states:
+*SECTION 16. General Welfarc - Every local government unit shall exercise
+the powers expressly granted, those necessarily implied therefrom, as well as
+powers necessary, appropriate, or incidental for its efficient and effective
+governance, and those which are essential to the promotion of the general
+welfare. Within their respective territorial jurisdictions, local government units
+shall ensure and support, among other things, the preservation and
+enrichment of culture, promote health and safety, enhance the right of the
+people to a balanced ecology, encourage and suppoft the development of
+appropriate and self-reliant scientific and technological capabilities, improve
+public morals, enhance economic prosperity and social justice, promote full
+employment among their residenB, maintain peace and order, and preserue
+the comfoft and convenience of their inhabitants."
+sEcTIoN3.NI@.TheCityMayorisherebygrantedlegislative
+authority to enter into and sign, fur and in behalf of the City Government of Davao, the
+Aiftime Agreement for the Program "Byaheng DO30" entered into by and between the
+City of Davao and GMA Networ( Inc. Mindanao from January L,2022 until December 31,
+2022.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EEEE9IIVIII - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 4h day of May 2022, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ Mil; \. 4",,.{
+CTIARITO I{. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)--
+
+r?
+Ord. No. 0948-22
+ATTESTED:
+ATTESTED:
+President Pro
+Temporary Presiding Officer
+cns/kjtq
+laat )f
+APPROVED: MAY 2 5 2022, 2022
+SARA Z. DUTERTE
+Gty Mayor '
+l/
+aL.
+$
+Acting Ciry
+DUTEftTE
+Mayor I
+LEIKA
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO,
+THE AIRTIME AGREEMENT FORTHE PROGRAM "BYAHENG DO3O"TO BE ENTERED INTO BY AND BETWEEN
+THE CTTY OF DAVAO AND GMA NETWORK, INC. MINDANAO FROM ]ANUARY 1,2022 UNTIL DECEMBER
+31,2022
+a

@@ -1,0 +1,436 @@
+---
+ordinance_number: "0668-18"
+title: "AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND MASICAP MSME FOUNDATION, INC. FOR THE RURAL BASED ORGANIZATION SUPPORT PROJECT (FINANCIAL "
+date_enacted: "2019-03-08"
+approval_date: "2019-03-08"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0668-18.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.62
+detected_enactment_year: 2019.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/granting, topic/legisi, topic/ative, topic/authority, topic/mayor, topic/sign]
+---
+
+# Ordinance No. 0668-18
+
+> AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND MASICAP MSME FOUNDATION, INC. FOR THE RURAL BASED ORGANIZATION SUPPORT PROJECT (FINANCIAL 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2019 |
+| Ordinance number suffix | 2018 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Cites or amends
+
+- [[Ordinance No. 0668-19]]
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,764 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2019\Ordinance No. 0668-18.txt`*
+
+il$#$
+OFFICE OF THE CIryI\{AYOR
+'l,lr;trF'
+ATTY.
+Ref. No. CAdG2019-00976
+2nd Indorsement
+April 5, 2019
+Respectfully returned to Ms. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the attached duly signed and approved Ordinance No. 0668-19,
+SCTiCS of 2019 entifled "AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE
+CITY MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO,
+THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY
+GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO
+BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND MASICAP MSME
+FOUNDATION, INC. FOR THE RURAL BASED ORGANIZATION SUPPORT PROJECT
+(FINANCIAL ASSISTANCE FOR MEDIUM AND SMALL SCALE INDUSTRIES COORDINATED
+ACIION PROGRAM (MASICAP II)", for your information and appropriate action.
+tor the City Mayor:
+DOMINGO
+Assistant
+)
+,lt,
+i.#1 .o** *'8ildttl3f i$8'l'rt** o,,
+R,EI.EASED
+AfH UU zi.iis
+.o*&o*o
+ADMINISTRATIVE AIDE IV 1:co
+LIFE IS H=RE
+\
+v4ci-/?
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com ts.@
+I
+
+, Republic of the Philippines
+OFFICE OF THE CITY LEGAT OF
+Tel. No.298-6970
+Trunk Llne No. 241-1@0 Loc26712251230
+Ref. No. CLO-2019-000531
+Approved by:
+ATTY, OSMU
+DO P. VTLLANUEVA, JR.
+OIC- Asst. City Legal Officer
+ATTY. MARffi. GALLO, RSW
+Acting Asst. City Legal Officer
+LEGAL OPINION No.
+SERIES OF 2019 t3
+ORDINANCE NO, 0668-19, SERIES OF 2019 ENTMED *AN
+ORDINANCE GRAI{TING LEGISLAIfVE AUTHORITY TO THE CITY
+MAYOR TO SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO
+BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND MASICAP
+MSME FOUNDATION, INC. FOR THE RURAL BASED ORGANIZANON
+SUPPORT PROJECT (FINANCIAL ASSISTANCE FOR MEDIUM AND
+SMALL SCALE INDUSTRIES COORDINATED ACTION PROGRAM
+(MASICAP II)"
+1ST INDORSEMENT
+March 8, 2019
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the subject ordinance with attached
+Memorandum of Agreement, informing your end that this office finds the
+enactment of the ordinance free from legal infirmity.
+VIEWED from the foregoing, it is recommended that the Ordinance be
+approved and the Memorandum of Agreement be executed.
+Date approved: March 8, 2019
+otd0668- 1 9_nu_naticap_20 1 9 -AO05 3 I -3-E19
+@rpz
+OFFICE OFIHE
+ctryl
+RECEIVED
+DATE:
+TIME:
+ctw
+HALL OFFICE
+DAVAO
+*7.
+ll:Ofat,
+GAL
+o
+V
+o
+c
+o
+t\fl
+BYr
+cfi
+1, t1-r'-?I
+- 'I''t
+RE
+MARY ANN
+D
+q
+
+-8aCi6rc
+2t
+Repqb_llg o { 4q Phi I ipp ines
+.
+Marh 6,2019
+1n(,qtq- 0 0l
+t
+SARA I. BUTERTE
+City Mayor
+City of Darao
+t,lalenr'
+*
+"l
+0L0.un -
+Pursuxtt to Subserction 3, kr4ratrh
+Chapter I, Book Itr ard Se{tion F* of mk I Reprblic Act No. 7180, ofterwise known
+x tte Lor_al rbvemment fue af 1911, rE tre furnishing you a cotry of Resdutim No.
+02g23-1S and frdinance. Ho. offiB-l8, boilr SERIES of 2018 0f the Sangguniarxtr
+panlungmd, Sris City, with Six {6} ets of ropies of the Mernorandum of Agtentent to
+be engrel into lyy ard Ldrnrcsr *E tity Government of Daum ard nanslcAp MSHE
+Founda6on, Inc. for ttre Rural Emd OrlBniztion Supryoft Proid tFinancial Assi*anre
+for F;h,jium and Snall kah Inrlustris CoordinaH Artion Program tMfiSICAP tr), tor
+your informaton, gttidurre and apprapri*e rtian.
+oM,?tl f .htb
+C, Secfron 468, Artide ftte, nfle Fitre,
+Ve.*y huly Ytrurc,
+n 0,lA ,t / \ l*d
+CHARTTO H. EAllIffi
+Smretary to tfre Sarggunia'rg Panlun3sd
+{City thisnrnent Depatmsrt l-ts31 tr}
+CORRESPONDENCE &
+RECE
+ff"1
+RY
+MA
+ANN
+RECORDS0tvtstoN
+IVE D
+MAR 0 7 zug
+t
+
+Republic of the hrilippines
+l8th City Council
+47th Regular Session
+SERIES of 2018
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Maria Belen S, Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Carmelo J. Clarion
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+Nilo M. Abellera Jr.
+Pilar C. Braga
+Danilo C. Dayanghirang
+- On Official Business
+- On Domestic Emergency Leave
+- On Official Business
+ABSENT:
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0668.18
+SERIES of 2018
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORIW
+TO THE CITY MAYOR TO SIGN, FOR AND IN BEHALF OF
+THE CITY GOVERNMENT OF DAVAO, THE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO
+BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO
+AND MASTCAP MSME FOUNDATION, rNC. FOR THE
+RURAL BASED ORGANIZATTON SUPPORT PROJECT
+(FTNANCTAL ASSTSTANCE FOR MEDIUM AND SMALL
+SCALE INDUSTRIES COORDINATED ACTION PROGRAM
+(MASTCAP rr)
+
+Ord. No. 0668--18
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITLE- This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISLATM AUTHORIW TO THE CITY MAYOR TO SrcN, FOR AND
+IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT
+oF DAVAO AND MASICAP MSME FOUNDATION, INC. FOR THE RURAL BASED
+oRGANTZATION SUPPORT PROJECT (FINANCTAL ASSISTANCE FOR MEDTUM
+AND SMALL SCALE INDUSTRIES COORDTNATED ACTTON PROGRAM (MASTCAP
+I[)".
+SECTION 2. DECLARATION OF POLICY -SECTION 455 (b) (1) (vi)
+of the Local Government Code provides that:
+"(b) For efficient, effective and economical governance the
+purpose of which is the general welfare of the city and its
+inhabitants pursuant to SECTION 16 of this Code, the city
+mayor shall:
+(vi) Represent the city in all its business transactions
+and sign in its behalf all bonds, contracts, and obligations,
+and such other documents upon authority of the
+SANGGUNIANG Panlungsod or pursuant to law or ordinance".
+SECTION 3. AUTHORIW- The City Mayor is hereby granted legislative authority
+to sign, for and in behalf of the City Government of Davao the Memorandum of Agreement
+to be entered into by and between the City Government of Davao and MASICAP MSME
+FOUNDATION, INC. for the Rural Based Organization Support Project (financial assistance
+for Medium and Small Scale Industries Coordinated Action Program (MASICAP II).
+SECTION 4. SEPARABILIW CLAUSE- If any paft of this Ordinance is declared
+unconstitutional, the remaining part unaffected shall continue to remain valid and in effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 12th day of December, 2018, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+t Cn
+"r,,rx )r. ,1"
+cHARrro n. sprfrIos
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head JlL,
+
+Ord. No. 0668-18
+*"y
+ATTESTED:
+ATTESTED:
+Vice
+Presiding
+cns/kjtq
+ATTY.
+T.
+City Administrator
+APPROVED
+0 7 tlA,R 20lg
+2019
+.a
+z.
+City
+4/aF
+MEMORANDUM OF AGREEMENT
+KNOW ALL MEN BY THESE PRESENTS:
+This AGREEMENT made and executed by and between:
+MASICAP MSME DEVELOPMENT FOUNDATION, INC., a foundation duly
+organized and existing under and by virtue of the laws of the Philippines with principal oflice
+located at llF DBP Bldg., C.M. Recto Avenue, Davao City, represented herein by MS. LEOSA
+NANETTE A. AGDEPPA, in her capacity as @!g!ql thereof, hereinafter referred to as the
+FOUNDATION,
+-andLOCAL GOVERNMENT OF DAVAO CITY, with office located at Pichon Street,
+Davao City, represented herein by HON. SARA Z. DUTERTE-CARPIO, in her capacity as
+City Mayor, herein referred to as LGU - DAVAO CITY:
+WITNESSETII:
+WHEREAS, the FOLTNDATION re-launched the Medium & Small Scale Industries
+Coordinated Action Program II (MASICAP II), following the same concept of the previously
+successful MASICAP program of the Department of Industry in 1974-1980 which harnesses the
+idealism, volunteerism and service orientation of graduating Business Administration,
+Commerce and Economics students trained to assist micro, small and medium enterprises
+(MSMEs) in the preparation of Feasibility Studies (FS) and related documents for loan / grant
+applications with funding institutions;
+WHEREAS, the FOUNDATION started MASICAP II program in five (5)
+provinces/cities in Southern Mindanao in August, 2002 with the approval of the Commission on
+Higher Education (CI{ED), cooperation of selected participating schools, endorsements of local
+government officials and private business organizations, and funding mainly by the Founding
+Chairman of the Foundation, Vicente T. Paterno and Family with limited contributions and
+volunteer work by MASICAP I alumni,
+WHEREAS, results of MASICAP II pilot operations demonstrated its relevance and
+effectiveness in assisting small enterprises obtain loans / grants to start up / expand their business
+operations, resulting to the program's continuance / expansion in several provinces/cities in
+Mindanao for the succeeding Fiscal Years in partnership with Local Government Units /
+Government Agencies that support the Program;
+WIIEREAS, the LGU-DAVAO CITY has been a partner from 2003 to 2016 for which
+MASICAP Team assistance resulted to the creation and or expansion of several MSME projects
+by single proprietors, cooperatives, associations and corporations providing livelihood and
+employment opportunities. While the partnership was deferred in 2017, the Foundation
+continued the team's deployment to assist enterprises, associations and cooperatives in the City;
+WHEREAS, the counterpart of Partner LGU is supposed to be P380,000 a year.
+However, LGU-DAVAO CITY has appropriated Php. 150,000 budget in 2018;
+Page I of3
+\ru
+
+NOW THEREFORE, for and in consideration of the foregoing premises, the
+FOLINDATION and LGU-DAVAO CITY, do hereby COVENANT and AGREE to perform the
+following deeds:
+l. That the FOUNDATION shall continue to assist will assist prospective MSME
+proponent/s of Davao City in the preparation of project feasibility studies and
+documents necessary for obtaining of loans and/or grants from banks and other
+funding agencies until December 2018;
+2. That the Foundation shall submit a report to the LGU on the accomplishment of the
+team in 2018 indicating the projects assisted by the Team within the territorial
+jurisdiction of the herein LGU;
+3. That the LGU shall contribute for the services of the team assigned in its area of
+jurisdiction in the amount of ONE HUNDRED FIFTY THOUSAND
+(Php150,000.00) PESOS, Philippines Currency, which amount shall be remitted to
+the FOUNDATION not later than December 15, 2018;
+4. That this agreement is renewable upon the mutual agreement of contracting parties.
+IN WITNESS WHEREOF, the FOLiNDATION has hereunto signed this
+MEMORANDUM OF AGREEMENT on this
+day of
+2018 at
+while the CITY MAYOR, LGU - DAVAO CITY has hereunto signed
+this MEMORANDUM OF AGREEMENT on this
+2018 at
+Philippines.
+day of
+LOCAL GOVERNMENT UNIT OF DAVAO CITY
+GGLr-DAVAO CrTY)
+Represented By
+IION
+,
+DEVELOPMENT FOUNDATION, INC.
+(FOLINDATION)
+Citv Mavorr
+' 'rJ
+MASICAP
+Represented By.
+MS. LEOSA NANE
+A. AGDEPPA
+President
+Signed in the presence of the following witnesses:
+Page 2 of3
+
+\1
+-Y
+REPIJBLIC OF THE PHILTPPINES) S.S
+)
+ACKNOWLEDGEMENT
+BEFORE ME, this
+day of
+Philippines,
+Tax Certificate N,
+personally appeared
+o
+qtBl99?-
+Z. Duterte-Carpio,
+,
+issued
+2018, in
+with
+on
+BLIC
+31,2019
+.12107118 (lor 2019)
+11,05,1E (for 2019)
+YS NO.64059
+Sara
+at bl,\leO oltr1
+City Mayor of Davao City, known to me to
+be the
+person who executed the foregoing Memorandum of Agreement and she
+acknowledged to me that the same is her free act and deed and that of the City being presented
+herein.
+IN WITNESS WHEREOF, I have hereunto set my hand and aflix

@@ -1,0 +1,467 @@
+---
+ordinance_number: "0366-17"
+title: "AN ORDINANCE ffi.ANTING LEGISI.ATIVE AUTHORITY TO THE CTTY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND PWC ISTA UPANAN & CO., IN THE CONDUCT OF THE REVIEW OF THE DAVAO CITY INVESTMENT INCENTIVE CODE OF 1994\", with the attached tfemorandum of Agreement (I\\4OA) duly sig"
+date_enacted: null
+approval_date: "2018-01-04"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0366-17.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.4
+detected_enactment_year: null
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2017.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/anting, topic/legisi, topic/ative, topic/authority, topic/ctty, topic/mayor]
+---
+
+# Ordinance No. 0366-17
+
+> AN ORDINANCE ffi.ANTING LEGISI.ATIVE AUTHORITY TO THE CTTY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND PWC ISTA UPANAN & CO., IN THE CONDUCT OF THE REVIEW OF THE DAVAO CITY INVESTMENT INCENTIVE CODE OF 1994", with the attached tfemorandum of Agreement (I\4OA) duly sig
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2017 |
+| Series header | 2017 |
+| Approval date | 2018 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 23,668 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2017\Ordinance No. 0366-17.txt`*
+
+'
+.RepublicofthePhilippines s
+OFFICE OFTHE CIryMAYOR
+i
+Nq
+R€f. No. CldC-2018-O5575
+6ft rttooRsEMENT
+July 26,2018
+Respecffully retumed b Ms. Charito lt. Santos, Secretary to the SANGGUNIANG
+Panlungsod, this city, the enclosed Ordinance No. O3ffi-17, S€ries ol ZOl7 t
+CNtitICd "AN ORDINANCE ffi.ANTING LEGISI.ATIVE AUTHORITY TO THE CTTY MAYOR
+TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN
+THE CITY GOVERNMENT OF DAVAO AND PWC ISTA UPANAN & CO., IN THE CONDUCT
+OF THE REVIEW OF THE DAVAO CITY INVESTMENT INCENTIVE CODE OF 1994", with
+the attached tfemorandum of Agreement (I\4OA) duly signed and notarized, for your
+appropriate action.
+For the City Mayor:
+ATTY. TRISTAI{
+NGO
+Assistant
+,DPDLii4
+(
+,2d-"=fn,
+RELEASE.D
+- lo
+I
+&7* *
+t.
+*
+I
+ffi , i i fl:330?' Y ffi ! i lii i'd,8' il J 11,":'? #: J, n',1:,1i,."'#. gH Brw=, @
+
+,
+Repub,lic of the Philippines
+OFFIGE OF THE GITY LEGAL OFFIGER
+Tel no.227-5793 * 225-0183
+Trunk Line No. 241-100O Loc267
+-o0oRef. No. I 131-18-0002435
+EN DORSEMENT/RECOMM ENDATION NO.
+srH rNDoRsEMEilfJuly 23, 2018 ., . ir
+ln . sERTES oF 2018
+_lL-n!J--r
+ilf.nfl - (;llD JP
+fl[$vf,t]
+?
+1'stt
+'n
+4 20lu
+Respectfully returned to the SANGGUNIANG Panlungsod, through the ffice of
+the City Administrator, both this City, the herein attached documents relative to Gty
+Ordinance No. 0366-L7, SERIES of 2017 entitled oAN ORDIIIANCE GRANTING
+LEGISTATIVE AUTHORIW TO THE CITY MAYOR TO ENTER INTO AilD SIGil,
+FOR Ar{D ril BEHATF OF THE CrrY GOVERNMENT OF DAVAO, THE
+MEI.IORANDU}I OF AGREEI.IENT TO BE ENTERED I]ITO BY A}ID BETWEE}I THE
+CITY GOVERNMEI{T OF DAVAO AND PWC IsLA LIPANAil & CO., rN THE
+CONDUCT OF THE RE\TIEW OF THE DAVAO CITY INVESTMEilT I]ICE]ITIVE
+CODE OF 1994i with the attached copies of the duly signed Memorandum of
+Agreement which have been duly notarized as requested.
+RESPECTFU LLY SUBMITTED.
+Approved
+ATTY. OSM
+DO P. VILLAI{UEVA, JR.
+Acting City Legal fficer
+Date of Approval:
+. .'l0t OF THE ttry aXpgpg$Tft4rq,
+llr':
+"ir,*
+ho,-,-o
+i'l-. i)'.iril
+2l4e
+a
+rfl
+C),
+GAL
+"tj'n'ntctrtls.
+a<s-[{A -+a
+a
+
+it .
+. Redublic of the Philippines * ., -r
+i
+oFFrcE oFffiB.glT"MAyoR
+I
+,9
+Ref. No. CAdO 2018{5358
+Sfr Indorcement
+July 19, 2018
+Respectfltlly returned to the Atty. Osmundo P. Villanueva Jr., Officer-InCharge, City Legal Office, this City, the herein Ordinance No. O366-17 Serie s ol2OL7,
+with attached Memorandum of Agreement with the PWC Ista Lipana & Co., duly signed,
+for acknowledgement.
+For the City Mayor:
+ATTY. TRISTAN
+Assistant
+INGO
+(Administration)
+eF;lf).6pp
+MFtHASED
+,,h
+ffiiiif38o!'? lillilii'-i'*8 ilJeJlg':'?#:iffii';r',?il1fr :JII Bag6u*
+
+af
+\r,
+.ii;E OF THE CiTY AO}IINISTRAT(IP
+Cl't Y l'i;,:-L i;
+(bCL.VED EY
+tF!-
+rL.
+S" Indorsement
+July 13, 2018
+Respectfully forwarded to SARA z. DUTERTE, city Mayor, city of Davao,
+Thru: MS. MARI GRACE P. NABONG, Officer-In-Charge, Correspondence & Records,
+2F Room 23, City Hall, Davao City, the herein documents relative to City Ordinance
+No. O366-L7, SERIES of 2017, entitled "AN ORDINANCE GRANTING LEGISLATIVE
+AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF
+THE CTTY GOVERNMENT OF DAVAO, THE MEMORANDUM OF AGREEMENT TO BE
+ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF DAVAO AND PWC ISI-A
+LIPANA & CO., IN THE CONDUCT OF THE REVIEW OF THE DAVAO CITY INVESTMENT
+INCENTIVE CODE OF 1994, duly signed by both parties, for your information, guidance,
+and appropriate action.
+Thank you
+For and in the absence of the Secretary:
+S-t'
+LMER M. CABALI
+Acting Secreta
+the SANGGUNIANG Panlungsod
+(Supervisi ng Admi nistrative Offi cer)
+jmc/nta
+RECEIVED
+CMO. CRD
+rU lb
+)01
+A1
+?2$-flb4/"v
+
+3'd Indorsement
+April 16, 2018
+Respectfully forwarded to MR. ALEXANDER B. CABRERA, Chairman and
+Senior Partner, Isla Lipana & Co., Philippine Member Firm of PWC Network, 29th Floor,
+Philamlife Tower, Paseo de Roxas, Makati City, the herein documents relative to City
+ordinance No. O366-L7, SERIES of 2017, entifled "AN ORDINANCE GRANTING
+LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND
+IN BEHALF OF THE CTTY GOVERNMENT OF DAVAO, THE MEMORANDUM OF
+AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE CITY GOVERNMENT OF
+DAVAO AND PWC ISI-A LIPANA & CO., IN THE CONDUCT OF THE REVIEW OF THE
+DAVAO Cfry INVESTMENT INCENTIVE CODE OF t994, inviting attention to the 2nd
+Indorsement of Atty. Trsitan Dwight P. Domingo, Assistant City Administrator
+(Administration), for your information and appropriate action, and to return the same to
+the undersigned after everything has been complied with.
+Thank you
+f,EOtSTfty
+IPT
+Poct
+zo
+Complctc rucorrl ofmgiscrcd mafl is
+kqrt nt he poxt office but flre rcnder
+shonld writc nunc of addrcsscc onback
+hel'cof es m idcntifirotioru Prcsfiwf,rd
+suhnit fhis receipt in
+-,t
+nhttw6\ ^i. ,1,"(
+CHARITO N. SANTOS
+Secretary to the SanggJniang panlungsod
+(City Government Department Head II)
+W
+
+'
+OFFTCE OFTHE CTTYMAYOR
+Erpi;
+,o
+Ref, No. CAdO 2019{3537
+'Lrn
+2d Indorcement
+April 10, 2019
+Respectfttlly returned to the Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this city, the herein ordinance No. 0366-17 SERIES of
+2017, and Legal opinion I{o. 08 SERIES of 2018 from the ffice of the City Legal
+officer, the attached Memorandum of Agreement with pwc Isla Lipanan & co., with
+instruction to let the other parties sign the documents first before the City Mayor,s affixing
+signature, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAil
+Assistant
+(Administration)
+IDPo/sh.llq
+/lse - r-/f,
+RELEASTD
+cldc - cRD
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 255 o davaocitymayor@gmail.com,r
+B^ffi,@
+LIFE
+IS HERE
+rt
+t
+
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No.227-5793 * 225-0183 sp
+Trunk Line No. 241-1000 Lcr,267
+o0o
+Ref. No. 1131-18
+Legal Opinion No. 0l SERIES of 2018
+l't INDoRSEMENT
+December 29,20L7
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+Administrator, this city, the herein ordinance No. 0366-17 entitled *AN ORDINANCE
+GRANTING
+LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND
+SIGN,
+FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE
+CITY GOVERNMENT OF DAVAO AND PWC ISLA UPANAN & CO., IN THE CONDUCT OF
+THE REVIEW OF THE DAVAO CITY INVESTMENT INCENTIVE CODE OF Lgg/+", informing
+your end that the 6nlmeasure is free from legal infirmity. Hence, it is recommended
+that the Ordinance ddaTproved and the Memorandum of Agreement be executed.
+ArrY. umr-ffiKcAlto, Rsw
+Attotsney lV
+Approved by:
+mraNUEvA,rR
+ATTY. OSMUN
+OIC, Asst. City Legal Offtcer
+Date Approved: January 4,2A18
+otdq 3 6 6 - 1 z_nm_qqc-is h_ 1 z 4z z 9 _ I z -z 9 - 1 Z
+@tee
+C
+ilC;:c"-'-
+ETRAi'OF
+:r18-::
+aq(-cas4 -
+ttlri
+lI
+IFEE
+RECf;flVEM
+CMO. CRF
+N
+,l:01 ,ft^" ,l.t
+OATr
+$r
+J\i"URE
+0t.1o t(
+tr
+Admin
+9:a+r*x
+77tt - /+-*>
+
+OFFICE OF THE CITY LEGAL OFFICER
+Tel. No. 227-5793,k 225-0183 tro
+Trunk Line No. 241-1000 Loc267
+o0o
+Legal Opinion Xo. 0 ! SERIES of 2O1B
+[Mio - crii)
+l
+Ref. No. 1131-18
+Approved by:
+1't INDoRSEMENT
+&tffitrtrH\/f;t)
+December 29, Z0L7
+/?:01 ,tr'. A,
+Respectfu lly fonruarded to the Office of the City Mayor, through the Office of the
+Administrator, this City, the herein Ordinance No. 0366-17 entitled *AN ORDINANCE
+GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND
+SIGN, FOR AND IN BEHALF OF THE CTTY GOVERNMENT OF DAVAO, THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEN THE
+CITY GOVERNMENT OF DAVAO AND PWC ISLA LIPANAN & CO., IN THE CONDUCT OF
+THE REVIEW OF THE DAVAO CITY INVESTMENT INCENTIVE CODE OF Lgg4", informing
+your end that the
+is free from I
+that the Ordinance .,Krutleasure
+uOapproved
+egal infirmity. Hence, it is recommended
+and the Memorandum of Agreement be executed.
+Arry. r,,tn nlffifa-cA L Lo, Rsw
+Attor"ney 1V
+ilo p. vTLLANUEvA, JR
+ATTY. OSMUN
+OIC, Asst. City Legal Officer
+Date Approved: January 4,2018
+ord0366- I 7_tnoa_at4/C-is k _ I 7 -tNZ Z 9_ t 2 -2 9 - I 7
+@dee
+i.\
+..,ll
+li
+ii
+i
+ti
+i.
+g:&V*R
+aazt
+I
+1 -t : j.; ir,: .:
+t-,.."'-..
+"q !. !? - t."Y
+\-4,
+ril,li -.t ji. .+
+i!
+:
+.i:
+
+.$a6i6ro
+Izl
+nenubric offitiTlrd;.'
+December tB,20L7
+{:MO " CRD
+RECffiE\fHM
+?
+lr:ro *
+SARA Z. DUTERTE
+City Mayor
+Madam:
+L
+IC)
+*
+-0ae4 * no
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenryise known
+as the Local Government Code of 199t, we are furnishing you a copy of
+Resolution No. OL677'L7 and Ordinance No. 0366-17, both SERIES of 2Ot7 of the
+SANGGUNIANG Panlungsod, with Six (6) sets of copies of the Memorandum of Agreement
+to be entered into by and between the City Government of Davao and PWC Isla Lipana
+& Co., in the conduct of the Review of the Davao City Investment Incentive Code of
+t994, for your information, guidance, and appropriate action.
+Very truly yours,
+e,%xr+th. #o,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+cns/nta
+l' l
+
+a,r6
+l>
+Ea
+oD TYc
+Republic of the Phitrippines
+Gty of Davao
+O,ffie of the SANGGUNIANG Panluqgsod
+18u' Ciry council
++7c Rsdrrsr*n
+SERIES of m17
+PRESETIT:
+Courcllor J. llddtr B. QSt*r Jr
+Cruncihr tlilo ttl. fibeilera Jr.
+Cofficilotr tlrir Edelr S- Acoett
+Cqncllor Ytchr.lo U. fffida Jr.
+Cuncihr Bemrd E. il-ag
+Cqmdhr fl RIm S. AleFnde
+Concihr tlarE L. fpo$l S.
+Comihr ffiC.
+B*ral
+Cumcilor Joanm 0f. SqEuf{t{tfu
+Courcilr ltla. Cheny Arm t{. Bfignrlan
+endhr PlltrC. eege
+Crundlor JfmV G. Our€ca
+Courcihr Edgtr P. Ihryan Jr.
+Crutdlot' Ledl A, maOo"Vry
+Conclhr RrrE Bias C. Loprz
+Comcilor Disdado Angeh A, Hd*ttr S.
+Courcilu' Bonltacio E llffir
+Comdlr f,nbhetE C. PrirrcipeC$odes
+Coucilor ilaisa P. Saffifbeh
+Cqncihr l{da Y. Stdagtr
+Comihr l4ry JGeile O. Vtlafilelte
+Cofficilor J€HIE Joeph P. Zorohado Itr
+OTI OFEICIILBEffiESS:
+Uce !,trytr Paolo Z. Duffi
+Cqrrlhr Jau.ry t{. DUErG
+Conndhr frqalh Dalodo Orttr
+ABSET{T:
+Cuncihr Oilto C. Oqru$lra1g
+Coundhr A!t{ f'l#e C. EIry
+- Terprrykidirg0ffis
+- ,erded fie Frsfderfid Arudirg for
+Cnn*mienfff Hmidpafries ild Citir h
+It*ac*rq
+- ftffi
+Ux Presfhnthl fnilItg tu
+Chil#fTimdtf liuiciumies ild ffies h
+Xaladrq
+- On S(Leare
+- olr htsttc grergarItearc
+oRIrIilItG HL &166-17
+Scritr d frt'7
+TT SRI'ITTTCI GRIrIIilG I.BtrISLITTUC ll'NtnITT TO TI*
+cxTY llrYoR xl ErrER $mI rffil sfiir+ FoR rilo If, Elulf
+oF Tt|E CITY C(IVERIS|EITTOF BtYtO, Ttt I,EH(nmprrH ff
+TGREEreilT Tt' EE ETIEED IilTT} ET Til} EETUEET T}f
+clTrmuERmtEtTof DlYt[} trc PUI xst.[ uFtt*t * 08.,
+III T}E OtxU'CT OT Ttfr REYIEW OF TIE tnYTO CITlf
+unlEslilErrffiEr[ruE cooc
+
+Page 2 0f 3
+Ord. No.036&17
+Be it ordained ry Sre SANGGUNIANG Panlungsod of Darao City in session
+assernbled that:
+SAtrIIOil L rrTLE - Thb Ordinane *rall be knorn s *lt OnDilltCE
+GRITTIIG I,.EtrIIilITIUE IUI}T'RITY TT} THE CITT tlTYtN TD ErIER IITfi'
+rilD slc& Fffi IrilI It BEHil.r OF rHE CrTY qn EmHTff DtYlO, TIG
+HEilORIffiX''I Of IGNEE'CTTil} EE ETfiEREI} Iilfi} EYTT} EETTEET T}IE
+crTY ffiERTEEtT tr DrVtO trD ptc rSLf LrPltatil t ffi{ It T}E
+OOTT}T'CT OF r}E BEYIEU (}F T}E TilY'O CXTT If,UESIIlEf,T ITCEilIITE
+moE oF rgg4-;
+SECTIffi L DECLIRIIIOil Of ft0lrcY - hrrm gty hs bmrne a pnme
+destination for bodr tflrtsm ard inrresfinmt in ttlindanao, mrpled wih tlre incrrnsiry
+numbs of actirities and infltrx d EurisB, hffi inBodud dta[sEes to tte €fii$irB
+traffE s$eam wi&in the juddirtbn- In order to adress ffi
+cotqestirx, arrcng the
+shaEgies to be dopted bV Sre City Government of Oavao b to encourage the
+pafiicipatlo*t d propertf ffrers wihin the csnrnscial are d ilre (lE;
+sBcrlot 3-
+- Ihe ttlernorandum of
+Agreanurt nferc b UE ins&unert to be wrEd bf ard h€fi,Een Ure grtf
+Gorernrnent of Darao, Rpprtrfic of Ure Philipd$es. id PIUC lda Upana & Co.;
+SEtrIIOt tL AUfHORIff - the Cty flayor b hereby granbd legidatirc
+authryi$ b enEr inb and s(1n, fw and in bdratr d frE W Gorcrnrstt d hrao, $e
+lHnorardum of Agr*ment b be enM inb ry and betnsr Up ClU ftyernrn€nt d

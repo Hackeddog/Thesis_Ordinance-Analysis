@@ -1,0 +1,174 @@
+---
+ordinance_number: "0109-16"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION OF ROXAS STREET ON DECEMBER 2L 2Oa6, FROM 4:00 P.M. TO 10:00 P.M. FOR THE EVENT, *PASKO DABA DABA\" IN LINE WITH THE CELEBRATION OF PASKO FIESTA SA DABAW 2016"
+date_enacted: "2016-12-09"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0109-16.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2016.0
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/along, topic/portion]
+---
+
+# Ordinance No. 0109-16
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION OF ROXAS STREET ON DECEMBER 2L 2Oa6, FROM 4:00 P.M. TO 10:00 P.M. FOR THE EVENT, *PASKO DABA DABA" IN LINE WITH THE CELEBRATION OF PASKO FIESTA SA DABAW 2016
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2016 |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+18th City Council
+2lst Regular Session
+SERIES of 2016
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ON OFFICIAL BUSINESS:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Repu bl ic of. tlre Fhiti pp.i nes
+Diosdado Angelo A. Mahipus Sr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+Edgar P. Ibuyan Jr.
+Rene Elias C. Lopez
+Bonifacio E. Militar
+Avegayle Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Temporary Presiding Officer
+ABSENT:
+Paolo Z. Dutefte
+Nilo M. Abellera Jr.
+January N. Dutefte
+Leah A. Librado-Yap
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Joanne M. Bonguyan-Quilos
+April Marie C. Dayap
+Jimmy G. Dureza
+- On Vacation Leave
+- On Vacation Leave
+- On Maternity Leave
+- On Sick Leave
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0109.16
+SERIES of 2015
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG A PORTION OF ROXAS
+STREET ON DECEMBER 2L 2Oa6, FROM 4:00 P.M. TO
+10:00 P.M. FOR THE EVENT, *PASKO DABA DABA" IN
+LINE WITH THE CELEBRATION OF PASKO FIESTA SA
+DABAW 2016
+
+Ord. No. 0109-16
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTION 1. TITLE.- This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG A PORTION OF
+ROXAS STREET ON DECEMBER 21, 2OL6, FROM 4:00 P.M. TO 10:00 P.M. FOR
+THE EVENT, *PASKO DABA DABA" rN LrNE WrTH THE CELEBRATION OF PASKO
+FIESTA SA DABAW 2O16"1
+SECTION 2. DECLARATION OF POLICY. - SECTION 21 (c) of Republic Act No.
+7160, othenrvise known as the Local Government Code of 1991, provides that:
+"Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial fairs or an
+undeftaking of public works and highways, telecommunications
+and watenruorks projects...";
+SECTION 3. rc.
+- The following streets in Poblacion,
+Davao City, shall be temporarily closed to vehicular traffic: portion of Roxas Street on
+December 2L, 2016, from 4:00 P.M. to 10:00 P.M. for the event, "Pasko Daba Daba" in
+line with the celebration of Pasko Fiesta sa Dabaw 20L6;
+SECTION 4. SEPARABILITY CLAUSE.- If for any reason, any SECTION or
+provisions of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 9th day of December, 2016, by a unanimous vote of all the
+Members of the Sanggunian present.
+CERTIFIED CORRECT:
+n U{"n'{\' 'l^-
+C}IARITO N. SANTOS
+Secretary to the Sanggunlang Panlungsod
+(City Government Depaftment Head II)"
+)
+City Councilor
+Temporary Presiding Offi cer
+cns/kjtq
+ATTESTED:
+
+i,
+,l
+APPROVED
+Ord. No. 0109-16
+2016
+SARA Z. DUTERTE
+City Mayor
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator

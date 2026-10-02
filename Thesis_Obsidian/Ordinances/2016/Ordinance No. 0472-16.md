@@ -1,0 +1,372 @@
+---
+ordinance_number: "0472-16"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW PERCENT (30o/o) QUICK RESPONSE FUND (QRF) oUT OF THE FrvE pERCENT (5o/o) DISASTER RISK REDUCTION AND MANAGEn|-ENT FUND (CALAMTW FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR zbtS, IN THE TOTAL AMOUNT OF ELEVEN MTLLTON PESOS, (P11,OOO,OOO.OO) TO EXTEND ASSTSTANCE TO THE VICTIMS OF WPHOON NONA THAT HIT THE 14 MUNICIP"
+date_enacted: null
+approval_date: "2016-01-08"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0472-16.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.25
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2015.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/authorizing, topic/mayor, topic/utilize, topic/portion, topic/thirw, topic/percent]
+---
+
+# Ordinance No. 0472-16
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW PERCENT (30o/o) QUICK RESPONSE FUND (QRF) oUT OF THE FrvE pERCENT (5o/o) DISASTER RISK REDUCTION AND MANAGEn|-ENT FUND (CALAMTW FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR zbtS, IN THE TOTAL AMOUNT OF ELEVEN MTLLTON PESOS, (P11,OOO,OOO.OO) TO EXTEND ASSTSTANCE TO THE VICTIMS OF WPHOON NONA THAT HIT THE 14 MUNICIP
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2015 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Cites or amends
+
+- [[Ordinance No. 0472-15]]
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+ffi
+2nd Endorsement
+29 January 2016
+Respectfully forwarded to Ms. CHARITO N. SANTOS, Secretary to the
+SANGGUNIANG Panlungsod, this City the herein documents relative to City Ordinance No.
+0472-L5, SERIES of 2015 entitled 'AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+UTILIZE A PORTION OF THE THIRTY PERCENT (30o/o) QUICK RESPONS FUND (QRF)
+OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT
+FUND (CALAMITY FUND) OF THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR
+2015, IN THE TOTAL AMOUNT OF ELEVEN MILLION PESOS (p11,000,000.00) TO
+EXTEND ASSISTANCE TO THE VICTIMS OF TYPHOON NONA THAT HIT 14
+MUNICIPALITIES OF SORSOGON (BARCELONA, BULAN, BULUSAN, CASIGURAN,
+CASTILLA, DONSOL, GUBAT, IROSIN, JUBAN, MAGALLANES, MATNOG, PILAR, PITO
+DIAZ AND SIA. MAGDALENA) SORSOGON CTTY AND SEVEN MUNICIPALITIES OF
+ORIENTAL MINDORO (BACU, CALAPAN, GLORI& NAU]AN, PINAMALAYAN, POLA AND
+VICToRIA) AT FIVE HUNDRED THOUSAND PESOS (p500,000.00) SUBJECT TO THE
+EXISTING GOVERNMENT BUDGETING ACCOUNTING AND AUDMNG RULES AND
+REGULATIONS" with the information that this has been lapsed into law.
+For your information and appropriate action.
+Thank you.
+RODRIGO R. DUTERTE
+City Mayor
+By
+L D. DALUMPINES
+Chief-of-Staff
+EMO " CRD
+RELEASED
+FEB 0! iutl rrror **+
+/csp
+0L011
+D;
+Second Floot City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224- 587 8 . d ava oc itym ayo r@ g m a i l.co m
+OFFICE OF THE CTryMAYOR
+*y\rl,l
+,
+a
+\
+.7
+
+{,.9t4(
+,I
+t.rlF^lrlJtFU
+eEl t0E uF '
+Rm.2l'
+f"?[,,rrq
+q.hckrvtDevi ' ---i W
+Republic of the Philippine" l'tli**j#::-:
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao f.I(. g
+CMO. CRD
+RECEIVED
+Ref. No. LLSL-L6
+qo
+1ST INDORSEMENT
+January t8,2076
+RespectfuIly forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0472-15,
+SERIES of 20L5 entitled "AN ORDINANCE AUTHORIZING THE CITY MAYOR
+TO WTLTZE A PORTTON OF THE THIRTY PERCENT (30%) QUrCK
+RESPONSE FUND lgRF) Or-rr OF THE FrVE PERCENT (s%) DTSASTER RrSK
+REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY
+GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2015, IN THE TOTAL
+AMOUNT OF ELEVEN MILLION PESOS (p11,000,000.00) TO EXTEND
+ASSISTANCE TO THE VICTIIvLS OF TYPHOON NONA THAT HIT 14
+MUNICIPALITIES OF SOI{SOGON (Barcelona, Bulan, Bulusan, Casiguran,
+Castilla, Donsol, Gubat, hosin, )uban, Magallanes, Matnog, Pilar, Pito Diaz, and
+Sta. Magdalena) Sorsogon City AND SEVEN MUMCIPALITIES OF ORIENTAL
+MINDORO (Bacu, Calapan, Gloria, Naujan, Pinamalal'an, Pola and Victoria) AT
+FM HUNDRED THOUSAND PESOS (p500,000.00) SUBIECT TO THE
+EXISTING GOVERNMENT BUDGETING, ACCOUNTING AND AUDITING
+RtltES AND REGULATIONS " with the information that this office finds the
+same to be in accord with RA 818S.amending SECTION 324 (d) of RA 7L60,
+otherwise known as the Local Government Code of 1991,. Hence, it is strongly
+recornmentled that the said ordinance be approved.
+ATTY
+. GALLO, RSW
+Attorney LV
+Appror.ed bv:
+ATTY
+P. VILLANTIEVA, IR
+Acting City Legal C)fficer
+JANUARY 19,2076
+Date approved:
+m a g _ordW 72-15 _ulnmi ty fund _1. 6 - 0 A71
+@dee
+70/b
+3Co- 0 - 6c
+tv
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIAIIG PA}{LUNGSOD
+LUNGSOD NG DABAW JW.{
+January 8,2016
+Sir:
+RODRIGO R. DUTERTE
+City Mayor
+CMo"cnD
+RECEIVED
+N
+?0 16 to: ?c awt
+r
+.l
+jAN I i Zultj
+/l"ftl} '!4ttr -Mtt P.q
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title
+Five, Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160,
+otherwise known as the Local Government Code of 1991, we are furnishing you
+a copy of Resolution No. o12576-15 and Ordinance No. 0472-15, both SERIES of
+2015 of the SANGGUNIANG Panlungsod, for your information, guidance and
+appropriate action.
+Very truly yours,
+1 \rtAA^ l t,^
+CHARTTO N/ SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+-1.,I
+3(, '"-b?
+cns/lnta
+
+17th Clty Council
+Ist Special Session
+SERIES of 2015
+PRESENT:
+Councilor Jimmy G. Dureza
+Councilor Nilo M. Abellera Jr.
+Councilor Victorio U. Advincula Jr.
+Councilor Bernard E. Al-ag
+Councilor Al Ryan S. Alejandre
+Councilor Joanne M. Bonguyan-Quilos
+Councilor Louie John J. Bonguyan
+Councilor Danilo C. Dayanghirang
+Councilor April Marie C. Dayap
+Councilor January N. DuterLe
+Councilor Edgar R. Ibuyan Sr.
+Councilor Rene Elias C. Lopez
+Councilor Diosdado Angelo A, Mahipus Sr.
+Councilor Bonifacio E. Militar
+Councilor Tomas J. Monteverde, IV
+Councilor Myrna G. L'Dalodc-Ortiz
+Councilor Antoinette G. principe-Castrodes
+Councilor Marissa P. Salvador-Abella
+Councilor Halila Y. Sudagar
+Councilor Mary Joselle D. Villafuerte
+Councilor Rachel P. Zozobrado
+- Temporary Presiding Officer
+ON OFFICIAL BUSINESS:
+Vice Mayor Paolo Z. Duterte
+Councilor Ma. Belen S. Acosta
+- Attended the Mindanao Basic
+Sector Conversation at DMSF
+Councilor January N. Duterte
+ABSENT:
+Councilor Karlo S. Bello
+Councilor Leah A. Librado-yap
+On Maternity Leave
+ORDINANCE NO. O472.L5
+SERIES of 2015
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE
+THIRW PERCENT (30o/o) QUICK RESPONSE FUND (QRF) oUT OF THE FrvE pERCENT
+(5o/o) DISASTER RISK REDUCTION AND MANAGEn|-ENT FUND (CALAMTW FUND) OF
+THE CITY GOVERNMENT OF DAVAO FOR CALENDAR YEAR zbtS, IN THE TOTAL
+AMOUNT OF ELEVEN MTLLTON PESOS, (P11,OOO,OOO.OO) TO EXTEND ASSTSTANCE
+TO THE VICTIMS OF WPHOON NONA THAT HIT THE 14 MUNICIPALITIES OF
+SORSOGON (Barcelona, Bulan, Bulusan, Casiguran, Castilla, Donsol, Guba! frosin,
+Juban, Magallanes, Matnog, pilar, pito Diaz, and sta. Magdalena), sorsogon city
+AND SEVEN MUNICIPALITIES OF ORIENTAL MINDORO 1Bacu, batapan, Gloria,
+Naujan, Pinamalayan, Pola and Victoria) AT FIVE HUNoCeo THOUSAND pEsos;
+(P5OO,OOO.OO) EACH, SUBJECT TO THE EXISTING GOVERNMENT BUDGETING;
+ACCOUNTING AND AUDITING RULES AND REGULATIONS
+
+Page2 of 4 Pages
+Ordinance No. 0472-15
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City in
+session assembled:
+SECTION 1. TITLE - This Ordinance shall be known as "AlV ORDINANCE
+AUTHORIZING THD CITY IVIAYOR TO UTILIZE A PORTION OF THD THIRTY
+PDRCENT pon QUrCK R.ESPOTVSE FttND (QRF) OUT OF THE FrVE PERCENT (s%o)
+DrsAsrER Rrsr( REDUcrroN AND MANAoDMDNT FUND (oALAMITv FUND) oF THi
+crTY GOVERNMENT OF DAVAO FOR CALDNDAR YEAR 2075, rN THE TOTAL
+AMOUNT O? ELEVEN MILLION PtsOS, (P77,^OO,OOO.OO) To ErTEND
+ASSIS?AJVCE TO THD VICTIMS OF TYPHOON IVOJVA THAT HIT L4
+MUNICIPALITIES OF SORSOGON (Barcelona, Bulan, Bulusan, Casiguran, Castilla,
+Donsol, Gubat, Irosin, Juban, Magallanes, Matnog, pilar, pito Diaz, and sta.
+Magdalena), Sorsogon City AND SEVEN MUNICIPALITIES OF ORIENTAL
+MINDORO (Bacu, Calapan, Gloria, Naujan, Pinamalayan, Pola and Victoria) AT
+FM HUNDRED THOUSAND PESOS (P5OO,OOO.OO) SUBJECT TO THE EXTSTTNG
+GOVERNMENT BUDGETING, ACCOUNTING AND AUDITING RULE.S AND
+REGULATIONS";
+SECTION 2. DECLARATION OF POLICY. In keeping with its mandate and in
+response to the needs of the people, the City Government of Davao declares as its
+policy to judiciousiy utilize its resources and put the same to proper use;
+SECTION 3. BENEFICIARIES. The affected provinces as specified under
+Proclamation No. 1186 declared to be under a State of National Calamity are the
+beneficiaries of the City's assistance, broken down as follows;
+14 Municipalities of the Province of Sorsogon & 1 City
+1. Barcelona
+2. Bulan
+3. Bulusan
+4. Casiguran
+5. Castilla
+6. Donsol
+7. Gubat
+8. Irosin
+9. Juban
+10. Magallanes
+11. Matnog -
+12. Pilar
+13. Pito Diaz
+14, Sta. Magdalena
+15. Sorsogon City
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000,00
+500,000.00
+500,000.00
+500,000,00
+7,500,000.00
+Sub-total
+P
+Seven Munipalities of Oriental Mindoro
+1. Baco
+2. Calapan
+3. Gloria
+4. Naujan
+5. Pinamalayan
+6. Pola
+7. Victoria
+Sub-total
+Grand Total....
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+500,000.00
+3,s00.000.00
+11,000,000.00
+P
+P
+P
+
+Page3 of 4 Pages
+Ordinance No. 0472-15
+SECTION 4. LEGAL BASIS. Pursuant to Republic Act No. 8185, otherwise
+known as "An Act of Amending SECTION 324 (d) of R.A.. 7160, otherwise known as the
+Local Government of 1991, which states that Five Percent (5%) of the estimated
+revenue from regular sources shall be set aside as annual lump surn appropriations
+for relief, rehabilitation, reconstruction and other works or services in connection
+with calamities which may occur during the budget year. Provided, however, that
+such fund sha1l be used only in the area, or a portion thereof, of the loca1 government
+unit or other areas affected by a disaster or calamity, as determined and declared by
+the loca1 sanggunian concerned;
+xxx
+xxx
+xxx
+SEC?IOII 5. ALlocation and Utilization of Fiue percent (S%)
+Lumpsum Appropiations -for Calamitu Fund
+a)Allocation
+xxx
+xxx
+xxx
+"LGU s maA also allocate/use a portion of the fiue percent (5%)
+Calamitg Fund to other affected areas on condition that the said
+areas are declared as under a State of Calamitg bg the President or
+Sang gunian concerne d" ;
+Further, Republic Act (RA) lOI2l provides the proper utilization of the five
+percent (5%) Disaster Risk Reduction and Management Fund (DRRMF) or Ca-lamity
+Fund wherein thirty percent (30%) of said fund shall be allocated as Quick Response
+Fund (QRF) or stand-by fund for relief and recovery programs, and the remaining
+seventy percent (7O%) shall be used for preparedness, mitigation and rehabilitation
+activities;
+SECTION 5. USE OF FUNDS - The amounts herein appropriated shall be
+used specifically for such items and expenditures approved by the SANGGUNIANG
+Panlungsod. All disbursements and utilization of tunds shall be subject to the existing
+government budgeting, accounting and auditing rules and regulations of the
+Department of Budget and Management (DBM), the Commission on Audit (COA), the
+Procurement Law (RA 9784), as well as other applicable laws, ordinances and
+Presidential directives;
+SECTION 6.
+EFFECTMTY - The provisions of this Ordinance shall take
+effect upon approval;
+ENACTED, December 22,2O\5, by a majority vote of all the Members of the
+Sangunian present, there being a quorLlm.
+CERTIFIED CORRECT
+^ il,^; )r. {,,^r
+cHARrro N. SANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head ll)
+D
+G. DU
+Councilor
+ATT
+Tem porary Presiding Officer
+
+,
+Page4 of 4 Pages
+Ordinance No. 0472-15
+APPROVED:
+DEEMEDAPPROVEDAFTER THE TAPSE OF
+nA]$
+RODRIGO R.
+"rtt*"t;1re
+ATTESTED:
+ATTY. JESUS MELCHOR V. QUITATN
+City Administrator
+a.
+rf..-

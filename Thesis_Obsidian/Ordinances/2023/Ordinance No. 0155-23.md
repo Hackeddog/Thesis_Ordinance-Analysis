@@ -1,0 +1,322 @@
+---
+ordinance_number: "0155-23"
+title: "a ORDINANCE NO. 0155-23 Series of 2O23 AN ORDINANCE GRANTING PERSONS WITH DISABILITY, WITH DULY ISSUED IDENTIFICATIOil CARDS BY THE CITY GOVERNMENT OF DAVAO, FREE MOVIE PRMIEGE TO ALL CINEMAS Iil THE CITY OF DAVAO"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0155-23 -PWD ID (2).pdf"
+section_count: 9
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: null
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/persons, topic/disability, topic/duly, topic/issued, topic/identificatioil]
+---
+
+# Ordinance No. 0155-23
+
+> a ORDINANCE NO. 0155-23 Series of 2O23 AN ORDINANCE GRANTING PERSONS WITH DISABILITY, WITH DULY ISSUED IDENTIFICATIOil CARDS BY THE CITY GOVERNMENT OF DAVAO, FREE MOVIE PRMIEGE TO ALL CINEMAS Iil THE CITY OF DAVAO
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | - |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,077 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2023\Ordinance No. 0155-23 -PWD ID (2).txt`*
+
+t
+20u'City Council
+3d Regular Session
+SERIES of 2023
+PRESEI{T:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+C,ouncilor
+Councilor
+@uncilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+C,ouncilor
+C,ouncilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+C.ouncilor
+Councilor
+Councilor
+Councilor
+Cpuncilor
+ABSENT:
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+Councilor Edgar R. Ibuyan Sr.
+- OB- Attended the Liga ng
+mga Barangay National
+Executive Board (NEB)
+Meeting/Assembly in Manila
+ORDINANCE NO. 0155-23
+SERIES of 2O23
+AN ORDINANCE GRANTING PERSONS WITH DISABILITY, WITH
+DULY ISSUED IDENTIFICATIOil CARDS BY THE CITY
+GOVERNMENT OF DAVAO, FREE MOVIE PRMIEGE TO ALL
+CINEMAS Iil THE CITY OF DAVAO
+
+Ord. No.0155-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1, SHORT TITLE - This Ordinance shall be known as the
+"Persons with Disability Free Movie Privilege Ordinance".
+SECTION 2. DEFINITION OF TERMS - For purposes of this Ordinance,
+the following terms are defined:
+2.1 Percons with Disability (PWDs) are defined by Republic Act No.7277
+or the Magna Cafta fior Disabled Persons as persons suffering from
+restriction of different abilities, as a result of a mental, physical or sensory
+impairment, to peform an activity in the manner or within the range
+considered normal for a human being. An impairment is any loss,
+diminution or aberration of psychological, physiological, or anatomical
+structure of function. Disability shall mean (1) physical or mental
+impairment that substantially limits one or more psychologica!,
+physiological or anatomical function of an individual or activities of such
+individual; (2) a record of such an impairment; or (3) being regarded as
+having such an impairment.
+Persons designated by law as PWDs, such as Cancer Survivors pursuant
+to Republic Act No. 11215 or the National Integrated Cancer Control Act,
+persons with Rare Diseases under Republic Act No. LA747 or the Rare
+Diseases Act of the Philippines, and other related laws shall be considered
+as PWDs.
+2.2 A Cinema or Movie theater is a venue, usually a building or located
+within malls, that contains seating for an audience for the purpose of
+public enteftainment. It is a commercial operation that plays films or
+movies fur paying customers.
+2.3 PWD ldentification Card (PWD ID)refers to the official Identification
+Cards issued by the City Govemment of Davao to persons classified as
+PWDs. It shall bear the name, picture and type of disability of the PWD;
+2.4 Corporate Social Responsibility (CSR) refers to a company's voluntary -
+commitment to conduct business in an ethical way, and to contribute to
+the development of society and the local communrty.
+SECTIOil 3. GUIDELINES AND REGULATIOilS - The following acts
+shall be obserued in the implementation of this Ordinance:
+3.1 FREE MOVIE PRMIEGE. Persons with Disability with duly issued
+PWD IDs shall enjoy the privilege of free movie access to any film of their
+choice, in a cinema or movie theater. The free movie privilege shall be
+non-transferable and may only be availed of by the PWD. If the PWD
+cannot personally transact with cinema personnel, he/she may be
+represented by his/her companion for transaction purposes, provided,
+they are present during the transaction. Cinemas or cinema operators
+
+Ord. No.0155-23
+must strictly implement a 'NO PWD ID, NO ENTRY" policy. The PWD
+must also present his/her movie pass booklet upon entry.
+The free movie privilege only applies to regular movie screenings,
+excluding specialcinemas such as Dolby Atmos, IM$(Theaters, Dirccb/s
+Club, and 3D and 4D theaters. For blockbuster films, the ftee movie
+privilege may only be availed of during its second week. The said privilege
+does not extend to screenings for special events such as sponsored movie
+premierc, pay-per-view shows, and the like.
+3.2 MOVIE PASS BOOKLET. The Persons with Disabilities Affairs ffice
+(PDAO) shall issue availing PWDs with a Movie Pass Booklet. The said
+booklet shall contain the serial number, PWDs full name, photo, address,
+PWD ID number, and signature. The booklet shall also contain the dates
+and number of movies that the PWD may avail of during the entire year.
+The movie pass booklet shall be non-transferable and must be presented
+by the PWD to the cinema personnel upon entry.
+3.3 VERIFICATIOII. For purposes of verification of PWD IDs, Cinema
+Operators must refer to the Philippine Registry for Person with Disability
+Website (PRPWD). Should cinema operators wish to conduct fufther
+verificaUon, they may also contact the Records SECTION of the City Social
+Welfare and Development ffice (CSWDO) at (082) 286-3689.
+3.4 AVAILMEilT. The free movie pass may be availed of only by Pl/tlDs
+registered under the City Government of Davao. They may avail of the
+free movie privilege once a week, every Monday, and during the first
+screening only. However, cinemas are not prohibited fiom offering the
+ftee movie privilege on additional days of the week.
+The free movie pass is good for one screening only per week. Should the
+PWD opt to screen another movie on the scheduled ftee movie privilege
+day, they will have to pay the regular movie entrance with the 20olo
+discount provided for under the law.
+3.5 PARTICIPATING CINEMAS. On the day
+may avail of
+the Free Movie Privilege, cinema owners or
+should
+at least
+PWDs.
+5o/o of the total seating capacity of the movie theater
+3,6 MEMORAI{DUM OF AGREEMEJ{T. The City Govemment of Dava6
+shall enter into a Memorandum of Agreement with all cinemas, cinema
+owners, and cinema operators within the jurisdiction of the City of Davao
+upon the effiectively of this Ordinance. The Memorandum of Agreement
+shall provide the specific day and time when the privilege may be availed
+of, the allotrnent of seats for PWDs, and the proof of identification rcquired
+to be presented to avail of the free movie access in the available movie
+theaters of the cinema operators.
+i..
+
+Ord. No.0155-23
+The free movie privilege granted to PV1/Ds under this Ordinance shall be
+counted under the cinema's Corporate Social Responsibility program.
+3.7 MONITORING SHEET. Cinema owners and operators must provide
+a monthly monitoring sheet where the PWDs will register their full name,
+signature, and PWD ID number upon availing of the privilege.
+The Monitoring Sheet shall serue as proof of compliance to this
+Ordinance, and must be available at any time for tracking purposes.
+3.8 PIOSTERS AND NOTICES FOR PUBTIC AWARENESS. All cinemas
+within the jurisdiction of the City of Davao are required to display posters
+or notices on the cinema booths where cinema viewers transact to buy
+tickets. The posters or notices shall be written in big, legible text and shall
+contain the privilege of PWDs to free movie access, the date and time of
+scrcening, and the number of seats allotted br PWDs who may avail of
+the said access.
+The posters or notices shall serue the purpose of generating public
+awareness of the free movie privilege of PWDs and ensuring that the
+provisions of this Ordinance are duly implemented.
+3.9 THEATER SEATS. Cinemas shall allocate and reserye comfoftable
+and convenient seats for PWD viewerc. The reserued seats shall also be
+easily accessible to PWD viewers. However, PWD viewers may opt to sit
+anywhere aside from the reserved seats within the cinema to their liking.
+PWD viewerc in wheelchairs must have a designated space within the
+cinema, in accordance with Batas Pambansa Blg. 344 or "An Act to
+Enhance the Mobility of Disabled Persons by Requiring Certain Buildings,
+Institutions, Establishments and Public l.Jtilities to install Facilities and
+Other Devices".
+SECTION 4. @-Thisordinance
+shall be enforceil
+in all cinemas within the jurisdiction of the City of Davao.
+J
+SECTIOI{ 5. PENE - Any person who commits fraudulent means to
+avail of this privilege shall be penalized as follows:
+5.1 First offense - a fine of Two Thousand Pesos (PhP 2,000.00);
+5.2 Second offense - a fine of Three Thousand Pesos (PhP 3,000.00);
+5.3 Third offense - a fine of Five Thousand Pesos (PhP 5,000.00).
+If the violation under SECTION 5 is committed through fraudulent means,
+such as falsification of a PWD ID, the offiender shall also be punished in
+accordance with the provisions of the Revised Penal Code (Rrc).
+Cinema operatorc or personnel who encounter violators of this Ordinance
+under SECTION 5 may report to the nearest police station.
+
+Ord. No.0155-23
+SECTION 6. ORDINAI{CE VIOLATION RECEIPT OR CITATIO]I
+EgGf.- An Ordinance Violation Receipt, othenntise known as a "Citation Tickef'
+shall be issued to the violators of this Ordinance. The Citation T]cket shall state
+the name and address of the violatorc, the specific violation committed and the
+provisions of the succeeding SECTION on the "No Contest Provision".
+If the violation of this Ordinance be deemed to have been committed by a
+corporation, partnership or juridical entity, duly recognized in accordance with law,
+the chief executive fficer, president, general manager, managing partner, or such
+other officer-in-charge, if known, shall be cited for the commission of the offense.
+SECTION 7. NO CONTEST PROVISION - Any person cited for violation
+of this Ordinance, who does not wish to contest the violation and is willing to pay
+voluntartly the fine imposed upon him or her under the Ordinance prior to the filing
+of a furmal complaint before the ffice of the City Prosecutor shall be allowed to
+pay said fine with the City Treasurer's Office to avoid being criminally prosecuted.
+The availment of the "No Contest Provision" shall exempt an individual from
+criminal liability under this Ordinance.
+For this purpose, the City Legal ffice and the City Treasure/s ffice shall
+provide the procedure for the availment of the "No C-ontest Provision" and establish
+a case inventory and recording system for all violations of this Ordinance.
+Provided, that if a violator has already availed of the "No Contest Provision,"
+he or she can no longer avail of the same and the corresponding complaint for any
+violation of this Ordinance shall be immediately filed.
+SECTION 8.
+- Within a period of six (6)
+months after the enactnent of this Ordinance, th€ executive must release the
+Implementing Rules and Regulations for the execution of this Ordinance.
+SECTION 9. REPEALING CLAUSE - The provisions of any ordinance,
+resolution, order, rules and regulations that are inconsistent with this Ordinance
+are hereby repealed, modified or amended accordingly.
+SECTION 10. W
+- If for any reason, any SECTION
+or provision of this Ordinance shall be declared unconstitutional or invalid, no other
+sections or provisions shall be affected thereby.
+SECTION 11. EFFECTMTY-This Ordinance shalltake effect afterthirty
+(30) days following its approval and publication in a newspaper of local circulation
+consistent with the provisions of the Local Government Code.
+EilACTED, on the 24n day of January 2023, by a unanimous vote of allthe
+Memberc of the Sanggunian, there being a guorum.
+ri
+
+Ord. No.0155-23
+CERTIFIED CORREfi:
+cfiaff,.dx5-*6'
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head If.
+ATTESTED:
+J.
+t-L
+MELCHoR B. QUrrArN JR.
+/vice Mayor
+Presiding fficer
+cns/mark
+F,tts r'l
+APPROVEDT
+FEB Z I zln
+2423
+SE
+City
+ATTESTED:
+ATTY.
+H. LAYOG
+Acting
+AN ORDINANCE GRANTING PERSONS WITH DISABIUTY, WITH DULY $SUED IDENTIFICATION CARDS
+BY THE CIT

@@ -1,0 +1,192 @@
+---
+ordinance_number: "0129-16"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG FATIMA-AURORA STR,EETS; AURORA CORNER GUERRERO STREETS; CORNER QUEZON AND FATIMA STREETS; AND CORNER PAG.ASA AND FATIMA STREETS, DURTNG THE SUNDAY MASS SCHEDUTES OF THE OUR I.ADY OF FATIMA PARISH CHURCH FROM 5:30 A.M. TO 7:OO P.M"
+date_enacted: "2016-12-16"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0129-16.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2016.0
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/temporary, topic/closure, topic/vehicular, topic/traffic, topic/along, topic/fatima]
+---
+
+# Ordinance No. 0129-16
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICULAR TRAFFIC ALONG FATIMA-AURORA STR,EETS; AURORA CORNER GUERRERO STREETS; CORNER QUEZON AND FATIMA STREETS; AND CORNER PAG.ASA AND FATIMA STREETS, DURTNG THE SUNDAY MASS SCHEDUTES OF THE OUR I.ADY OF FATIMA PARISH CHURCH FROM 5:30 A.M. TO 7:OO P.M
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2016 |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+t
+Republic of the Fhilippines
+City of DaVd6
+rae city Council
+246 Regutar Session
+SERIES of 2016
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Ma. Cherry Ann M. Bonguyan
+Nilo M. Abellera lr.
+Maria Belen S. Acosta
+Victorio U. Advincula lr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Paolo Z. Dutefte
+Joanne M. Bonguyan-Quilos
+January N. Duterte
+Bonifacio E. Militar
+Marissa P. Salvador-Abella
+- Temporary Presiding Officer
+- r On Vacation Leave
+- On Maternity Leave
+- On Vacation Leave
+- On Sick Leave
+- On Vacation Leave
+ORDINANCE NO.0129.16
+SERIES of 2016
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICULAR TRAFFIC ALONG FATIMA-AURORA STR,EETS;
+AURORA CORNER GUERRERO STREETS; CORNER QUEZON
+AND FATIMA STREETS; AND CORNER PAG.ASA AND FATIMA
+STREETS, DURTNG THE SUNDAY MASS SCHEDUTES OF THE
+OUR I.ADY OF FATIMA PARISH CHURCH FROM 5:30 A.M. TO
+7:OO P.M.
+
+Page 2 of3
+Ord. No. OL29-16
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as " AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICU1AR TRAFFIC ATONG FATIMA.AURORA
+STREETS; AURORA CORNER GUERRERO STREETS; CORNER QUEZON AND FATIMA
+STREETS; AND CORNER PAG.ASA AND FATIMA STREETS, DURING THE SUNDAY
+MASS SCHEDUTES OF THE OUR LADY OF FATIMA PARISH CHURCH FROM 5:30
+A.M. TO 7:OO P.M.'i
+SECTION 2. DECI-ARATION OF POLICY - SECTION 21 (c) of Republic Act No.
+7160, otherwise known as the Local Government Code of 1991, provides:
+"Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebration, public rallies, agricultural or industrial fairs, or an
+undertaking of public works and highways, telecommunications
+and watenruorks projects, the duration of which shall be specified
+by the local chief executive concerned in a written order, Provided
+however, that no national or local road, alley, park , or square
+shall be temporarily closed for athletic, cultural or civic activities
+not officially sponsored, recognized, or approved by the local
+government unit concerned."
+SECTION 3. TEMPORARY CTOSURE - The following streets shall be temporarily
+closed to vehicular traffic during Sunday mass schedules of Our Lady of Fatima Parish
+Church from 5:30 A.M. to 7:00 P.M.
+A. Barangay 24-q Poblacion District, this City: (1) Fatima-Aurora
+Streets: (2) Aurora Corner Guerrero Streets;
+B. Barangay 25-C, Poblacion District, this City: (1) Corner Quezon
+and Fatima Streets; and (2) Corner Pag-asa and Fatima Streets.
+SECTION 4. SEPARABILITY CLAUSE - If for any reason, any SECTION of provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect;
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, December 16, 2016, by a unanimous vote of all the Members of the
+SANGGUNIANG present, there being a quorum.
+CERTIFIED CORRECT:
+e,*lfis,]
+Secretary to the Sangg
+- ,frr"{
+s4l{ros
+uniang Panlungsod
+(City Government Department Head^lp_
+
+7'
+a
+)
+Ord. No. 0129-16
+ATTESTED:
+M. BONGUYAN
+Councilor
+Tempora
+Presiding Officer
+ncmfsdam
+MA.
+APPROVED JAN I I 201?
+2016
+DUTERTE
+acity Mayqr
+/1
+ATTESTED:
+fltury
+ATTY. ZULEIKA IISPEZ
+City Adminiltratora

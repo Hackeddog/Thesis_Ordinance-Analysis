@@ -1,0 +1,376 @@
+---
+ordinance_number: "0748-19"
+title: "AN ORDINANCE PROHIBMNG THE RELEASE OF FLYING BALLOONS AND LIGHTED SKY LANTERNS IN THE CITY OF DAVAO\", for your information and appropriate action. For the CiS Mayor: ATTY. TRISTAN DOMINGO Assistant (AdministraUon) * cnlr MArot s ofFtcE cofitEsrolroExctr AnD i,Ecoros Drv RELEASED. MAY 2 J 2i49 .rr\"4'^*o rouniiiiffii-am rv I {0c - t -/7 Second Floor, City Hall Building, City Hall Drive, San Pedro St"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0748-19 (1).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: 2019.0
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, topic/prohibmng, topic/release, topic/flying, topic/balloons, topic/lighted, topic/lanterns]
+---
+
+# Ordinance No. 0748-19
+
+> AN ORDINANCE PROHIBMNG THE RELEASE OF FLYING BALLOONS AND LIGHTED SKY LANTERNS IN THE CITY OF DAVAO", for your information and appropriate action. For the CiS Mayor: ATTY. TRISTAN DOMINGO Assistant (AdministraUon) * cnlr MArot s ofFtcE cofitEsrolroExctr AnD i,Ecoros Drv RELEASED. MAY 2 J 2i49 .rr"4'^*o rouniiiiffii-am rv I {0c - t -/7 Second Floor, City Hall Building, City Hall Drive, San Pedro St
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | 2019 |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+,,,,jirgo .
+(aH#{
+;n, ' Republic of the Philippines
+OFFICE OF THE CITY IVIAYOR
+: Cfty of Davao
+F
+t
+Ref. No. CAdO-819{1826
+2NO INDORSEMENT
+May 28,2019
+Respectfully returned to Ms. Charito Il. Sanbs, Secretary to the SANGGUNIANG
+Panlungsod, this City, the enclosed duly signed and approved Ordinance No. 0748-19,
+SeriCS of 2019 entitled, "AN ORDINANCE PROHIBMNG THE RELEASE OF FLYING
+BALLOONS AND LIGHTED SKY LANTERNS IN THE CITY OF DAVAO", for your
+information and appropriate action.
+For the CiS Mayor:
+ATTY. TRISTAN
+DOMINGO
+Assistant
+(AdministraUon)
+*
+cnlr MArot s ofFtcE
+cofitEsrolroExctr AnD i,Ecoros Drv
+RELEASED.
+MAY 2 J 2i49
+.rr"4'^*o
+rouniiiiffii-am rv I
+{0c - t -/7
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao Citl ptsffi+1$
+(082) 224-3004 o (082) 241-1000 loc.265 . davaocitymayor@gmail.com iTi; ri xene
+
+eell- q
+A?LT
+I
+. '
+OFFICE OF THE CITY LEGAL OF
+Tel. No.29g-6970
+Trunk Line No. 241-1000 Li)c267l22SlZ3O
+OFF,.
+No.
+ORDINANCE NO. 0748-L9, SERIES OF 2019, enUtled 'AN ORDINANCE
+PROHIBMNG THE RELEASE OF FL\TNG BALLOONS AND LIGHTED SKY
+LANTERNS IN THE CITY OF DAVAO".
+1't INDoRSEMENT
+May 15, zALg
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+Administrator, this City, the herein Ordinance No. 0748-19, SERIES of 2019, informing
+your end that the measure is free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved.
+ATTY.
+A. GALLO, RSW
+Acting
+City Legal Officer
+Approved by:
+ATTY. OSMU
+P. VILLANUEVA, JR
+OIC- Asst. City Legal Officer
+Date approved: May L7,2019
+o tdl 7 4 8 - 1 9 ;fying-6 affoon_2 0 1 9 -ffi| 1 2 9 5 _5 - 1 7- t 9
+urriCE OF TllE CIIY ASIIINISTRATOR
+ctw
+OFFICE
+ITY
+Ref. No. clo-201s-000128; ."
+.0
+/
+@dee
+RECE
+DAI'E:
+TIME:
+MARY
+qt ti
+DrvtSt0N
+ED
+09956299702
+AIOE IV
+ADMIN
+CMO CONTAO I:
+_?_8. r,tAY 20tg \''L q 0lol\
+IVED BY
+Qr
+{6g--+--
+t
+t
+I
+t
+I
+\
+
+,
+.
+'o
+2:
+i't!ib
+Ylay 7,2019
+SARA Z. DUTERTE
+City Mayor
+\t
+\
+on
+Madam:
+pu
+*
+/
+u,0.r0lq-}io
+One, Title Five,
+rsuant to Sub-SECTION 3, Paragraph C, SECTION 469,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+03187-19 and Ordinance No. O748-L9, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, , for your information, guidance and appropriate action.
+Very truly yours/
+il%,{o'hi.&6,o,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+l,{AY 08 2019
+lo
+MARY ANN
+ADMIN
+ATVARADO
+AIDE IV
+I
+CITY
+Dtv
+
+I
+EDGE DAVAO
+Door 74 AJcrej B1dg. Quirino Ave
+Davao C).ty
+A newspaper of general circul-ation
+in the province and the City of Davao
+REPT'BLIC OF THE PHILIPPIIIES)
+......-....-..) S. S
+AT'FIDAVIT OF PT'BLICATION
+I, OLnEjA, D. VELASCO , of lega1 dge , Filipino,
+office address of Door 14 Alcrej B1dg. euirino Ave.,
+DO EEREBY DEPOSE AT{D SAY:
+with
+Davao
+postCi-ty,
+That I am the President of EDGE DAVAO, a newspaper of
+general circulation published in the city of
+Davao and the rest
+of Mindanao.
+That in the EDGE DA\IAO issues of September L6, 17 & 18,
+2019 was published an ..ORDIlilAlICE No. 0748-19, SERIES of 2OL9,
+Otherwise Known aS an
+\ORDINNICE PROHIBITING TIIE REI,EASE oE
+ELYING BALI,@NS A}ID LIGHTED SI(Y I.A}ITERNS IN TIIE CITY OF DAVAO, "
+clippi-ngs of which hereto are attached.
+That this affidavit of publication is made upon the request
+of the OFFICE OF TIIE SE}IGGT,NIA}IE PA}ILI,NGSOD, CITY OF DAVAO, in
+compliance with the requirement of the law.
+FI,RTHER AFFIANT SAYETH NOT.
+D. \IEI,ASCO
+P
+ident
+ST BSCRIBED AND SWORN TO before me this
+day of
+otT 1 :t zfra
+, in Davao City, Philippines, afflant exhibiting
+her SSS nurnber 09-0602157-5 issued i-n Davao City, philippines
+fi;1t Ftj "|AMES G.
+I
+Doc. No
+Page No.
+Book No.
+\r,1,.:i\ Pr.hlic for Davao
+(-lnrll lleLember 31, 2O19
+Ccrrrr$;s5ior'r Seriai No. 2018-068-2019
+lisued orr lecember 14,2O!7
+Rott No.62810
+IBF No.061673 - 72-15-18
+PTR No, 1479617 - 1?-10-18
+. Me !E €bnr6ii1653 iJg, v'60l1rx)8
+lttuFd cn ABrii e€.m15 at Ferif eiry, philpplnq
+SERIES of 20L9 -
+
+Councilor
+Councilor
+Councilor
+Councilor
+18F City Council
+lSh Regular Session
+SERIES of 2018
+PRESENT:
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+AI Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Avegayle Dalodo-Oftiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Jesus Joseph P. Zozobrado III
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Victorio U. Advincula Jr.
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Presiding Officer
+On Sick Leave
+On Domestic Emergency Leave
+OB Officer-in-Charge, City
+Mayor's Office
+ABSENT:
+Councilor Mary Joselle D. Villafuefte
+ORDINANCE NO. O78-L9
+SERIES of 2019
+AN ORDIilANCE PROHIBITING THE RELEASE OF FLYING
+BALLOONS AND LIGHTED SIff IANTERNS IN THE CITY OF
+DAVAO
+
+Page 2 of 3.
+Ord. No.0748-19
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that:
+SECTION 1. EtE - This Ordinance shall be known as the "Flying Balloon
+and Lighted Slry Lantern Ordinance of Davao City".
+SECTIOil 2.
+- The General Welfare Clause of the
+Local Government Code states that "Every local government unit shall exercise the
+powers expressly granted, those necessarily implied therefrom, as well as powers
+necessary, appropriate, or incidenta! for its efficient and effective govemance, and
+those which are essential to the promotion of the general welfare. Within their
+respective territorial jurisdictions, local government units shall ensure and suppoft,
+among other things, the preseruation and enrichment of culture, promote health and
+safety, enhance the right of the people to a balanced ecology, encourage and support
+the development of appropriate and self-reliant scientific and technological capabilities,
+improve public morals, enhance economic prosperity and social justice, promote full
+employment among their residents, maintain peace and order, and preserue the
+comfoft and convenience of their inhabitants".
+SECTION 3. DEFINITION OF TERMS - As used in this Ordinance, the
+following terms shall mean:
+a. Flying Balloon - a nonporous bag of light material that can be inflated
+especially with air or gas; such as a bag that is filled with heated air or
+gas lighter than air so as to rise and float in the atmosphere;
+b. Slry Iantern - a lantern designed to float up into the air when lit,
+typically consisting of a rice paper shell over a bamboo, wire frame, or
+other materials, illuminated by a small candle or other naked flame at its
+open base which also causes the lantern to rise by heating the air inside
+the shell.
+SECTION 4. QWEBAQE - This Ordinance shall cover all flying balloons and sky
+lanterns within the tenitorial jurisdiction and airspace of Davao City with the exemption
+of those used for research purposes in the field of science and technology and hot air
+balloons intended for transpoftation and recreation.
+sEcTIoil5.@-Anyactofintentionallyreleasingflying
+balloons and lighted sky lanterns is prohibited.
+sEcTIoN6.rc-Anyviolationoftheprovisionsofthis
+Ordinance shall be punished as follows, without prejudice to the prosecution of other
+criminal actions:
+o lst Offense - P 3,000.00 fine
+.
+znd Offense - P 3,500.00 fine
+. 3d Offense - P 5,000.00 fine
+SECTION 7. rc
+- Any Ordinance, local issuances or rules
+inconsistent with the provisions of this Ordinance are hereby repealed or modified,
+accordingly.
+
+Ord. No.0748-L9
+SECTION 8. rc
+- If, for any reason, any SECTION of this
+Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+which are not affected thereby, shall continue to be in full brce and effect.
+SECTION 9. EFFECTMTY - This Ordinance shall take effect fifteen (15) days
+upon approval, posting and publication in a newspaper of local circulation.
+ENACTED, on the 23d day of April, 20t9, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORREfi:
+Secretary to the
+Panlungsod
+(City Government Depaftment Head#
+ATTESTED:
+E.
+Vice
+Presiding
+cns/ror
+^ Un rr,[,
+CHARITO I
+N.
+APPROVED
+c I ilAY 2o's
+2019
+ciV Mayfl
+ATTESTED:
+ZUTEIKA
+TOPEZ
+City Admi
+-

@@ -1,0 +1,342 @@
+---
+ordinance_number: "0381-17"
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30olo) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CrTy GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2Or7, IN THE TOTAL AMOUNT OF EIGHW.THREE MILLION FOUR HUNDRED THOUSAND PESOS (P83,400,000.00), To pRovlDE ASSISTANcE TO THE vIcTrMs oF CALAMTT"
+date_enacted: "2017-12-25"
+approval_date: "2018-01-08"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0381-17.pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: 2017.0
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2018.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/authorizing, topic/mayor, topic/utilize, topic/portion, topic/thirty, topic/percent]
+---
+
+# Ordinance No. 0381-17
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRTY PERCENT (30olo) QUICK RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo) DISASTER RISK REDUCTION AND MANAGEMENT FUND (CALAMITY FUND) OF THE CrTy GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2Or7, IN THE TOTAL AMOUNT OF EIGHW.THREE MILLION FOUR HUNDRED THOUSAND PESOS (P83,400,000.00), To pRovlDE ASSISTANcE TO THE vIcTrMs oF CALAMTT
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2017 |
+| Series header | 2018 |
+| Approval date | 2018 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+.
+Repu bric of the Ph iiipines
+'
+OFFICE OFTHE CTTYMAYOR
+J
+sa6i-sr'9
+>i$
+2d Indorcement
+January 16, 2018
+Respectfr,rlly forwarded to the Ms. Charito N. Santos, Secretary to the
+SANGGUNIANG Panlungsod, this City, the herein Ordinance No. 0381-17 SERIES of
+2OL7, with Legal Opinion No. 04 SERIES of 2018, duly signed and approved, for your
+appropriate action.
+For the City Mayor:
+ATTY.
+Assistant City Administrator
+(Administration)
+DJ/es"-l-l(
+RELEASED
+crro - cRD
+ll:
+rDP[rtu4
+Second Floor, City Hal! Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmai!.com
+BAW @
+LIFE
+IS HERE
+li
+:M
+
+tt
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao rV('9
+Ref. No. 1131-1
+LEGAL
+1'I INDORSEMENT
+January 4,2018
+?0rI
+Respectfully fonrarded to the Office of the City Mayor, through the Otfice
+of the City Administrator, both this City, the attached Ordinance No. 0381-17
+SERIES OF 2017, entitled 'AN ORDINANCE AUTHORIZNG THE Clry MAYOR
+TO UT|L|ZE A PORTION OF THE THIRT PERCENT (30%) QUICK RESPOND
+FUND (ORF) OUT OF THE FIVE PERCENT (s%) DISASTER RISK
+REDUCTTON AND MANAGEMENT FUND (CALAMITY FUND) OF THE CITY
+GOVERNMENT OF DAVAO FOR CALENDAY YEAR 2017, IN THE TOTAL
+AMOUNT OF EIGHT -THREE MILLION FOUR HUNDRED THOUSAND PESOS
+(p83,400,,000.00) To PROVIDE ASSISTANCE TO VICTIMS OF CALAMITY lN
+THE CITY OF DAVAO, SUBJECT TO THE EXISTING GOVERNMENT
+BUDGETING, ACCOUNTING AND AUDITING RULES AND REGUIATIONS".
+informing your end that the same is free from legal infirmity citing RA 8185,
+othenrtrise known as An Act Amending Sec. 324 (d) of RA 7160, the Local
+Government Code of 1991.
+ATTY. MARLI
+GALLO, RSW
+1V
+Approved by:
+OSMUN
+UEVA, JR
+orcLegal Officer
+Date approved: January 8, 2018
+gC
+OTFTGE OE IHE CIIYADMINISTRATOR
+CITY }TALL CFF1CE
+. .:l6b OF THE riTv AOMINISTRATOF
+RECEIVED BY':
+mo4 ru
+o
+rfl
+a
+a
+o
+DATE:
+TIME:
+a-^-LlVED SY:--
+[g- @-tel
+ttFLr
+'A-F
+ffiEefiE\lEm
+0-
+,r?- ^64 *72-
+
+,ir'
+ilp
+t>
+(,zlp'
+D N,G
+sadi6rc
+CITY OF'DAVAO
+December 29,20L7
+SARA Z. DUTERTE
+City Mayor
+Madam
+b
+rf t? _M2h6f fta
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of
+Resolution No. 01790-17 and Ordinance No. 0381-17, both SERIES of 2017 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+\r-tl
+Very truly yours,
+(t,),tttt,
+1'l-
+-fuvrwO'O6"
+NILDA C. ilAENO
+Asst. Secretary to the SANGGUNIANG Panlungsod
+(City Government Asst. Department Head II)
+n
+?q
+cns/nta
+RHCEIVHD
+EMCI "
+:iP
+31y-21 -F/
+I
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANTUNGSOD
+Council
+2nd Speciat Session
+SERIES of 20t7
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Paolo Z. Dutefte
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+April Marie C. Dayap
+Jimmy G. Dureza
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Nilo M. Abellera lr
+Danilo C. Dayangl'rirang
+l. Melchor B. Quitain Jr.
+Presiding Officer
+- On Vacation Leave
+- On Vacation Leave
+ORDINANCE NO. 0381.17
+SERIES ol2OL7
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO
+UTILIZE A PORTION OF THE THIRTY PERCENT (30olo) QUICK
+RESPONSE FUND (QRF) OUT OF THE FIVE PERCENT (5olo)
+DISASTER RISK REDUCTION AND MANAGEMENT FUND
+(CALAMITY FUND) OF THE CrTy GOVERNMENT OF DAVAO
+FOR CALENDAR YEAR 2Or7, IN THE TOTAL AMOUNT OF
+EIGHW.THREE MILLION FOUR HUNDRED THOUSAND PESOS
+(P83,400,000.00), To pRovlDE ASSISTANcE TO THE
+vIcTrMs oF CALAMTTY rN THE CITY OF DAVAO, SUBJECT TO
+THE EXISTING GOVERNMENT BUDGETTNG, ACCOUNTING
+AND AUDITING RULES AND REGULATIONS
+
+Ord. No. 0381-17
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled
+that
+SECTION 1. TITLE- This Ordinance shall be known as *AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO UTILIZE A PORTION OF THE THIRW
+PERCENT (30o/o) QUICK RESPONSE FUND (QRF) OUT OF THE FM PERCENT
+(5olo) DTSASTER RrSK REDUCTION AND MANAGEMENT FUND (CALAMIW FUND)
+oF THE CrTY GOVERNMENT OF DAVAO FOR CALENDAR YEAR 2017, IN THE
+TOTAL AMOUNT OF EIGHTY-THREE MILUON FOUR HUNDRED THOUSAND PESOS
+(p83,400,000.00), To pRovIDE ASSISTANCE TO THE VICTIMS OF CALAMITY rN
+THE CITY OF DAVAO, SUBJECT TO THE EXISTING GOVERNMENT BUDGETING,
+ACCOUNTING AND AUDITING RULES AND REGULATIONS";
+SECTION 2. DECLARATION OF POLICY-In keeping with its mandates and in
+response to the needs of the people, the City Government of Davao declares as its policy to
+judiciously utilize resources and put the same to proper use;
+SECTION 3. BENEFICIARIES-The beneficiaries are the identified victims of
+Typhoon Vinta in Davao City;
+SECTION 4. SUMMARY OF BUDGETARY ALLOCATION-The total AMOuNt Of
+Eighty-Three Million Four Hundred Thousand Pesos (P83,400,000.00), which is a poftion of
+the Thirty Percent (30%) Quick Response Fund (QRF) sourced out of the Five Percent (50/o)
+Disaster Risk Reduction and Management Fund (Calamity Fund) of the City Government of
+Davao for CY 20L7, will be utilized to provide assistance to the victims of Typhoon Vinta in
+Davao City, broken down as follows:
+SECTION 5. LEGAL BASIS- Pursuant to Republic No. 8185, othennrise known as
+"An Act Amending SECTION 324 (d) of R.A. No. 7t60, otherwise known as the Local
+Government of 1991, which states that Five Percent (5olo) of the estimated revenue from
+regular resources shall be set aside as annual lump sum appropriations for relief,
+rehabilitation and other works or services in connection with calamities which may occur
+during the budget year. Provided, however, that such fund shall be used only in the area, or
+a poftion thereof, of the local government unit or other areas affected by a disaster or
+calamity, as determined and declared by the local sanggunian concerned." Futther, Republic
+Act No. 10121 provides the proper utilization of the 5olo DRRMF or Calamity Fund, wherein
+Thirty Percent (30%) of said fund shall be allocated as Quick Response Fund(QRF) and the
+remaining Seventy Percent (70o/o) shall be used for preparedness and mitigation activities;
+Category
+No. of
+Families/Individual
+Affected
+Amount of
+Assistance
+per Cateqory
+Amount
+1. Totally Damaged
+10,000
+P3,570,000.00
+2. Paftially Damaged
+5,000
+P1,665,000.00
+3. Affected
+19,310
+3,000
+P57,930,000.00
+4. Food Assistance
+20,000
+209.18 (or
+836.75 for 4
+days)
+P!6,735,000.00
+5. Medicines
+P2,000,000.00
+6. Relief Goods (Non-Food
+Items)
+P1,500,000.00
+Grand Total:
+P83,400,00.00
+
+Ord. No. 0381-17
+SECTION 6. DISBURSEMENT OF FUNDS- The amounts herein appropriated shall
+be used specifically for such items and expenditures approved by the Sanguniang
+Panlungsod. All disbursements and utilization of funds shall be subject to the existing
+government budgeting, accounting and auditing rules and regulations of the Department of
+Budget and Management (DBM), the Commission on Audit (COA), the Procurement Law
+(Republic Act No. 9184), as well as other applicable laws, ordinances and presidential
+directives;
+SECTION 5. EFFECTMTY- This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on the 25th day of December, 2017, by a unanimous vote of all the
+Members of the Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+ATTESTED:
+ATTESTED:
+PAOLO
+DUTERTE
+Mayor
+Presidi
+Officer
+cn
+uh^;t- $-
+CHARITO N. ShNTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+APPRovED JANos2ol8
+20L7
+, cily vaBr
+z.
+ATTY. ZULEIKA
+LOPEZ
+City Administrator

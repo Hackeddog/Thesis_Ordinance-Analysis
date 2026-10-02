@@ -1,0 +1,215 @@
+---
+ordinance_number: "0318-23"
+title: "AN ORDINANCE GRANTING FUIL TAX EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX TO WETFARE ACTION FOUNDATION OF DAVAO INC., (WAFDI)-BOYSTOWN DAVAO ON THE PROCEEDS OF THErR EVENT ENTITLED, *GODSPELL,, A FIRST TICENSED HIT BROADWAY MUSICAL SHOW TO BE HEID ON NOVEMBER 30 AND DECEMBER 1-2, 2023, AT SEDES SAPIENTTAE AUDITORTUM, 7IH FLOO& HOLY CROSS OF DAVAO COLLEGE, THIS CITY"
+date_enacted: "2023-10-17"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0318-23 (2).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/fuil, topic/exemption, topic/payment, topic/amusement, topic/wetfare]
+---
+
+# Ordinance No. 0318-23
+
+> AN ORDINANCE GRANTING FUIL TAX EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX TO WETFARE ACTION FOUNDATION OF DAVAO INC., (WAFDI)-BOYSTOWN DAVAO ON THE PROCEEDS OF THErR EVENT ENTITLED, *GODSPELL,, A FIRST TICENSED HIT BROADWAY MUSICAL SHOW TO BE HEID ON NOVEMBER 30 AND DECEMBER 1-2, 2023, AT SEDES SAPIENTTAE AUDITORTUM, 7IH FLOO& HOLY CROSS OF DAVAO COLLEGE, THIS CITY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+Republic of [he Philippines
+2oth city Council
+39th Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Luna Maria Dominique S. Acosta
+Edgar R. Ibuyan Sr.
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+- On Maternity Leave
+- On Official Business
+'On Domestic Emergenry Leave
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. A!-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Aposto! Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+ORDINANCE NO. 0318-23
+SERIES of 2023
+AN ORDINANCE GRANTING FUIL TAX EXEMPTION FROM THE
+PAYMENT OF AMUSEMENT TAX TO WETFARE ACTION
+FOUNDATION OF DAVAO INC., (WAFDI)-BOYSTOWN DAVAO ON
+THE PROCEEDS OF THErR EVENT ENTITLED, *GODSPELL,, A FIRST
+TICENSED HIT BROADWAY MUSICAL SHOW TO BE HEID ON
+NOVEMBER 30 AND DECEMBER 1-2, 2023, AT SEDES SAPIENTTAE
+AUDITORTUM, 7IH FLOO& HOLY CROSS OF DAVAO COLLEGE,
+THIS CITY
+
+that
+Ord. No. 0318-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING FULI TAX EXEMPTION FROM THE PAYMENT OF AMUSEMENT TAX TO
+WELFARE ACTTON FOUNDATION OF DAVAO INC., (WAFDI)-BOYSTOWN DAVAO
+oN THE PROCEEDS OF THEIR EVENT ENTITLED, *GODSpELti A FrRST ITCENSED
+HIT BROADWAY MUSICAL SHOW TO BE HELD ON NOVEMBER 30 AND
+DECEMBER 1-2, 2023, AT SEDES SAPIENTIAE AUDITORIUM, 7rH FLOO& HOty
+cRoss oF DAvAo CoLLEGE, THIS CrrY".
+SECTION 2.
+- SECTION t92 of Republic Act No. 7L60,
+otherwise known as the Local Government Code of 1991 provides that local government
+units may, through ordinances duly approved, grant tax exemptions, incentives or relieft
+under such terms and conditions as they may deem necessary.
+SECTION 3. CQYEBAGE - The aforementioned exemption shall be based on the
+system computation adopted by the Business Tax and License Division of the City
+Treasurer's Office and their projected income statement, herein enumerated:
+SECTION 4. IBANU[TTA! - The Office of the Secretary to the SANGGUNIANG
+Panlungsod is hereby directed to transmit a copy of the said Ordinance to the Executive
+Depaftment immediately upon its approva!.
+sEcTIoN5.rc-If,foranyreaSon,anysectionorprovisionof
+this Ordinance is declared unconstitutional or invalid, other sections or provisions hereof
+not affected by such declaration shall continue to be in full force and effect.
+SECTION 6.
+approval.
+This Ordinance shall take effect immediately upon
+ENACTED, on the 17th day of October 2023, by a unanimous vote of all the Members of
+the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+MA. rHERS(*=r.,
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SangguniangPanlungsod)
+TIER
+NO
+OF
+NCKETS
+NCKET
+COST
+TOTAL
+NO. OF
+SHOWS
+GRAND
+TOTAL SALES
+5olo TAX
+GOLD
+P1,500.00
+P300,000.00
+P1,800,000.00
+P90,000.00
+SILVER
+P1,000.00
+P100,000.00
+P600,000.00
+P30,000.00
+SPONSOR
+TOTAL TAX
+P120,000.00
+
+,
+APPROVED:
+Ord. No. 0318-23
+r0 208
+2023
+Z. DUTERTE
+*ury _
+ATTESTED:
+ATTESTED:
+J.M
+t?
+EL9HOR B. QUITAIN JR.
+/ viceMayor
+Presiding Officer
+mtar/josh
+ATTY.
+H. LAYOG
+DECEMBER L-2, zo?3, AT SEDES SApIENTIAE AUDIToRIUM, in FLooR,
+Acting
+AN ORDINANCE
+FULL TO( EXEMPNON FROM THE PAYMENT OF AMUSEMENT TAX TO
+WELFARE ACION FOUN
+oF DAVAO INC., (WAFDI)-BOYSTOWN DAVAO ON THE PROCEEDS OF
+THEIR EVENT, ENTITLED
+A FIRST UCENSED HIT BROADWAY MUSICAL SHOW TO BE
+HELD ON NOVEMBER 30
+HOLY CROSS OF DAVAO
+LLEGE, THIS CITY

@@ -1,0 +1,431 @@
+---
+ordinance_number: "0543-21"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN THE CONTRACT OF USUFRUCT TO BE ENTERED TNTO BY AND BETWEEN THE CITY OF DAVAO AND THE BARANGAY COUNCIL OF SASA, BUHANGIN DISTRICT, THIS CITY, FOR THE ESTABLISHMENT OF THE SASA HEALTH CENTER"
+date_enacted: "2021-04-13"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0543-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: 2021.0
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/enter, topic/sign]
+---
+
+# Ordinance No. 0543-21
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN THE CONTRACT OF USUFRUCT TO BE ENTERED TNTO BY AND BETWEEN THE CITY OF DAVAO AND THE BARANGAY COUNCIL OF SASA, BUHANGIN DISTRICT, THIS CITY, FOR THE ESTABLISHMENT OF THE SASA HEALTH CENTER
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | 2021 |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 14,854 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2021\Ordinance No. 0543-21.txt`*
+
+I
+Republilc of 'the PhiliPPines
+19th City Council
+14H Regular Session
+SERIES of 202L
+PRESENT:
+Councilor
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+fnr rnailar
+\r'\/Lal
+tUlllJl
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Sebastian Z. Dutefte
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdadc Angelc Junior R. lvlahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Pri ncipe-Castrodes
+l. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D, Villafuefte
+Jesus Joseph P. Zozobrado III
+ORDINANCE NO. 0543.21
+SERIES ol2O2L
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO
+THE CITY MAYOR TO ENTER INTO AND SIGN THE CONTRACT
+OF USUFRUCT TO BE ENTERED TNTO BY AND BETWEEN THE
+CITY OF DAVAO AND THE BARANGAY COUNCIL OF SASA,
+BUHANGIN DISTRICT, THIS CITY, FOR THE ESTABLISHMENT
+OF THE SASA HEALTH CENTER
+
+Fage 2 of 3
+Ord. No. 0543-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. EtE - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGISI.ATIVE AUTHORTTY TO THE CITY MAYOR TO ENTER INTO AND SIGN
+THE CONTRACT OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF
+DAVAO AND THE BARANGAY COUNCIL OF SASA, BUHANGIN DISTRICT, THIS CH,
+FOR THE ESIABLISHMENT OF THE SASA HEALTH CENTER."
+SECTION 2. DECLARATION OF POLICY - SECTION 455, paragraph (b)
+sub-paragraph (vi) of Republic Act No. 7160, otherwise known as the Local Government
+Code of 1991 provides:
+*SECTION 455. Chief Executive: Powers, Duties and Compensation
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant to
+SECTION 16 of this Code, the city mayor shall:
+)oc(
+rco(
+rcc(
+)oo(
+)oo(
+)oo(
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other documents
+upon authority of the SANGGUNIANG Panlungsod or pursuant to law or
+ordinance."
+sEcTIoN3.NI@-TheCityMayorisherebygrantedlegislative
+authority to enter into and sign, for and in behalf of the City of Davao, the Contract of
+Usufruct to be entered into by and between the City of Davao and the Barangay Council
+of Sasa, Buhangin District, this city, for the establishment of the Sasa Health Center.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5.
+approval.
+This Ordinance shall take effect immediately upon
+ENACTED, April 13, 2021, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+,i,MnIk*
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head IIL
+
+a
+'i
+I
+Ord. No. 0543-2L
+ATTESTED:
+Temporary
+ng Officer
+EIoofit
+cns/johanna
+MAY 0 3 2021
+APPROVED:
+2021
+Z. DUTERTE
+, City Mayor 4r
+ATTESTED:
+KA
+LOPEZ
+City Administrator /
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CTTY MAYOR TO ENTER INTO AND SIGN
+THE CONTRACT OF USUFRUCTTO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND THE
+BARANGAY COUNCIL OF SASA, BUHANGIN DISTRICT, THIS CITY, FOR THE ESTABUSHMENT OF THE
+SASA HEALTH CENTER.
+
+CONTRACT OF USUFRUCT
+Know All Men by these Presents:
+This controct of usufruct is mode ond entered into by between:
+BARANGAY COUNCIL OF SASA, o locol government unit duly orgonized
+under the lows of the Republic of the Philippines with office oddress of Soso,
+Dovoo City, represented by its Punong Borongoy, Jerry L. Licorte, hereinofter
+refened to os the OWNER.
+And
+CITY GOVERNMENT OF DAVAO, o government entity of Dovoo City duly
+orgonized ond existing under the Lows of the Republic of the Philippines in
+representotion for ond beholf of Soso Heolth Center with office oddress of Km. 9,
+Soso, Dovoo City represented herein by the City Moyor, Hon. Soro Z. Duterte
+. hereinofter refened to os USUFRUCTUARY.
+Witnesseth:
+Whereos, underSection l6 ond 17 of Republic Act No. 7160, the Owner, is on LGU,
+is empowered to exercise the powers expressly gronted, those necessorily implied
+therefrom, os well os powers necessory, oppropriote, or incidentol for its efficient
+ond effective governonce, ond those which ore essentiol to the promotion of the
+generol welfore, ond to provide bosic services ond focilities to its inhobitonts.
+Whereos, the Owner is the lowful owner of o certoin porcel of lond locoted ot
+Porodise lslond Drive, Km. 9, Soso, Dovoo City contoining on oreo of Three
+Thousond (3,000) squore meter more or less lot portion of lond covered by FLC1l-01-0001 l8-D locoted of Porodise lslond Drive, Km.9, Soso, Dovoo City.
+Whereos, the USUFRUCTUARY desires to use FOUR HUNDRED EIGHTY-ONE (481)
+squore meters portion of the obove mentioned porcel of Lond locoted ot
+Porodise lslond Drive, Km. 9, Soso, Dovoo City to be used os Soso Heolth Center
+of the USUFRUCTUARY.
+Whereos, the continued presence of the USUFRUCTUARY in the oforesoid property
+is to be beneficiol to the owner, ond its constituents ond the Filipino people in
+generol.
+Now therefore, for ond in considerotion of the forgoing, ond for the generol
+welfore ond convenience of the OWNER's constituents, the owner hereby ogrees,
+cedes, conveys, by woy of Usufruct unto the USUFRUCTUARY, FOUR HUNDRED
+EIGHTY-ONE (481) SAUARE METERS portion of the obove-mentioned porcel of
+194d, subject to the following terms ond conditions:2
+(.aQ---
+\
+
+IAND AREA: The USUFRUCTUARY sholl be ollowed exclusive ond unintenupted use
+of FOUR HUNDRED EIGHTY-ONE (48'l) SAUARE METERS portion of the obovedesignoted porcel of lond.
+PURPOSE: The property sholl be used solely ond exclusively for heolth core
+progroms.
+TERM: This controct of usufruct sholl be effective for o period of TWENTY-FIVE (25)
+yeors from the time of the signing of this document renewoble upon the consent
+of both porties. However, in the event thot USUFRUCTUARY ceoses to use or
+operote for which it is intended, this Usufruct is outomoticolly terminoted ond oll
+the improvements thereon sholl be forfeited in fovor of the OWNER.
+MAINIENANCE: The USUFRUCTUARY sholl mointoin the lond in occordonce with
+the existing rules ond regulotion ond preserve the some in hobitoble condition
+during the existence of Usufruct.
+The USUFRUCTUARY is outhorized to construct new buildings, moke repoirs,
+including renovotions, provided thot the some sholl conform to the stondords
+prescribed by low.
+UABILITY: The USUFRUCTUARY sholl be solely lioble for domoges or criminol liobility
+orising from its negligence while in possession of the lot stoted obove subject of
+this usufruct.
+MrscErrANEous PRovrsroNs
+l. During the existence of this Usufruct, the USUFRUCTUARY is obsolutely
+prohibited from olienoting its rights on the usufruct, nor leoses the some to
+ony third person.
+2. All toxes for the soid property during the durotion of this USUFRUCT sholl be
+borne by the USUFRUCTUARY.
+3. Thot ony violotion of the terms ond conditions of this Usufruct is o volid
+ground for the terminotion of this controct without ony Court Order.
+lN WITNESS WHEREOF, the porties hove hereunto set their honds this
+,2021 of Dovoo City, Philippines.
+Borongoy Council of Soso
+Represented by
+J
+City Government of Dovoo /Soso Heolth
+Center
+R
+nted by:
+z.D
+Moyor of Dovoo'#
+%'w{vL
+^rtl ,rn-trn, An.-
+nong Borongoy
+Signed in the
+nce of:
+City Admini
+tor
+t
+
+ACKNOWTEDGEMENT
+Republic of the Philippines)
+City of Dovoo
+)s.s.
+X
+BEFORE ME, o NOTARY PUBLIC for ond in the City of Dovoo, personolly
+oppeored JERRY t. LICARTE ond HON. SARA Z. DUTERIE, with their
+cTcfr &a\rgq| icsaea Jft^)uAAf 7t 2021
+ot
+Dovoo City
+ond
+nrrFr{l r! tt-Mgl'qULa H uputo ilI
+, respectively, known to me to be the
+some persons who executed the foregoing Deed of Usufruct ond ocknowledged
+to me thot the some is their free oct ond deed.
+This document, consisting of three (3) useful poges including this
+ocknowledgement is written, is signed by the porties ond their instrumentol
+witnesses in eoch ond every poge thereof. 'lllY t B ?021
+WIINESS MY HAND AND SEAI this
+City, Philippines.
+2021 at Dovoo
+tuuikfor
+[rlo. ?0e?
+Otcembcr
+Do:. No. ll ,
+Page l.to.I4
+Bock No. rc(VlSERIES otMi
+Attlffia/i il(o,
+
+Republi0 of the Philippines
+OFFICE OF THE CITY MAYOR
+' Ref. No. CAdO-2021-01,m0
+4th INDORSEMENT
+May 20, 202L
+I
+,trl
+Respectfully returned to Ms. Charito N: Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the herein Endorsement'No. 118, Seri€s oi ZOZL dated-llay f8-,
+2021of the City Legat Office; relative to the attached approved Ordinance No. 0543-21,.
+SeTies of 2O2L entitled, .AN ORDINANCE GRANNNG LEGIS!.ATIVE AUTHORITY TO THE
+CITY MAYOR TO ENTER INTO AND SIGN THE CONTRACT OF USUFRUCT TO BE ENTERED
+INTO BY AND BETWEEN THE CITY OF DAVAO AND THE BARANGAY COUNCIL OF SASA,
+BUHANGIN DISTRICT, THIS C[TY, FOR THE ESTABLISHMENT OF THE SASA HEALTH
+CENTER| duly signed and notarized, for your appropriate action.
+For the City Mayor:
+ATTY. TRISTAN
+INGO
+Assistant City
+(Ad
+0g zg,zt -tV -lqbgf
+C]TY MAYOR'S OFFICE
+CORRESPONDENCE AND RECORDS DIV
+RELEASED.
+7 -sb
+},lAY 2l 2021
+seml#be1rp
+eorrntntstntrf tYE AIDE lv
+a
+)
+LIFE IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc.265 o davaocitymayor@gmail.com
+@
++
+,.f,SffiE-r#r-*'
+
+GIS
+*i,
+'
+Republic of the Philippihes
+OFFIGE OF THE CITY LEGAL OFFIGER
+Tel no. 227-5793 * 225-0183
+Trunk Line No. 241-1000 Loc.267
+-o0oENDORSEMENT NO.
+SERIES OF 2O2L
+SE
+Ref. No. CLO-2021 -00L749
+3'd INDORSEMENT
+May 18, 2021
+Respectfully returned to ATTY, TRISTAN DWIGHT P. DOMINGO, Assistant City
+Administrator for Administration, this City, the herein enclosed documents relative to City
+Ordinance No. A485-2L, SERIES of 2A21, entitled *AN ORDINANCE GRANTING
+LEGISLATIVE AUTHORIWTO THE CITY MAYORTO ENTER INTO AND SIGN THE
+CONTRACT OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY
+oF DAVAO AND THE BARAilGAY COUNCTL OF SASA, BUHANGIil DTSTRICT,
+THIS CITY, FOR THE ESTABLISHMENT OF THE SASA HEALTH CENTER", with the
+attached copies of duly signed and notarized Deed of Usufruct.
+RESPECTFULLY SUBMITTED.
+ATTY
+HIE G
+Approved
+ATTY. OSMUN
+P. VILLANUEVA, JR.
+Assistant City Legal Officer
+Date of Approval:
+irfrsE ff Tfit $rI lsE[ITnEB
+GTTY Mql OFffi
+Ens88 8trY
+M
+l9
+0?1
+(ara,\
+2o2t-,O\qoO
+x
+/t
+,
+
+Ref, No. CAdO-2021-01257
+2Nd INDORSEMENT
+May 12,202L
+Respectfully returned to Atty. Osmundo P. Villanueva, Jr., Officer-In-Charge,
+City Legal Office, this City, the within Legal Opinion No. 444, SERIES of 2021dated April
+30, 2021from the City Legal Office, relative to the attached duly signed and approved
+Ordinance No. 0543-21, SERIES of 20ZL entitled, 'AN ORDINANCE GRANTING
+LEGISLANVE AUTHORITY TO THE CITY MAYOR TO ENTER INTO AND SIGN THE
+CONTRACT OF USUFRUCT TO BE ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO
+AND THE BARANGAY COUNCIL OF SASA, BUHANGIN DISTRICT, THIS CTTY, FOR THE
+ESTABUSHMENT OF THE SASA HEALTH CENTER", for notarization.
+For the City Mayor:
+ATTY. TRISTAN
+DOMINGO
+Assistant
+nistrator
+(Administration)
+-
+-
+l
+a..,
+.A'
+ELEASED
+t'lAY 1 220U b/-t's
+MARIA vtEtut#ut#"t
+rl\5s iRJ^trtvE AloE vt
+CITY
+6*0
+tN.
+e9955Dfi02
+T'\4
+CCl.,)lil
+OFFICE
+RTCORDS DfV
+LIFE IS HERE
+Second Floor, City Hall Building, City !*lall Drive, San Pedro St., Davao City
+(082) 224.3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+P V,+"@
+*
+*
+
+.a
+Republic of $e PhiliPPines
+OFFICE OF THE CITY LEGAL OF
+Tel. No.298-6970
+Trunk Line No. 241-1000 Loc267*225*230
+davaocitylegal@omail.com
+4{'{
+Ref. 

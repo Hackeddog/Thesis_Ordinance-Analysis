@@ -1,0 +1,294 @@
+---
+ordinance_number: "0499-16"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF THE ROAD IDENTIRED AS SAN PEDRO STREET, CORNER BOLTON STREET FRONTING RIZAL SIAGE (SAN PEDRO SQUARE), DAVAO CITY ON MARCH 8, 2016 FROM 10:00 P.M. ONWARDS FOR THE OPENING EVENT OF THE 79TH ARAW NG DABAW\" with the information that this has been lapsed into law. For your information and appropriate action. Thank you. RODRIGO R. DUTERTE Ci"
+date_enacted: null
+approval_date: "2016-03-03"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0499-16.pdf"
+section_count: 1
+verification_status: "unverified"
+folder_year: 2016
+resolved_year: 2016
+corpus_year: 2016
+temporal_status: "valid"
+confidence_score: 0.55
+detected_enactment_year: null
+detected_ordinance_number_year: 2016.0
+detected_series_year: 2016.0
+detected_approval_year: 2016.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2016, status/valid, topic/temporary, topic/closure, topic/vehicutar, topic/traffic, topic/road, topic/identired]
+---
+
+# Ordinance No. 0499-16
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUTAR TRAFFIC OF THE ROAD IDENTIRED AS SAN PEDRO STREET, CORNER BOLTON STREET FRONTING RIZAL SIAGE (SAN PEDRO SQUARE), DAVAO CITY ON MARCH 8, 2016 FROM 10:00 P.M. ONWARDS FOR THE OPENING EVENT OF THE 79TH ARAW NG DABAW" with the information that this has been lapsed into law. For your information and appropriate action. Thank you. RODRIGO R. DUTERTE Ci
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2016 |
+| Series header | 2016 |
+| Approval date | 2016 |
+| **Resolved** | **2016** |
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+frilSEiUHil
+ev;fu--
+rtne: ?hyltv
+rifiE:
+q
+,,ooHJt,
+e J5
+Republit of the Philippines
+OFFTCE OF THE CITYMAYOR
+sdcrsltG
+3rd Endorsement
+22 March 2016
+Respectfulty fonroarded to ltls. CHARITO l+. SI*TOS, Secretary to the
+SANGGUNIANG Panlungsod, this City the herein documents relative to City Ordinance No.
+0499-16, SERIES of 2016 entitled 'AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+VEHICUTAR TRAFFIC OF THE ROAD IDENTIRED AS SAN PEDRO STREET, CORNER
+BOLTON STREET FRONTING RIZAL SIAGE (SAN PEDRO SQUARE), DAVAO CITY ON
+MARCH 8, 2016 FROM 10:00 P.M. ONWARDS FOR THE OPENING EVENT OF THE 79TH
+ARAW NG DABAW" with the information that this has been lapsed into law.
+For your information and appropriate action.
+Thank you.
+RODRIGO R. DUTERTE
+City Mayor
+By
+D. DALUMPINES
+/lcsp
+srd
+/r,o't-tu
+EE.EASED
+ffi
+lo ; teo bt
+Second Floor, City Hall Building, San Pedro St., Davao City
+(082) 227 -257 7 . (082) 224- 587 8 . d ava oc itym ayo r@g ma i l.co m
+W -lb c- al
+D
+4ci;t
+
+Ref. No. 1131-16
+OFFICE OF THE CITY LEGAL OFFICER
+City of Davao ta1
+1"t INDORSEMENT
+MARCH 7,2016
+z>?L0
+ol,i rgtr uF I ttk urr YAt.'u.fq,;" HHl$F
+Rfrl,22r :lTY r,Ar.i- Eullti,htG
+lla\rAo ct tY
+qt6tttti0
+NAlE:
+o:,lt aan
+qotb
+wfr
+qb
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City, the attached Ordinance No. 0499-16
+SERIES OF 2016, entitled 'AN ORDINANCE FOR THE TEMPORARY
+CLOSURE TO VEHICULAR TRAFFIC OF THE ROAD IDENTIFIED AS SAN
+PEDRO STREET, CORNER BOLTON STREET FRONTING RIZAL STAGE
+(SAN PEDRO SQUARE), DAVAO CITY, ON MARCH 8,2016, FROM 10:00 P.M.
+ONWARDS, FOR THE SET UP AND CONSTRUCTION FOR THE OPENING
+EVENT OF THE 79rH ARAW NG DABAW" informing your end that the same is
+free from legal infirmity citing RA 7160, othenvise known as the Local
+Government Code of 1991, to quote:
+SECTION 21. Closure and Opening of Roads. (a) A [oca[
+government untt may, pursuant to an ordinance, permanentl,y or
+temporarlly c[ose or open any [oca[ road, al.tey, park, or square fatl.ing
+within its jurisdiction: Provtded, however, That in case of permanent
+closure, such ORDINANCE must be approved by at least two-thlrds (2/3) of
+al.t the members of the sanggunlan, and when necessary, an adequate
+substltute for the pubti.c facitity that is subject to ctosure is provided.
+XXX
+(c) Any national or [oca[ road, a[[ey, park, or square may be
+temporarity ctosed during an actual emergency, or fiesta celebratlons,
+pubtic ra[[es, agricultural or lndustrial fairs, or an undertaking of pubtic
+works and hlghways, telecommunicatlons, and waterworks projects, the
+duration of whlch shal.L be specified by the locat chief executive concerned
+in a wrltten order: Provided, however, That no national or locaI road, at[ey,
+park, or square shatL be temporarity ctosed for athletlc, culturaL or civlc
+actlvities not official[y sponsored, recognlzed, or approved by the [oca[
+government unlt concerned".
+xqilATTY. MARL|pA A. GALLO, RSW
+Attorney 1V
+Approved
+OSMUN
+VILIANUEVA, JR
+Acting
+Legal Officer
+RECH!VED
+CMO " CRE
+Date approved: March 7,2416
+)$ -lt,c-F4
+
+Republika ng Pilipinas
+TANGGAPAIY NG SAIYGGUNIANG PAIYLUNGSOD
+LUNGSOD NG DABAW yr'.r
+March 3,2016
+RODRIGO R. DUTERTE
+City Mayor
+Sir:
+Fursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Tit.lc
+Five, Chapter 3, Book lll and Scction 54 of Book I Republic Act No. 7160,
+otherwise known as the Local GovernmentCode of 1991, we are furnishingyou
+a copy of Resolution No. O2732-L6 and Ordinance No. O499-16, both Serics o[
+2016 of the SANGGUNIANG Panlungsod, for your information, guidance and
+appropriate action.
+For and in the absence of the Secretary
+O
+*
+o
+m
+I
+*to
+l0
+t044 P.
+A,C/ru1qy(
+NILDA C. ITTAGNO
+Acting Sccretary to the SANGGUNIANG Panlungsod
+(Assistant Secrctary to the SANGGUNIANG panlungsod) ;l
+RECffiBVED
+CMO " CRD
+MAR fl 3 2t}1E
+'.{; a, 0,,^_L
+cns/lnta
+yn -r7 -6V
+
+fa
+Republic of tfie PtiliPPines
+l?tb Clt]'Ceuflcil
+7th Rqlular Sessioo
+ssies af 3o 16
+trF,E.lElrt-r.
+ON {}FFICIAL EUBIIITE,1S:
+.
+Councilor BI3nna G. L.' Dalodo-Srtiz
+PCL Focused Group Eliscussion
+AE.*E}IT:
+Councilar lVlarissaP. Sahm.dor-A.be11a
+*a Sick Le.anre
+ORDII{AI{CE I{O. f}499 -1S
+Beries of 2O15
+AI{ OEDIHAI{CE FOR THE TEHFOR.*EY CLT}SUIIE TO IIEIIICTILAE
+TETFFIC AF THE ROAE INEI{TIFIED AE BAIT PEDRO STEEET L]BRI{ER
+EOLTOTI BTREET FROI[Tr1![G ItrZAL BTAGE {SAH PEBRO SQU.{RE},
+EAVAG CITY, OE BIAECEI 8, 2fi16. FEGftI 1O:OB F.M. OHW,EEDS, FOR
+TEE SET UF AHIJ COITSTE,UCTI$S FOE THE OPEI{II5G EIIEHT OF THE
+?g.TiI ACI.IIf,I I{G trAEAITI
+Coutrcdor
+Vice Mayor
+Couscilsr
+Councilor
+Councilor
+Caurc-ilor
+C+uacilor
+(louacilar
+f'.ouncilor
+Csuflc.ilsr
+flauacilor
+Councilor
+C.auncilor
+Csufl.cilar
+Couacilsr
+C*uacilor
+fl,:uncdar
+Couacilor
+Cauacilor
+Councilor
+Councilor
+Csunc{lor
+Couacilar
+Couacilsr
+aa-aa
+Itarlo l}. Eeuo
+Paolo Z. Duterte
+IiIilo M. Abellea JrMaria Eelen 3. Acosta
+Vi*torio U. Advincul.t Jr.
+Ee;rn.rrd E. Al-ag
+AI &,'an B. Al{.tadre
+Joans.e M. Bocguyaa-Quilos
+Louie John J. Eorlguyarr
+Darrilo C.. Dayaag.h:raag
+April lflarie fl. Dayap
+Jio.a3'' G. Durea
+J.t.ftuafSr I'I. Dutste
+Edg.ar R. IbuS's131.
+Leah A. Librado-Yap
+Re,ne Elias C. Lopez
+.3o1rs-r-:hrist+ptr *r T . Elt,qhamud
+Diosd.q.d.o Aagelo A. M.:lripus 3r
+Eonifarto E. Hilitsr
+Tofi..l.s J. Morrteverde IV
+Afltdnette G. PrincipeCastrodes
+HaliiaY. ,ludag.rr
+Mary Joselle D. Villafir€,rte
+Rachel P. Zozobr.r.do
+Tem.porar3.' Presidia.g Officer
+I
+
+Page? of2
+{rrd. No. 0499- 16
+Ele it ordained by the Bang.guruang Fanlungsod of Dauao Cl* ra sesiofl
+.rssffi.bled that:
+SEjCT'IOI{ t. TITLE - This Ordinarrce shall be knorvr. as *.'tIV ORDn.V,{JVffi
+Fr-"lJ? IIiE TEit{P{]R.{.Rr* Cf,O,StEE TO I.'EI{IC[,1L{R TE{FI'IC C}F IIIE -EO,{D
+IIE\TIFIEIJ rts,s,ti,',' EEfITf_' .s'IREET rlr-fii\EE -Ef-}I,I[XY *qTF.EEr FEf&rTINff
+-I?E{l- .:I{GE i;5dI\r-EEIiEL-} "5QLr.{F-El II,{I,',{G CI-II', C&rlVL,tECIf 8, -?OI6, fftAtu{
+IO:OO F..r1rI. tB'tI,,{J?F.5, Ft?F IiIE SEf t. .{IVI} CAN''5IELICTI(N -FOE IHE
+ffeEnE\1,'G -E[,EVI C]F T]:E: ;=-{rr lftJ{ LI,'iVG -DAE {I,iF;
+Bn:CTIofl 2. DECLAEATIOtr OF POTICY * Sectirn ? I {c} of Republic Act
+No. ?18O, otherwise kfi.crw:r.rg the L+cal Got-ffnmsrt Code of 1991 pravides
+tJrat aa;,,' natioaal or lacal rcad, *11*I'. park, or square fi.43' be tem.poraglr
+closed during .1rt .c.ctuffl erltrgency, or fi.esta celebradons, public rallies,
+agriculhrral or industrial fairs;
+BECTIOIT 3. TEHPCIRAEY CLOSIIE.E - In celehradtrr. of the 79tu Ataw
+ng Dabanr', ttre road ide*rtified as S.trr Fedro Street corrtrr Eoltoa Btreet fronting
+no"t -ttag.e i,3a.a Fedra Squarei. Davas Clty. shell be tem.p+rasily closed to
+vefiicular traffic orr M.rsch 5, 20 16 from 1O:OO p.fl. orrllrards fm tle set up arrd
+csflst:u+doa fffi t}.e opeaing errent;
+SECTIOIT 4. SEPAEAEILIIY CLAIISE - If for arry reasori, aay sectiotr or
+prordeioa of tlris Ordia.rrrce is declared uaconstitutional ar iflualid, oths
+iectioas or pror,risiorrs hseaf nat .q-ffected b3.- such declaratioo shall corrtinue ts
+be in full force and effect;
+=ECTIOIII 5.
+Tlris Ordinarrce shs]l take effect
+ismedi.ttely upoa approrml,
+EIIACTED, Februar-1' 16, ?016, by a aajority vote of all the Mw.bers of
+ttre 3.rng.gufli.qfl llrffi€flt. there being .L quorllfl..
+CEETIFIED Cq-]RRECT:
+"For arrd in the abs€flce of the Setretry:"
+r-l
+A,TgFErEtrT.E*ra
+A.TTEIsTED
+\pt'tat,
+EILDA C. #ECHO
+A*ting Secrdar3r to the Saflg._HuffflflE Panlr:ng.sod
+{Assist:at EecreL:q.. to the 'Lrgguni.rgg Paalungsod}p
+S. EELLO
+Ero Tempcre
+Temporary Presidiag Off.ce
+rrcm/m'tr&m
+LiLF*H":l
+,rdF
+RODRIGO R. DUTERTE
+ctyluetff
+aTlY. .TESUS HELCEOR V. QUTTAII{
+CitYAdministratsf

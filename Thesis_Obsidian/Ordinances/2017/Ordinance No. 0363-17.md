@@ -1,0 +1,319 @@
+---
+ordinance_number: "0363-17"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG BOLTON SrREFr, Crry HALL DRIVE AND SAN PEDRO SQUARE ON DECEMBER 31, 20L7, FROM 3:00 P.M. UP TO 3:00 A.M. ON JANUARY 1, 2018, IN CELEBRATION OF THE *TOROTOT FESTIVAL\" TO HERALD THE NEW YEAR CELEBRATION\", duly reviewed by the Office of the City tegal Officer, this City, with the information that the Ordinance has lapsed into law, and"
+date_enacted: "2017-12-12"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0363-17.pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2017
+resolved_year: 2017
+corpus_year: 2017
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2017.0
+detected_ordinance_number_year: 2017.0
+detected_series_year: 2017.0
+detected_approval_year: 2017.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2017, status/valid, topic/temporary, topic/closure, topic/vehicui, topic/traffic, topic/along, topic/bolton]
+---
+
+# Ordinance No. 0363-17
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR TRAFFIC ALONG BOLTON SrREFr, Crry HALL DRIVE AND SAN PEDRO SQUARE ON DECEMBER 31, 20L7, FROM 3:00 P.M. UP TO 3:00 A.M. ON JANUARY 1, 2018, IN CELEBRATION OF THE *TOROTOT FESTIVAL" TO HERALD THE NEW YEAR CELEBRATION", duly reviewed by the Office of the City tegal Officer, this City, with the information that the Ordinance has lapsed into law, and
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2017 |
+| Series header | 2017 |
+| Approval date | 2017 |
+| **Resolved** | **2017** |
+
+## Context
+
+- Year index: [[_Index 2017]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OFTHE CIryMAYOR
+.i
++2p
+pNc
+hiu
+i1s/)o
+lo: I 1,
+2IlD Indonsement
+January 03, 2018
+EY:
+0ATEr
+TlltlE
+Respectfully returned to the Ms. Charito N. Santos,
+the
+SANGGUNIANG Panlungsd, this City, the herein Ordinance No. 0363-17, SERIES of
+2OI7, entitled ..AN ORDINANCE FOR THE TEMPORARY CLOSURE TO VEHICUI.AR
+TRAFFIC ALONG BOLTON SrREFr, Crry HALL DRIVE AND SAN PEDRO SQUARE ON
+DECEMBER 31, 20L7, FROM 3:00 P.M. UP TO 3:00 A.M. ON JANUARY 1, 2018, IN
+CELEBRATION OF THE *TOROTOT FESTIVAL" TO HERALD THE NEW YEAR
+CELEBRATION", duly reviewed by the Office of the City tegal Officer, this City, with
+the information that the Ordinance has lapsed into law, and that the CLO has
+favourably recommend for the approval of the same, for your appropriate action.
+For the City Mayor:
+ATTY. LAwil?# D. BANTTDTNG
+Assistant City Administrator
+(Operation)
+IDPD/AIL
+*i
+/arY -/
+RELEASED
+CMO. CRD
+0 ft'^"
+LIFE
+IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmai!.com
+BAW @
+6.
+
+OFFICE OF THE CITY LEGAT OFFICER
+Tel. No. 298-6970 x 225-0193 sd,r
+Trunk Line No. 241-1000 Loc267
+o00
+Ref. No. lL3L-Ll
+Legal Opinion
+SERIES of 2017
+No. CQ7
+CMO - CRD
+I" INDoRSEMENT
+December 20,2011
+1;io
+Respectfi.rlly forwarded to the Office of the City Mayor, through the ffice of
+Administrator, this City, the herein Ordinance No. 0363-17 entitled "AN ORDINANCE
+FOR THE TEMPORARY CLOSURE TO VEHICUIAR TRAFFIC ALONG BOLTON STREEI,
+CITY HALL DRIVE AND SAN PEDRO SQUARE ON DECEMBER 31, 20L1, FROM 3:00 p.M.
+UP TO 3:00 A.M. ON JANUARY I, ZA18, IN CELEBRATION OF THE *TOROTOT
+FESTIVAL" TO HERALD THE NEW YEAR CELEBRATION", informing your end that the
+said measure is free from legal infirmity. Hence, it is recommended that the Ordinance
+be approved.
+ATTY.
+A. GALIO, RSW
+1V
+Approved by:
+GAL
+ATTY. OSMU
+. VILLANUEVA, JR
+OIC, Asst. City
+Officer
+Date Approved: December ?2,2OL7
+or[0 3 6 6 3 - 1 7 _c fo s ure _t oroto t _ 1 7 -N 2 I 7
+@tee
+o
+o L
+, it[b dF THE lrr i v .r, rrvltFJlSTRArGP
+Cl?Y '.'' -
+CA'A+'
+ttFLtvEtl .9
+DE.C
+,fF
+RECEIVHD
+(
+rn
+o
+Y:-
+C
+I o,{GISllG
+o
+p N G
+=J
+P
+n
+Itrti
+Y
+o
+a
+ruMItffi
+DECL',L-2117
+Date
+titr:
+30&- /r/ -/v
+I
+
+aacisro
+December 14,20t7
+SARA Z. DUTERTE
+City Mayor
+cns/nta
+,x\
+rC
+,s
+Madam:
+rylt-wlvF /c4
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7L60, otherwise known
+as the Local Government Code of t99t, we are furnishing you a copy of
+Resolution No. 01673-17 and Ordinance No. 0363-17, both SERIES of 2017 of the
+SANGGUNIANG Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+\
+4 kfu.
+^ Cl/L'fr \^'l^"'(
+c]{ARrTo N. pANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+$qECEE\fED
+ftrv
+CMO " CRF
+t>/t/-y)-v-
+,
+I) l
+
+fi
+xi
+,olti
+Republic of UE phitipfirrc
+Gty of Darrao
+Offie of the SANGGUNIANG pantungsod
+tSth City Council
+47th Regular Session
+SERIES of 20L7
+PRESENT:
+ON OFFICIAL BUSINESS:
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuefte
+Jesus Joseph P.Zozobrado III
+- Temporary Presiding Officer
+- Attended the Presidential Awarding for
+Child-Friendly Municipalities and Cities
+in Malacafiang
+- Attended the Presidential Awarding for
+Child-Friendly Municipalities and Cities
+in Malacafrang
+- On Sick Leave
+- On Domestic Emergency Leave
+Vice Mayor
+Councilor
+Paolo Z. Duterte
+January N. Dutefte
+Councilor Avegayle Dalodo Oftiz
+ABSENT:
+Councilor
+Councilor
+Danilo C. Dayanghirang
+April Marie C. Dayap
+ORDINANCE NO. 0363-17
+SERIES ol2OL7
+AN ORDINANCE FOR THE TEMPORARY CLOSURE TO
+vEHrcut-AR TRAFFIC ALONG BOLTON STREET, CrTY
+HALL DRIVE AND SAN PEDRO SQUARE ON DECEMBER
+31 2Ol7, FROM 3:00 P.M. UP TO 3:00 A.M. ON JANUARY
+1, 2018, IN CELEBRATION OF THE *TOROTOT FESTML"
+TO HERALD THE NEW YEAR CELEBRATION
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+
+Ord. No. 0363-17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled that:
+SECTION 1. E!!- This Ordinance shall be known as "AN ORDINANCE FOR
+THE TEMPORARY CLOSURE TO VEHICUIAR TRAFFIC ALONG BOLTON STREET,
+clw HALL DRrVE AND SAN PEDRO SQUARE ON DECEMBER 31, 2OL7, FROM
+3:00 P.M. UP TO 3:00 A.M. ON JANUARY 1, 2018, IN CELEBRATION OF THE
+*TOROTOT FESTIVAL'TO HERALD THE NEW YEAR CELEBRATION";
+SECTION 2.
+- SECTION 21 (c) of Republic Act No.
+7L60, otherwise known as the Local Government Code of 1991, provides:
+"Any national or local road, alley, park, or square may be
+temporarily closed during an actual emergency, or fiesta
+celebrations, public rallies, agricultural or industrial fairs
+or an undertaking of public works and highways,
+telecom m u nications a nd waterworks projects. . . ";
+SECTION 3. rc
+- In line with the celebration of the
+"Torotot Festival" the City Tourism Operations Office requested for the temporary
+closure to vehicular traffic along Bolton Street, City Hall Drive and San Pedro Square on
+December 31,20L7 from 3:00 P.M. up to 3:00 A.M. on January 1, 2018;
+SECTION 4. SEPARABILITY CLAUSE- lf , for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effecU
+SECTION 5. EFFECTIVIW- This Ordinance shall take effect immediately upon
+approval;
+ENACTED, on the 12th day of December, 2017, by a unanimous vote of all the
+Members of the Sanggunian present, there being a quorum.
+CERTIFIED CORRECT:
+iJ/ffi6\
+t0r^-
+$lruros
+u(niang Panlungsod
+Secretary to the Sangg
+(City Government Departmen$ead II7
+ATTESTED:
+r. MEL#RB. euIrAIN rR.
+' City Councilor
+Temporary Presiding Officer
+cns/kjtq
+
+I
+li,
+APPROVED
+Ord. No. 0363-17
+2017
+Ll-;:&f;D
+PFEMEN APPROIT:X',EFT[,I"I THE LAPSE OF
+l'
+SARA Z. DUTERTE
+cirr Ma\frt
+ATTESTED:
+ATTY. ZULEIKA T. LOPEZ
+City Administrator

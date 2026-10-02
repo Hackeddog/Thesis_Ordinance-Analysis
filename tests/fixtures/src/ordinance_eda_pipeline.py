@@ -36,6 +36,7 @@ import logging
 import re
 import shutil
 import sys
+from numbers import Number
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -78,7 +79,7 @@ logging.getLogger("PIL").setLevel(logging.WARNING)
 # Configuration
 # --------------------------------------------------------------------------- #
 
-DEFAULT_WINDOW = (2016, 2024)      # nine-year study period; override on the CLI
+DEFAULT_WINDOW = (2016, 2025)      # nine-year study period; override on the CLI
 MIN_YEAR, MAX_YEAR = 1900, 2035
 
 HEADER_CHARS = 1800                # header region scanned for the self number
@@ -1604,7 +1605,7 @@ def _yaml_scalar(value: Any) -> str:
         return "null"
     if isinstance(value, bool):
         return "true" if value else "false"
-    if isinstance(value, (int, float)):
+    if isinstance(value, Number):
         return str(value)
     if isinstance(value, pd.Timestamp):
         return value.date().isoformat()
@@ -1620,10 +1621,17 @@ def _note_stem(row: pd.Series) -> str:
 
 def build_obsidian_note(row: pd.Series, clean_text: str = "",
                         include_text: bool = True, text_chars: int = 12000) -> str:
-    """One ordinance as an Obsidian note: YAML frontmatter plus a readable body."""
+    """Build an Obsidian note using the thesis metadata schema.
+
+    The frontmatter follows the ordinance metadata schema used in the thesis:
+    core ordinance attributes, temporal audit fields, and modeling-stage fields.
+    Modeling values can be supplied later by the BERTopic/section-embedding
+    stage; otherwise they remain YAML nulls.
+    """
     number = row.get("ordinance_number") or ""
     stem = _note_stem(row)
     corpus_year = row.get("corpus_year", row.get("resolved_year"))
+    manually_verified = bool(row.get("manually_verified", False))
 
     tags = ["ordinance", "davao"]
     if pd.notnull(corpus_year):
@@ -1631,51 +1639,61 @@ def build_obsidian_note(row: pd.Series, clean_text: str = "",
     tags.append(f"status/{row.get('temporal_status', 'unknown')}")
     if row.get("is_amendatory"):
         tags.append("type/amendatory")
-    if row.get("manually_verified"):
+    if manually_verified:
         tags.append("verified/manual")
     for keyword in str(row.get("subject_keywords") or "").split(";"):
         keyword = keyword.strip()
         if keyword:
             tags.append(f"topic/{_slug(keyword)}")
 
+    # `category`, `status`, and `source` are optional fields because the EDA
+    # parser cannot reliably infer legal policy status or provenance. If a
+    # caller supplies them in the row, they are preserved; otherwise null is
+    # safer than inventing a value.
+    source_file = row.get("filename") or (
+        Path(str(row.get("file_path"))).name if row.get("file_path") else None)
+    verification_status = row.get("verification_status") or (
+        "verified" if manually_verified else "unverified")
+    verified_by = row.get("verified_by")
+    if pd.isna(verified_by) if verified_by is not None else True:
+        verified_by = "Researcher 1" if manually_verified else None
+
+    # Keep this mapping in the same order as the metadata table: core ordinance
+    # attributes, temporal resolution/audit fields, then modeling-stage fields.
+    # Modeling values are read from the row when a later stage supplies them.
     front: Dict[str, Any] = {
+        # Core ordinance attributes
+        "ordinance_number": number or None,
         "title": row.get("title") or stem,
-        "ordinance_number": number,
-        "aliases": None,          # rendered manually below
-        "corpus_year": int(corpus_year) if pd.notnull(corpus_year) else None,
+        "date_enacted": row.get("enactment_date"),
+        "approval_date": row.get("approval_date"),
+        "category": row.get("category") or None,
+        "status": row.get("status") or None,
+        "source": row.get("source") or None,
+        "source_file": source_file,
+        "section_count": int(row["section_count"]) if pd.notnull(row.get("section_count")) else 0,
+        "verification_status": verification_status,
+        # Temporal resolution and audit fields
         "folder_year": int(row["folder_year"]),
         "resolved_year": int(row["resolved_year"]) if pd.notnull(row.get("resolved_year")) else None,
-        "enactment_date": row.get("enactment_date"),
-        "approval_date": row.get("approval_date"),
-        "series_year": int(row["detected_series_year"]) if pd.notnull(row.get("detected_series_year")) else None,
-        "council_term": int(row["council_term"]) if pd.notnull(row.get("council_term")) else None,
-        "session": row.get("session_label"),
-        "sponsor": row.get("sponsor"),
-        "approving_mayor": row.get("approving_mayor"),
-        "presiding_officer": row.get("presiding_officer"),
+        "corpus_year": int(corpus_year) if pd.notnull(corpus_year) else None,
         "temporal_status": row.get("temporal_status"),
         "confidence_score": row.get("confidence_score"),
+        "detected_enactment_year": row.get("detected_enactment_year"),
+        "detected_ordinance_number_year": row.get("detected_ordinance_no_year"),
+        "detected_series_year": row.get("detected_series_year"),
+        "detected_approval_year": row.get("detected_approval_year"),
+        "verified_by": verified_by,
         "resolution_source": row.get("resolution_source"),
-        "manually_verified": bool(row.get("manually_verified", False)),
-        "included_in_corpus": bool(row.get("included_in_corpus", True)),
-        "extraction_method": row.get("extraction_method"),
-        "page_count": int(row["page_count"]) if pd.notnull(row.get("page_count")) else None,
-        "word_count": int(row["clean_word_count"]) if pd.notnull(row.get("clean_word_count")) else None,
-        "section_count": int(row["section_count"]) if pd.notnull(row.get("section_count")) else None,
-        "whereas_count": int(row["whereas_count"]) if pd.notnull(row.get("whereas_count")) else None,
-        "source_pdf": row.get("file_path"),
-        "sha256": str(row.get("file_hash") or "")[:16],
-        "indexed": datetime.now().date().isoformat(),
+        # Modeling-stage fields: populated by later modeling/embedding steps.
+        "topic_id": row.get("topic_id"),
+        "topic_label": row.get("topic_label"),
+        "section_identifiers": row.get("section_identifiers"),
+        "embedding_status": row.get("embedding_status"),
     }
 
     lines = ["---"]
-    for key, value in front.items():
-        if key == "aliases":
-            if number:
-                lines.append(f"aliases: [{_yaml_scalar('Ordinance No. ' + number)}, "
-                             f"{_yaml_scalar(number)}]")
-            continue
-        lines.append(f"{key}: {_yaml_scalar(value)}")
+    lines += [f"{key}: {_yaml_scalar(value)}" for key, value in front.items()]
     lines.append("tags: [" + ", ".join(dict.fromkeys(tags)) + "]")
     lines += ["---", "", f"# {stem}", ""]
 

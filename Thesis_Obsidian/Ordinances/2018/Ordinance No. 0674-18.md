@@ -1,0 +1,347 @@
+---
+ordinance_number: "0674-18"
+title: "AN ORDINANCE GRANTING THE REQUEST OF LOUIE JOHN BONGUYAN, VICE PRESIDENT OF HIGH SCHOOL BATCH 1993 OF STETLA MARIS ACADEMY OF DAVAO (SMAD) FOR AMUSEMENT TAX EXEMPTION ON THEIR EVENT DUBBED *COACHSTELLA, THE 2018 SMAD GRAND ALUMNI HOMECOMING\" ON DECEMBER 28, 2018, AT THE SMX CONVENTION CENTE& sM LANANG PREMTERE AT 5:00 p.M. To 12:00 A.M. THE PROCEEDS FROM THE TICKET SATES WILL BE USED FOR THE FOLLO"
+date_enacted: "2018-12-14"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0674-18.pdf"
+section_count: 0
+verification_status: "unverified"
+folder_year: 2018
+resolved_year: 2018
+corpus_year: 2018
+temporal_status: "valid"
+confidence_score: 0.7
+detected_enactment_year: 2018.0
+detected_ordinance_number_year: 2018.0
+detected_series_year: 2019.0
+detected_approval_year: 2018.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2018, status/valid, topic/granting, topic/request, topic/louie, topic/john, topic/bonguyan, topic/vice]
+---
+
+# Ordinance No. 0674-18
+
+> AN ORDINANCE GRANTING THE REQUEST OF LOUIE JOHN BONGUYAN, VICE PRESIDENT OF HIGH SCHOOL BATCH 1993 OF STETLA MARIS ACADEMY OF DAVAO (SMAD) FOR AMUSEMENT TAX EXEMPTION ON THEIR EVENT DUBBED *COACHSTELLA, THE 2018 SMAD GRAND ALUMNI HOMECOMING" ON DECEMBER 28, 2018, AT THE SMX CONVENTION CENTE& sM LANANG PREMTERE AT 5:00 p.M. To 12:00 A.M. THE PROCEEDS FROM THE TICKET SATES WILL BE USED FOR THE FOLLO
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2018 |
+| Ordinance number suffix | 2018 |
+| Series header | 2019 |
+| Approval date | 2018 |
+| **Resolved** | **2018** |
+
+## Context
+
+- Year index: [[_Index 2018]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+OFFICE OF THE CITY IVIAYOR
+v'
+i6
+sb
+rtr;
+$()r
+tzil
+Yr*
+crs$c
+e
+t
+o
+Nq
+glai
+Ref. No. CIdG2019-00123
+2d utooRsEMENT
+January L6,20L9
+Respectfully returned to Ms. Charito N, Santos, Secretary to the SANGGUNIANG
+Panlungsod, this City, the within Legal Opinion No. 22, SERIES of 2019 dated January
+10, 2019 of the City Legal Office, relative to the attached Ordinance No. 0674-18,
+SERIES of 2018, entitled "AN ORDINANCE GRANTING THE REQUEST OF LOUIE IOHN
+BONGUYAN, VICE PRESIDENT OF HIGH SCHOOL BATCH 1993 OF STELIA MARIS
+ACADEMY OF DAVAO (SMAD) FOR AMUSEMENT TAX DGMPTION ON THEIR THIRD
+EVENT DUBBED "COACHSTELTA, THE 2018 SMAD GRAND ALUMNI HOMECOMING" ON
+DECEMBER 28, 2018, AT THE SMX CONVENTION CENTER, SM LANANG PREMIERE AT
+5:00 P.M. TO 12:00 A.M. THE PROCEEDS FROM THE TICKET SALES WILL BE USED
+FOR THE FOLLOWING: (1) PURCHASE OF ITEMS FOR DONATION TO THE ALMA
+MATER (2,500 PIECES OF EMERGENCY KITS); (2) DONATION TO THE BENEFICIARY
+BALAY PASILUNGAN FOUNDATION DAVAO; AND (3) DONATION TO THE STELI.A
+MARIS ACADEMY ALUMNI ASSOCIATION INC. FOR THEIR BENEFICIARY, THE
+INDIGENOUS STUDENTS OF MALABOG", with the information that no executive action
+is needed on the matter since the activity has already lapsed, thereby rendering the
+ordinance moot, for your appropriate action.
+For the City Mayor:
+i
+ATTY. TRISTAN
+Assistant
+{
+(Adm
+)
+l
+I
+I
+II
+RELEASED
+lo-l'tfl
+t0
+LIFE IS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 r (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+BAW @
+Lqr-Zb
+_l
+
+ht'vb-bLa
+l,4loe 'broQ
+EXYT
+i[8 gfiitlt33*
+)
+ATB
+sll J0 lctJio
+nI Aauroilv
+,1 SU 'OllV9 'V vSfiHVtrt 'AL[V
+--/rw
+610Z '0I fuenue6 :panorddy a1e6
+a
+I
+ralUJO le6a1 AO 6unrV
+ur 'vA:tnN\fnIA 'd ooNnNSo
+dPano.rddv
+';enordde sU JoJ Jalleui aH uo papaau sl uolpe alllnf,axa ou 'of,uaH'Mel
+olur pasdel peq arnseour aql ]eq] paruasqo $ il 'ranamog 'posbunlued 6uerun66ue5
+aq] Jo sramod ae ulr41m llerv\ sr uo[dtuaxa xel Jo luerb aq] leql pue rno{ 6u1u.ro;u1
+'BI0Z Jo sapas 'Bl-bLgO'oN esueurprg ularaq aH 'A!f, sltll 'rolerprurnrpv aql
+Jo alUO aq1 qbnorql 'ro{e6 lfp aqf Jo alU[O aql o] papremroJ Allngpadsay
+610Z'61 fuenue6
+rNtNlsuooNl tsr
+,,909\nvN
+IO SIN]OTUS SNON]9IONI ]I.{I ,AUVI3IIfN:I8 UI]I{I UOJ '3NI
+NOLLVIfOSSV INNNT AN]OVfV SIUVN \NI=ilS ]I{I OI NOLLVNOO
+(E) oNV :ov vo NorLVoNnoJ NvgNnrrsvd Av-rvs AuvrSrJrNrE
+ll{t ol- NotLVNoo (z) l(s-r-or A3NlgulNl Jo s=tflld 009',2) u:[vN
+vNlV 3r{r 01 NOrIVNOO UOJ SNSrr JO SSVHfUnd (r) :gNrA OrOr
+IHI UOI ClSn 38 IIM SIIVS -LD3IL ll{I [/{OUJ SOlSfOUd 3l-{I N'V
+00:ZI OI 'N'd 00:S .LV UIIN=IUd gNVNV-l NS 'U=ItNl3 NOILNIANOf
+XNS ]I{I IV ,8IOZ 'BZ U]8I,{]f]O NO ,,9NINO3]NOH INNNT
+ONVIU9 OV[/{S BI0Z IHI 'fllr |SH]VOJ.. OlSgnO INIA:I UIIHI
+NO Nottdh,ltxl xvJ- INlt^ESnr{v uoJ (ovt^ts) ovnvo Jo Aht3o\DV
+SIUVN \NI]I-S JO E66I HflV8 ]OOH3S HgIH JO IN]OIS:IUd ]fIA
+,NVAN9NO8 NHOT ]INOI JO $3NO]U ]FTI gNtTNVUg 3SNVNIOUO
+NV .. O]IILLN:| 8I0Z JO S:lftlls 'Bl-bLgA 'ON IfNVNIOUO
+btOZ to seUeS-FoN uolutdg 1eba1
+V- DW-E -ItrLoN 'JaU
+oP^eO Jo A1f
+rvglt /[If ]Fr.r Jo rSHJo
+)$ -htl:"tl
+610z , r NYI
+o3At333U
+s0uollu I llNl0N0ds3uu0l
+\tr.b
+Al
+tv
+illlrl4li
+NNV ao lrltJ
+a,l.tf
+N0rsrAr0
+ho.at,
+seuldd;pqq6 aW Jo r;lqndaX
+bt .ht -t
+a
+
+\.2
+Office of the SANGGUNIANG Par rgsod
+Deremhr 21,20tB
+tuttE - t4
+SiRA Z, I}UIERIE
+City MaYor
+City of Dxao
+rTl
+*
+Iut#arn
+b* lc-02d0 -A P.2rv
+Put,suanttosuLrsgtjonS,kra]raphC,SerEon46!,Artirleone,T!fleFive,
+chatrter 3, Bmk Itr and Sertion 54 of Bmk I ReEruhlic Act lrlo. 7180, o*terwise known
+s ttre Lmal tbvernmert Code of 19!1, we are furnishing you a cotry of Reolution No'
+02g,t{}-1s and trdinance lrlo. 06r+1g, troth SerEs of 2018 of the S*ggurrian-u
+panlunrlml, [:r yurr information, guidance and apg'ropriate xtion.
+tJery bulY Yours,
+O
+r.
+n'f.Mh
+ffi!
+ngEofl
+SwretarY to tlrc
+P.ailu
+{City C:arcrn nent DeErartment }-lEHl Ii }
+RECEIVED
+CMO - CRD
+lrD
+\o
+!
+i
+
+Republika ng Pilipinas
+TANGGAPAN NG SANGGUNIANG PANLUNGSOD
+4gth
+City Council
+Regular Session
+SERIES of 2018
+PRESENT:
+ABSENT
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joanne M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Rene Elias C. Lopez
+Avegayle Dalodo Ortiz
+- Presiding Officer
+Councilor
+Councilor
+- On Official Business
+ORDINANCE NO. O674-L8
+SERIES of 2018
+AN ORDINANCE GRANTING THE REQUEST OF LOUIE JOHN BONGUYAN,
+VICE PRESIDENT OF HIGH SCHOOL BATCH 1993 OF STETLA MARIS
+ACADEMY OF DAVAO (SMAD) FOR AMUSEMENT TAX EXEMPTION ON
+THEIR EVENT DUBBED *COACHSTELLA, THE 2018 SMAD GRAND ALUMNI
+HOMECOMING" ON DECEMBER 28, 2018, AT THE SMX CONVENTION
+CENTE& sM LANANG PREMTERE AT 5:00 p.M. To 12:00 A.M. THE
+PROCEEDS FROM THE TICKET SATES WILL BE USED FOR THE
+FOLLOWING: (1) PURCHASE OF ITEMS FoR DONATION To THE ALMA
+MATER (2,500 PIECES OF EMERGENCY KITS); (2) DONATION To THE
+BENEFICIARY BALAY PASILUNGAN FoUNDATION DAVAO; AND (3)
+DONATION TO THE STELLA MARIS ACADEMY ALUMNI ASSOCIATION INC.
+FOR THEIR BENEFICIARY, THE INDIGENOUS STUDENTS OF MALABOG
+
+'lla#a puP a)roJ llnJ ul aq ol anurluo) lleLls uoqerellap qlns Aq papaJJe ]ou
+JoereLl suolslnoJd Jo suotpes JaL.llo 'p;;enu1 Jo leuolmlllsuolun paiellap st alueutpJ6 sttll Jo
+uo1s;noldlouol}feSIue,uosealAueJoJ,JI-ffi.sNoIIf,]s
+'peluerb {qataq sl 'Illf slql 'alerurel6 6ueuel NS ,la1ua3
+uorlue^uof XNS le BI0Z '97 leque)aQ uo ,,9NINOJI[^jOH INNnt CNVU! OVt^lS BI0Z
+lHl. '\flllISHfVOf,. 'paqqnp Juena JlaL.lt Jo spaaoord aql uo uorlduaxa xel tueuasnup
+roJ (OV61S) oe^e6 Jo Aurapecy speh ellats Jo E66I Ll3leg loor,lls tl6tg ,1uepgsa.r6
+a3t1 'ueAn6uo6 uL.lot alnot 'rN Jo lsenbar aLlI -NttltrItrffii .n NOIIf,IS
+j,,suolllqlqxa ullu 6u;pn1ou; 1ou 'arouJaL{UnJ pue
+lgord ro1 A;lretugld papualul tou syaluol lelluls .ro '1lo.r
+dod ldarxa suolleluasald lelpoleJo pue fuera1l; 'suel6o.rd
+lef rsnt! 'saroqs JoMolJ 'suorlrqrqxa Ue pue s6urlured
+'s;e1oar 'spuelp 'syeluol 'setado Jo 6u;ppoq aL{l
+LltrM uolpeuuof, u! pallallo3 ere saal uolsslupe aL11 araqry1 (q
+ireel repualpl e ur sAep (t) aarq Aluo o1 pailulll
+eq lleLls 'alll aql pue 'alueulo;led 'nnoqs 'uotllqrqxa qrns
+1eq1 'raqynl 'paprnold luorssrr.upe pled uo xel lueuasnue
+Jo luauAed aH uoJJ paldr.uaxa se uorletle;rold
+lerlueprsard ro Mpl ,{q peJellap ele oqM suolleoosse
+ro suorlnlqsur snogOtlat lo leuotlelnpa 'a;qelgleql aq] Jo
+Jleqaq ul pue roJ papallol ere saal uolssltupe aL{l alaq6 (e
+:posEun;ue6 6ue1un66ues eW uol; asodlnd slql roJ paulelqo
+aq ls,tu plnoLls uoqduaxe leLll 'paprnold 'saser OulanolloJ eql
+ur ,{ldde lou saop pasodr.ug ulareL{ xel aLlf-uollduaxl '99 uo[]as
+:sapgnord ,,oene6
+Jo ^1f
+aLll Jo apof enua^eu S00Z eLll bulpuaruy alueulplg uV.. ro 'LIOZ Jo sapas 'LT-16ZO
+'oN erueulprg Jo (q) pue (e) sqder6eredqns '99 uo;pas -IIEO.f,IRV .t NOI-pIS
+',,1uau-:do;anap alqeulelsns lol AOalelF antleulalle
+ue se ,tuouolne le)ol Jo &lltqetn aLll arnsuo ol paOerno:ua aq lleLls 'sa)rruas llseq
+1o fuantlap aql ul A;le;nrtyed 'acueurano6 lerol ur ro]las alenud aL{t Jo uolledlrlued aq1..
+leq] saplnord '166I Jo apof luauulenog le)ol aql se uMou) astruaqlo
+,oglL.oN}]Vr11qndaylo(t)€uopeS_.zNoIIf,]s
+",908tnvH
+Jo slNlonls snoNlgloNr
+]HI ,AUVIf,II]N]g UIIHI UOJ .f,NI Nollvlf,ossv INWn]V An]ovf,v
+sluvhl vl'llls lHr or NollvNoo (€) oNv lovnvo NortvoNnoJ NvgNnllsvd
+AVIVS AUVIf,IJ]N]8 ]HI OI NOIIVNOO Q) J(STTX Af,N]9U]N] JO
+slSlld 00s'z) ullvht vnrv lHr ol NolrvNoo uoJ snlll lo rsvHf,und (T)
+:gNIfnOllOJ IHI UOJ OlSn lg ]]Un SI]VS IIXf,II ll{I ]^IOUJ SOll)OUd IHI
+'N'V 00:zr orhl'd 00:s rv lutrhl]ud gNvN\n ws ttrruec NoIrNtANof, xhts
+lHl rv '8Toz '82 utglrttf,to No ,,DNlhtof,tt^toH INWntv oNvug ovhts groz
+ilHr 'vl]frsHf,vo].. ofg8no rNil^f urfHr No Norrdhtfxr xvr rNlwtsnwv
+uoJ (ovws) ovnvo Jo Anrovf,v sruvn \nrrrs Jo E66T Hf,rvs rooHf,s HgrH
+JO rNlOrSlUd lf,rn 'NvAngNoS NHot lrnol Jo rslnotu tHr gNIlNVug
+If,NVNIOUO NV.. se uMou) oq lleqs e3ueutprg slLll -ilm .T NOI-E lS
+:leql pelquasse
+uotssas ul 'Illf oe^eo 1o pos6unlue6 6ue1un66ue5 elqeJouoH eql
+^q
+pauleplo lt ag
+BT-b190'oN 'pro
+t Jo Z a6ed
+
+Ord. No. 0674-78
+2018
+ENACTED, on the 14th day of December, 2018, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+E.
+Vice
+Presiding
+cns/kjtq
+ATTY. ZULEIKA T. LOPEZ
+City Administrator
+dfll(,Ybh,ko,
+Secretary to the SANGGUNIANG panlungsod
+(City Government Depaftment Head II) 1t
+ATTESTED:
+APPROVED
+City Mayor
+ATTESTED:
+E
+SARA

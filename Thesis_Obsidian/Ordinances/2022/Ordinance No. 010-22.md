@@ -1,0 +1,178 @@
+---
+ordinance_number: "010-22"
+title: "AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO vEHrcurAR TRAFFTC (FULL ROAD CLOSURE) ON AUGUST L7, 2022 UNTIL SEPTEMBER 17, 2022 PARTTCULARLY THE STREETS ATONG THE BYPASS ROAD AT JUNCTION DAVAO.COTABATO ROAD- CENTRAL PARK (CORDITLERA ROAD) JUNCTION MATTNA APLAYA ROAD FOR THE DPWH R.XI PROJECT"
+date_enacted: "2022-08-16"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 010-22.pdf"
+section_count: 4
+verification_status: "unverified"
+folder_year: 2022
+resolved_year: 2022
+corpus_year: 2022
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2022.0
+detected_ordinance_number_year: 2022.0
+detected_series_year: 2022.0
+detected_approval_year: 2022.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2022, status/valid, topic/temporary, topic/closure, topic/road, topic/vehrcurar, topic/trafftc, topic/full]
+---
+
+# Ordinance No. 010-22
+
+> AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO vEHrcurAR TRAFFTC (FULL ROAD CLOSURE) ON AUGUST L7, 2022 UNTIL SEPTEMBER 17, 2022 PARTTCULARLY THE STREETS ATONG THE BYPASS ROAD AT JUNCTION DAVAO.COTABATO ROAD- CENTRAL PARK (CORDITLERA ROAD) JUNCTION MATTNA APLAYA ROAD FOR THE DPWH R.XI PROJECT
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2022 |
+| Ordinance number suffix | 2022 |
+| Series header | 2022 |
+| Approval date | 2022 |
+| **Resolved** | **2022** |
+
+## Context
+
+- Year index: [[_Index 2022]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+2oth city Council
+7h Regular Session
+SERIES of 2022
+i.i
+Ci[y of Davao
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justo!-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. LDalodo-Ortiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. OlO-22
+SERIES of 2O22
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO
+vEHrcurAR TRAFFTC (FULL ROAD CLOSURE) ON AUGUST L7, 2022
+UNTIL SEPTEMBER 17, 2022 PARTTCULARLY THE STREETS ATONG
+THE BYPASS ROAD AT JUNCTION DAVAO.COTABATO ROADCENTRAL PARK (CORDITLERA ROAD) JUNCTION MATTNA
+APLAYA ROAD FOR THE DPWH R.XI PROJECT
+
+Ord. No. 0L0-22
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in
+session assembled, that:
+SECTIOI{ l. IIIE - This Ordinance shall be known as "AN ORDIT{AI{CE FOR
+THE TEMPORARY CTOSURE OF ROAD TO VEHTCULAR TRAFFTC (FULL ROAD
+cLosuRE) oN AUGUST 17,2022 UNTIL SEPTEMBER 17, 2022 PARTICULARLY
+THE STREETS ALONG THE BYPASS ROAD AT JUNCTION DAVAO- COTABATO
+ROAD-CENTRAL PARK (CORDTLLERA ROAD) - JUNCTION MATINA APIAYA
+ROAD FOR THE DPWH R.XI PRO'ECT".
+SECTION 2.
+- SECTION 21 (c) of Republic Act
+7L60, otherwise known as the Local Government Code of 1991, provides that "any
+national or local road, alley, park, or square may be temporarily closed during an actual
+emergency, or fiesta celebration, public rallies, and agricut'tural or lndusffial fair or an
+undertaking of public works and highways, telecommunications and water works
+pOects".
+SECTION 3. rc
+- The streets along the ByPass Road at
+Junction Darrao- Cofabato Road- Centrat Park (Cordillera Road) -Junction Matina Aplaya
+Road wil! be tempor"arily closed to vehicular traffic on August 17, 2022 up to September
+L7,2022 for the DPWH R-)G Project.
+SECTION 4.
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstthrtional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 16th day of August 2022, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ 0,|/llnl\ .4.^
+cHARrro-N. $.ANTOS
+Secretary to the SANGGUNIANG Panlungsod
+(City Governrnent Department Head $)v
+ATTESTED:
+il
+MELCT{oR B. QUrrArr{
+'R.
+/vice Mayor
+/residing Officer
+cns/ray
+J.
+
+I
+ti
+Ord. No. 010-22
+APPRoVED: AUG 2 I 2022 . 2022
+ATTESTED:
+ATTY.
+H, IAYOG
+Acting
+AN ORDINANCE FOR THE TEMPORARY CLOSURE OF ROAD TO VEHICULAR TRAFFIC (FULL
+ROAD CLOSURE) ON AUGUST t7, 2022 UNTIL SEPTEMBER t7, 2022 PARTICUI-ARLY THE
+STREETS ALONG THE BYPASS ROAD AT JUNCTION DAVAO - COTABATO ROAD - CENTRAL
+PARK (CORDILLERA ROAD) - JUNCflON MATTNA APLAYA ROAD FOR THE DPWH R-n PROJECT
+City

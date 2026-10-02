@@ -1,0 +1,191 @@
+---
+ordinance_number: "0295-23"
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE ENTERED INTO BY AND BETWEEN TUO IT SOLUTIONS AND THE CITY OF DAVAO FOR THE PRIMERO HOSPITAL INFORMATION MANAGEMENT SYSTEM VERSION 3.5"
+date_enacted: "2023-09-19"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0295-23 (2).pdf"
+section_count: 5
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/srgn, topic/behalf]
+---
+
+# Ordinance No. 0295-23
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE ENTERED INTO BY AND BETWEEN TUO IT SOLUTIONS AND THE CITY OF DAVAO FOR THE PRIMERO HOSPITAL INFORMATION MANAGEMENT SYSTEM VERSION 3.5
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+lt
+20th City Council
+35th Regular Session
+SERIES of 2023
+PRESENT:
+City'of Davao
+Office of the' SANGGUNIANG Panlungsod
+J. Melchor B. Quitain Jr.
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Al Ryan S. Alejandre
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Jesus Joseph P. Zozobrado III
+- Presiding Officer
+- On Sick Leave
+- On Official Business
+- On Official Business
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Augusto Javier G. Campos III
+Edgar R. Ibuyan Sr.
+ORDINANCE NO. 0295.23
+SERIES of 2023
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY
+MAYOR TO SrGN, FOR AND rN BEHALF OF THE CITY OF DAVAO, THE
+DEED OF DONATION TO BE ENTERED INTO BY AND BETWEEN TUO IT
+SOLUTIONS AND THE CITY OF DAVAO FOR THE PRIMERO HOSPITAL
+INFORMATION MANAGEMENT SYSTEM VERSION 3.5
+
+Ord. No. 0295-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. E!! - This Ordinance shall be known as "AN ORDINANCE
+GRANTING LEGIS1ATM AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND
+IN BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE ENTERED
+INTO BY AND BETWEEN TUO IT SOLUTIONS AND THE CITY OF DAVAO FOR THE
+PRIMERO HOSPITAL INFORMATION MANAGEMENT SYSTEM VERSION 3.5".
+SECTION 2. DECLARATION OF POLICYSECTION 455 (b) (1) (vi) of Republic Act No. 7160 or the Local Government
+Code of 1991 states that:
+"SECTION 455. Chief Executive; Powers, Duties and Compensation -
+(b) For efficient, effective and economical governance the purpose
+of which is the general welfare of the city and its inhabitants
+pursuant to SECTION 16 of this Code, the city mayor shall:
+(1) Exercise general superuision and control over all programs,
+projects, seruices, and activities of the city government and in
+this connection, shall :
+xxx
+)oo(
+)cc(
+)ofr
+nc(
+XXX
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other
+documents upon authority of the SANGGUNIANG panlungsod or
+pursuant to law or ordinance."
+SECTION 3. AUTHORIW- The City Mayor is hereby granted legislative authority
+to enter into and sign, for and in behalf of the City of Davao, the Deed of Donation to be
+entered into by and between TUO ff SOLUTIONS and the CITY OF DAVAO for the
+Primero Hospital Information Management System version 3.5.
+SECTION 4. SEPARABILITY CLAUSE- If, for any reason, any SECTION or provision
+of this Ordinance is declared unconstitutional or invalid, other sections or provisions
+hereof not affected by such declaration shall continue to be in full force and effect.
+SECTION 5. EFFECTMW- This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 19th day of September 2023, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+
+l
+Ord. No. 0295-23
+CERTIFIED CORRECT:
+cj$H4$fr.}#ffi,
+ATTESTED:
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)6
+AppRovED: OCT 2 3 208'
+2023
+J. ME rcRe. eurrArN JR.
+1\tice Mayor
+Piesiding Officer
+cns/josh
+SEBASTIAN Z. DUT
+Citv ttlavp
+ERTE
+I
+ATTESTED:
+ATTY. F
+H. LAYOG
+Acting
+inistrator
+AN ORDINANCE GRANTING LEGISI.ATIVE AUTHORITY TO THE CITY MAYOR TO SIGN, FOR AND IN
+BEHALF OF THE CITY OF DAVAO, THE DEED OF DONATION TO BE ENTERED INTO BY AND
+BETWEEN TUO IT SOLUTIONS AND THE CITY OF DAVAO FOR THE PRIMERO HOSPIIAL
+INFORMATION MANAGEMENT SYSTEM VERSION 3.5

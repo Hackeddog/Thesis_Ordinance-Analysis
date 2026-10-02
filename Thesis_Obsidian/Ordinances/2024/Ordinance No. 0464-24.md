@@ -1,0 +1,265 @@
+---
+ordinance_number: "0464-24"
+title: "AN ORDINANCE DECLARING MOUNT APO NATURAL PARK AS A GEOPARK"
+date_enacted: "2024-04-02"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0464-24 Mt. Apo as Geopark (1).pdf"
+section_count: 11
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/declaring, topic/mount, topic/natural, topic/park, topic/geopark]
+---
+
+# Ordinance No. 0464-24
+
+> AN ORDINANCE DECLARING MOUNT APO NATURAL PARK AS A GEOPARK
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+20th City Counci!
+13th Regular Session
+SERIES of 2024
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+l. Melchor B. Quitain Jr.
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilbefto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+January N. Duterte
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Ortiz
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuefte
+Albefto T. Ungab
+Jesus Joseph P. Zozobrado III
+Presiding Officer
+ABSENT:
+Councilor Richlyn N. Justol-Baguilod
+- On Vacation Leave
+ORDINANCE NO. 0464.24
+SERIES of 2O24
+AN ORDINANCE DECLARING MOUNT APO NATURAL PARK
+AS A GEOPARK
+
+Ord. No. 0464-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+DECLARING MOUNT APO NATURAL PARK AS A GEOPARK'.
+SECTION 2. DECLARATION OF POUCY - It is hereby declared the policy
+of the city to:
+1. To protect and conserue the remaining watershed areas in the city
+found within the MANP that will support the perpetual existence of the
+Critically Endangered Philippine Eagle and other threatened wildlife
+species;
+2. Ensure that developmental activities within or in the periphery of the
+Protected Area and Geopark passes through an assessment process to
+maintain the ecological integrity of the area;
+3. Ensure the enforcement of applicable environmental laws and all
+prohibited acts within protected areas as provided under SECTION 20 of
+RA 11038, otherwise known as the "Expanded National Integrated
+Protected Areas System (E-NIPAS) Act of 20L8";
+4. Initiate or suppoft scientific studies on the conseruation of biological
+and geological diversity;
+5. Suppoft educational programs highlighting geodiversifi, geological
+heritage, cultural heritage, among others;
+6. Facilitate the preparation and crafting of related policies relative to
+the declaration of MANP to be recognized as a geopark in the City.
+SECTION 3. SCOPE AND APPLICATION OF ITS PROVISIONS
+Pursuant to Republic Act 11038 or the E-NIPAS Act of 2018 and the policies
+governing UNESCO Global Geoparks, the provisions of this Ordinance shall be
+enforceable within the declared Geopark of Mount Apo Natural park.
+SECTION 4. DEFINITION OF TERMS - As used in this Ordinance, the
+following terms and phrases shall mean as follows:
+1. City Government - refers to the City Government of Davao.
+2. Geodiversity - the natural range or diversity of geological features
+(rocks, minerals, fossils, structures), geomorphological features
+(landforms and processes), soil and water that compose and shape
+the physical landscape. It is not usually defined to inctude
+landscaping, concrete, or other human landforms and products.
+3. Geological heritage (geoheritage) - a generic but descriptive term
+applied to sites or areas of geologic features with significant scientific,
+educational, cultural, or aesthetic value.
+
+Ord. No. 0464-24
+4. Geoparks- are places where landscapes with outstanding geological
+heritage are used to suppoft sustainable development. This is
+achieved through conseryation, education, inlerpersonal and naturebased tourism.
+5. National Integrated Protected Areas System (NIPAS) the
+classification and administration of all designated protected areas to
+maintain essential ecological processes and life-support systems, to
+preserue genetic diversity, to ensure sustainable use of resources
+found therein, and to maintain their natural conditions to the greatest
+extend possible.
+6. Natural park - a relatively large area not materially altered by human
+activity where extractive resources uses are not allowed and is
+maintained to protect outstanding natural and scenic areas of national
+or international significance for scientific, educational, and
+recreational use.
+7. Protected area - identified portions of land and/or water set aside by
+reason of their unique physical and biological diversity and protected
+against destructive human exploitation.
+8. UNESCO Global Geoparks (UGGp) - single, unified geographical areas
+where sites and landscapes of internationa! geological significance are
+managed with a holistic concept of protection, education and
+sustaina ble development.
+sEcTroN 5. MANAGEMENT oF MOUNT APo GEOPARK - The Mount
+Apo Geopark shall be managed pursuant to Republic Act 11038 and Republic Act
+9237 or the Mount Apo Act of 2003. UNESCO Global Geoparks are managed by a
+Body having legal existence recognized under national legislation. This
+management body should be appropriately equipped to address the entire area
+and should include all relevant local and regional actors and authorities. UNESCO
+Global Geoparks require a management plan, agreed upon by all the paftners,
+that provides for the social and economic needs of the local populations, protects
+the landscape in which they live and conserues their cultural identity. The plan
+must be comprehensive, incorporating the governance, development,
+communication, protection, infrastructure, finances and partnerships of the
+UNESCO Global Geopark.
+DENR Region XI shall be the primary agency to manage the Mount Apo
+Geopark (Davao City side), in close coordination with the Loca! Government Unit
+(LGU)-Davao City and other concerned organizations/groups. The Regional
+Director may enter into a Memorandum of Agreement (MoA)/Partnership
+Agreement with the concerned LGU, and peoples Organizations.
+SECTION 6. GEOCONSERVATION PLAN .
+5.1 Upon the declaration of Mount Apo as a geopark, LGU Davao city and
+other concerned stakeholders shall joinUy prepare and cause the
+implementation of the Mount Apo Geoconservation Plan which shatl serue as
+basis for the protection and conseruation of the natural park's biological and
+geological features.
+
+Ord. No. 0464-24
+5.2 The Geoconseruation Plan shall have the following components:
+a) management objectives;
+b) key management issues;
+c) site management strategies and activities such as, but not limited to
+habitat protection, rehabilitation, community organizing, promotion of
+environmental education and awareness, ecotourism, geotourism and other
+developmental activities towards the sustainable management of the area;
+d) administration; and
+e) monitoring and evaluation.
+5.3 The Geoconseruation Plan shall be mainstreamed in the Forest Land Use
+Plan, Comprehensive Land Use Plan, Comprehensive Development Plan and
+Zoning of this City to ensure harmonized implementation of programs,
+projects and activities thereat.
+SECTION 7. COLLECTION AND UTIL,IZATION OF BIOLOGICAL AND
+GEOLOGICAL RESOURCES WITHIN THE GEOPARK - Collection and utilization
+of biological and geological resources within Mount Apo Geopark shall be subject to
+the provisions of Republic Act 11038 and its Implementing Rules and Regulations
+and other existing relevant laws and policies.
+SECTION 8. DESIRED ACTIONS OF THE NATIONAL GOVERNMENT -
+the Depaftment of Environment and Natural Resources XI, through the PAMB of
+MANP, desires that MANP be declared a loca! geopark, in support of its bid to be a
+national geosite, ultimately leading to its inscription as a UNESCO Global Geopark.
+SECTION 9. FUNDING ALLOCATION - DENR Region XI and the City
+Government of Davao are requested to allocate counterpaft funds for the
+implementation of the to be crafted Mount Apo Geoconseruation Plan.
+SECTION 10. REPEALING CLAUSE - All previous Ordinances, executive
+orders, rules and regulations or pafts thereof which are inconsistent with this
+Ordinance are hereby repealed and modified accordingly.
+SECTION 11. SEPARABILIW CLAUSE - If, for any reason or reasons,
+any paft or provision of this Ordinance shal! be held unconstitutional or invalid,
+other parts or provisions hereof which are not affected thereby shall continue to be
+in full force and in effect.
+SECTION 12. EFFECTMW - This Ordinance shal! take effect immediately
+upon approval.
+ENACTED, on the 2nd day of April 2024, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+
+rGF'ar"
+Ord. No. 0464-24
+CERTIFIED CORRECT:
+For and in the absence of the Secretary:
+w
+MA. THERESA A. REYES
+Acting Secretary to the SANGGUNIANG Panlungsod
+(Assistant Secretary to the SANGGUNIANG Panlungsod)
+ATTESTED:
+ATTESTED:
+J.M
+lJELClroR B. QUTTATN JR.
+,/vice Mayor
+Presiding Officer
+cns/ray
+APPRovED: t'tAY 29202f
+2024
+Z. DUTERTE
+citt Mav;2
+H. LAYOG
+Acting
+ministrator
+ATTY.
+AN ORDINANCE DECLARING MOUNT APO NATURAL PARK AS A GEOPARK

@@ -1,0 +1,378 @@
+---
+ordinance_number: "0740-19"
+title: "AN ORDINANCE AMENDING SECIION 1.3, ARTICLE XII, OF ORDINANCE NO. 0546.13, SERIES OF 2073, OTHERWISE KNOWN AS THE \"COMPREHENSIVE ZONING ORDINANCE OF DAVAO CITY FOR 2013-2022', for your information and appropriate action. For tfie City Mayor: ATTY. TRISTAN Assistant (Administration) cnY HArrrs ofFlcE CoRRESTOt'lDEnCj AHD iECOiDS t)lv RELEASED MAY 2I 2r1g ronr$a^uo AOMII,TISTRATIYE AlDt N BY Illrl&: "
+date_enacted: null
+approval_date: "2019-05-07"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0740-19 (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2019
+resolved_year: 2019
+corpus_year: 2019
+temporal_status: "valid"
+confidence_score: 0.35
+detected_enactment_year: null
+detected_ordinance_number_year: 2019.0
+detected_series_year: null
+detected_approval_year: 2019.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2019, status/valid, type/amendatory, topic/seciion, topic/article, topic/comprehensive, topic/zoning, topic/your, topic/information]
+---
+
+# Ordinance No. 0740-19
+
+> AN ORDINANCE AMENDING SECIION 1.3, ARTICLE XII, OF ORDINANCE NO. 0546.13, SERIES OF 2073, OTHERWISE KNOWN AS THE "COMPREHENSIVE ZONING ORDINANCE OF DAVAO CITY FOR 2013-2022', for your information and appropriate action. For tfie City Mayor: ATTY. TRISTAN Assistant (Administration) cnY HArrrs ofFlcE CoRRESTOt'lDEnCj AHD iECOiDS t)lv RELEASED MAY 2I 2r1g ronr$a^uo AOMII,TISTRATIYE AlDt N BY Illrl&: 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | 2019 |
+| Series header | - |
+| Approval date | 2019 |
+| **Resolved** | **2019** |
+
+## Cites or amends
+
+- [[Ordinance No. 0546-13]]
+
+## Context
+
+- Year index: [[_Index 2019]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+, Republic of the Philippines
+OFFICE OF THE CITY IVIAYOR
+oadis$
+F-ef- Ne C!#2019-01.824
+2Nd INDORSEMENT
+May 28, 2019
+Respectfully returned to lrls. Charito N. Santos, Secretary to the SANGGUNIANG
+Panlungsocl, this City, the herein duly signed and approved Ordinance No. 0740-19,
+SeriCS of 2019 entitled, "AN ORDINANCE AMENDING SECIION 1.3, ARTICLE XII, OF
+ORDINANCE NO. 0546.13, SERIES OF 2073, OTHERWISE KNOWN AS THE
+"COMPREHENSIVE ZONING ORDINANCE OF DAVAO CITY FOR 2013-2022', for your
+information and appropriate action.
+For tfie City Mayor:
+ATTY. TRISTAN
+Assistant
+(Administration)
+cnY HArrrs ofFlcE
+CoRRESTOt'lDEnCj AHD iECOiDS t)lv
+RELEASED
+MAY 2I 2r1g
+ronr$a^uo
+AOMII,TISTRATIYE AlDt N
+BY
+Illrl&:
+9'u BAV..@
+.com
+LtFE tS HERE
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao
+(082) 224-3044 o (082) 24'l-1000 loc.265 . davaocitymayor@gmail
+,{r*- 7-/7
+'.1
+
+Republic ef the Pfilippines
+OFFICE OF THE CITY LEGAL O
+Tet. No.298-6910
+Trunk Line No. 241-1000 Loc
+,rtil!
+o$J
+abtl\-4t
+Legal Opinion ruo. ?11
+F'\'
+i.lj ..
+Ref. No. CLO-2019-0001296
+lt,
+Y 2019 &.l'tq. or 814
+SERIES of 2019
+ORDINANCE NO. 0740-19, SERIES OF 2019, entitled "AN ORDINANCE
+AMENDING SECTION 1.3, ARTICLE XII, OF ORDINANCE NO. 0546-13,
+SERIES OF 20T3, OTHERWISE KNOWN AS THE "COMPREHENSIVE
+ZONING ORDINANCE OF DAVAO CTTY FOR 2013.2022"
+l't INDoRSEMENT
+May 15, 2019
+Respectfully forwarded to the Office of the City Mayor, through the Office of the
+Administrator, this City, the herein Ordinance No. 0740-19, SERIES of 2019, informing
+your end that the measure is free from legal infirmity.
+Hence, it is recommended that the Ordinance be approved.
+ArrY. nnffi#[-cALlo, Rsw
+Acting es . City Legal Officer
+Approved by:
+ATTY. OSMU
+P. VrLIANUEVA, JR
+OIC- Asst. City Legal fficer
+Date approved: May t7, 20L9
+ord0Z4G 1 g_amatdnmt zottitg_2O 1 9 -N0 I 296_5- 1 Z- 1 g
+@tec
+A U
+OFFrcE OT?HE
+crry
+necetveo g\r
+DATE:
+TIME:
+c
+MARY
+cMO
+ot .0u
+AIDE IV
+LOC.
+t:
+E
+AY
+r rt{
+.iFFlSI U IIE SITY r;$ii$5tffi0ff
+GUY fif,u. f,frEt
+uilru cril I
+RgryIDS; 2v--'I
+_
+-"?E 2I 14AY 2019 n-"Tq &*
+w^a-\s
+I e
+,1AY ?01t
+
+R"Bo,'+i,"5$t'"TPdines
+May 7,2019
+-qn
+SARA Z. DUTERTE
+City Mayor
+Madam:
+\
+*l
+vqc
+(n.2ilqia1LQt P.t@
+469, Article One, Title Five,
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION
+Chapter 3, Book III and SECTION 54 of Book I Republic Act No. 7160, othenvise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+03160-19 and Ordinance No. O74O-L9, both SERIES of 2019 of the SANGGUNIANG
+Panlungsod, , for your information, guidance and appropriate action.
+Very truly yours,
+.,rftffd,ils*S,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Depaftment Head II)
+Co,:PtSDON0ENCt AND
+'ECOTDS
+DIV
+RECET\,ED
+CITY MAY(}R's OfFICg
+llAY O B 2OI9
+1J!{\
+BEP,
+-'twl
+MAllv r\.rtfrl
+ADMI.UST
+AtVAiADO
+lvt ArD€ lV
+\\( ' r't
+
+E'EPr_E.rJr_t og TIIE
+L:{TY il}'DA}'AO
+PHTLTErIItESI
+)Ls
+ri!
+.+Iltr4LL,l B. C.qELIS,{O
+ilE*'
+mErrigd anil a recid*nf of theCiry of Ilrvao, Philippinm! aftff duly swrn acccrdinE
+t* ltrs flispose and sa"Y:
+That I an thr _ rEtrog-E{-clilEr ee m}IDAHAO TlIt[BS, a
+nerr.spapff of gmeral cirrulation in Ere Philippines wiilr main office in &e Ci$ oI
+S-,sinc';
+That at theinstance
+IABA 2,.
+1\.[ayor
+Offrcenf &e
+!x!l_E
+tv of Datao
+cF.alE"_
+&r
+.1,
+1r
+18TH Citv Couucil 13th Resular S*ssicn SERIES sf 2[19
+{Jiviregnotice *f its
+= has beem pnblished in the MIFIO*I{.{0
+'ITII{ES f+r' Thre* ($ ismes anly as can be vg.iEd in its isues cf
+.{EEtrst 19.10 & ?t ?01S.
+ilq I-i{THESS 1ryHEREOF, I haveaffird ray signatm* this {th day af
+'s+l-asLq'', fl![gt
+Suksu{hrd and swtrEr to brfarre this
+-duy
+of
+of Fsra*. Philippfures, fhe alfian t +rhihi ting to ue h*r
+at &re CIr;'
+L
+F*r," Iu*. Is&
+;]tls+ f{4. fr
+Eui*:rtrr-il
+.5rrir:,r *{ t{Jt0
+0w. tr2. 0140 -v
+.L
+,
+
+18m Ciry Council
+13th Regular Session
+SERIES of 2019
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+I
+Republic of th" Philippines
+Bernard E. Al-ag
+Nilo M. Abellera Jr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Joann M. Bonguyan-Quilos
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Carmelo J. Clarion
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Edgar R. Ibuyan Sr.
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus
+Jaffar U. Marohomsalic
+Bonifacio E. Militar
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobrado III
+Presiding Officer
+- OB-Officer-in-Charge, City Mayor's
+Office
+- On Sick Leave
+aI
+ABSENT
+Edgar P. Ibuyan Jr.
+Avegayle Dalodo Oftiz
+ORDINANCE NO. O74O.L9
+SERIES of 2019
+AN ORDINANCE AMENDTNG SECTTON 1.3, ARTTCLE XIr, OF
+oRDINANCE NO. 0546-13, SERTES OF 2013, OTHERWISE
+KNOWN AS THE 'COMPREHENSIVE ZONING ORDINANCE
+oF DAVAO CrTY FOR 2013-2022',
+
+Ord. No. 0740-tg
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session assembled
+that:
+SECTION 1. TITLE - This Ordinance shall be known as 'AI{ ORDINANCE
+AMEilDING SECTION I.3, ARTICLE XII, OF ORDINANCE I{O. 0546.13, SERIES
+OF 2OL3, OTHERWISE KNOWN AS THE 'COMPREHEilSIVE ZONING
+ORDINANCE OF DAVAO CITY FOR 2013-2022"
+SECTION 2. AMENDMENT - SECTION 1.3, Article )fiI, of the Comprehensive
+Zoning Ordinance of Davao City for 2013-2022 shall be amended as foltows:
+1.3 REQUIREMENTS. The following requirements must be
+submitted in a request for additional allowable use:
+a. Barangay Council Resolution of No Objection;
+b. Barangay Development C,ouncil Resolution favorably
+indorsing the p@ecU
+c. City Enginee/s Office for drainage clearance;
+d. City Environment and Natural Resources for solid waste
+management plan;
+e. City Health Office for Sanitation Clearance;
+f. City Assessor's Office for new tax declaration;
+g. City Treasurer's Office for realty tax clearance;
+h. Davao City Water District for Certification of water supply
+availability (not applicable to Ietter I of Article KI,
+SECTION 1);
+i. Davao Light and Power Company for certification of power
+supply availability (not applicable to letter I of Article XII,
+SECTION 1);
+j. Mines and Geosciences Bureau for certification for
+possible geohazard and recommended mitigating
+measures;
+k. DENR-Environmental Management Bureau for waste
+treaUnent facilities and permit to discharge efifluents;
+l. Water Resource Management Councilfl-ask Force for
+Project within Water Resource Zone;
+m. Barangay Watershed Management Council and City
+Watershed Management Council for areas in Conseruation
+Zone;
+n
+Gnlf Cnnctrrrrtinn and
+Develnnment Cnmrnitfaa
+(applicable only to letter h of Article )fiI, SECTION t hereo0;
+o. CivilAviation Authority of the Philippines and PhiliBoine Air
+Force Command Davao City (applicable only to letter,lof
+Afticle )CI, SECTION t hereoO;
+p. Philippine Ports Authority (applicable only to letter k of
+Article )GI SECTION t hereoO;
+q. National Power Corooration Davao City (applicable only to
+letterc cand pof Article )GI. SECTION t hereofl:
+r. Davao City Disaster Risk Reduction Management Office for
+a Hazard and Risk Assessment (applicable only for
+infrastructure developments stated in Article )(II, SECTION
+t hereoO
+
+a
+Ord. No. 0740-L9
+SECTION 3. SEPARABILITY CLAUSE- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 4.
+-This Ordinance shall take effect after approval.
+ENACTED, April 2, 20L9, by 3/+ majority vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIRED CORRECT:
+ATTESTED:
+RNARD E
+Vice
+Presiding fficer
+cns/richard
+a,YMUJiAr"'
+Secretary to the Sanggun{ang Panglungsod
+(CiW Government Department HeaS)
+Y ltt
+,2 1 rnv eop
+ciU uavy
+2019
+ATTY.
+LEIKA
+ATTESTED:
+City Admi
+TOPEZ

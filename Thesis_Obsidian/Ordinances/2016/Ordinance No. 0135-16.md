@@ -1,0 +1,329 @@
+---
+title: "AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER. INTO AND SIGN, FOR AND IN BEHATF OF THE CITY GOVERNMENT OF DAVAO THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF HEALTH REGION XI AND THE CITY GOVERNMENT OF DAVAO, PERTAINING TO A PARTNERSHIP FOR A COTLABORATIVE APPROACH IN THE PROVISION OF SERVICES FOR THE EXPANSION OF THE R.EPRODUCTIVE HEALTH "
+ordinance_number: "0135-16"
+aliases: ["Ordinance No. 0135-16", "0135-16"]
+corpus_year: 2016
+folder_year: 2016
+resolved_year: 2017
+enactment_date: null
+approval_date: null
+series_year: null
+council_term: null
+session: ""
+sponsor: ""
+approving_mayor: ""
+presiding_officer: ""
+temporal_status: "review"
+confidence_score: 0.33
+resolution_source: "consensus"
+manually_verified: false
+included_in_corpus: true
+extraction_method: "Digital"
+page_count: 8
+word_count: 2387
+section_count: 10
+whereas_count: 5
+source_pdf: "C:\\Users\\My Pc\\Desktop\\ordinance-thesis-starter\\ordinance-thesis\\data\\raw\\2016\\Ordinance No. 0135-16.pdf"
+sha256: "07babbb08a72e652"
+indexed: "2026-09-19"
+tags: [ordinance, davao, year/2016, status/review, topic/granting, topic/legislative, topic/authority, topic/mayor, topic/enter, topic/sign]
+---
+
+# Ordinance No. 0135-16
+
+> AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO THE CITY MAYOR TO ENTER. INTO AND SIGN, FOR AND IN BEHATF OF THE CITY GOVERNMENT OF DAVAO THE MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE DEPARTMENT OF HEALTH REGION XI AND THE CITY GOVERNMENT OF DAVAO, PERTAINING TO A PARTNERSHIP FOR A COTLABORATIVE APPROACH IN THE PROVISION OF SERVICES FOR THE EXPANSION OF THE R.EPRODUCTIVE HEALTH 
+
+> [!question] Temporal status: review
+> Filed under 2016, resolved to 2017 at confidence 0.33.
+> No conflicting signals recorded.
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2017 |
+| Ordinance number suffix | 2016 |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2017** |
+
+## Cites or amends
+
+- [[Ordinance No. 0135-17]]
+
+## Context
+
+- Year index: [[_Index 2016]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 15,222 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2016\Ordinance No. 0135-16.txt`*
+
+r8s city Council
+1* Regular Session
+SERIES of 20t7
+PRESENT:
+Councilor
+Councilor
+Councilor'
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Edgar P. Ibuyan Jr.
+Nilo M. Abellera lr.
+Maria Belen S. Acosta
+Victorio U. Advincula Jr.
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Ma. Cherry Ann M. Bonguyan
+Pilar C. Braga
+Danilo C. Dayanghirang
+April Marie C. Dayap
+Jimmy G. Dureza
+Leah A. Librado-Yap
+Rene Elias C. Lopez
+Diosdado Angelo A. Mahipus Sr.
+Bonifacio E. Militar
+l. Melchor B. Quitain Jr.
+Marissa P. Salvador-Abella
+Halila Y. Sudagar
+Mary Joselle D. Villafuerte
+Jesus Joseph P. Zozobado III
+Paolo Z. Duterte
+Joanne M. Bonguyan-Quilos
+January N. Duterte
+Avegayle Dalodo Ortiz
+Antoinette G. Principe-Castrodes
+- Temporary Presiding Officer
+- On Domestic Emergenry Leave
+- On Maternity Leave
+- On Sick Leave
+- On Domestic Emergenry Leave
+- On Vacation Leave
+AT'SEN I:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+ORDINANCE NO. 0135-17
+SERIES of 2OL7
+AN ORDINANCE GRANTING LEGISLATIVE AUTHORITY TO
+THE CITY MAYOR TO ENTER. INTO AND SIGN, FOR AND IN
+BEHATF OF THE CITY GOVERNMENT OF DAVAO THE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY
+AND BETWEEN THE DEPARTMENT OF HEALTH REGION XI
+AND THE CITY GOVERNMENT OF DAVAO, PERTAINING TO
+A PARTNERSHIP FOR A COTLABORATIVE APPROACH IN
+THE PROVISION OF SERVICES FOR THE EXPANSION OF
+THE R.EPRODUCTIVE HEALTH AND WELTNESS CENTER
+UNDER THE CITY HEALTH OFFICE
+
+Ord. No.0135-17
+Be it ordained by the Honorable SANGGUNIANG Panlungsod of Davao City, in session
+assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as " AN ORDINANCE
+GRANTING LEGISI.ATIVE AUTHORIW TO THE CITY MAYOR TO ENTER INTO AND
+srGN, FOR AND rN BEHALF OF TllE CrTY GOVERNMENT OF DAVAO THE
+MEMORANDUM OF AGREEMENT TO BE ENTERED INTO BY AND BETWEEN THE
+DEPARTMENT OF HEALTH REGION XI AND THE CITY GOVERNMENT OF DAVAO,
+PERTAINING TO A PARTNERSHIP FOR A COTI.ABORATIVE APPROACH IN THE
+PROVISION OF SERVICES FOR THE EXPANSION OF THE REPRODUCTIVE HEALTH
+AND WELLNESS CENTER UNDER THE CITY HEATTH OFFICE.'
+SECTION 2. DECIARATION OF POLICY - Pursuant to the constitutional
+mandate that the State shall adopt an integrated and comprehensive approach to health
+development it is the City's policy to team up and pool resources with the national
+government to provide health seruices to all the people of Davao especially to the
+underprivileged, including those suffering from HIV and AIDS in order to prevent the spread
+of the said disease;
+SECTION 3. AUTHOR,ITY - The City Mayor is hereby granted legislative authority
+to sign, for and in behalf of the City Government of Davao, the Memorandum of Agreement
+to be entered into by and between the City Government of Davao and the Depaftment of
+Health Region XI pertaining to the collaborative approach in the provision of seruices for the
+expansion of the Reproductive Health and Wellness Center under the City Health Office;
+SECTION 4. REPEALING CLAUSE - Any existing Ordinance or any provision
+thereof inconsistent with the provisions of this Ordinance are hereby repealed;
+SECTION 5. SEPARABILITY CLAUSE - If for any reason any SECTION or provision
+of this Ordinance shall be declared unconstitutional or invalid, other sections of provisions
+hereof not affected by such declaration shall continue to be in full force and effect;
+SECTION 6. EFFECTil TfY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 10h of January 2017, by a unanimous vote of all the Members of
+the SANGGUNIANG present, there being a quorum.
+CERTIFIED CORRECT:
+dlweuk*
+Secretary to the Sangglniang Panlungsod
+(City Government Department Head II)
+Temporary
+ATTESTED;
+cns/jsdam
+t
+I
+
+Ord. No.0135-17
+nppnovro_Fts L L 2oll', zorz
+€2 City Mayor
+/
+ATTESTED:
+ATTY. ZUTEIKA
+City Admini*rator F
+
+MEMORANDUM OF AGREEMENT
+KNOW ALL MEN BY THESE PRESENTS
+That this Memorandum of Agreement (MOA) entered into this
+day of
+, 2O77,
+by and between:
+The DEPARTMENT OF HEATTH (DOH)- REGIONAI OFFICE Xl, a regional office in Davao Region of
+the executive department of the DOH Republic of the Philippines with principal office address at Bajada
+Avenue, Davao City, represented by its Regional Director Dr. Abdullah Dumama Jr, hereinafter referred
+to as the "DOH";
+-andCITY GOVERNMENT OF DAVAO, duly organized and existing by virtue of the Philippine Laws, with
+office address at San Pedro Street represented by its City Mayor, SARA Z. DUTERTE-CARPIO, hereinafter
+referred to as the " CIW GOVERNMENT OF DAVAO "
+WITNESSETH
+WHEREAS, pursuant to Administrative Order No. 18 SERIES of 1995 which standardized the clinical
+management of HIV and AIDS by mandating DOH- retained tertiary hospitals to establish an HIV and AIDS
+Core Team (HACD;
+WHEREAS, the DOH, as the lead agency of government in the Davao Region on HIV and AIDS prevention
+and control, identifies both government and private health facilities, including provincial and local
+government hospitals treatment hubs to provide services related to HIV and AlDS;
+WHEREAS, pursuant to SECTION 22, Article 1 RA 8504, otherwise known as " Philippines AIDS Prevention
+and Control Act of 1998," AN ACT PROMULGATING POLICIES AND PRESCRIBING MEASURES FOR THE
+PREVENTION AND CONTROL OF HIV/AIDS IN THE PHILIPPINES, INSTITUTING A NATIONWIDE HIV/AIDS
+INFORMATION AND EDUCATONAL PROGRAM, ESTABLISING A COMPREHENSIVE HIV/AIDS MONITORING
+SYSTEM, STRENGTHENING THE PHILIPPINE NATIONAL AIDS COUNCIL, AND FOR OTHER PURPOSES, which
+mandates all hospitals and other appropriate health care facilities, to establish an HIV and AIDS Core Team
+(HAC[)to oversee the implementation of policies and guidelines on all matters pertaining to HIV and AIDS
+in the healthcare setting, with the primary objectives of facilitating the provision of safe, comprehensive
+and compassionate care to persons living with HIV (PLHIV) and AIDS by properly trained personnel;
+mobilizing the impact of HIV infection on the patient and his/her family; and coordinating all efforts to
+prevent and control the transmission of HIV infection;
+WHEREAS, the City Health Office- Reproductive Health and Wellness Center (CHO-RHWC|, under the CITY
+GOVERNMENT OF DAVAO, is the city government health facility with a functional medical team whose
+members had undergone capacity building on the clinical management of HIV and AIDS;
+WHEREAS, the DOH supports the global initiative on Universal Access that facilities access to antiretroviral
+therapy and other services related to HIV and AIDS;
+NOW THEREFORE, for and in consideration of the foregoing premises, the parties hereto agreed as
+follows:
+l
+;
+\.1&
+I
+I
+I
+I
+f,
+*
+
+SECTION 1. OBJECTIVE
+1.1
+The objective of this Memorandum of Agreement is for DOH and City Health OfficeReproductive Health and Wellness Centre (CHO-RHWC) under the CITY GOVERNMENT OF DAVAO
+to Enter into a partnership for the collaborative approach in the provision of services related to
+HIV and AIDS including access to antiretroviral drugs for people living with HIV;
+t.2
+For CHO-RHWC to become one of the official DOH-designated satellite treatment
+hubs in the country that facilitates the provision of safe, comprehensive and compassionate care
+to HIV and AIDS patients;
+SECTION 2. GENERAL PROVISION
+2.L
+CHO-RHWC shall establish a mechanism and create policies and guidelines for HIV and AIDS within
+its facility;
+2.2
+CHO-RHWC shall designate a specific area/office/clinic for the medical team where services can
+be provided to patients including but not limited to HIV counselling and testing, clinical
+management, patient monitoring and other care and support services to people living with HIV
+and their family;
+CHO-RHWC shall allocate a desktop computer or laptop to be used exclusively for recording and
+maintenance of database of patients accessing HIV services at the family;
+CHO-RHWC shall utilize the reporting/monitoring tools prescribed by the DOH-NEC and submit
+the same to the DOH on a monthly basis;
+CHO-RHWC through its pharmacist shall monitor the stock level of antiretroviral drugs provided
+by the DOH to prevent stock outs;
+CHO-RHWC shall be responsible in the disposal of unutilized drugs for HIV provided by the DOH;
+CHO-RHWC shall ensure that the necessary protective equipment such as gloves, goggles and
+gown, shall be made available to all health care workers directly involved in the provision of
+services to PLHIV and similarly exposed personnel at alltimes;
+CHO-RHWC shall employ appropriate measures for TB infection control within its premises;
+CHO-RHWC shall make available services for post-exposure management for any health care
+workers with occupational exposure needing appropriate intervention, including provision of
+antiretroviral drugs as post- exposure prophylaxis per recommendation of the HACT;
+CHO-RHWC shall be an accredited provider of the Phil Health Outpatient HIV and AIDS Treatment
+(OHAT) Package and implement the same in accordance with the Phil Health Circular No. 10 s.
+2010;
+z.LL CHO-RHWC shall strictly adhere to the policies and guidelines of the DOH on matters pertaining
+to the implementation of HIV and AIDS program in the health care setting;
+Access of Antiretroviral Drugs:
+Any PLHIV in need of antiretroviral (ARV) drug upon the clinical evaluation of a trained physician
+in accordance with DOH Administrative Order (AO) 2014-0031or Policies and Guidelines on the
+Use of Antiretroviral Therapy Among People Living with Human lmmunodeficiency Virus (HlV) and
+HIV- exposed lnfants can access the said drugs at CHO-RHWC through the HACT. The PLHIV in
+need of ARV has to consult the HACT and will only be enrolled in antiretroviral therapy (ART) upon
+the recommendation of the HACT physician;
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+2.to
+lt
+;'J
+-L
+A
+I
+2.12
+l
+
+2.L3
+Antiretroviral drugs shall be given for FREE subject to the availability of supply, which can be
+availed of anytime at the CHO-RHWC. The DOH, through the NASPCP, shall allocate these drugs
+to the CHO-RHWC based on the current number of patients;
+2.14
+The CHO-RHWC shall be responsible in reporting adverse drug reactions to DOH, NASPCP, and
+BFAD on monthly basis;
+2.15
+CHO-RHWC shall only give a maximum of three (3) month's supply of these drugs to PLHIV on ART
+for treatment and adherence monitoring by the physician;
+2.16 Stored ARV at the CHO-RHWC can be used as post exposure prophylaxis only in case of
+occupational exposure of any healthcare workers, as per recommendation by the HACT.
+Antiretroviral drugs shall not be used as prophylaxis for any other forms of exposure;
+2.77
+CHO-RHWC shall store the antiretroviral drugs in a designated cabinet with lock and only a
+designated pharmacist/s or Nurse-in-charge shall have access to the key. Said pharmacist or
+Nurse-in-charge shall be responsible in the inventory of the drugs and preparation and submission
+of monthly stock inventory to the DOH through its Regional HIV and STI Coordinator;
+Hrv AND AIDS CORE TEAM (HAsr)
+2.L8 The CHO-RHWC HACI Chairperson shall lead the team of health professionals in the diagnostic,
+treatment and management of PLHIV. Appropriate referral shall be made for services not
+available within its health facility.
+2.19 The CHO-RHWC HACI shall ensure adherence to the provisions of RA 8504 and Davao City AIDS
+Ordinance. lt shall be responsible in ensuring confidentiality at all times. All health care providers,
+personnel, and other custodians of any medica! record, file, data, or test result at the CHO-RHWC
+shall strictly observe confidentiality in handling of all medical information, particularly the identity
+and status of persons with HIV;
+2.20
+Members of the CHO-RHWC HACT shall participate in capacity building activities to further
+enhance their knowledge, skills, and attitude towards effective care and management of patients
+and for proper information dissemination and education on HIV and AIDS, by participating in
+continuous medical edu

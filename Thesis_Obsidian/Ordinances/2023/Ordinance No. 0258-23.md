@@ -1,0 +1,326 @@
+---
+ordinance_number: "0258-23"
+title: "AN ORDINANCE OPERATIONATIZING REPUBLIC ACT NO. 10173 OR THE DATA PRTVACY ACT OF 2OI2 IN THE CITY GOVERNMENT OF DAVAO (ALSO KNOWN AS TltE DATA PRTVACY ORDTNANCE OF THE crry oF DAvAo), pRovrDrNG GUTDELTNES AND FUNDS THEREFOR Nilo M. Abellera Jr. Wilbefto E. Al-ag"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0258-23 Data Privacy Ordinance (2).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2023
+resolved_year: 2023
+corpus_year: 2023
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2023.0
+detected_ordinance_number_year: 2023.0
+detected_series_year: 2023.0
+detected_approval_year: 2023.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2023, status/valid, topic/operationatizing, topic/republic, topic/data, topic/prtvacy, topic/government, topic/tlte]
+---
+
+# Ordinance No. 0258-23
+
+> AN ORDINANCE OPERATIONATIZING REPUBLIC ACT NO. 10173 OR THE DATA PRTVACY ACT OF 2OI2 IN THE CITY GOVERNMENT OF DAVAO (ALSO KNOWN AS TltE DATA PRTVACY ORDTNANCE OF THE crry oF DAvAo), pRovrDrNG GUTDELTNES AND FUNDS THEREFOR Nilo M. Abellera Jr. Wilbefto E. Al-ag
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2023 |
+| Ordinance number suffix | 2023 |
+| Series header | 2023 |
+| Approval date | 2023 |
+| **Resolved** | **2023** |
+
+## Context
+
+- Year index: [[_Index 2023]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 18,133 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2023\Ordinance No. 0258-23 Data Privacy Ordinance (2).txt`*
+
+t
+Republic of fhe Philippines
+Office of tle Sangglrniang Panlungsod
+20th CiW Council
+26u Regular Session
+SERIES of 2023
+PRESENT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councllor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+Marissa S. Abella
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Jaffar U. Marohomsalic
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo0rtiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P.Zozobrado III
+- Presiding fficer
+ABSENT:
+Councilor
+Councilor
+ORDINANCE NO. 0258.23
+SERIES of 2023
+AN ORDINANCE OPERATIONATIZING REPUBLIC ACT NO. 10173 OR
+THE DATA PRTVACY ACT OF 2OI2 IN THE CITY GOVERNMENT OF
+DAVAO (ALSO KNOWN AS TltE DATA PRTVACY ORDTNANCE OF THE
+crry oF DAvAo), pRovrDrNG GUTDELTNES AND FUNDS THEREFOR
+Nilo M. Abellera Jr.
+Wilbefto E. Al-ag
+
+Ord. No.0258-23
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that
+SECTION 1. E!! - This Ordinance shall be known as "AN ORDINANCE
+OPERATIONALIZING REPUBLIC ACT NO. 10173 OR THE DATA PRryACY ACT OF 2OL2
+rN THE CrTy GOVERNI{ENT OF DAVAO (A|SO KNOWN AS THE DATA PRn ACY
+oRDTNANCE OF THE CrTy OF DAVAO), PROVTDTNG GUTDELTNES AND FUNDS
+TTIEREFOR".
+SECTIOil 2.
+- The terms used in the Data Privacy Act
+(DPA) and its Implementing Rules and Regulations (IRR), as amended, are adopted herein.
+SECTIOil 3. COVERAGE. - This Ordinance shall cover all depaftments and offices
+under the City Government of Davao.
+SECTION 4.
+- The following are the
+general duties and obligations of the City Government of Davao as a Personal Information
+Controller (PIC):
+A. Personal data shall be processed for purposes of facilitating the peformance of
+iE public functions and the provision of public seruices pursuant to its
+mandate. In all instances, it shall adhere to the general data privacy principles
+of transparency, legitimate purpose, and proportionality;
+B. Reasonable and appropriate safeguards shall be implemented for the protection
+of persona! data of data subjects of the CITY GOVERNMENT OF DAVAO,
+whether internal (officials, employees, job order, contract of service, casual,
+etc.) or external (clients, visitors, other stakeholders, etc.);
+C. The rights of the data subjects shall be upheld, subject to limitations as may be
+provided for by law. The free exercise of applicable rights shall be enabled
+through mechanisms that are clear, simple, straightforward, and convenient for
+the data subjects; and
+D. The data privacy rights of the affected data subjects shall be harmonized with
+the right to information on matters of public concern. It is recognized that both
+rights are imperative for transparenf, accountable, and pafticipatory
+governance, and are key factors for effective and reasonable public
+pafticipation in social, poliUcal, and economic decision-making.
+SECTIOI{ 5. SPECIFIC COMPLIAI{CE REQUIREMENTS. - The tullowing specific
+compliance requirements under the DPA, ib IRR as amended, and relevant issuances of the
+National Privacy Commission (NPC), are hereby set out as follows:
+A. Desionati6n of Persons Responsible- Pursuant to SECTION 2l of the DP&
+PIG shall designate individual/s who shall facilitate and ensure the PIC's
+responsibility and accountability for the organization's compliance with the
+DPA. The following are hereby designated:
+A.1. Data Protection Officer (DPO)-The City Mayor shall designate
+the DPO, through a memorandum, tasked with the duties and
+responsibilities of ensuring the compliance of the City Government of
+Davao with the DPA, its IRR, and other NPC issuances.
+I
+
+rt
+Ord. No. 0258-23
+It shall have the following functions:
+a. Monitor the Personal Information Controllers (PICs) or Personal
+Information Processors (PIPs) compliance with the Data Privacy Act
+(DPA), its Implementing Rules & Regulations (IRR), issuances by the
+National Privacy Commission (NPC) and other applicable laws and
+policies. For this purpose, he or she may:
+i. Collect information to identiff the processing operations,
+activities, measures, prcjects, programs, or systems of the PIC
+or PIP, and maintain a record thereof;
+ii. Analpe and check the compliance of processing activities,
+including the issuance of security clearances and compliance by
+third-pafi seryice providerc;
+iii. Inform, advise, and issue recommendations to the PIC or PIP;
+iv. Asceftain renewal of accreditations or ceftifications necessary to
+maintain the required standards in perconal data processing; and
+v. Advise the PIC or PIP as regards the necessity of executing a
+Data Sharing Agreement with third parties, and ensure its
+compliance with law.
+b. Ensure the conduct of Privary Impact Assessments (PIA) relative to
+activities, measures, projects, programs, or systems of the PIC or
+PIP;
+c. Advise the PIC or PIP regarding complaints and/or the exercise by
+data subjects of their rights (e.9,, requests for information,
+clarifications, rectification, or deletion of personal data);
+d. Ensure proper data breach and security incident management by the
+PIC or PIP, including the latter's preparation and submission to the
+NPC of repofts and other documentation concerning security
+incidents or data breaches within the prescribed period;
+e. Inform and cultivate awareness on privacy and data protection within
+the organization of the PIC or PIP, including al! relevant laws, rules
+and regulations and issuances of the NPC;
+f. Advocate for the development review and /or revision of policies,
+guidelines, projects and/or programs of the PIC or PIP relating to
+privacy and data protection, by adopting a privacy by design
+approach;
+g. Serue as the contact person of the PIC or PIP vis-i-vis data
+subjects, the NPC and other authorities in all matters concerning data
+privacy, security issues or concerns of the PIC or PIP;
+
+,
+Ord. No.0258-23
+Cooperate, coordinate, and seek the advice of the NPC regarding
+matters concerning data privary and security;
+Perform other duties and tasks that may be assigned by the PIC or
+PIP that will further the interest of data privacy and security and
+uphold the rights of the data subjects;
+The DPO or his or her authorized representative/s shall create the
+necessary user accounts in the applicable NPC system/s in
+compliance of the requirements for registration and personal data
+breach notification and management;
+The contact details of the DPO should be made available and easily
+accessible on the official website and social media page/s and
+should include the following infomration:
+a. Title or designation- the name of the DPO need not be
+published but should be made available upon request by a data
+subject:
+b. Postal address: and
+c. Dedicated telephone number and email address.
+The designated DPO shall be assisted by Compliance Officers for Privacy (COPs)
+and Data Privacy Committee created herein.
+A.2
+-There shall be a Compliance
+Officer for Privary (COP) per office, one (1) primary and one (1) alternate, who
+must be a Plantilla personnel, and duly covered by a memorandum from the
+Human Resource Management Office.
+Functions:
+1. Repoft to the DPO any data breach and security incident within the
+prescribed period;
+2. Inform and cultivate awareness on privacy and data protection within their
+respective offices;
+3. Suggest to the DPO the development, review and/or revision of policies,
+guidelines, projects and/or programs of the PIC or PIP relating to privacy
+and data protection;
+4. Serue as the focal person of their respective offices in all matters concerning
+data privacy or security issues; and
+5. Peform other duties and tasks that may be assigned by the DPO that will
+fufther the interest of data privacy and security and uphold the rights of the
+data subjects.
+h
+i.
+j
+k.
+
+Ord. No. 0258-23
+A.3 Data Privaor Committee-The Data Privary Committee (herein after
+referred to as the "Committee" for brevity) shall be primarily composed of the
+duly appointed representatives of the following offices:
+Chairpercon:
+City Mayor's Office
+Vice Chairpercon:
+City Legal Office
+Members:
+. City Administrator's Office
+. City Information and Technology Center
+. City Archives and Records Office
+. City Civil Registrar's Office
+. SANGGUNIANG Panlungsod, Committee on Information Technology
+. Human Resource Management Office
+. City Social Welfare and Development Office
+. City Health Office
+The City Mayor may, through an Executive Order, add additiona! members
+to the Committee, as may be deemed necessary.
+The members of the Data Privacy Committee shall perform functions as may
+be instructed by the City Mayor and/or the DPO, such as but not limited to,
+reviewing contracts involving processing of personal data and provide technical
+advice to the DPO based on their areas of expeftise.
+The presence of a simple majority of all the members of the Committee shall
+constitute a quorum.
+B. Conduct of Privaor Impact Assessment- AII departments and offices as
+process ownerc shall conduct a Privary Impact Assessment (PIA) on any
+personal data processing system prior to their adoption, use, or
+implementation.
+1. For existing systems, the DPO shal! be consulted by the respective
+process owners on the appropriateness of conducting a PIA and the
+reasonable timeframe to accomplish the same;
+2. For both existing and proposed systems, there may be a determination
+that the conduct of a PIA is not necessary if the processing involves
+minimal risks to the rights and freedoms of data subjects, taking into
+account the recommendations from the DPO. In making this
+determination, the following should be considered:
+a. Size and sensitivity of the personal data being processed;
+b. Duration and extent of processing;
+c. Likely impact of the processing to the life of the data subjecU and
+d. Possible harm in case of a personal data breach;
+
+Ord. No.0258-23
+3. The conduct of a PIA may be outsourced to a third-party service
+provider, as may be recommended by the DPO, subject to the laws,
+rules, and regulations applicable to government procurement;
+4. The relevant issuances and other information, education, and
+communication materials of the Nrc or PIA and other relevant
+issuances shall serue as additional guidance; and
+5. The results of the PIA conducted shall be made the basis for the
+preparation of the Privacy Management Program, the Privary Manual,
+and the crafting of the appropriate privary notices specific to the
+personal data processing activities being undertaken by the pertinent
+deparfirents and offices and other applicable policies relevant to data
+.privacy and security.
+C. Adootion of a Privacy Manaoement Prooram and Privacy ManualThe City Government of Davao shall prepare a Privacy Management Program,
+which shall contain, among others, the necessary policies and processes that
+remediates the gaps identified in the PIA and a Privacy Manual, as may be
+supplemented by the existing or prospective codes, guides, manuals, privacy
+notices, ordinances, policies and other documented information on processes
+that may deal with any data privacy matter.
+1. The DPO, the Committee, and the COPs shall be tasked to ensure that
+all relevant records and other documentation on data privacy are
+maintained and kept up to date; and
+2. The Privary Management Program and Privacy Manual shall be
+subject to regular review, evaluation, and updating, where
+appropriate, considering the best practices and national and/or
+international standards for data privary and security.
+D. Implementation of SecuriW Measures - Reasonable and appropriate
+organizational, technical, and phy

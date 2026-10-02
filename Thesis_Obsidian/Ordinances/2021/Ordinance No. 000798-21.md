@@ -1,0 +1,224 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT BY AND AMONG THE DEPARTMENT OF SCIENCE AND TECHNOLOGY.INDUSTRIAL TECHNOLOGY DEPARTMENT INSTITUTE PACKAGING AND TECHNOTOGY DrVrSrON, THE DEPARTMENT OF SCTENCE AND TECHNOLOGY-REGTONAL OFFTCE Xr, AND THE CrTY OF DAVAO RE]ATIVE TO THE PROJECT ENTITLED, *UPIGRADING THE CAP"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000798-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.1
+detected_enactment_year: null
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: 2021.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/sign, topic/behalf, topic/memorandum]
+---
+
+# Ordinance No. 000798-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT BY AND AMONG THE DEPARTMENT OF SCIENCE AND TECHNOLOGY.INDUSTRIAL TECHNOLOGY DEPARTMENT INSTITUTE PACKAGING AND TECHNOTOGY DrVrSrON, THE DEPARTMENT OF SCTENCE AND TECHNOLOGY-REGTONAL OFFTCE Xr, AND THE CrTY OF DAVAO RE]ATIVE TO THE PROJECT ENTITLED, *UPIGRADING THE CAP
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | - |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | 2021 |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+19th City Council
+44th Regular Session
+SERIES of 202L
+PRESENT:
+Sebastian Z. Dutefte
+Maria Belen S. Acosta
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Albefto T. Ungab
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. A!-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John l. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Vice Mayor
+Councilor
+- On Official Business
+- OB- Attended a meeting with
+the Commercial Attache' of
+SwiEerland
+- On Sick Leave
+Councilor Bonifacio E. Militar
+ORDINANCE NO. O798.2L
+SERIES of 2O2L
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY OF DAVAO, THE
+MEMORANDUM OF AGREEMENT BY AND AMONG THE
+DEPARTMENT OF SCIENCE AND TECHNOLOGY.INDUSTRIAL
+TECHNOLOGY DEPARTMENT INSTITUTE PACKAGING AND
+TECHNOTOGY DrVrSrON, THE DEPARTMENT OF SCTENCE AND
+TECHNOLOGY-REGTONAL OFFTCE Xr, AND THE CrTY OF DAVAO
+RE]ATIVE TO THE PROJECT ENTITLED, *UPIGRADING THE
+CAPABILITY OF EXISTING DISTRIBUTION CENTERS/TRADING
+POSTS IN THE DELIVERY OF FRESH AND SEMI.PROCESSED
+AGRICULTURAL PRODUCTS IN THE SUPPLY CHAIN: FOCUSING
+ON PACKAGING TECHNOLOGY AND LOGISTICS"
+
+?
+-t
+?
+Ord. No. 0798-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled, that:
+SECTION 1. TITTE - This Ordinance shall be known as "AN
+ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN,
+FOR AND IN BEHALF OF THE CITY OF DAVAO, THE MEMORANDUM OF
+AGREEMENT BETWEEN THE DEPARTMENT OF SCIENCE AND TECHNOLOGY.
+INDUSTRIAT TECHNOTOGY DEPARTMENT INSTITUTE PACKAGING AND
+TECHNOLOGY DIVISION, THE DEPARTMENT OF SCIENCE AND TECHNOTOGYREGIONAL OFFICE XI, AND THE CITY OF DAVAO RELATIVE TO THE
+PROJECT EI{TITLED, 'UPGRADING THE CAPABILITY OF EXISTING
+DISTRIBUTION CENTERS/TRADING POSTS IN THE DELIVERY OF FRESH
+AND SEMI.PROCESSED AGRICULTURAT PRODUCTS IN THE SUPPLY CHAIN:
+FOCUSING ON PACKAGING TECHNOLOGY AND IOGISTICS".
+SECTION 2. DECLARATIOil OF POLICY - SECTION 22 (a) (5) and (c) and
+SECTION 455 (b) (1) (vi) of Republic Act No. 7160, otherwise known as the Local
+Government Code of 1991 provide that:
+SECTION 22. Corporate Powers.-
+(a) Every local government unit, as a corporation, shall have the
+following powers:
+(5) To enter into contracts; and
+(c) Unless otherwise provided in this Code, no contract may be
+entered into by the local chief executive in behalf of the local
+government unit without prior authorization by the sanggunian
+concerned. A legible copy of such contract shall be posted at a
+conspicuous place in the provincial capitol or the city, municipal or
+barangay hall.
+"SECTION 455. Chief Executive; Powers, Duties and Compensation.-
+(b) For efficient, effective and economical governance the purpose of which
+is the general welfare of the city and its inhabitants pursuant to SECTION
+16 of this Code, the city mayor shall:
+)oo(
+rco(
+)oo(
+(1) Exercise general superuision and control over all programs, projects,
+seruices, and activities of the city government and in this connection,
+shall:
+)oo(
+)oo(
+(vi) Represent the city in al! its business transactions and sign in its behalf all
+bonds, contracts and obligations, and such other documents upon
+authority of the SANGGUNIANG Panlungsod or pursuant to law or
+ordinance";
+)oo(
+i
+
+Ord. No.0798-21
+SECTION 3. AUTHORITY - The City Mayor is hereby granted legislative
+authority to enter into and sign, the Memorandum of Agreement by and among the
+Depar0nent of Science and Technology- Industrial Technology Depailrnent Institute -
+Packaging and Technology Division, the Department of Science and TechnologyRegional Office )fi, and the City of Davao relative to the Project entitled, "Upgrading the
+Capability of Existing Distribution Centersflrading Posts in the Delivery of Fresh and
+Semi-Processed Agricultural Products in the Supply Chain: Focusing on Packaging
+Technology and Logistics".
+SECTIOil 4,
+- If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shal! continue to be in full force and
+effect
+SECTION 5.
+upon approva!.
+- This Ordinance shall take effiect immediately
+ENACTED, November 23, 202L, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ W,rh
+CHARITO N
+ATTESTED:
+ATTESTED:
+UNGAB
+City Councilor
+Temporary Presiding Officer
+cns/ray
+Secretary to the
+ng Panlungsod
+(City Government Depaflrnent Head IB,,z
+APPROVED. BEC ZB 2021
+202t
+SARA Z. DUTERTE
+e CitV trtavop
+z. DUTERTE
+Maror I
+ZULEI
+. LOPEZ
+Acdnq CW
+City AdministratorAN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN FOR AND IN BEHALF OF
+THE CITY OF DAVAO, THE MEMORANDUM OF AGREEMENT BY AND AMONG THE DEPARTMENT OF
+SCIENCE AND TECHNOLOGY-INDUSTRIAL TECHNOLOGY DEPARTMENT INSTITUTE - PACKAGING AND
+TECHNOLOGY DIVISION, THE DEPARTT\4ENT OF SCIENCE AND TECHNOLOGY- REGIONAL OFFICE XI,
+AND THE CITY OF DAVAO REI.ATIVE TO THE PROJECT ENTITLED, *UPGRADING THE
+CAPABIUTY OF DGSTING DISTRIBUTION CENTERSTTRADING POSTS IN THE DEUVERY OF FRESH
+AND SEMI-PROCESSED AGRICULTURAL PRODUCTS IN THE SUPPLY CHAIN: FOCUSING ON PACKAGING
+TECHNOLOGY AND LOGISTICS'

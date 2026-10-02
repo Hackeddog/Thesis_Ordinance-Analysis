@@ -1,0 +1,209 @@
+---
+ordinance_number: null
+title: "AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER IilTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEil THE CITY OF DAVAO AND TRAVELERS INN PERTAINING TO THE USE OF THE TATTER AS A QUARANTTNE AREA FOR COVrD-19 PATTENTS SUBIECT TO GOVERNMENT BUDGETING, ACCOUNTING AND AUDMNG RULES AilD REGUTATIONS OF THE "
+date_enacted: "2021-09-07"
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 000698-21.pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2021
+resolved_year: 2021
+corpus_year: 2021
+temporal_status: "valid"
+confidence_score: 0.45
+detected_enactment_year: 2021.0
+detected_ordinance_number_year: null
+detected_series_year: null
+detected_approval_year: null
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2021, status/valid, topic/authorizing, topic/mayor, topic/enter, topic/iilto, topic/sign, topic/behalf]
+---
+
+# Ordinance No. 000698-21
+
+> AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER IilTO AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND BETWEEil THE CITY OF DAVAO AND TRAVELERS INN PERTAINING TO THE USE OF THE TATTER AS A QUARANTTNE AREA FOR COVrD-19 PATTENTS SUBIECT TO GOVERNMENT BUDGETING, ACCOUNTING AND AUDMNG RULES AilD REGUTATIONS OF THE 
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2021 |
+| Ordinance number suffix | - |
+| Series header | - |
+| Approval date | - |
+| **Resolved** | **2021** |
+
+## Context
+
+- Year index: [[_Index 2021]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+('a
+Republic oi tne Philippines
+Ofrice of the SANGGUNIANG Panlungsod
+(
+19th ciry Cour.cil
+33d Regular Session
+SERIES of 202L
+PRESENT:
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Vice Mayor Sebastian Z. Dutefte
+Councilor Richlyn N.Justol-Baguilod
+Councilor Bonifacio E. Militar
+Edgar P. Ibuyan Jr.
+- Temporary Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilberto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Danilo C. Dayanghirang
+Jonard C. Dayap
+Edgar R. Ibuyan Sr.
+Pamela A. Librado-Morata
+Diosdado Angelo Junior R. Mahipus
+Jaffar U. Marohomsalic
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Albefto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+- On Offtcial Business
+- On Domestic Emergency Leave
+- On Sick Leave
+ORDINANCE NO. 0698.21
+SERIES of 2O2L
+AN ORDINANCE AUTHORIZING THE CITY MAYOR TO ENTER IilTO
+AND SIGN, FOR AND IN BEHALF OF THE CITY GOVERNMENT OF
+DAVAO, THE RENEWAL OF THE MEMORANDUM OF AGREEMENT
+(MOA) TO BE ENTERED INTO BY AND BETWEEil THE CITY OF
+DAVAO AND TRAVELERS INN PERTAINING TO THE USE OF THE
+TATTER AS A QUARANTTNE AREA FOR COVrD-19 PATTENTS
+SUBIECT TO GOVERNMENT BUDGETING, ACCOUNTING AND
+AUDMNG RULES AilD REGUTATIONS OF THE DEPARTMENT OF
+BUDGET AND MANAGEMENT (DBM), THE COMMTSSTON ON
+AUDrT (COA), THE PROCUREMENT LAW, AS WEIL AS OTHER
+APPLICABLE LAWS, ORDINANCES AND PRESIDENTIAL
+DIRECTIVES
+)
+
+Ord. No. 0698-21
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session
+assembled that:
+SECTION 1. TITLE - This Ordinance shall be known as "AN ORDINANCE
+AUTHORIZING THE CITY MAYOR TO ENTER INTO AND SIGN, FOR AND IN
+BEHALF OF THE CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE
+MEMORANDUM OF AGREEMENT (MOA) TO BE ENTERED INTO BY AND
+BETWEEN THE CITY OF DAVAO AND TRAVELERS INN PERTAINING TO THE
+usE oF THE LATTER AS A QUARANTTNE AREA FOR COVrD-19 PATTENTS
+SUBJECT TO GOVERNMENT BUDGETING, ACCOUNTING AND AUDITING
+RULES AND REGUTATIONS OF THE DEPARTMENT OF BUDGET AND
+MANAGEMENT (DBM), THE COMMTSSTON ON AUDrT (COA), THE
+PROCUREMENT tAW AS WELL AS OTHER APPUCABLE LAWS, ORDINANCES
+AND PRESIDENTIAL DIRECTIVES".
+SECTION 2.
+- SECTION 455 (b) (vi) of the Loca!
+Government Code of 1991 provides that:
+*SECTION 455. Chief Executive; Powerc, Duties and C.ompensation.
+(b) For efficient, effective and economical governance the purpose of
+which is the general welfare of the city and its inhabitants pursuant to
+SECTION 16 of this Code, the city mayor shall:
+(vi) Represent the city in all its business transactions and sign in its
+behalf all bonds, contracts, and obligations, and such other documents upon
+authority of the SANGGUNIANG panlungsod or pursuant to law or ordinance."
+sEcTIoN3.NI@-TheCityMayorisherebygrantedlegislative
+authority to enter into and sign, the renewal of the Memorandum of Agreement (MOA)
+to be entered into by and between the City of Davao and Travelers Inn pertaining to
+the use of the latter as a quarantine area for COVID-l9 patients subject to government
+budgeting, accounting and auditing rules and regulations of the Department of Budget
+and Management (DBM), the Commission on Audit (COA), the Procurement Law, as
+well as other applicable laws, Ordinances and presidential directives.
+SECTION 4. SEPARABILITY CIAUSE - If, for any reason, any SECTION or
+provision of this Ordinance is declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 5. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, September 7, 2021, by a unanimous vote of all the Members of the
+Sanggunian, there being a quorum.
+
+i
+Ord. No. 0698-21
+CERTIFIED CORRECT:
+^ 9liln
+CTIARITO \
+N.
+ATTESTED:
+EDGAR P. I
+R.
+President Pro Tempore
+Temporary Presiding Officer
+cns/johanna
+Secretary to the
+ng Panlungsod
+(City Government Depaftment Head IJ)
+h'l"oY
+APPROVE'. DEC O 2 202,I ,202L
+SARA Z.
+z City
+ACCOUNTING AND AUDMNG RULES AND REGUI.ATIONS OF THE DEPARTMENT
+MANAGEMENT (DBM), THE COMMISSION ON AUDIT (COA), THE PROCUREMENT LAW,
+APPLICABLE I.AWS, ORDINANCES AND PRESIDENTIAL DIRECTIVES
+ATTESTED:
+Acflng OtY
+ZULEI
+LOPEZ
+City
+AN ORDINANCE AUTHORIZING THE CTI'Y MAYOR TO ENTER INTO AND SIGN, FOR
+D IN BEHALF OF THE
+CITY GOVERNMENT OF DAVAO, THE RENEWAL OF THE MEMORANDUM OF
+ENTERED INTO BY AND BETWEEN THE CITY OF DAVAO AND TRAVELERS INN
+ENT (MOA) TO BE
+TO THE USE OF
+THE I.ATTER AS A QUARANTINE AREA FOR COVID-1g PATIENTS SUBJECT TO
+BUDGETING,
+BUDGET AND
+DUTERIE
+Mrynr X
+AS OTHER

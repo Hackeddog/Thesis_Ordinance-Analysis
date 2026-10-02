@@ -1,0 +1,199 @@
+---
+ordinance_number: "0632-24"
+title: "Ordinance No. 0632-24"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0632-24 Amend Ord.433-20 CCD (1).pdf"
+section_count: 6
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 0.8
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: null
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid]
+---
+
+# Ordinance No. 0632-24
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | - |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Cites or amends
+
+- [[Ordinance No. 0433-20]]
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+,
+;
+Oltrce of the SANGGUNIANG Panlungsod
+20u' City Council
+34s Regular Session
+Seris of 2024
+PRESEilT;
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilot'
+Councilor
+Councilor
+Councilor
+Councilor
+Cnunrilnr
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Marissa S. Abella
+Nilo M. Abellera Jr.
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Pilar C. Braga
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Diosdado Angelo Junior R. Mahipus
+Rodolfo M. Mande
+Krlstine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Alberto T. Ungab
+Lorenzo Benjamin D. Villafuefte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+f ar rasilat
+\,Vt.ll at-llvl
+Councilor
+Luna Maria Dominique S. Acosta
+Wilberto E. Al-ag
+Jessica M. Bonguyan
+Louie John J. Bonguyan
+Augusto Javier G. Campos III
+January N. Duterte
+- On Special Privilege Leave
+- On Special Privilege Leave
+- On Maternity Leave
+- On Vacation Leave
+- On Vacation Lea','e
+- OB- Attended the 2024 Liga
+ng mga Barangay Davao City
+Chapter Congress
+Councilor Richlyn N. Justol-Baguilod
+ORDINANCE NO. 0632.24
+SERIES of 2A24
+AN ORDTNANCE AMENDTNG ORDTNANCE NO. 0433-20, SERTES OF
+2O2O, PARTTCULARLY SECTTON 2 THEREOF, TO TNCLUDE rN rTS
+COVERAGE THE CANTEEN IN THE CITY COLLEGE OF DAVAO AND THE
+COFFEE SHOP IN THE SANGGUNIANG PANLUNGSOD BUILDING
+
+Ord No. A632-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City, in session
+assembled, that:
+SECTION 1. IE!! - This Ordinance shall be known as "AN ORDINANCE
+AMENDTNG ORDTNANCE NO. O433-2q SERTES OF 2O2O, PARTTCULARLY
+sEcTroN 2 THEREOF, TO TNCLUDE rN rTS COVERAGE THE CANTEEN rN THE
+CITY COLLEGE OF DAVAO AND THE COFFEE SHOP IN THE SANGGUNIANG
+PANLUNGSOD BUILDING".
+SECTION 2. AMENDMENT - SECTION 2 of Ordinance No. 0433-20, SERIES 2020,
+shall be amended as follows:
+From
+Afticle Three. - Fees for Library and Information Center
+SECTION 256. Imposition of Fees. - There shall be collected the
+following fees for the Davao City Library and Information Center:
+)m(
+d. Rental Fee for Use of Space in the City Library Building, Canteen
+in the City College of Davao Building, and the Coffee Shop in the
+SANGGUNIANG Panlungsod Building :
+1. Airconditioned - PhP 2Slsq.m./day
+2. Non-Airconditioned - Php 16.50/sq.m/day
+To
+Afticle Three. - Fees for Library and Information Center, City
+College of Davao, and SANGGUNIANG Panlungsod
+SECTION 256. Imposition of Fees. - There shall be collected the
+following fees for the Davao City Library and Information Center, City
+College of Davao, and SANGGUNIANG Panlungsod:
+)oo(
+d. Rental Fee for Use of Space in the City Library Building, City
+College of Davao Building, and SANGGUNIANG Panlungsod Building:
+1. Airconditioned - PhP 25lsq.m/day
+2. Non-Airconditioned - Php 16.50/sq.m/day
+SECTION 3. REPEALING CIAUSE. - AII Ordinances or poftions of Ordinances
+in conflict with this Ordinance, or inconsistent with the regulations of this Ordinance are
+hereby repealed to the extent necessary to give this Ordinance full force and effect.
+
+Ord No. 0632-2+
+SECTION 4. SEPARABILIW CLAUSE- If for any reason, any SECTION or
+provision of this Ordinance is held to be unconstitutional or invalid by a competent
+authority, such judgement or action shall not affect or impair the other sections or
+provisions hereof.
+SECTIOT{ S.EEEElgfAlIT\[ - This Ordinance shalltake effect FIFTEEN (15) DAYS
+after its publication in a newspaper of general circulation.
+ENACTED, on the 10h day of September 2024, by a unanimous vote of all the
+Members of the Sanggunian, there being a quorum.
+CERTIEIED CORRECT:
+For and in the absence of the Secretary:
+MA. rHERtffi. REYEs
+City Government Assistant Depaftment Head II
+(Assistant Secretary to the SANGGUNIANG Pantunssoa)
+ATTESTED:
+t. MEL#,a. eurrArN JR.
+/ Vice Mayor
+Presiding Officer
+mtar/kjtq
+APPROVED
+Noll I 1 202{
+Z. DUTERTE
+2024
+ci6r Mav22 v
+ATTESTED:
+ATTY
+H. 1AYOG
+City
+AN ORDTNANCE AMENDING
+NO. 0433-20, SERIES OF 2020, PARTICUIARLY SECTION 2
+THEREOF, TO INCLUDE IN IT5 COVERAGE THE CANTEEN IN THE Crry COLTEGE OF DAVAO AND THE
+COFFEE SHOP TN THE SANGGUNI,ANG PANLUNGSOD BUITDING

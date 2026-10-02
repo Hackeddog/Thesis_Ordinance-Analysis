@@ -1,0 +1,311 @@
+---
+ordinance_number: "0260-20"
+title: "AN ORDINANCE FOR THE ESTABLISHMENT OF A COVID.lg (coRoNAvIRUS DISEASE 2019) TESTING LABORATORY AT THE BARANGAY LOS AMIGOS URBAN HEALTH CENTER AND THE APPROPRIATION OF FUNDS THEREFOR Vice Mayor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Council"
+date_enacted: "2020-05-13"
+approval_date: "2020-06-05"
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0260-20.pdf"
+section_count: 8
+verification_status: "unverified"
+folder_year: 2020
+resolved_year: 2020
+corpus_year: 2020
+temporal_status: "valid"
+confidence_score: 0.33
+detected_enactment_year: 1991.0
+detected_ordinance_number_year: 2020.0
+detected_series_year: 2020.0
+detected_approval_year: 2020.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2020, status/valid, topic/establishment, topic/covid, topic/coronavirus, topic/disease, topic/testing, topic/laboratory]
+---
+
+# Ordinance No. 0260-20
+
+> AN ORDINANCE FOR THE ESTABLISHMENT OF A COVID.lg (coRoNAvIRUS DISEASE 2019) TESTING LABORATORY AT THE BARANGAY LOS AMIGOS URBAN HEALTH CENTER AND THE APPROPRIATION OF FUNDS THEREFOR Vice Mayor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Councilor Council
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 1991 |
+| Ordinance number suffix | 2020 |
+| Series header | 2020 |
+| Approval date | 2020 |
+| **Resolved** | **2020** |
+
+## Context
+
+- Year index: [[_Index 2020]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+' " ; ,: Rbpublic of the Philippines
+OFFICE OF THE CITY MAYOR
+s.{ r;is 1.(
+s Jvc
+I
+Ref- N& CldS2020{1398
+IDPDIGp
+ffigilffifhm
+Tr&:F
+2"d INDORSEMENT
+June 19,2A20
+Respectfully returned to Ms. Charito il. Santos, Secretary to the SANGGUNIANG
+Panlungsod, tl'ris City, the within l€gal Opinion No- 397, SERIES of 202A dated June 4,
+2fr20 of the City Legal ffice, relative to the attached Ordinance No. 0260-20, SERIES of
+2O2O entiUed, "AN ORDIilIAilICE TOR THE ES.TABUSHMENT OT A COVI}19
+(CoRoNAVIRUS DISEASE 2019) TESTTNG I-ABORATORY AT THE BARANGAY LOS
+AMIGOS URBAN HEALTH CENTER AND THE APPROPR,I,ATION OF R.|NDS THEREOF", fOT
+your informatlon and apBropriate adisn,
+For tfie City Mapr:
+ATTY. TRISTAN
+Assistant City
+(Administrction)
+l$t - tr, JUt{ 2 2n2fIV 6:10
+lrD
+Second Floor, City Hall Building, City Hall Drive, San Pedro St., Davao City
+(082) 224-3004 o (082) 241-1000 loc. 265 o davaocitymayor@gmail.com
+BSW @
+LIFE IS HERE
+l
+a,
+RELEAS
+D
+DIV
+tr
+AIDE
+
+RQublic of the Philippines
+OFFICE OF THE CITY LEGAL
+Tel. No.298-6970
+RE: ORDINANCE NO. 0260-20, SERIES OF 2020 entitled "AN
+ORDINANCE FOR THE ESTABLISHMENT OF A COVID-19
+(CoRONAVIRUS DISEASE 2019) TESTTNG LABORATORY AT THE
+BARANGAY LOS AMIGOS URBAN HEALTH CENTER, AND THE
+APPROPRIATION OF FUNDS THEREFOR"
+1't INDORSEMENT
+June 4, 2020
+Respectfully forwarded to the Office of the City Mayor, through the Office
+of the City Administrator, both this City-, the subject Ordinance, informing your
+end that the enactment of the same ls well within the powers of the
+SANGGUNIANG Panlungsod as provided for under SECTION 458 of the Republic Act
+7160 otherwise known as the Local Government Code of 1991.
+IN VIEW OF THE FOREGOING, this office recommends the approval of the
+same
+Trunk Line No. 241-10fl) toc
+Ref. No. CLO-2020-001483
+Approved
+ATTY. OSMUN
+P. VILANUEVA, JR.
+Acting City Legal Officer
+Date approved: June 5, 2020
+o rr[02 6t) 2t) _ fa 6o r,tt o ry copirf_[as. a n igos__2020 00 I t,\.)_ (t
+,,WAM
+Legal Opinion No
+SERIES of 2020
+1\,
+GALLO, RSW
+Legal Officer
+, -, !i,ll
+_r-.,rt'-1 , f
+ATTY. M
+Actlng
+City
+,i:t:sriffi sr_
+':x5* '0 I
+w6,
+3:
+cMO
+c
+MARY
+ALVARADO
+t0 v
+rv
+t: 24l.rolu LoC.
+JUN O
+UN
+zeLo. aisqg
+q-?+?
+
+May 28, 2020
+SARA Z. DUTERTE
+City Mayor
+Madam:
+.ua-oolleT P +ea
+Pursuant to Sub-SECTION 3, Paragraph C, SECTION 469, Article One, Title Five,
+Chapter 3, Book III and SECTION 54 Book I of Republic Act No. 7160, otherwise known
+as the Local Government Code of 1991, we are furnishing you a copy of Resolution No.
+Ott42-2O and Ordinance No. 0260-20, both SERIES of 2020 of the SANGGUNIANG
+Panlungsod, for your information, guidance and appropriate action.
+Very truly yours,
+$
+fl,{r"
+r lra
+,f{Mox'fu,,
+Secretary to the SANGGUNIANG Panlungsod
+(City Government Department Head II)
+ETECEIV-ED
+CMO. CRD
+t
+2020
+
+.
+Republie, of tl'te >hilippines
+City of Dlvao
+19th caty Council
+16th Regular Session
+SERIES of 2020
+PRESENT:
+Sebastian Z. Duterte
+- Presiding Officer
+Ralph O. Abella
+Nilo D. Abellera
+Maria Belen S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Wilbefto E. Al-ag
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Jessica M.Bonguyan
+Louie lohn l. BonguYan
+Pilar C. Braga
+Augusto Javier G. CamPos III
+Danilo C. Dayanghirang
+lonard C. Dayap
+Edgar P. Ibuyan Jr.
+Edgar R. Ibuyan Sr.
+Richlyn N. Justol-Baguilod
+Pamela A. Librado-Morata
+laffar U. Marohomsalic
+Bonifacio E. Militar
+Myrna G. L'Dalodo-Ortiz
+Antoinette G. Principe-Castrodes
+J. Melchor B. Quitain Jr.
+Atberto T. Ungab
+Mary Joselle D. Villafuefte
+Jesus Joseph P. Zozobrado III
+Nilo D. Abellera
+Diosdado Angelo Junior R. MahiPus
+ORDINANCE NO. 0260.20
+SERIES of 2O2O
+AN ORDINANCE FOR THE ESTABLISHMENT OF A COVID.lg
+(coRoNAvIRUS DISEASE 2019) TESTING LABORATORY AT
+THE BARANGAY LOS AMIGOS URBAN HEALTH CENTER AND
+THE APPROPRIATION OF FUNDS THEREFOR
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+ABSENT:
+Councilor
+Councilor
+h
+
+Ord. No. 0260-20
+Be it ordained by the Honorable SANGGUNIANG panlungsod of Davao City, in
+session assembled that:
+SEcTroN 1. TITLE- This ordinance shall be known as "AN oRDINANCE FoR
+THE ESTABLISHMENT OF A COVrD-19 (CORONAVTRUS DrsEAsE 2019)
+TESTING LABOR.ATORY AT THE BARANGAY tOS AMIGOS URBAN HEALTH
+CENTE& AND THE APPROPRIATION OF FUNDS THEREOF.-
+SECTION 2' DECLARATION OF POLICY - It is the policy of the State to adopt
+an integrated and comprehensive approacn to rreatth developr.nt *nLn shall endeavor
+to make essential goods, health and other social seruices available to all people at
+affordable cost. Towards this end, the city shall establish a covlD-lg testing laboratory
+to cater to the testing needs of the City and its neighboring cities and municipalities, and
+to meet the requirements of the Depaftment of Heilth for an expanded testing protocol.
+SECTION 3' DEFINITION OF TERMS - For the purpose of this ordinance, the
+following shall refer to:
+1. covlD-19 (coronavirus Disease 2019)-first repofted in wuhan city on
+December 2019 as a- cluster of pneumonia cases of unknown oiigin. with the
+increasing number of cases and deaths in various territories, the ivorld Health
+organization declared covlD-19 as a pandemic last March tt, zozo.
+2' COVID-19 testing laboratory- a health facility where COVID-19 testing (SARScov-2 detection) is done on a specimen from the numan uoJv to obtain
+information about the health status of a patient for the prevention, diagnosis
+and treatment of the disease.
+SECTION 4. OBJECTMS - The objectives of this Ordinance are as follows:
+1. To establish a DOH-licensed COVID-19 testing laboratory within Davao
+City, which will cater to the COVID-19 testing- requirements of the City
+and of Mindanao as required;
+2' To support and augment the testing capabilities of the Southern
+Philippines Medical center (spMC) and other DoH-licensed covlD-19
+testing laboratories;
+3. To provide prompt and accurate testing for COVID-19 and ensure rapid
+turnaround of resurts thereby reducing the waiting period in the
+diagnosis of suspected cases;
+4. To provide a venue for the training of personnet which shail
+su-bsequently be assigned in future COViD-19 testing laboratories that
+will be established.
+5. To address the urgent need for additional DoH-licensed testing
+laboratories, given the increasing number of covlD-lg cases in the
+country and the expected rise thereof in the coming months;
+6. To meet the requirements of the DoH in its expanded testing protocor.
+
+Ord. No. 0260-20
+SECTION 5. BUDGETARY ALLOCATION - The source of budget will be from
+the Bayanihan Grant and all other sources that may be provided by the city.
+SECTION 6. RESPONSIBILITIES - The City Government of Davao shall
+provide an adequate site at the Barangay Los Amigos Urban Health Center and shall
+appropriate the requisite budget for its establishment, staffing, administration and
+operation which shail conform to all the standards set by the Department of Health for
+such facility.
+SECTION 7. SEPARABILITY CLAUSE - If for any reason, any SECTION or
+provision of this Ordinance shall be declared unconstitutional or invalid, other sections or
+provisions hereof not affected by such declaration shall continue to be in full force and
+effect.
+SECTION 8. REPEALING CLAUSE - All Ordinances, Resolutions, Executive
+Orders, Memoranda and Administrative Regulations or pafts thereof, in conflict or
+inconsistent with the provisions of this Ordinance are thereby repealed, amended or
+modified accordingly.
+SECTION 9. EFFECTMTY - This Ordinance shall take effect immediately upon
+approval.
+ENACTED, on the 13th day of May 2020, by a unanimous vote of all the Members
+of the Sanggunian, there being a quorum.
+CERTIFIED CORRECT:
+^ t/rrv6^\ /,rCHARITO'N J SANTOS
+Secretary to the SangguniSng panlungsod
+(City Government Department Head W
+ATTESTED:
+SEBASTIAN Z. DUTERTE
+Vice Mayor g
+Presiding Officer
+cns/kjtq
+ZULEI
+blqlw
+APPRovED JUN 0 I 2020 . 2ozo
+z,
+UTERTE
+A'ITESTED:
+City Admini
+T
+cist Mavop

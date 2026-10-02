@@ -1,0 +1,392 @@
+---
+ordinance_number: "0617-24"
+title: "AN ORDINANCE AMEilDING THE FUNCTIONAL CHART OF THE CITY SOCIAL WELFARE AND DEVELOPMENT OFFICE (CSWDO), SPECTFICALIY"
+date_enacted: null
+approval_date: null
+category: null
+status: null
+source: null
+source_file: "Ordinance No. 0617-24 CSWDO Functional Chart (1).pdf"
+section_count: 7
+verification_status: "unverified"
+folder_year: 2024
+resolved_year: 2024
+corpus_year: 2024
+temporal_status: "valid"
+confidence_score: 1.0
+detected_enactment_year: 2024.0
+detected_ordinance_number_year: 2024.0
+detected_series_year: 2024.0
+detected_approval_year: 2024.0
+verified_by: null
+resolution_source: "consensus"
+topic_id: null
+topic_label: null
+section_identifiers: null
+embedding_status: null
+tags: [ordinance, davao, year/2024, status/valid, topic/ameilding, topic/functional, topic/chart, topic/social, topic/welfare, topic/development]
+---
+
+# Ordinance No. 0617-24
+
+> AN ORDINANCE AMEilDING THE FUNCTIONAL CHART OF THE CITY SOCIAL WELFARE AND DEVELOPMENT OFFICE (CSWDO), SPECTFICALIY
+
+## Temporal signals
+
+| Signal | Year |
+| --- | --- |
+| Enactment date | 2024 |
+| Ordinance number suffix | 2024 |
+| Series header | 2024 |
+| Approval date | 2024 |
+| **Resolved** | **2024** |
+
+## Context
+
+- Year index: [[_Index 2024]]
+- Corpus overview: [[_Corpus MOC]]
+
+## Cleaned text
+
+*Truncated to 12,000 of 12,649 characters. Full text: `C:\Users\My Pc\Desktop\ordinance-thesis-starter\ordinance-thesis\data\processed\clean_text\2024\Ordinance No. 0617-24 CSWDO Functional Chart (1).txt`*
+
+Offrce of the SANGGUNIANG Panlungsod
+2oth city Council
+31* Regular Session
+SERIES of 2024
+PRESEilT:
+Vice Mayor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+Councilor
+J. Melchor B. Quitain Jr.
+- Presiding Officer
+Nilo M. Abellera Jr.
+Luna Maria Dominique S. Acosta
+Bai Hundra Cassandra Dominique N. Advincula
+Bernard E. Al-ag
+Wilberto E. Al-ag
+Al Ryan S. Alejandre
+Dante L. Apostol Sr.
+Conrado C. Baluran
+Louie John J. Bonguyan
+Pilar C. Braga
+Augusto Javier G. Campos III
+Jonard C. Dayap
+Edgar P. Ibuyan Jr.
+Richlyn N. Justol-Baguilod
+Diosdado Angelo Junior R. Mahipus
+Kristine May John Abdul Mercado
+Bonz Andre A. Militar
+Temujin B. Ocampo
+Myrna G. L'Dalodo-Oftiz
+Albefto T. Ungab
+Lorenzo Benjamin D. Villafuerte
+Trisha Ann J. Villafuerte
+Jesus Joseph P. Zozobrado III
+Marissa S. Abella
+Jessica M. Bonguyan
+January N. Duterte
+Rodolfo M. Mande
+ABSENT:
+Councilor
+Councilor
+Councilor
+Councilor
+- On Sick Leave
+- On Maternity Leave
+- On Officia! Business
+- On Official Business
+ORDINANCE ilO. O6L7.24
+SERIES of 2024
+AI{ ORDII{ANCE AMENDING THE FUilCTIONAL CHART OF THE
+crrY socrAl WELFARE AND DEVELOPMENT OFFTCE (CSWDO),
+spEcrFrcALLY, sEcrroil I oF oRDTNANCE NO. 2374-94, SERTES
+oF 1994
+
+Ord. No. 06L7-24
+Be it ordained by the SANGGUNIANG Panlungsod of Davao City in session assembled,
+that:
+SECTION 1. SH9RT.EIIE - This Ordinance shall be known as 'AN
+ORDINANCE AMEilDING THE FUNCTIONAL CHART OF THE CITY SOCIAL
+WELFARE AND DEVELOPMENT OFFICE (CSWDO), SPECTFICALIY, SECTION 1 OF
+oRDTNANCE I{O. 2374-94, SERTES OF L994',.
+SECTIOil 2.
+- The City Social
+Services and Development Office (CSSDO) is the Iocal social welfare arm of the CiU
+Government of Davao mandated to provide basic social welfare programs and services to its
+disadvantaged citizenry. CSSDO was devolved and decentralized to the City Government of
+Davao on October L, 1992, pursuant to Republic Act 7L60 and City Ordinance No. 2374,
+SERIES of t994, which approved the organizational structure and staffing pattern of the City
+of Davao in order for local government units (LGUs) to exercise greater autonomy in
+providing basic social welfare programs and seruices. The deparffnent name was amended
+and renamed in 2019 as the City Social Welfare and Development Office (CSWDO).
+A. Batas Pambansa Blg. 337 | Batasang Pambansa, Februaty 10, 1983
+*An Act Enacting a Local Government Code"
+Chapter Four, Afticle Five. The City Social Services and Development
+Officer
+SECTION 192. Appointmen! Qualifications, Compensation, Powerc and
+Duties
+The City Social Seruices and Development Officer (CSSDO) shall be
+appointed by the city mayor, subject to civil seruice Iaw, rules, laws
+and regulations. Qualifications of CSSDO are as listed and
+compensation is determined by law or Ordinance. Functions and
+duties are enumerated in this SECTION.
+B. Republic Act No. 7160, otheruvise known as the Local Government Code
+of 1991, Afticle Thifteen, SECTION 4/8,3, "The Social Welfare and
+Development Officeri SECTION 483. Qualifications, Powers and Duties.
+The specific SECTION of Republic Act No. 7160 (Local Government Code of
+1991) states the specific functions of the Social Welfare and Development
+Officer, and the SECTION fufther elaborates that "The appointment of a social
+welfare and development officer is mandatory for provincial and city
+governments, and optional for municipal government.
+C. Republic Act No. TLG[ Title Four - Final Provisions, SECTION 534
+Repealing Clause
+Batas Pambansa Blg. 337, otherwise known as the Local Government Code,
+Executive Order No. 112 (1987), and Executive Order No. 319 (1988), are
+hereby repealed.
+D. Ordinance No. 2374, SERIES of 1994
+Ordinance No. 2374, SERIES of L994, entitled "An Ordinance Approving the
+Organizational Structure and Staffing Pattern of the City of Davao, and for other
+purposes" approved the three (3) volumes of Report namely:
+
+Ord. No. 06L7-24
+a. Volume I - consisting of the Reorganization (includes the Functional Chart).
+b. Volume II - consisting of the specific Findings/Repofts of all offices of the City
+Government of Davao.
+c. Volume III
+consisting of the Minutes of meetings/dialogues of all
+departments/offices of the City Government of Davao.
+E, Ordinance No. O232t SERIES of 2019
+An Ordinance Renaming City Social Seruices and Development Office (CSSDO) to City
+Social Welfare and Development Office (CSWDO).
+F. Functionat Chart of City Social Services and Development Office in Ordinance No.
+2374, SERIES of 1994:
+SECTION 3.
+.
+OTY SOCIAL SERVICES AND DEVELOPI,,IENT OFFICE
+FUNCNONAL CHART
+CITY SOCIAL
+Blg. 337, othcrwisc knm as the Lcal Govcmment Codc, other law, rule and
+ASST. CITY SOCIAL SERVICES AND DEVELOPMENT OFFICER
+Performs Furrtions enumeraEd
+Scction 192
+Fve
+Assist thc City Social S.ruicc and Developmcnt fficc in the plannirp dircction,
+c@rdination and supcrvision, including monitoring and cvaluaEon of various saial
+s€rviccs, programs and projccts.
+ADMINISTRATIVE DMSION
+Dir.cting and supcMsing thc administrative
+functions of the office rclativc to reords
+managcmcnt, pcMnd adminisffiion, supply and
+property utilization, janitorial scruices, maintcnarce
+and repair; scrvcs as thr ccntcr of communication,
+fomulatcs adminisHivc policig s as to improve
+existing systems and proccdurcs for effective and
+c-fficilnt dcliverv of *ilic6.
+SOCIAL SERVICES OPERATIONS DMSION
+1. Providc technhl suppo.t to disbict offices on
+communiv organizatim, family, chiH, youth,
+rcmen and cldcdy, livdihood progam;
+2. Monitoring/saluations;
+3. Devclop skatcaics/intcryentjons;
+4. Consolidaks program reports; ard
+5. Maintain Progmm Data RcaourcB.
+of
+Supcruis
+pEschoolc/s
+in thc
+Cmduct and submit pqiodic
+monitoring, ryalution of rcports
+progEms and prcjccts.
+*hoob annual progams and activitics
+and its implcm.ntation; conducts
+*minars for thc tcachcr's growth.
+potentialsi prepaE
+(MsorffilffiDErxF
+PtQtBrcOmfr
+Irl'mD]mq
+lruDErufr
+lffiOEIUS
+ffid{
+wBo lMDmn
+lBruooErocr
+1. ProgEm implemcntation/dirKt *ruice delivcry. 2. Conduct community organization in deprcsed areas; 3. ImPlemcnt smial vrclfarc
+and scruicG at thc community lcvd (famiv, child, youth, ctc); 4. Est blish nctvrcrk of rcsourccs for $rt/ at the distuict lcvd; 5. Conducts
+conrrcntion (disbict lwel); 6. Pr.parc/submit p.riodic and spccial rcports.
+ProgEms
+sminaE,
+PRE-SCHOO|.ER
+Batas Pambansa Blg. 337
+CSSDO
+CSWDO
+Also known as the Local Government Code of 1983,
+An Act Enacting a Local Government Code, dated
+February 10, 1983, and repealed by Republic Act No.
+7t60
+City Social Seruices and Development ffice
+City Social Welfare and Development Office
+
+Ord. No. 06L7-24
+Preschool
+Republic Act No. 7160
+Social Seruice
+Social Welfare
+"Of or relating to children who are between about
+three to five yearc old and have not yet gone to
+school, and their activities'L (from Cambridge
+Dictionary)
+Republic Act 7160 or the Local Government Code of
+1991 of the Republic of the Philippines
+"An activity designed to promote social well-being." -
+(from Merriam-Webster)
+"Organized public or private social services for the
+assistance of disadvantaged groups."-(from MerriamWebster)
+SECTION 4. AMENDMENTS TO THE FUNCTIONAL CHART OF ORDINANCE
+NO. 2374, SERIES of 1994 - The attached Functional Chart of the City Social Seruices and
+Development Office in Ordinance No. 2374, SERIES of 1994, shall be amended as follows:
+1. The City Social Services and Development fficer in the attached functional chart of the
+City Social Seruices and Development ffice of Ordinance No. 2374, SERIES of L994, shall be
+amended as City Social Welfare and Development Officer, and its functions and duties are
+also amended.
+Ordinance No. 2374 s. 1994
+City Social Seruices and Development
+Officer
+Peforms functions enumerated under
+SECTION 192, Article Five (5) of Batas
+Pambansa Blg. 337, otherwise known as
+the Local Government Code, other laws,
+rules and requlations.
+Amended To:
+City Social Welfare and Development
+Officer
+Powerc, duties and functions of a City
+Social Welfare and Development
+Officer is hereby enumerated under
+Republic Act No. 7160, Afticle Thifteen,
+and SECTION 483.
+2. Assistant City Social Services and Development Officer in the attached functional chart of
+the City Social Seruices and Development ffice of Ordinance No. 2374, SERIES of 1994,
+shall be amended to Asst. City Social Welfare and Development Officer.
+3. The functions of the Administrative Division in the attached functional chart of the City
+Social Seruices and Development Office of Ordinance No. 2374, SERIES of t994, shall be
+amended as stated below:
+Oldinance No.
+SERIES of 1994
+Amended To:
+Administrative Division
+Administrative Division
+Directing and superuising administrative
+functions of the office relative to
+records management, personnel
+administration, supply and propefi
+utilization, janitorial services,
+maintenance and repair; Serues as the
+center of communication, formulates
+administrative policies so as to improve
+existing systems and procedures for
+effective and efficient delivery of
+seruices.
+. Plans and coordinates propefi
+supply management, such as
+supplies/propefi procurements,
+Supply Utilization, Property and
+Equipment maintenance;
+. Budget preparation;
+. Monitors funds;
+. Control on the flow of financial
+operations, and matters involving
+personnel administration;
+
+Ord. No. 06t7-24
+. Improvement and maintenance of
+employee relations;
+. Performs other duties and functions
+as may be prescribed by law or
+Ordinance.
+4. The Social Seruices Operation Division (SSOD) in the attached functional chaft of the
+City Social Services and Development Office of Ordinance No. 2374 shall be amended to
+Social Welfare Operations Division (SWOD). The duties and functions of the Social
+Seruices Operation Division (SSOD) shall be amended as stated below:
+Ordinance No. 2374 s, 1994
+Amended To:
+Social Services Operations Division
+1. Provide technical support to district
+offices on community organization,
+family, child, youth, women and
+elderly, livelihood program.
+2. Mon itori ng/evaluations;
+3. Develop strategies/interuentions;
+4. Consolidates Program Reports; and
+5. Maintain Program Data Resources.
+Social Welfare Operations Division
+. Plans, monitors, validates and
+provides technical inputs on the
+following programs: Family,
+Community Welfare, Persons with
+Disability, Women, Senior Citizens,
+and Emergencies;
+. Interprets and translates application
+of philosophy, policies, procedures,
+standards, methods and techniques;
+. Recommends modification for the
+effective implementation and
+administration of social welfare
+programs and services in the city;
+. Coordinates with other agencies,
+government organizations, and nongovernment organizations, for other
+related programs.
+. Peforms other duties and functions
+as may be prescribed by law or
+Ordinance.
+5. The Pre-Schooler Division in the attached functional chart of the City Social Services
+and Development Office of Ordinance No. 2374, SERIES of 1994, shall be amended to
+Child and Youth Welfare Division. Duties and functions of the division shall be
+amended as stated below.
+Child and Youth Welfare Division
+a
+Plans, monitors, validates and
+provides technical inputs on
+Children and Youth Welfare
+Programs;
+Pre-Schooler Division
+Supervises in the development of preschooler's potentials; prepares school's
+annual programs and activities and its
+implementation; conducts seminars for
+the teacher's growth.
+Oldinance No. 237
+SERIES of 1994
+Amended To:
+
+Ord. No. 06L7-24
+. Study problems relative to the needs
+of vulnerable children in the city and
+interprets policies, procedures,
+standards on child care and
+placement seruice.
+. Performs other duties and functions
+as may be prescribed by law or
+Ordinance.
+SECTION 5. R"EPEALING CLAUSE. - All Ordinances, Resolutions, Erecutive
+Orders, Memoranda and other issuances in conflict with the provisions of this Ordinance are
+hereby repealed or modifi
