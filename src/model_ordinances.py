@@ -16,6 +16,7 @@ import json
 import logging
 import random
 import re
+import time
 from pathlib import Path
 
 import numpy as np
@@ -43,11 +44,16 @@ def arguments():
     p.add_argument("--models", choices=["both", "semantic", "lexical"], default="both")
     p.add_argument("--encoder", default="nlpaueb/legal-bert-base-uncased")
     p.add_argument("--device", default="auto", help="auto, cpu, cuda, cuda:0, or mps")
+    p.add_argument("--semantic-cache", type=Path, help="Previous semantic output directory; validated by text hash and encoder settings")
+    p.add_argument("--encoder-revision", default="main", help="Hugging Face revision; use a commit SHA for frozen reruns")
+    p.add_argument("--start-year", type=int, default=2016)
+    p.add_argument("--end-year", type=int, default=2025)
     p.add_argument("--batch-size", type=int, default=8)
     p.add_argument("--max-tokens", type=int, default=512)
     p.add_argument("--svd-components", type=int, default=100)
     p.add_argument("--neighbors", type=int, default=15)
     p.add_argument("--umap-components", type=int, default=5)
+    p.add_argument("--min-dist", type=float, default=0.0)
     p.add_argument("--min-cluster-size", type=int, default=10)
     p.add_argument("--min-samples", type=int, default=5)
     p.add_argument("--min-df", type=int, default=2)
@@ -335,8 +341,12 @@ def semantic_vectors(docs, args):
             raise ValueError("CUDA was requested but is not available")
         if device == "mps" and not mps_available:
             raise ValueError("MPS was requested but is not available")
-    tokenizer = AutoTokenizer.from_pretrained(args.encoder)
-    encoder = AutoModel.from_pretrained(args.encoder).to(device).eval()
+    # Limit CPU oversubscription on desktop machines; no effect on model weights.
+    torch.set_num_threads(min(4, torch.get_num_threads()))
+    # prepare_for_model(ids, return_special_tokens_mask=True) requires the slow
+    # tokenizer API; fast tokenizers reject already_has_special_tokens=False.
+    tokenizer = AutoTokenizer.from_pretrained(args.encoder, revision=args.encoder_revision, use_fast=False)
+    encoder = AutoModel.from_pretrained(args.encoder, revision=args.encoder_revision).to(device).eval()
     limit = min(args.max_tokens, getattr(encoder.config, "max_position_embeddings", args.max_tokens))
     if tokenizer.model_max_length < 1000000:
         limit = min(limit, tokenizer.model_max_length)
@@ -369,7 +379,7 @@ def semantic_vectors(docs, args):
                 raise ValueError(f"No content tokens at row {i + 1}")
             all_vectors.append((summed / total).numpy())
             chunk_counts.append(len(chunks))
-            if (i + 1) % 100 == 0:
+            if (i + 1) % 20 == 0:
                 LOG.info("Encoded %s/%s sections", i + 1, len(docs))
     vectors = normalize(np.vstack(all_vectors)).astype("float32")
     meta = {"encoder": args.encoder, "resolved_model_revision": getattr(encoder.config, "_commit_hash", None),
@@ -380,6 +390,23 @@ def semantic_vectors(docs, args):
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
     return vectors, meta
+
+
+def cached_semantic_vectors(docs, args):
+    """Reuse only embeddings with identical ordered text and encoding settings."""
+    fingerprint = hashlib.sha256(json.dumps(docs, ensure_ascii=False).encode("utf-8")).hexdigest()
+    identity = {"ordered_text_sha256": fingerprint, "encoder": args.encoder,
+                "encoder_revision_requested": args.encoder_revision, "max_tokens_requested": args.max_tokens}
+    if args.semantic_cache:
+        meta = json.loads((args.semantic_cache / "model_metadata.json").read_text(encoding="utf-8"))
+        if any(meta.get(key) != value for key, value in identity.items()):
+            raise ValueError("Semantic cache does not match input text/order or encoder settings")
+        vectors = np.load(args.semantic_cache / "section_vectors.npy", allow_pickle=False)
+        if vectors.ndim != 2 or len(vectors) != len(docs) or not np.isfinite(vectors).all():
+            raise ValueError("Invalid cached semantic vectors")
+        return vectors, {**meta, "cache_used": True}
+    vectors, meta = semantic_vectors(docs, args)
+    return vectors, {**meta, **identity, "cache_used": False}
 
 
 def keyword_metrics(topic_words, counts, terms, top_n):
@@ -447,7 +474,7 @@ def clustering_stability(vectors, primary_labels, args):
     for run in range(1, args.stability_runs):
         reducer = UMAP(n_neighbors=min(args.neighbors, len(vectors) - 1),
                        n_components=min(args.umap_components, len(vectors) - 2),
-                       min_dist=0.0, metric="cosine", init="random",
+                       min_dist=args.min_dist, metric="cosine", init="random",
                        random_state=args.seed + run, n_jobs=1)
         clusterer = HDBSCAN(min_cluster_size=args.min_cluster_size, min_samples=args.min_samples,
                             metric="euclidean", cluster_selection_method="eom",
@@ -497,7 +524,7 @@ def fit_branch(name, vectors, df, counts, terms, frozen, args, meta):
         raise ValueError(f"{name} produced a non-finite or zero-length vector.")
     reducer = UMAP(n_neighbors=min(args.neighbors, len(df) - 1),
                    n_components=min(args.umap_components, len(df) - 2),
-                   min_dist=0.0, metric="cosine", init="random", random_state=args.seed, n_jobs=1)
+                   min_dist=args.min_dist, metric="cosine", init="random", random_state=args.seed, n_jobs=1)
     clusterer = HDBSCAN(min_cluster_size=args.min_cluster_size, min_samples=args.min_samples,
                         metric="euclidean", cluster_selection_method="eom", prediction_data=True,
                         core_dist_n_jobs=1)
@@ -576,6 +603,8 @@ def fit_branch(name, vectors, df, counts, terms, frozen, args, meta):
     np.save(out / "umap_vectors.npy", reducer.embedding_)
     model_metrics = keyword_metrics(words, counts, terms, args.top_words)
     model_metrics["cv_coherence"] = cv_coherence(words, docs, args.top_words)
+    model_metrics["cv_note"] = "c_v on unigram topic terms only; pilot uses unigram vocabulary for complete comparability"
+    model_metrics["cv_excluded_phrase_terms"] = sum(" " in w for t, ws in words.items() if t != -1 for w in ws[:args.top_words])
     model_metrics["topic_coverage"] = float((labels != -1).mean())
     model_metrics["stability_ari_mean"] = clustering_stability(vectors, labels, args)
     metrics = {"model": name, "sections": len(df), "topics_excluding_outliers": len(set(labels) - {-1}),
@@ -606,6 +635,10 @@ def main():
         raise ValueError("Dimensions/counts must be positive; neighbors and min-cluster-size must be at least 2.")
     if not 0 < args.max_df <= 1:
         raise ValueError("--max-df must be in (0, 1].")
+    if not 0 <= args.min_dist <= 1:
+        raise ValueError("--min-dist must be in [0, 1].")
+    if args.start_year > args.end_year:
+        raise ValueError("--start-year must not exceed --end-year.")
     if args.prepare_only and args.validate_only:
         raise ValueError("Choose either --prepare-only or --validate-only, not both.")
     if not args.input.exists():
@@ -622,6 +655,8 @@ def main():
     else:
         df = load_sections(args)
         manifest = [{"source_note": args.input.name, "sha256": hashlib.sha256(args.input.read_bytes()).hexdigest()}]
+    if not df.empty and not df.year.astype(int).between(args.start_year, args.end_year).all():
+        raise ValueError("Input includes years outside the declared study window; curate explicitly before running.")
     # Preparation is allowed for a single ordinance and writes audit reports even if no usable sections remain.
     if not args.validate_only:
         if args.output.exists() and (not args.output.is_dir() or any(args.output.iterdir())):
@@ -668,10 +703,12 @@ def main():
     selected = ["lexical", "semantic"] if args.models == "both" else [args.models]
     for name in selected:
         LOG.info("Starting %s model", name)
+        started = time.perf_counter()
         if name == "lexical":
             vectors, meta = lexical_vectors(counts, args)
         else:
-            vectors, meta = semantic_vectors(df.text.tolist(), args)
+            vectors, meta = cached_semantic_vectors(df.text.tolist(), args)
+        representation_seconds = time.perf_counter() - started
         meta = {**meta,
                 "clustering_representation": ("document-level TF-IDF + TruncatedSVD"
                                               if name == "lexical" else "Legal-BERT mean-pooled embeddings"),
@@ -680,6 +717,10 @@ def main():
                 "reducer": "UMAP",
                 "stability_runs": args.stability_runs}
         labels, scores = fit_branch(name, vectors, df, counts, terms, frozen, args, meta)
+        scores["representation_seconds"] = representation_seconds
+        scores["total_seconds"] = time.perf_counter() - started
+        scores["embedding_cache_used"] = bool(name == "semantic" and args.semantic_cache)
+        json_write(args.output / name / "metrics.json", scores)
         labels_by_model[name] = labels
         metrics.append(scores)
     pd.DataFrame(metrics).to_csv(args.output / "comparison_metrics.csv", index=False)

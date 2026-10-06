@@ -1,0 +1,18 @@
+{
+  "encoder": "nlpaueb/legal-bert-base-uncased",
+  "resolved_model_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+  "pooling": "token-weighted mean, excluding special tokens and padding; nonoverlapping chunks",
+  "max_tokens_actual": 512,
+  "device": "cpu",
+  "total_chunks": 290,
+  "sections_with_multiple_chunks": 23,
+  "ordered_text_sha256": "701f0ba2bd301fbf8b34f37b526bad6f27de1cd29bf638849323aecdb1da160b",
+  "encoder_revision_requested": "15b570cbf88259610b082a167dacc190124f60f6",
+  "max_tokens_requested": 512,
+  "cache_used": false,
+  "clustering_representation": "Legal-BERT mean-pooled embeddings",
+  "topic_representation": "BERTopic class-based c-TF-IDF after clustering",
+  "clusterer": "HDBSCAN",
+  "reducer": "UMAP",
+  "stability_runs": 3
+}

@@ -1,0 +1,18 @@
+{
+  "model": "semantic",
+  "sections": 200,
+  "topics_excluding_outliers": 14,
+  "outlier_sections": 7,
+  "outlier_fraction": 0.035,
+  "topic_diversity": 0.8214285714285714,
+  "section_npmi": 0.3771531677339355,
+  "npmi_topics_scored": 14,
+  "cv_coherence": 0.6394281672328547,
+  "cv_note": "c_v on unigram topic terms only; pilot uses unigram vocabulary for complete comparability",
+  "cv_excluded_phrase_terms": 0,
+  "topic_coverage": 0.965,
+  "stability_ari_mean": 0.7484092798315917,
+  "representation_seconds": 120.54673930001445,
+  "total_seconds": 122.7308294000104,
+  "embedding_cache_used": false
+}

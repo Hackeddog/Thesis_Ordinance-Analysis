@@ -1,0 +1,19 @@
+topic,keywords,section_count,representative_sections,legal_label,legal_relevance_1_to_5,legal_coherence_1_to_5,legal_notes,reviewer_id,label_appropriateness_1_to_5,temporal_interpretation_1_to_5,overall_research_quality_1_to_5,rating_instructions
+0,attested; secretary; city; correct; enacted; certified; vote; unanimous; ordinance; quorum,26,section_4; section_5; section_16,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+1,davao; city; ordinance; sign; mayor; entered; memorandum; authority; relative; behalf,24,section_1; section_3; section_1,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+2,code; pursuant; city; general; vi; contracts; chief; welfare; local; powers,20,section_2; section_2; section_2,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+3,project; parties; shall; agreement; city; davao; party; lgu; ond; program,14,section_5; section_1; section_3,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+4,closure; road; temporary; pm; san; pedro; traffic; streets; street; vehicular,14,section_3; section_3; section_3,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+5,calamity; fund; percent; portion; areas; declared; used; utilization; state; concerned,12,section_5; section_1; section_5,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+6,separability; clause; reason; invalid; continue; sections; hereof; unconstitutional; affected; provisions,11,section_4; section_4; section_4,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+7,testing; shall; trafficking; establishments; licenses; expanded; establishment; ra; cases; required,10,section_11; section_5; section_1,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+8,separabiliw; unconstitutional; reason; invalid; sections; continue; hereof; provision; affected; declaration,8,section_4; section_4; section_4,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+9,exemption; payment; amusement; tax; trade; request; mindanao; exhibition; expo; admission,8,section_3; section_1; section_22,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+10,section; real; propefi; levy; tax; policy; poucy; declaration; operator; positions,7,section_7; section_3; section_2,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+11,local; alley; actual; industrial; rallies; public; square; fiesta; agricultural; emergency,6,section_2; section_2; section_2,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+12,area; php; oo; floor; tiles; bucc; ooo; board; ceiling; zoning,6,section_6; section_10; section_1,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+13,city; office; legal; globe; panlungsod; mayor; series; donation; government; prepaid,5,section_21; section_455; section_5,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+14,trees; highways; poles; pole; public; utility; engineers; office; works; representative,5,section_4; section_4; section_8,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+15,continue; declared; unconstitutional; reason; invalid; sections; provision; effect; force; affected,5,section_4; section_4; section_4,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+16,construction; tower; district; telecom; barangay; bspt; additional; use; allowable; high,5,section_3; section_1; section_3,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00
+17,rules; regulations; accordingly; repealed; repealing; inconsistent; ordinance; liable; suspended; modified,5,section_5; section_4; section_19,,,,,,,,,1-5 or N/A; expert completion pending; flag dimension means below 3.00

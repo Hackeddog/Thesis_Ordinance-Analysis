@@ -1,0 +1,26 @@
+{
+  "source": "results/model_prepare_clean/prepared_sections.csv",
+  "output": "results/experiments/pilot",
+  "seed": 42,
+  "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
+  "sections_per_year": 20,
+  "allow_unverified": true,
+  "common": {
+    "encoder": "nlpaueb/legal-bert-base-uncased",
+    "encoder_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+    "device": "cpu",
+    "batch_size": 4,
+    "max_tokens": 512,
+    "svd_components": 50,
+    "umap_components": 5,
+    "min_df": 1,
+    "ngram_max": 1,
+    "top_words": 10,
+    "stability_runs": 3
+  },
+  "trials": [
+    {"name": "initial", "neighbors": 10, "min_dist": 0.0, "min_cluster_size": 5, "min_samples": 2},
+    {"name": "conservative", "neighbors": 15, "min_dist": 0.1, "min_cluster_size": 10, "min_samples": 5}
+  ],
+  "interpretation": "Exploratory year-balanced subset of unverified OCR text; no holdout and no expert validation. These are parameter-sensitivity trials, not evidence of an optimal configuration."
+}

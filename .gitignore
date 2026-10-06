@@ -81,3 +81,10 @@ Thumbs.db
 # =====================================================================
 .env
 *.log
+
+# Local source references and large regenerable experiment arrays/text
+references/local/
+results/experiments/
+artifacts/ci-pilot/
+artifacts/*/previews/
+# Selected compact evidence and presentation files under artifacts/pilot are tracked.

@@ -1,0 +1,20 @@
+# Isolated, reproducible modeling + presentation environment (Python 3.12).
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+bertopic==0.17.4
+umap-learn==0.5.9.post2
+hdbscan==0.8.40
+numba==0.61.2
+torch==2.8.0
+transformers==4.51.3
+sentence-transformers==4.1.0
+gensim==4.4.0
+plotly==6.3.1
+PyYAML==6.0.2
+matplotlib==3.10.6
+python-pptx==1.0.2
+pytest==8.4.2
+pymupdf==1.26.4
+pytesseract==0.3.13

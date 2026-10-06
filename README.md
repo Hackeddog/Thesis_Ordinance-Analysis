@@ -4,6 +4,15 @@ Legal NLP pipeline for exploratory data analysis, temporal validation and corpus
 curation over Davao City municipal ordinances, feeding a BERTopic-based dynamic
 topic model.
 
+## New: two-model pilot and presentation
+
+See [the comparison runbook](docs/TWO_MODEL_COMPARISON.md) for the lexical vs
+Legal-BERT pipelines, reproducible parameter trials, VS Code tasks and GitHub Actions.
+The [initial-results presentation](artifacts/pilot/Ordinance_Two_Model_Initial_Results.pptx)
+and [PNG evidence](artifacts/pilot/figures/) report a shared 200-section exploratory
+sample across **2016–2025**, not a validated full-corpus result. Source OCR is mostly
+unverified; no expert scores or final model winner are claimed.
+
 ## Start here
 
 | You want to | Read |
@@ -16,7 +25,8 @@ topic model.
 ## Quick start
 
 ```bash
-python3 -m venv .venv && source .venv/bin/activate
+mise install
+mise exec -- python -m venv .venv && source .venv/bin/activate
 python -m pip install -r requirements.txt
 python tests/test_pipeline.py                                    # verify the install
 python src/ordinance_eda_pipeline.py --year 2016 --debug-headers 10   # inspect first
@@ -46,7 +56,7 @@ chapter and you will not remember it later.
 |---|---|
 | Source | `TODO: URL or office` |
 | Collected on | `TODO: date` |
-| Study window | 2016 to 2024 |
+| Study window | 2016 to 2025 (newer milestone; some legacy EDA defaults end in 2024) |
 | Documents per year | `TODO: 2016: n, 2017: n, ...` |
 | Corpus distributed via | `TODO: shared drive path, LFS, or zip + SHA-256` |
 
@@ -65,7 +75,7 @@ it happened to sit in reintroduces every misfiling the pipeline just detected.
 
 ## Repository conventions
 
-- Outputs are overwritten on every run. Snapshot to `data/versions/` before any
+- Legacy EDA outputs are overwritten on every run; new model experiments refuse to overwrite existing outputs. Snapshot to `data/versions/` before any
   change you might want to compare against
 - `data/interim/` is a cache. Delete it after editing a regex, or the pipeline
   reads stale text and your fix appears to do nothing
