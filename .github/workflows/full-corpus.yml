@@ -1,0 +1,46 @@
+name: Full clean-text two-model experiment (manual)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  full-corpus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      MPLBACKEND: Agg
+      TOKENIZERS_PARALLELISM: "false"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
+      - name: CPU-only PyTorch
+        run: python -m pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
+      - run: python -m pip install -r requirements-models.txt
+      - name: Prepare all eligible TXT inputs
+        run: python scripts/prepare_clean_text.py
+      - name: Record a CPU configuration for the hosted runner
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          config = json.loads(Path('configs/clean_text_full.json').read_text())
+          config['common']['device'] = 'cpu'
+          Path('configs/ci_cpu.json').write_text(json.dumps(config, indent=2))
+          PY
+      - name: Run both representations and parameter configurations
+        run: python scripts/run_clean_text.py --config configs/ci_cpu.json
+      - name: Generate measured presentation and PNG figures
+        run: python scripts/build_clean_presentation.py --output artifacts/ci-clean-text
+      - name: Preserve evidence and resumable encoder checkpoint
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: clean-text-full-${{ github.run_id }}
+          path: |
+            artifacts/ci-clean-text/
+            results/experiments/clean_text_preparation/*audit.csv
+            results/experiments/clean_text_preparation/preparation.json
+            results/experiments/clean_text_full/experiment.json
+            results/experiments/clean_text_full/tuning_results.csv
+            results/experiments/clean_text_full/embedding_cache/
+          retention-days: 14

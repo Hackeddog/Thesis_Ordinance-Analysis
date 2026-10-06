@@ -1,0 +1,8 @@
+{
+  "generator_sha256": "0246a9c8572a168bc67ce47cf8d9ebb54a372d9a8e0303e4c29fb8cfe67488dd",
+  "style_sha256": "5a87af1d2db48bffe264198e900cd40e40d1739a159d1e7e365750e389f7e4de",
+  "input_source": "data/processed/clean_text TXT files, with explicit human year-override CSV metadata",
+  "no_sampling": true,
+  "source_verification": "User confirmation; not an independent re-verification of PDF contents",
+  "note": "Figures are rendered measured artifacts, not screenshots of a training UI. Review scores remain blank."
+}

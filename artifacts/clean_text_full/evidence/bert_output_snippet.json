@@ -1,0 +1,25 @@
+{
+  "source_file": "2016/Ordinance No. 001-16.txt",
+  "ordinance_number": "1-16",
+  "unit": "section_1",
+  "unit_type": "legal_section",
+  "year": 2016,
+  "topic": 10,
+  "text_excerpt": "TITLE.- This Ordinance shall be known as uAI{ oRDINANCE GRANTING THE RTQUEST OF THE DAVAO CITY SMALL AND MEDIUM EIYTERPRISES DIIIELOPMEITT COUNCIL FOR EXEMPTION FROM THE PAY'MENT OF SPECIAL PERMIT TEF,S OF ALL THE PARTICIPANTS, IN CONNECTIOIV WITH THE PINOY SME EXPO OIIT JULY 8.14, 2016, AT THE ABRTEZA MALL, J.P. LAURTL AVEIIUE, DAVAO CITY'; SECTIOIT 2. COVERAGE.- The exemption granted to the Davao City Small and Medium Enterprises Council, a Dav",
+  "embedding_shape": [
+    7832,
+    768
+  ],
+  "first_8_values": [
+    -0.02532428316771984,
+    0.023279260843992233,
+    0.028612354770302773,
+    0.014163772575557232,
+    0.05679844692349434,
+    0.001397108193486929,
+    0.016473131254315376,
+    0.03043552115559578
+  ],
+  "l2_norm": 0.9999999403953552,
+  "model_revision": "15b570cbf88259610b082a167dacc190124f60f6"
+}

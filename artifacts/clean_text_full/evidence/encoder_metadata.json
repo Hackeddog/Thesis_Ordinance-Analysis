@@ -1,0 +1,21 @@
+{
+  "ordered_text_sha256": "bcd689986f7422235a65fa4bb12ab33f442e567e82178b09d439f304953ca65a",
+  "encoder": "nlpaueb/legal-bert-base-uncased",
+  "revision": "15b570cbf88259610b082a167dacc190124f60f6",
+  "max_tokens": 512,
+  "pooling_version": "all-content-tokens-mean-v2",
+  "resolved_model_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+  "device": "cuda",
+  "torch_version": "2.8.0+cu126",
+  "dtype": "float32 encoder / float64 aggregation",
+  "pooling": "token-weighted mean across all non-overlapping chunks, excluding padding and special tokens; L2 normalized",
+  "total_chunks": 11546,
+  "multi_chunk_units": 794,
+  "embedding_shape": [
+    7832,
+    768
+  ],
+  "resume_start_chunk": 0,
+  "session_seconds": 571.4106827001087,
+  "cache_used": false
+}

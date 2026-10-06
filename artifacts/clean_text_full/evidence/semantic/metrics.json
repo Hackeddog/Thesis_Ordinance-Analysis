@@ -1,0 +1,21 @@
+{
+  "model": "semantic",
+  "sections": 7832,
+  "topics_excluding_outliers": 159,
+  "outlier_sections": 1323,
+  "outlier_fraction": 0.1689223697650664,
+  "topic_diversity": 0.4919093851132686,
+  "section_npmi": 0.45907945449498255,
+  "npmi_topics_scored": 159,
+  "cv_coherence": 0.7812564405202568,
+  "cv_note": "c_v on unigram topic terms only; this run uses a shared unigram vocabulary",
+  "cv_excluded_phrase_terms": 0,
+  "topic_coverage": 0.8310776302349336,
+  "stability_ari_mean": 0.5736626135282662,
+  "trial": "initial",
+  "fit_evaluation_seconds": 101.87820630008355,
+  "neighbors": 15,
+  "min_dist": 0.0,
+  "min_cluster_size": 15,
+  "min_samples": 5
+}

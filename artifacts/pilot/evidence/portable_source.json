@@ -1,4 +1,0 @@
-{
-  "source_sha256_lf": "d1189500a16d96ea7cb74a97a360abd2c9f31b343b13da8be6c87bc6c0ea3799",
-  "note": "CRLF normalized to LF only, for cross-platform Git checkout verification. Original byte hash remains in experiment.json."
-}

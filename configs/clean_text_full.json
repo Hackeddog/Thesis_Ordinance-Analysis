@@ -1,0 +1,30 @@
+{
+  "source": "results/experiments/clean_text_preparation/sections.csv",
+  "preparation": "results/experiments/clean_text_preparation",
+  "output": "results/experiments/clean_text_full",
+  "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
+  "common": {
+    "encoder": "nlpaueb/legal-bert-base-uncased",
+    "encoder_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+    "device": "cuda",
+    "batch_size": 4,
+    "max_tokens": 512,
+    "seed": 42,
+    "svd_components": 100,
+    "umap_components": 5,
+    "min_df": 1,
+    "max_df": 1.0,
+    "max_features": 50000,
+    "ngram_max": 1,
+    "top_words": 10,
+    "stopwords": "english",
+    "extra_stopwords": null,
+    "stability_runs": 3,
+    "skip_html": true
+  },
+  "trials": [
+    {"name": "initial", "neighbors": 15, "min_dist": 0.0, "min_cluster_size": 15, "min_samples": 5},
+    {"name": "conservative", "neighbors": 30, "min_dist": 0.1, "min_cluster_size": 30, "min_samples": 10}
+  ],
+  "interpretation": "Full eligible cleaned-TXT corpus, not a sample. Source verification is user-confirmed; duplicate, year and extraction audits are reported separately. Intrinsic in-sample results and joint parameter sensitivity, not a held-out model winner or expert validation."
+}

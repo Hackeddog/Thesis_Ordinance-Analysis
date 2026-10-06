@@ -1,4 +1,4 @@
-name: Pipeline correctness
+name: Clean-text pipeline correctness
 on:
   push:
   pull_request:
@@ -10,15 +10,14 @@ jobs:
     timeout-minutes: 20
     env:
       MPLBACKEND: Agg
+      TOKENIZERS_PARALLELISM: "false"
     steps:
       - uses: actions/checkout@v4
       - uses: jdx/mise-action@v2
-      - name: CPU-only PyTorch (avoid unused CUDA packages on hosted runners)
+      - name: CPU-only PyTorch
         run: python -m pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
       - run: python -m pip install -r requirements-models.txt
-      - name: Modeling contracts and synthetic integration (not thesis results)
-        run: python -m pytest tests/test_models.py tests/test_evidence.py -q
-      - name: Existing extraction and curation regression suite
-        run: python tests/test_pipeline.py
+      - name: Offline preparation, encoder and modeling contracts
+        run: python -m pytest tests/test_clean_text.py tests/test_clean_evidence.py -q
       - name: Presentation generator syntax
-        run: python -m py_compile scripts/build_presentation.py scripts/run_comparison.py
+        run: python -m py_compile scripts/build_clean_presentation.py scripts/presentation_style.py

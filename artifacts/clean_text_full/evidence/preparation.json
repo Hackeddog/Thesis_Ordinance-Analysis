@@ -1,0 +1,34 @@
+{
+  "source_directory": "C:\\Users\\BloodMank\\Desktop\\Thesis\\Thesis_Model_Comparison\\data\\processed\\clean_text",
+  "input_format": "cleaned TXT only",
+  "source_files": 2283,
+  "content_groups": 2133,
+  "duplicate_copies": 150,
+  "included_documents": 2118,
+  "model_units": 7832,
+  "excluded_content_groups": 15,
+  "verification_basis": "User confirmation; not an independent re-verification of PDF contents",
+  "source_manifest_sha256": "870db8a1a020d5ce68b865e79e22b4ebd7217c8b2c1de55e219d24ef554208bc",
+  "sections_sha256": "2d415dfbc71838d02349ce1ebb26783dd58cbd7f9ab683b18bc1a989d5471b16",
+  "preparation_code_sha256": "6fc90ca3043bcb7017e14b54ed198672f2bcfb83b0136238e9113b9d86d6ccfa",
+  "override_files": {
+    "manual_year_overrides_2016.csv": "5062981899a6c292a36b0a3bf4bdf38e4405c2a94da5ee6ce21d9dd8f7c221f4",
+    "manual_year_overrides_2017.csv": "d796313cd0c4b1aeee39b3d9c37e8f7f966be4f9195e3c783743fb91bb3e6f89",
+    "manual_year_overrides_2018.csv": "1f38fa5848f92b9d1300f1bec61f50144a60bae90c5338ad40d4f7f1b53879c6",
+    "manual_year_overrides_2019.csv": "b0f3f0407d86a9a9aed4084d6c75892cc938326713744e0d69d3b172bed5d2e7",
+    "manual_year_overrides_2020.csv": "3b5e9d49d3aa37945e13b241f5acc3d25f04f2039145a3546ad26cf35e226f29",
+    "manual_year_overrides_2021.csv": "038b96f7eacd056bbd071724365f4e2379839e18d99517e26cd06c13ab8024c3",
+    "manual_year_overrides_2022.csv": "743262f790dc3430dbf5892616108ae214cbac6e8a4a604f542cd3d574a602e2",
+    "manual_year_overrides_2023.csv": "af66fcb651ed2dcb75c652af3e5d7bfa792b7561a6a4714ccedd379344f1dd07",
+    "manual_year_overrides_2024.csv": "7e17b71a6db6b9786f0183b7b95362902d2196c4510b4aed0d9cd2a91c4779ff"
+  },
+  "distinct_versions_same_number": 45,
+  "unit_types": {
+    "legal_section": 7235,
+    "document_fallback": 597
+  },
+  "signature_chars_omitted": 7286239,
+  "boilerplate_units_omitted": 623,
+  "remaining_date_disagreements": 28,
+  "extraction_policy": "Numbered sections; whole-document fallback for missing/repeated headings. Drop effectivity/separability/repealing-clause units; trim explicit signature blocks. No source files modified."
+}

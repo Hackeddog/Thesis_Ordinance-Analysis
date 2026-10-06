@@ -1,0 +1,83 @@
+{
+  "config": {
+    "source": "results/experiments/clean_text_preparation/sections.csv",
+    "preparation": "results/experiments/clean_text_preparation",
+    "output": "results/experiments/clean_text_full",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "common": {
+      "encoder": "nlpaueb/legal-bert-base-uncased",
+      "encoder_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+      "device": "cuda",
+      "batch_size": 4,
+      "max_tokens": 512,
+      "seed": 42,
+      "svd_components": 100,
+      "umap_components": 5,
+      "min_df": 1,
+      "max_df": 1.0,
+      "max_features": 50000,
+      "ngram_max": 1,
+      "top_words": 10,
+      "stopwords": "english",
+      "extra_stopwords": null,
+      "stability_runs": 3,
+      "skip_html": true
+    },
+    "trials": [
+      {
+        "name": "initial",
+        "neighbors": 15,
+        "min_dist": 0.0,
+        "min_cluster_size": 15,
+        "min_samples": 5
+      },
+      {
+        "name": "conservative",
+        "neighbors": 30,
+        "min_dist": 0.1,
+        "min_cluster_size": 30,
+        "min_samples": 10
+      }
+    ],
+    "interpretation": "Full eligible cleaned-TXT corpus, not a sample. Source verification is user-confirmed; duplicate, year and extraction audits are reported separately. Intrinsic in-sample results and joint parameter sensitivity, not a held-out model winner or expert validation."
+  },
+  "source_sha256": "2d415dfbc71838d02349ce1ebb26783dd58cbd7f9ab683b18bc1a989d5471b16",
+  "code_sha256": {
+    "scripts/run_clean_text.py": "65be6b96bb7a1298a6bef7a38203eea448874c02b334ba9300082147a6fb2833",
+    "src/clean_model.py": "72cecf677fb23d6f56224b5e2609d14a2d443384c316c722ca3a8b3513b58d6f",
+    "src/clean_encoder.py": "819b8cc0078d21f6151e6129198c7b21a4370fa4dcca22765cd24252af4dfb7d"
+  },
+  "created_utc": "2026-10-06T14:37:51.943409+00:00",
+  "status": "completed",
+  "documents": 2118,
+  "units": 7832,
+  "unique_ordinance_numbers": 2073,
+  "vocabulary_exclusions": 0,
+  "vocabulary_terms": 50000,
+  "unit_types": {
+    "legal_section": 7235,
+    "document_fallback": 597
+  },
+  "packages": {
+    "torch": "2.8.0+cu126",
+    "transformers": "4.51.3",
+    "bertopic": "0.17.4",
+    "hdbscan": "0.8.40",
+    "umap-learn": "0.5.9.post2",
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "gensim": "4.4.0"
+  }
+}

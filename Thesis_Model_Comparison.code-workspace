@@ -3,7 +3,7 @@
   "settings": {
     "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
     "python.testing.pytestEnabled": true,
-    "python.testing.pytestArgs": ["tests/test_models.py"]
+    "python.testing.pytestArgs": ["tests/test_clean_text.py", "tests/test_clean_evidence.py"]
   },
   "extensions": { "recommendations": ["ms-python.python", "ms-python.vscode-pylance"] }
 }

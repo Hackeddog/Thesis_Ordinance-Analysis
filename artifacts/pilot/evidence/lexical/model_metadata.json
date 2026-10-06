@@ -1,9 +1,0 @@
-{
-  "svd_components_actual": 50,
-  "svd_explained_variance_ratio_sum": 0.5686535729280148,
-  "clustering_representation": "document-level TF-IDF + TruncatedSVD",
-  "topic_representation": "BERTopic class-based c-TF-IDF after clustering",
-  "clusterer": "HDBSCAN",
-  "reducer": "UMAP",
-  "stability_runs": 3
-}

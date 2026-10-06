@@ -1,6 +1,0 @@
-{
-  "ari_all_sections_outliers_treated_as_one_cluster": 0.5490923443775151,
-  "jointly_assigned_sections": 185,
-  "ari_jointly_assigned": 0.6156630631833115,
-  "note": "ARI measures partition agreement, not quality or stability. Topic IDs are model-specific."
-}

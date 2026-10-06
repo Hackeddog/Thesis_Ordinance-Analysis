@@ -1,5 +1,5 @@
 param(
-    [string]$Presentation = "artifacts/pilot/Ordinance_Two_Model_Initial_Results.pptx",
+    [string]$Presentation = "artifacts/clean_text_full/Clean_Text_Full_Corpus_Initial_Results.pptx",
     [switch]$Previews
 )
 $ErrorActionPreference = "Stop"

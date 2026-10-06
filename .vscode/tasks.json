@@ -2,27 +2,43 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Thesis: run exploratory two-model pilot",
+      "label": "Thesis: prepare full clean-TXT corpus",
       "type": "process",
       "command": "${workspaceFolder}/.venv/Scripts/python.exe",
-      "args": ["scripts/run_comparison.py", "--config", "configs/pilot.json"],
-      "options": { "cwd": "${workspaceFolder}" },
+      "args": ["scripts/prepare_clean_text.py"],
+      "options": {"cwd": "${workspaceFolder}"},
       "problemMatcher": []
     },
     {
-      "label": "Thesis: build presentation from completed pilot",
+      "label": "Thesis: run both models on full clean-TXT corpus",
       "type": "process",
       "command": "${workspaceFolder}/.venv/Scripts/python.exe",
-      "args": ["scripts/build_presentation.py", "--experiment", "results/experiments/pilot", "--output", "artifacts/pilot-rerender"],
-      "options": { "cwd": "${workspaceFolder}" },
+      "args": ["scripts/run_clean_text.py", "--config", "configs/clean_text_full.json"],
+      "options": {"cwd": "${workspaceFolder}"},
       "problemMatcher": []
     },
     {
-      "label": "Thesis: model correctness tests",
+      "label": "Thesis: resume interrupted full experiment",
       "type": "process",
       "command": "${workspaceFolder}/.venv/Scripts/python.exe",
-      "args": ["-m", "pytest", "tests/test_models.py", "-q"],
-      "options": { "cwd": "${workspaceFolder}" },
+      "args": ["scripts/run_clean_text.py", "--config", "configs/clean_text_full.json", "--resume"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: render new clean-TXT presentation",
+      "type": "process",
+      "command": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "args": ["scripts/build_clean_presentation.py", "--output", "artifacts/clean_text_rerender"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: clean-text pipeline tests",
+      "type": "process",
+      "command": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "args": ["-m", "pytest", "tests/test_clean_text.py", "-q"],
+      "options": {"cwd": "${workspaceFolder}"},
       "problemMatcher": []
     }
   ]
