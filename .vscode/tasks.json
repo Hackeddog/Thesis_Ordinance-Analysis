@@ -34,6 +34,14 @@
       "problemMatcher": []
     },
     {
+      "label": "Thesis: temporal-only graphs with topic titles",
+      "type": "process",
+      "command": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "args": ["scripts/build_temporal_graphs.py", "--output", "artifacts/temporal_topics_rerender"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
       "label": "Thesis: clean-text pipeline tests",
       "type": "process",
       "command": "${workspaceFolder}/.venv/Scripts/python.exe",

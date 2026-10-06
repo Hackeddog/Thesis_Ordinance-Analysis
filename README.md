@@ -11,6 +11,10 @@ archive application, or previously prepared note-derived dataset is used.
 - [Measured metrics and audit evidence](artifacts/clean_text_full/evidence/)
 - [Pipeline, parameter and yearly PNG figures](artifacts/clean_text_full/figures/)
 - [Methodology and reproducibility](docs/CLEAN_TEXT_RUNBOOK.md)
+- **[Temporal-only topic graphs with descriptive titles](artifacts/temporal_topics/)** — 8 PNGs, PDF/PPTX, and a draft-title catalog for all 361 model-local topics.
+
+Temporal figures use document-weighted annual shares. Topic titles are keyword-based
+descriptions, not expert-validated categories. See [the temporal graph guide](docs/TEMPORAL_TOPIC_GRAPHS.md).
 
 The earlier experiment remains on the separate `research/two-model-comparison`
 branch. This branch replaces its legacy archive workflow rather than mixing the

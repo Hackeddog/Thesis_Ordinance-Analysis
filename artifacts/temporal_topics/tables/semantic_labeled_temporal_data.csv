@@ -1,0 +1,1075 @@
+year,topic,fractional_documents,documents_in_year,share,title,category,label_status
+2016,-1,22.091666666666665,174,0.126963601532567,Outliers,unassigned,not_a_substantive_topic
+2016,0,4.383333333333333,174,0.025191570881226,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2016,2,0.5416666666666666,174,0.0031130268199233,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2016,3,0.3333333333333333,174,0.0019157088122605,Event-related road closures,policy,draft_not_expert_validated
+2016,4,0.1666666666666666,174,0.0009578544061302,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2016,5,0.25,174,0.0014367816091954,Child protection and welfare,policy,draft_not_expert_validated
+2016,6,0.5,174,0.0028735632183908,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2016,8,29.83333333333333,174,0.171455938697318,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2016,9,0.2,174,0.0011494252873563,Separability and validity clauses,procedural,draft_not_expert_validated
+2016,10,2.1333333333333333,174,0.0122605363984674,Amusement-tax exemptions,policy,draft_not_expert_validated
+2016,12,0.5,174,0.0028735632183908,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2016,13,0.8,174,0.0045977011494252,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2016,14,0.8333333333333333,174,0.0047892720306513,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2016,15,0.25,174,0.0014367816091954,Government staffing and qualifications,governance,draft_not_expert_validated
+2016,16,0.25,174,0.0014367816091954,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,17,21.0,174,0.1206896551724138,OCR-corrupted ordinance wording,unclear,draft_not_expert_validated
+2016,20,1.3333333333333333,174,0.0076628352490421,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2016,21,0.5,174,0.0028735632183908,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,22,15.0,174,0.0862068965517241,Council correspondence and legal endorsements,procedural,draft_not_expert_validated
+2016,23,2.15,174,0.0123563218390804,Event-related road closures,policy,draft_not_expert_validated
+2016,24,1.0833333333333333,174,0.0062260536398467,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2016,27,1.0333333333333332,174,0.0059386973180076,Separability and validity clauses,procedural,draft_not_expert_validated
+2016,28,0.3333333333333333,174,0.0019157088122605,Voting and enactment records,procedural,draft_not_expert_validated
+2016,29,0.5,174,0.0028735632183908,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2016,32,0.3333333333333333,174,0.0019157088122605,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,33,0.9,174,0.0051724137931034,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,38,0.325,174,0.001867816091954,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2016,39,1.0,174,0.0057471264367816,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2016,41,0.3333333333333333,174,0.0019157088122605,Mayoral contracting powers,governance,draft_not_expert_validated
+2016,44,0.25,174,0.0014367816091954,Separability and validity clauses,procedural,draft_not_expert_validated
+2016,45,0.75,174,0.0043103448275862,Amusement-tax exemptions,policy,draft_not_expert_validated
+2016,46,7.833333333333333,174,0.0450191570881226,Education and scholarship assistance,policy,draft_not_expert_validated
+2016,49,17.0,174,0.0977011494252873,Council attendance and session records,procedural,draft_not_expert_validated
+2016,52,0.2,174,0.0011494252873563,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,53,1.3166666666666669,174,0.0075670498084291,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2016,56,17.0,174,0.0977011494252873,OCR-heavy or unclear text cluster,unclear,draft_not_expert_validated
+2016,59,0.65,174,0.003735632183908,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,66,1.5,174,0.0086206896551724,Trade-event permit and fee exemptions,policy,draft_not_expert_validated
+2016,68,2.0,174,0.0114942528735632,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2016,69,0.75,174,0.0043103448275862,"Unresolved keywords: wit, pursuant, economical",unclear,draft_not_expert_validated
+2016,76,2.25,174,0.0129310344827586,Event-related road closures,policy,draft_not_expert_validated
+2016,77,0.3333333333333333,174,0.0019157088122605,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2016,78,0.6583333333333333,174,0.0037835249042145,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2016,86,0.75,174,0.0043103448275862,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2016,87,0.2,174,0.0011494252873563,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,91,0.2,174,0.0011494252873563,Separability and validity clauses,procedural,draft_not_expert_validated
+2016,92,0.2,174,0.0011494252873563,Separability and validity clauses,procedural,draft_not_expert_validated
+2016,93,0.25,174,0.0014367816091954,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,94,0.7,174,0.0040229885057471,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,97,0.6583333333333333,174,0.0037835249042145,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2016,98,0.8333333333333333,174,0.0047892720306513,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2016,103,1.0,174,0.0057471264367816,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2016,104,3.6666666666666665,174,0.0210727969348659,Council attendance and session records,procedural,draft_not_expert_validated
+2016,118,0.7833333333333333,174,0.0045019157088122,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,123,0.1666666666666666,174,0.0009578544061302,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2016,128,1.0,174,0.0057471264367816,Mayoral contracting powers,governance,draft_not_expert_validated
+2016,134,0.325,174,0.001867816091954,"Unresolved keywords: million, interfund, thousand",unclear,draft_not_expert_validated
+2016,142,0.7333333333333334,174,0.0042145593869731,"Unresolved keywords: exemption, period, december",unclear,draft_not_expert_validated
+2016,147,0.25,174,0.0014367816091954,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,151,0.2,174,0.0011494252873563,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2016,152,0.2,174,0.0011494252873563,Separability and validity clauses,procedural,draft_not_expert_validated
+2016,153,0.5,174,0.0028735632183908,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2017,-1,31.63225108225108,204,0.1550600543247602,Outliers,unassigned,not_a_substantive_topic
+2017,0,8.366666666666667,204,0.0410130718954248,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2017,2,0.2857142857142857,204,0.0014005602240896,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2017,3,2.533333333333333,204,0.0124183006535947,Event-related road closures,policy,draft_not_expert_validated
+2017,4,0.1,204,0.0004901960784313,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2017,5,0.3,204,0.0014705882352941,Child protection and welfare,policy,draft_not_expert_validated
+2017,6,0.5,204,0.0024509803921568,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2017,8,12.5,204,0.0612745098039215,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2017,10,2.0166666666666666,204,0.0098856209150326,Amusement-tax exemptions,policy,draft_not_expert_validated
+2017,11,0.5909090909090908,204,0.0028966131907308,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2017,12,3.3666666666666667,204,0.0165032679738562,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2017,13,1.3833333333333333,204,0.0067810457516339,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2017,14,1.5166666666666666,204,0.0074346405228758,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2017,15,0.5,204,0.0024509803921568,Government staffing and qualifications,governance,draft_not_expert_validated
+2017,17,33.0,204,0.1617647058823529,OCR-corrupted ordinance wording,unclear,draft_not_expert_validated
+2017,22,27.5,204,0.1348039215686274,Council correspondence and legal endorsements,procedural,draft_not_expert_validated
+2017,23,1.65,204,0.0080882352941176,Event-related road closures,policy,draft_not_expert_validated
+2017,24,0.75,204,0.0036764705882352,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2017,25,0.25,204,0.0012254901960784,Separability and validity clauses,procedural,draft_not_expert_validated
+2017,27,1.1595238095238096,204,0.0056839402427637,Separability and validity clauses,procedural,draft_not_expert_validated
+2017,29,3.0,204,0.0147058823529411,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2017,30,0.5242424242424242,204,0.0025698158051099,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2017,31,0.2,204,0.0009803921568627,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2017,37,1.4833333333333334,204,0.0072712418300653,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2017,38,0.4761904761904761,204,0.0023342670401493,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2017,39,0.5,204,0.0024509803921568,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2017,40,0.2,204,0.0009803921568627,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2017,42,0.1666666666666666,204,0.0008169934640522,"Unresolved keywords: lgsfbdp, procurement, audit",unclear,draft_not_expert_validated
+2017,45,1.6,204,0.0078431372549019,Amusement-tax exemptions,policy,draft_not_expert_validated
+2017,46,3.8333333333333335,204,0.0187908496732026,Education and scholarship assistance,policy,draft_not_expert_validated
+2017,49,13.5,204,0.0661764705882353,Council attendance and session records,procedural,draft_not_expert_validated
+2017,53,1.9166666666666667,204,0.0093954248366013,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2017,54,0.45,204,0.0022058823529411,"Unresolved keywords: absolute, addendum, carmen",unclear,draft_not_expert_validated
+2017,55,1.0,204,0.0049019607843137,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2017,56,5.090909090909091,204,0.0249554367201426,OCR-heavy or unclear text cluster,unclear,draft_not_expert_validated
+2017,59,6.016666666666667,204,0.0294934640522875,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2017,64,0.1666666666666666,204,0.0008169934640522,"Unresolved keywords: quarry, sand, gravel",unclear,draft_not_expert_validated
+2017,65,0.45,204,0.0022058823529411,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2017,66,0.8666666666666667,204,0.0042483660130718,Trade-event permit and fee exemptions,policy,draft_not_expert_validated
+2017,68,8.0,204,0.0392156862745098,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2017,69,3.2,204,0.0156862745098039,"Unresolved keywords: wit, pursuant, economical",unclear,draft_not_expert_validated
+2017,73,0.2,204,0.0009803921568627,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2017,78,0.1428571428571428,204,0.0007002801120448,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2017,79,1.6666666666666663,204,0.0081699346405228,Cooperative financing and loan agreements,policy,draft_not_expert_validated
+2017,80,0.2,204,0.0009803921568627,Health workforce and midwifery support,policy,draft_not_expert_validated
+2017,86,2.0666666666666664,204,0.0101307189542483,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2017,90,0.6666666666666666,204,0.0032679738562091,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2017,92,0.2,204,0.0009803921568627,Separability and validity clauses,procedural,draft_not_expert_validated
+2017,93,0.25,204,0.0012254901960784,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2017,97,0.8246753246753247,204,0.0040425261013496,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2017,98,0.8333333333333333,204,0.0040849673202614,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2017,99,0.4333333333333333,204,0.0021241830065359,"Unresolved keywords: agriculture, narrative, staff",unclear,draft_not_expert_validated
+2017,100,0.9,204,0.0044117647058823,Separability and validity clauses,procedural,draft_not_expert_validated
+2017,103,0.5833333333333333,204,0.002859477124183,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2017,104,7.0,204,0.034313725490196,Council attendance and session records,procedural,draft_not_expert_validated
+2017,115,0.25,204,0.0012254901960784,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2017,118,0.25,204,0.0012254901960784,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2017,122,0.5,204,0.0024509803921568,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2017,128,0.5,204,0.0024509803921568,Mayoral contracting powers,governance,draft_not_expert_validated
+2017,136,1.3833333333333333,204,0.0067810457516339,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2017,137,0.25,204,0.0012254901960784,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2017,138,0.1,204,0.0004901960784313,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2017,146,0.2,204,0.0009803921568627,"Unresolved keywords: role, contextualization, sensitivity",unclear,draft_not_expert_validated
+2017,152,0.5333333333333333,204,0.0026143790849673,Separability and validity clauses,procedural,draft_not_expert_validated
+2017,153,0.25,204,0.0012254901960784,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2017,154,0.2727272727272727,204,0.0013368983957219,"Unresolved keywords: class, lands, residential",unclear,draft_not_expert_validated
+2017,155,1.0,204,0.0049019607843137,Voting and enactment records,procedural,draft_not_expert_validated
+2018,-1,31.6265873015873,249,0.1270144068336839,Outliers,unassigned,not_a_substantive_topic
+2018,0,20.8,249,0.0835341365461847,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2018,1,2.952380952380953,249,0.0118569516159877,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2018,2,1.0888888888888888,249,0.0043730477465417,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2018,3,8.8,249,0.0353413654618473,Event-related road closures,policy,draft_not_expert_validated
+2018,4,0.25,249,0.001004016064257,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2018,5,0.238095238095238,249,0.0009562057754828,Child protection and welfare,policy,draft_not_expert_validated
+2018,6,0.7083333333333333,249,0.0028447121820615,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2018,7,2.872619047619048,249,0.0115366226812009,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,8,15.11111111111111,249,0.0606871932173136,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2018,9,0.25,249,0.001004016064257,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,10,2.033333333333333,249,0.0081659973226238,Amusement-tax exemptions,policy,draft_not_expert_validated
+2018,11,0.75,249,0.003012048192771,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2018,12,2.25,249,0.0090361445783132,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2018,13,0.625,249,0.0025100401606425,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2018,14,0.9,249,0.0036144578313253,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2018,15,1.7476190476190476,249,0.0070185503920443,Government staffing and qualifications,governance,draft_not_expert_validated
+2018,16,2.4833333333333334,249,0.0099732262382864,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,17,22.83333333333333,249,0.0917001338688085,OCR-corrupted ordinance wording,unclear,draft_not_expert_validated
+2018,18,1.0,249,0.0040160642570281,Mayoral contracting powers,governance,draft_not_expert_validated
+2018,19,0.25,249,0.001004016064257,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2018,21,1.1166666666666667,249,0.0044846050870147,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,22,14.4,249,0.0578313253012048,Council correspondence and legal endorsements,procedural,draft_not_expert_validated
+2018,23,2.1833333333333336,249,0.008768406961178,Event-related road closures,policy,draft_not_expert_validated
+2018,24,0.45,249,0.0018072289156626,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2018,25,2.3666666666666667,249,0.0095046854082998,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,27,0.6861111111111111,249,0.0027554663096831,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,28,0.5,249,0.002008032128514,Voting and enactment records,procedural,draft_not_expert_validated
+2018,29,3.497619047619048,249,0.0140466628418435,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2018,30,0.1111111111111111,249,0.000446229361892,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,31,1.0,249,0.0040160642570281,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2018,32,0.611111111111111,249,0.002454261490406,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,33,1.1,249,0.0044176706827309,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,37,2.7916666666666665,249,0.0112115127175368,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,38,0.5333333333333333,249,0.0021419009370816,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2018,39,0.2916666666666666,249,0.0011713520749665,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2018,40,0.8511904761904762,249,0.0034184356473513,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2018,43,0.8333333333333333,249,0.00334672021419,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,44,0.7833333333333333,249,0.0031459170013386,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,45,2.65,249,0.0106425702811244,Amusement-tax exemptions,policy,draft_not_expert_validated
+2018,46,5.547619047619048,249,0.0222795945687511,Education and scholarship assistance,policy,draft_not_expert_validated
+2018,49,5.333333333333333,249,0.0214190093708166,Council attendance and session records,procedural,draft_not_expert_validated
+2018,50,0.45,249,0.0018072289156626,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,51,0.25,249,0.001004016064257,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2018,53,0.8333333333333333,249,0.00334672021419,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2018,54,0.3333333333333333,249,0.001338688085676,"Unresolved keywords: absolute, addendum, carmen",unclear,draft_not_expert_validated
+2018,56,10.0,249,0.0401606425702811,OCR-heavy or unclear text cluster,unclear,draft_not_expert_validated
+2018,57,0.3333333333333333,249,0.001338688085676,"Unresolved keywords: telecom, tower, globe",unclear,draft_not_expert_validated
+2018,58,0.125,249,0.0005020080321285,"Unresolved keywords: vi, provide, policy",unclear,draft_not_expert_validated
+2018,59,1.85,249,0.007429718875502,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,61,0.1666666666666666,249,0.000669344042838,"Unresolved keywords: enhance, promote, welfare",unclear,draft_not_expert_validated
+2018,63,0.5,249,0.002008032128514,"Unresolved keywords: vi, xxx, pursuant",unclear,draft_not_expert_validated
+2018,64,4.861111111111111,249,0.0195225345827755,"Unresolved keywords: quarry, sand, gravel",unclear,draft_not_expert_validated
+2018,65,0.5833333333333333,249,0.002342704149933,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2018,66,1.7777777777777777,249,0.0071396697902722,Trade-event permit and fee exemptions,policy,draft_not_expert_validated
+2018,68,10.0,249,0.0401606425702811,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2018,69,1.2833333333333332,249,0.0051539491298527,"Unresolved keywords: wit, pursuant, economical",unclear,draft_not_expert_validated
+2018,73,0.7142857142857142,249,0.0028686173264486,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2018,74,0.25,249,0.001004016064257,"Unresolved keywords: states, vi, republic",unclear,draft_not_expert_validated
+2018,75,0.375,249,0.0015060240963855,"Unresolved keywords: enhance, promote, prosperity",unclear,draft_not_expert_validated
+2018,76,5.083333333333333,249,0.0204149933065595,Event-related road closures,policy,draft_not_expert_validated
+2018,77,1.6666666666666663,249,0.0066934404283801,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2018,78,0.6944444444444444,249,0.002788933511825,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2018,79,2.25,249,0.0090361445783132,Cooperative financing and loan agreements,policy,draft_not_expert_validated
+2018,80,0.1666666666666666,249,0.000669344042838,Health workforce and midwifery support,policy,draft_not_expert_validated
+2018,81,1.25,249,0.0050200803212851,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2018,83,0.25,249,0.001004016064257,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2018,85,1.2833333333333332,249,0.0051539491298527,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2018,86,1.0333333333333332,249,0.0041499330655957,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2018,87,0.45,249,0.0018072289156626,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,88,1.0833333333333333,249,0.0043507362784471,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,90,0.6666666666666666,249,0.002677376171352,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2018,91,0.2,249,0.0008032128514056,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,92,1.4166666666666663,249,0.0056894243641231,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,93,0.7476190476190476,249,0.0030024861350162,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,94,0.125,249,0.0005020080321285,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,97,0.2777777777777778,249,0.00111557340473,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2018,98,0.1666666666666666,249,0.000669344042838,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2018,99,0.5178571428571428,249,0.0020797475616752,"Unresolved keywords: agriculture, narrative, staff",unclear,draft_not_expert_validated
+2018,100,0.45,249,0.0018072289156626,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,102,0.45,249,0.0018072289156626,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,104,7.5,249,0.0301204819277108,Council attendance and session records,procedural,draft_not_expert_validated
+2018,106,0.3333333333333333,249,0.001338688085676,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,112,0.3428571428571428,249,0.0013769363166953,"Unresolved keywords: adhere, policy, humanitarian",unclear,draft_not_expert_validated
+2018,115,3.1333333333333333,249,0.0125836680053547,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2018,116,0.325,249,0.0013052208835341,"Unresolved keywords: inconsistent, repealed, accordingly",unclear,draft_not_expert_validated
+2018,117,0.45,249,0.0018072289156626,"Unresolved keywords: exemptions, incentives, deem",unclear,draft_not_expert_validated
+2018,118,0.65,249,0.0026104417670682,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,119,3.0,249,0.0120481927710843,"Unresolved keywords: allowable, quarry, request",unclear,draft_not_expert_validated
+2018,121,0.25,249,0.001004016064257,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,122,1.3333333333333333,249,0.0053547523427041,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2018,123,0.3333333333333333,249,0.001338688085676,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2018,124,1.0833333333333333,249,0.0043507362784471,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,127,0.1428571428571428,249,0.0005737234652897,"Unresolved keywords: implementing, regulations, irr",unclear,draft_not_expert_validated
+2018,128,0.5833333333333333,249,0.002342704149933,Mayoral contracting powers,governance,draft_not_expert_validated
+2018,134,0.2777777777777778,249,0.00111557340473,"Unresolved keywords: million, interfund, thousand",unclear,draft_not_expert_validated
+2018,135,0.1666666666666666,249,0.000669344042838,"Unresolved keywords: vi, policy, provides",unclear,draft_not_expert_validated
+2018,136,0.65,249,0.0026104417670682,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2018,138,0.125,249,0.0005020080321285,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2018,141,0.7,249,0.0028112449799196,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,142,0.8666666666666667,249,0.0034805890227576,"Unresolved keywords: exemption, period, december",unclear,draft_not_expert_validated
+2018,146,0.0952380952380952,249,0.0003824823101931,"Unresolved keywords: role, contextualization, sensitivity",unclear,draft_not_expert_validated
+2018,149,0.2,249,0.0008032128514056,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,150,0.65,249,0.0026104417670682,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,152,0.65,249,0.0026104417670682,Separability and validity clauses,procedural,draft_not_expert_validated
+2018,153,1.0333333333333332,249,0.0041499330655957,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2018,154,1.0,249,0.0040160642570281,"Unresolved keywords: class, lands, residential",unclear,draft_not_expert_validated
+2018,155,1.0,249,0.0040160642570281,Voting and enactment records,procedural,draft_not_expert_validated
+2019,-1,43.30625901875902,266,0.1628054850329286,Outliers,unassigned,not_a_substantive_topic
+2019,0,16.55,266,0.0622180451127819,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2019,1,0.9489177489177488,266,0.0035673599583374,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2019,2,2.895238095238095,266,0.0108843537414965,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2019,3,6.416666666666667,266,0.0241228070175438,Event-related road closures,policy,draft_not_expert_validated
+2019,4,0.1428571428571428,266,0.0005370569280343,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2019,5,2.481818181818182,266,0.0093301435406698,Child protection and welfare,policy,draft_not_expert_validated
+2019,6,0.7333333333333334,266,0.0027568922305764,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2019,7,4.7444444444444445,266,0.0178362573099415,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,8,2.625,266,0.0098684210526315,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2019,9,3.9166666666666665,266,0.0147243107769423,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,10,7.635714285714286,266,0.0287056928034371,Amusement-tax exemptions,policy,draft_not_expert_validated
+2019,11,7.769047619047619,266,0.0292069459362692,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2019,12,3.327777777777778,266,0.0125104427736006,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2019,13,1.2333333333333334,266,0.0046365914786967,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2019,14,4.877777777777778,266,0.0183375104427736,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2019,15,2.4375,266,0.0091635338345864,Government staffing and qualifications,governance,draft_not_expert_validated
+2019,16,4.5777777777777775,266,0.0172096908939014,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,18,4.5,266,0.0169172932330827,Mayoral contracting powers,governance,draft_not_expert_validated
+2019,19,0.9857142857142858,266,0.0037056928034371,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2019,20,0.8333333333333333,266,0.0031328320802005,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2019,21,1.9595238095238092,266,0.0073666308628714,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,22,3.0,266,0.0112781954887218,Council correspondence and legal endorsements,procedural,draft_not_expert_validated
+2019,23,2.6,266,0.0097744360902255,Event-related road closures,policy,draft_not_expert_validated
+2019,24,2.9,266,0.0109022556390977,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2019,25,2.3166666666666664,266,0.0087092731829573,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,26,0.5095238095238095,266,0.0019155030433225,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,27,2.6833333333333336,266,0.0100877192982456,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,28,0.25,266,0.0009398496240601,Voting and enactment records,procedural,draft_not_expert_validated
+2019,29,1.3095238095238095,266,0.004923021840315,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2019,30,3.700432900432901,266,0.0139114018813266,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,31,12.916666666666666,266,0.0485588972431077,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2019,32,1.3928571428571428,266,0.0052363050483351,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,33,2.833333333333333,266,0.0106516290726817,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,35,0.4,266,0.0015037593984962,"Unresolved keywords: control, exercise, bonds",unclear,draft_not_expert_validated
+2019,36,0.3428571428571428,266,0.0012889366272824,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2019,37,2.0,266,0.0075187969924812,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,38,1.6583333333333334,266,0.0062343358395989,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2019,39,0.7595238095238095,266,0.0028553526673827,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2019,40,0.4428571428571428,266,0.0016648764769065,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2019,42,0.7333333333333334,266,0.0027568922305764,"Unresolved keywords: lgsfbdp, procurement, audit",unclear,draft_not_expert_validated
+2019,43,2.283333333333333,266,0.0085839598997493,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,44,1.0166666666666666,266,0.0038220551378446,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,45,3.892857142857143,266,0.0146348012889366,Amusement-tax exemptions,policy,draft_not_expert_validated
+2019,46,3.477777777777778,266,0.0130743525480367,Education and scholarship assistance,policy,draft_not_expert_validated
+2019,47,0.5333333333333333,266,0.0020050125313283,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2019,49,1.0,266,0.0037593984962406,Council attendance and session records,procedural,draft_not_expert_validated
+2019,50,1.9095238095238096,266,0.0071786609380594,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,52,0.5333333333333333,266,0.0020050125313283,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,53,2.611111111111111,266,0.0098162071846282,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2019,54,0.25,266,0.0009398496240601,"Unresolved keywords: absolute, addendum, carmen",unclear,draft_not_expert_validated
+2019,55,1.1,266,0.0041353383458646,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2019,57,0.2,266,0.0007518796992481,"Unresolved keywords: telecom, tower, globe",unclear,draft_not_expert_validated
+2019,58,0.3095238095238095,266,0.0011636233440744,"Unresolved keywords: vi, provide, policy",unclear,draft_not_expert_validated
+2019,60,0.2,266,0.0007518796992481,"Unresolved keywords: contest, violation, citation",unclear,draft_not_expert_validated
+2019,61,0.2291666666666666,266,0.0008615288220551,"Unresolved keywords: enhance, promote, welfare",unclear,draft_not_expert_validated
+2019,62,0.5,266,0.0018796992481203,"Unresolved keywords: policy, rights, recognizes",unclear,draft_not_expert_validated
+2019,63,1.4333333333333331,266,0.0053884711779448,"Unresolved keywords: vi, xxx, pursuant",unclear,draft_not_expert_validated
+2019,64,2.1,266,0.0078947368421052,"Unresolved keywords: quarry, sand, gravel",unclear,draft_not_expert_validated
+2019,65,1.1666666666666663,266,0.0043859649122807,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2019,66,2.1666666666666665,266,0.0081453634085213,Trade-event permit and fee exemptions,policy,draft_not_expert_validated
+2019,68,8.0,266,0.0300751879699248,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2019,69,2.2666666666666666,266,0.0085213032581453,"Unresolved keywords: wit, pursuant, economical",unclear,draft_not_expert_validated
+2019,70,0.2,266,0.0007518796992481,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2019,72,0.25,266,0.0009398496240601,Mayoral contracting powers,governance,draft_not_expert_validated
+2019,73,1.342857142857143,266,0.005048335123523,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2019,74,0.5666666666666667,266,0.0021303258145363,"Unresolved keywords: states, vi, republic",unclear,draft_not_expert_validated
+2019,75,0.1666666666666666,266,0.0006265664160401,"Unresolved keywords: enhance, promote, prosperity",unclear,draft_not_expert_validated
+2019,76,1.25,266,0.0046992481203007,Event-related road closures,policy,draft_not_expert_validated
+2019,77,2.628571428571429,266,0.0098818474758324,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2019,78,2.177380952380952,266,0.0081856426781238,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2019,79,2.833333333333333,266,0.0106516290726817,Cooperative financing and loan agreements,policy,draft_not_expert_validated
+2019,80,0.3333333333333333,266,0.0012531328320802,Health workforce and midwifery support,policy,draft_not_expert_validated
+2019,81,1.4166666666666663,266,0.0053258145363408,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2019,82,0.3666666666666667,266,0.0013784461152882,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,83,0.45,266,0.0016917293233082,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2019,84,0.1666666666666666,266,0.0006265664160401,"Unresolved keywords: policy, adhere, humanitarian",unclear,draft_not_expert_validated
+2019,85,0.2,266,0.0007518796992481,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2019,86,2.395238095238095,266,0.0090046544933762,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2019,87,1.1,266,0.0041353383458646,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,88,1.6166666666666667,266,0.0060776942355889,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,90,0.5,266,0.0018796992481203,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2019,91,0.4166666666666666,266,0.0015664160401002,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,92,0.8166666666666667,266,0.0030701754385964,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,93,0.7,266,0.0026315789473684,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,94,1.0095238095238095,266,0.0037952022914428,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,96,2.8666666666666667,266,0.0107769423558897,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2019,97,0.4678571428571428,266,0.0017588614393125,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2019,98,1.1833333333333331,266,0.0044486215538847,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2019,99,0.2291666666666666,266,0.0008615288220551,"Unresolved keywords: agriculture, narrative, staff",unclear,draft_not_expert_validated
+2019,100,0.65,266,0.0024436090225563,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,102,1.1761904761904762,266,0.0044217687074829,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,103,0.8,266,0.0030075187969924,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2019,104,0.5,266,0.0018796992481203,Council attendance and session records,procedural,draft_not_expert_validated
+2019,105,0.1,266,0.000375939849624,"Unresolved keywords: funds, appropriation, budget",unclear,draft_not_expert_validated
+2019,106,0.5333333333333333,266,0.0020050125313283,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,107,0.45,266,0.0016917293233082,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,108,0.6666666666666666,266,0.0025062656641604,"Unresolved keywords: piapi, matina, sites",unclear,draft_not_expert_validated
+2019,109,0.0625,266,0.000234962406015,"Unresolved keywords: transmittal, transmit, review",unclear,draft_not_expert_validated
+2019,110,2.0,266,0.0075187969924812,"Unresolved keywords: water, parks, zone",unclear,draft_not_expert_validated
+2019,111,0.7833333333333333,266,0.0029448621553884,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,114,1.019047619047619,266,0.0038310060866451,"Unresolved keywords: units, discharge, functions",unclear,draft_not_expert_validated
+2019,115,1.85,266,0.0069548872180451,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2019,116,0.3720238095238095,266,0.0013985857500895,"Unresolved keywords: inconsistent, repealed, accordingly",unclear,draft_not_expert_validated
+2019,117,0.25,266,0.0009398496240601,"Unresolved keywords: exemptions, incentives, deem",unclear,draft_not_expert_validated
+2019,118,1.7,266,0.006390977443609,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,119,1.6333333333333333,266,0.0061403508771929,"Unresolved keywords: allowable, quarry, request",unclear,draft_not_expert_validated
+2019,121,0.25,266,0.0009398496240601,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,122,1.0333333333333332,266,0.0038847117794486,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2019,123,2.1095238095238096,266,0.0079305406373075,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2019,124,0.75,266,0.0028195488721804,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,125,0.2,266,0.0007518796992481,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2019,126,0.25,266,0.0009398496240601,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2019,128,0.3333333333333333,266,0.0012531328320802,Mayoral contracting powers,governance,draft_not_expert_validated
+2019,129,0.4761904761904761,266,0.0017901897601145,Voting and enactment records,procedural,draft_not_expert_validated
+2019,130,0.3928571428571428,266,0.0014769065520945,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,133,1.0333333333333332,266,0.0038847117794486,"Unresolved keywords: turn, st, left",unclear,draft_not_expert_validated
+2019,134,0.5218253968253967,266,0.0019617496121255,"Unresolved keywords: million, interfund, thousand",unclear,draft_not_expert_validated
+2019,135,1.0095238095238095,266,0.0037952022914428,"Unresolved keywords: vi, policy, provides",unclear,draft_not_expert_validated
+2019,136,0.45,266,0.0016917293233082,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2019,137,2.033333333333333,266,0.0076441102756892,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2019,138,0.4,266,0.0015037593984962,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2019,139,0.2,266,0.0007518796992481,"Unresolved keywords: organizations, industrialization, spur",unclear,draft_not_expert_validated
+2019,142,1.1666666666666663,266,0.0043859649122807,"Unresolved keywords: exemption, period, december",unclear,draft_not_expert_validated
+2019,146,0.1818181818181818,266,0.0006835269993164,"Unresolved keywords: role, contextualization, sensitivity",unclear,draft_not_expert_validated
+2019,147,0.3333333333333333,266,0.0012531328320802,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,148,0.9833333333333334,266,0.0036967418546365,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,149,1.0666666666666669,266,0.0040100250626566,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,150,0.75,266,0.0028195488721804,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,152,0.45,266,0.0016917293233082,Separability and validity clauses,procedural,draft_not_expert_validated
+2019,153,0.1666666666666666,266,0.0006265664160401,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2019,154,1.65,266,0.0062030075187969,"Unresolved keywords: class, lands, residential",unclear,draft_not_expert_validated
+2019,156,0.3666666666666667,266,0.0013784461152882,Mayoral contracting powers,governance,draft_not_expert_validated
+2019,157,0.4166666666666666,266,0.0015664160401002,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,-1,24.02757381507381,165,0.1456216594852958,Outliers,unassigned,not_a_substantive_topic
+2020,0,1.5750000000000002,165,0.0095454545454545,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2020,1,5.515909090909091,165,0.0334297520661157,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2020,2,1.112121212121212,165,0.0067401285583103,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2020,3,0.4555555555555556,165,0.0027609427609427,Event-related road closures,policy,draft_not_expert_validated
+2020,4,0.6000000000000001,165,0.0036363636363636,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2020,5,1.6947552447552447,165,0.0102712439076075,Child protection and welfare,policy,draft_not_expert_validated
+2020,6,1.2595238095238095,165,0.0076334776334776,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2020,7,2.2095238095238097,165,0.0133910533910533,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,8,1.0,165,0.006060606060606,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2020,9,0.7023809523809523,165,0.0042568542568542,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,10,1.375,165,0.0083333333333333,Amusement-tax exemptions,policy,draft_not_expert_validated
+2020,11,2.261111111111111,165,0.0137037037037037,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2020,12,1.9166666666666667,165,0.0116161616161616,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2020,13,2.895970695970696,165,0.0175513375513375,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2020,14,1.2,165,0.0072727272727272,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2020,15,0.4561688311688311,165,0.0027646595828414,Government staffing and qualifications,governance,draft_not_expert_validated
+2020,16,1.4666666666666668,165,0.0088888888888888,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,18,13.0,165,0.0787878787878787,Mayoral contracting powers,governance,draft_not_expert_validated
+2020,20,0.5333333333333333,165,0.0032323232323232,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2020,21,1.792857142857143,165,0.0108658008658008,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,24,0.9833333333333334,165,0.0059595959595959,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2020,25,1.7833333333333332,165,0.0108080808080808,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,26,1.7833333333333334,165,0.0108080808080808,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,27,0.5666666666666667,165,0.0034343434343434,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,29,0.2,165,0.0012121212121212,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2020,30,1.4194444444444445,165,0.0086026936026936,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,31,3.7,165,0.0224242424242424,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2020,32,0.8095238095238095,165,0.0049062049062049,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,33,1.0458333333333334,165,0.0063383838383838,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,35,1.4833333333333334,165,0.0089898989898989,"Unresolved keywords: control, exercise, bonds",unclear,draft_not_expert_validated
+2020,36,0.3333333333333333,165,0.002020202020202,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2020,37,1.15,165,0.0069696969696969,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,38,1.0666666666666669,165,0.0064646464646464,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2020,39,0.5454545454545454,165,0.0033057851239669,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2020,40,0.5089646464646465,165,0.0030846342209978,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2020,41,0.1666666666666666,165,0.001010101010101,Mayoral contracting powers,governance,draft_not_expert_validated
+2020,42,0.3766233766233766,165,0.0022825659189295,"Unresolved keywords: lgsfbdp, procurement, audit",unclear,draft_not_expert_validated
+2020,43,0.8666666666666667,165,0.0052525252525252,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,44,0.65,165,0.0039393939393939,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,45,0.75,165,0.0045454545454545,Amusement-tax exemptions,policy,draft_not_expert_validated
+2020,46,1.761904761904762,165,0.0106782106782106,Education and scholarship assistance,policy,draft_not_expert_validated
+2020,49,2.111111111111111,165,0.0127946127946127,Council attendance and session records,procedural,draft_not_expert_validated
+2020,50,1.1,165,0.0066666666666666,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,51,1.9666666666666668,165,0.0119191919191919,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2020,52,1.4,165,0.0084848484848484,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,53,1.1428571428571428,165,0.0069264069264069,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2020,55,1.3909090909090909,165,0.0084297520661157,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2020,57,8.483333333333334,165,0.0514141414141414,"Unresolved keywords: telecom, tower, globe",unclear,draft_not_expert_validated
+2020,60,2.007575757575758,165,0.0121671258034894,"Unresolved keywords: contest, violation, citation",unclear,draft_not_expert_validated
+2020,62,0.6454545454545455,165,0.0039118457300275,"Unresolved keywords: policy, rights, recognizes",unclear,draft_not_expert_validated
+2020,63,1.9833333333333332,165,0.012020202020202,"Unresolved keywords: vi, xxx, pursuant",unclear,draft_not_expert_validated
+2020,65,0.9666666666666668,165,0.0058585858585858,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2020,66,0.226010101010101,165,0.00136975818794,Trade-event permit and fee exemptions,policy,draft_not_expert_validated
+2020,67,0.25,165,0.0015151515151515,Mayoral contracting powers,governance,draft_not_expert_validated
+2020,68,2.0,165,0.0121212121212121,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2020,69,0.8504329004329004,165,0.0051541387905024,"Unresolved keywords: wit, pursuant, economical",unclear,draft_not_expert_validated
+2020,73,1.3047979797979798,165,0.0079078665442301,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2020,74,1.0666666666666669,165,0.0064646464646464,"Unresolved keywords: states, vi, republic",unclear,draft_not_expert_validated
+2020,75,0.25,165,0.0015151515151515,"Unresolved keywords: enhance, promote, prosperity",unclear,draft_not_expert_validated
+2020,77,0.6666666666666666,165,0.004040404040404,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2020,78,0.7,165,0.0042424242424242,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2020,80,0.4166666666666666,165,0.0025252525252525,Health workforce and midwifery support,policy,draft_not_expert_validated
+2020,81,4.578787878787879,165,0.0277502295684113,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2020,82,0.6325757575757576,165,0.0038337924701561,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,83,0.4,165,0.0024242424242424,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2020,85,4.7,165,0.0284848484848484,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2020,86,0.2,165,0.0012121212121212,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2020,87,1.0095238095238095,165,0.0061183261183261,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,89,0.0454545454545454,165,0.0002754820936639,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,90,0.25,165,0.0015151515151515,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2020,92,0.7,165,0.0042424242424242,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,93,0.25,165,0.0015151515151515,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,94,0.5666666666666667,165,0.0034343434343434,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,95,0.1666666666666666,165,0.001010101010101,"Unresolved keywords: pole, cables, wires",unclear,draft_not_expert_validated
+2020,96,2.216666666666667,165,0.0134343434343434,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2020,97,0.1666666666666666,165,0.001010101010101,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2020,98,0.3333333333333333,165,0.002020202020202,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2020,99,0.578088578088578,165,0.0035035671399307,"Unresolved keywords: agriculture, narrative, staff",unclear,draft_not_expert_validated
+2020,100,0.8500000000000001,165,0.0051515151515151,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,102,0.2,165,0.0012121212121212,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,103,1.0,165,0.006060606060606,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2020,105,0.6492424242424242,165,0.0039348025711662,"Unresolved keywords: funds, appropriation, budget",unclear,draft_not_expert_validated
+2020,106,0.25,165,0.0015151515151515,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,107,0.25,165,0.0015151515151515,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,109,0.3095238095238095,165,0.0018759018759018,"Unresolved keywords: transmittal, transmit, review",unclear,draft_not_expert_validated
+2020,110,3.8125,165,0.0231060606060606,"Unresolved keywords: water, parks, zone",unclear,draft_not_expert_validated
+2020,111,0.5,165,0.003030303030303,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,113,0.1666666666666666,165,0.001010101010101,"Unresolved keywords: declaration, poucy, policy",unclear,draft_not_expert_validated
+2020,114,0.4,165,0.0024242424242424,"Unresolved keywords: units, discharge, functions",unclear,draft_not_expert_validated
+2020,116,0.4935897435897436,165,0.0029914529914529,"Unresolved keywords: inconsistent, repealed, accordingly",unclear,draft_not_expert_validated
+2020,117,0.5666666666666667,165,0.0034343434343434,"Unresolved keywords: exemptions, incentives, deem",unclear,draft_not_expert_validated
+2020,118,1.5435897435897437,165,0.0093550893550893,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,120,4.75,165,0.0287878787878787,"Unresolved keywords: tower, telecom, geostrukt",unclear,draft_not_expert_validated
+2020,121,0.45,165,0.0027272727272727,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,122,0.3928571428571428,165,0.0023809523809523,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2020,123,0.5333333333333333,165,0.0032323232323232,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2020,124,0.5,165,0.003030303030303,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,125,0.3666666666666667,165,0.0022222222222222,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2020,126,0.4166666666666666,165,0.0025252525252525,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2020,127,0.1666666666666666,165,0.001010101010101,"Unresolved keywords: implementing, regulations, irr",unclear,draft_not_expert_validated
+2020,130,0.125,165,0.0007575757575757,Separability and validity clauses,procedural,draft_not_expert_validated
+2020,132,0.5484848484848485,165,0.0033241505968778,"Unresolved keywords: contacts, confirmed, positive",unclear,draft_not_expert_validated
+2020,134,0.1666666666666666,165,0.001010101010101,"Unresolved keywords: million, interfund, thousand",unclear,draft_not_expert_validated
+2020,135,0.7095238095238096,165,0.0043001443001443,"Unresolved keywords: vi, policy, provides",unclear,draft_not_expert_validated
+2020,136,0.45,165,0.0027272727272727,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2020,137,0.45,165,0.0027272727272727,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2020,138,0.2,165,0.0012121212121212,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2020,141,0.8166666666666667,165,0.0049494949494949,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,144,4.116666666666667,165,0.0249494949494949,"Unresolved keywords: bspt, construction, telecom",unclear,draft_not_expert_validated
+2020,146,0.1909090909090909,165,0.0011570247933884,"Unresolved keywords: role, contextualization, sensitivity",unclear,draft_not_expert_validated
+2020,147,0.25,165,0.0015151515151515,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,148,0.2,165,0.0012121212121212,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,149,0.2,165,0.0012121212121212,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,151,0.1666666666666666,165,0.001010101010101,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2020,155,0.5833333333333333,165,0.0035353535353535,Voting and enactment records,procedural,draft_not_expert_validated
+2020,156,0.3333333333333333,165,0.002020202020202,Mayoral contracting powers,governance,draft_not_expert_validated
+2020,157,0.2,165,0.0012121212121212,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,-1,41.70403026714813,233,0.1789872543654426,Outliers,unassigned,not_a_substantive_topic
+2021,1,10.270828255407096,233,0.0440808079631205,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2021,2,1.1083333333333334,233,0.0047567954220314,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2021,5,2.117816091954023,233,0.0090893394504464,Child protection and welfare,policy,draft_not_expert_validated
+2021,6,4.388095238095239,233,0.0188330267729409,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2021,7,3.423506069094304,233,0.0146931590948253,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,9,1.9075757575757573,233,0.00818702041878,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,10,0.5,233,0.0021459227467811,Amusement-tax exemptions,policy,draft_not_expert_validated
+2021,11,2.156040775766942,233,0.0092533938874117,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2021,12,2.794047619047619,233,0.0119916206826078,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2021,13,4.833333333333334,233,0.0207439198855507,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2021,14,2.2527777777777778,233,0.0096685741535526,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2021,15,3.0994965846639277,233,0.0133025604492014,Government staffing and qualifications,governance,draft_not_expert_validated
+2021,16,3.061111111111112,233,0.0131378159275154,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,18,26.0,233,0.111587982832618,Mayoral contracting powers,governance,draft_not_expert_validated
+2021,19,0.1666666666666666,233,0.0007153075822603,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2021,20,0.5,233,0.0021459227467811,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2021,21,3.9845238095238096,233,0.0171009605558961,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,22,0.6428571428571428,233,0.0027590435315757,Council correspondence and legal endorsements,procedural,draft_not_expert_validated
+2021,23,0.3333333333333333,233,0.0014306151645207,Event-related road closures,policy,draft_not_expert_validated
+2021,24,1.7666666666666666,233,0.0075822603719599,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2021,25,0.7095238095238096,233,0.0030451665644798,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,26,2.026190476190476,233,0.0086960964643368,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,27,1.9504329004329004,233,0.0083709566542184,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,28,0.7575757575757576,233,0.0032513981011835,Voting and enactment records,procedural,draft_not_expert_validated
+2021,30,0.8240963313224976,233,0.0035368941258476,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,31,10.424242424242424,233,0.044739237872285,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2021,32,0.812155388471178,233,0.0034856454440823,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,33,1.6011904761904765,233,0.0068720621295728,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,34,2.1333333333333333,233,0.0091559370529327,Mayoral contracting powers,governance,draft_not_expert_validated
+2021,35,1.1345238095238095,233,0.0048692008992438,"Unresolved keywords: control, exercise, bonds",unclear,draft_not_expert_validated
+2021,37,1.3766233766233766,233,0.0059082548352934,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,38,1.6333333333333333,233,0.0070100143061516,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2021,39,2.304761904761905,233,0.0098916819946862,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2021,40,1.374820909224934,233,0.0059005189237121,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2021,41,0.7,233,0.0030042918454935,Mayoral contracting powers,governance,draft_not_expert_validated
+2021,42,4.645238095238095,233,0.0199366441855712,"Unresolved keywords: lgsfbdp, procurement, audit",unclear,draft_not_expert_validated
+2021,43,1.9095238095238092,233,0.0081953811567545,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,44,0.7595238095238095,233,0.0032597588391579,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,45,0.1111111111111111,233,0.0004768717215069,Amusement-tax exemptions,policy,draft_not_expert_validated
+2021,46,3.311111111111111,233,0.014210777300906,Education and scholarship assistance,policy,draft_not_expert_validated
+2021,48,0.4166666666666666,233,0.0017882689556509,"Unresolved keywords: stricken, standby, epidemics",unclear,draft_not_expert_validated
+2021,50,1.4833333333333334,233,0.0063662374821173,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,51,0.7,233,0.0030042918454935,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2021,52,1.9706349206349207,233,0.0084576606035833,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,53,1.0166666666666666,233,0.0043633762517882,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2021,54,0.8095238095238095,233,0.003474351113836,"Unresolved keywords: absolute, addendum, carmen",unclear,draft_not_expert_validated
+2021,55,0.4696378812758123,233,0.0020156132243597,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2021,56,0.3428571428571428,233,0.001471489883507,OCR-heavy or unclear text cluster,unclear,draft_not_expert_validated
+2021,58,2.5047619047619047,233,0.0107500510933987,"Unresolved keywords: vi, provide, policy",unclear,draft_not_expert_validated
+2021,59,0.2,233,0.0008583690987124,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,60,1.4051752341226025,233,0.0060307949962343,"Unresolved keywords: contest, violation, citation",unclear,draft_not_expert_validated
+2021,61,0.5095238095238095,233,0.0021867974657674,"Unresolved keywords: enhance, promote, welfare",unclear,draft_not_expert_validated
+2021,62,1.0109650181911845,233,0.0043389056574728,"Unresolved keywords: policy, rights, recognizes",unclear,draft_not_expert_validated
+2021,63,1.55,233,0.0066523605150214,"Unresolved keywords: vi, xxx, pursuant",unclear,draft_not_expert_validated
+2021,64,0.6166666666666667,233,0.0026466380543633,"Unresolved keywords: quarry, sand, gravel",unclear,draft_not_expert_validated
+2021,65,0.4857142857142857,233,0.0020846106683016,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2021,67,1.926190476190476,233,0.0082669119149805,Mayoral contracting powers,governance,draft_not_expert_validated
+2021,68,3.5,233,0.0150214592274678,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2021,72,2.45,233,0.0105150214592274,Mayoral contracting powers,governance,draft_not_expert_validated
+2021,73,1.0670467389507636,233,0.0045795997379861,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2021,74,2.2857142857142856,233,0.0098099325567136,"Unresolved keywords: states, vi, republic",unclear,draft_not_expert_validated
+2021,75,2.169047619047619,233,0.0093092172491314,"Unresolved keywords: enhance, promote, prosperity",unclear,draft_not_expert_validated
+2021,76,0.0526315789473684,233,0.0002258866049243,Event-related road closures,policy,draft_not_expert_validated
+2021,77,0.1666666666666666,233,0.0007153075822603,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2021,78,0.9583333333333331,233,0.0041130185979971,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2021,80,0.7,233,0.0030042918454935,Health workforce and midwifery support,policy,draft_not_expert_validated
+2021,81,0.1666666666666666,233,0.0007153075822603,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2021,82,0.6511494252873563,233,0.0027946327265551,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,83,0.5833333333333333,233,0.0025035765379113,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2021,85,0.45,233,0.001931330472103,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2021,87,1.25,233,0.0053648068669527,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,88,0.3095238095238095,233,0.0013284283670549,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,90,1.3666666666666667,233,0.005865522174535,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2021,91,0.125,233,0.0005364806866952,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,92,0.4102564102564102,233,0.0017607571255639,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,93,1.15,233,0.0049356223175965,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,94,0.6935897435897436,233,0.0029767800154066,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,96,1.8666666666666667,233,0.0080114449213161,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2021,97,1.0833333333333333,233,0.0046494992846924,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2021,98,0.8761904761904762,233,0.0037604741467402,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2021,99,0.3965903377668083,233,0.0017021044539347,"Unresolved keywords: agriculture, narrative, staff",unclear,draft_not_expert_validated
+2021,100,0.5383458646616541,233,0.0023104972732259,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,101,1.4084738790621143,233,0.0060449522706528,"Unresolved keywords: library, cultural, arts",unclear,draft_not_expert_validated
+2021,102,1.0666666666666669,233,0.0045779685264663,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,103,0.8,233,0.0034334763948497,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2021,104,1.0,233,0.0042918454935622,Council attendance and session records,procedural,draft_not_expert_validated
+2021,105,0.82409124954497,233,0.0035368723156436,"Unresolved keywords: funds, appropriation, budget",unclear,draft_not_expert_validated
+2021,106,0.1666666666666666,233,0.0007153075822603,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,107,0.2,233,0.0008583690987124,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,108,7.333333333333333,233,0.0314735336194563,"Unresolved keywords: piapi, matina, sites",unclear,draft_not_expert_validated
+2021,109,0.5514705882352942,233,0.0023668265589497,"Unresolved keywords: transmittal, transmit, review",unclear,draft_not_expert_validated
+2021,110,0.3594497607655502,233,0.0015427028359036,"Unresolved keywords: water, parks, zone",unclear,draft_not_expert_validated
+2021,111,0.3333333333333333,233,0.0014306151645207,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,113,2.833333333333333,233,0.0121602288984263,"Unresolved keywords: declaration, poucy, policy",unclear,draft_not_expert_validated
+2021,114,1.8166666666666669,233,0.007796852646638,"Unresolved keywords: units, discharge, functions",unclear,draft_not_expert_validated
+2021,116,0.839556277056277,233,0.0036032458242758,"Unresolved keywords: inconsistent, repealed, accordingly",unclear,draft_not_expert_validated
+2021,117,0.1666666666666666,233,0.0007153075822603,"Unresolved keywords: exemptions, incentives, deem",unclear,draft_not_expert_validated
+2021,118,0.1666666666666666,233,0.0007153075822603,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,121,0.3666666666666667,233,0.0015736766809728,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,122,0.25,233,0.0010729613733905,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2021,123,0.1666666666666666,233,0.0007153075822603,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2021,125,0.9095238095238096,233,0.0039035356631923,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2021,126,2.35,233,0.0100858369098712,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2021,127,0.3248488253025458,233,0.0013942009669637,"Unresolved keywords: implementing, regulations, irr",unclear,draft_not_expert_validated
+2021,128,0.0909090909090909,233,0.000390167772142,Mayoral contracting powers,governance,draft_not_expert_validated
+2021,130,0.7666666666666667,233,0.0032904148783977,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,132,1.1394716394716395,233,0.0048904362209083,"Unresolved keywords: contacts, confirmed, positive",unclear,draft_not_expert_validated
+2021,134,0.4166666666666666,233,0.0017882689556509,"Unresolved keywords: million, interfund, thousand",unclear,draft_not_expert_validated
+2021,135,0.375,233,0.0016094420600858,"Unresolved keywords: vi, policy, provides",unclear,draft_not_expert_validated
+2021,136,0.25,233,0.0010729613733905,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2021,137,0.5,233,0.0021459227467811,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2021,138,0.5353535353535354,233,0.0022976546581696,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2021,139,0.2,233,0.0008583690987124,"Unresolved keywords: organizations, industrialization, spur",unclear,draft_not_expert_validated
+2021,141,0.25,233,0.0010729613733905,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,142,0.25,233,0.0010729613733905,"Unresolved keywords: exemption, period, december",unclear,draft_not_expert_validated
+2021,146,0.0357142857142857,233,0.0001532801961986,"Unresolved keywords: role, contextualization, sensitivity",unclear,draft_not_expert_validated
+2021,149,0.2,233,0.0008583690987124,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,150,0.75,233,0.0032188841201716,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,152,0.25,233,0.0010729613733905,Separability and validity clauses,procedural,draft_not_expert_validated
+2021,153,0.45,233,0.001931330472103,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2021,154,1.2,233,0.0051502145922746,"Unresolved keywords: class, lands, residential",unclear,draft_not_expert_validated
+2021,156,0.9107142857142856,233,0.0039086450030656,Mayoral contracting powers,governance,draft_not_expert_validated
+2022,-1,43.57116073469015,279,0.1561690348913625,Outliers,unassigned,not_a_substantive_topic
+2022,0,8.0,279,0.028673835125448,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2022,1,5.352907713201831,279,0.019186049151261,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2022,2,1.1287157287157288,279,0.0040455760885868,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2022,3,2.15,279,0.0077060931899641,Event-related road closures,policy,draft_not_expert_validated
+2022,4,2.776190476190476,279,0.0099505034988905,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2022,5,2.5636363636363635,279,0.009188660801564,Child protection and welfare,policy,draft_not_expert_validated
+2022,6,3.3873015873015877,279,0.0121408659043067,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2022,7,0.6190476190476191,279,0.0022188086704215,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,8,0.6666666666666666,279,0.002389486260454,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2022,9,5.680555555555555,279,0.0203604141776184,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,10,1.2333333333333334,279,0.0044205495818399,Amusement-tax exemptions,policy,draft_not_expert_validated
+2022,11,1.6869370825253178,279,0.0060463694714169,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2022,12,1.2777777777777777,279,0.0045798486658701,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2022,13,3.202380952380953,279,0.0114780679296808,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2022,14,2.7095238095238097,279,0.0097115548728451,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2022,15,5.391889483065953,279,0.0193257687565087,Government staffing and qualifications,governance,draft_not_expert_validated
+2022,16,1.809523809523809,279,0.0064857484212322,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,18,11.0,279,0.039426523297491,Mayoral contracting powers,governance,draft_not_expert_validated
+2022,19,1.4,279,0.0050179211469534,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2022,20,2.025,279,0.007258064516129,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2022,21,5.477777777777778,279,0.0196336121067303,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,23,4.383333333333334,279,0.015710872162485,Event-related road closures,policy,draft_not_expert_validated
+2022,24,3.7666666666666666,279,0.0135005973715651,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2022,25,2.0416666666666665,279,0.0073178016726403,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,26,5.75,279,0.0206093189964157,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,27,0.3177777777777777,279,0.0011389884508164,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,28,1.225,279,0.0043906810035842,Voting and enactment records,procedural,draft_not_expert_validated
+2022,29,35.416666666666664,279,0.1269414575866188,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2022,30,0.5382579185520362,279,0.0019292398514409,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,31,5.333333333333333,279,0.019115890083632,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2022,32,1.5444444444444445,279,0.0055356431700517,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,33,2.15,279,0.0077060931899641,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,34,3.1833333333333336,279,0.0114097968936678,Mayoral contracting powers,governance,draft_not_expert_validated
+2022,35,2.2777777777777777,279,0.0081640780565511,"Unresolved keywords: control, exercise, bonds",unclear,draft_not_expert_validated
+2022,37,0.1428571428571428,279,0.0005120327700972,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,38,0.9777777777777776,279,0.0035045798486658,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2022,39,0.8206349206349206,279,0.0029413438015588,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2022,40,0.6541452991452992,279,0.0023446068069723,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2022,41,4.733333333333333,279,0.0169653524492234,Mayoral contracting powers,governance,draft_not_expert_validated
+2022,42,1.8166666666666669,279,0.0065113500597371,"Unresolved keywords: lgsfbdp, procurement, audit",unclear,draft_not_expert_validated
+2022,43,1.3166666666666669,279,0.0047192353643966,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,44,4.341666666666667,279,0.0155615292712066,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,45,1.65,279,0.0059139784946236,Amusement-tax exemptions,policy,draft_not_expert_validated
+2022,47,2.4000000000000004,279,0.0086021505376344,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2022,50,1.019047619047619,279,0.0036525004266939,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,51,1.9333333333333331,279,0.0069295101553166,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2022,52,1.1333333333333333,279,0.0040621266427718,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,53,0.125,279,0.0004480286738351,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2022,54,1.25,279,0.0044802867383512,"Unresolved keywords: absolute, addendum, carmen",unclear,draft_not_expert_validated
+2022,55,1.5685006170300289,279,0.0056218660108603,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2022,57,0.3333333333333333,279,0.001194743130227,"Unresolved keywords: telecom, tower, globe",unclear,draft_not_expert_validated
+2022,58,1.069047619047619,279,0.003831711896228,"Unresolved keywords: vi, provide, policy",unclear,draft_not_expert_validated
+2022,59,0.3333333333333333,279,0.001194743130227,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,60,0.3697552447552448,279,0.0013252876156101,"Unresolved keywords: contest, violation, citation",unclear,draft_not_expert_validated
+2022,61,1.946078431372549,279,0.0069751915102958,"Unresolved keywords: enhance, promote, welfare",unclear,draft_not_expert_validated
+2022,62,0.4149673202614379,279,0.0014873380654531,"Unresolved keywords: policy, rights, recognizes",unclear,draft_not_expert_validated
+2022,63,0.4166666666666666,279,0.0014934289127837,"Unresolved keywords: vi, xxx, pursuant",unclear,draft_not_expert_validated
+2022,64,0.6000000000000001,279,0.0021505376344086,"Unresolved keywords: quarry, sand, gravel",unclear,draft_not_expert_validated
+2022,65,1.9444444444444444,279,0.0069693349263241,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2022,67,2.1166666666666667,279,0.0075866188769414,Mayoral contracting powers,governance,draft_not_expert_validated
+2022,68,0.5,279,0.0017921146953405,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2022,69,0.3333333333333333,279,0.001194743130227,"Unresolved keywords: wit, pursuant, economical",unclear,draft_not_expert_validated
+2022,71,0.9,279,0.0032258064516129,"Unresolved keywords: policy, humanitarian, adhere",unclear,draft_not_expert_validated
+2022,72,1.95,279,0.0069892473118279,Mayoral contracting powers,governance,draft_not_expert_validated
+2022,73,0.2452237305178481,279,0.0008789381022145,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2022,74,0.4777777777777777,279,0.0017124651533253,"Unresolved keywords: states, vi, republic",unclear,draft_not_expert_validated
+2022,75,0.8583333333333334,279,0.0030764635603345,"Unresolved keywords: enhance, promote, prosperity",unclear,draft_not_expert_validated
+2022,76,0.5,279,0.0017921146953405,Event-related road closures,policy,draft_not_expert_validated
+2022,77,1.4,279,0.0050179211469534,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2022,78,0.1111111111111111,279,0.0003982477100756,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2022,79,1.5,279,0.0053763440860215,Cooperative financing and loan agreements,policy,draft_not_expert_validated
+2022,80,0.9833333333333334,279,0.0035244922341696,Health workforce and midwifery support,policy,draft_not_expert_validated
+2022,81,0.3333333333333333,279,0.001194743130227,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2022,82,0.1666666666666666,279,0.0005973715651135,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,83,0.7575757575757576,279,0.0027153252959704,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2022,84,0.3666666666666667,279,0.0013142174432497,"Unresolved keywords: policy, adhere, humanitarian",unclear,draft_not_expert_validated
+2022,85,0.2,279,0.0007168458781362,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2022,86,0.1428571428571428,279,0.0005120327700972,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2022,87,1.5428571428571427,279,0.0055299539170506,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,88,3.55,279,0.0127240143369175,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,89,0.7095238095238096,279,0.0025430960914831,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,90,0.95,279,0.0034050179211469,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2022,91,2.5444444444444443,279,0.0091198725607327,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,92,0.7,279,0.0025089605734767,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,93,1.2,279,0.0043010752688172,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,95,0.3076923076923077,279,0.0011028398125172,"Unresolved keywords: pole, cables, wires",unclear,draft_not_expert_validated
+2022,96,0.2,279,0.0007168458781362,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2022,97,0.4222222222222222,279,0.0015133412982875,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2022,98,0.1666666666666666,279,0.0005973715651135,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2022,99,0.4307783719548425,279,0.0015440085016302,"Unresolved keywords: agriculture, narrative, staff",unclear,draft_not_expert_validated
+2022,100,0.7095238095238096,279,0.0025430960914831,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,101,0.864126559714795,279,0.0030972278125978,"Unresolved keywords: library, cultural, arts",unclear,draft_not_expert_validated
+2022,102,0.5,279,0.0017921146953405,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,103,0.819047619047619,279,0.0029356545485577,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2022,105,0.6068250377073906,279,0.0021750001351519,"Unresolved keywords: funds, appropriation, budget",unclear,draft_not_expert_validated
+2022,106,3.3583333333333334,279,0.012037037037037,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,107,0.5333333333333333,279,0.0019115890083632,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,109,0.342156862745098,279,0.0012263686836741,"Unresolved keywords: transmittal, transmit, review",unclear,draft_not_expert_validated
+2022,110,0.2665912518853695,279,0.0009555242003059,"Unresolved keywords: water, parks, zone",unclear,draft_not_expert_validated
+2022,111,0.7219696969696969,279,0.0025877050070598,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,112,0.8666666666666667,279,0.0031063321385902,"Unresolved keywords: adhere, policy, humanitarian",unclear,draft_not_expert_validated
+2022,113,1.319047619047619,279,0.0047277692438982,"Unresolved keywords: declaration, poucy, policy",unclear,draft_not_expert_validated
+2022,114,0.8777777777777778,279,0.0031461569095977,"Unresolved keywords: units, discharge, functions",unclear,draft_not_expert_validated
+2022,116,0.6386363636363636,279,0.002289019224503,"Unresolved keywords: inconsistent, repealed, accordingly",unclear,draft_not_expert_validated
+2022,117,0.3088235294117647,279,0.0011068943706514,"Unresolved keywords: exemptions, incentives, deem",unclear,draft_not_expert_validated
+2022,118,0.2,279,0.0007168458781362,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,121,1.1166666666666667,279,0.0040023894862604,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,122,0.9166666666666666,279,0.0032855436081242,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2022,123,0.2,279,0.0007168458781362,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2022,124,1.0333333333333332,279,0.0037037037037037,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,125,1.6357142857142857,279,0.0058627752176139,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2022,127,0.2665912518853695,279,0.0009555242003059,"Unresolved keywords: implementing, regulations, irr",unclear,draft_not_expert_validated
+2022,128,0.8888888888888888,279,0.0031859816806053,Mayoral contracting powers,governance,draft_not_expert_validated
+2022,129,0.3333333333333333,279,0.001194743130227,Voting and enactment records,procedural,draft_not_expert_validated
+2022,130,0.7333333333333334,279,0.0026284348864994,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,133,1.95,279,0.0069892473118279,"Unresolved keywords: turn, st, left",unclear,draft_not_expert_validated
+2022,134,0.5968253968253968,279,0.0021391591284064,"Unresolved keywords: million, interfund, thousand",unclear,draft_not_expert_validated
+2022,135,0.2,279,0.0007168458781362,"Unresolved keywords: vi, policy, provides",unclear,draft_not_expert_validated
+2022,136,0.3333333333333333,279,0.001194743130227,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2022,138,0.4114219114219114,279,0.0014746305068885,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2022,139,1.8666666666666667,279,0.0066905615292712,"Unresolved keywords: organizations, industrialization, spur",unclear,draft_not_expert_validated
+2022,140,0.1666666666666666,279,0.0005973715651135,"Unresolved keywords: policy, humanitarian, adhere",unclear,draft_not_expert_validated
+2022,141,0.3928571428571428,279,0.0014080901177675,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,142,0.5333333333333333,279,0.0019115890083632,"Unresolved keywords: exemption, period, december",unclear,draft_not_expert_validated
+2022,143,1.1666666666666663,279,0.0041816009557945,"Unresolved keywords: slum, sir, involving",unclear,draft_not_expert_validated
+2022,145,3.022222222222222,279,0.0108323377140581,"Unresolved keywords: calamity, lgus, poftion",unclear,draft_not_expert_validated
+2022,146,0.2197147950089126,279,0.0007875082258383,"Unresolved keywords: role, contextualization, sensitivity",unclear,draft_not_expert_validated
+2022,147,1.6666666666666667,279,0.005973715651135,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,148,1.1833333333333331,279,0.0042413381123058,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,149,1.1833333333333331,279,0.0042413381123058,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,150,1.05,279,0.003763440860215,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,152,0.5666666666666667,279,0.0020310633213859,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,153,0.25,279,0.0008960573476702,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2022,157,0.7333333333333334,279,0.0026284348864994,Separability and validity clauses,procedural,draft_not_expert_validated
+2022,158,0.5333333333333333,279,0.0019115890083632,"Unresolved keywords: utilize, response, reduction",unclear,draft_not_expert_validated
+2023,-1,33.79976657329598,218,0.1550448007949357,Outliers,unassigned,not_a_substantive_topic
+2023,0,5.433333333333334,218,0.0249235474006116,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2023,1,0.3472222222222222,218,0.0015927624872579,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2023,2,2.826190476190476,218,0.0129641764962865,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2023,3,3.0,218,0.0137614678899082,Event-related road closures,policy,draft_not_expert_validated
+2023,4,2.715079365079365,218,0.012454492500364,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2023,5,0.9444444444444444,218,0.0043323139653414,Child protection and welfare,policy,draft_not_expert_validated
+2023,6,4.235714285714286,218,0.0194298820445609,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2023,7,2.35,218,0.0107798165137614,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,8,3.7,218,0.0169724770642201,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2023,9,6.920634920634921,218,0.0317460317460317,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,10,1.7666666666666666,218,0.0081039755351681,Amusement-tax exemptions,policy,draft_not_expert_validated
+2023,11,2.81031746031746,218,0.012891364496869,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2023,12,1.6166666666666667,218,0.0074159021406727,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2023,13,0.9261904761904762,218,0.0042485801660113,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2023,14,1.776190476190476,218,0.0081476627348186,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2023,15,5.127777777777778,218,0.0235219164118246,Government staffing and qualifications,governance,draft_not_expert_validated
+2023,16,2.566666666666667,218,0.0117737003058104,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,18,5.25,218,0.0240825688073394,Mayoral contracting powers,governance,draft_not_expert_validated
+2023,19,1.9595238095238092,218,0.0089886413280908,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2023,20,3.126190476190476,218,0.0143403232852774,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2023,21,0.8,218,0.0036697247706422,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,23,1.2,218,0.0055045871559633,Event-related road closures,policy,draft_not_expert_validated
+2023,24,3.433333333333333,218,0.0157492354740061,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2023,25,3.185714285714285,218,0.014613368283093,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,26,1.7595238095238095,218,0.0080712101354303,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,27,1.1928571428571428,218,0.0054718217562254,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,28,5.234523809523809,218,0.0240115771079073,Voting and enactment records,procedural,draft_not_expert_validated
+2023,29,0.3333333333333333,218,0.0015290519877675,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2023,30,0.6143790849673203,218,0.0028182526833363,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,31,1.5333333333333332,218,0.0070336391437308,Land-use zoning and reclassification,policy,draft_not_expert_validated
+2023,32,2.1333333333333333,218,0.0097859327217125,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,33,0.7,218,0.0032110091743119,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,34,2.35,218,0.0107798165137614,Mayoral contracting powers,governance,draft_not_expert_validated
+2023,35,1.561904761904762,218,0.0071647007426823,"Unresolved keywords: control, exercise, bonds",unclear,draft_not_expert_validated
+2023,36,4.216666666666667,218,0.0193425076452599,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2023,37,0.5928571428571429,218,0.0027195281782437,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,38,2.126190476190476,218,0.0097531673219746,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2023,39,2.0285714285714285,218,0.009305373525557,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2023,40,0.2949346405228758,218,0.001352911195059,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2023,41,3.15,218,0.0144495412844036,Mayoral contracting powers,governance,draft_not_expert_validated
+2023,43,1.45,218,0.0066513761467889,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,44,0.9,218,0.0041284403669724,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,47,2.05,218,0.0094036697247706,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2023,48,0.8428571428571429,218,0.0038663171690694,"Unresolved keywords: stricken, standby, epidemics",unclear,draft_not_expert_validated
+2023,50,1.4,218,0.0064220183486238,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,51,0.5333333333333333,218,0.0024464831804281,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2023,52,1.3666666666666667,218,0.006269113149847,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,53,0.25,218,0.0011467889908256,"Unresolved keywords: pursuant, transactions, economical",unclear,draft_not_expert_validated
+2023,54,1.1666666666666663,218,0.0053516819571865,"Unresolved keywords: absolute, addendum, carmen",unclear,draft_not_expert_validated
+2023,55,0.7769607843137255,218,0.003564040295017,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2023,57,0.5833333333333333,218,0.0026758409785932,"Unresolved keywords: telecom, tower, globe",unclear,draft_not_expert_validated
+2023,58,1.6619047619047618,218,0.0076234163390126,"Unresolved keywords: vi, provide, policy",unclear,draft_not_expert_validated
+2023,60,0.3388888888888889,218,0.0015545361875637,"Unresolved keywords: contest, violation, citation",unclear,draft_not_expert_validated
+2023,61,3.933333333333333,218,0.0180428134556574,"Unresolved keywords: enhance, promote, welfare",unclear,draft_not_expert_validated
+2023,62,0.5310457516339869,218,0.0024359896863944,"Unresolved keywords: policy, rights, recognizes",unclear,draft_not_expert_validated
+2023,63,1.0333333333333332,218,0.0047400611620795,"Unresolved keywords: vi, xxx, pursuant",unclear,draft_not_expert_validated
+2023,64,0.5333333333333333,218,0.0024464831804281,"Unresolved keywords: quarry, sand, gravel",unclear,draft_not_expert_validated
+2023,65,1.9523809523809523,218,0.0089558759283529,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2023,67,1.1833333333333331,218,0.0054281345565749,Mayoral contracting powers,governance,draft_not_expert_validated
+2023,68,1.0,218,0.0045871559633027,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2023,70,0.3666666666666667,218,0.0016819571865443,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2023,71,1.9,218,0.0087155963302752,"Unresolved keywords: policy, humanitarian, adhere",unclear,draft_not_expert_validated
+2023,72,1.15,218,0.0052752293577981,Mayoral contracting powers,governance,draft_not_expert_validated
+2023,73,0.1805555555555555,218,0.0008282364933741,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2023,74,1.1761904761904762,218,0.005395369156837,"Unresolved keywords: states, vi, republic",unclear,draft_not_expert_validated
+2023,75,1.1428571428571428,218,0.0052424639580602,"Unresolved keywords: enhance, promote, prosperity",unclear,draft_not_expert_validated
+2023,76,2.1666666666666665,218,0.0099388379204892,Event-related road closures,policy,draft_not_expert_validated
+2023,77,0.3666666666666667,218,0.0016819571865443,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2023,78,0.25,218,0.0011467889908256,"Unresolved keywords: keeping, mandate, judiciously",unclear,draft_not_expert_validated
+2023,79,3.5,218,0.0160550458715596,Cooperative financing and loan agreements,policy,draft_not_expert_validated
+2023,80,0.9088235294117648,218,0.004168915272531,Health workforce and midwifery support,policy,draft_not_expert_validated
+2023,81,0.5833333333333333,218,0.0026758409785932,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2023,82,2.1921568627450982,218,0.0100557654254362,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,83,2.25,218,0.0103211009174311,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2023,84,1.3928571428571428,218,0.0063892529488859,"Unresolved keywords: policy, adhere, humanitarian",unclear,draft_not_expert_validated
+2023,85,0.2,218,0.0009174311926605,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2023,86,0.0555555555555555,218,0.0002548419979612,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2023,87,0.9,218,0.0041284403669724,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,88,0.3666666666666667,218,0.0016819571865443,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,89,1.7166666666666668,218,0.007874617737003,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,90,1.15,218,0.0052752293577981,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2023,91,1.2928571428571427,218,0.0059305373525557,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,92,1.0833333333333333,218,0.0049694189602446,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,93,0.5,218,0.0022935779816513,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,94,1.2261904761904765,218,0.0056247269550021,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,95,0.7333333333333333,218,0.0033639143730886,"Unresolved keywords: pole, cables, wires",unclear,draft_not_expert_validated
+2023,97,1.0,218,0.0045871559633027,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2023,98,0.4095238095238095,218,0.0018785495849716,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2023,100,0.3666666666666667,218,0.0016819571865443,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,101,0.5449346405228759,218,0.0024997001858847,"Unresolved keywords: library, cultural, arts",unclear,draft_not_expert_validated
+2023,102,1.1666666666666663,218,0.0053516819571865,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,103,0.6000000000000001,218,0.0027522935779816,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2023,104,0.3333333333333333,218,0.0015290519877675,Council attendance and session records,procedural,draft_not_expert_validated
+2023,105,0.1333333333333333,218,0.000611620795107,"Unresolved keywords: funds, appropriation, budget",unclear,draft_not_expert_validated
+2023,106,0.65,218,0.0029816513761467,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,107,0.25,218,0.0011467889908256,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,109,1.3761904761904762,218,0.0063128003494975,"Unresolved keywords: transmittal, transmit, review",unclear,draft_not_expert_validated
+2023,110,0.5,218,0.0022935779816513,"Unresolved keywords: water, parks, zone",unclear,draft_not_expert_validated
+2023,111,0.5666666666666667,218,0.0025993883792048,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,112,0.8666666666666667,218,0.0039755351681957,"Unresolved keywords: adhere, policy, humanitarian",unclear,draft_not_expert_validated
+2023,114,0.3428571428571428,218,0.001572739187418,"Unresolved keywords: units, discharge, functions",unclear,draft_not_expert_validated
+2023,116,0.0888888888888888,218,0.000407747196738,"Unresolved keywords: inconsistent, repealed, accordingly",unclear,draft_not_expert_validated
+2023,117,2.076190476190476,218,0.0095238095238095,"Unresolved keywords: exemptions, incentives, deem",unclear,draft_not_expert_validated
+2023,120,0.2,218,0.0009174311926605,"Unresolved keywords: tower, telecom, geostrukt",unclear,draft_not_expert_validated
+2023,121,1.3666666666666667,218,0.006269113149847,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,122,1.0,218,0.0045871559633027,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2023,124,1.1666666666666663,218,0.0053516819571865,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,125,0.3428571428571428,218,0.001572739187418,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2023,126,0.5333333333333333,218,0.0024464831804281,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2023,127,0.217156862745098,218,0.0009961323979132,"Unresolved keywords: implementing, regulations, irr",unclear,draft_not_expert_validated
+2023,128,0.9,218,0.0041284403669724,Mayoral contracting powers,governance,draft_not_expert_validated
+2023,129,0.6666666666666666,218,0.0030581039755351,Voting and enactment records,procedural,draft_not_expert_validated
+2023,130,0.7666666666666667,218,0.0035168195718654,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,133,0.25,218,0.0011467889908256,"Unresolved keywords: turn, st, left",unclear,draft_not_expert_validated
+2023,134,0.45,218,0.0020642201834862,"Unresolved keywords: million, interfund, thousand",unclear,draft_not_expert_validated
+2023,135,0.7,218,0.0032110091743119,"Unresolved keywords: vi, policy, provides",unclear,draft_not_expert_validated
+2023,137,0.9,218,0.0041284403669724,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2023,138,0.0333333333333333,218,0.0001529051987767,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2023,139,1.8333333333333333,218,0.0084097859327217,"Unresolved keywords: organizations, industrialization, spur",unclear,draft_not_expert_validated
+2023,140,0.5666666666666667,218,0.0025993883792048,"Unresolved keywords: policy, humanitarian, adhere",unclear,draft_not_expert_validated
+2023,141,1.1166666666666667,218,0.0051223241590214,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,142,0.25,218,0.0011467889908256,"Unresolved keywords: exemption, period, december",unclear,draft_not_expert_validated
+2023,143,1.8523809523809525,218,0.0084971603320227,"Unresolved keywords: slum, sir, involving",unclear,draft_not_expert_validated
+2023,145,0.2,218,0.0009174311926605,"Unresolved keywords: calamity, lgus, poftion",unclear,draft_not_expert_validated
+2023,147,1.0666666666666669,218,0.0048929663608562,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,148,0.3928571428571428,218,0.0018020969855832,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,149,0.8666666666666667,218,0.0039755351681957,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,150,0.3333333333333333,218,0.0015290519877675,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,151,1.35,218,0.0061926605504587,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,152,0.4,218,0.0018348623853211,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,153,0.3666666666666667,218,0.0016819571865443,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2023,154,0.5833333333333333,218,0.0026758409785932,"Unresolved keywords: class, lands, residential",unclear,draft_not_expert_validated
+2023,155,0.7916666666666666,218,0.003631498470948,Voting and enactment records,procedural,draft_not_expert_validated
+2023,156,0.7357142857142858,218,0.0033748361730013,Mayoral contracting powers,governance,draft_not_expert_validated
+2023,157,0.4,218,0.0018348623853211,Separability and validity clauses,procedural,draft_not_expert_validated
+2023,158,0.25,218,0.0011467889908256,"Unresolved keywords: utilize, response, reduction",unclear,draft_not_expert_validated
+2024,-1,46.62176434676434,298,0.1564488736468602,Outliers,unassigned,not_a_substantive_topic
+2024,0,7.233333333333333,298,0.0242729306487695,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2024,1,2.475,298,0.0083053691275167,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2024,2,10.897161172161171,298,0.0365676549401381,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2024,3,5.833333333333333,298,0.0195749440715883,Event-related road closures,policy,draft_not_expert_validated
+2024,4,13.245238095238095,298,0.0444471077021412,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2024,5,1.2916666666666663,298,0.0043344519015659,Child protection and welfare,policy,draft_not_expert_validated
+2024,6,4.065476190476191,298,0.0136425375519335,"Unresolved keywords: pursuant, exercise, economical",unclear,draft_not_expert_validated
+2024,7,3.295238095238095,298,0.0110578459571748,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,8,4.9,298,0.0164429530201342,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2024,9,6.525,298,0.0218959731543624,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,10,1.526190476190476,298,0.0051214445509747,Amusement-tax exemptions,policy,draft_not_expert_validated
+2024,11,1.2,298,0.0040268456375838,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2024,12,2.3833333333333333,298,0.0079977628635346,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2024,13,1.35,298,0.0045302013422818,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2024,14,1.6,298,0.0053691275167785,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2024,15,3.5769230769230766,298,0.0120030975735673,Government staffing and qualifications,governance,draft_not_expert_validated
+2024,16,1.876190476190476,298,0.00629594119527,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,18,8.333333333333334,298,0.0279642058165548,Mayoral contracting powers,governance,draft_not_expert_validated
+2024,19,6.795238095238095,298,0.0228028124001278,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2024,20,4.309523809523809,298,0.014461489293704,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2024,21,1.092857142857143,298,0.0036673058485139,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,22,1.0,298,0.0033557046979865,Council correspondence and legal endorsements,procedural,draft_not_expert_validated
+2024,23,1.1166666666666667,298,0.0037472035794183,Event-related road closures,policy,draft_not_expert_validated
+2024,24,2.1666666666666665,298,0.0072706935123042,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2024,25,5.733333333333333,298,0.0192393736017897,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,26,0.5333333333333333,298,0.0017897091722595,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,27,1.3583333333333334,298,0.0045581655480984,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,28,7.044444444444444,298,0.0236390753169276,Voting and enactment records,procedural,draft_not_expert_validated
+2024,29,0.5833333333333333,298,0.0019574944071588,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2024,30,0.6864468864468865,298,0.002303513041768,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,32,1.2714285714285714,298,0.0042665388302972,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,33,0.8500000000000001,298,0.0028523489932885,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,34,3.783333333333333,298,0.0126957494407158,Mayoral contracting powers,governance,draft_not_expert_validated
+2024,35,1.776190476190476,298,0.0059603707254713,"Unresolved keywords: control, exercise, bonds",unclear,draft_not_expert_validated
+2024,36,5.5,298,0.0184563758389261,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2024,37,1.1166666666666667,298,0.0037472035794183,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,38,0.1666666666666666,298,0.000559284116331,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2024,39,0.5952380952380952,298,0.001997443272611,"Unresolved keywords: contract, unit, authorization",unclear,draft_not_expert_validated
+2024,40,0.4769230769230769,298,0.0016004130098089,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2024,41,3.7,298,0.0124161073825503,Mayoral contracting powers,governance,draft_not_expert_validated
+2024,42,0.4,298,0.0013422818791946,"Unresolved keywords: lgsfbdp, procurement, audit",unclear,draft_not_expert_validated
+2024,43,1.7095238095238094,298,0.0057366570789389,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,44,1.1261904761904762,298,0.0037791626717801,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,45,0.2197802197802197,298,0.000737517516041,Amusement-tax exemptions,policy,draft_not_expert_validated
+2024,46,1.0,298,0.0033557046979865,Education and scholarship assistance,policy,draft_not_expert_validated
+2024,47,4.183333333333334,298,0.0140380313199105,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2024,48,5.692857142857143,298,0.0191035474592521,"Unresolved keywords: stricken, standby, epidemics",unclear,draft_not_expert_validated
+2024,50,2.1833333333333336,298,0.0073266219239373,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,51,3.752380952380952,298,0.0125918823905401,Donation and property-transfer agreements,governance,draft_not_expert_validated
+2024,52,2.0,298,0.0067114093959731,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,54,4.497619047619048,298,0.0150926813678491,"Unresolved keywords: absolute, addendum, carmen",unclear,draft_not_expert_validated
+2024,55,0.1538461538461538,298,0.0005162622612287,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2024,56,1.1666666666666667,298,0.0039149888143176,OCR-heavy or unclear text cluster,unclear,draft_not_expert_validated
+2024,58,1.1285714285714286,298,0.0037871524448705,"Unresolved keywords: vi, provide, policy",unclear,draft_not_expert_validated
+2024,60,0.1,298,0.0003355704697986,"Unresolved keywords: contest, violation, citation",unclear,draft_not_expert_validated
+2024,61,2.6,298,0.0087248322147651,"Unresolved keywords: enhance, promote, welfare",unclear,draft_not_expert_validated
+2024,62,0.7435897435897436,298,0.0024952675959387,"Unresolved keywords: policy, rights, recognizes",unclear,draft_not_expert_validated
+2024,63,2.1333333333333333,298,0.007158836689038,"Unresolved keywords: vi, xxx, pursuant",unclear,draft_not_expert_validated
+2024,65,0.7,298,0.0023489932885906,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2024,66,1.1333333333333333,298,0.0038031319910514,Trade-event permit and fee exemptions,policy,draft_not_expert_validated
+2024,67,1.8595238095238096,298,0.0062400127836369,Mayoral contracting powers,governance,draft_not_expert_validated
+2024,70,5.685714285714286,298,0.0190795781399808,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2024,71,4.160256410256411,298,0.0139605919807262,"Unresolved keywords: policy, humanitarian, adhere",unclear,draft_not_expert_validated
+2024,72,2.333333333333333,298,0.0078299776286353,Mayoral contracting powers,governance,draft_not_expert_validated
+2024,73,1.0,298,0.0033557046979865,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2024,74,0.3095238095238095,298,0.0010386705017577,"Unresolved keywords: states, vi, republic",unclear,draft_not_expert_validated
+2024,75,1.15515873015873,298,0.0038763715777138,"Unresolved keywords: enhance, promote, prosperity",unclear,draft_not_expert_validated
+2024,76,2.5,298,0.0083892617449664,Event-related road closures,policy,draft_not_expert_validated
+2024,77,0.5833333333333333,298,0.0019574944071588,"Unresolved keywords: municipality, province, municipaliw",unclear,draft_not_expert_validated
+2024,79,0.6666666666666666,298,0.0022371364653243,Cooperative financing and loan agreements,policy,draft_not_expert_validated
+2024,80,3.1095238095238096,298,0.0104346436561201,Health workforce and midwifery support,policy,draft_not_expert_validated
+2024,82,1.2785714285714285,298,0.0042905081495685,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,83,1.8523809523809525,298,0.0062160434643656,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2024,84,3.5809523809523807,298,0.0120166187280281,"Unresolved keywords: policy, adhere, humanitarian",unclear,draft_not_expert_validated
+2024,85,0.3928571428571428,298,0.0013183125599232,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2024,86,0.1,298,0.0003355704697986,"Unresolved keywords: strategy, autonomy, viability",unclear,draft_not_expert_validated
+2024,87,0.4166666666666666,298,0.0013982102908277,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,88,0.5666666666666667,298,0.0019015659955257,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,89,2.7,298,0.0090604026845637,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,90,1.4166666666666667,298,0.0047539149888143,"Unresolved keywords: usufruct, parcel, meters",unclear,draft_not_expert_validated
+2024,91,1.3,298,0.0043624161073825,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,92,1.1,298,0.0036912751677852,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,93,1.426190476190476,298,0.004785874081176,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,94,1.1,298,0.0036912751677852,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,97,1.2,298,0.0040268456375838,"Unresolved keywords: brgy, st, total",unclear,draft_not_expert_validated
+2024,98,0.6000000000000001,298,0.0020134228187919,"Unresolved keywords: bonds, represent, transactions",unclear,draft_not_expert_validated
+2024,99,0.1538461538461538,298,0.0005162622612287,"Unresolved keywords: agriculture, narrative, staff",unclear,draft_not_expert_validated
+2024,100,0.6166666666666667,298,0.002069351230425,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,101,0.4769230769230769,298,0.0016004130098089,"Unresolved keywords: library, cultural, arts",unclear,draft_not_expert_validated
+2024,102,1.65,298,0.0055369127516778,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,103,0.2,298,0.0006711409395973,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2024,106,0.7,298,0.0023489932885906,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,107,2.9119047619047618,298,0.0097714924896132,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,109,0.3595238095238094,298,0.001206455736657,"Unresolved keywords: transmittal, transmit, review",unclear,draft_not_expert_validated
+2024,110,0.2,298,0.0006711409395973,"Unresolved keywords: water, parks, zone",unclear,draft_not_expert_validated
+2024,111,2.001190476190476,298,0.0067154042825183,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,112,1.7476190476190476,298,0.005864493448386,"Unresolved keywords: adhere, policy, humanitarian",unclear,draft_not_expert_validated
+2024,113,0.25,298,0.0008389261744966,"Unresolved keywords: declaration, poucy, policy",unclear,draft_not_expert_validated
+2024,117,0.2,298,0.0006711409395973,"Unresolved keywords: exemptions, incentives, deem",unclear,draft_not_expert_validated
+2024,121,1.4,298,0.0046979865771812,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,122,0.8333333333333333,298,0.0027964205816554,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2024,124,0.3333333333333333,298,0.0011185682326621,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,126,0.4,298,0.0013422818791946,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2024,127,0.05,298,0.0001677852348993,"Unresolved keywords: implementing, regulations, irr",unclear,draft_not_expert_validated
+2024,128,2.7333333333333334,298,0.0091722595078299,Mayoral contracting powers,governance,draft_not_expert_validated
+2024,129,2.1357142857142857,298,0.0071668264621284,Voting and enactment records,procedural,draft_not_expert_validated
+2024,130,0.4444444444444444,298,0.0014914243102162,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,131,3.4690476190476187,298,0.0116410993927772,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2024,133,0.65,298,0.0021812080536912,"Unresolved keywords: turn, st, left",unclear,draft_not_expert_validated
+2024,136,0.3333333333333333,298,0.0011185682326621,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2024,138,0.2361111111111111,298,0.0007923191648023,"Unresolved keywords: coverage, apply, cover",unclear,draft_not_expert_validated
+2024,139,1.0,298,0.0033557046979865,"Unresolved keywords: organizations, industrialization, spur",unclear,draft_not_expert_validated
+2024,140,1.7238095238095237,298,0.0057845957174816,"Unresolved keywords: policy, humanitarian, adhere",unclear,draft_not_expert_validated
+2024,141,0.5666666666666667,298,0.0019015659955257,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,143,1.0,298,0.0033557046979865,"Unresolved keywords: slum, sir, involving",unclear,draft_not_expert_validated
+2024,146,0.1,298,0.0003355704697986,"Unresolved keywords: role, contextualization, sensitivity",unclear,draft_not_expert_validated
+2024,147,0.1428571428571428,298,0.0004793863854266,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,148,0.9,298,0.0030201342281879,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,150,0.2,298,0.0006711409395973,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,151,1.45,298,0.0048657718120805,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,152,0.2,298,0.0006711409395973,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,153,0.6666666666666666,298,0.0022371364653243,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2024,154,0.8333333333333333,298,0.0027964205816554,"Unresolved keywords: class, lands, residential",unclear,draft_not_expert_validated
+2024,155,1.9166666666666663,298,0.0064317673378076,Voting and enactment records,procedural,draft_not_expert_validated
+2024,156,0.1428571428571428,298,0.0004793863854266,Mayoral contracting powers,governance,draft_not_expert_validated
+2024,157,1.3,298,0.0043624161073825,Separability and validity clauses,procedural,draft_not_expert_validated
+2024,158,2.466666666666667,298,0.0082774049217002,"Unresolved keywords: utilize, response, reduction",unclear,draft_not_expert_validated
+2025,-1,5.796583850931677,32,0.1811432453416149,Outliers,unassigned,not_a_substantive_topic
+2025,0,1.3,32,0.040625,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2025,1,0.1739130434782608,32,0.0054347826086956,Mixed establishment and product regulation,mixed,draft_not_expert_validated
+2025,2,0.5666666666666667,32,0.0177083333333333,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+2025,3,0.9,32,0.028125,Event-related road closures,policy,draft_not_expert_validated
+2025,4,0.0666666666666666,32,0.0020833333333333,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+2025,5,0.0434782608695652,32,0.0013586956521739,Child protection and welfare,policy,draft_not_expert_validated
+2025,7,0.1428571428571428,32,0.0044642857142857,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,8,3.25,32,0.1015625,OCR-heavy enactment and authorization wording,unclear,draft_not_expert_validated
+2025,9,0.2,32,0.00625,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,10,0.1428571428571428,32,0.0044642857142857,Amusement-tax exemptions,policy,draft_not_expert_validated
+2025,11,0.2,32,0.00625,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2025,12,0.1666666666666666,32,0.0052083333333333,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+2025,14,0.1666666666666666,32,0.0052083333333333,Agreements and mayoral authorization,governance,draft_not_expert_validated
+2025,15,1.0,32,0.03125,Government staffing and qualifications,governance,draft_not_expert_validated
+2025,16,0.6666666666666666,32,0.0208333333333333,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,18,1.0,32,0.03125,Mayoral contracting powers,governance,draft_not_expert_validated
+2025,19,0.1666666666666666,32,0.0052083333333333,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2025,20,0.1666666666666666,32,0.0052083333333333,Disaster relief and calamity funding,policy,draft_not_expert_validated
+2025,25,0.25,32,0.0078125,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,26,0.2,32,0.00625,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,27,0.45,32,0.0140625,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,28,0.7,32,0.021875,Voting and enactment records,procedural,draft_not_expert_validated
+2025,30,0.153623188405797,32,0.0048007246376811,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,32,0.3095238095238095,32,0.009672619047619,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,33,0.2,32,0.00625,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,34,0.45,32,0.0140625,Mayoral contracting powers,governance,draft_not_expert_validated
+2025,35,0.6166666666666667,32,0.0192708333333333,"Unresolved keywords: control, exercise, bonds",unclear,draft_not_expert_validated
+2025,38,0.2,32,0.00625,"Unresolved keywords: economical, governance, inhabitants",unclear,draft_not_expert_validated
+2025,40,0.153623188405797,32,0.0048007246376811,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+2025,41,0.3333333333333333,32,0.0104166666666666,Mayoral contracting powers,governance,draft_not_expert_validated
+2025,43,0.5333333333333333,32,0.0166666666666666,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,45,1.1428571428571428,32,0.0357142857142857,Amusement-tax exemptions,policy,draft_not_expert_validated
+2025,46,1.0,32,0.03125,Education and scholarship assistance,policy,draft_not_expert_validated
+2025,47,0.8333333333333333,32,0.0260416666666666,Temporary road closures and traffic control,policy,draft_not_expert_validated
+2025,52,0.5333333333333333,32,0.0166666666666666,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,55,0.0869565217391304,32,0.0027173913043478,"Unresolved keywords: member, college, representative",unclear,draft_not_expert_validated
+2025,56,0.2666666666666666,32,0.0083333333333333,OCR-heavy or unclear text cluster,unclear,draft_not_expert_validated
+2025,60,0.0666666666666666,32,0.0020833333333333,"Unresolved keywords: contest, violation, citation",unclear,draft_not_expert_validated
+2025,62,0.0869565217391304,32,0.0027173913043478,"Unresolved keywords: policy, rights, recognizes",unclear,draft_not_expert_validated
+2025,65,0.2,32,0.00625,"Unresolved keywords: crty, aild, known",unclear,draft_not_expert_validated
+2025,66,0.0869565217391304,32,0.0027173913043478,Trade-event permit and fee exemptions,policy,draft_not_expert_validated
+2025,73,0.0666666666666666,32,0.0020833333333333,"Unresolved keywords: offense, fine, imprisonment",unclear,draft_not_expert_validated
+2025,76,1.6666666666666663,32,0.0520833333333333,Event-related road closures,policy,draft_not_expert_validated
+2025,80,0.25,32,0.0078125,Health workforce and midwifery support,policy,draft_not_expert_validated
+2025,81,0.0666666666666666,32,0.0020833333333333,"Unresolved keywords: uses, enumerated, zoning",unclear,draft_not_expert_validated
+2025,82,0.1666666666666666,32,0.0052083333333333,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,83,0.6666666666666666,32,0.0208333333333333,"Unresolved keywords: lot, block, tct",unclear,draft_not_expert_validated
+2025,88,0.2,32,0.00625,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,92,0.4,32,0.0125,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,101,0.0666666666666666,32,0.0020833333333333,"Unresolved keywords: library, cultural, arts",unclear,draft_not_expert_validated
+2025,104,1.0,32,0.03125,Council attendance and session records,procedural,draft_not_expert_validated
+2025,109,0.1428571428571428,32,0.0044642857142857,"Unresolved keywords: transmittal, transmit, review",unclear,draft_not_expert_validated
+2025,110,0.0666666666666666,32,0.0020833333333333,"Unresolved keywords: water, parks, zone",unclear,draft_not_expert_validated
+2025,111,0.25,32,0.0078125,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,124,0.3333333333333333,32,0.0104166666666666,Separability and validity clauses,procedural,draft_not_expert_validated
+2025,127,0.153623188405797,32,0.0048007246376811,"Unresolved keywords: implementing, regulations, irr",unclear,draft_not_expert_validated
+2025,133,1.0,32,0.03125,"Unresolved keywords: turn, st, left",unclear,draft_not_expert_validated
+2025,140,0.1666666666666666,32,0.0052083333333333,"Unresolved keywords: policy, humanitarian, adhere",unclear,draft_not_expert_validated
+2025,151,0.1666666666666666,32,0.0052083333333333,Effectivity and publication clauses,procedural,draft_not_expert_validated
+2025,155,0.2,32,0.00625,Voting and enactment records,procedural,draft_not_expert_validated

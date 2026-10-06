@@ -1,0 +1,23 @@
+{
+  "status": "Draft descriptive labels, not expert-validated legal categories",
+  "scope": "Initial configuration of the completed clean-text full-corpus experiment",
+  "overrides": {
+    "lexical:5": {"title": "Disaster relief and calamity funding", "category": "policy", "required_terms": ["calamity", "fund", "assistance"]},
+    "lexical:34": {"title": "Council correspondence and legal endorsements", "category": "procedural", "required_terms": ["councilor", "respectfully", "legal"]},
+    "lexical:0": {"title": "Agreements and mayoral authorization", "category": "governance", "required_terms": ["memorandum", "agreement", "authorizing"]},
+    "lexical:61": {"title": "OCR-heavy authorization wording", "category": "unclear", "required_terms": ["sectioii", "aiid", "authority"]},
+    "lexical:78": {"title": "Council records and administrative action", "category": "procedural", "required_terms": ["councilor", "secretary", "action"]},
+    "lexical:72": {"title": "Council correspondence and legal action", "category": "procedural", "required_terms": ["secretary", "legal", "action"]},
+    "lexical:82": {"title": "Mayoral contracting powers", "category": "governance", "required_terms": ["contract", "powers", "executive"]},
+    "lexical:2": {"title": "Mixed establishment and product regulation", "category": "mixed", "required_terms": ["establishments", "products", "singleuse"]},
+    "semantic:17": {"title": "OCR-corrupted ordinance wording", "category": "unclear", "required_terms": ["ard", "ordinane", "sectioii"]},
+    "semantic:0": {"title": "Temporary road closures and traffic control", "category": "policy", "required_terms": ["street", "closure", "traffic"]},
+    "semantic:1": {"title": "Mixed establishment and product regulation", "category": "mixed", "required_terms": ["person", "vehicle", "singleuse"]},
+    "semantic:8": {"title": "OCR-heavy enactment and authorization wording", "category": "unclear", "required_terms": ["sectioii", "sectioh", "ordained"]},
+    "semantic:18": {"title": "Mayoral contracting powers", "category": "governance", "required_terms": ["contract", "powers", "executive"]},
+    "semantic:22": {"title": "Council correspondence and legal endorsements", "category": "procedural", "required_terms": ["councilor", "legal", "respectfully"]},
+    "semantic:29": {"title": "Disaster relief and calamity funding", "category": "policy", "required_terms": ["calamity", "fund", "assistance"]},
+    "semantic:49": {"title": "Council attendance and session records", "category": "procedural", "required_terms": ["councilor", "leave", "secretary"]},
+    "semantic:31": {"title": "Land-use zoning and reclassification", "category": "policy", "required_terms": ["zoning", "reclassification", "land"]}
+  }
+}

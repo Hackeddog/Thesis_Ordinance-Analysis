@@ -1,0 +1,44 @@
+{
+  "created_utc": "2026-10-06T15:55:21.919599+00:00",
+  "source": "C:\\Users\\BloodMank\\Desktop\\Thesis\\Thesis_Model_Comparison\\artifacts\\clean_text_full\\evidence",
+  "source_sha256": {
+    "lexical/document_weighted_prevalence.csv": "25d35e23afcde5ea0f2d00e2a88e655f4023e708d13e3c4a6f033d914de9bea9",
+    "lexical/topic_keywords.csv": "f9a68f9ceaeda35701d70ae01beed28333e41ed89f7f06a55ea893ff0fbb97cd",
+    "semantic/document_weighted_prevalence.csv": "5db925b0fc0faa7c3e3936f906c8842dbfdbaf8fc48e13071321831b90538ea2",
+    "semantic/topic_keywords.csv": "64cdf6a7559e4975e8c05447ed36d81278949238088ab8f65ee7bdbc8ed4043b"
+  },
+  "title_config_sha256": "0a7a4a71b0e41bd7e564b75b559aa643e33405ead8eb34ca8173855aad6e76d9",
+  "generator_sha256": "ef68572dbd92056b4cd1850eb2bc4e6231432c83924636a62ee8e34473331a99",
+  "models_rerun": false,
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "top_n": 8,
+  "topic_titles": 361,
+  "figure_count": 8,
+  "label_status": "Draft descriptive labels, not expert-validated legal categories",
+  "ranking": "sum of fractional-document contributions across years, excluding topic -1",
+  "denominator": "all included source documents in each year, including outlier contribution",
+  "interpretable_selection": "policy/governance categories, highest-weight cluster per identical draft title; no merging",
+  "yearly_documents": {
+    "2016": 174,
+    "2017": 204,
+    "2018": 249,
+    "2019": 266,
+    "2020": 165,
+    "2021": 233,
+    "2022": 279,
+    "2023": 218,
+    "2024": 298,
+    "2025": 32
+  }
+}
