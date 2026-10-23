@@ -1,0 +1,41 @@
+EXPERT VALIDATION REVISION PACKAGE — EV-1.0
+
+Reviewed source: CS_Undergraduate_Thesis_Template__Copy_-13.pdf
+This is the actual 56-page thesis, not an empty template.
+Main section reviewed: PDF pages 41–43 (printed pages 36–38).
+
+OPEN THESE FILES
+1. chapter3_revised.docx (or .pdf)
+   Thesis-ready replacement for Model Evaluation and Expert Validation.
+2. questionnaire.docx (or .pdf)
+   Four-page master questionnaire. Use the profile page once, repeat the two
+   topic-form pages for each packet, and use the final comparison page once.
+3. administration_and_scoring.docx (or .pdf)
+   Sampling, packet preparation, administration, Google Forms setup, scoring,
+   missing responses, agreement, and feedback/version control.
+4. review_notes.docx (or .pdf)
+   What was found in the actual thesis, what changed, and related manuscript
+   edits needed for consistency with the four-configuration experiment.
+
+FORMATS
+DOCX: editable in a compatible word processor.
+PDF: formatted for reading/printing.
+HTML: readable and printable in a browser.
+Markdown sources and blank CSV/JSON templates accompany the Downloads copy.
+The CSV item bank is a manual Google Forms building guide, not an online form.
+
+IMPORTANT STATUS
+No experts have been recruited by this task; no responses, expert scores,
+agreement results, or completed human procedures have been generated.
+Four topics per model and three assigned examples per topic are proposed.
+The eight actual review packets still need to be selected, prepared, and checked.
+Before distribution, complete the consent/contact/storage details and applicable
+institutional requirements, and confirm the protocol with the adviser.
+
+The five original dimensions and the existing below-3.00 review trigger are
+retained. The threshold is study-defined, not an empirical accuracy standard.
+Neutral (3) is not acceptance; NA/Unable to Assess is not scored as 0 or 3.
+
+The original thesis PDFs and completed model results are unchanged.
+Repository branch: research/expert-validation-protocol.
+Publishing this protocol does not mean expert recruitment or validation is complete.

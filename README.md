@@ -21,6 +21,16 @@ highest-coherence or highest-coverage setting.
 The earlier presentation below is preserved as historical two-configuration
 research evidence; it is not the updated four-configuration report.
 
+## Expert validation — proposed protocol and questionnaire
+
+The [EV-1.0 revision package](docs/expert_validation/README.md) reviews the actual
+Chapter 3 in `CS_Undergraduate_Thesis_Template__Copy_-13.pdf`. It includes a
+thesis-ready replacement subsection, a 16-item questionnaire, and practical
+sampling/scoring procedures. [Editable DOCX and printable PDFs](artifacts/expert_validation/)
+are provided. Expert recruitment, packet preparation, and survey administration
+remain future activities; no expert responses or validation results are invented.
+The original thesis PDF and completed model outputs are unchanged.
+
 ## Earlier deliverables
 
 - [Original full-corpus presentation](artifacts/clean_text_full/Clean_Text_Full_Corpus_Initial_Results.pptx)

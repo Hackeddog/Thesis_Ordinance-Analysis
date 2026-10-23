@@ -1,2 +1,6 @@
 # Preserve exact bytes in hash-audited experiment evidence across platforms.
 artifacts/four_configuration_tuning/** -text
+# Preserve the source/export hashes for the expert-review document package.
+artifacts/expert_validation/** -text
+docs/expert_validation/** -text
+scripts/build_expert_validation_documents.py -text

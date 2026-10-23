@@ -1,0 +1,55 @@
+{
+  "version": "EV-1.0",
+  "expert_review_status": "not_conducted",
+  "dimensions": {
+    "Legal Coherence": [
+      "B1",
+      "B4",
+      "C1",
+      "C2",
+      "C3",
+      "C4"
+    ],
+    "Thematic Relevance": [
+      "B3",
+      "B5",
+      "B6"
+    ],
+    "Label Appropriateness": [
+      "B2"
+    ],
+    "Temporal Interpretation": [
+      "D1",
+      "D2",
+      "D3",
+      "D4"
+    ],
+    "Overall Research Quality": [
+      "E1",
+      "E2"
+    ]
+  },
+  "rating_scale": {
+    "1": "Strongly Disagree",
+    "2": "Disagree",
+    "3": "Neither Agree nor Disagree",
+    "4": "Agree",
+    "5": "Strongly Agree"
+  },
+  "NA": "Not Applicable / Unable to Assess; numeric rating empty",
+  "missing": "Blank or unreturned response; numeric rating empty",
+  "review_rule": {
+    "threshold": 3.0,
+    "operator": "<",
+    "level": "topic-dimension mean",
+    "use_unrounded_value": true,
+    "origin": "Existing thesis, Table 6 and accompanying paragraph, PDF page 43; study-defined, not an empirical acceptance standard"
+  },
+  "aggregation": "Complete item set per reviewer-topic dimension; equal eligible-reviewer weights; equal sampled-topic weights; report all denominators.",
+  "planned_topics_per_model": 4,
+  "planned_examples_per_topic": 3,
+  "sampling_seed": 42,
+  "actual_experts": null,
+  "actual_responses": null,
+  "actual_agreement_results": null
+}

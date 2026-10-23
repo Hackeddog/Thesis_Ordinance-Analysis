@@ -1,0 +1,61 @@
+{
+  "version": "EV-1.0",
+  "created_utc": "2026-10-23T05:14:02.418619+00:00",
+  "reviewed_thesis": "CS_Undergraduate_Thesis_Template__Copy_-13.pdf",
+  "reviewed_thesis_sha256": "4acb1916ef522c4dd15a36eb0cdccc5fafa60c37eddd829b0183a9214985d22e",
+  "reviewed_thesis_pdf_pages": "41-43; research context also reviewed",
+  "expert_validation_status": "proposed; no participants, responses, or results generated",
+  "exporter_sha256": "3a6da9309a81c31fb074483bd9dfb41e6bee90896cc674e39179cb1765be83e4",
+  "documents": {
+    "chapter3_revised": {
+      "source": "docs/expert_validation/chapter3_revised.md",
+      "source_sha256": "1fa9f4ee8f9982cc7d1c223f7be9014c11f45087cc9144749bf196371815491b",
+      "pdf_pages": 5,
+      "exports_sha256": {
+        "html": "fe573f1dd0f68ccae45f0a665d764dc01cafddecf50032fb6f9f3af8c91428ac",
+        "docx": "1b0dcbe7a89e94424524cf7cadda612fca09adc5ef678845c7c7de727f737f51",
+        "pdf": "d5145c11c129510e0d2c1af288035e2c79670890c0357c2f5cddd9cd22a9722a"
+      }
+    },
+    "questionnaire": {
+      "source": "docs/expert_validation/questionnaire.md",
+      "source_sha256": "84c2030fad7cbb14472a0f825e3e9680ee97af9844e7d23456e0848b860225e2",
+      "pdf_pages": 4,
+      "exports_sha256": {
+        "html": "9c4022826ddb1cbc701abc1a31cb5835f66741c4d1a1a47292612e2e0a993f4c",
+        "docx": "41a7e283071a385a0d4f644d60b586626a69b09f5239022efaf4cefb914b1bfa",
+        "pdf": "ba7ff8033543bc94db0a63fc6dd9398952f92afa7cf22b9760bdcaec2db90ccf"
+      }
+    },
+    "administration_and_scoring": {
+      "source": "docs/expert_validation/administration_and_scoring.md",
+      "source_sha256": "64d491c967f48602ef1044641d413d3f5952b36cbe5874303a236ae7682d6d1f",
+      "pdf_pages": 6,
+      "exports_sha256": {
+        "html": "92cab52f7553c05a651967961e5bcae3d5122af1b96044abda8583b9f9960092",
+        "docx": "4a77bf36b7b965d64bcdca9a306ddeb9f3150d29cac5d75f805d10b0a626337b",
+        "pdf": "5bb88007ab3560882a684e25e4e5f34de1dbefd8c72370ee33c864bc0edfea44"
+      }
+    },
+    "review_notes": {
+      "source": "docs/expert_validation/review_notes.md",
+      "source_sha256": "da310586d0721043a2e48d0df0be1d9d49851d2977b70016ba27f0db4342320f",
+      "pdf_pages": 4,
+      "exports_sha256": {
+        "html": "d681c958c783d5c040bd522a31b627cd09926334ea9f2b14ccf3556bf23cf01a",
+        "docx": "8f32094eaacbce382228a451fd6b64d318bcf2f09cae73d6b35035fc8cb2f497",
+        "pdf": "9c3b06b283dd543d9998bc140c992da9a1a112ec2b97d1e368efeefa8ae79cf4"
+      }
+    }
+  },
+  "templates_sha256": {
+    "templates/analysis_summary_template.csv": "ea1b98f092bba1a45ffec28d1cad35ac9536472d370e5e65ad98d56aec781d54",
+    "templates/excerpt_register.csv": "48d981ec065abd0b6814ad22ca4f1a03c4590099e42b58fb9e2b63b1f9811444",
+    "templates/feedback_log.csv": "257997780fbfeee839d3db813d381a36e1653be3e73acb48f43c63df8005a73d",
+    "templates/forms_item_bank.csv": "a5953c9cfad69ef231ba667dd63415e00158c35032b2e2053675ebfbc0a890e1",
+    "templates/model_key_template.csv": "92f147b15de154e6df45b5048b8b6cdf9372c3223a839ca361795682ca2be564",
+    "templates/response_template.csv": "87a6619521a6099f9f799ce092ed7147dea9c34cab5d5c81c096b98520aaf5e1",
+    "templates/sampling_register.csv": "6e8b28ae6f089f0c2017dd8ec4775b4fc8f9cdddd1d2ef26cc132d26fc95f278",
+    "templates/scoring_codebook.json": "55b77556e67be1abfdd6b3b7f75364291fd02af48ffc69414b68e8466b60392c"
+  }
+}
