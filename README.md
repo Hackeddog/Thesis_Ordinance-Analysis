@@ -4,9 +4,26 @@
 Human year-override CSVs provide temporal metadata; no PDF re-extraction, external
 archive application, or previously prepared note-derived dataset is used.
 
-## Deliverables
+## Latest: completed four-configuration tuning
 
-- [New full-corpus presentation](artifacts/clean_text_full/Clean_Text_Full_Corpus_Initial_Results.pptx)
+**24/24 fits completed** on the unchanged full corpus: Initial, Conservative,
+Fine-grained and Coarse-grained for both models, seeds 42/43/44.
+**Provisional selection: Conservative for both models** (107 lexical topics,
+64 semantic topics at seed 42), subject to legal-expert review—not simply the
+highest-coherence or highest-coverage setting.
+
+- [Research findings and thesis-ready results section](docs/FOUR_CONFIGURATION_FINDINGS.md)
+- [Eight-combination tables and seven figure sets](artifacts/four_configuration_tuning/RESULTS.md)
+- [Combined vector PDF](artifacts/four_configuration_tuning/Tuning_Comparison_Figures.pdf)
+- [Protocol, formulas, caveats and reproduction](docs/FOUR_CONFIGURATION_METHODS.md)
+- [Configurations](configs/four_configuration_tuning.json) · [Selection record](configs/four_configuration_selection.json)
+
+The earlier presentation below is preserved as historical two-configuration
+research evidence; it is not the updated four-configuration report.
+
+## Earlier deliverables
+
+- [Original full-corpus presentation](artifacts/clean_text_full/Clean_Text_Full_Corpus_Initial_Results.pptx)
 - [PDF](artifacts/clean_text_full/Clean_Text_Full_Corpus_Initial_Results.pdf)
 - [Measured metrics and audit evidence](artifacts/clean_text_full/evidence/)
 - [Pipeline, parameter and yearly PNG figures](artifacts/clean_text_full/figures/)
@@ -30,8 +47,9 @@ old sample's results into the new full-corpus comparison.
 6. Runs the same full eligible input through two representations:
    - **Model A:** TF-IDF → SVD → UMAP → HDBSCAN → c-TF-IDF.
    - **Model B:** frozen Legal-BERT → all-chunk mean pooling → UMAP → HDBSCAN → c-TF-IDF.
-7. Evaluates coherence, diversity, coverage, outliers and seed stability under two
-   predeclared parameter configurations; exports source-linked results and yearly plots.
+7. Evaluates coherence, diversity, coverage, outliers and seed stability. The original
+   run used two configurations; the latest extension uses four, saves all three
+   seeds' full fits, and adds explicit topic alignment and temporal sensitivity.
 8. Generates a new editable presentation entirely from completed measurements.
 
 ## Data accounting
@@ -71,6 +89,21 @@ Choose new preparation/experiment/presentation output directories for a new run.
 `--resume` permits restarting an interrupted experiment only when its input,
 configuration and model-code hashes match; its encoder checkpoint avoids redoing
 finished batches. Completed output is never silently replaced.
+
+After preparing the same clean-text corpus, reproduce the latest experiment with:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/run_four_configurations.py --config configs/four_configuration_tuning.json
+.\.venv\Scripts\python.exe scripts/report_four_configurations.py --config configs/four_configuration_tuning.json
+.\.venv\Scripts\python.exe -m pytest tests -q
+```
+
+Choose a fresh output directory in a copied config for a new experiment. Completed
+Legal-BERT embeddings are reused only after identity validation; if the old cache
+is absent, the encoder runs afresh. Per-seed statuses, full assignments, vectors,
+keywords, temporal tables and code snapshots are stored locally under
+`results/experiments/four_configuration_tuning/` (Git-ignored). Compact evidence,
+plots and the report are in `artifacts/four_configuration_tuning/`.
 
 Open `Thesis_Model_Comparison.code-workspace` for the VS Code tasks.
 CI runs offline synthetic correctness tests. The full experiment workflow is

@@ -1,0 +1,34 @@
+{
+  "experiment_config": "configs/four_configuration_tuning.json",
+  "experiment_output": "results/experiments/four_configuration_tuning",
+  "experiment_status": "completed",
+  "completed_fits": 24,
+  "selected_after_completion": true,
+  "source_sha256": "2d415dfbc71838d02349ce1ebb26783dd58cbd7f9ab683b18bc1a989d5471b16",
+  "primary_seed": 42,
+  "sensitivity_seeds": [43, 44],
+  "selected_parameters": {"neighbors": 30, "min_dist": 0.1, "min_cluster_size": 30, "min_samples": 10},
+  "models": {
+    "lexical": {
+      "configuration": "conservative",
+      "primary_output": "results/experiments/four_configuration_tuning/conservative/seed_42/lexical",
+      "reason": "Middle-resolution compromise: stronger diversity and stability than Initial, avoids Fine-grained fragmentation and Coarse-grained's large generic cluster. Accept lower coverage than Initial and lower diversity/stability than Coarse-grained.",
+      "alternative": "Initial for finer detail/coverage; Coarse-grained for broad-theme sensitivity."
+    },
+    "semantic": {
+      "configuration": "conservative",
+      "primary_output": "results/experiments/four_configuration_tuning/conservative/seed_42/semantic",
+      "reason": "Retains 64 rather than 36 topics and 158 more assigned units than Coarse-grained, with similar aligned stability. Accept lower coherence/diversity than Coarse-grained; retain more subject resolution and coverage.",
+      "alternative": "Coarse-grained is the strongest broad-theme alternative, not a failed configuration."
+    }
+  },
+  "selection_method": "Qualitative evidence-based trade-off assessment, not a maximized composite score or significance claim. See docs/FOUR_CONFIGURATION_FINDINGS.md.",
+  "expert_validation": "pending; recommendations provisional; no expert scores inferred",
+  "known_limitations": [
+    "Intrinsic in-sample metrics and three UMAP seeds; representation uncertainty and held-out generalization are not tested.",
+    "Mixed, procedural and OCR-heavy clusters remain under the unchanged preprocessing.",
+    "Temporal alignment penalizes splits/merges and includes shared outlier mass; not historical ground truth.",
+    "2016-2025 archive is uneven; only 32 source documents in 2025.",
+    "Validated frozen embedding cache was reused; current fit timings are not cold end-to-end Legal-BERT cost."
+  ]
+}

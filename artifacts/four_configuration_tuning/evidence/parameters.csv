@@ -1,0 +1,5 @@
+name,neighbors,min_dist,min_cluster_size,min_samples,purpose
+initial,15,0.0,15,5,Unchanged original Initial baseline.
+conservative,30,0.1,30,10,"Unchanged original Conservative baseline; smoother neighborhood and larger, denser clusters."
+fine_grained,15,0.0,8,3,Keep Initial UMAP fixed; relax HDBSCAN size and density requirements to test smaller/local policy clusters and fragmentation.
+coarse_grained,30,0.1,60,15,"Keep Conservative UMAP fixed; require larger and denser HDBSCAN clusters to test broad themes, merging, and exclusion of rare subjects."

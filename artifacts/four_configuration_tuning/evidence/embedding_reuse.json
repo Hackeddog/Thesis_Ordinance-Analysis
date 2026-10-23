@@ -1,0 +1,9 @@
+{
+  "source": "C:\\Users\\BloodMank\\Desktop\\Thesis\\Thesis_Model_Comparison\\results\\experiments\\clean_text_full\\embedding_cache",
+  "source_files_sha256": {
+    "identity.json": "365c9574bf303a37604d4ff4c9b7bf1dc601c42b8d87d4ad1abde0cf0faee3d9",
+    "metadata.json": "49afe58795ef18483f5929c6c7d100c02fc7b861cbf23017ee93b4985aab4ed5",
+    "vectors.npy": "69e826a83feba64608a4af3eb069b843842e442b168e5f9617238cbe03e0caf7"
+  },
+  "note": "Frozen representation cache only; all clustering and evaluation are rerun. Historic encoder time is not charged as current inference."
+}

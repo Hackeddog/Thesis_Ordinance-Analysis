@@ -1,0 +1,2 @@
+# Preserve exact bytes in hash-audited experiment evidence across platforms.
+artifacts/four_configuration_tuning/** -text

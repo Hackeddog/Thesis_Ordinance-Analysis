@@ -1,0 +1,9 @@
+model,trial,topics,cv_topics_scored,actual_keyword_slots,cv_terms_absent_from_dictionary
+lexical,initial,202,202,1979,0
+semantic,initial,159,159,1545,0
+lexical,conservative,107,107,1053,0
+semantic,conservative,64,64,625,0
+lexical,fine_grained,341,341,3337,0
+semantic,fine_grained,275,275,2676,0
+lexical,coarse_grained,49,49,477,0
+semantic,coarse_grained,36,36,348,0

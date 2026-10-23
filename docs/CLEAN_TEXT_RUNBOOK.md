@@ -137,6 +137,23 @@ The deck must not copy metrics from the earlier 200-unit sample. Cross-run chang
 cannot be attributed solely to the text input: corpus size, preprocessing, model
 batching and cluster settings differ. Changes in the input corpus are disclosed.
 
+## Completed four-configuration extension
+
+The original two-configuration results above remain historical evidence. The
+completed extension on `research/four-configuration-tuning` ran four configurations
+for both models with seeds 42/43/44: **24 successful full fits**, using identical
+source/preparation hashes. Initial and Conservative primary metrics reproduced the
+original results. Full definitions and limitations are in
+[FOUR_CONFIGURATION_METHODS.md](FOUR_CONFIGURATION_METHODS.md).
+
+The provisional primary choice is **Conservative for both models**: 107 lexical
+topics (C_v 0.7960, coverage 86.75%) and 64 semantic topics (C_v 0.8171, coverage
+91.45%), at seed 42. This balances detail, stability and coverage rather than
+maximizing coherence or topic count. Coarse-grained remains a strong sensitivity
+alternative; legal-expert validation is pending. See the
+[completed findings and thesis-ready section](FOUR_CONFIGURATION_FINDINGS.md) and
+[measured report](../artifacts/four_configuration_tuning/RESULTS.md).
+
 ## Next research steps
 
 1. Review the 45 additional text variants sharing IDs and 28 date-disagreement flags.

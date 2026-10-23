@@ -1,0 +1,79 @@
+{
+  "source": "results/experiments/clean_text_preparation/sections.csv",
+  "preparation": "results/experiments/clean_text_preparation",
+  "output": "results/experiments/four_configuration_tuning",
+  "embedding_cache_source": "results/experiments/clean_text_full/embedding_cache",
+  "baseline_experiment": "results/experiments/clean_text_full",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "common": {
+    "encoder": "nlpaueb/legal-bert-base-uncased",
+    "encoder_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+    "device": "cuda",
+    "batch_size": 4,
+    "max_tokens": 512,
+    "seed": 42,
+    "svd_components": 100,
+    "umap_components": 5,
+    "min_df": 1,
+    "max_df": 1.0,
+    "max_features": 50000,
+    "ngram_max": 1,
+    "top_words": 10,
+    "stopwords": "english",
+    "extra_stopwords": null,
+    "stability_runs": 1,
+    "skip_html": true
+  },
+  "trials": [
+    {
+      "name": "initial",
+      "neighbors": 15,
+      "min_dist": 0.0,
+      "min_cluster_size": 15,
+      "min_samples": 5,
+      "purpose": "Unchanged original Initial baseline."
+    },
+    {
+      "name": "conservative",
+      "neighbors": 30,
+      "min_dist": 0.1,
+      "min_cluster_size": 30,
+      "min_samples": 10,
+      "purpose": "Unchanged original Conservative baseline; smoother neighborhood and larger, denser clusters."
+    },
+    {
+      "name": "fine_grained",
+      "neighbors": 15,
+      "min_dist": 0.0,
+      "min_cluster_size": 8,
+      "min_samples": 3,
+      "purpose": "Keep Initial UMAP fixed; relax HDBSCAN size and density requirements to test smaller/local policy clusters and fragmentation."
+    },
+    {
+      "name": "coarse_grained",
+      "neighbors": 30,
+      "min_dist": 0.1,
+      "min_cluster_size": 60,
+      "min_samples": 15,
+      "purpose": "Keep Conservative UMAP fixed; require larger and denser HDBSCAN clusters to test broad themes, merging, and exclusion of rare subjects."
+    }
+  ],
+  "selection_policy": "Assess coherence, diversity, coverage, aligned seed stability, temporal robustness and concentration jointly. Reject degenerate or strongly fragmented solutions even when a single metric is high. Prefer defensible trade-offs; recommendations are provisional until legal-expert review. No weighted composite score or automatic highest-score winner.",
+  "interpretation": "Joint sensitivity experiment on the unchanged full eligible cleaned-TXT corpus. Seeds vary UMAP while lexical SVD and frozen Legal-BERT representations remain fixed, matching the original stability design. All configurations refit; earlier clustering metrics are not reused. Optional identity-validated embedding reuse is explicitly timed and disclosed. No expert ratings or held-out generalization claims."
+}
