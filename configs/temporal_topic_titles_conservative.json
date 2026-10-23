@@ -1,0 +1,48 @@
+{
+  "status": "Draft descriptive labels, not expert-validated legal categories",
+  "scope": "Conservative configuration, seed 42, of the completed four-configuration experiment; keyword-only review, not source-excerpt or expert review",
+  "configuration": "conservative",
+  "seed": 42,
+  "keyword_sha256": {
+    "lexical": "a23cdcd171739f8667fda42f8c9fc42cbb2087861f02504fe94fd7ceef6a9702",
+    "semantic": "ea06c2e752532a0c00a59e9e9c16b20e745f1f8091606a635a135e12e20be10a"
+  },
+  "overrides": {
+    "lexical:3": {
+      "title": "OCR-heavy enactment wording",
+      "category": "unclear",
+      "required_terms": ["sectioii", "ordained", "ard"],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:0": {
+      "title": "Contracting, representation and financial obligations",
+      "category": "governance",
+      "required_terms": ["contracts", "represent", "bonds", "obligations"],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:18": {
+      "title": "Mixed establishment, DQR and product regulation",
+      "category": "mixed",
+      "required_terms": ["establishments", "dqr", "singleuse", "vehicle"],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:0": {
+      "title": "Mixed public administration and regulatory wording",
+      "category": "mixed",
+      "required_terms": ["office", "development", "health", "management"],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:2": {
+      "title": "Council and agreement-party wording",
+      "category": "procedural",
+      "required_terms": ["councilor", "party", "second", "atty"],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:24": {
+      "title": "Mixed amusement and trade-event exemptions",
+      "category": "mixed",
+      "required_terms": ["exemption", "amusement", "expo", "trade"],
+      "label_method": "draft_keyword_review"
+    }
+  }
+}

@@ -18,6 +18,15 @@ highest-coherence or highest-coverage setting.
 - [Protocol, formulas, caveats and reproduction](docs/FOUR_CONFIGURATION_METHODS.md)
 - [Configurations](configs/four_configuration_tuning.json) · [Selection record](configs/four_configuration_selection.json)
 
+## Selected-run temporal topics
+
+[Temporal tables and figures](artifacts/temporal_topics/) now use **Conservative,
+seed 42, for both models**: 107 lexical and 64 semantic topics. The package contains
+8 labeled PNGs, PDF/PPTX exports and complete temporal tables for all 171 topics.
+It reuses verified completed runs; no models were retrained during rendering.
+The previous Initial package is preserved at [temporal_topics_initial](artifacts/temporal_topics_initial/).
+See [the temporal graph guide](docs/TEMPORAL_TOPIC_GRAPHS.md) for parameters and provenance.
+
 The earlier presentation below is preserved as historical two-configuration
 research evidence; it is not the updated four-configuration report.
 
@@ -38,7 +47,7 @@ The original thesis PDF and completed model outputs are unchanged.
 - [Measured metrics and audit evidence](artifacts/clean_text_full/evidence/)
 - [Pipeline, parameter and yearly PNG figures](artifacts/clean_text_full/figures/)
 - [Methodology and reproducibility](docs/CLEAN_TEXT_RUNBOOK.md)
-- **[Temporal-only topic graphs with descriptive titles](artifacts/temporal_topics/)** — 8 PNGs, PDF/PPTX, and a draft-title catalog for all 361 model-local topics.
+- [Archived Initial temporal-topic graphs](artifacts/temporal_topics_initial/) — original 8 PNGs, PDF/PPTX, and draft-title catalog for 361 model-local topics; not the current Conservative outputs.
 
 Temporal figures use document-weighted annual shares. Topic titles are keyword-based
 descriptions, not expert-validated categories. See [the temporal graph guide](docs/TEMPORAL_TOPIC_GRAPHS.md).

@@ -1,159 +1,77 @@
 {
   "status": "Draft descriptive labels, not expert-validated legal categories",
-  "scope": "Initial configuration of the completed clean-text full-corpus experiment",
+  "scope": "Conservative configuration, seed 42, of the completed four-configuration experiment; keyword-only review, not source-excerpt or expert review",
+  "configuration": "conservative",
+  "seed": 42,
+  "keyword_sha256": {
+    "lexical": "a23cdcd171739f8667fda42f8c9fc42cbb2087861f02504fe94fd7ceef6a9702",
+    "semantic": "ea06c2e752532a0c00a59e9e9c16b20e745f1f8091606a635a135e12e20be10a"
+  },
   "overrides": {
-    "lexical:5": {
-      "title": "Disaster relief and calamity funding",
-      "category": "policy",
-      "required_terms": [
-        "calamity",
-        "fund",
-        "assistance"
-      ]
-    },
-    "lexical:34": {
-      "title": "Council correspondence and legal endorsements",
-      "category": "procedural",
-      "required_terms": [
-        "councilor",
-        "respectfully",
-        "legal"
-      ]
-    },
-    "lexical:0": {
-      "title": "Agreements and mayoral authorization",
-      "category": "governance",
-      "required_terms": [
-        "memorandum",
-        "agreement",
-        "authorizing"
-      ]
-    },
-    "lexical:61": {
-      "title": "OCR-heavy authorization wording",
+    "lexical:3": {
+      "title": "OCR-heavy enactment wording",
       "category": "unclear",
       "required_terms": [
         "sectioii",
-        "aiid",
-        "authority"
-      ]
+        "ordained",
+        "ard"
+      ],
+      "label_method": "draft_keyword_review"
     },
-    "lexical:78": {
-      "title": "Council records and administrative action",
-      "category": "procedural",
-      "required_terms": [
-        "councilor",
-        "secretary",
-        "action"
-      ]
-    },
-    "lexical:72": {
-      "title": "Council correspondence and legal action",
-      "category": "procedural",
-      "required_terms": [
-        "secretary",
-        "legal",
-        "action"
-      ]
-    },
-    "lexical:82": {
-      "title": "Mayoral contracting powers",
+    "lexical:0": {
+      "title": "Contracting, representation and financial obligations",
       "category": "governance",
       "required_terms": [
-        "contract",
-        "powers",
-        "executive"
-      ]
+        "contracts",
+        "represent",
+        "bonds",
+        "obligations"
+      ],
+      "label_method": "draft_keyword_review"
     },
-    "lexical:2": {
-      "title": "Mixed establishment and product regulation",
+    "lexical:18": {
+      "title": "Mixed establishment, DQR and product regulation",
       "category": "mixed",
       "required_terms": [
         "establishments",
-        "products",
-        "singleuse"
-      ]
-    },
-    "semantic:17": {
-      "title": "OCR-corrupted ordinance wording",
-      "category": "unclear",
-      "required_terms": [
-        "ard",
-        "ordinane",
-        "sectioii"
-      ]
+        "dqr",
+        "singleuse",
+        "vehicle"
+      ],
+      "label_method": "draft_keyword_review"
     },
     "semantic:0": {
-      "title": "Temporary road closures and traffic control",
-      "category": "policy",
-      "required_terms": [
-        "street",
-        "closure",
-        "traffic"
-      ]
-    },
-    "semantic:1": {
-      "title": "Mixed establishment and product regulation",
+      "title": "Mixed public administration and regulatory wording",
       "category": "mixed",
       "required_terms": [
-        "person",
-        "vehicle",
-        "singleuse"
-      ]
+        "office",
+        "development",
+        "health",
+        "management"
+      ],
+      "label_method": "draft_keyword_review"
     },
-    "semantic:8": {
-      "title": "OCR-heavy enactment and authorization wording",
-      "category": "unclear",
-      "required_terms": [
-        "sectioii",
-        "sectioh",
-        "ordained"
-      ]
-    },
-    "semantic:18": {
-      "title": "Mayoral contracting powers",
-      "category": "governance",
-      "required_terms": [
-        "contract",
-        "powers",
-        "executive"
-      ]
-    },
-    "semantic:22": {
-      "title": "Council correspondence and legal endorsements",
+    "semantic:2": {
+      "title": "Council and agreement-party wording",
       "category": "procedural",
       "required_terms": [
         "councilor",
-        "legal",
-        "respectfully"
-      ]
+        "party",
+        "second",
+        "atty"
+      ],
+      "label_method": "draft_keyword_review"
     },
-    "semantic:29": {
-      "title": "Disaster relief and calamity funding",
-      "category": "policy",
+    "semantic:24": {
+      "title": "Mixed amusement and trade-event exemptions",
+      "category": "mixed",
       "required_terms": [
-        "calamity",
-        "fund",
-        "assistance"
-      ]
-    },
-    "semantic:49": {
-      "title": "Council attendance and session records",
-      "category": "procedural",
-      "required_terms": [
-        "councilor",
-        "leave",
-        "secretary"
-      ]
-    },
-    "semantic:31": {
-      "title": "Land-use zoning and reclassification",
-      "category": "policy",
-      "required_terms": [
-        "zoning",
-        "reclassification",
-        "land"
-      ]
+        "exemption",
+        "amusement",
+        "expo",
+        "trade"
+      ],
+      "label_method": "draft_keyword_review"
     }
   }
 }

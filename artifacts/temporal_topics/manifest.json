@@ -1,14 +1,31 @@
 {
-  "created_utc": "2026-10-06T15:55:21.919599+00:00",
-  "source": "C:\\Users\\BloodMank\\Desktop\\Thesis\\Thesis_Model_Comparison\\artifacts\\clean_text_full\\evidence",
-  "source_sha256": {
-    "lexical/document_weighted_prevalence.csv": "25d35e23afcde5ea0f2d00e2a88e655f4023e708d13e3c4a6f033d914de9bea9",
-    "lexical/topic_keywords.csv": "f9a68f9ceaeda35701d70ae01beed28333e41ed89f7f06a55ea893ff0fbb97cd",
-    "semantic/document_weighted_prevalence.csv": "5db925b0fc0faa7c3e3936f906c8842dbfdbaf8fc48e13071321831b90538ea2",
-    "semantic/topic_keywords.csv": "64cdf6a7559e4975e8c05447ed36d81278949238088ab8f65ee7bdbc8ed4043b"
+  "configuration": "conservative",
+  "seed": 42,
+  "parameters": {
+    "neighbors": 30,
+    "min_dist": 0.1,
+    "min_cluster_size": 30,
+    "min_samples": 10,
+    "umap_components": 5
   },
-  "title_config_sha256": "0a7a4a71b0e41bd7e564b75b559aa643e33405ead8eb34ca8173855aad6e76d9",
-  "generator_sha256": "ef68572dbd92056b4cd1850eb2bc4e6231432c83924636a62ee8e34473331a99",
+  "topics_per_model": {
+    "lexical": 107,
+    "semantic": 64
+  },
+  "experiment_config_sha256": "15d5def7e9a45ee19374a63c06c80ac4bad4d09d259e2ae10b59e34f4eab28e6",
+  "evidence_report_sha256": "919e57ababe261673d2189c0aace9d2ff31c5cd8da07ea0d3be3d73bcee27ee0",
+  "created_utc": "2026-10-23T13:06:59.878982+00:00",
+  "source": "C:\\Users\\BloodMank\\Desktop\\Thesis\\Thesis_Model_Comparison\\artifacts\\four_configuration_tuning\\evidence\\conservative",
+  "source_sha256": {
+    "lexical/document_weighted_prevalence.csv": "94e020a55152426a329c59b96c3024fb810b523f563df9a5e4bc535726f64e95",
+    "lexical/topic_keywords.csv": "a23cdcd171739f8667fda42f8c9fc42cbb2087861f02504fe94fd7ceef6a9702",
+    "lexical/metrics.json": "1dbf983436c74e0e712e63b7b69540705986c2929a6711aa02397dbc482e24a9",
+    "semantic/document_weighted_prevalence.csv": "ac7d7115df8e2b749ebad530ffe3c809b9f0bafd6b1a2b373b9646f08fd238ef",
+    "semantic/topic_keywords.csv": "ea06c2e752532a0c00a59e9e9c16b20e745f1f8091606a635a135e12e20be10a",
+    "semantic/metrics.json": "820753ba36be58434540a0f41fb818793d5e758a11274f62da3bb73e63f5bb1d"
+  },
+  "title_config_sha256": "cd9a86925254f970cfb5fcc0c46232696163918596992ed9928f9f25887d241e",
+  "generator_sha256": "2f2ce08f9e2a8c213a575dd1b918e77303e82ae73b99374730c4d9a7654ad2e6",
   "models_rerun": false,
   "years": [
     2016,
@@ -23,7 +40,7 @@
     2025
   ],
   "top_n": 8,
-  "topic_titles": 361,
+  "topic_titles": 171,
   "figure_count": 8,
   "label_status": "Draft descriptive labels, not expert-validated legal categories",
   "ranking": "sum of fractional-document contributions across years, excluding topic -1",

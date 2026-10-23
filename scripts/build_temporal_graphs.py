@@ -66,7 +66,7 @@ def label_topic(model, topic, words, overrides):
         chosen = overrides[key]
         if not set(chosen["required_terms"]).issubset(words):
             raise ValueError(f"Title override {key} does not match this run's clustered keywords")
-        return chosen["title"], chosen["category"], "draft_keyword_excerpt_review", chosen["required_terms"]
+        return chosen["title"], chosen["category"], chosen.get("label_method", "draft_keyword_excerpt_review"), chosen["required_terms"]
     first = words[:8]
     if len(set(first) & OCR_MARKERS) >= 3 or sum(len(w) <= 2 for w in first) >= 5:
         return "OCR-heavy or unclear text cluster", "unclear", "keyword_quality_flag", [w for w in first if w in OCR_MARKERS]
@@ -134,6 +134,50 @@ def topic_mix(matrix, selected):
     return result
 
 
+def load_run_provenance(source, title_config):
+    """Read measured run identity, not a caller-supplied caption or topic number."""
+    source = Path(source)
+    configuration_path = source.parent / "configuration.json"
+    experiment = json.loads(configuration_path.read_text())
+    report_path = source.parent.parent / "report_manifest.json"
+    report = json.loads(report_path.read_text())
+    if report.get("status") != "completed":
+        raise ValueError("Temporal figures require a completed evidence report")
+    paths = [configuration_path]
+    metrics = {}
+    for model in NAMES:
+        directory = source / model
+        metrics[model] = json.loads((directory / "metrics.json").read_text())
+        paths.extend(directory / name for name in
+                     ["metrics.json", "document_weighted_prevalence.csv", "topic_keywords.csv"])
+    for path in paths:
+        relative = path.relative_to(report_path.parent).as_posix()
+        if hashlib.sha256(path.read_bytes()).hexdigest() != report["files_sha256"].get(relative):
+            raise ValueError(f"Source evidence hash mismatch: {relative}")
+    identities = {(m["trial"], m["seed"]) for m in metrics.values()}
+    if len(identities) != 1:
+        raise ValueError("Both models must use the same configuration and seed")
+    trial, seed = identities.pop()
+    if (title_config.get("configuration"), title_config.get("seed")) != (trial, seed):
+        raise ValueError("Title configuration scope does not match the source run")
+    parameters = next(t for t in experiment["trials"] if t["name"] == trial)
+    keys = ["neighbors", "min_dist", "min_cluster_size", "min_samples"]
+    for model, measured in metrics.items():
+        if measured.get("status") != "completed" or measured["model"] != model:
+            raise ValueError(f"Incomplete or incorrect model evidence: {model}")
+        if any(measured[k] != parameters[k] for k in keys):
+            raise ValueError(f"Measured parameters disagree with configuration: {model}")
+        expected = title_config.get("keyword_sha256", {}).get(model)
+        if expected != hashlib.sha256((source / model / "topic_keywords.csv").read_bytes()).hexdigest():
+            raise ValueError(f"Title keyword fingerprint does not match the source run: {model}")
+    return {"configuration": trial, "seed": seed,
+            "parameters": {**{k: parameters[k] for k in keys},
+                           "umap_components": experiment["common"]["umap_components"]},
+            "topics_per_model": {model: m["topics_excluding_outliers"] for model, m in metrics.items()},
+            "experiment_config_sha256": hashlib.sha256(configuration_path.read_bytes()).hexdigest(),
+            "evidence_report_sha256": hashlib.sha256(report_path.read_bytes()).hexdigest()}
+
+
 def build(source, output, titles, top_n=8):
     source, output, titles = Path(source), Path(output), Path(titles)
     if output.exists():
@@ -141,7 +185,14 @@ def build(source, output, titles, top_n=8):
     if not 1 <= top_n <= 8:
         raise ValueError("--top-n must be 1..8 for legible figures")
     config = json.loads(titles.read_text())
+    provenance = load_run_provenance(source, config)
+    run_label = f"{provenance['configuration'].replace('_', ' ').title()} · seed {provenance['seed']}"
     loaded = {model: load_temporal(source, model, config["overrides"]) for model in NAMES}
+    for model, (catalog, _, _) in loaded.items():
+        if len(catalog) != provenance["topics_per_model"][model]:
+            raise ValueError(f"Temporal topic count disagrees with measured run: {model}")
+        catalog.insert(1, "configuration", provenance["configuration"])
+        catalog.insert(2, "seed", provenance["seed"])
     denominators = [value[2].groupby("year").documents_in_year.first().to_numpy() for value in loaded.values()]
     if not np.array_equal(denominators[0], denominators[1]):
         raise ValueError("Both models must describe the same yearly corpus")
@@ -151,7 +202,7 @@ def build(source, output, titles, top_n=8):
     catalogs, summary_rows, figure_paths = [], [], []
     source_hashes = {}
     for model in NAMES:
-        for filename in ["document_weighted_prevalence.csv", "topic_keywords.csv"]:
+        for filename in ["document_weighted_prevalence.csv", "topic_keywords.csv", "metrics.json"]:
             path = source / model / filename
             source_hashes[f"{model}/{filename}"] = hashlib.sha256(path.read_bytes()).hexdigest()
     shared_limit = max(float(matrix.reindex(index=cat.head(top_n).topic).to_numpy().max()) * 100
@@ -162,6 +213,7 @@ def build(source, output, titles, top_n=8):
     pdf_path = output / "Temporal_Topic_Summaries.pdf"
     with PdfPages(pdf_path) as pdf:
         def save(fig, name):
+            fig.text(.98, .99, run_label, ha="right", va="top", fontsize=10, color="#18334A")
             path = figures / name
             fig.savefig(path, dpi=190, facecolor="white")
             pdf.savefig(fig, facecolor="white")
@@ -175,11 +227,15 @@ def build(source, output, titles, top_n=8):
             catalog.to_csv(tables / f"{model}_topic_titles_and_temporal_summary.csv", index=False)
             long = weighted.merge(catalog[["topic", "title", "category", "label_status"]], on="topic", how="left")
             long.loc[long.topic.eq(-1), ["title", "category", "label_status"]] = ["Outliers", "unassigned", "not_a_substantive_topic"]
+            long.insert(0, "model", model)
+            long.insert(1, "configuration", provenance["configuration"])
+            long.insert(2, "seed", provenance["seed"])
             long.to_csv(tables / f"{model}_labeled_temporal_data.csv", index=False)
             for selection_name, selection in [("leading", top), ("interpretable", selected)]:
                 selection.assign(selection=selection_name).to_csv(tables / f"{model}_{selection_name}_topic_selection.csv", index=False)
                 for row in selection.itertuples():
-                    summary_rows.append({"model": model, "selection": selection_name, "topic": row.topic,
+                    summary_rows.append({"model": model, "configuration": provenance["configuration"],
+                        "seed": provenance["seed"], "selection": selection_name, "topic": row.topic,
                         "title": row.title, "summary": f"Highest observed share: {row.peak_share_percent:.2f}% in {row.peak_years}; 2025 share: {row.share_2025_percent:.2f}%. Change from 2016: {row.change_2016_to_2025_percentage_points:+.2f} percentage points. Descriptive archive pattern, not a significance test."})
 
             # 1. Top-topic temporal heatmap, not a static topic-size chart.
@@ -257,7 +313,7 @@ def build(source, output, titles, top_n=8):
     pd.DataFrame(summary_rows).to_csv(tables / "selected_topic_temporal_summaries.csv", index=False)
     shutil_config = output / "title_rules_overrides.json"
     shutil_config.write_text(json.dumps(config, indent=2), encoding="utf-8")
-    manifest = {"created_utc": datetime.now(timezone.utc).isoformat(), "source": str(source),
+    manifest = {**provenance, "created_utc": datetime.now(timezone.utc).isoformat(), "source": str(source),
                 "source_sha256": source_hashes, "title_config_sha256": hashlib.sha256(titles.read_bytes()).hexdigest(),
                 "generator_sha256": hashlib.sha256(Path(__file__).read_bytes()).hexdigest(),
                 "models_rerun": False, "years": YEARS, "top_n": top_n, "topic_titles": len(catalog),
@@ -270,7 +326,7 @@ def build(source, output, titles, top_n=8):
     # A graph-only slide deck: no model metrics, training screenshots or non-temporal charts.
     prs = Presentation()
     prs.slide_width, prs.slide_height = Inches(16), Inches(10)
-    prs.core_properties.title = "Temporal topic summaries — draft descriptive titles"
+    prs.core_properties.title = f"Temporal topic summaries — {run_label} — draft descriptive titles"
     from PIL import Image
     for path in figure_paths:
         slide = prs.slides.add_slide(prs.slide_layouts[6])
@@ -281,7 +337,13 @@ def build(source, output, titles, top_n=8):
     prs.save(output / "Temporal_Topic_Summaries.pptx")
     (output / "README.md").write_text(
         "# Temporal topic graphs\n\nEight temporal-only PNGs, an eight-page PDF, and a graph-only PowerPoint. "
-        "These summarize existing initial-configuration results; no models were retrained.\n\n"
+        f"These summarize completed **{run_label}** results for both models; no models were retrained during rendering.\n\n"
+        f"Parameters: `{json.dumps(provenance['parameters'], sort_keys=True)}`.\n\n"
+        f"All {len(catalog)} non-outlier topics are included in the tables: "
+        f"{provenance['topics_per_model']['lexical']} lexical and {provenance['topics_per_model']['semantic']} semantic. "
+        "Figures show selected topics, not one figure for every topic.\n\n"
+        "Run identity and input hashes are recorded in manifest.json. Topic-ID overrides are scoped to this run's keyword fingerprints; "
+        "Initial topic labels are not carried over. Labels are keyword-based drafts, not expert validation or source-excerpt review.\n\n"
         "- Leading-topic heatmaps and trajectories retain procedural/OCR-heavy topics when they rank highly.\n"
         "- Interpretable trajectories are a disclosed policy/governance subset: the largest cluster per draft title, not a merging of clusters.\n"
         "- Yearly composition retains other assigned topics and outliers so every year totals 100%.\n"
@@ -296,9 +358,9 @@ def build(source, output, titles, top_n=8):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", type=Path, default=ROOT / "artifacts/clean_text_full/evidence")
+    parser.add_argument("--source", type=Path, default=ROOT / "artifacts/four_configuration_tuning/evidence/conservative")
     parser.add_argument("--output", type=Path, default=ROOT / "artifacts/temporal_topics")
-    parser.add_argument("--titles", type=Path, default=ROOT / "configs/temporal_topic_titles.json")
+    parser.add_argument("--titles", type=Path, default=ROOT / "configs/temporal_topic_titles_conservative.json")
     parser.add_argument("--top-n", type=int, default=8)
     args = parser.parse_args()
     build(args.source, args.output, args.titles, args.top_n)
