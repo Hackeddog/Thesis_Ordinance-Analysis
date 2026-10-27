@@ -1,2 +1,4 @@
 [tools]
+"aqua:cli/cli" = "2.103.3"
+bun = "1.3.13"
 python = "3.12"

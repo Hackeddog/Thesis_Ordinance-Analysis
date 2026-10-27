@@ -1,0 +1,371 @@
+model,configuration,seed,year,topic,fractional_documents,documents_in_year,share,title,category,label_status
+semantic,coarse_grained,42,2016,-1,9.233333333333333,174,0.0530651340996168,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2016,0,4.383333333333333,174,0.025191570881226,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2016,1,2.35,174,0.0135057471264367,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2016,2,2.9,174,0.0166666666666666,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,3,123.45833333333331,174,0.7095306513409961,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,4,6.633333333333333,174,0.0381226053639846,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,5,2.0666666666666664,174,0.0118773946360153,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2016,6,0.65,174,0.003735632183908,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,7,2.5,174,0.014367816091954,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,8,0.3333333333333333,174,0.0019157088122605,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2016,9,3.0,174,0.0172413793103448,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2016,10,0.0,174,0.0,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,11,1.4833333333333334,174,0.0085249042145593,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,12,2.658333333333333,174,0.0152777777777777,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,13,0.5416666666666666,174,0.0031130268199233,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2016,14,0.0,174,0.0,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,15,0.3333333333333333,174,0.0019157088122605,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,16,0.7,174,0.0040229885057471,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,17,0.2,174,0.0011494252873563,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,18,0.0,174,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,19,0.1666666666666666,174,0.0009578544061302,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,20,0.7,174,0.0040229885057471,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,21,0.0,174,0.0,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,22,0.0,174,0.0,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2016,23,0.0,174,0.0,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,24,0.6583333333333333,174,0.0037835249042145,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2016,25,0.5,174,0.0028735632183908,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2016,26,1.0,174,0.0057471264367816,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,27,0.65,174,0.003735632183908,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,28,0.2,174,0.0011494252873563,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,29,0.3333333333333333,174,0.0019157088122605,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,30,1.8,174,0.0103448275862068,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,31,0.5,174,0.0028735632183908,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2016,32,0.8333333333333333,174,0.0047892720306513,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2016,33,0.0,174,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2016,34,2.15,174,0.0123563218390804,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2016,35,1.0833333333333333,174,0.0062260536398467,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,-1,15.347835497835495,204,0.0752344877344877,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2017,0,18.33333333333333,204,0.0898692810457516,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,1,6.131818181818182,204,0.0300579322638146,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2017,2,5.340909090909091,204,0.026180926916221,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,3,115.8409090909091,204,0.5678475935828877,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,4,8.366666666666667,204,0.0410130718954248,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,5,5.45,204,0.0267156862745098,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,6,0.5333333333333333,204,0.0026143790849673,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,7,1.490909090909091,204,0.0073083778966131,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,8,0.0,204,0.0,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,9,8.0,204,0.0392156862745098,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,10,0.1666666666666666,204,0.0008169934640522,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,11,2.9095238095238094,204,0.0142623716153127,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,12,0.1428571428571428,204,0.0007002801120448,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,13,0.2857142857142857,204,0.0014005602240896,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,14,0.25,204,0.0012254901960784,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,15,2.533333333333333,204,0.0124183006535947,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,16,0.0,204,0.0,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,17,0.3333333333333333,204,0.0016339869281045,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,18,0.0,204,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,19,0.1,204,0.0004901960784313,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,20,0.0,204,0.0,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,21,0.25,204,0.0012254901960784,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,22,0.0,204,0.0,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2017,23,0.1,204,0.0004901960784313,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,24,0.1428571428571428,204,0.0007002801120448,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2017,25,0.5,204,0.0024509803921568,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,26,3.0,204,0.0147058823529411,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,27,0.0,204,0.0,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,28,1.7,204,0.0083333333333333,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,29,1.5,204,0.0073529411764705,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,30,2.0166666666666666,204,0.0098856209150326,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,31,0.0,204,0.0,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2017,32,0.8333333333333333,204,0.0040849673202614,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2017,33,0.0,204,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2017,34,1.65,204,0.0080882352941176,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2017,35,0.75,204,0.0036764705882352,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,-1,16.112301587301587,249,0.0647080385032192,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2018,0,14.35,249,0.0576305220883534,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,1,14.01547619047619,249,0.0562870529737999,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2018,2,12.39484126984127,249,0.0497784789953464,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,3,88.83650793650794,249,0.3567731242430038,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,4,25.883333333333333,249,0.1039491298527443,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,5,3.683333333333333,249,0.0147925033467202,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,6,1.5,249,0.0060240963855421,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,7,3.503968253968254,249,0.0140721616625231,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,8,0.0,249,0.0,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,9,12.25,249,0.0491967871485943,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,10,8.527777777777779,249,0.0342481035252119,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,11,3.286111111111111,249,0.0131972333779562,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,12,0.4444444444444444,249,0.001784917447568,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,13,1.0888888888888888,249,0.0043730477465417,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,14,6.5095238095238095,249,0.026142665901702,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,15,8.8,249,0.0353413654618473,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,16,3.5166666666666666,249,0.0141231593038821,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,17,1.380952380952381,249,0.0055459934978007,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,18,0.0,249,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,19,0.25,249,0.001004016064257,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,20,0.125,249,0.0005020080321285,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,21,1.3666666666666667,249,0.0054886211512717,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,22,0.5416666666666666,249,0.0021753681392235,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2018,23,3.072619047619048,249,0.0123398355326066,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,24,1.0373015873015872,249,0.0041658698285204,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2018,25,0.7083333333333333,249,0.0028447121820615,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,26,5.197619047619048,249,0.0208739720787913,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,27,1.6,249,0.0064257028112449,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,28,1.1166666666666667,249,0.0044846050870147,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,29,1.5,249,0.0060240963855421,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,30,2.033333333333333,249,0.0081659973226238,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,31,1.3166666666666669,249,0.0052878179384203,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2018,32,0.1666666666666666,249,0.000669344042838,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2018,33,0.25,249,0.001004016064257,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2018,34,2.1833333333333336,249,0.008768406961178,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2018,35,0.45,249,0.0018072289156626,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,-1,48.46944444444444,266,0.1822159565580618,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2019,0,35.40836940836941,266,0.1331141707081556,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,1,18.10786435786436,266,0.068074678037084,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2019,2,18.31531385281385,266,0.068854563356443,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,3,12.019444444444444,266,0.0451858813700918,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,4,19.616666666666667,266,0.0737468671679198,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,5,8.294444444444444,266,0.0311821219715956,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,6,2.8095238095238093,266,0.0105621195846759,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,7,9.202380952380953,266,0.0345954171142141,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,8,0.75,266,0.0028195488721804,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,9,14.666666666666666,266,0.0551378446115288,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,10,3.9333333333333336,266,0.0147869674185463,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,11,4.55,266,0.0171052631578947,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,12,1.6801587301587302,266,0.0063163862036042,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,13,2.895238095238095,266,0.0108843537414965,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,14,3.529166666666667,266,0.0132675438596491,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,15,6.416666666666667,266,0.0241228070175438,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,16,5.394444444444445,266,0.0202798663324979,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,17,5.0,266,0.018796992481203,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,18,0.0,266,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,19,0.1428571428571428,266,0.0005370569280343,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,20,1.4595238095238094,266,0.0054869316147511,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,21,3.0761904761904764,266,0.0115646258503401,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,22,2.2523809523809524,266,0.0084675975653419,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2019,23,4.7444444444444445,266,0.0178362573099415,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,24,2.344047619047619,266,0.0088122090941639,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2019,25,0.7333333333333334,266,0.0027568922305764,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,26,3.604761904761905,266,0.0135517364840673,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,27,5.6,266,0.0210526315789473,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,28,2.442857142857143,266,0.0091836734693877,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,29,0.7261904761904762,266,0.0027300393841747,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,30,7.635714285714286,266,0.0287056928034371,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,31,3.026190476190476,266,0.0113766559255281,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2019,32,1.5833333333333337,266,0.0059523809523809,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2019,33,0.9857142857142858,266,0.0037056928034371,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2019,34,2.6,266,0.0097744360902255,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2019,35,1.9833333333333332,266,0.0074561403508771,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,-1,15.41469363969364,165,0.0934223856951129,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2020,0,18.22340576090576,165,0.1104448833994288,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,1,21.89507853257853,165,0.1326974456519911,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2020,2,9.975335775335775,165,0.0604565804565804,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,3,4.984126984126984,165,0.0302068302068302,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,4,1.5750000000000002,165,0.0095454545454545,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,5,5.776623376623377,165,0.0350098386462022,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,6,2.6333333333333333,165,0.0159595959595959,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,7,3.350631313131313,165,0.02030685644322,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,8,0.3333333333333333,165,0.002020202020202,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,9,19.75,165,0.1196969696969696,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,10,17.8,165,0.1078787878787878,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,11,2.422222222222222,165,0.0146801346801346,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,12,1.2333333333333334,165,0.0074747474747474,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,13,1.112121212121212,165,0.0067401285583103,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,14,9.754978354978356,165,0.0591210809392627,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,15,0.4555555555555556,165,0.0027609427609427,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,16,2.805357142857143,165,0.0170021645021645,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,17,1.2478354978354975,165,0.0075626393808211,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,18,0.4242424242424242,165,0.0025711662075298,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,19,0.6000000000000001,165,0.0036363636363636,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,20,1.2787878787878788,165,0.0077502295684113,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,21,2.740909090909091,165,0.0166115702479338,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,22,1.9428571428571428,165,0.0117748917748917,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2020,23,2.65952380952381,165,0.0161183261183261,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,24,0.7,165,0.0042424242424242,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2020,25,1.2595238095238095,165,0.0076334776334776,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,26,1.0333333333333332,165,0.0062626262626262,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,27,2.3666666666666667,165,0.0143434343434343,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,28,2.5,165,0.0151515151515151,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,29,0.5833333333333333,165,0.0035353535353535,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,30,1.375,165,0.0083333333333333,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,31,1.9928571428571429,165,0.012077922077922,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2020,32,1.8166666666666669,165,0.011010101010101,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2020,33,0.0,165,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2020,34,0.0,165,0.0,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2020,35,0.9833333333333334,165,0.0059595959595959,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,-1,30.89979403551385,233,0.1326171417833212,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2021,0,46.85548952962746,233,0.2010965215863839,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,1,35.22061520232493,233,0.1511614386365876,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2021,2,9.175512459054415,233,0.0393798817985168,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,3,5.530591630591631,233,0.0237364447664876,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,4,0.0,233,0.0,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,5,4.116666666666667,233,0.0176680972818311,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,6,3.3607142857142858,233,0.014423666462293,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,7,3.600306129436321,233,0.0154519576370657,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,8,6.15,233,0.0263948497854077,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,9,36.5,233,0.1566523605150214,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,10,0.6166666666666667,233,0.0026466380543633,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,11,3.8566109329267215,233,0.0165519782529043,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,12,1.1166666666666667,233,0.0047925608011444,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,13,1.1083333333333334,233,0.0047567954220314,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,14,1.4929860802045063,233,0.0064076655802768,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,15,0.0,233,0.0,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,16,5.563492063492063,233,0.0238776483411676,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,17,2.0791666666666666,233,0.0089234620886981,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,18,1.1844988344988343,233,0.0050836859849735,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,19,0.0,233,0.0,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,20,0.8935897435897436,233,0.003835149114119,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,21,2.301582325720257,233,0.0098780357327049,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,22,5.725,233,0.0245708154506437,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2021,23,3.423506069094304,233,0.0146931590948253,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,24,0.9583333333333331,233,0.0041130185979971,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2021,25,4.388095238095239,233,0.0188330267729409,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,26,0.0,233,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,27,3.175,233,0.01362660944206,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,28,3.453968253968254,233,0.0148238980857006,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,29,1.0909090909090908,233,0.0046820132657042,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,30,0.5,233,0.0021459227467811,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,31,4.184523809523809,233,0.0179593296546086,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2021,32,2.0107142857142857,233,0.008629675045984,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2021,33,0.1666666666666666,233,0.0007153075822603,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2021,34,0.3333333333333333,233,0.0014306151645207,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2021,35,1.9666666666666668,233,0.0084406294706723,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,-1,30.110862177038648,279,0.1079242371936869,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2022,0,33.4465478965479,279,0.1198800999876268,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,1,31.752816954287542,279,0.1138093797644714,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2022,2,17.665386345680464,279,0.0633167969379228,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,3,2.4,279,0.0086021505376344,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,4,12.85,279,0.0460573476702508,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,5,3.2004901960784315,279,0.0114712910253707,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,6,13.96641414141414,279,0.0500588320480793,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,7,2.9180054585936936,279,0.0104588009268591,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,8,11.82857142857143,279,0.0423963133640553,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,9,18.0,279,0.064516129032258,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,10,0.9333333333333332,279,0.0033452807646356,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,11,1.9682106782106783,279,0.0070545185598949,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,12,2.621825396825397,279,0.0093972236445354,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,13,1.1287157287157288,279,0.0040455760885868,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,14,1.232990538872892,279,0.0044193209278598,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,15,2.15,279,0.0077060931899641,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,16,2.966666666666667,279,0.0106332138590203,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,17,6.838888888888889,279,0.0245121465551573,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,18,0.0,279,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,19,2.9428571428571426,279,0.010547875064004,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,20,2.142857142857143,279,0.0076804915514592,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,21,2.9416666666666664,279,0.0105436081242532,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,22,2.5325396825396824,279,0.0090772031632246,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2022,23,0.6190476190476191,279,0.0022188086704215,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,24,1.511111111111111,279,0.005416168857029,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2022,25,3.553968253968254,279,0.0127382374694202,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,26,37.266666666666666,279,0.1335722819593787,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,27,4.019047619047619,279,0.0144051885987369,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,28,2.243290043290043,279,0.0080404661049822,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,29,1.5583333333333331,279,0.0055854241338112,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,30,1.2333333333333334,279,0.0044205495818399,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,31,6.661111111111111,279,0.0238749502190362,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2022,32,2.4444444444444446,279,0.0087614496216646,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2022,33,1.4,279,0.0050179211469534,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2022,34,4.383333333333334,279,0.015710872162485,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2022,35,3.5666666666666664,279,0.0127837514934289,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,-1,25.393347338935573,218,0.1164832446740164,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2023,0,29.86120448179272,218,0.1369780022100583,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,1,17.762931839402427,218,0.0814813387128551,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2023,2,13.78342670401494,218,0.0632267280000685,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,3,4.933333333333334,218,0.0226299694189602,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,4,9.9,218,0.0454128440366972,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,5,5.211904761904762,218,0.0239078200087374,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,6,5.494047619047619,218,0.0252020532983835,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,7,2.995728291316526,218,0.0137418728959473,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,8,6.65,218,0.0305045871559633,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,9,10.45,218,0.0479357798165137,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,10,1.8166666666666669,218,0.0083333333333333,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,11,2.9761904761904763,218,0.013652249890782,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,12,4.442857142857143,218,0.0203800786369593,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,13,2.826190476190476,218,0.0129641764962865,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,14,2.376680672268908,218,0.0109022049186647,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,15,3.0,218,0.0137614678899082,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,16,3.7,218,0.0169724770642201,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,17,8.287301587301586,218,0.0380151448958788,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,18,5.059523809523809,218,0.0232088248143294,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,19,2.715079365079365,218,0.012454492500364,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,20,4.045238095238095,218,0.0185561380515508,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,21,6.144537815126051,218,0.0281859532803947,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,22,3.871428571428571,218,0.0177588466579292,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2023,23,2.35,218,0.0107798165137614,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,24,3.326190476190476,218,0.0152577544779379,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2023,25,4.235714285714286,218,0.0194298820445609,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,26,0.95,218,0.0043577981651376,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,27,1.9166666666666667,218,0.0087920489296636,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,28,2.7666666666666666,218,0.0126911314984709,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,29,6.692857142857143,218,0.0307011795543905,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,30,1.7666666666666666,218,0.0081039755351681,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,31,1.6666666666666667,218,0.0076452599388379,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2023,32,1.9714285714285715,218,0.0090432503276539,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2023,33,1.9595238095238092,218,0.0089886413280908,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2023,34,1.2333333333333334,218,0.00565749235474,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2023,35,3.466666666666667,218,0.0159021406727828,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,-1,22.526862026862027,298,0.0755934967344363,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2024,0,36.11666666666667,298,0.1211968680089485,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,1,17.62893772893773,298,0.0591575091575091,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2024,2,15.628113553113554,298,0.0524433340708508,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,3,16.1,298,0.0540268456375839,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,4,14.566666666666666,298,0.0488814317673378,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,5,3.1761904761904765,298,0.0106583573026526,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,6,4.602380952380953,298,0.0154442313838287,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,7,2.8102564102564105,298,0.0094303906384443,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,8,11.566666666666666,298,0.038814317673378,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,9,12.75,298,0.0427852348993288,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,10,0.0,298,0.0,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,11,4.216666666666667,298,0.0141498881431767,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,12,9.995238095238095,298,0.0335410674336848,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,13,10.897161172161171,298,0.0365676549401381,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,14,0.8023809523809524,298,0.0026925535314797,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,15,5.833333333333333,298,0.0195749440715883,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,16,3.1095238095238096,298,0.0104346436561201,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,17,7.43525641025641,298,0.0249505248666322,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,18,15.16190476190476,298,0.0508788750399488,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,19,13.245238095238095,298,0.0444471077021412,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,20,10.53095238095238,298,0.0353387663790348,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,21,6.456349206349207,298,0.0216656013635879,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,22,2.257142857142857,298,0.0075743048897411,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2024,23,3.295238095238095,298,0.0110578459571748,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,24,7.195238095238095,298,0.0241450942793224,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2024,25,4.065476190476191,298,0.0136425375519335,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,26,3.1,298,0.0104026845637583,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,27,1.9928571428571429,298,0.0066874400767018,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,28,4.183333333333334,298,0.0140380313199105,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,29,11.43015873015873,298,0.0383562373495259,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,30,1.526190476190476,298,0.0051214445509747,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,31,1.092857142857143,298,0.0036673058485139,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2024,32,2.376190476190476,298,0.0079737935442633,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2024,33,6.795238095238095,298,0.0228028124001278,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2024,34,1.1166666666666667,298,0.0037472035794183,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2024,35,2.4166666666666665,298,0.0081096196868008,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,-1,2.053830227743271,32,0.0641821946169772,Outliers,unassigned,not_a_substantive_topic
+semantic,coarse_grained,42,2025,0,2.433333333333333,32,0.0760416666666666,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,1,3.1710144927536232,32,0.0990942028985507,Mixed public administration and regulatory wording,mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2025,2,1.0798136645962733,32,0.0337441770186335,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,3,6.516666666666667,32,0.2036458333333333,Council records and agreement-party wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,4,4.8,32,0.15,Temporary road closures and traffic control,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,5,0.1428571428571428,32,0.0044642857142857,Local-government duties and general-welfare wording,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,6,0.2,32,0.00625,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,7,0.3536231884057971,32,0.0110507246376811,Ordinance titles and amendment wording,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,8,1.15,32,0.0359375,Mayoral contracting powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,9,2.0,32,0.0625,Mayoral signing and legislative authority,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,10,0.0,32,0.0,Telecommunications sites and allowable land use,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,11,0.8500000000000001,32,0.0265625,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,12,0.1666666666666666,32,0.0052083333333333,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,13,0.5666666666666667,32,0.0177083333333333,Public-fund utilization and audit controls,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,14,0.3631469979296066,32,0.0113483436853002,"Zoning uses, exceptions and appeals",policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,15,0.9,32,0.028125,Event-related road closures,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,16,0.7333333333333334,32,0.0229166666666666,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,17,0.5333333333333333,32,0.0166666666666666,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,18,0.1666666666666666,32,0.0052083333333333,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,19,0.0666666666666666,32,0.0020833333333333,Reconstruction and contingency appropriations,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,20,0.0,32,0.0,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,21,0.4166666666666666,32,0.0130208333333333,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,22,0.0,32,0.0,"Unresolved keywords: vi, code, local",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2025,23,0.1428571428571428,32,0.0044642857142857,Separability and validity clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,24,0.1666666666666666,32,0.0052083333333333,"Unresolved keywords: policy, judiciously, declares",unclear,draft_not_expert_validated
+semantic,coarse_grained,42,2025,25,0.0,32,0.0,Executive duties and representation powers,governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,26,0.0,32,0.0,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,27,0.6666666666666666,32,0.0208333333333333,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,28,0.5333333333333333,32,0.0166666666666666,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,29,0.9,32,0.028125,Voting and enactment records,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,30,0.1428571428571428,32,0.0044642857142857,Amusement-tax exemptions,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,31,0.0,32,0.0,Effectivity and publication clauses,procedural,draft_not_expert_validated
+semantic,coarse_grained,42,2025,32,0.6166666666666667,32,0.0192708333333333,"Contracting, representation and financial obligations",governance,draft_not_expert_validated
+semantic,coarse_grained,42,2025,33,0.1666666666666666,32,0.0052083333333333,Disaster relief and calamity funding,policy,draft_not_expert_validated
+semantic,coarse_grained,42,2025,34,0.0,32,0.0,"Mixed public works, telecommunications and road closures",mixed,draft_not_expert_validated
+semantic,coarse_grained,42,2025,35,0.0,32,0.0,Mayoral signing and financial-obligation wording,governance,draft_not_expert_validated

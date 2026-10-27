@@ -1,0 +1,22 @@
+{
+  "data/results.json": "3dc9960fdfcd2eca640bac4845c40d8272895ba43e5366efb287b5b7084a0a5f",
+  "downloads/all_topic_titles.csv": "b0b29d9658f5c285f325c9e29478af963867f8b6ed897dcbdb10d89fc42041de",
+  "downloads/configuration.json": "3fdbb01a25d6c06c1b9b6312bba1eda4194cd2b90ea7552816ea97dbffb0a6c6",
+  "downloads/figures/lexical_interpretable_topic_trajectories.png": "383440cdf703cd9302790a4c7777f34c108c00bfe6459dddb40451662d1c984b",
+  "downloads/figures/lexical_leading_topic_trajectories.png": "0dd0ad31e45d2cc0dc666fb0b5ba8baff406903e97f0304799972c6dee5a28d1",
+  "downloads/figures/lexical_leading_topics_heatmap.png": "4c6c1b48c87f89cf4c5117ee2c6b59150c18df7dfd399029052ee5c554253987",
+  "downloads/figures/lexical_yearly_topic_composition.png": "8ea6646be70936f5713bb2af4d7351cc2cc267b689e518611852d902dce0b26d",
+  "downloads/figures/semantic_interpretable_topic_trajectories.png": "185546ba4337b8d8efcfa3a547d4c19eeae442ef93250649af614021af989a56",
+  "downloads/figures/semantic_leading_topic_trajectories.png": "c960317f0a5562817fa17d0b83d4b90675e85a3bc3067d3451a7863b7867eb3f",
+  "downloads/figures/semantic_leading_topics_heatmap.png": "231a3f2ee7fd718ce0eb2d4d898e1f3239e5245fc25b0843dcd7eba91fb60cbe",
+  "downloads/figures/semantic_yearly_topic_composition.png": "afbdb42ae49cb6f58789fc7887b4a9075cfeb8467ad4dd31b0ab60de11eaed79",
+  "downloads/lexical_labeled_temporal_data.csv": "96d5f56968d7c2b535380911c1e67d2e5e7944c0f2ae4cb5f3c80b1e306e8188",
+  "downloads/manifest.json": "12744432384ae06a21551119ed5452dc880bf10340af5c6bbc79ca82dc9dacc3",
+  "downloads/retraining_manifest.json": "c37008f13c807f4babffebaa450a25cf1871a03a13ce1aa1e508281f525a8817",
+  "downloads/seed_stability.csv": "b1dd670ec45edd5e3d80f792570765dca22b87a62a8f3d6877361b796991a760",
+  "downloads/semantic_labeled_temporal_data.csv": "9d70cfdb627e96b7741dd2624425a8f4bd82c5f5df1526150153684325509a60",
+  "downloads/Temporal_Topic_Summaries.pdf": "a0732a3072c316d385f757753d6b96f7e29922d642486148adaacaf66003cc03",
+  "downloads/Temporal_Topic_Summaries.pptx": "96f0b54dcf4c817ac9828298a7f8ecfd1ec568b71e83e3dbaefbb13c8291d7e7",
+  "downloads/title_rules_overrides.json": "4cea65687678d8eae9548c3e77d26fdcd496433ed906c4d76a14bb0aec12776d",
+  "downloads/tuning_results.csv": "dfa30166c67b93226a61fc25ccca4be71c6d258135226932ed3a37eae3c0b9ab"
+}

@@ -1,0 +1,2 @@
+trial,left_topics,right_topics,matched_topics,unmatched_left_topics,unmatched_right_topics,aligned_macro_jaccard,aligned_weighted_jaccard,matched_intersection_fraction,ari_all_units,jointly_assigned_units,ari_jointly_assigned
+coarse_grained,49,36,34,15,2,0.41216408656273384,0.43853172860638895,0.49106230847803883,0.3132861351360601,6072,0.533604469432327

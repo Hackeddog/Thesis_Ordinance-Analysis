@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore measured topics and annual patterns in Davao City's ordinance archive, 2016–2025. A comparative lexical and Legal-BERT thesis dashboard.">
+  <meta name="theme-color" content="#173e3a">
+  <title>Davao Ordinance Observatory · Research dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to research dashboard</a>
+<aside class="sidebar">
+  <a class="brand" href="#overview" aria-label="Davao Ordinance Observatory home"><span class="brand-mark" aria-hidden="true">DO</span><span>Davao Ordinance<br><strong>Observatory</strong></span></a>
+  <p class="nav-label">RESEARCH WORKSPACE</p>
+  <nav aria-label="Main navigation">
+    <a href="#overview"><span aria-hidden="true">01</span> Overview</a>
+    <a href="#topics"><span aria-hidden="true">02</span> Topic explorer</a>
+    <a href="#models"><span aria-hidden="true">03</span> Model evidence</a>
+    <a href="#methodology"><span aria-hidden="true">04</span> Methodology</a>
+    <a href="#downloads"><span aria-hidden="true">05</span> Downloads</a>
+  </nav>
+  <div class="sidebar-note"><span class="small-tag">THESIS RESEARCH</span><p>From ordinance text<br>to temporal insight.</p><small>2016–2025 · Davao City<br>Descriptive archive analysis</small></div>
+</aside>
+<div class="workspace">
+  <header class="topbar"><span>Municipal legislation <span class="crumb">/ Research dashboard</span></span><span class="run-badge"><i aria-hidden="true"></i> Coarse-grained · seed 42</span></header>
+  <main id="main">
+    <div id="load-state" class="notice" role="status">Loading verified research results…</div>
+    <div id="dashboard" hidden>
+      <section id="overview" aria-labelledby="overview-title">
+        <div class="section-heading hero">
+          <div><p class="eyebrow">THE DAVAO ORDINANCE ARCHIVE</p><h1 id="overview-title">A decade of legislation.<br><em>A broader view of its themes.</em></h1><p class="lede">Explore how topics appear across the ordinance archive—through lexical patterns and Legal-BERT representations.</p></div>
+          <div class="hero-stamp"><span>STUDY WINDOW</span><strong>2016<span>—</span>2025</strong><small>Fresh coarse-grained retraining</small></div>
+        </div>
+        <div class="notice subtle"><strong>Research, not a verdict.</strong> Topic names are keyword-based drafts. Patterns describe this archive—not all city legislation, legal accuracy, or policy causation.</div>
+        <div class="stat-grid" id="corpus-stats"></div>
+        <div class="toolbar">
+          <div class="model-control"><span class="control-label" id="model-label">Representation</span><div class="segmented" role="group" aria-labelledby="model-label"><button type="button" data-model="semantic" aria-pressed="true">Legal-BERT <span>Model B</span></button><button type="button" data-model="lexical" aria-pressed="false">Lexical <span>Model A</span></button></div></div>
+          <label class="year-control">Inspect year<select id="year-filter"></select></label>
+          <p id="selection-summary" class="toolbar-note" aria-live="polite"></p>
+        </div>
+        <div class="panel">
+          <div class="panel-heading"><div><p class="eyebrow">TEMPORAL LANDSCAPE</p><h2>Leading topics, year by year</h2><p>Top eight topics ranked by total fractional-document weight across the full study window.</p></div><span class="pill" id="heatmap-model"></span></div>
+          <div class="heatmap-scroll"><table class="heatmap" id="heatmap"><caption class="sr-only">Annual document-weighted shares of the eight leading topics. All values are percentages.</caption></table></div>
+          <div class="chart-footer"><span class="heat-legend"><i aria-hidden="true"></i> Lower → higher yearly share</span><span>Outliers stay in the denominator. Select a topic to inspect its trajectory.</span></div>
+        </div>
+        <div class="two-columns">
+          <div class="panel"><div class="panel-heading"><div><p class="eyebrow">ARCHIVE COVERAGE</p><h2>Documents by year</h2><p>Source documents, not extracted model units.</p></div></div><div id="corpus-chart" class="corpus-chart"></div><p class="footnote">2025 contains only 32 source documents. Differences in archive size limit comparisons between years.</p></div>
+          <div class="panel"><div class="panel-heading"><div><p class="eyebrow" id="composition-year"></p><h2>Where the year's weight falls</h2><p>Every document contributes a total weight of one.</p></div></div><div id="composition"></div><p class="footnote">Top five topics in the selected year, all other assigned topics, and outliers. Together they sum to 100%.</p></div>
+        </div>
+      </section>
+      <section id="topics" aria-labelledby="topics-title">
+        <div class="section-heading"><div><p class="eyebrow">LOOK BEYOND THE LABEL</p><h2 id="topics-title" class="section-title">Topic explorer</h2><p>Every non-outlier topic is available, including procedural, mixed, and unclear clusters.</p></div><span class="pill">Draft labels · expert review pending</span></div>
+        <div class="topic-layout">
+          <div class="panel topic-list">
+            <label for="topic-search">Search topics or keywords</label><input id="topic-search" type="search" placeholder="e.g. road, health, agreements" autocomplete="off">
+            <label for="category-filter">Label category</label><select id="category-filter"><option value="all">All categories</option></select>
+            <p id="topic-count" class="footnote" aria-live="polite"></p><div id="topic-buttons" class="topic-buttons"></div>
+            <div class="pagination"><button id="previous-page" type="button">← Previous</button><span id="page-label"></span><button id="next-page" type="button">Next →</button></div>
+          </div>
+          <article class="panel topic-detail" aria-labelledby="topic-title">
+            <div class="topic-meta"><span id="topic-id" class="pill"></span><span id="topic-category" class="category"></span></div>
+            <h3 id="topic-title"></h3><p id="label-method" class="footnote"></p>
+            <div id="keyword-list" class="keyword-list" aria-label="Cluster keywords"></div>
+            <div class="topic-stat-row" id="topic-stats"></div>
+            <h4>Annual document-weighted share</h4><div id="trajectory" class="trajectory"></div>
+            <details><summary>View exact annual values</summary><div class="table-scroll"><table id="trajectory-table" class="data-table"></table></div></details>
+            <p class="footnote">Lines connect annual observations. A peak does not establish significance, legal importance, or a causal policy change. Identical topic IDs in different models do not identify the same subject.</p>
+          </article>
+        </div>
+      </section>
+      <section id="models" aria-labelledby="models-title">
+        <div class="section-heading"><div><p class="eyebrow">TWO REPRESENTATIONS · ONE CORPUS</p><h2 id="models-title" class="section-title">Measured model evidence</h2><p>Primary seed 42 results, with seed stability across 42, 43, and 44.</p></div></div>
+        <div id="model-cards" class="two-columns"></div>
+        <p class="footnote">Coverage and outliers here refer to model units, while temporal charts use document weights. C_v coherence, diversity, and stability are intrinsic diagnostics—not predictive accuracy or expert judgments.</p>
+      </section>
+      <section id="methodology" aria-labelledby="method-title">
+        <div class="section-heading"><div><p class="eyebrow">A TRACEABLE RESEARCH PROCESS</p><h2 id="method-title" class="section-title">Method & limitations</h2></div></div>
+        <div class="two-columns">
+          <div class="panel"><h3>From verified text to annual shares</h3><ol class="method-steps"><li><strong>Freeze the corpus</strong><p>Hash cleaned text, preserve human year corrections, audit duplicates, and retain the fixed 2016–2025 eligible corpus.</p></li><li><strong>Build both representations afresh</strong><p>Rebuild TF-IDF/SVD and recompute frozen Legal-BERT embeddings using all content chunks. No encoder fine-tuning.</p></li><li><strong>Discover broad topics</strong><p>UMAP → HDBSCAN → c-TF-IDF, with six new fits across two models and three seeds.</p></li><li><strong>Weight each document equally</strong><p>For each document, divide units in a topic by all its modeled units. Average those fractions across documents in each resolved year, including outliers.</p></li></ol></div>
+          <div class="panel"><h3>Read the findings responsibly</h3><ul class="limitations"><li>Coarse-grained settings are the team's chosen broad-theme analysis—not a proven universal winner.</li><li>Keyword titles are descriptive drafts. Broad, procedural, OCR-heavy, and mixed clusters remain visible.</li><li>The archive is uneven; normalized percentages do not make a small year representative.</li><li>Detected sections and fallback documents form the modeling units. Same-number text variants and extraction flags remain limitations.</li><li>Three seeds measure sensitivity, not population uncertainty or statistical significance.</li><li>Historical Conservative evidence is preserved separately. Its expert-review materials do not validate this new run.</li></ul></div>
+        </div>
+        <details class="panel provenance"><summary>Run configuration & provenance</summary><dl id="provenance"></dl></details>
+      </section>
+      <section id="downloads" aria-labelledby="downloads-title">
+        <div class="section-heading"><div><p class="eyebrow">TAKE THE EVIDENCE WITH YOU</p><h2 id="downloads-title" class="section-title">Research downloads</h2><p>Exports come from the same fresh run shown here. No raw ordinance text or completed reviewer records are published by this dashboard.</p></div></div>
+        <div class="download-grid">
+          <a class="download-card" href="downloads/Temporal_Topic_Summaries.pdf" download><span>PDF ↗</span><strong>Temporal figure booklet</strong><small>Eight high-resolution graph pages</small></a>
+          <a class="download-card" href="downloads/Temporal_Topic_Summaries.pptx" download><span>PPTX ↗</span><strong>Presentation-ready figures</strong><small>Graph-only slide deck</small></a>
+          <a class="download-card" href="downloads/all_topic_titles.csv" download><span>CSV ↗</span><strong>Complete topic catalog</strong><small>All topics, keywords, and draft labels</small></a>
+          <a class="download-card" href="downloads/lexical_labeled_temporal_data.csv" download><span>CSV ↗</span><strong>Lexical annual observations</strong><small>Document weights, years, and labels</small></a>
+          <a class="download-card" href="downloads/semantic_labeled_temporal_data.csv" download><span>CSV ↗</span><strong>Legal-BERT annual observations</strong><small>Document weights, years, and labels</small></a>
+          <a class="download-card" href="downloads/tuning_results.csv" download><span>CSV ↗</span><strong>Metrics & seed sensitivity</strong><small>Measured results from fresh fits</small></a>
+        </div>
+        <div class="extra-downloads"><a href="downloads/configuration.json" download>Configuration</a><a href="downloads/manifest.json" download>Temporal provenance</a><a href="downloads/retraining_manifest.json" download>Retraining manifest</a><a href="downloads/seed_stability.csv" download>Pairwise seed stability</a><a href="downloads/checksums.json" download>SHA-256 checksums</a></div>
+      </section>
+      <footer><span class="footer-brand">Davao Ordinance Observatory</span><span id="run-date"></span><span>Research outputs · not legal advice</span></footer>
+    </div>
+  </main>
+</div>
+</body>
+</html>

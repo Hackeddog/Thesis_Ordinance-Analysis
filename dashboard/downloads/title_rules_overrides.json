@@ -1,0 +1,272 @@
+{
+  "status": "Draft descriptive labels, not expert-validated legal categories",
+  "scope": "Fresh coarse-grained retraining, seed 42. Keyword-only review of this run's saved top terms; not source-excerpt review or expert validation. No Conservative topic-ID overrides reused.",
+  "configuration": "coarse_grained",
+  "seed": 42,
+  "keyword_sha256": {
+    "lexical": "94cfef467ed6e0fe4653f76744cc8ad6a4642443de478afb28728c41adf3ac72",
+    "semantic": "66cb356445ca0be27694e835df589bdbb3966801661742daec92be66b60b10a7"
+  },
+  "overrides": {
+    "lexical:0": {
+      "title": "Mixed public administration and regulatory wording",
+      "category": "mixed",
+      "required_terms": [
+        "office",
+        "health",
+        "children",
+        "permit"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:11": {
+      "title": "OCR-heavy enactment wording",
+      "category": "unclear",
+      "required_terms": [
+        "sectioii",
+        "ordained",
+        "ard"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:2": {
+      "title": "Contracting, representation and financial obligations",
+      "category": "governance",
+      "required_terms": [
+        "bonds",
+        "transactions",
+        "represent",
+        "obligations",
+        "contracts"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:10": {
+      "title": "Mixed amusement and trade-event exemptions",
+      "category": "mixed",
+      "required_terms": [
+        "amusement",
+        "trade",
+        "exemption",
+        "payment"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:30": {
+      "title": "Zoning uses, exceptions and appeals",
+      "category": "policy",
+      "required_terms": [
+        "uses",
+        "zoning",
+        "subzones",
+        "appeals"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:26": {
+      "title": "Representation, obligations and governance powers",
+      "category": "governance",
+      "required_terms": [
+        "bonds",
+        "represent",
+        "transactions",
+        "governance",
+        "obligations"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:36": {
+      "title": "Lease agreements and premises",
+      "category": "governance",
+      "required_terms": [
+        "lessee",
+        "lessor",
+        "lease",
+        "premises"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:33": {
+      "title": "Quarrying and allowable land use",
+      "category": "policy",
+      "required_terms": [
+        "quarry",
+        "sand",
+        "gravel",
+        "allowable"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:31": {
+      "title": "General-welfare and implied powers",
+      "category": "governance",
+      "required_terms": [
+        "powers",
+        "welfare",
+        "implied",
+        "incidental"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:39": {
+      "title": "Mixed public works, telecommunications and road closures",
+      "category": "mixed",
+      "required_terms": [
+        "works",
+        "telecommunications",
+        "highways",
+        "alley",
+        "closed"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:37": {
+      "title": "Resettlement lots and awardee records",
+      "category": "policy",
+      "required_terms": [
+        "lot",
+        "resettlement",
+        "awardee",
+        "block"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:17": {
+      "title": "Supplemental expenses and infrastructure budgeting",
+      "category": "policy",
+      "required_terms": [
+        "expenses",
+        "supplemental",
+        "concreting",
+        "operating"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:47": {
+      "title": "Land-use rights and usufruct agreements",
+      "category": "governance",
+      "required_terms": [
+        "usufruct",
+        "land",
+        "parcel",
+        "deed"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "lexical:44": {
+      "title": "Executive duties and administrative governance",
+      "category": "governance",
+      "required_terms": [
+        "governance",
+        "duties",
+        "efficient",
+        "chief"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:1": {
+      "title": "Mixed public administration and regulatory wording",
+      "category": "mixed",
+      "required_terms": [
+        "office",
+        "development",
+        "public",
+        "health"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:3": {
+      "title": "Council records and agreement-party wording",
+      "category": "procedural",
+      "required_terms": [
+        "councilor",
+        "party",
+        "second",
+        "atty"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:5": {
+      "title": "Local-government duties and general-welfare wording",
+      "category": "governance",
+      "required_terms": [
+        "code",
+        "governance",
+        "inhabitants",
+        "welfare"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:10": {
+      "title": "Telecommunications sites and allowable land use",
+      "category": "policy",
+      "required_terms": [
+        "allowable",
+        "use",
+        "telecom",
+        "tower",
+        "construction"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:14": {
+      "title": "Zoning uses, exceptions and appeals",
+      "category": "policy",
+      "required_terms": [
+        "uses",
+        "zoning",
+        "subzones",
+        "appeals"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:25": {
+      "title": "Executive duties and representation powers",
+      "category": "governance",
+      "required_terms": [
+        "duties",
+        "chief",
+        "governance",
+        "bonds",
+        "represent"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:32": {
+      "title": "Contracting, representation and financial obligations",
+      "category": "governance",
+      "required_terms": [
+        "bonds",
+        "represent",
+        "transactions",
+        "contracts",
+        "obligations"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:34": {
+      "title": "Mixed public works, telecommunications and road closures",
+      "category": "mixed",
+      "required_terms": [
+        "works",
+        "telecommunications",
+        "highways",
+        "alley",
+        "closed"
+      ],
+      "label_method": "draft_keyword_review"
+    },
+    "semantic:35": {
+      "title": "Mayoral signing and financial-obligation wording",
+      "category": "governance",
+      "required_terms": [
+        "sign",
+        "authority",
+        "bonds",
+        "transactions",
+        "obligations"
+      ],
+      "label_method": "draft_keyword_review"
+    }
+  }
+}

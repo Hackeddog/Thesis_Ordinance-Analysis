@@ -1,4 +1,4 @@
-"""Actual full-corpus four-configuration reruns, with durable per-seed evidence."""
+"""Full-corpus tuning or explicit coarse-grained retraining, with per-seed evidence."""
 from __future__ import annotations
 # Fixed thread settings must precede NumPy/Numba imports. No PATH modification.
 import os
@@ -63,8 +63,21 @@ def verify_sources(config):
 def check_config(config):
     seeds = config["seeds"]
     names = [t["name"] for t in config["trials"]]
-    if len(names) != 4 or len(set(names)) != 4 or len(seeds) < 3 or len(set(seeds)) != len(seeds):
-        raise ValueError("Require four unique trials and at least three distinct seeds")
+    mode = config.get("experiment_kind", "four_configuration_tuning")
+    if mode not in {"four_configuration_tuning", "coarse_grained_retrain"}:
+        raise ValueError("Unknown experiment kind")
+    expected_trials = 1 if mode == "coarse_grained_retrain" else 4
+    if len(names) != expected_trials or len(set(names)) != expected_trials or len(seeds) < 3 or len(set(seeds)) != len(seeds):
+        raise ValueError(f"Require {expected_trials} unique trials and at least three distinct seeds")
+    if mode == "coarse_grained_retrain":
+        expected = {"name": "coarse_grained", "neighbors": 30, "min_dist": 0.1,
+                    "min_cluster_size": 60, "min_samples": 15}
+        if any(config["trials"][0].get(k) != v for k, v in expected.items()):
+            raise ValueError("Coarse-grained retraining must preserve the declared parameters")
+        if config.get("embedding_cache_source") is not None:
+            raise ValueError("Coarse-grained retraining requires fresh frozen-encoder inference")
+        if type(config["common"]["max_df"]) is not float or config["common"]["max_df"] != 1.0:
+            raise ValueError("Preserve max_df as the floating fraction 1.0, not integer document count 1")
     if seeds[0] != config["common"]["seed"] or config["common"]["stability_runs"] != 1:
         raise ValueError("Primary seed must match fixed representation seed; repeats are orchestrated externally")
     if config["common"]["ngram_max"] != 1:
@@ -242,7 +255,7 @@ def main():
         manifest["gpu"] = torch.cuda.get_device_name(0) if torch.cuda.is_available() else None
         manifest.update(units=len(frame), documents=int(frame.ordinance_id.nunique()), vocabulary_terms=len(terms),
                         input_units_sha256=digest(output / "input_units.csv"), shared_vocabulary_sha256=digest(output / "shared_vocabulary.csv"))
-        print(f"ACTUAL EXPERIMENT: {len(frame)} units / {frame.ordinance_id.nunique()} documents; 4 configurations x 2 models x {len(config['seeds'])} seeds", flush=True)
+        print(f"ACTUAL EXPERIMENT: {len(frame)} units / {frame.ordinance_id.nunique()} documents; {len(config['trials'])} configuration(s) x 2 models x {len(config['seeds'])} seeds", flush=True)
         json_write(output / "experiment.json", manifest)
         for trial in config["trials"]:
             params = {k: trial[k] for k in ["neighbors", "min_dist", "min_cluster_size", "min_samples"]}

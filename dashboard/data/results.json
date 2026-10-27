@@ -1,0 +1,3311 @@
+{
+  "schema_version": 1,
+  "configuration": "coarse_grained",
+  "seed": 42,
+  "sensitivity_seeds": [
+    43,
+    44
+  ],
+  "generated_utc": "2026-10-27T13:23:28.480913+00:00",
+  "run_started_utc": "2026-10-27T13:05:57.365433+00:00",
+  "run_finished_utc": "2026-10-27T13:22:47.041189+00:00",
+  "documents": 2118,
+  "units": 7832,
+  "parameters": {
+    "neighbors": 30,
+    "min_dist": 0.1,
+    "min_cluster_size": 60,
+    "min_samples": 15,
+    "umap_components": 5
+  },
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "yearly_documents": [
+    174,
+    204,
+    249,
+    266,
+    165,
+    233,
+    279,
+    218,
+    298,
+    32
+  ],
+  "source_sha256": "2d415dfbc71838d02349ce1ebb26783dd58cbd7f9ab683b18bc1a989d5471b16",
+  "input_units_sha256": "2d415dfbc71838d02349ce1ebb26783dd58cbd7f9ab683b18bc1a989d5471b16",
+  "experiment_config_sha256": "3fdbb01a25d6c06c1b9b6312bba1eda4194cd2b90ea7552816ea97dbffb0a6c6",
+  "temporal_manifest_sha256": "12744432384ae06a21551119ed5452dc880bf10340af5c6bbc79ca82dc9dacc3",
+  "fresh_encoder_inference": true,
+  "encoder": "nlpaueb/legal-bert-base-uncased",
+  "encoder_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+  "fit_count": 6,
+  "session_wall_seconds": 1008.4403913000133,
+  "label_status": "Draft descriptive labels, not expert-validated legal categories",
+  "selection_reason": "Coarse-grained selected by the research team for the active broad-theme analysis. This is a study decision, not proof of superiority or expert validation. Conservative results are retained unchanged as historical evidence.",
+  "models": {
+    "lexical": {
+      "name": "Lexical",
+      "pipeline": "TF-IDF → SVD → UMAP → HDBSCAN → c-TF-IDF",
+      "metrics": {
+        "model": "lexical",
+        "sections": 7832,
+        "topics_excluding_outliers": 49,
+        "outlier_sections": 1105,
+        "outlier_fraction": 0.14108784473953012,
+        "topic_diversity": 0.6289308176100629,
+        "section_npmi": 0.4813796489891744,
+        "npmi_topics_scored": 49,
+        "cv_coherence": 0.7927045755975682,
+        "cv_note": "c_v on unigram topic terms only; this run uses a shared unigram vocabulary",
+        "cv_excluded_phrase_terms": 0,
+        "topic_coverage": 0.8589121552604698,
+        "stability_ari_mean": null,
+        "trial": "coarse_grained",
+        "seed": 42,
+        "neighbors": 30,
+        "min_dist": 0.1,
+        "min_cluster_size": 60,
+        "min_samples": 15,
+        "fit_evaluation_seconds": 112.65845600003377,
+        "process_cpu_seconds": 104.09375,
+        "sampled_peak_rss_mib": 663.16796875,
+        "starting_rss_mib": 174.48046875,
+        "rss_sampling_interval_seconds": 0.1,
+        "largest_topic_fraction_all_units": 0.11197650663942799,
+        "median_topic_units": 103.0,
+        "effective_topics": 38.389830836602776,
+        "status": "completed",
+        "assigned_units": 6727,
+        "documents_with_any_assignment": 2073,
+        "documents_with_all_units_assigned": 1434
+      },
+      "aligned_seed_stability": 0.8547889316951908,
+      "topics": [
+        {
+          "id": 6,
+          "title": "Council correspondence and legal endorsements",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "councilor",
+            "city",
+            "series",
+            "legal",
+            "atty",
+            "davao",
+            "jr",
+            "office",
+            "mayor",
+            "sangguniang"
+          ],
+          "matched_keywords": [
+            "councilor",
+            "legal",
+            "atty"
+          ],
+          "fractional_documents": 169.2595238095238,
+          "shares": [
+            0.3022030651340996,
+            0.25,
+            0.1900937081659973,
+            0.0181704260651629,
+            0.0181818181818181,
+            0.0193541794400163,
+            0.003584229390681,
+            0.0,
+            0.0067114093959731,
+            0.09375
+          ]
+        },
+        {
+          "id": 0,
+          "title": "Mixed public administration and regulatory wording",
+          "category": "mixed",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "shall",
+            "section",
+            "city",
+            "person",
+            "office",
+            "health",
+            "public",
+            "children",
+            "development",
+            "permit"
+          ],
+          "matched_keywords": [
+            "office",
+            "health",
+            "children",
+            "permit"
+          ],
+          "fractional_documents": 164.91597438966977,
+          "shares": [
+            0.0272988505747126,
+            0.0487967914438502,
+            0.058683942117677,
+            0.0745842555523006,
+            0.1685183587456314,
+            0.1400118429637754,
+            0.0846626420408836,
+            0.0497493339843582,
+            0.0650151395956765,
+            0.046583850931677
+          ]
+        },
+        {
+          "id": 11,
+          "title": "OCR-heavy enactment wording",
+          "category": "unclear",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "tr",
+            "sectioii",
+            "ordained",
+            "city",
+            "sangguniang",
+            "ard",
+            "il",
+            "ii",
+            "deg",
+            "panlungsod"
+          ],
+          "matched_keywords": [
+            "sectioii",
+            "ordained",
+            "ard"
+          ],
+          "fractional_documents": 136.72619047619048,
+          "shares": [
+            0.3563218390804598,
+            0.1911764705882352,
+            0.1218206157965194,
+            0.0037593984962406,
+            0.0,
+            0.0006131207847946,
+            0.0,
+            0.0,
+            0.0041946308724832,
+            0.09375
+          ]
+        },
+        {
+          "id": 1,
+          "title": "Temporary road closures and traffic control",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "st",
+            "road",
+            "closure",
+            "street",
+            "temporary",
+            "secondary",
+            "connected",
+            "vehicular",
+            "traffic",
+            "pm"
+          ],
+          "matched_keywords": [
+            "road",
+            "closure",
+            "street",
+            "temporary",
+            "vehicular",
+            "traffic"
+          ],
+          "fractional_documents": 115.82965367965367,
+          "shares": [
+            0.0453065134099616,
+            0.0468062982768865,
+            0.107095046854083,
+            0.0768796992481203,
+            0.0075757575757575,
+            0.006610092339706,
+            0.0588003692842402,
+            0.050349497597204,
+            0.0580856503675295,
+            0.11875
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Mayoral signing and legislative authority",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "section",
+            "behalf",
+            "city",
+            "sign",
+            "government",
+            "enter",
+            "authority",
+            "davao",
+            "contracts",
+            "ordinance"
+          ],
+          "matched_keywords": [
+            "behalf",
+            "sign",
+            "authority"
+          ],
+          "fractional_documents": 113.01111111111112,
+          "shares": [
+            0.0,
+            0.0245098039215686,
+            0.036144578313253,
+            0.0538847117794486,
+            0.0969696969696969,
+            0.1559370529327611,
+            0.0599761051373954,
+            0.036697247706422,
+            0.0188292319164802,
+            0.0625
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Contracting, representation and financial obligations",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "pursuant",
+            "bonds",
+            "transactions",
+            "represent",
+            "general",
+            "vi",
+            "obligations",
+            "xxx",
+            "contracts",
+            "exercise"
+          ],
+          "matched_keywords": [
+            "bonds",
+            "transactions",
+            "represent",
+            "obligations",
+            "contracts"
+          ],
+          "fractional_documents": 61.89563492063492,
+          "shares": [
+            0.0105363984674329,
+            0.0069444444444444,
+            0.0036479250334672,
+            0.0286967418546365,
+            0.0408658008658008,
+            0.0412681381565501,
+            0.0375376913011321,
+            0.0525884665792922,
+            0.0375559284116331,
+            0.0192708333333333
+          ]
+        },
+        {
+          "id": 29,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "calamity",
+            "fund",
+            "percent",
+            "state",
+            "declared",
+            "portion",
+            "assistance",
+            "areas",
+            "used",
+            "concerned"
+          ],
+          "matched_keywords": [
+            "calamity",
+            "fund",
+            "assistance"
+          ],
+          "fractional_documents": 56.73571428571429,
+          "shares": [
+            0.0124521072796934,
+            0.0196078431372549,
+            0.0214190093708166,
+            0.0122269960615825,
+            0.0032323232323232,
+            0.0007153075822603,
+            0.1328554360812425,
+            0.0038226299694189,
+            0.0113534675615212,
+            0.0
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "provisions",
+            "invalid",
+            "unconstitutional",
+            "reason",
+            "continue",
+            "affected",
+            "hereof",
+            "force",
+            "provision",
+            "effect"
+          ],
+          "matched_keywords": [
+            "invalid",
+            "unconstitutional",
+            "continue",
+            "hereof",
+            "force"
+          ],
+          "fractional_documents": 47.23592213623654,
+          "shares": [
+            0.0066570881226053,
+            0.0073529411764705,
+            0.0210843373493975,
+            0.0207281596849266,
+            0.0369599255962892,
+            0.0160003248296216,
+            0.0248609753448463,
+            0.033237285739984,
+            0.0292130688103842,
+            0.034375
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Mayoral signing and legislative authority",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "authority",
+            "granted",
+            "legislative",
+            "memorandum",
+            "davao",
+            "sign",
+            "agreement",
+            "relative",
+            "moa",
+            "city"
+          ],
+          "matched_keywords": [
+            "authority",
+            "granted",
+            "legislative",
+            "sign"
+          ],
+          "fractional_documents": 45.899456975772765,
+          "shares": [
+            0.0076628352490421,
+            0.023937908496732,
+            0.0096385542168674,
+            0.0376029359112065,
+            0.0226262626262626,
+            0.0269886088612088,
+            0.0145644876827672,
+            0.0314329401485364,
+            0.0174256951102588,
+            0.0359375
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Event-related road closures",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "rallies",
+            "alley",
+            "actual",
+            "temporarily",
+            "fiesta",
+            "closed",
+            "industrial",
+            "emergency",
+            "celebrations",
+            "fairs"
+          ],
+          "matched_keywords": [
+            "rallies",
+            "alley",
+            "temporarily",
+            "fiesta",
+            "closed",
+            "celebrations",
+            "fairs"
+          ],
+          "fractional_documents": 44.51031746031746,
+          "shares": [
+            0.0100095785440613,
+            0.0199813258636788,
+            0.0419455600178491,
+            0.0419307196562835,
+            0.0066666666666666,
+            0.0035765379113018,
+            0.00900039824771,
+            0.0172018348623853,
+            0.0223713646532438,
+            0.0697916666666666
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Mixed amusement and trade-event exemptions",
+          "category": "mixed",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "exemption",
+            "payment",
+            "request",
+            "proceeds",
+            "amusement",
+            "granting",
+            "ordinance",
+            "tax",
+            "trade",
+            "sm"
+          ],
+          "matched_keywords": [
+            "amusement",
+            "trade",
+            "exemption",
+            "payment"
+          ],
+          "fractional_documents": 42.89642857142857,
+          "shares": [
+            0.0342911877394636,
+            0.0295751633986928,
+            0.0341365461847389,
+            0.0540189760114572,
+            0.0123232323232323,
+            0.0046137339055793,
+            0.0056152927120669,
+            0.0081039755351681,
+            0.0048418024928092,
+            0.0044642857142857
+          ]
+        },
+        {
+          "id": 40,
+          "title": "Land-use zoning and reclassification",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "zone",
+            "zoning",
+            "review",
+            "reclassification",
+            "zones",
+            "land",
+            "amendment",
+            "change",
+            "subzone",
+            "agricultural"
+          ],
+          "matched_keywords": [
+            "zone",
+            "zoning",
+            "reclassification",
+            "zones",
+            "land",
+            "amendment",
+            "agricultural"
+          ],
+          "fractional_documents": 39.947712418300654,
+          "shares": [
+            0.0,
+            0.0012254901960784,
+            0.0080321285140562,
+            0.0633458646616541,
+            0.0258585858585858,
+            0.0418454935622317,
+            0.01962541288917,
+            0.0059887869520897,
+            0.0001677852348993,
+            0.0
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Agreements and mayoral authorization",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "davao",
+            "authorizing",
+            "memorandum",
+            "known",
+            "agreement",
+            "sign",
+            "ordinance",
+            "entered",
+            "enter",
+            "city"
+          ],
+          "matched_keywords": [
+            "authorizing",
+            "memorandum",
+            "agreement",
+            "entered"
+          ],
+          "fractional_documents": 39.17612942612943,
+          "shares": [
+            0.0033524904214559,
+            0.0133169934640522,
+            0.008433734939759,
+            0.023720014321518,
+            0.0226406926406926,
+            0.0234007766196607,
+            0.0201568045654067,
+            0.0256225425950196,
+            0.0224912112496005,
+            0.0114583333333333
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Mayoral contracting powers",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "contract",
+            "chief",
+            "powers",
+            "contracts",
+            "local",
+            "unit",
+            "vi",
+            "code",
+            "executive",
+            "pursuant"
+          ],
+          "matched_keywords": [
+            "contract",
+            "chief",
+            "powers",
+            "contracts",
+            "executive"
+          ],
+          "fractional_documents": 33.59285714285714,
+          "shares": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0208869814020028,
+            0.0335466803208738,
+            0.032874617737003,
+            0.03831096196868,
+            0.0244791666666666
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall",
+            "fffectmty",
+            "effectiviil",
+            "effectmiy",
+            "eeeelgru",
+            "eeeegffi"
+          ],
+          "matched_keywords": [
+            "immediately",
+            "approval",
+            "effect"
+          ],
+          "fractional_documents": 33.28198051948052,
+          "shares": [
+            0.0025862068965517,
+            0.005718954248366,
+            0.0244645247657295,
+            0.0217888471177944,
+            0.0106060606060606,
+            0.010915407911116,
+            0.0257168458781362,
+            0.0144495412844036,
+            0.0167545541706615,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "separabiliw",
+            "clause",
+            "reason",
+            "continue",
+            "unconstitutional",
+            "invalid",
+            "force",
+            "hereof",
+            "sections",
+            "affected"
+          ],
+          "matched_keywords": [
+            "separabiliw",
+            "continue",
+            "unconstitutional",
+            "invalid",
+            "force",
+            "hereof"
+          ],
+          "fractional_documents": 32.92012797144376,
+          "shares": [
+            0.0014367816091954,
+            0.0154878618113912,
+            0.0164005227258239,
+            0.0269214703425229,
+            0.0185425685425685,
+            0.0269104204782994,
+            0.0051601524719804,
+            0.0147553516819571,
+            0.0138822307446468,
+            0.0044642857142857
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Public-fund utilization and audit controls",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "funds",
+            "procurement",
+            "utilization",
+            "auditing",
+            "accounting",
+            "budgeting",
+            "directives",
+            "budget",
+            "audit",
+            "coa"
+          ],
+          "matched_keywords": [
+            "funds",
+            "utilization",
+            "auditing",
+            "coa"
+          ],
+          "fractional_documents": 32.345177045177046,
+          "shares": [
+            0.009051724137931,
+            0.0063025210084033,
+            0.0043730477465417,
+            0.0108843537414965,
+            0.0074747474747474,
+            0.0282699775189045,
+            0.0074017181544063,
+            0.0141109654871122,
+            0.0401750374904737,
+            0.0177083333333333
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall",
+            "provisions",
+            "sha",
+            "ctause",
+            "publication"
+          ],
+          "matched_keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect",
+            "publication"
+          ],
+          "fractional_documents": 32.12242063492064,
+          "shares": [
+            0.0066091954022988,
+            0.0147875816993464,
+            0.0155957161981258,
+            0.0277986633249791,
+            0.0106721981721981,
+            0.0237294774848422,
+            0.0121607782898105,
+            0.0097859327217125,
+            0.0104985618408437,
+            0.0229166666666666
+          ]
+        },
+        {
+          "id": 34,
+          "title": "Cooperative financing and loan agreements",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "loan",
+            "cooperative",
+            "entered",
+            "agreement",
+            "davao",
+            "behalf",
+            "multipurpose",
+            "sign",
+            "enter",
+            "city"
+          ],
+          "matched_keywords": [
+            "loan",
+            "cooperative",
+            "multipurpose"
+          ],
+          "fractional_documents": 30.76781609195402,
+          "shares": [
+            0.0114942528735632,
+            0.0187908496732026,
+            0.0207496653279785,
+            0.0228070175438596,
+            0.0,
+            0.0001479946721918,
+            0.0197132616487455,
+            0.029051987767584,
+            0.006152125279642,
+            0.0
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Voting and enactment records",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "unanimous",
+            "quorum",
+            "vote",
+            "members",
+            "sanggunian",
+            "eilacted",
+            "day",
+            "approval",
+            "immediately",
+            "effect"
+          ],
+          "matched_keywords": [
+            "unanimous",
+            "quorum",
+            "vote",
+            "members",
+            "sanggunian",
+            "eilacted"
+          ],
+          "fractional_documents": 29.7520202020202,
+          "shares": [
+            0.0076628352490421,
+            0.0049019607843137,
+            0.0060240963855421,
+            0.0027300393841747,
+            0.0015151515151515,
+            0.0046820132657042,
+            0.0055854241338112,
+            0.0375109217999126,
+            0.0445403217215297,
+            0.0263392857142857
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Ordinance titles and amendment wording",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "ordinance",
+            "known",
+            "title",
+            "series",
+            "amending",
+            "ordtnance",
+            "davao",
+            "shall",
+            "sertes",
+            "city"
+          ],
+          "matched_keywords": [
+            "ordinance",
+            "known",
+            "title",
+            "series",
+            "amending",
+            "ordtnance",
+            "sertes"
+          ],
+          "fractional_documents": 29.32842482446678,
+          "shares": [
+            0.0011494252873563,
+            0.0162953060011883,
+            0.0060958118187033,
+            0.031338899196042,
+            0.0195104306467942,
+            0.0141943972782683,
+            0.0112957035000045,
+            0.0120194408038444,
+            0.0113599208397866,
+            0.0083333333333333
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "reason",
+            "invalid",
+            "continue",
+            "force",
+            "hereof",
+            "unconstitutional",
+            "sections",
+            "affected",
+            "provision",
+            "declaration"
+          ],
+          "matched_keywords": [
+            "invalid",
+            "continue",
+            "force",
+            "hereof",
+            "unconstitutional"
+          ],
+          "fractional_documents": 28.61948051948052,
+          "shares": [
+            0.0034482758620689,
+            0.0026143790849673,
+            0.0042168674698795,
+            0.0083691371285356,
+            0.0144444444444444,
+            0.0150948479274659,
+            0.0335125448028673,
+            0.0225207514198339,
+            0.0129194630872483,
+            0.00625
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Zoning uses, exceptions and appeals",
+          "category": "policy",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "uses",
+            "enumerated",
+            "zoning",
+            "favorable",
+            "proponent",
+            "subzones",
+            "exhaustive",
+            "appeals",
+            "allowable",
+            "significance"
+          ],
+          "matched_keywords": [
+            "uses",
+            "zoning",
+            "subzones",
+            "appeals"
+          ],
+          "fractional_documents": 27.0,
+          "shares": [
+            0.0,
+            0.0061274509803921,
+            0.0277777777777777,
+            0.0167919799498746,
+            0.068080808080808,
+            0.0069384835479256,
+            0.0019115890083632,
+            0.0035932721712538,
+            0.0006711409395973,
+            0.0
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Donation and property-transfer agreements",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "donation",
+            "deed",
+            "favor",
+            "davao",
+            "executed",
+            "sign",
+            "authority",
+            "mayor",
+            "relative",
+            "city"
+          ],
+          "matched_keywords": [
+            "donation",
+            "deed"
+          ],
+          "fractional_documents": 25.88571428571429,
+          "shares": [
+            0.0022988505747126,
+            0.0137254901960784,
+            0.0056894243641231,
+            0.0107769423558897,
+            0.0152669552669552,
+            0.0237175556918046,
+            0.0197303294077487,
+            0.0071974661424202,
+            0.0110178970917225,
+            0.0
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Unresolved keywords: vi, code, local",
+          "category": "unclear",
+          "label_method": "keyword_fallback",
+          "keywords": [
+            "vi",
+            "code",
+            "local",
+            "policy",
+            "declaration",
+            "section",
+            "government",
+            "republic",
+            "provide",
+            "act"
+          ],
+          "matched_keywords": [
+            "vi",
+            "code",
+            "local"
+          ],
+          "fractional_documents": 25.322557997558,
+          "shares": [
+            0.0,
+            0.0,
+            0.0021753681392235,
+            0.0113229502327246,
+            0.015007215007215,
+            0.0342274678111588,
+            0.0171545201115093,
+            0.0176496286588029,
+            0.0090069326646507,
+            0.0
+          ]
+        },
+        {
+          "id": 26,
+          "title": "Representation, obligations and governance powers",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "pursuant",
+            "code",
+            "vi",
+            "economical",
+            "bonds",
+            "represent",
+            "transactions",
+            "governance",
+            "inhabitants",
+            "obligations"
+          ],
+          "matched_keywords": [
+            "bonds",
+            "represent",
+            "transactions",
+            "governance",
+            "obligations"
+          ],
+          "fractional_documents": 24.573015873015876,
+          "shares": [
+            0.0133141762452107,
+            0.0299836601307189,
+            0.0128514056224899,
+            0.0272705573457453,
+            0.0202164502164502,
+            0.0065092989985693,
+            0.0020908004778972,
+            0.0011467889908256,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effectmw",
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall",
+            "ciause",
+            "publication",
+            "provisions"
+          ],
+          "matched_keywords": [
+            "immediately",
+            "approval",
+            "effect",
+            "publication"
+          ],
+          "fractional_documents": 24.35873015873016,
+          "shares": [
+            0.0011494252873563,
+            0.0095588235294117,
+            0.0042838018741633,
+            0.0148227712137486,
+            0.0143434343434343,
+            0.0162545132502214,
+            0.0099249018603857,
+            0.0126911314984709,
+            0.0166986257590284,
+            0.0166666666666666
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Mayoral contracting powers",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "contract",
+            "unit",
+            "local",
+            "powers",
+            "authorization",
+            "legible",
+            "conspicuous",
+            "capitol",
+            "posted",
+            "provincial"
+          ],
+          "matched_keywords": [
+            "contract",
+            "powers"
+          ],
+          "fractional_documents": 22.336111111111112,
+          "shares": [
+            0.0076628352490421,
+            0.0024509803921568,
+            0.0018406961178045,
+            0.0028553526673827,
+            0.0055555555555555,
+            0.0199468628653178,
+            0.0160237810775445,
+            0.0187090432503276,
+            0.0161233620965164,
+            0.0114583333333333
+          ]
+        },
+        {
+          "id": 27,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall"
+          ],
+          "matched_keywords": [
+            "immediately",
+            "approval",
+            "effect"
+          ],
+          "fractional_documents": 22.250396825396827,
+          "shares": [
+            0.0028735632183908,
+            0.0009803921568627,
+            0.00809906291834,
+            0.010750089509488,
+            0.009047619047619,
+            0.0196760678520335,
+            0.0266825965750696,
+            0.0099388379204892,
+            0.0033077660594439,
+            0.0
+          ]
+        },
+        {
+          "id": 45,
+          "title": "Government staffing and qualifications",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "officer",
+            "relevant",
+            "administrative",
+            "ii",
+            "experience",
+            "positions",
+            "management",
+            "training",
+            "position",
+            "division"
+          ],
+          "matched_keywords": [
+            "officer",
+            "relevant",
+            "administrative",
+            "experience",
+            "positions",
+            "training",
+            "position"
+          ],
+          "fractional_documents": 22.223533247797956,
+          "shares": [
+            0.0,
+            0.0053475935828877,
+            0.0037483266398929,
+            0.0096334586466165,
+            0.0011412829594647,
+            0.0131193668179277,
+            0.0191756272401433,
+            0.0250382262996941,
+            0.0086689038031319,
+            0.03125
+          ]
+        },
+        {
+          "id": 36,
+          "title": "Lease agreements and premises",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "lessee",
+            "lessor",
+            "lease",
+            "leased",
+            "premises",
+            "contract",
+            "prernises",
+            "davao",
+            "city",
+            "authority"
+          ],
+          "matched_keywords": [
+            "lessee",
+            "lessor",
+            "lease",
+            "premises"
+          ],
+          "fractional_documents": 21.48268398268398,
+          "shares": [
+            0.0022988505747126,
+            0.0122549019607843,
+            0.0,
+            0.0090225563909774,
+            0.0077922077922077,
+            0.0064312654441409,
+            0.0136146410339958,
+            0.0191131498470948,
+            0.0175615212527964,
+            0.00625
+          ]
+        },
+        {
+          "id": 33,
+          "title": "Quarrying and allowable land use",
+          "category": "policy",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "allowable",
+            "quarry",
+            "sand",
+            "gravel",
+            "additional",
+            "use",
+            "operation",
+            "district",
+            "request",
+            "located"
+          ],
+          "matched_keywords": [
+            "quarry",
+            "sand",
+            "gravel",
+            "allowable"
+          ],
+          "fractional_documents": 20.65,
+          "shares": [
+            0.0,
+            0.0012254901960784,
+            0.038152610441767,
+            0.0201127819548872,
+            0.0064646464646464,
+            0.0063662374821173,
+            0.0019115890083632,
+            0.0110091743119266,
+            0.0,
+            0.0020833333333333
+          ]
+        },
+        {
+          "id": 32,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall",
+            "fiis"
+          ],
+          "matched_keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect"
+          ],
+          "fractional_documents": 19.902380952380952,
+          "shares": [
+            0.0082375478927203,
+            0.0098856209150326,
+            0.0114457831325301,
+            0.0124686716791979,
+            0.0081818181818181,
+            0.0131718781933374,
+            0.006152927120669,
+            0.0074159021406727,
+            0.0062639821029082,
+            0.0208333333333333
+          ]
+        },
+        {
+          "id": 21,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "fund",
+            "percent",
+            "qrf",
+            "quick",
+            "pesos",
+            "disaster",
+            "response",
+            "utilize",
+            "fm",
+            "portion"
+          ],
+          "matched_keywords": [
+            "fund",
+            "qrf",
+            "quick",
+            "disaster"
+          ],
+          "fractional_documents": 19.814285714285717,
+          "shares": [
+            0.0028735632183908,
+            0.0,
+            0.001338688085676,
+            0.0071786609380594,
+            0.0054545454545454,
+            0.0025035765379113,
+            0.0075268817204301,
+            0.014875491480996,
+            0.0338207094918504,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 31,
+          "title": "General-welfare and implied powers",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "enhance",
+            "promote",
+            "powers",
+            "welfare",
+            "appropriate",
+            "implied",
+            "incidental",
+            "therefrom",
+            "necessarily",
+            "expressly"
+          ],
+          "matched_keywords": [
+            "powers",
+            "welfare",
+            "implied",
+            "incidental"
+          ],
+          "fractional_documents": 19.447059884559884,
+          "shares": [
+            0.0,
+            0.0009803921568627,
+            0.0025100401606425,
+            0.0014880952380952,
+            0.0039420175783812,
+            0.0111145173376933,
+            0.0145801331285202,
+            0.028527741371778,
+            0.0152897624374134,
+            0.0044642857142857
+          ]
+        },
+        {
+          "id": 39,
+          "title": "Mixed public works, telecommunications and road closures",
+          "category": "mixed",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "works",
+            "telecommunications",
+            "highways",
+            "public",
+            "alley",
+            "rallies",
+            "temporarily",
+            "closed",
+            "fiesta",
+            "industrial"
+          ],
+          "matched_keywords": [
+            "works",
+            "telecommunications",
+            "highways",
+            "alley",
+            "closed"
+          ],
+          "fractional_documents": 18.78333333333333,
+          "shares": [
+            0.0123563218390804,
+            0.0080882352941176,
+            0.007429718875502,
+            0.012593984962406,
+            0.0,
+            0.0,
+            0.0166069295101553,
+            0.0108562691131498,
+            0.0093400447427293,
+            0.0
+          ]
+        },
+        {
+          "id": 24,
+          "title": "Unresolved keywords: policy, adhere, humanitarian",
+          "category": "unclear",
+          "label_method": "keyword_fallback",
+          "keywords": [
+            "policy",
+            "adhere",
+            "humanitarian",
+            "judiciously",
+            "principles",
+            "adopt",
+            "declares",
+            "measures",
+            "utilize",
+            "standards"
+          ],
+          "matched_keywords": [
+            "policy",
+            "adhere",
+            "humanitarian"
+          ],
+          "fractional_documents": 18.614285714285717,
+          "shares": [
+            0.0,
+            0.0,
+            0.0005737234652897,
+            0.0,
+            0.0,
+            0.0,
+            0.0082437275985663,
+            0.0216797728265618,
+            0.0378475551294343,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 37,
+          "title": "Resettlement lots and awardee records",
+          "category": "policy",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "tct",
+            "lot",
+            "resettlement",
+            "slum",
+            "awardee",
+            "meters",
+            "block",
+            "improvement",
+            "sir",
+            "covered"
+          ],
+          "matched_keywords": [
+            "lot",
+            "resettlement",
+            "awardee",
+            "block"
+          ],
+          "fractional_documents": 17.748809523809523,
+          "shares": [
+            0.0,
+            0.0,
+            0.001004016064257,
+            0.0074561403508771,
+            0.0012121212121212,
+            0.0053648068669527,
+            0.0113500597371565,
+            0.0313564875491481,
+            0.0113974113135186,
+            0.0208333333333333
+          ]
+        },
+        {
+          "id": 38,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall"
+          ],
+          "matched_keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect"
+          ],
+          "fractional_documents": 17.35,
+          "shares": [
+            0.0043103448275862,
+            0.0090686274509803,
+            0.0061484031363549,
+            0.0053884711779448,
+            0.017070707070707,
+            0.0099427753934191,
+            0.0115036695681856,
+            0.0097094801223241,
+            0.0044503036113774,
+            0.0
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Supplemental expenses and infrastructure budgeting",
+          "category": "policy",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "total",
+            "expenses",
+            "brgy",
+            "ceo",
+            "subtotal",
+            "maintenance",
+            "supplemental",
+            "concreting",
+            "operating",
+            "cy"
+          ],
+          "matched_keywords": [
+            "expenses",
+            "supplemental",
+            "concreting",
+            "operating"
+          ],
+          "fractional_documents": 16.939202362265636,
+          "shares": [
+            0.0151819923371647,
+            0.0099439775910364,
+            0.0052272582393064,
+            0.0049550960735171,
+            0.0075001765910856,
+            0.0107488368377717,
+            0.0066252258061239,
+            0.0096079716290185,
+            0.0042865132630233,
+            0.0214673913043478
+          ]
+        },
+        {
+          "id": 28,
+          "title": "Reconstruction and contingency appropriations",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "reconstruction",
+            "occur",
+            "sum",
+            "lump",
+            "estimated",
+            "aside",
+            "republic",
+            "act",
+            "calamities",
+            "determined"
+          ],
+          "matched_keywords": [
+            "reconstruction",
+            "sum",
+            "lump",
+            "estimated",
+            "aside",
+            "calamities"
+          ],
+          "fractional_documents": 16.676190476190474,
+          "shares": [
+            0.0009578544061302,
+            0.0,
+            0.001004016064257,
+            0.0,
+            0.0,
+            0.0,
+            0.0094384707287933,
+            0.0105176933158584,
+            0.0380313199105145,
+            0.0
+          ]
+        },
+        {
+          "id": 41,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "shalltake",
+            "approva",
+            "effect",
+            "immediately",
+            "approval",
+            "ordinance",
+            "provisions",
+            "effectmty",
+            "ord",
+            "effectmw"
+          ],
+          "matched_keywords": [
+            "effect",
+            "immediately",
+            "approval",
+            "effectmty"
+          ],
+          "fractional_documents": 15.062506848605247,
+          "shares": [
+            0.0,
+            0.0,
+            0.00334672021419,
+            0.0048245614035087,
+            0.0072451790633608,
+            0.0028450128292007,
+            0.0062615401325078,
+            0.0119266055045871,
+            0.0214884947267497,
+            0.0105298913043478
+          ]
+        },
+        {
+          "id": 47,
+          "title": "Land-use rights and usufruct agreements",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "usufruct",
+            "land",
+            "parcel",
+            "deed",
+            "davao",
+            "covered",
+            "station",
+            "city",
+            "barangay",
+            "police"
+          ],
+          "matched_keywords": [
+            "usufruct",
+            "land",
+            "parcel",
+            "deed"
+          ],
+          "fractional_documents": 15.031547619047618,
+          "shares": [
+            0.0,
+            0.0032679738562091,
+            0.002677376171352,
+            0.0056390977443609,
+            0.0029040404040404,
+            0.01438790108318,
+            0.0129629629629629,
+            0.0120795107033639,
+            0.0071029082774049,
+            0.0
+          ]
+        },
+        {
+          "id": 46,
+          "title": "Health workforce and midwifery support",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "health",
+            "davao",
+            "center",
+            "memorandum",
+            "entered",
+            "rhmpp",
+            "moa",
+            "midwives",
+            "authority",
+            "sign"
+          ],
+          "matched_keywords": [
+            "health",
+            "rhmpp",
+            "midwives"
+          ],
+          "fractional_documents": 14.896428571428572,
+          "shares": [
+            0.0,
+            0.0065359477124183,
+            0.001338688085676,
+            0.0055764411027568,
+            0.0015151515151515,
+            0.0080472103004291,
+            0.0046594982078853,
+            0.0101026649191786,
+            0.019694790667945,
+            0.0078125
+          ]
+        },
+        {
+          "id": 43,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "approval",
+            "effect",
+            "immediately",
+            "provisions",
+            "ord",
+            "ordinance",
+            "shall",
+            "effectivtw",
+            "eefectmty",
+            "effecttvity"
+          ],
+          "matched_keywords": [
+            "approval",
+            "effect",
+            "immediately"
+          ],
+          "fractional_documents": 13.502777777777778,
+          "shares": [
+            0.0011494252873563,
+            0.0,
+            0.000669344042838,
+            0.0075814536340852,
+            0.0067676767676767,
+            0.0024320457796852,
+            0.006521306252489,
+            0.0081148973350808,
+            0.0191434963247043,
+            0.0044642857142857
+          ]
+        },
+        {
+          "id": 44,
+          "title": "Executive duties and administrative governance",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "economical",
+            "governance",
+            "inhabitants",
+            "duties",
+            "efficient",
+            "effective",
+            "purpose",
+            "chief",
+            "welfare",
+            "compensation"
+          ],
+          "matched_keywords": [
+            "governance",
+            "duties",
+            "efficient",
+            "chief"
+          ],
+          "fractional_documents": 13.208380018674136,
+          "shares": [
+            0.0028735632183908,
+            0.0040849673202614,
+            0.0028112449799196,
+            0.0071428571428571,
+            0.0074747474747474,
+            0.0107040670345391,
+            0.0060336201386169,
+            0.0151594582787243,
+            0.0010386705017577,
+            0.0078125
+          ]
+        },
+        {
+          "id": 35,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "municipality",
+            "province",
+            "beneficiary",
+            "assistance",
+            "declared",
+            "financial",
+            "beneficiaries",
+            "municipaliw",
+            "calamity",
+            "state"
+          ],
+          "matched_keywords": [
+            "assistance",
+            "calamity"
+          ],
+          "fractional_documents": 12.708292282430213,
+          "shares": [
+            0.0019157088122605,
+            0.0,
+            0.001673360107095,
+            0.0083780880773361,
+            0.0062626262626262,
+            0.0012209560455823,
+            0.0057347670250896,
+            0.0106705985146352,
+            0.0144934483860658,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 42,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "disaster",
+            "risk",
+            "reduction",
+            "fund",
+            "management",
+            "disasters",
+            "ldrrmf",
+            "emergencies",
+            "communities",
+            "standby"
+          ],
+          "matched_keywords": [
+            "disaster",
+            "fund"
+          ],
+          "fractional_documents": 12.358369408369407,
+          "shares": [
+            0.0,
+            0.0,
+            0.0024096385542168,
+            0.0021482277121374,
+            0.0076767676767676,
+            0.0032188841201716,
+            0.003807661872178,
+            0.0147808358817533,
+            0.0158357302652604,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 48,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "publication",
+            "circulation",
+            "newspaper",
+            "days",
+            "effect",
+            "posting",
+            "effectmty",
+            "general",
+            "ordinance",
+            "places"
+          ],
+          "matched_keywords": [
+            "publication",
+            "circulation",
+            "newspaper",
+            "effect",
+            "effectmty"
+          ],
+          "fractional_documents": 11.654084336330786,
+          "shares": [
+            0.0,
+            0.005837789661319,
+            0.001784917447568,
+            0.0151645347134068,
+            0.0101178451178451,
+            0.004298009582834,
+            0.0019292398514409,
+            0.0056852251604005,
+            0.0042610074489269,
+            0.0083333333333333
+          ]
+        }
+      ],
+      "outlier_shares": [
+        0.061015325670498,
+        0.0925207961972667,
+        0.0818926499649391,
+        0.096468850698174,
+        0.1985736822100458,
+        0.1210456744678107,
+        0.1065080489590293,
+        0.138972622688219,
+        0.1603081389155214,
+        0.0985766045548654
+      ]
+    },
+    "semantic": {
+      "name": "Legal-BERT",
+      "pipeline": "Frozen Legal-BERT → all-chunk pooling → UMAP → HDBSCAN → c-TF-IDF",
+      "metrics": {
+        "model": "semantic",
+        "sections": 7832,
+        "topics_excluding_outliers": 36,
+        "outlier_sections": 828,
+        "outlier_fraction": 0.10572012257405516,
+        "topic_diversity": 0.5718390804597702,
+        "section_npmi": 0.5354289580483981,
+        "npmi_topics_scored": 36,
+        "cv_coherence": 0.8432614380788643,
+        "cv_note": "c_v on unigram topic terms only; this run uses a shared unigram vocabulary",
+        "cv_excluded_phrase_terms": 0,
+        "topic_coverage": 0.8942798774259448,
+        "stability_ari_mean": null,
+        "trial": "coarse_grained",
+        "seed": 42,
+        "neighbors": 30,
+        "min_dist": 0.1,
+        "min_cluster_size": 60,
+        "min_samples": 15,
+        "fit_evaluation_seconds": 52.577757699997164,
+        "process_cpu_seconds": 51.625,
+        "sampled_peak_rss_mib": 650.48828125,
+        "starting_rss_mib": 541.75390625,
+        "rss_sampling_interval_seconds": 0.1,
+        "largest_topic_fraction_all_units": 0.13355464759959143,
+        "median_topic_units": 118.5,
+        "effective_topics": 23.94010690066955,
+        "status": "completed",
+        "assigned_units": 7004,
+        "documents_with_any_assignment": 2056,
+        "documents_with_all_units_assigned": 1494
+      },
+      "aligned_seed_stability": 0.9063865035935584,
+      "topics": [
+        {
+          "id": 3,
+          "title": "Council records and agreement-party wording",
+          "category": "procedural",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "councilor",
+            "city",
+            "davao",
+            "series",
+            "party",
+            "mayor",
+            "second",
+            "office",
+            "sangguniang",
+            "atty"
+          ],
+          "matched_keywords": [
+            "councilor",
+            "party",
+            "second",
+            "atty"
+          ],
+          "fractional_documents": 380.6199134199134,
+          "shares": [
+            0.7095306513409961,
+            0.5678475935828877,
+            0.3567731242430038,
+            0.0451858813700918,
+            0.0302068302068302,
+            0.0237364447664876,
+            0.0086021505376344,
+            0.0226299694189602,
+            0.0540268456375839,
+            0.2036458333333333
+          ]
+        },
+        {
+          "id": 0,
+          "title": "Mayoral signing and legislative authority",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "davao",
+            "city",
+            "sign",
+            "behalf",
+            "mayor",
+            "authority",
+            "enter",
+            "legislative",
+            "memorandum",
+            "agreement"
+          ],
+          "matched_keywords": [
+            "sign",
+            "behalf",
+            "authority",
+            "legislative"
+          ],
+          "fractional_documents": 239.41168374390992,
+          "shares": [
+            0.025191570881226,
+            0.0898692810457516,
+            0.0576305220883534,
+            0.1331141707081556,
+            0.1104448833994288,
+            0.2010965215863839,
+            0.1198800999876268,
+            0.1369780022100583,
+            0.1211968680089485,
+            0.0760416666666666
+          ]
+        },
+        {
+          "id": 1,
+          "title": "Mixed public administration and regulatory wording",
+          "category": "mixed",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "shall",
+            "section",
+            "city",
+            "office",
+            "development",
+            "ord",
+            "public",
+            "person",
+            "health",
+            "following"
+          ],
+          "matched_keywords": [
+            "office",
+            "development",
+            "public",
+            "health"
+          ],
+          "fractional_documents": 168.0365534804435,
+          "shares": [
+            0.0135057471264367,
+            0.0300579322638146,
+            0.0562870529737999,
+            0.068074678037084,
+            0.1326974456519911,
+            0.1511614386365876,
+            0.1138093797644714,
+            0.0814813387128551,
+            0.0591575091575091,
+            0.0990942028985507
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Mayoral signing and legislative authority",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "section",
+            "city",
+            "behalf",
+            "government",
+            "sign",
+            "davao",
+            "authority",
+            "ordinance",
+            "mayor",
+            "enter"
+          ],
+          "matched_keywords": [
+            "behalf",
+            "sign",
+            "authority"
+          ],
+          "fractional_documents": 137.36666666666667,
+          "shares": [
+            0.0172413793103448,
+            0.0392156862745098,
+            0.0491967871485943,
+            0.0551378446115288,
+            0.1196969696969696,
+            0.1566523605150214,
+            0.064516129032258,
+            0.0479357798165137,
+            0.0427852348993288,
+            0.0625
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effect",
+            "approval",
+            "immediately",
+            "ordinance",
+            "effectmty",
+            "shall",
+            "effectmw",
+            "publication",
+            "circulation",
+            "newspaper"
+          ],
+          "matched_keywords": [
+            "effect",
+            "approval",
+            "immediately",
+            "effectmty",
+            "publication",
+            "circulation",
+            "newspaper"
+          ],
+          "fractional_documents": 106.25865271535964,
+          "shares": [
+            0.0166666666666666,
+            0.026180926916221,
+            0.0497784789953464,
+            0.068854563356443,
+            0.0604565804565804,
+            0.0393798817985168,
+            0.0633167969379228,
+            0.0632267280000685,
+            0.0524433340708508,
+            0.0337441770186335
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Temporary road closures and traffic control",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "closure",
+            "temporary",
+            "street",
+            "pm",
+            "vehicular",
+            "traffic",
+            "road",
+            "corner",
+            "celebration",
+            "connection"
+          ],
+          "matched_keywords": [
+            "closure",
+            "temporary",
+            "street",
+            "vehicular",
+            "traffic",
+            "road"
+          ],
+          "fractional_documents": 104.19166666666666,
+          "shares": [
+            0.0381226053639846,
+            0.0410130718954248,
+            0.1039491298527443,
+            0.0737468671679198,
+            0.0095454545454545,
+            0.0,
+            0.0460573476702508,
+            0.0454128440366972,
+            0.0488814317673378,
+            0.15
+          ]
+        },
+        {
+          "id": 26,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "calamity",
+            "fund",
+            "percent",
+            "state",
+            "municipality",
+            "assistance",
+            "declared",
+            "province",
+            "portion",
+            "utilize"
+          ],
+          "matched_keywords": [
+            "calamity",
+            "fund",
+            "assistance"
+          ],
+          "fractional_documents": 55.15238095238095,
+          "shares": [
+            0.0057471264367816,
+            0.0147058823529411,
+            0.0208739720787913,
+            0.0135517364840673,
+            0.0062626262626262,
+            0.0,
+            0.1335722819593787,
+            0.0043577981651376,
+            0.0104026845637583,
+            0.0
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Local-government duties and general-welfare wording",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "pursuant",
+            "code",
+            "vi",
+            "governance",
+            "economical",
+            "efficient",
+            "effective",
+            "inhabitants",
+            "welfare",
+            "purpose"
+          ],
+          "matched_keywords": [
+            "code",
+            "governance",
+            "inhabitants",
+            "welfare"
+          ],
+          "fractional_documents": 41.1191770647653,
+          "shares": [
+            0.0118773946360153,
+            0.0267156862745098,
+            0.0147925033467202,
+            0.0311821219715956,
+            0.0350098386462022,
+            0.0176680972818311,
+            0.0114712910253707,
+            0.0239078200087374,
+            0.0106583573026526,
+            0.0044642857142857
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Mayoral contracting powers",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "contract",
+            "powers",
+            "local",
+            "chief",
+            "contracts",
+            "unit",
+            "code",
+            "government",
+            "executive",
+            "vi"
+          ],
+          "matched_keywords": [
+            "contract",
+            "powers",
+            "chief",
+            "contracts",
+            "executive"
+          ],
+          "fractional_documents": 38.76190476190476,
+          "shares": [
+            0.0019157088122605,
+            0.0,
+            0.0,
+            0.0028195488721804,
+            0.002020202020202,
+            0.0263948497854077,
+            0.0423963133640553,
+            0.0305045871559633,
+            0.038814317673378,
+            0.0359375
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "invalid",
+            "reason",
+            "unconstitutional",
+            "continue",
+            "hereof",
+            "sections",
+            "force",
+            "affected",
+            "provision",
+            "provisions"
+          ],
+          "matched_keywords": [
+            "invalid",
+            "unconstitutional",
+            "continue",
+            "hereof",
+            "force"
+          ],
+          "fractional_documents": 35.74974747474747,
+          "shares": [
+            0.003735632183908,
+            0.0026143790849673,
+            0.0060240963855421,
+            0.0105621195846759,
+            0.0159595959595959,
+            0.014423666462293,
+            0.0500588320480793,
+            0.0252020532983835,
+            0.0154442313838287,
+            0.00625
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Telecommunications sites and allowable land use",
+          "category": "policy",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "allowable",
+            "request",
+            "use",
+            "additional",
+            "telecom",
+            "tower",
+            "district",
+            "globe",
+            "construction",
+            "high"
+          ],
+          "matched_keywords": [
+            "allowable",
+            "use",
+            "telecom",
+            "tower",
+            "construction"
+          ],
+          "fractional_documents": 33.794444444444444,
+          "shares": [
+            0.0,
+            0.0008169934640522,
+            0.0342481035252119,
+            0.0147869674185463,
+            0.1078787878787878,
+            0.0026466380543633,
+            0.0033452807646356,
+            0.0083333333333333,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "invalid",
+            "unconstitutional",
+            "continue",
+            "hereof",
+            "affected",
+            "sections",
+            "provisions",
+            "force",
+            "effect",
+            "declared"
+          ],
+          "matched_keywords": [
+            "invalid",
+            "unconstitutional",
+            "continue",
+            "hereof",
+            "force"
+          ],
+          "fractional_documents": 33.3360680985681,
+          "shares": [
+            0.0011494252873563,
+            0.0016339869281045,
+            0.0055459934978007,
+            0.018796992481203,
+            0.0075626393808211,
+            0.0089234620886981,
+            0.0245121465551573,
+            0.0380151448958788,
+            0.0249505248666322,
+            0.0166666666666666
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Ordinance titles and amendment wording",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "ordinance",
+            "known",
+            "title",
+            "series",
+            "exemption",
+            "davao",
+            "amending",
+            "shall",
+            "revenue",
+            "ordtnance"
+          ],
+          "matched_keywords": [
+            "ordinance",
+            "known",
+            "title",
+            "series",
+            "amending",
+            "ordtnance"
+          ],
+          "fractional_documents": 32.72580908839836,
+          "shares": [
+            0.014367816091954,
+            0.0073083778966131,
+            0.0140721616625231,
+            0.0345954171142141,
+            0.02030685644322,
+            0.0154519576370657,
+            0.0104588009268591,
+            0.0137418728959473,
+            0.0094303906384443,
+            0.0110507246376811
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Event-related road closures",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "alley",
+            "rallies",
+            "actual",
+            "temporarily",
+            "fiesta",
+            "closed",
+            "emergency",
+            "industrial",
+            "celebrations",
+            "fairs"
+          ],
+          "matched_keywords": [
+            "alley",
+            "rallies",
+            "temporarily",
+            "fiesta",
+            "closed",
+            "celebrations",
+            "fairs"
+          ],
+          "fractional_documents": 30.422222222222224,
+          "shares": [
+            0.0019157088122605,
+            0.0124183006535947,
+            0.0353413654618473,
+            0.0241228070175438,
+            0.0027609427609427,
+            0.0,
+            0.0077060931899641,
+            0.0137614678899082,
+            0.0195749440715883,
+            0.028125
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "invalid",
+            "unconstitutional",
+            "reason",
+            "continue",
+            "clause",
+            "hereof",
+            "affected",
+            "separabiliw",
+            "sections",
+            "force"
+          ],
+          "matched_keywords": [
+            "invalid",
+            "unconstitutional",
+            "continue",
+            "hereof",
+            "separabiliw",
+            "force"
+          ],
+          "fractional_documents": 28.518869230185015,
+          "shares": [
+            0.0085249042145593,
+            0.0142623716153127,
+            0.0131972333779562,
+            0.0171052631578947,
+            0.0146801346801346,
+            0.0165519782529043,
+            0.0070545185598949,
+            0.013652249890782,
+            0.0141498881431767,
+            0.0265625
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall"
+          ],
+          "matched_keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect"
+          ],
+          "fractional_documents": 28.489484126984127,
+          "shares": [
+            0.0040229885057471,
+            0.0,
+            0.0141231593038821,
+            0.0202798663324979,
+            0.0170021645021645,
+            0.0238776483411676,
+            0.0106332138590203,
+            0.0169724770642201,
+            0.0104346436561201,
+            0.0229166666666666
+          ]
+        },
+        {
+          "id": 29,
+          "title": "Voting and enactment records",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "unanimous",
+            "quorum",
+            "vote",
+            "members",
+            "sanggunian",
+            "eilacted",
+            "day",
+            "approval",
+            "effect",
+            "immediately"
+          ],
+          "matched_keywords": [
+            "unanimous",
+            "quorum",
+            "vote",
+            "members",
+            "sanggunian",
+            "eilacted"
+          ],
+          "fractional_documents": 26.31511544011544,
+          "shares": [
+            0.0019157088122605,
+            0.0073529411764705,
+            0.0060240963855421,
+            0.0027300393841747,
+            0.0035353535353535,
+            0.0046820132657042,
+            0.0055854241338112,
+            0.0307011795543905,
+            0.0383562373495259,
+            0.028125
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Zoning uses, exceptions and appeals",
+          "category": "policy",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "uses",
+            "enumerated",
+            "zoning",
+            "favorable",
+            "exhaustive",
+            "subzones",
+            "proponent",
+            "appeals",
+            "socioeconomic",
+            "significance"
+          ],
+          "matched_keywords": [
+            "uses",
+            "zoning",
+            "subzones",
+            "appeals"
+          ],
+          "fractional_documents": 26.311854072825696,
+          "shares": [
+            0.0,
+            0.0012254901960784,
+            0.026142665901702,
+            0.0132675438596491,
+            0.0591210809392627,
+            0.0064076655802768,
+            0.0044193209278598,
+            0.0109022049186647,
+            0.0026925535314797,
+            0.0113483436853002
+          ]
+        },
+        {
+          "id": 21,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "reason",
+            "effect",
+            "continue",
+            "force",
+            "invalid",
+            "unconstitutional",
+            "hereof",
+            "sections",
+            "provision",
+            "affected"
+          ],
+          "matched_keywords": [
+            "continue",
+            "force",
+            "invalid",
+            "unconstitutional",
+            "hereof"
+          ],
+          "fractional_documents": 25.694568914295083,
+          "shares": [
+            0.0,
+            0.0012254901960784,
+            0.0054886211512717,
+            0.0115646258503401,
+            0.0166115702479338,
+            0.0098780357327049,
+            0.0105436081242532,
+            0.0281859532803947,
+            0.0216656013635879,
+            0.0130208333333333
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "fund",
+            "percent",
+            "qrf",
+            "quick",
+            "pesos",
+            "disaster",
+            "calendar",
+            "risk",
+            "fm",
+            "utilize"
+          ],
+          "matched_keywords": [
+            "fund",
+            "qrf",
+            "quick",
+            "disaster"
+          ],
+          "fractional_documents": 24.502380952380957,
+          "shares": [
+            0.0152777777777777,
+            0.0007002801120448,
+            0.001784917447568,
+            0.0063163862036042,
+            0.0074747474747474,
+            0.0047925608011444,
+            0.0093972236445354,
+            0.0203800786369593,
+            0.0335410674336848,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Public-fund utilization and audit controls",
+          "category": "governance",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "funds",
+            "utilization",
+            "disbursements",
+            "appropriated",
+            "directives",
+            "dbm",
+            "auditing",
+            "coa",
+            "accounting",
+            "procurement"
+          ],
+          "matched_keywords": [
+            "funds",
+            "utilization",
+            "disbursements",
+            "appropriated",
+            "dbm",
+            "auditing",
+            "coa"
+          ],
+          "fractional_documents": 22.450696525696525,
+          "shares": [
+            0.0031130268199233,
+            0.0014005602240896,
+            0.0043730477465417,
+            0.0108843537414965,
+            0.0067401285583103,
+            0.0047567954220314,
+            0.0040455760885868,
+            0.0129641764962865,
+            0.0365676549401381,
+            0.0177083333333333
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "fund",
+            "risk",
+            "disaster",
+            "reduction",
+            "ldrrmf",
+            "normalized",
+            "standby",
+            "quickly",
+            "epidemics",
+            "ldrrmo"
+          ],
+          "matched_keywords": [
+            "fund",
+            "disaster"
+          ],
+          "fractional_documents": 21.99683649683649,
+          "shares": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0025711662075298,
+            0.0050836859849735,
+            0.0,
+            0.0232088248143294,
+            0.0508788750399488,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 27,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall",
+            "effectwity"
+          ],
+          "matched_keywords": [
+            "effectmty",
+            "immediately",
+            "approval",
+            "effect"
+          ],
+          "fractional_documents": 21.98690476190476,
+          "shares": [
+            0.003735632183908,
+            0.0,
+            0.0064257028112449,
+            0.0210526315789473,
+            0.0143434343434343,
+            0.01362660944206,
+            0.0144051885987369,
+            0.0087920489296636,
+            0.0066874400767018,
+            0.0208333333333333
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "ord",
+            "approval",
+            "effect",
+            "immediately",
+            "provisions",
+            "ordinance",
+            "effectmty",
+            "shalltake",
+            "effectmw",
+            "shall"
+          ],
+          "matched_keywords": [
+            "approval",
+            "effect",
+            "immediately",
+            "effectmty"
+          ],
+          "fractional_documents": 21.17594905094905,
+          "shares": [
+            0.0040229885057471,
+            0.0,
+            0.0005020080321285,
+            0.0054869316147511,
+            0.0077502295684113,
+            0.003835149114119,
+            0.0076804915514592,
+            0.0185561380515508,
+            0.0353387663790348,
+            0.0
+          ]
+        },
+        {
+          "id": 28,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "effectmw",
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall",
+            "eeelgro",
+            "hereof"
+          ],
+          "matched_keywords": [
+            "immediately",
+            "approval",
+            "effect"
+          ],
+          "fractional_documents": 21.14011544011544,
+          "shares": [
+            0.0011494252873563,
+            0.0083333333333333,
+            0.0044846050870147,
+            0.0091836734693877,
+            0.0151515151515151,
+            0.0148238980857006,
+            0.0080404661049822,
+            0.0126911314984709,
+            0.0140380313199105,
+            0.0166666666666666
+          ]
+        },
+        {
+          "id": 31,
+          "title": "Effectivity and publication clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "immediately",
+            "approval",
+            "effect",
+            "ordinance",
+            "shall",
+            "shalltake",
+            "effectivity"
+          ],
+          "matched_keywords": [
+            "immediately",
+            "approval",
+            "effect",
+            "effectivity"
+          ],
+          "fractional_documents": 20.440873015873017,
+          "shares": [
+            0.0028735632183908,
+            0.0,
+            0.0052878179384203,
+            0.0113766559255281,
+            0.012077922077922,
+            0.0179593296546086,
+            0.0238749502190362,
+            0.0076452599388379,
+            0.0036673058485139,
+            0.0
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Separability and validity clauses",
+          "category": "procedural",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "separabiliw",
+            "clause",
+            "unconstitutional",
+            "reason",
+            "invalid",
+            "continue",
+            "force",
+            "hereof",
+            "sections",
+            "affected"
+          ],
+          "matched_keywords": [
+            "separabiliw",
+            "unconstitutional",
+            "invalid",
+            "continue",
+            "force",
+            "hereof"
+          ],
+          "fractional_documents": 20.407236227824463,
+          "shares": [
+            0.0,
+            0.0004901960784313,
+            0.0123398355326066,
+            0.0178362573099415,
+            0.0161183261183261,
+            0.0146931590948253,
+            0.0022188086704215,
+            0.0107798165137614,
+            0.0110578459571748,
+            0.0044642857142857
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Reconstruction and contingency appropriations",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "reconstruction",
+            "occur",
+            "sum",
+            "lump",
+            "republic",
+            "estimated",
+            "aside",
+            "act",
+            "local",
+            "calamities"
+          ],
+          "matched_keywords": [
+            "reconstruction",
+            "sum",
+            "lump",
+            "estimated",
+            "aside",
+            "calamities"
+          ],
+          "fractional_documents": 20.22936507936508,
+          "shares": [
+            0.0009578544061302,
+            0.0004901960784313,
+            0.001004016064257,
+            0.0005370569280343,
+            0.0036363636363636,
+            0.0,
+            0.010547875064004,
+            0.012454492500364,
+            0.0444471077021412,
+            0.0020833333333333
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Amusement-tax exemptions",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "exemption",
+            "payment",
+            "request",
+            "proceeds",
+            "amusement",
+            "granting",
+            "sm",
+            "ordinance",
+            "tax",
+            "known"
+          ],
+          "matched_keywords": [
+            "exemption",
+            "proceeds",
+            "amusement"
+          ],
+          "fractional_documents": 20.029761904761905,
+          "shares": [
+            0.0103448275862068,
+            0.0098856209150326,
+            0.0081659973226238,
+            0.0287056928034371,
+            0.0083333333333333,
+            0.0021459227467811,
+            0.0044205495818399,
+            0.0081039755351681,
+            0.0051214445509747,
+            0.0044642857142857
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Executive duties and representation powers",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "pursuant",
+            "general",
+            "duties",
+            "chief",
+            "exercise",
+            "economical",
+            "governance",
+            "inhabitants",
+            "bonds",
+            "represent"
+          ],
+          "matched_keywords": [
+            "duties",
+            "chief",
+            "governance",
+            "bonds",
+            "represent"
+          ],
+          "fractional_documents": 19.944444444444446,
+          "shares": [
+            0.0028735632183908,
+            0.0024509803921568,
+            0.0028447121820615,
+            0.0027568922305764,
+            0.0076334776334776,
+            0.0188330267729409,
+            0.0127382374694202,
+            0.0194298820445609,
+            0.0136425375519335,
+            0.0
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Unresolved keywords: vi, code, local",
+          "category": "unclear",
+          "label_method": "keyword_fallback",
+          "keywords": [
+            "vi",
+            "code",
+            "local",
+            "section",
+            "policy",
+            "declaration",
+            "government",
+            "ra",
+            "provide",
+            "republic"
+          ],
+          "matched_keywords": [
+            "vi",
+            "code",
+            "local"
+          ],
+          "fractional_documents": 19.123015873015877,
+          "shares": [
+            0.0,
+            0.0,
+            0.0021753681392235,
+            0.0084675975653419,
+            0.0117748917748917,
+            0.0245708154506437,
+            0.0090772031632246,
+            0.0177588466579292,
+            0.0075743048897411,
+            0.0
+          ]
+        },
+        {
+          "id": 24,
+          "title": "Unresolved keywords: policy, judiciously, declares",
+          "category": "unclear",
+          "label_method": "keyword_fallback",
+          "keywords": [
+            "policy",
+            "judiciously",
+            "declares",
+            "resources",
+            "utilize",
+            "response",
+            "adhere",
+            "proper",
+            "humanitarian",
+            "adopt"
+          ],
+          "matched_keywords": [
+            "policy",
+            "judiciously",
+            "declares"
+          ],
+          "fractional_documents": 18.040079365079364,
+          "shares": [
+            0.0037835249042145,
+            0.0007002801120448,
+            0.0041658698285204,
+            0.0088122090941639,
+            0.0042424242424242,
+            0.0041130185979971,
+            0.005416168857029,
+            0.0152577544779379,
+            0.0241450942793224,
+            0.0052083333333333
+          ]
+        },
+        {
+          "id": 35,
+          "title": "Mayoral signing and financial-obligation wording",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "city",
+            "sign",
+            "authority",
+            "pursuant",
+            "behalf",
+            "vi",
+            "bonds",
+            "transactions",
+            "mayor",
+            "obligations"
+          ],
+          "matched_keywords": [
+            "sign",
+            "authority",
+            "bonds",
+            "transactions",
+            "obligations"
+          ],
+          "fractional_documents": 16.666666666666668,
+          "shares": [
+            0.0062260536398467,
+            0.0036764705882352,
+            0.0018072289156626,
+            0.0074561403508771,
+            0.0059595959595959,
+            0.0084406294706723,
+            0.0127837514934289,
+            0.0159021406727828,
+            0.0081096196868008,
+            0.0
+          ]
+        },
+        {
+          "id": 34,
+          "title": "Mixed public works, telecommunications and road closures",
+          "category": "mixed",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "works",
+            "telecommunications",
+            "public",
+            "highways",
+            "alley",
+            "rallies",
+            "temporarily",
+            "closed",
+            "actual",
+            "industrial"
+          ],
+          "matched_keywords": [
+            "works",
+            "telecommunications",
+            "highways",
+            "alley",
+            "closed"
+          ],
+          "fractional_documents": 15.65,
+          "shares": [
+            0.0123563218390804,
+            0.0080882352941176,
+            0.008768406961178,
+            0.0097744360902255,
+            0.0,
+            0.0014306151645207,
+            0.015710872162485,
+            0.00565749235474,
+            0.0037472035794183,
+            0.0
+          ]
+        },
+        {
+          "id": 32,
+          "title": "Contracting, representation and financial obligations",
+          "category": "governance",
+          "label_method": "draft_keyword_review",
+          "keywords": [
+            "bonds",
+            "represent",
+            "transactions",
+            "contracts",
+            "obligations",
+            "documents",
+            "law",
+            "business",
+            "pursuant",
+            "vi"
+          ],
+          "matched_keywords": [
+            "bonds",
+            "represent",
+            "transactions",
+            "contracts",
+            "obligations"
+          ],
+          "fractional_documents": 14.65277777777778,
+          "shares": [
+            0.0047892720306513,
+            0.0040849673202614,
+            0.000669344042838,
+            0.0059523809523809,
+            0.011010101010101,
+            0.008629675045984,
+            0.0087614496216646,
+            0.0090432503276539,
+            0.0079737935442633,
+            0.0192708333333333
+          ]
+        },
+        {
+          "id": 33,
+          "title": "Disaster relief and calamity funding",
+          "category": "policy",
+          "label_method": "rank_weighted_keyword_rule",
+          "keywords": [
+            "beneficiary",
+            "declared",
+            "pesos",
+            "assistance",
+            "financial",
+            "state",
+            "calamity",
+            "thousand",
+            "municipality",
+            "beneficiaries"
+          ],
+          "matched_keywords": [
+            "assistance",
+            "calamity"
+          ],
+          "fractional_documents": 11.723809523809525,
+          "shares": [
+            0.0,
+            0.0,
+            0.001004016064257,
+            0.0037056928034371,
+            0.0,
+            0.0007153075822603,
+            0.0050179211469534,
+            0.0089886413280908,
+            0.0228028124001278,
+            0.0052083333333333
+          ]
+        }
+      ],
+      "outlier_shares": [
+        0.0530651340996168,
+        0.0752344877344877,
+        0.0647080385032192,
+        0.1822159565580618,
+        0.0934223856951129,
+        0.1326171417833212,
+        0.1079242371936869,
+        0.1164832446740164,
+        0.0755934967344363,
+        0.0641821946169772
+      ]
+    }
+  }
+}

@@ -1,5 +1,11 @@
 # Expert-validation revision package — EV-1.0
 
+> Historical run scope: this package refers to **Conservative / seed 42**.
+> The active dashboard now uses fresh coarse-grained outputs. Do not reuse the
+> old topic IDs or imply validation carries over; update the declared run and
+> assemble new source-linked review packets before administration. See
+> [the active-run guide](../COARSE_GRAINED_DASHBOARD.md).
+
 This package was prepared after reviewing the actual 56-page thesis in
 `Downloads/CS_Undergraduate_Thesis_Template__Copy_-13.pdf`, especially Chapter 3,
 PDF pages 41–43 (printed pages 36–38), Tables 5–6, the research questions, and

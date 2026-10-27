@@ -4,7 +4,30 @@
 Human year-override CSVs provide temporal metadata; no PDF re-extraction, external
 archive application, or previously prepared note-derived dataset is used.
 
-## Latest: completed four-configuration tuning
+## Active analysis: fresh coarse-grained retraining + web dashboard
+
+The research team has chosen **Coarse-grained** for the active broad-theme analysis,
+not Conservative. **6/6 fresh fits completed** with seeds **42/43/44**, including
+fresh lexical representations and fresh frozen Legal-BERT inference. The primary
+seed identifies **49 lexical topics and 36 Legal-BERT topics**. Legal-BERT was not
+fine-tuned. This is a research-team choice, not an expert-validated superiority claim.
+
+- [Fresh measured results and compact evidence](artifacts/coarse_grained_retrain/RESULTS.md)
+- [New coarse-grained temporal figures, PDF/PPTX and complete topic tables](artifacts/temporal_topics_coarse_grained/)
+- [Plain HTML/CSS/JavaScript dashboard and VS Code instructions](dashboard/README.md)
+- [Protocol, provenance, reproduction and limitations](docs/COARSE_GRAINED_DASHBOARD.md)
+- [Training configuration](configs/coarse_grained_retrain.json) · [Run-scoped draft labels](configs/temporal_topic_titles_coarse_grained.json)
+
+Open this repository in VS Code and press **F5 → Dashboard: open in Edge**, or run
+`bun run dev` and visit **http://127.0.0.1:3000**. The dashboard has no framework,
+backend API, or build step. Online deployment is prepared for GitHub Pages;
+**the repository owner must enable Pages** before a live URL can be claimed.
+
+All Conservative, Initial, and four-configuration artifacts below are preserved
+unchanged as historical evidence. Their selection and expert-review scope do not
+carry over to the new coarse-grained run. No expert responses are fabricated.
+
+## Historical: completed four-configuration tuning
 
 **24/24 fits completed** on the unchanged full corpus: Initial, Conservative,
 Fine-grained and Coarse-grained for both models, seeds 42/43/44.
@@ -18,19 +41,19 @@ highest-coherence or highest-coverage setting.
 - [Protocol, formulas, caveats and reproduction](docs/FOUR_CONFIGURATION_METHODS.md)
 - [Configurations](configs/four_configuration_tuning.json) · [Selection record](configs/four_configuration_selection.json)
 
-## Selected-run temporal topics
+## Historical Conservative temporal topics
 
-[Temporal tables and figures](artifacts/temporal_topics/) now use **Conservative,
+[Preserved temporal tables and figures](artifacts/temporal_topics/) use **Conservative,
 seed 42, for both models**: 107 lexical and 64 semantic topics. The package contains
 8 labeled PNGs, PDF/PPTX exports and complete temporal tables for all 171 topics.
-It reuses verified completed runs; no models were retrained during rendering.
+That historical package reuses verified completed runs; no models were retrained during its rendering.
 The previous Initial package is preserved at [temporal_topics_initial](artifacts/temporal_topics_initial/).
 See [the temporal graph guide](docs/TEMPORAL_TOPIC_GRAPHS.md) for parameters and provenance.
 
 The earlier presentation below is preserved as historical two-configuration
 research evidence; it is not the updated four-configuration report.
 
-## Expert validation — proposed protocol and questionnaire
+## Historical Conservative expert-validation protocol and questionnaire
 
 The [EV-1.0 revision package](docs/expert_validation/README.md) reviews the actual
 Chapter 3 in `CS_Undergraduate_Thesis_Template__Copy_-13.pdf`. It includes a

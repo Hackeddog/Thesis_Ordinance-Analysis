@@ -1,0 +1,56 @@
+{
+  "source": "results/experiments/clean_text_preparation/sections.csv",
+  "preparation": "results/experiments/clean_text_preparation",
+  "output": "results/experiments/coarse_grained_retrain_fresh",
+  "embedding_cache_source": null,
+  "baseline_experiment": "results/experiments/clean_text_full",
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "common": {
+    "encoder": "nlpaueb/legal-bert-base-uncased",
+    "encoder_revision": "15b570cbf88259610b082a167dacc190124f60f6",
+    "device": "cuda",
+    "batch_size": 4,
+    "max_tokens": 512,
+    "seed": 42,
+    "svd_components": 100,
+    "umap_components": 5,
+    "min_df": 1,
+    "max_df": 1.0,
+    "max_features": 50000,
+    "ngram_max": 1,
+    "top_words": 10,
+    "stopwords": "english",
+    "extra_stopwords": null,
+    "stability_runs": 1,
+    "skip_html": true
+  },
+  "trials": [
+    {
+      "name": "coarse_grained",
+      "neighbors": 30,
+      "min_dist": 0.1,
+      "min_cluster_size": 60,
+      "min_samples": 15,
+      "purpose": "Keep Conservative UMAP fixed; require larger and denser HDBSCAN clusters to test broad themes, merging, and exclusion of rare subjects."
+    }
+  ],
+  "selection_policy": "Coarse-grained selected by the research team for the active broad-theme analysis. This is a study decision, not proof of superiority or expert validation. Conservative results are retained unchanged as historical evidence.",
+  "interpretation": "Fresh TF-IDF/SVD, fresh frozen Legal-BERT inference, and six new UMAP/HDBSCAN fits (two models, seeds 42/43/44). No previous vectors or clustering assignments reused. Legal-BERT is not fine-tuned. Unchanged audited corpus, preprocessing and temporal window.",
+  "experiment_kind": "coarse_grained_retrain"
+}

@@ -4,6 +4,9 @@ venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+node_modules/
+test-results/
+playwright-report/
 *.egg-info/
 .ipynb_checkpoints/
 

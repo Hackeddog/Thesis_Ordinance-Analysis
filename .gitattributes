@@ -1,5 +1,12 @@
 # Preserve exact bytes in hash-audited experiment evidence across platforms.
 artifacts/four_configuration_tuning/** -text
+# Fresh-run and dashboard exports are byte-bound by their manifests.
+artifacts/coarse_grained_retrain/** -text whitespace=cr-at-eol
+artifacts/temporal_topics_coarse_grained/** -text whitespace=cr-at-eol
+dashboard/data/** -text whitespace=cr-at-eol
+dashboard/downloads/** -text whitespace=cr-at-eol
+configs/temporal_topic_titles_coarse_grained.json -text
+scripts/build_temporal_graphs.py -text
 # Preserve the source/export hashes for the expert-review document package.
 artifacts/expert_validation/** -text
 docs/expert_validation/** -text
