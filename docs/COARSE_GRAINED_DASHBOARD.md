@@ -128,5 +128,8 @@ bun run dev
 ```
 
 See [dashboard/README.md](../dashboard/README.md) for VS Code F5 setup and online
-hosting. GitHub Pages requires repository-owner setup; the contributor account's
-push permission does not grant the authority to enable Pages.
+hosting. The public site is now live at
+**https://edmcorpuz.github.io/davao-ordinance-observatory/** using a separate,
+dashboard-only repository owned by the contributor. No login or local server is
+needed. The original thesis repository still needs its owner's permission to enable
+Pages there; its branch does not automatically sync to the separate live site.

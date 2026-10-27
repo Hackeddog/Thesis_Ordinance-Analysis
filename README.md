@@ -20,8 +20,15 @@ fine-tuned. This is a research-team choice, not an expert-validated superiority 
 
 Open this repository in VS Code and press **F5 → Dashboard: open in Edge**, or run
 `bun run dev` and visit **http://127.0.0.1:3000**. The dashboard has no framework,
-backend API, or build step. Online deployment is prepared for GitHub Pages;
-**the repository owner must enable Pages** before a live URL can be claimed.
+backend API, or build step.
+
+**Public dashboard — no login or installation:**
+[https://edmcorpuz.github.io/davao-ordinance-observatory/](https://edmcorpuz.github.io/davao-ordinance-observatory/)
+
+The live site is a read-only snapshot hosted in the separate
+[dashboard-only repository](https://github.com/edmcorpuz/davao-ordinance-observatory).
+It remains available when the research computer is off. Updates to this research
+branch do not automatically update the published snapshot; see the dashboard guide.
 
 All Conservative, Initial, and four-configuration artifacts below are preserved
 unchanged as historical evidence. Their selection and expert-review scope do not

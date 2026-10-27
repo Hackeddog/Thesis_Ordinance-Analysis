@@ -77,11 +77,38 @@ Chromium is installed through Playwright; the suite drives it through Bun's nati
 WebSocket/CDP support to avoid Windows Node-pipe compatibility problems. Axe runs
 inside the real browser. JavaScript tooling still runs on Bun, not Node.
 
-## Publish online — repository owner action required
+## Live public dashboard
 
-The current authenticated contributor can push code but does **not** have
-repository-admin permission. A live deployment cannot be claimed until the owner
-enables GitHub Pages.
+**Share this link with your teammate or legal expert:**
+
+**https://edmcorpuz.github.io/davao-ordinance-observatory/**
+
+No login, installation, or running local computer is required. The HTTPS site is
+read-only and works on desktop and phone browsers. Its topic labels remain drafts;
+sharing the site does not imply expert validation has been completed.
+
+The published snapshot is hosted in
+[edmcorpuz/davao-ordinance-observatory](https://github.com/edmcorpuz/davao-ordinance-observatory),
+a separate public repository containing only the interface and compact exported
+results. It excludes raw ordinance text, training caches, and private reviewer data.
+The initial published interface/data snapshot is from research commit `7739bdc`.
+
+To update the live site, validate the new research export, then copy only
+`index.html`, `styles.css`, `app.js`, `data-utils.js`, `data/`, and `downloads/` into
+the hosting repository. Retain its `.nojekyll` and `.gitattributes`, update its
+source-revision README, and push to `main`. Pages redeploys automatically. These
+two repositories do **not** sync automatically. Do not publish reviewer identities
+or completed feedback in either public repository.
+
+The live HTML, JSON data, and PDF were fetched without authentication and checked
+byte-for-byte against the verified local publication. A fresh Chromium profile
+also passed desktop/mobile model and year controls, layout, and axe A/AA checks.
+
+## Optional: host under the original thesis repository
+
+The current contributor lacks admin permission on `Hackeddog/Thesis_Ordinance-Analysis`.
+Its owner can enable a second deployment there using the instructions below.
+This is **not required** to use the already-live link above.
 
 1. Confirm there is no existing Pages site that should be preserved.
 2. In **Settings → Pages → Build and deployment**, choose **GitHub Actions**.

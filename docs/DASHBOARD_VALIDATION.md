@@ -33,7 +33,27 @@ representativeness, causal interpretation, or expert approval.
 
 ## Deployment status
 
-The branch is prepared for GitHub Pages; **local browser verification is not an
-online deployment**. The contributor account has push access but not repository-admin
-permission. The owner must enable Pages and set `ENABLE_DASHBOARD_PAGES=true` before
-the deploy job runs. See [dashboard setup](../dashboard/README.md).
+**Live:** https://edmcorpuz.github.io/davao-ordinance-observatory/
+
+Hosted from `main` in the separate `edmcorpuz/davao-ordinance-observatory` repository.
+HTTPS is enforced. No authentication or local running process is required.
+
+Public-site verification (not only localhost):
+- HTTP 200 for the HTML, JSON dataset, and PDF; SHA-256 hashes match local exports.
+- Fresh, unauthenticated Chromium profile at 1440px and 390px widths.
+- Model/year controls, real loaded data, eight heatmap rows, and no horizontal overflow.
+- No uncaught page errors and no axe WCAG A/AA violations in those views.
+
+The original thesis repository's Pages workflow still requires its owner's opt-in;
+that permission limitation is bypassed by using the contributor-owned hosting repo,
+not by changing the original repository's permissions. See [dashboard setup](../dashboard/README.md).
+
+## Cross-platform evidence checksum correction
+
+The first Linux Python CI run exposed four historical Initial-source CSVs whose
+CRLF bytes had been normalized to LF by Git. The local originals still matched the
+archived SHA-256 manifest. Git attributes now preserve those exact original bytes.
+All four indexed files were verified against the existing manifest, and normalized
+CSV content was compared with the previous commit: only line endings changed,
+not measurements or labels. All 16 temporal regression tests passed locally after
+the correction. Historical Conservative results and all new model results are unchanged.
