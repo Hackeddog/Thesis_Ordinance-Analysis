@@ -1,4 +1,7 @@
 # Preserve exact bytes in hash-audited experiment evidence across platforms.
+# The Initial archive fingerprints these original CRLF source tables.
+artifacts/clean_text_full/evidence/*/document_weighted_prevalence.csv -text whitespace=cr-at-eol
+artifacts/clean_text_full/evidence/*/topic_keywords.csv -text whitespace=cr-at-eol
 artifacts/four_configuration_tuning/** -text
 # Fresh-run and dashboard exports are byte-bound by their manifests.
 artifacts/coarse_grained_retrain/** -text whitespace=cr-at-eol
