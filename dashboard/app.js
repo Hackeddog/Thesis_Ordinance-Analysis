@@ -126,6 +126,34 @@ function renderComposition() {
   replace('#composition', track, list);
 }
 
+function renderCatalog() {
+  const selected = model();
+  const topics = [...selected.topics].sort((a, b) => a.id - b.id);
+  $('#catalog-model').value = state.model;
+  $('#catalog-count').textContent = `${topics.length} topics · ${selected.name} · seed ${data.seed} · full 2016–2025 run`;
+  const caption = el('caption', '', `${selected.name}: all ${topics.length} identified topics and their complete clustered_words.`);
+  const head = el('thead'), header = el('tr');
+  ['Topic number', 'Proposed topic title (draft)', 'clustered_words', 'Dashboard review'].forEach(label => {
+    const th = el('th', '', label); th.scope = 'col'; header.append(th);
+  });
+  head.append(header);
+  const body = el('tbody');
+  topics.forEach(topic => {
+    const row = el('tr'); row.dataset.topic = topic.id;
+    const id = el('th', 'catalog-id', topic.id); id.scope = 'row';
+    const title = el('td', 'catalog-topic-title', topic.title);
+    const words = el('td', 'catalog-words', topic.keywords.join('; '));
+    const action = el('td');
+    const button = el('button', '', 'View annual pattern');
+    button.type = 'button';
+    button.setAttribute('aria-label', `View annual pattern for ${selected.name} topic ${topic.id}: ${topic.title}`);
+    button.addEventListener('click', () => chooseTopic(topic.id, true));
+    action.append(button);
+    row.append(id, title, words, action); body.append(row);
+  });
+  replace('#catalog-table', caption, head, body);
+}
+
 function renderTopicList() {
   const filtered = filterTopics(model().topics, state.query, state.category);
   const pages = Math.max(1, Math.ceil(filtered.length / pageSize));
@@ -230,7 +258,7 @@ function setModel(key) {
   replace('#category-filter', all, ...[...new Set(model().topics.map(topic => topic.category))].sort().map(category => {
     const option = el('option', '', category[0].toUpperCase() + category.slice(1)); option.value = category; return option;
   }));
-  renderOverview(); renderTopic();
+  renderOverview(); renderTopic(); renderCatalog();
 }
 
 function installNavigation() {
@@ -255,6 +283,7 @@ async function init() {
     $('#year-filter').value = String(state.year);
     $('#year-filter').addEventListener('change', event => setYear(Number(event.target.value)));
     document.querySelectorAll('[data-model]').forEach(button => button.addEventListener('click', () => setModel(button.dataset.model)));
+    $('#catalog-model').addEventListener('change', event => setModel(event.target.value));
     $('#topic-search').addEventListener('input', event => { state.query = event.target.value; state.page = 0; renderTopicList(); });
     $('#category-filter').addEventListener('change', event => { state.category = event.target.value; state.page = 0; renderTopicList(); });
     $('#previous-page').addEventListener('click', () => { state.page--; renderTopicList(); });

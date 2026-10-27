@@ -11,6 +11,7 @@ const axeSource = await readFile(require.resolve('axe-core/axe.min.js'), 'utf8')
 const out = resolve(import.meta.dir, '../test-results/dashboard');
 await mkdir(out, { recursive: true });
 const server = createServer({ port: 0 });
+const data = JSON.parse(await readFile(resolve(import.meta.dir, '../dashboard/data/results.json'), 'utf8'));
 let session, nested;
 try {
   session = await launchTestBrowser();
@@ -58,6 +59,17 @@ try {
     await evaluate(`(()=>{const e=${query(selector)};e.value=${JSON.stringify(value)};e.dispatchEvent(new Event(${JSON.stringify(type)},{bubbles:true}));})()`);
   }
   async function text(selector) { return evaluate(`${query(selector)}.textContent`); }
+  async function catalogMatches(key) {
+    const rows = await evaluate(`Array.from(document.querySelectorAll('#catalog-table tbody tr'), row => ({
+      id: Number(row.cells[0].textContent), title: row.cells[1].textContent, words: row.cells[2].textContent
+    }))`);
+    const expected = [...data.models[key].topics].sort((a, b) => a.id - b.id).map(topic => ({
+      id: topic.id, title: topic.title, words: topic.keywords.join('; ')
+    }));
+    assert.deepEqual(rows, expected, `${key}: all original topic IDs, titles and complete keywords`);
+    assert.equal(await evaluate(`${query('#catalog-model')}.value`), key);
+    assert.match(await text('#catalog-count'), new RegExp(`${expected.length} topics`));
+  }
   async function accessibility(label) {
     await evaluate(axeSource);
     const violations = await evaluate(`axe.run(document,{runOnly:{type:'tag',values:['wcag2a','wcag2aa','wcag21aa']}}).then(r=>r.violations.map(v=>({id:v.id,impact:v.impact,targets:v.nodes.map(n=>n.target)})))`);
@@ -72,12 +84,36 @@ try {
   await accessibility('desktop');
   console.log('PASS: loaded real data and desktop accessibility.');
 
+  await click('.sidebar nav a[href="#topic-catalog"]');
+  await catalogMatches('semantic');
+  await evaluate(`${query('#topic-catalog')}.scrollIntoView({behavior:'instant'})`);
+  await screenshot('desktop-catalog.png');
+  await change('#catalog-model', 'lexical');
+  await catalogMatches('lexical');
+  assert.match(await text('#heatmap-model'), /Lexical/);
+  assert.equal(await evaluate(`${query('[data-model="lexical"]')}.getAttribute('aria-pressed')`), 'true');
+  await change('#catalog-model', 'semantic');
+  await change('#topic-search', 'zzzz-unmatched', 'input');
+  await change('#category-filter', 'procedural');
+  await catalogMatches('semantic');
+  const lastTopic = [...data.models.semantic.topics].sort((a, b) => a.id - b.id).at(-1);
+  await click('#catalog-table tbody tr:last-child button');
+  assert.equal(await text('#topic-title'), lastTopic.title);
+  assert.equal(await text('#topic-id'), `${data.models.semantic.name} · T${lastTopic.id}`);
+  assert.equal(await evaluate(`document.activeElement === ${query('#topic-title')}`), true);
+  assert.equal(await evaluate(`${query('#topic-search')}.value`), '');
+  assert.equal(await evaluate(`${query('#category-filter')}.value`), 'all');
+  assert.equal(await evaluate(`${query('.topic-choice[aria-pressed="true"]')}.dataset.topic`), String(lastTopic.id));
+  console.log('PASS: full catalog, original IDs/keywords, representation sync, filter independence and annual-pattern links.');
+
   await click('[data-model="lexical"]');
+  await catalogMatches('lexical');
   assert.match(await text('#heatmap-model'), /Lexical/);
   await change('#year-filter', '2025');
   assert.match(await text('#selection-summary'), /32 source documents/);
   assert.match(await text('#composition-year'), /2025/);
   assert.match(await text('#topic-buttons'), /in 2025/);
+  await catalogMatches('lexical');
   await change('#topic-search', 'zzzz-unmatched', 'input');
   assert.match(await text('#topic-count'), /0 of/);
   assert.match(await text('#topic-buttons'), /No topics match/);
@@ -119,6 +155,11 @@ try {
     await screenshot(`responsive-${width}.png`);
     await screenshot(`responsive-${width}-full.png`, true);
     await accessibility(`${width}px`);
+    await catalogMatches('semantic');
+    await evaluate(`${query('#topic-catalog')}.scrollIntoView({behavior:'instant'})`);
+    await screenshot(`responsive-${width}-catalog.png`);
+    assert.equal(await evaluate(`${query('.catalog-scroll')}.scrollWidth > ${query('.catalog-scroll')}.clientWidth`), true, 'Catalog scrolls inside its panel');
+    assert.equal(await evaluate(`getComputedStyle(${query('.catalog-words')}).whiteSpace`), 'normal', 'Keywords wrap without truncation');
   }
   console.log('PASS: PDF bytes, mobile/tablet layouts and accessibility.');
 
@@ -130,6 +171,12 @@ try {
   } });
   await navigate(new URL('/Thesis_Ordinance-Analysis/index.html', nested.url).toString());
   assert.match(await text('#heatmap-model'), /Legal-BERT/);
+  await catalogMatches('semantic');
+  const catalogLink = await evaluate(`${query('.catalog-download')}.href`);
+  assert.ok(new URL(catalogLink).pathname.startsWith('/Thesis_Ordinance-Analysis/downloads/'));
+  const catalogResponse = await fetch(catalogLink);
+  assert.equal(catalogResponse.status, 200);
+  assert.equal(await catalogResponse.text(), await readFile(resolve(import.meta.dir, '../dashboard/downloads/all_topic_titles.csv'), 'utf8'));
   await cdp.send('Fetch.enable', { patterns: [{ urlPattern: '*/data/results.json', requestStage: 'Request' }] });
   cdp.on('Fetch.requestPaused', event => {
     cdp.send('Fetch.fulfillRequest', { requestId: event.requestId, responseCode: 503, body: btoa('Unavailable') }).catch(error => errors.push(error.message));

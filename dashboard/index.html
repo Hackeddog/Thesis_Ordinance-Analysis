@@ -17,9 +17,10 @@
   <nav aria-label="Main navigation">
     <a href="#overview"><span aria-hidden="true">01</span> Overview</a>
     <a href="#topics"><span aria-hidden="true">02</span> Topic explorer</a>
-    <a href="#models"><span aria-hidden="true">03</span> Model evidence</a>
-    <a href="#methodology"><span aria-hidden="true">04</span> Methodology</a>
-    <a href="#downloads"><span aria-hidden="true">05</span> Downloads</a>
+    <a href="#topic-catalog"><span aria-hidden="true">03</span> Topic catalog</a>
+    <a href="#models"><span aria-hidden="true">04</span> Model evidence</a>
+    <a href="#methodology"><span aria-hidden="true">05</span> Methodology</a>
+    <a href="#downloads"><span aria-hidden="true">06</span> Downloads</a>
   </nav>
   <div class="sidebar-note"><span class="small-tag">THESIS RESEARCH</span><p>From ordinance text<br>to temporal insight.</p><small>2016–2025 · Davao City<br>Descriptive archive analysis</small></div>
 </aside>
@@ -68,6 +69,20 @@
             <details><summary>View exact annual values</summary><div class="table-scroll"><table id="trajectory-table" class="data-table"></table></div></details>
             <p class="footnote">Lines connect annual observations. A peak does not establish significance, legal importance, or a causal policy change. Identical topic IDs in different models do not identify the same subject.</p>
           </article>
+        </div>
+      </section>
+      <section id="topic-catalog" aria-labelledby="catalog-title">
+        <div class="section-heading"><div><p class="eyebrow">REFERENCE FOR EXPERT VALIDATION</p><h2 id="catalog-title" class="section-title">Complete topic catalog</h2><p>All identified topics for the selected representation, in topic-number order. No pagination, hidden keywords, or Topic explorer filters.</p></div><span class="pill">Draft labels · expert review pending</span></div>
+        <div class="panel">
+          <div class="toolbar catalog-toolbar">
+            <label class="year-control" for="catalog-model">Catalog representation<select id="catalog-model"><option value="semantic">Legal-BERT · Model B</option><option value="lexical">Lexical · Model A</option></select></label>
+            <p id="catalog-count" class="toolbar-note" aria-live="polite"></p>
+            <a class="catalog-download" href="downloads/all_topic_titles.csv" download>Download full catalog · both models (CSV) ↗</a>
+          </div>
+          <div class="notice subtle" id="catalog-guidance"><strong>Preparing the questionnaire?</strong> Use Legal-BERT for the Legal-BERT questionnaire. Copy the original topic number and proposed title below; <code>clustered_words</code> are the model's keywords, preserved in their exported order. Labels are not yet expert validated. Topic numbers are model-specific and are not renumbered; outlier −1 is not an identified topic. Review the separately supplied ordinance excerpts as well as the annual pattern.</div>
+          <div class="table-scroll catalog-scroll" role="region" aria-label="Complete topic catalog table" tabindex="0">
+            <table id="catalog-table" class="data-table catalog-table" aria-describedby="catalog-guidance"></table>
+          </div>
         </div>
       </section>
       <section id="models" aria-labelledby="models-title">
